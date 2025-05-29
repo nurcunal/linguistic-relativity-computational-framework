@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;big;silent;quiet;open;cold
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,courage,great;true;real;strong;quiet;big;silent;open;deep;new
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,fear,great;deep;real;strong;sudden;big;silent;open;cold;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,freedom,true;real;great;full;new;big;open;complete;total;personal
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,happiness,great;real;true;full;deep;big;simple;quiet;open;complete
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,hate,deep;great;real;strong;open;big;cold;silent;quiet;true
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,honesty,true;real;great;complete;open;simple;full;big;deep;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,justice,true;real;great;complete;open;simple;full;big;deep;fair
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,knowledge,great;deep;real;true;full;big;complete;open;new;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,love,true;real;great;deep;strong;big;open;full;simple;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,peace,true;real;great;deep;full;big;open;quiet;complete;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Abstract Concepts,wisdom,great;deep;real;true;full;big;complete;open;simple;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;quiet;round;heavy
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,candle,small;big;white;red;old;new;long;short;thin;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;soft;thick;long;clean
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;clean;shiny
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,crown,gold;silver;big;small;old;new;heavy;light;beautiful;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;red;blue;white;green;national;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,mask,big;small;old;new;white;black;red;simple;strange;funny
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,necklace,gold;silver;big;small;old;new;long;short;beautiful;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;simple;famous;modern;classic;colorful
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,ring,gold;silver;big;small;old;new;round;simple;beautiful;shiny
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;white;stone;gold;silver;famous;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;red;simple;beautiful;round
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,cloud,big;small;white;dark;gray;light;high;low;soft;thick
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;deep;fast;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,fog,thick;light;white;gray;heavy;cold;morning;night;soft;low
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,lightning,bright;strong;fast;sudden;white;big;loud;real;quick;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,rain,heavy;light;strong;soft;cold;warm;big;small;sudden;real
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,rainbow,big;small;bright;beautiful;colorful;real;new;clear;full;high
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;deep;fresh;clean;new;thick
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,storm,big;small;strong;heavy;sudden;real;great;loud;dark;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,thunder,loud;strong;big;sudden;real;deep;heavy;great;quick;dark
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,tide,high;low;strong;big;small;fast;slow;real;sudden;deep
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;quiet;strong;real;dangerous;high
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;big;small;fast;slow;soft;real
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;juicy;ripe;soft
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,banana,yellow;big;small;ripe;sweet;fresh;soft;long;green;old
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,beef,fresh;cooked;raw;soft;hard;red;brown;big;small;hot
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,bread,fresh;old;white;brown;soft;hard;big;small;warm;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;healthy;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;big;small;strong;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,chicken,cooked;raw;fresh;big;small;white;brown;soft;hard;hot
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,egg,big;small;white;brown;fresh;cooked;raw;hard;soft;round
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;red;soft;hard;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,pasta,cooked;raw;hot;cold;soft;hard;big;small;simple;fresh
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;simple;fresh
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Food Items,soup,hot;cold;fresh;simple;big;small;thick;thin;clear;warm
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,artist,famous;young;old;new;great;good;big;small;modern;creative
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,athlete,strong;young;old;new;great;good;big;small;fast;famous
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,chef,good;great;famous;young;old;new;big;small;creative;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,doctor,good;great;young;old;new;famous;big;small;kind;smart
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,engineer,good;great;young;old;new;smart;big;small;famous;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,farmer,good;old;young;new;great;big;small;simple;hard;kind
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,lawyer,good;great;young;old;new;smart;big;small;famous;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,musician,good;great;young;old;new;famous;big;small;creative;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,scientist,good;great;young;old;new;smart;big;small;famous;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,soldier,strong;brave;young;old;new;good;great;big;small;famous
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,teacher,good;great;young;old;new;kind;big;small;smart;famous
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Human Roles,writer,good;great;young;old;new;famous;big;small;creative;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,book,big;small;old;new;good;great;famous;simple;long;short
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,drums,big;small;old;new;loud;quiet;simple;round;strong;famous
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,earth,big;small;round;old;new;green;blue;brown;beautiful;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,flute,small;big;old;new;long;short;simple;silver;wooden;famous
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,key,small;big;old;new;silver;gold;simple;round;long;short
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;simple;strong
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;simple;silver;gold;round;hard
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,moon,full;new;big;small;white;round;bright;clear;beautiful;high
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;long;short
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,sun,big;small;bright;hot;yellow;round;high;strong;clear;warm
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Inanimate Objects,sword,sharp;big;small;old;new;long;short;silver;strong;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,cat,small;big;young;old;black;white;gray;cute;soft;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,dog,big;small;young;old;black;white;brown;friendly;strong;cute
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,dolphin,big;small;young;old;smart;friendly;fast;gray;blue;cute
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;friendly;smart;heavy;cute
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,hamster,small;big;young;old;cute;brown;white;soft;friendly;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,monkey,small;big;young;old;smart;funny;brown;friendly;fast;cute
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,mouse,small;big;young;old;gray;white;cute;quiet;fast;soft
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,peacock,big;small;young;old;colorful;blue;green;beautiful;bright;proud
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,rabbit,small;big;young;old;white;brown;cute;soft;fast;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,shark,big;small;young;old;strong;fast;gray;white;dangerous;real
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,snake,long;short;big;small;young;old;green;brown;dangerous;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Neutral Animals,whale,big;small;young;old;blue;gray;strong;friendly;heavy;real
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,city,big;small;old;new;busy;quiet;modern;famous;beautiful;clean
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,desert,big;small;hot;dry;old;new;empty;open;quiet;sandy
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,forest,big;small;old;new;green;dark;deep;quiet;thick;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,island,big;small;old;new;green;quiet;beautiful;famous;open;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,lake,big;small;deep;clear;blue;old;new;quiet;beautiful;round
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,mountain,big;small;high;low;old;new;green;quiet;beautiful;famous
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,ocean,big;small;deep;blue;old;new;open;quiet;beautiful;strong
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,plain,big;small;open;green;flat;quiet;old;new;simple;wide
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,plateau,big;small;high;low;old;new;flat;open;quiet;wide
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,river,big;small;long;short;deep;clear;blue;old;new;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,valley,big;small;deep;green;quiet;old;new;open;beautiful;wide
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Places,village,small;big;old;new;quiet;simple;beautiful;friendly;clean;open
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,cactus,green;big;small;old;new;tall;short;simple;dry;sharp
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,eggplant,purple;big;small;old;new;fresh;long;short;soft;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;blue;fresh;simple;open
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,grass,green;long;short;soft;thick;fresh;small;big;simple;dry
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,lettuce,green;fresh;big;small;old;new;soft;simple;clean;healthy
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,mushroom,small;big;white;brown;fresh;old;soft;simple;round;wild
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,onion,big;small;white;red;fresh;old;round;simple;strong;soft
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;old;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,potato,big;small;old;new;white;brown;fresh;soft;hard;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;small;big;fresh;open;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,tomato,red;big;small;fresh;old;round;soft;simple;ripe;juicy
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Plants,tree,big;small;old;new;green;tall;short;strong;thick;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,ally,good;strong;true;real;old;new;big;small;close;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,brother,big;small;young;old;good;true;real;close;strong;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,enemy,strong;real;true;big;small;old;new;open;close;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,father,good;old;young;big;small;strong;true;real;kind;close
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,follower,true;real;good;strong;old;new;big;small;close;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,friend,good;true;real;old;new;close;best;big;small;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,leader,strong;good;true;real;old;new;big;small;great;smart
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,mother,good;old;young;big;small;kind;true;real;close;strong
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,partner,good;true;real;old;new;big;small;close;strong;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,rival,strong;real;true;big;small;old;new;open;close;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,sister,big;small;young;old;good;true;real;close;kind;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Social Relationships,stranger,real;true;new;old;big;small;open;close;quiet;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,above,high;open;clear;real;true;big;small;new;old;close
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,back,strong;real;true;big;small;old;new;open;close;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,below,low;open;clear;real;true;big;small;new;old;close
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,east,far;open;clear;real;true;big;small;new;old;close
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,front,open;clear;real;true;big;small;new;old;close;strong
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,inside,open;clear;real;true;big;small;new;old;close;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,left,open;clear;real;true;big;small;new;old;close;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,north,far;open;clear;real;true;big;small;new;old;close
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,outside,open;clear;real;true;big;small;new;old;close;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,right,open;clear;real;true;big;small;new;old;close;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,south,far;open;clear;real;true;big;small;new;old;close
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Spatial Concepts,west,far;open;clear;real;true;big;small;new;old;close
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,century,new;old;long;short;big;small;real;true;great;past
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,day,new;old;long;short;big;small;good;bad;hot;cold
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,evening,long;short;quiet;good;bad;new;old;dark;cool;warm
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,hour,long;short;new;old;big;small;good;bad;quiet;busy
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,minute,long;short;new;old;big;small;good;bad;quiet;busy
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,month,new;old;long;short;big;small;good;bad;quiet;busy
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,morning,early;late;new;old;long;short;good;bad;quiet;busy
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,night,long;short;dark;quiet;new;old;good;bad;cold;warm
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,season,new;old;long;short;big;small;hot;cold;dry;wet
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,second,long;short;new;old;big;small;good;bad;quiet;busy
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,week,new;old;long;short;big;small;good;bad;quiet;busy
+gpt-4.1,basic,0.0,PT # Portuguese,B1,most frequent,Time Concepts,year,new;old;long;short;big;small;good;bad;quiet;busy
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;silent;open;cold;quick;wild
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,courage,great;real;true;strong;quiet;moral;personal;much;little;brave
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;little;open;silent;cold;quick
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,freedom,personal;complete;full;real;political;great;true;total;much;new
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,happiness,great;real;true;much;complete;full;deep;simple;quiet;personal
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,hate,deep;great;real;strong;open;cold;sudden;silent;true;much
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,honesty,real;true;complete;great;personal;open;simple;much;full;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,justice,real;true;social;great;complete;open;moral;much;full;quick
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,knowledge,great;deep;real;much;personal;full;true;complete;new;little
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,love,true;real;great;deep;much;first;new;strong;open;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,peace,real;true;great;complete;full;much;new;quiet;personal;deep
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Abstract Concepts,wisdom,great;real;true;deep;much;old;personal;full;complete;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;heavy;round;metal
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;thin;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;soft;thick;long;clean
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;clean;shiny
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,crown,golden;big;small;old;new;heavy;beautiful;rich;royal;bright
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,flag,national;big;small;old;new;red;blue;white;green;colorful
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,mask,old;new;big;small;white;black;red;simple;strange;colorful
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;long;short;beautiful;simple;big;small
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;simple;colorful;modern;classic
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,ring,gold;silver;old;new;big;small;round;simple;beautiful;shiny
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;famous;beautiful;tall;white
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;simple;beautiful;round;clean
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,cloud,white;big;small;dark;gray;light;high;low;soft;thick
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;quick;great;deep;natural
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,fog,thick;light;white;gray;heavy;cold;morning;low;soft;wet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,lightning,bright;quick;strong;sudden;white;big;loud;real;natural;fast
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,rain,heavy;light;strong;cold;warm;soft;quick;sudden;real;much
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,rainbow,beautiful;big;small;bright;colorful;real;new;high;long;rare
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;deep;fresh;clean;new;thick
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;quick;real;cold;loud;great;dark
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,thunder,loud;strong;big;sudden;quick;real;heavy;deep;great;dark
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,tide,high;low;strong;big;small;quick;sudden;real;natural;deep
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;quiet;strong;real;high;natural
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;quick;sudden;real;soft;big;natural
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;ripe;juicy;new
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,banana,yellow;ripe;big;small;sweet;fresh;long;soft;new;green
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,beef,fresh;cooked;raw;red;soft;hard;big;small;hot;cold
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,bread,fresh;white;brown;soft;hard;big;small;new;old;warm
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;new;healthy
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;big;small;new;strong
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,chicken,cooked;raw;fresh;big;small;white;brown;hot;cold;soft
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,egg,fresh;raw;cooked;white;brown;big;small;new;hard;soft
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;red;soft;new;cold
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,pasta,cooked;fresh;hot;cold;soft;hard;white;big;small;new
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;fresh;new
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Food Items,soup,hot;cold;fresh;new;big;small;thick;thin;simple;warm
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,artist,young;old;famous;new;great;good;modern;creative;talented;real
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,athlete,young;old;strong;fast;good;great;new;famous;tall;fit
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,chef,good;great;young;old;famous;new;creative;talented;real;skilled
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,doctor,good;great;young;old;new;famous;real;kind;skilled;busy
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,engineer,good;great;young;old;new;skilled;real;smart;busy;talented
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,farmer,good;old;young;great;new;real;hard;busy;simple;strong
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,lawyer,good;great;young;old;new;real;busy;smart;famous;skilled
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,musician,good;great;young;old;new;famous;real;talented;creative;busy
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,scientist,good;great;young;old;new;real;smart;famous;busy;skilled
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,soldier,good;great;young;old;new;strong;real;brave;busy;skilled
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,teacher,good;great;young;old;new;real;kind;busy;smart;skilled
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Human Roles,writer,good;great;young;old;new;famous;real;creative;talented;busy
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,book,old;new;big;small;good;great;famous;simple;long;short
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;wide
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,drums,big;small;old;new;loud;soft;round;simple;red;white
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;real;small;beautiful;rich
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,flute,small;long;short;old;new;silver;simple;white;soft;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,key,small;big;old;new;silver;gold;simple;round;real;metal
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;simple;metal
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,lock,small;big;old;new;strong;simple;silver;gold;round;metal
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,moon,full;new;big;small;white;round;bright;high;beautiful;real
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;long;short
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,sun,big;bright;hot;round;yellow;high;strong;real;new;warm
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Inanimate Objects,sword,sharp;big;small;old;new;long;short;silver;strong;metal
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,cat,small;big;young;old;black;white;gray;cute;soft;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,dog,big;small;young;old;black;white;brown;friendly;strong;cute
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,dolphin,big;small;young;old;smart;friendly;fast;gray;blue;playful
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;wild;friendly;smart;heavy
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,hamster,small;big;young;old;cute;brown;white;soft;friendly;quick
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,monkey,small;big;young;old;smart;funny;quick;brown;friendly;wild
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,mouse,small;big;young;old;gray;white;quick;cute;quiet;soft
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,peacock,big;small;young;old;colorful;blue;green;beautiful;bright;proud
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,rabbit,small;big;young;old;white;gray;cute;quick;soft;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,shark,big;small;young;old;strong;fast;gray;white;wild;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,snake,long;short;big;small;young;old;green;quick;wild;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Neutral Animals,whale,big;small;young;old;blue;gray;strong;friendly;wild;heavy
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,city,big;small;old;new;busy;modern;quiet;rich;poor;famous
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,desert,big;small;hot;dry;old;new;empty;open;wide;sandy
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,forest,big;small;old;new;green;dark;deep;wild;quiet;thick
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,island,big;small;old;new;green;quiet;beautiful;far;near;wild
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,lake,big;small;deep;old;new;blue;quiet;clear;round;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,mountain,big;small;high;low;old;new;green;white;tall;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,ocean,big;small;deep;blue;old;new;wild;open;quiet;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,plain,big;small;wide;open;green;flat;old;new;quiet;empty
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,plateau,big;small;high;low;old;new;flat;wide;open;dry
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,river,big;small;long;short;deep;old;new;blue;quiet;clear
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,valley,big;small;deep;green;old;new;quiet;wide;open;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Places,village,small;big;old;new;quiet;simple;poor;rich;far;near
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,cactus,green;big;small;old;new;tall;short;wild;dry;sharp
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,eggplant,purple;big;small;fresh;old;new;long;round;soft;healthy
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;blue;fresh;new;simple
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,grass,green;long;short;soft;fresh;new;old;thick;wild;dry
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;healthy;round;clean
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,mushroom,small;big;white;brown;fresh;old;new;soft;wild;round
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,onion,big;small;white;red;fresh;old;new;round;strong;sweet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,pepper,red;green;yellow;big;small;fresh;hot;sweet;new;round
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,potato,big;small;white;brown;fresh;old;new;round;soft;hard
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;new;old;big;small
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,tomato,red;big;small;fresh;old;new;round;soft;sweet;ripe
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Plants,tree,big;small;old;new;green;tall;short;strong;wild;young
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,ally,good;strong;true;real;old;new;close;loyal;friendly;great
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,brother,big;small;young;old;good;true;real;close;strong;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,enemy,old;new;strong;real;true;big;small;great;open;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,father,good;old;young;real;true;strong;kind;great;close;new
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,follower,good;true;real;strong;old;new;close;loyal;young;great
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,friend,good;true;real;old;new;close;best;young;great;loyal
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,leader,good;strong;true;real;old;new;great;young;smart;famous
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,mother,good;old;young;real;true;kind;great;close;strong;new
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,partner,good;true;real;old;new;close;strong;great;loyal;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,rival,old;new;strong;real;true;big;small;great;open;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,sister,big;small;young;old;good;true;real;close;strong;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Social Relationships,stranger,new;real;true;old;young;close;open;quiet;simple;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,above,high;open;clear;bright;blue;wide;far;near;empty;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,back,big;small;strong;old;new;hard;soft;wide;long;short
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,below,low;deep;dark;quiet;open;cold;far;near;empty;soft
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,east,far;near;open;big;small;new;old;bright;quiet;clear
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,front,big;small;open;wide;new;old;clear;bright;strong;close
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,inside,small;big;quiet;dark;warm;cold;new;old;open;close
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,left,open;free;quiet;big;small;new;old;close;clear;wide
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,north,far;near;cold;open;big;small;new;old;quiet;clear
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,outside,open;big;small;quiet;new;old;free;clear;wide;bright
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,right,open;free;quiet;big;small;new;old;close;clear;wide
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,south,far;near;warm;open;big;small;new;old;quiet;clear
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Spatial Concepts,west,far;near;open;big;small;new;old;bright;quiet;clear
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,century,new;old;last;next;great;long;short;big;small;modern
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;busy;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,evening,long;short;quiet;good;bad;new;old;warm;cold;dark
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,hour,long;short;new;old;last;next;good;bad;busy;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,minute,long;short;new;old;last;next;good;bad;busy;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,month,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,morning,early;late;new;old;good;bad;quiet;busy;warm;cold
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,night,long;short;dark;quiet;good;bad;new;old;cold;warm
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,season,new;old;last;next;long;short;good;bad;hot;cold
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,second,long;short;new;old;last;next;good;bad;quick;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,week,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,B2,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;open;silent;cold;burning;wild
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,courage,great;true;real;moral;quiet;personal;physical;inner;strong;brave
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;constant;silent;open;cold;wild
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,freedom,personal;complete;total;real;political;true;full;great;individual;economic
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,happiness,great;real;true;complete;pure;simple;deep;full;personal;perfect
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,hate,deep;strong;real;open;great;cold;silent;burning;wild;pure
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,honesty,true;real;complete;great;personal;simple;open;full;perfect;moral
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,justice,true;real;social;great;equal;fair;complete;moral;legal;perfect
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,knowledge,great;deep;real;true;complete;personal;full;wide;perfect;general
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,love,true;real;great;deep;pure;strong;perfect;first;simple;personal
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,peace,true;real;great;complete;perfect;inner;lasting;long;personal;world
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Abstract Concepts,wisdom,great;true;real;deep;old;ancient;personal;practical;simple;perfect
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;clear;heavy;round
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;thin;tall
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;green;soft;thick;clean
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;shiny;ancient
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,crown,golden;silver;old;new;big;small;royal;beautiful;heavy;rich
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,flag,national;red;blue;white;green;old;new;big;small;colorful
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,mask,old;new;white;black;red;big;small;scary;beautiful;simple
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;beautiful;long;short;big;small;simple
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;modern;classic;colorful;simple
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,ring,gold;silver;old;new;big;small;beautiful;simple;round;shiny
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;famous;beautiful;tall;ancient
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,vase,big;small;old;new;beautiful;white;blue;round;simple;tall
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;black;light;heavy;high;low
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;recent;powerful;terrible
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,fog,thick;heavy;light;white;gray;cold;morning;dense;low;wet
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;blue;loud;real;wild;powerful
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,rain,heavy;light;strong;cold;warm;soft;hard;sudden;constant;gentle
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,rainbow,bright;beautiful;big;small;colorful;clear;real;perfect;rare;full
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;deep;fresh;new;clean;thick
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;wild;real;great;terrible;loud;dark
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;big;real;great;deep;heavy;wild;powerful
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,tide,high;low;strong;big;small;rising;falling;daily;regular;powerful
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,volcano,active;old;new;big;small;strong;real;great;dangerous;powerful
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;soft;hard;sudden;constant;wild;gentle
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;ripe;round;juicy;crisp
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,banana,yellow;ripe;green;big;small;sweet;fresh;long;soft;curved
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,beef,fresh;cooked;raw;red;tender;lean;juicy;hot;cold;spicy
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;hot;new;old;sweet
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;healthy;tender
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,cheese,soft;hard;white;yellow;fresh;old;strong;mild;creamy;rich
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,chicken,cooked;raw;fresh;hot;cold;fried;grilled;roasted;spicy;tender
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,egg,boiled;fried;raw;fresh;big;small;white;brown;cooked;hard
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;red;fried;grilled;cold
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,pasta,cooked;hot;cold;fresh;soft;hard;long;short;white;simple
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;fresh;long
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Food Items,soup,hot;cold;fresh;thick;thin;clear;simple;spicy;tasty;warm
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,artist,young;old;famous;great;new;modern;creative;talented;local;popular
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,athlete,young;old;strong;fast;great;famous;new;talented;local;popular
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,chef,young;old;great;famous;new;talented;local;popular;creative;skilled
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,doctor,good;young;old;great;famous;new;local;skilled;kind;busy
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,engineer,good;young;old;great;new;skilled;talented;local;busy;smart
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,farmer,old;young;good;local;hard-working;small;big;new;skilled;busy
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,lawyer,good;young;old;great;new;local;skilled;busy;famous;smart
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,musician,young;old;great;famous;new;talented;local;popular;creative;skilled
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,scientist,young;old;great;famous;new;talented;local;smart;skilled;busy
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,soldier,young;old;brave;strong;good;great;new;local;skilled;loyal
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,teacher,good;young;old;great;new;local;kind;skilled;busy;smart
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Human Roles,writer,young;old;great;famous;new;talented;local;popular;creative;skilled
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,book,old;new;big;small;good;famous;interesting;long;short;popular
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;famous;wide
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,drums,big;small;loud;new;old;red;black;wooden;strong;round
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;brown;rich;dry;wet
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,flute,small;long;short;old;new;silver;wooden;simple;beautiful;soft
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;simple;important;lost;main
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;clean;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;silver;golden;simple;broken;main
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,moon,full;new;big;small;bright;white;round;clear;high;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;long;short
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;strong;warm;high;clear;golden
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;big;small;silver;golden;strong
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,cat,small;big;black;white;young;old;cute;soft;wild;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,dog,big;small;black;white;young;old;friendly;loyal;strong;cute
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,dolphin,big;small;smart;friendly;young;old;fast;wild;playful;gray
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,elephant,big;small;young;old;wild;gray;strong;friendly;smart;gentle
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,hamster,small;big;young;old;cute;friendly;soft;brown;white;fast
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,monkey,small;big;young;old;wild;smart;funny;friendly;brown;fast
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,mouse,small;big;young;old;gray;white;brown;cute;fast;wild
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,peacock,big;small;beautiful;colorful;wild;young;old;blue;green;proud
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,rabbit,small;big;white;brown;cute;young;old;wild;fast;soft
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,shark,big;small;strong;wild;fast;young;old;gray;dangerous;white
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,snake,long;short;big;small;wild;green;brown;dangerous;young;old
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Neutral Animals,whale,big;small;blue;gray;strong;wild;young;old;friendly;huge
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,city,big;small;old;new;modern;busy;large;famous;beautiful;clean
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,desert,big;small;hot;dry;wide;sandy;empty;open;wild;cold
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,forest,big;small;green;dark;deep;old;wild;thick;beautiful;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,island,small;big;beautiful;green;wild;quiet;new;old;tropical;remote
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;quiet;old;new;round
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,mountain,big;small;high;tall;old;new;green;wild;beautiful;rocky
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,ocean,big;small;deep;blue;wild;open;wide;beautiful;clear;great
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,plain,big;small;wide;open;green;flat;dry;empty;wild;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,plateau,big;small;high;wide;flat;dry;open;green;rocky;old
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,river,big;small;long;short;deep;wide;clear;blue;wild;fast
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,valley,big;small;deep;green;wide;quiet;beautiful;open;long;narrow
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Places,village,small;big;old;new;quiet;local;beautiful;simple;friendly;peaceful
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,cactus,green;big;small;tall;short;old;new;wild;dry;sharp
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,eggplant,purple;big;small;fresh;long;short;new;old;soft;round
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;pink;fresh;wild;simple
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,grass,green;tall;short;soft;wild;fresh;dry;thick;long;new
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;crisp;round;clean
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;soft;new;old;round
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;sweet;strong
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,potato,big;small;white;brown;fresh;new;old;round;soft;hard
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;big;small;new
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,tomato,red;big;small;fresh;round;ripe;new;old;soft;juicy
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Plants,tree,big;small;old;new;green;tall;short;wild;young;strong
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,ally,good;strong;true;loyal;old;new;close;important;trusted;powerful
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,brother,big;small;young;old;good;true;close;strong;loyal;dear
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,enemy,old;new;strong;true;great;powerful;real;main;dangerous;close
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,father,good;old;young;strong;true;loving;kind;great;real;dear
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,follower,loyal;true;good;strong;old;new;close;important;faithful;young
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,friend,good;true;close;old;new;best;dear;loyal;young;real
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,leader,strong;good;true;great;old;new;main;important;powerful;wise
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,mother,good;old;young;loving;kind;true;strong;great;dear;real
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,partner,good;true;close;old;new;strong;important;loyal;main;dear
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,rival,strong;old;new;main;true;great;powerful;real;close;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,sister,big;small;young;old;good;true;close;dear;kind;loving
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Social Relationships,stranger,new;old;real;true;complete;total;perfect;unknown;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,above,high;clear;open;bright;blue;wide;empty;free;quiet;sunny
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,back,strong;big;small;wide;straight;flat;hard;soft;old;new
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,below,low;dark;deep;quiet;cold;empty;open;wet;soft;hidden
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,east,far;near;new;old;main;big;small;open;quiet;important
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,front,main;big;small;open;wide;new;old;clear;strong;important
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,inside,dark;quiet;warm;soft;small;big;new;old;safe;hidden
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,left,main;big;small;open;free;new;old;quiet;important;strong
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,north,far;near;cold;new;old;main;big;small;open;important
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,outside,open;wide;free;big;small;new;old;quiet;bright;safe
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,right,main;big;small;open;free;new;old;quiet;important;strong
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,south,far;near;warm;new;old;main;big;small;open;important
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Spatial Concepts,west,far;near;new;old;main;big;small;open;quiet;important
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,century,new;old;last;past;present;next;great;long;short;important
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;sunny;busy
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,evening,long;short;quiet;dark;cool;warm;late;early;nice;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;new;old;last;next
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,minute,long;short;last;next;new;old;early;late;busy;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,month,new;old;last;next;long;short;busy;quiet;early;late
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,morning,early;late;new;old;long;short;quiet;busy;cold;warm
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;new;old
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,second,long;short;last;next;new;old;early;late;busy;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,week,new;old;last;next;long;short;busy;quiet;early;late
+gpt-4.1,basic,0.0,PT # Portuguese,C1,most frequent,Time Concepts,year,new;old;last;next;long;short;busy;quiet;early;late
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;growing;bitter;cold;burning;violent
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,courage,great;moral;quiet;true;personal;physical;remarkable;extraordinary;inner;steady
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,fear,deep;great;sudden;irrational;constant;real;intense;overwhelming;growing;silent
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,freedom,complete;total;personal;political;individual;true;full;absolute;economic;religious
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,happiness,great;true;real;pure;lasting;simple;complete;perfect;deep;genuine
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,hate,deep;blind;pure;intense;cold;open;bitter;burning;strong;violent
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,honesty,complete;true;absolute;personal;total;real;great;simple;professional;moral
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,justice,social;true;real;criminal;equal;legal;poetic;natural;divine;fair
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,knowledge,deep;general;scientific;practical;basic;common;technical;personal;detailed;broad
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,love,true;deep;great;pure;real;first;romantic;unconditional;passionate;eternal
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,peace,inner;lasting;true;complete;world;real;perfect;political;long-lasting;relative
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Abstract Concepts,wisdom,great;ancient;true;practical;deep;spiritual;common;traditional;real;divine
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,bell,large;small;old;golden;silver;church;heavy;loud;brass;broken
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,candle,white;small;scented;tall;red;burning;wax;thin;lit;decorative
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,carpet,red;large;old;thick;soft;new;Persian;blue;beautiful;clean
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,coin,old;gold;silver;rare;ancient;small;new;valuable;foreign;round
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;heavy;silver;jeweled;ancient;new;ornate
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,flag,national;red;white;blue;old;new;large;small;green;official
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,mask,white;old;wooden;painted;black;golden;beautiful;strange;colorful;scary
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;long;short;old;new;pearl;diamond;expensive
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,painting,beautiful;old;famous;large;small;modern;abstract;original;oil;colorful
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;old;new;beautiful;small;expensive;simple
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,statue,large;old;bronze;marble;ancient;famous;small;beautiful;stone;golden
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,vase,old;beautiful;large;small;blue;white;porcelain;broken;ancient;glass
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,cloud,white;dark;big;black;gray;thick;fluffy;heavy;light;low
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,earthquake,strong;big;powerful;major;minor;recent;deadly;violent;sudden;destructive
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,fog,thick;heavy;dense;white;morning;cold;light;gray;low;wet
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;dangerous;silent;white;blue;sharp
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;hard;constant;gentle;warm;soft;sudden
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;double;full;clear;faint;rare;perfect
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,snow,white;heavy;fresh;deep;soft;light;cold;new;thick;clean
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,storm,big;strong;violent;heavy;sudden;powerful;tropical;severe;bad;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,thunder,loud;distant;deep;rolling;heavy;sudden;strong;constant;sharp;powerful
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;powerful;regular;spring;neap
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;dangerous;old;powerful;famous;violent;ancient
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;steady;powerful;fresh;soft;constant
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,apple,red;green;fresh;sweet;big;small;juicy;ripe;crisp;delicious
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,banana,ripe;yellow;green;sweet;fresh;big;small;soft;long;delicious
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,beef,fresh;cooked;raw;lean;tender;ground;grilled;roasted;juicy;spicy
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,bread,fresh;white;brown;soft;warm;homemade;sliced;hard;whole;sweet
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,broccoli,fresh;green;steamed;cooked;raw;healthy;organic;tender;small;big
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,cheese,hard;soft;fresh;aged;white;yellow;blue;creamy;strong;mild
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;fresh;raw;spicy;tender;baked;juicy
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,egg,boiled;fried;fresh;raw;scrambled;hard;soft;large;small;brown
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;small;big;white;smoked;oily
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,pasta,cooked;fresh;hot;cold;Italian;homemade;creamy;spicy;long;delicious
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,rice,white;brown;cooked;steamed;fried;sticky;plain;hot;cold;long-grain
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Food Items,soup,hot;warm;cold;thick;clear;fresh;homemade;spicy;creamy;vegetable
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,artist,famous;young;talented;great;modern;creative;local;new;professional;successful
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,athlete,professional;young;great;strong;famous;talented;top;Olympic;fast;successful
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,chef,famous;great;professional;young;talented;French;Italian;creative;top;skilled
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,doctor,good;young;old;experienced;famous;local;skilled;professional;family;caring
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,engineer,civil;electrical;mechanical;young;skilled;professional;experienced;talented;good;senior
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,farmer,local;small;old;young;successful;poor;rich;hardworking;organic;traditional
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,lawyer,good;young;old;famous;experienced;criminal;civil;skilled;local;successful
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,musician,famous;young;talented;great;classical;local;professional;new;successful;popular
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,scientist,famous;great;young;old;leading;top;modern;talented;successful;brilliant
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,soldier,brave;young;old;good;strong;professional;experienced;loyal;dead;wounded
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,teacher,good;young;old;great;new;experienced;local;favorite;strict;kind
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Human Roles,writer,famous;great;young;old;new;talented;successful;modern;popular;creative
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,book,old;new;good;great;famous;big;small;interesting;favorite;thick
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,bridge,old;new;big;long;small;famous;wooden;stone;strong;narrow
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,drums,loud;big;small;new;old;African;wooden;traditional;electric;heavy
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,earth,round;big;green;blue;old;living;rich;dry;warm;fertile
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,flute,silver;wooden;old;new;small;long;beautiful;traditional;simple;golden
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,key,small;old;new;golden;silver;big;main;important;lost;broken
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,lock,old;new;small;big;strong;broken;heavy;metal;simple;golden
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,moon,full;new;bright;round;big;white;clear;half;blue;rising
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,pen,blue;black;red;old;new;small;big;broken;favorite;cheap
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,sun,bright;hot;warm;rising;setting;golden;big;red;yellow;shining
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Inanimate Objects,sword,sharp;long;old;new;silver;golden;big;short;heavy;broken
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,cat,black;white;small;big;old;young;wild;domestic;lazy;cute
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,dog,big;small;old;young;black;white;brown;friendly;loyal;playful
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,dolphin,friendly;smart;playful;big;small;wild;gray;fast;young;intelligent
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,elephant,big;old;young;wild;African;Asian;gray;strong;gentle;huge
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;friendly;active;fluffy;tiny
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,monkey,small;big;young;old;wild;playful;smart;brown;noisy;clever
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,mouse,small;white;gray;brown;wild;cute;little;quiet;fast;tiny
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,peacock,beautiful;colorful;big;male;wild;blue;green;proud;rare;young
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,rabbit,white;brown;small;big;wild;cute;young;old;fast;soft
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,shark,big;dangerous;white;great;wild;fast;hungry;young;old;deadly
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,snake,long;poisonous;big;small;green;dangerous;wild;black;brown;deadly
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Neutral Animals,whale,big;blue;white;gray;huge;wild;young;old;friendly;giant
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,city,big;large;small;old;new;modern;ancient;busy;beautiful;famous
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,desert,hot;dry;big;large;sandy;empty;wide;open;cold;endless
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,forest,big;large;dark;deep;green;thick;old;wild;tropical;dense
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,island,small;big;tropical;beautiful;remote;private;deserted;green;rocky;famous
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;natural;fresh;quiet;round
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,mountain,high;big;tall;old;rocky;snow-capped;green;steep;famous;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,ocean,big;deep;blue;wide;open;vast;endless;beautiful;wild;warm
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,plain,wide;open;flat;big;green;grassy;dry;empty;endless;fertile
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,plateau,high;flat;large;wide;dry;rocky;big;open;grassy;remote
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,river,big;small;long;wide;deep;fast;slow;clear;muddy;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,valley,deep;wide;green;beautiful;narrow;long;small;open;fertile;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Places,village,small;old;quiet;new;remote;little;peaceful;beautiful;traditional;rural
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,cactus,green;tall;big;small;wild;desert;spiny;dry;old;young
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,eggplant,purple;big;small;fresh;ripe;long;round;organic;cooked;raw
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;pink;blue
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,grass,green;tall;short;dry;fresh;wild;thick;soft;long;wet
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,lettuce,green;fresh;crisp;big;small;organic;clean;soft;round;leafy
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,mushroom,wild;fresh;white;small;big;edible;poisonous;brown;soft;raw
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,onion,red;white;yellow;big;small;fresh;raw;sweet;strong;chopped
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,pepper,red;green;yellow;hot;sweet;black;fresh;small;big;spicy
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,potato,big;small;white;red;sweet;fresh;baked;boiled;fried;raw
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;single;big;small
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,tomato,red;ripe;green;small;big;fresh;juicy;round;sweet;organic
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Plants,tree,big;old;tall;green;small;young;dead;strong;thick;leafy
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,ally,strong;loyal;close;good;powerful;important;trusted;old;new;reliable
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,brother,older;younger;big;little;twin;real;close;dear;lost;loving
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,enemy,old;great;powerful;main;real;dangerous;deadly;bitter;strong;traditional
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,father,good;old;young;loving;real;proud;strong;caring;strict;wise
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,follower,loyal;faithful;true;close;new;old;strong;devoted;active;silent
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,friend,good;best;close;old;new;true;dear;loyal;real;trusted
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,leader,strong;great;good;new;old;true;powerful;natural;young;wise
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,mother,good;loving;young;old;real;caring;proud;strong;single;wise
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,partner,good;new;old;strong;true;close;loyal;trusted;business;perfect
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,rival,main;old;great;strong;traditional;bitter;new;powerful;close;deadly
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,sister,older;younger;big;little;twin;real;close;dear;lost;loving
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Social Relationships,stranger,complete;total;perfect;new;old;silent;mysterious;dark;friendly;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,above,high;far;clear;open;bright;empty;blue;wide;distant;sunny
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,back,lower;upper;strong;broad;straight;flat;bare;naked;sore;stiff
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,below,deep;dark;cold;quiet;silent;empty;hidden;low;secret;distant
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,east,far;distant;bright;rising;golden;warm;new;open;clear;sunny
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,front,main;open;wide;big;small;flat;clear;strong;narrow;bright
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,inside,dark;warm;quiet;safe;small;big;empty;private;secret;hidden
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,left,far;lower;upper;main;open;free;empty;quiet;dark;wide
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,north,far;distant;cold;wild;open;high;snowy;strong;clear;remote
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,outside,open;wide;big;empty;cold;dark;bright;free;public;safe
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,right,far;lower;upper;main;open;free;empty;quiet;dark;wide
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,south,far;distant;warm;open;sunny;bright;green;rich;wild;remote
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Spatial Concepts,west,far;distant;wild;open;golden;warm;new;clear;free;sunny
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,century,last;new;present;past;next;early;late;modern;previous;golden
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,day,new;long;good;bad;sunny;rainy;hot;cold;busy;short
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,evening,late;quiet;warm;cool;long;beautiful;peaceful;dark;early;pleasant
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,hour,late;early;long;short;last;next;busy;quiet;free;golden
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,minute,last;next;long;short;free;busy;quiet;early;late;golden
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,month,last;next;new;first;final;early;late;busy;cold;warm
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,morning,early;late;quiet;cold;warm;new;beautiful;busy;fresh;bright
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,night,long;dark;quiet;cold;warm;late;beautiful;busy;clear;short
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,season,new;last;next;long;short;cold;warm;dry;rainy;busy
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,second,last;next;long;short;free;busy;quiet;early;late;golden
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,week,last;next;new;first;final;busy;long;short;early;late
+gpt-4.1,basic,0.0,PT # Portuguese,C2,most frequent,Time Concepts,year,last;next;new;first;final;early;late;busy;good;bad
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;burning;cold;growing;hidden;violent
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,courage,great;true;moral;quiet;physical;inner;personal;remarkable;extraordinary;steady
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,fear,deep;great;sudden;constant;irrational;real;growing;silent;intense;overwhelming
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,freedom,complete;total;personal;political;true;individual;economic;religious;absolute;full
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,happiness,true;great;real;pure;simple;lasting;complete;perfect;deep;genuine
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,hate,deep;blind;pure;open;cold;burning;strong;intense;bitter;violent
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,honesty,complete;true;total;personal;absolute;simple;real;great;perfect;moral
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,justice,true;social;real;equal;fair;complete;moral;legal;absolute;perfect
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,knowledge,deep;great;true;complete;perfect;personal;practical;scientific;general;wide
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,love,true;deep;great;pure;real;perfect;first;romantic;strong;unconditional
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,peace,true;lasting;complete;perfect;inner;real;great;political;social;world
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,wisdom,great;true;deep;ancient;practical;real;personal;perfect;moral;complete
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;heavy;church;broken;round
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,candle,small;white;red;scented;tall;thin;burning;new;old;wax
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,carpet,red;large;old;new;soft;thick;beautiful;clean;dirty;blue
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,coin,old;gold;silver;small;rare;new;ancient;round;valuable;shiny
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;heavy;silver;new;ancient;jeweled;big
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;old;new;big;small;green;official
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,mask,white;black;old;new;wooden;golden;silver;painted;beautiful;scary
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;old;new;long;short;pearl;diamond;simple
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,painting,old;beautiful;famous;large;small;modern;new;original;classic;colorful
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;old;new;beautiful;simple;wedding;big;small
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,statue,old;large;small;bronze;marble;stone;golden;beautiful;ancient;famous
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,vase,old;beautiful;big;small;blue;white;broken;new;glass;ceramic
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,cloud,white;dark;big;small;black;gray;heavy;light;thick;fluffy
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,earthquake,big;small;strong;powerful;sudden;deadly;recent;violent;major;minor
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,fog,thick;heavy;white;dense;morning;cold;gray;light;low;wet
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;white;blue;silent;dangerous;fast
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;cold;steady;constant;hard;soft;warm;gentle;sudden
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;double;rare;full;clear;perfect
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,snow,white;fresh;deep;heavy;light;soft;cold;new;clean;thick
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,storm,big;strong;violent;sudden;heavy;dark;powerful;great;bad;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;distant;heavy;rolling;powerful;constant;sharp
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;powerful;regular;fast;slow
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;small;dangerous;old;new;powerful;famous
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;steady;soft;hard;sudden;powerful
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,apple,red;green;fresh;sweet;big;small;juicy;ripe;crisp;round
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,banana,ripe;yellow;green;sweet;fresh;big;small;soft;long;curved
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,beef,fresh;cooked;raw;tender;lean;juicy;grilled;roasted;ground;spicy
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,bread,fresh;white;brown;soft;warm;hard;sliced;homemade;new;old
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,broccoli,fresh;green;cooked;raw;steamed;healthy;small;big;soft;tender
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,cheese,hard;soft;fresh;old;white;yellow;strong;mild;creamy;blue
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;fresh;spicy;tender;baked;juicy
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;white;brown;cooked;large
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;small;big;white;oily;smoked
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,pasta,cooked;fresh;hot;cold;homemade;Italian;long;short;soft;creamy
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,rice,white;brown;cooked;steamed;fried;hot;cold;sticky;soft;long
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Food Items,soup,hot;cold;thick;thin;fresh;homemade;spicy;clear;creamy;warm
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,artist,famous;great;young;old;talented;creative;modern;new;skilled;popular
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,athlete,great;young;strong;professional;famous;talented;fast;skilled;top;successful
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,chef,great;famous;young;old;talented;skilled;creative;professional;new;top
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,doctor,good;young;old;famous;skilled;great;professional;experienced;caring;new
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,engineer,good;young;old;skilled;great;professional;talented;experienced;new;top
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,farmer,old;young;local;small;big;good;hard-working;experienced;skilled;successful
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,lawyer,good;young;old;famous;skilled;great;professional;experienced;new;top
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,musician,great;young;old;famous;talented;skilled;creative;new;popular;professional
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,scientist,great;young;old;famous;talented;skilled;new;top;leading;creative
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,soldier,brave;young;old;strong;good;great;professional;experienced;skilled;loyal
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,teacher,good;young;old;great;experienced;skilled;new;caring;popular;professional
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Human Roles,writer,great;young;old;famous;talented;skilled;creative;new;popular;successful
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,book,old;new;big;small;famous;good;interesting;long;short;popular
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,bridge,old;new;big;small;long;short;strong;famous;wooden;stone
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;metal;heavy;light;round
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,earth,round;big;small;old;new;green;blue;beautiful;rich;dry
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;old;new;small;long;beautiful;simple;metal;classic
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,key,small;old;new;golden;silver;big;metal;important;lost;main
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,lock,old;new;big;small;strong;broken;metal;golden;silver;main
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,moon,full;new;bright;round;big;small;white;beautiful;clear;dark
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;old;new;small;big;broken;simple;silver
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,sun,bright;hot;big;small;yellow;red;white;strong;warm;golden
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;silver;golden;big;small;heavy
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;wild;domestic;lazy
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;wild
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,dolphin,smart;friendly;playful;big;small;wild;young;old;fast;gray
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,elephant,big;small;old;young;wild;gray;strong;African;Asian;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,hamster,small;cute;young;old;brown;white;friendly;active;wild;domestic
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,monkey,small;big;young;old;wild;smart;playful;brown;active;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;wild;domestic;cute;young;old;quick;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;wild;male;female;young;old;bright
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,rabbit,small;white;brown;cute;wild;domestic;young;old;quick;soft
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,shark,big;small;dangerous;white;gray;wild;fast;strong;young;old
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,snake,long;short;big;small;dangerous;green;wild;young;old;poisonous
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,whale,big;small;blue;white;gray;wild;young;old;huge;friendly
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,city,big;small;old;new;modern;ancient;busy;large;beautiful;famous
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,desert,hot;dry;big;small;sandy;empty;wide;cold;open;vast
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,forest,big;small;dark;green;deep;old;thick;wild;dense;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,island,small;big;tropical;beautiful;remote;private;wild;green;new;old
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;old;new;fresh;natural
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,mountain,high;tall;big;small;old;new;rocky;green;snow-covered;famous
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,ocean,big;deep;blue;wide;open;wild;beautiful;calm;rough;vast
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,plain,wide;open;flat;big;small;green;dry;grassy;empty;long
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,plateau,high;flat;big;small;wide;dry;rocky;green;old;new
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,river,big;small;long;short;deep;wide;narrow;fast;slow;clear
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,valley,deep;wide;green;small;big;narrow;beautiful;long;open;quiet
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Places,village,small;big;old;new;quiet;peaceful;beautiful;local;remote;rural
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,cactus,green;big;small;tall;short;wild;old;new;dry;spiny
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,eggplant,purple;big;small;fresh;cooked;raw;long;round;soft;new
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;pink;blue
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,grass,green;long;short;fresh;wild;dry;soft;thick;tall;new
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,lettuce,green;fresh;big;small;crisp;new;old;soft;wild;round
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,mushroom,wild;fresh;white;brown;small;big;edible;poisonous;soft;new
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,onion,red;white;yellow;big;small;fresh;raw;cooked;sweet;strong
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,pepper,red;green;yellow;hot;sweet;small;big;fresh;spicy;black
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,potato,big;small;white;brown;fresh;cooked;raw;new;old;soft
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;big;small;new
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,tomato,red;green;ripe;fresh;big;small;round;juicy;new;old
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Plants,tree,big;small;old;new;green;tall;short;wild;young;thick
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,ally,strong;loyal;good;old;new;close;trusted;powerful;important;reliable
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,brother,big;small;older;younger;good;close;real;strong;loving;loyal
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,enemy,old;new;strong;powerful;dangerous;real;main;great;bitter;deadly
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,father,good;old;young;loving;strong;real;caring;great;wise;strict
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,follower,loyal;true;faithful;new;old;close;strong;good;active;silent
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,friend,good;close;best;old;new;true;loyal;real;dear;trusted
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,leader,strong;good;great;new;old;true;powerful;wise;real;popular
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,mother,good;loving;caring;old;young;real;strong;great;wise;kind
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,partner,good;new;old;close;strong;true;loyal;real;trusted;important
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,rival,strong;main;old;new;powerful;real;great;bitter;close;dangerous
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,sister,big;small;older;younger;good;close;real;loving;kind;loyal
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Social Relationships,stranger,complete;total;new;old;real;silent;quiet;unknown;distant;foreign
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,above,high;clear;open;bright;blue;empty;wide;free;far;sunny
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,back,strong;broad;straight;flat;bare;lower;upper;soft;hard;smooth
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,below,deep;dark;cold;quiet;silent;empty;low;hidden;secret;wet
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,east,far;distant;bright;new;old;open;sunny;warm;main;rising
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,front,main;open;wide;big;small;new;old;clear;strong;flat
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,inside,dark;warm;quiet;safe;small;big;new;old;empty;private
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,left,main;open;free;empty;quiet;dark;new;old;big;small
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,north,far;distant;cold;main;open;wild;new;old;big;snowy
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,outside,open;wide;free;big;small;new;old;empty;bright;public
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,right,main;open;free;empty;quiet;bright;new;old;big;small
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,south,far;distant;warm;main;open;new;old;big;small;sunny
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,west,far;distant;wild;main;open;new;old;big;small;sunny
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,century,last;new;old;past;present;next;great;long;short;modern
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,day,new;old;long;short;good;bad;sunny;rainy;busy;bright
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,evening,quiet;long;short;warm;cool;dark;late;early;beautiful;peaceful
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,hour,long;short;late;early;last;next;busy;quiet;free;full
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,minute,last;next;long;short;free;busy;quiet;early;late;final
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,month,last;next;new;old;long;short;busy;quiet;cold;warm
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,morning,early;late;quiet;new;cold;warm;bright;busy;fresh;beautiful
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,night,dark;long;short;quiet;cold;warm;late;early;beautiful;peaceful
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,season,new;old;last;next;long;short;cold;warm;dry;rainy
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,second,last;next;long;short;free;busy;quiet;early;late;final
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,week,last;next;new;old;long;short;busy;quiet;free;full
+gpt-4.1,basic,0.0,PT # Portuguese,Perfect,most frequent,Time Concepts,year,last;next;new;old;long;short;good;bad;busy;quiet

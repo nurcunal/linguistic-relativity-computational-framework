@@ -1,0 +1,13 @@
+You may use all proficiency levels that are below and up to {proficiency} (inclusive). The category prompt is: '{single_prompt}'. Provide the ten {single_prompt} adjectives for the given noun.
+
+INSTRUCTIONS:
+1. For each noun below, output exactly two lines in English:
+   - First line: `Noun: <the noun>`
+   - Second line: `Adjectives: adjective1, adjective2, ..., adjective10`
+Generate exactly 10 adjectives in a natural manner based on your proficiency level.
+
+You may only use vocabulary limited to your proficiency level. Think of your proficiency level as the ceiling for the adjectives you can generate.
+2. You MUST produce exactly 10 unique adjectives for every noun without exception. If you cannot produce exactly 10, output as many adjectives as you can, but do not leave any noun without adjectives.
+3. Do NOT repeat any adjectives.
+4. Do NOT provide any extra explanation or commentary.
+5. Output strictly in English with exactly these two lines for every noun. 

@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;big;quick;bad;loud;hot
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,courage,great;real;strong;big;true;quiet;much;good;brave;personal
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,fear,great;big;real;deep;sudden;strong;true;bad;quiet;cold
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,freedom,great;real;true;full;complete;personal;political;much;new;big
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,happiness,great;real;true;much;full;big;deep;simple;quiet;personal
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,hate,strong;deep;real;big;true;much;great;cold;open;bad
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,honesty,real;true;great;much;personal;simple;open;good;full;big
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,justice,real;true;great;social;much;good;big;open;full;simple
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,knowledge,great;much;real;true;deep;big;good;new;personal;full
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,love,true;real;great;deep;big;much;strong;new;first;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,peace,great;real;true;much;full;quiet;new;big;deep;personal
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Abstract Concepts,wisdom,great;real;true;much;deep;big;good;old;personal;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;golden;silver;round;heavy;metal
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;thin;round
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;green;soft;long;thick
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;shiny;metal
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,crown,gold;big;small;old;new;silver;heavy;royal;beautiful;rich
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;red;blue;green;white;national;colorful
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,mask,big;small;old;new;white;black;red;scary;funny;colorful
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,necklace,gold;silver;big;small;old;new;long;short;beautiful;round
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;colorful;modern;simple;great
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,ring,gold;silver;big;small;old;new;round;beautiful;simple;shiny
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;white;famous;beautiful;tall;heavy
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;round;beautiful;simple;tall
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,cloud,big;small;white;dark;gray;light;high;low;soft;thick
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;bad;real;quick;deep;loud
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,fog,thick;light;white;gray;heavy;cold;morning;low;soft;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,lightning,bright;quick;strong;big;sudden;white;loud;real;fast;hot
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,rain,heavy;light;big;small;cold;warm;strong;soft;hard;quick
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,rainbow,big;small;bright;beautiful;colorful;new;real;high;full;long
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;deep;new;fresh;big;thick
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,storm,big;strong;heavy;bad;sudden;loud;quick;real;dark;cold
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,thunder,loud;big;strong;sudden;real;quick;deep;heavy;bad;hard
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,tide,high;low;big;strong;fast;slow;real;quick;deep;new
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;quiet;strong;hot;high;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;big;soft;quick;hard;real;high
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;new;juicy;ripe
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,banana,yellow;big;small;ripe;sweet;fresh;long;soft;new;green
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,beef,fresh;cooked;raw;red;good;big;small;soft;hard;new
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,bread,fresh;white;brown;big;small;soft;hard;new;old;warm
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,broccoli,green;fresh;big;small;cooked;raw;soft;hard;new;healthy
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;big;small;fresh;old;new;round
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,chicken,cooked;raw;big;small;white;fresh;soft;hard;new;good
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,egg,big;small;white;brown;fresh;raw;cooked;round;new;hard
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,fish,fresh;big;small;raw;cooked;white;new;soft;hard;good
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,pasta,cooked;raw;soft;hard;hot;cold;big;small;new;long
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,rice,white;brown;cooked;raw;soft;hard;hot;cold;new;fresh
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Food Items,soup,hot;cold;big;small;fresh;new;good;thick;clear;warm
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,artist,good;great;young;old;new;famous;creative;big;small;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,athlete,strong;good;young;old;fast;big;small;new;great;famous
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,chef,good;great;young;old;new;famous;big;small;real;creative
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,doctor,good;great;young;old;new;famous;big;small;real;kind
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,engineer,good;great;young;old;new;big;small;real;smart;famous
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,farmer,good;old;young;big;small;new;real;hard;strong;kind
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,lawyer,good;great;young;old;new;big;small;real;smart;famous
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,musician,good;great;young;old;new;famous;big;small;real;creative
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,scientist,good;great;young;old;new;smart;big;small;real;famous
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,soldier,strong;good;young;old;new;brave;big;small;real;great
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,teacher,good;great;young;old;new;kind;big;small;real;smart
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Human Roles,writer,good;great;young;old;new;famous;big;small;real;creative
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,book,big;small;old;new;good;great;famous;long;short;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;wide
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,drums,big;small;old;new;loud;round;hard;soft;good;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;real;small;hard;soft
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,flute,small;long;short;old;new;silver;gold;soft;good;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,key,small;big;old;new;silver;gold;round;real;hard;metal
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;silver;long;short;hard;metal
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,lock,small;big;old;new;hard;strong;silver;gold;round;metal
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,moon,big;small;full;new;round;white;bright;high;real;old
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;long;short;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,sun,big;bright;hot;round;yellow;high;real;new;old;strong
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Inanimate Objects,sword,sharp;big;small;old;new;long;short;silver;hard;metal
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,cat,small;big;young;old;black;white;gray;cute;soft;quick
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,dog,big;small;young;old;black;white;brown;friendly;strong;quick
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,dolphin,big;small;young;old;smart;friendly;quick;gray;blue;good
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;friendly;smart;heavy;good
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,hamster,small;big;young;old;cute;brown;white;quick;soft;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,monkey,small;big;young;old;quick;smart;brown;funny;friendly;strong
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,mouse,small;big;young;old;gray;white;quick;cute;soft;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,peacock,big;small;young;old;colorful;blue;green;beautiful;bright;proud
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,rabbit,small;big;young;old;white;gray;quick;cute;soft;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,shark,big;small;young;old;strong;quick;gray;white;dangerous;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,snake,long;short;big;small;young;old;green;quick;dangerous;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Neutral Animals,whale,big;small;young;old;blue;gray;strong;friendly;real;heavy
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,city,big;small;old;new;busy;modern;quiet;famous;beautiful;great
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,desert,big;small;hot;dry;old;new;empty;quiet;real;wide
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,forest,big;small;old;new;green;dark;deep;quiet;thick;wild
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,island,big;small;old;new;quiet;green;beautiful;far;real;empty
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,lake,big;small;deep;old;new;blue;quiet;clear;real;round
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,mountain,big;small;high;low;old;new;green;white;real;tall
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,ocean,big;small;deep;blue;old;new;wide;real;quiet;strong
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,plain,big;small;wide;green;flat;open;quiet;old;new;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,plateau,big;small;high;flat;old;new;wide;real;dry;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,river,big;small;long;short;deep;old;new;blue;clear;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,valley,big;small;deep;green;old;new;quiet;wide;real;long
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Places,village,small;big;old;new;quiet;real;friendly;simple;beautiful;far
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,cactus,green;big;small;old;new;tall;short;round;real;dry
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,eggplant,purple;big;small;long;short;fresh;new;round;soft;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;blue;fresh;new;colorful
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,grass,green;long;short;soft;fresh;new;thick;small;big;dry
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,lettuce,green;fresh;big;small;new;soft;round;long;short;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,mushroom,small;big;white;brown;fresh;new;round;soft;real;wild
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,onion,big;small;white;red;fresh;new;round;strong;soft;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;round
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,potato,big;small;white;brown;fresh;new;round;soft;hard;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;small;big;fresh;new;soft
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,tomato,red;big;small;fresh;new;round;soft;ripe;juicy;real
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Plants,tree,big;small;old;new;green;tall;short;strong;real;thick
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,ally,good;strong;true;real;old;new;big;small;friendly;loyal
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,brother,big;small;young;old;good;real;true;strong;kind;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,enemy,strong;big;small;old;new;real;true;bad;dangerous;hard
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,father,good;old;young;big;small;real;true;strong;kind;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,follower,good;true;real;strong;old;new;big;small;loyal;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,friend,good;true;real;old;new;best;close;kind;friendly;strong
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,leader,good;strong;true;real;old;new;big;small;great;kind
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,mother,good;old;young;big;small;real;true;kind;strong;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,partner,good;true;real;old;new;strong;big;small;kind;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,rival,strong;big;small;old;new;real;true;hard;quick;dangerous
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,sister,big;small;young;old;good;real;true;kind;friendly;close
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Social Relationships,stranger,new;real;true;old;young;big;small;quiet;friendly;kind
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,above,high;real;true;new;old;big;small;open;clear;far
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,back,big;small;old;new;real;true;strong;hard;soft;low
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,below,low;real;true;new;old;big;small;deep;quiet;far
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,east,far;real;true;new;old;big;small;open;clear;bright
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,front,big;small;old;new;real;true;open;clear;high;low
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,inside,real;true;new;old;big;small;quiet;dark;warm;soft
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,left,real;true;new;old;big;small;open;clear;quiet;far
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,north,far;real;true;new;old;big;small;cold;open;clear
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,outside,real;true;new;old;big;small;open;clear;cold;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,right,real;true;new;old;big;small;open;clear;quiet;far
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,south,far;real;true;new;old;big;small;warm;open;clear
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Spatial Concepts,west,far;real;true;new;old;big;small;open;clear;bright
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,century,new;old;last;next;real;true;big;long;great;past
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,day,new;old;good;long;short;big;small;real;true;last
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,evening,good;long;short;quiet;new;old;real;true;last;warm
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,hour,long;short;new;old;good;real;true;last;big;small
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,minute,long;short;new;old;real;true;last;good;big;small
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,month,new;old;last;next;real;true;long;short;big;small
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,morning,good;new;old;early;quiet;real;true;last;long;short
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,night,good;long;short;quiet;new;old;real;true;last;dark
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,season,new;old;last;next;real;true;long;short;good;big
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,second,long;short;new;old;real;true;last;good;big;small
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,week,new;old;last;next;real;true;long;short;good;big
+gpt-4.1,basic,0.0,ES # Spanish,B1,most frequent,Time Concepts,year,new;old;last;next;real;true;long;short;good;big
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;open;silent;cold;quick;burning
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,courage,great;true;real;quiet;moral;personal;physical;strong;much;enough
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;constant;open;silent;cold;quick
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,freedom,personal;complete;full;political;real;true;total;great;much;individual
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,happiness,great;real;true;complete;much;personal;deep;full;simple;pure
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,hate,deep;great;real;strong;open;cold;silent;sudden;true;much
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,honesty,true;real;complete;great;personal;much;open;simple;full;moral
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,justice,true;real;social;great;complete;moral;equal;much;open;fair
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,knowledge,great;deep;real;much;true;personal;full;complete;wide;general
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,love,true;real;great;deep;strong;much;pure;first;open;simple
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,peace,true;real;great;complete;much;personal;deep;full;long;lasting
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Abstract Concepts,wisdom,great;true;real;deep;much;old;personal;full;complete;simple
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;heavy;round;metal
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;thin;simple
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;soft;thick;long;clean
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;clean;shiny
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,crown,golden;big;small;old;new;heavy;beautiful;rich;royal;bright
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,flag,national;big;small;old;new;red;blue;white;green;colorful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,mask,old;new;white;black;red;big;small;simple;strange;colorful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;long;short;beautiful;simple;big;small
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;colorful;simple;modern;classic
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,ring,gold;silver;old;new;big;small;round;simple;beautiful;shiny
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;famous;beautiful;white;tall
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;simple;beautiful;round;clean
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,cloud,white;big;small;dark;gray;light;high;low;soft;thick
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;quick;natural;dangerous
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,fog,thick;light;white;gray;heavy;cold;morning;low;soft;wet
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,lightning,bright;quick;strong;sudden;white;big;loud;real;natural;dangerous
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,rain,heavy;light;strong;cold;warm;soft;hard;sudden;real;constant
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,rainbow,beautiful;big;small;bright;colorful;real;clear;full;high;rare
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;deep;fresh;clean;new;thick
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;real;great;cold;loud;quick;dangerous
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,thunder,loud;strong;big;sudden;real;heavy;quick;deep;long;natural
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,tide,high;low;strong;big;small;real;quick;sudden;natural;daily
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;dead;high;dangerous;real;natural
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;big;small;quick;sudden;real;natural
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;juicy;ripe;clean
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,banana,yellow;big;small;ripe;sweet;fresh;long;soft;clean;green
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,beef,fresh;cooked;raw;red;good;soft;hard;hot;cold;tasty
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,bread,fresh;white;brown;soft;hard;new;old;warm;big;small
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;healthy;clean
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;big;small;tasty;round
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,chicken,cooked;raw;fresh;big;small;white;brown;soft;hard;tasty
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,egg,big;small;white;brown;fresh;cooked;raw;round;clean;hard
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;red;tasty;clean;soft
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,pasta,cooked;raw;hot;cold;soft;hard;fresh;tasty;white;yellow
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;fresh;tasty
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Food Items,soup,hot;cold;fresh;tasty;good;big;small;simple;clear;thick
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,artist,famous;young;old;great;good;new;modern;creative;talented;local
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,athlete,strong;young;old;good;great;fast;famous;new;talented;local
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,chef,good;great;famous;young;old;new;local;talented;creative;professional
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,doctor,good;great;young;old;new;local;famous;professional;kind;careful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,engineer,good;great;young;old;new;local;professional;talented;smart;careful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,farmer,old;young;good;great;local;new;hard-working;simple;poor;rich
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,lawyer,good;great;young;old;new;local;professional;famous;smart;careful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,musician,good;great;young;old;new;famous;talented;local;creative;professional
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,scientist,good;great;young;old;new;famous;smart;local;professional;careful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,soldier,brave;strong;young;old;good;great;new;local;professional;loyal
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,teacher,good;great;young;old;new;local;kind;professional;smart;patient
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Human Roles,writer,good;great;young;old;new;famous;creative;talented;local;professional
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,book,old;new;big;small;good;great;famous;simple;long;short
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;famous
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,drums,big;small;old;new;loud;soft;round;simple;heavy;famous
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;brown;rich;dry;wet
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,flute,small;big;old;new;long;short;silver;simple;soft;famous
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,key,small;big;old;new;silver;gold;simple;round;clean;important
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;clean;simple
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,lock,small;big;old;new;strong;simple;silver;gold;round;heavy
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,moon,full;new;big;small;white;bright;round;clear;high;beautiful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;clean;long
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;strong;high;clear;warm;beautiful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Inanimate Objects,sword,sharp;big;small;old;new;long;short;silver;clean;strong
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,cat,small;big;black;white;young;old;cute;soft;fast;clean
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,dog,big;small;black;white;young;old;friendly;fast;strong;loyal
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,dolphin,big;small;smart;fast;friendly;young;old;gray;blue;playful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,elephant,big;small;old;young;gray;strong;heavy;wild;smart;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,hamster,small;big;cute;young;old;brown;white;soft;fast;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,monkey,small;big;young;old;smart;fast;brown;funny;friendly;wild
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,mouse,small;big;gray;white;young;old;fast;cute;quiet;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,peacock,big;small;beautiful;colorful;blue;green;young;old;bright;proud
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,rabbit,small;big;white;brown;cute;young;old;fast;soft;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,shark,big;small;strong;fast;gray;white;wild;dangerous;old;young
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,snake,long;short;big;small;green;brown;fast;wild;dangerous;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Neutral Animals,whale,big;small;blue;gray;old;young;strong;friendly;wild;heavy
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,city,big;small;old;new;modern;busy;clean;dirty;famous;important
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,desert,big;small;hot;dry;old;new;empty;open;sandy;wild
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,forest,big;small;old;new;green;dark;deep;wild;thick;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,island,small;big;new;old;green;quiet;beautiful;wild;empty;famous
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,lake,big;small;deep;shallow;blue;clear;quiet;old;new;beautiful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,mountain,big;small;high;low;old;new;green;white;famous;wild
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,ocean,big;small;deep;blue;wide;open;wild;clear;old;new
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,plain,big;small;wide;open;green;flat;dry;empty;quiet;wild
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,plateau,big;small;high;low;flat;dry;wide;open;old;new
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,river,big;small;long;short;deep;wide;clear;fast;slow;old
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,valley,big;small;deep;wide;green;quiet;open;old;new;beautiful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Places,village,small;big;old;new;quiet;simple;clean;poor;rich;local
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,cactus,green;big;small;tall;short;old;new;wild;dry;sharp
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,eggplant,purple;big;small;fresh;new;old;long;round;clean;soft
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;new;old;colorful
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,grass,green;long;short;soft;fresh;dry;thick;wild;new;old
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,lettuce,green;fresh;big;small;new;old;clean;soft;round;healthy
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;new;old;soft;round
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;clean;strong
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,potato,big;small;white;brown;fresh;new;old;round;clean;soft
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;new;old;small;big
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,tomato,red;big;small;fresh;new;old;round;clean;soft;ripe
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Plants,tree,big;small;old;new;green;tall;short;thick;wild;strong
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,ally,good;strong;true;real;old;new;loyal;close;important;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,brother,big;small;old;young;good;true;real;close;strong;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,enemy,strong;real;true;old;new;big;small;dangerous;close;open
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,father,good;old;young;strong;true;real;big;close;kind;important
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,follower,true;real;good;strong;close;loyal;new;old;important;young
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,friend,good;true;real;old;new;close;best;strong;young;loyal
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,leader,good;strong;true;real;old;new;important;great;young;famous
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,mother,good;old;young;true;real;kind;close;strong;important;loving
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,partner,good;true;real;old;new;close;strong;important;loyal;young
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,rival,strong;real;true;old;new;big;small;close;open;important
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,sister,big;small;old;young;good;true;real;close;strong;friendly
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Social Relationships,stranger,real;true;new;old;big;small;close;open;quiet;unknown
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,above,high;open;clear;close;far;near;bright;wide;empty;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,back,big;small;strong;weak;old;new;hard;soft;straight;broad
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,below,low;deep;open;close;far;near;dark;quiet;empty;cold
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,east,far;near;open;big;small;new;old;bright;clear;important
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,front,big;small;open;close;new;old;clear;wide;straight;important
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,inside,small;big;close;open;dark;quiet;warm;safe;clean;private
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,left,open;close;far;near;big;small;new;old;quiet;important
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,north,far;near;cold;open;big;small;new;old;important;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,outside,open;big;small;far;near;new;old;quiet;cold;empty
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,right,open;close;far;near;big;small;new;old;quiet;important
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,south,far;near;warm;open;big;small;new;old;important;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Spatial Concepts,west,far;near;open;big;small;new;old;bright;clear;important
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,century,new;old;last;next;past;present;long;short;important;great
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,evening,long;short;quiet;busy;good;bad;warm;cold;late;early
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;good;bad;new;old
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,minute,long;short;last;next;early;late;new;old;good;bad
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,month,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,morning,early;late;long;short;quiet;busy;good;bad;cold;warm
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,night,long;short;quiet;dark;cold;warm;good;bad;late;early
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;good;bad
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,second,last;next;long;short;early;late;new;old;good;bad
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,week,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,B2,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;silent;open;cold;burning;wild
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,courage,great;true;real;quiet;moral;personal;physical;inner;strong;brave
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,fear,great;deep;sudden;real;strong;constant;silent;open;cold;wild
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,freedom,personal;complete;total;real;political;true;full;individual;economic;religious
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,happiness,great;real;true;complete;deep;simple;pure;personal;full;perfect
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,hate,deep;strong;real;open;cold;great;silent;wild;burning;true
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,honesty,true;complete;real;great;personal;open;simple;full;moral;total
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,justice,true;real;social;complete;great;moral;equal;fair;legal;perfect
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,knowledge,deep;great;real;true;complete;personal;full;wide;general;practical
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,love,true;real;great;deep;pure;strong;first;perfect;simple;personal
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,peace,real;true;complete;deep;great;lasting;perfect;inner;personal;political
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Abstract Concepts,wisdom,great;true;real;deep;old;ancient;practical;personal;simple;complete
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;heavy;round;metal;church
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,candle,small;white;red;long;short;old;new;scented;burning;wax
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;soft;thick;clean;dirty
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;ancient;shiny
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,crown,golden;silver;old;royal;big;small;beautiful;heavy;new;rich
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,flag,national;red;blue;white;old;new;big;small;colorful;green
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,mask,old;new;white;black;red;golden;small;big;scary;colorful
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;beautiful;long;short;small;big;colorful
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;modern;classic;colorful;original
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,ring,gold;silver;old;new;small;big;beautiful;round;wedding;shiny
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;famous;beautiful;ancient;white
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;beautiful;broken;glass;ceramic
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;black;light;heavy;high;low
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;recent;last;powerful;deadly;natural
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,fog,thick;heavy;white;gray;cold;morning;dense;light;low;wet
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;blue;loud;powerful;fast;natural
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,rain,heavy;light;strong;cold;warm;soft;hard;constant;sudden;gentle
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;full;clear;perfect;rare;lovely
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,snow,white;heavy;light;soft;cold;deep;fresh;new;clean;thick
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;violent;last;recent;powerful;dark;cold
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;big;heavy;deep;powerful;distant;close;real
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;big;small;rising;falling;daily;natural
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,volcano,active;old;big;small;dangerous;high;famous;dead;new;natural
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;soft;hard;sudden;gentle;fresh;powerful
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;juicy;round;ripe;delicious
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,banana,yellow;ripe;green;big;small;sweet;fresh;long;soft;delicious
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,beef,fresh;cooked;raw;red;tender;juicy;grilled;roasted;spicy;cold
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;old;new;sliced;homemade
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;healthy;soft;hard;delicious
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;strong;mild;creamy;delicious
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,chicken,cooked;raw;fried;grilled;roasted;fresh;spicy;tender;hot;cold
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;white;brown;big;small
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,fish,fresh;cooked;raw;fried;grilled;big;small;white;red;delicious
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,pasta,cooked;fresh;hot;cold;long;short;soft;hard;Italian;delicious
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;sticky;fried
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Food Items,soup,hot;cold;fresh;thick;thin;clear;spicy;homemade;delicious;warm
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,artist,famous;young;old;great;modern;creative;talented;new;local;popular
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,athlete,young;strong;great;famous;fast;talented;professional;new;old;local
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,chef,famous;great;young;old;talented;professional;creative;new;local;popular
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,doctor,good;young;old;great;famous;local;new;professional;kind;experienced
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,engineer,good;young;old;great;professional;talented;new;local;experienced;skilled
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,farmer,local;old;young;good;small;big;hard-working;poor;rich;experienced
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,lawyer,good;young;old;great;famous;local;new;professional;experienced;skilled
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,musician,famous;young;old;great;talented;new;local;popular;professional;creative
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,scientist,famous;young;old;great;modern;talented;new;local;professional;creative
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,soldier,brave;young;old;strong;great;good;new;local;experienced;professional
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,teacher,good;young;old;great;new;local;kind;experienced;professional;popular
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Human Roles,writer,famous;young;old;great;modern;talented;new;local;popular;creative
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,book,old;new;big;small;famous;great;interesting;long;short;popular
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;high;low;famous;strong
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,drums,big;small;loud;new;old;red;black;wooden;metal;famous
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,earth,big;round;old;blue;green;beautiful;rich;dry;wet;warm
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,flute,small;long;silver;wooden;old;new;beautiful;famous;soft;sweet
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;metal;important;lost;main
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;metal;dangerous
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,lock,old;new;big;small;strong;weak;metal;broken;main;heavy
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,moon,full;new;big;small;round;white;bright;beautiful;clear;high
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;long;short;broken
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;strong;warm;high;clear;beautiful
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;silver;golden;big;small;strong
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,cat,small;big;black;white;gray;young;old;cute;lazy;playful
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;playful
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;gray;fast;young;old;playful;beautiful
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,elephant,big;small;old;young;gray;wild;strong;friendly;smart;gentle
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;friendly;soft;fast;playful
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,monkey,small;big;young;old;brown;smart;funny;wild;playful;fast
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,mouse,small;gray;white;brown;young;old;cute;fast;quiet;wild
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;blue;green;young;old;wild;bright
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,rabbit,small;white;brown;gray;cute;young;old;fast;soft;wild
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,shark,big;small;dangerous;fast;strong;wild;gray;white;young;old
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,snake,long;short;big;small;green;brown;dangerous;wild;young;old
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Neutral Animals,whale,big;small;blue;gray;white;young;old;wild;strong;friendly
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,city,big;small;old;new;modern;busy;famous;beautiful;large;rich
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,desert,big;small;hot;dry;sandy;empty;wide;open;old;wild
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,forest,big;small;old;green;dark;deep;wild;thick;beautiful;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,island,small;big;beautiful;green;tropical;quiet;wild;new;old;famous
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;quiet;old;new;fresh
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,mountain,high;big;small;old;new;green;tall;famous;beautiful;rocky
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,ocean,big;deep;blue;wide;open;wild;beautiful;clear;warm;cold
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,plain,big;small;wide;open;green;flat;dry;empty;old;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,plateau,high;big;small;wide;flat;dry;open;old;new;rocky
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,river,big;small;long;short;deep;wide;clear;fast;slow;beautiful
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,valley,big;small;deep;green;wide;beautiful;quiet;open;old;narrow
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Places,village,small;big;old;new;quiet;local;beautiful;poor;rich;friendly
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,cactus,green;big;small;tall;short;old;new;wild;dry;sharp
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,eggplant,purple;big;small;fresh;long;short;new;old;soft;round
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;colorful;pink
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,grass,green;tall;short;fresh;dry;soft;thick;wild;new;old
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;crisp;round;healthy
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;soft;new;old;round
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,onion,big;small;white;red;fresh;new;old;sweet;strong;round
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,potato,big;small;white;brown;fresh;new;old;round;soft;hard
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;small;big;sweet
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,tomato,red;big;small;fresh;round;ripe;new;old;sweet;juicy
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Plants,tree,big;small;old;new;green;tall;short;young;wild;strong
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,ally,good;strong;true;loyal;old;new;close;important;powerful;trusted
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,brother,big;small;young;old;good;true;close;strong;kind;friendly
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,enemy,old;new;strong;powerful;true;real;big;small;dangerous;main
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,father,good;old;young;strong;kind;loving;true;real;great;wise
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,follower,loyal;true;good;strong;new;old;close;important;faithful;trusted
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,friend,good;true;close;best;old;new;loyal;kind;dear;real
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,leader,strong;good;true;great;new;old;powerful;important;wise;main
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,mother,good;old;young;kind;loving;true;real;great;strong;wise
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,partner,good;true;close;new;old;strong;important;loyal;main;trusted
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,rival,strong;main;old;new;true;real;big;small;powerful;dangerous
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,sister,big;small;young;old;good;true;close;kind;friendly;dear
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Social Relationships,stranger,complete;total;real;true;new;old;unknown;foreign;quiet;silent
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,above,high;clear;open;bright;blue;wide;empty;free;sunny;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,back,strong;big;small;wide;straight;flat;hard;soft;old;new
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,below,low;dark;deep;cold;quiet;silent;empty;wet;hidden;secret
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,east,far;near;new;old;big;small;open;wide;main;important
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,front,main;big;small;open;wide;new;old;clear;strong;important
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,inside,warm;quiet;dark;safe;soft;small;big;new;old;private
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,left,main;big;small;open;free;new;old;quiet;empty;important
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,north,far;near;cold;big;small;open;wide;main;important;new
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,outside,open;wide;free;big;small;new;old;quiet;empty;public
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,right,main;big;small;open;free;new;old;quiet;empty;important
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,south,far;near;warm;big;small;open;wide;main;important;new
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Spatial Concepts,west,far;near;old;new;big;small;open;wide;main;important
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,century,last;new;old;past;present;next;great;long;short;modern
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,day,new;old;long;short;good;bad;sunny;rainy;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,evening,late;early;long;short;quiet;warm;cold;dark;beautiful;busy
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,hour,long;short;late;early;last;next;busy;quiet;free;full
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,minute,last;next;long;short;free;busy;early;late;quiet;full
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,month,last;next;new;old;long;short;busy;quiet;cold;warm
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,morning,early;late;new;old;long;short;quiet;busy;cold;warm
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;new;old
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,season,new;old;last;next;long;short;cold;warm;dry;wet
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,second,last;next;long;short;free;busy;early;late;quiet;full
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,week,last;next;new;old;long;short;busy;quiet;full;free
+gpt-4.1,basic,0.0,ES # Spanish,C1,most frequent,Time Concepts,year,last;next;new;old;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;burning;growing;bitter;violent;cold
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,courage,great;true;moral;quiet;physical;inner;remarkable;extraordinary;personal;steady
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,fear,deep;great;sudden;real;constant;irrational;intense;growing;silent;overwhelming
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,freedom,complete;total;personal;political;individual;true;economic;religious;absolute;full
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,happiness,great;true;real;pure;lasting;deep;simple;complete;perfect;genuine
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,hate,deep;blind;pure;intense;strong;bitter;open;cold;violent;growing
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,honesty,complete;true;absolute;personal;total;real;simple;open;moral;genuine
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,justice,true;social;real;equal;natural;criminal;legal;moral;fair;poetic
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,knowledge,deep;general;scientific;practical;personal;true;complete;basic;common;detailed
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,love,true;deep;great;real;pure;first;romantic;strong;unconditional;passionate
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,peace,complete;true;lasting;inner;world;perfect;real;political;long;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Abstract Concepts,wisdom,great;ancient;true;practical;deep;spiritual;common;personal;real;traditional
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;church;heavy;broken;round
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,candle,small;white;red;scented;burning;tall;thin;wax;new;old
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,carpet,red;large;old;new;thick;soft;blue;green;beautiful;expensive
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,coin,old;gold;silver;small;rare;new;ancient;round;valuable;foreign
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;heavy;silver;ancient;jeweled;new;big
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,flag,national;red;white;blue;green;old;new;big;small;colorful
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,mask,white;black;old;new;wooden;golden;painted;scary;beautiful;colorful
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;long;short;old;new;expensive;simple;colorful
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,painting,old;beautiful;famous;modern;large;small;colorful;new;original;abstract
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,ring,gold;silver;wedding;old;new;beautiful;expensive;simple;small;big
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,statue,old;big;small;bronze;marble;famous;ancient;beautiful;new;stone
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Cultural Artifacts,vase,old;big;small;beautiful;blue;white;broken;new;glass;ceramic
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;heavy;light;thick;fluffy;black
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,earthquake,big;strong;powerful;sudden;violent;deadly;recent;terrible;destructive;major
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,fog,thick;heavy;white;dense;morning;cold;light;gray;low;wet
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;white;blue;dangerous;silent;sharp
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,rain,heavy;light;cold;steady;constant;hard;soft;gentle;warm;sudden
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;double;rare;full;clear;perfect;wide
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,snow,white;heavy;fresh;deep;soft;cold;light;new;thick;clean
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,storm,big;strong;violent;heavy;sudden;terrible;powerful;dark;dangerous;tropical
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,thunder,loud;distant;deep;heavy;sudden;rolling;strong;powerful;constant;sharp
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;powerful;regular;fast;slow
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;dangerous;old;new;powerful;famous;violent
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;powerful;steady;soft;fresh;hard
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,apple,red;green;fresh;sweet;big;small;juicy;ripe;crisp;round
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,banana,ripe;yellow;green;sweet;fresh;big;small;soft;long;curved
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,beef,fresh;cooked;raw;tender;lean;ground;grilled;roasted;juicy;spicy
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,bread,fresh;white;brown;soft;warm;homemade;sliced;hard;new;old
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,broccoli,fresh;green;cooked;raw;steamed;healthy;small;big;soft;tender
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,cheese,hard;soft;fresh;old;white;yellow;strong;mild;creamy;blue
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;fresh;spicy;tender;baked;juicy
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;white;brown;large;small
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;small;big;white;oily;smoked
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,pasta,cooked;fresh;hot;cold;homemade;Italian;long;short;soft;dry
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,rice,white;brown;cooked;fried;steamed;hot;cold;sticky;long;short
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Food Items,soup,hot;cold;thick;clear;fresh;homemade;spicy;vegetable;chicken;warm
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,artist,famous;young;talented;great;modern;creative;new;old;local;professional
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,athlete,young;professional;great;strong;famous;talented;fast;top;Olympic;successful
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,chef,famous;great;young;professional;talented;French;Italian;creative;new;skilled
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,doctor,good;young;old;famous;experienced;skilled;local;professional;new;family
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,engineer,skilled;young;professional;experienced;talented;good;civil;electrical;mechanical;new
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,farmer,local;small;old;young;poor;rich;successful;hard-working;experienced;family
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,lawyer,good;young;old;famous;experienced;skilled;local;professional;new;criminal
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,musician,famous;young;talented;great;professional;classical;modern;local;new;old
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,scientist,famous;young;great;modern;talented;leading;top;old;new;professional
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,soldier,brave;young;old;professional;strong;good;experienced;loyal;new;wounded
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,teacher,good;young;old;experienced;new;great;local;professional;favorite;strict
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Human Roles,writer,famous;young;great;modern;talented;new;old;professional;creative;successful
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,book,old;new;big;small;famous;interesting;good;thick;thin;favorite
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,bridge,old;new;big;small;long;short;famous;wooden;stone;strong
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;African;electric;fast;heavy
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,earth,round;big;small;green;blue;dry;wet;rich;soft;hard
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,flute,wooden;silver;small;long;old;new;beautiful;simple;traditional;metal
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,key,small;old;new;golden;silver;big;metal;lost;spare;main
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;dangerous
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,lock,old;new;big;small;strong;broken;metal;golden;silver;main
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,moon,full;new;bright;round;big;small;white;clear;blue;dark
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;broken;favorite;cheap
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;red;rising;setting;warm;strong;golden
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;silver;golden;big;small;heavy
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,cat,black;white;small;big;young;old;wild;domestic;cute;lazy
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;wild
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,dolphin,smart;friendly;playful;big;small;wild;young;fast;gray;intelligent
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,elephant,big;small;old;young;wild;African;Asian;gray;strong;gentle
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;friendly;active;fat;tiny
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,monkey,small;big;young;old;wild;funny;smart;brown;active;noisy
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,mouse,small;white;gray;brown;wild;cute;young;old;fast;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;wild;blue;green;young;old;proud
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,rabbit,small;white;brown;black;cute;wild;young;old;fast;soft
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,shark,big;small;white;gray;dangerous;wild;young;old;fast;strong
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,snake,long;short;big;small;green;black;dangerous;wild;young;old
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Neutral Animals,whale,big;small;blue;white;gray;wild;young;old;huge;gentle
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,city,big;small;old;new;modern;ancient;busy;beautiful;famous;crowded
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,desert,hot;dry;big;small;sandy;empty;wide;cold;open;vast
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,forest,big;small;dark;green;deep;old;thick;wild;beautiful;dense
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,island,small;big;tropical;beautiful;remote;private;green;new;old;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;natural;quiet;old;new
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,mountain,high;tall;big;small;old;new;rocky;green;snow-covered;famous
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,ocean,big;deep;blue;wide;open;wild;calm;rough;warm;cold
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,plain,wide;open;flat;green;dry;big;small;empty;grassy;vast
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,plateau,high;flat;wide;big;small;dry;rocky;green;open;remote
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,river,big;small;long;short;deep;wide;narrow;fast;slow;clear
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,valley,deep;wide;green;narrow;small;big;beautiful;open;quiet;long
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Places,village,small;big;old;new;quiet;peaceful;remote;local;beautiful;traditional
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,cactus,green;big;small;tall;short;wild;old;new;dry;round
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,eggplant,purple;big;small;fresh;long;round;new;old;cooked;raw
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,flower,beautiful;red;white;yellow;pink;blue;fresh;wild;small;big
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,grass,green;tall;short;dry;wet;fresh;soft;thick;wild;long
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,lettuce,green;fresh;big;small;crisp;new;old;soft;round;leafy
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,mushroom,wild;fresh;white;brown;small;big;edible;poisonous;raw;cooked
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,onion,red;white;yellow;big;small;fresh;raw;cooked;sweet;strong
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,pepper,red;green;yellow;hot;sweet;small;big;fresh;spicy;black
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,potato,big;small;white;red;brown;fresh;new;old;cooked;raw
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;small;big;sweet
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,tomato,red;green;ripe;fresh;small;big;round;juicy;sweet;new
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Plants,tree,big;small;old;new;green;tall;short;young;thick;strong
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,ally,strong;loyal;good;close;powerful;important;trusted;old;new;reliable
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,brother,big;small;older;younger;good;close;dear;strong;loving;real
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,enemy,old;new;strong;powerful;dangerous;real;main;bitter;deadly;traditional
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,father,good;old;young;loving;strong;real;caring;strict;proud;wise
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,follower,loyal;faithful;true;close;new;old;strong;active;silent;devoted
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,friend,good;close;best;old;new;true;dear;loyal;real;trusted
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,leader,strong;good;great;new;old;true;powerful;natural;main;wise
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,mother,good;loving;caring;strong;real;young;old;dear;proud;wise
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,partner,good;new;old;close;strong;true;loyal;trusted;important;main
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,rival,strong;main;old;new;powerful;bitter;traditional;close;dangerous;real
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,sister,big;small;older;younger;good;close;dear;loving;real;true
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Social Relationships,stranger,complete;total;perfect;new;old;silent;real;dangerous;friendly;mysterious
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,above,high;clear;open;bright;blue;empty;wide;far;distant;sunny
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,back,strong;broad;straight;flat;lower;upper;bare;naked;smooth;weak
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,below,deep;dark;cold;quiet;silent;empty;low;hidden;secret;wet
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,east,far;distant;bright;new;old;rising;golden;warm;open;sunny
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,front,main;big;small;open;wide;flat;new;old;strong;clear
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,inside,dark;warm;quiet;safe;small;big;empty;full;secret;hidden
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,left,far;close;main;open;free;empty;quiet;new;old;strong
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,north,far;distant;cold;wild;open;new;old;high;snowy;strong
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,outside,open;wide;free;big;small;empty;quiet;cold;warm;bright
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,right,far;close;main;open;free;empty;quiet;new;old;strong
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,south,far;distant;warm;open;new;old;high;wild;sunny;strong
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Spatial Concepts,west,far;distant;wild;open;new;old;high;warm;sunny;strong
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,century,new;old;last;present;past;next;early;late;modern;golden
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,day,new;old;long;short;good;bad;sunny;rainy;busy;bright
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,evening,early;late;quiet;long;short;warm;cool;dark;beautiful;peaceful
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,hour,early;late;long;short;busy;quiet;last;next;final;free
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,minute,last;next;final;short;long;early;late;free;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,month,last;next;new;old;first;final;long;short;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,morning,early;late;quiet;long;short;cold;warm;new;busy;beautiful
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;beautiful;peaceful
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,season,new;old;long;short;dry;wet;cold;warm;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,second,last;next;final;short;long;early;late;free;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,week,last;next;new;old;first;final;long;short;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,C2,most frequent,Time Concepts,year,last;next;new;old;first;final;long;short;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;burning;growing;bitter;cold;violent
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,courage,great;true;quiet;moral;physical;inner;personal;remarkable;extraordinary;steady
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,fear,deep;great;sudden;real;constant;irrational;growing;intense;silent;cold
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,freedom,complete;total;personal;political;individual;true;full;absolute;economic;religious
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,happiness,great;true;real;pure;simple;complete;lasting;deep;perfect;genuine
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,hate,deep;blind;pure;intense;cold;open;bitter;growing;strong;violent
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,honesty,complete;true;total;personal;absolute;great;real;simple;perfect;moral
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,justice,true;social;real;equal;perfect;natural;criminal;legal;moral;divine
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,knowledge,deep;great;true;complete;general;personal;practical;scientific;basic;wide
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,love,true;deep;great;real;pure;first;perfect;strong;romantic;unconditional
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,peace,complete;true;lasting;inner;perfect;real;world;political;social;long-lasting
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Abstract Concepts,wisdom,great;true;deep;ancient;practical;real;spiritual;human;perfect;old
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;church;heavy;broken;round
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,candle,small;white;tall;scented;red;burning;thin;new;old;wax
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,carpet,red;large;old;new;soft;thick;beautiful;blue;clean;dirty
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,coin,old;gold;silver;small;rare;new;ancient;round;valuable;foreign
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;heavy;silver;new;ancient;big;jeweled
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;old;new;big;small;colorful;foreign
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,mask,white;black;old;new;beautiful;strange;colorful;wooden;golden;scary
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;old;new;long;short;pearl;diamond;colorful
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,painting,beautiful;old;famous;modern;new;large;small;colorful;original;classic
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;beautiful;old;new;diamond;wedding;small;big;simple
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,statue,big;small;old;new;bronze;stone;beautiful;famous;ancient;white
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Cultural Artifacts,vase,old;beautiful;big;small;white;blue;new;broken;glass;ceramic
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;heavy;light;thick;high;low
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,earthquake,big;strong;powerful;sudden;violent;recent;deadly;major;minor;destructive
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,fog,thick;heavy;white;dense;morning;cold;light;gray;low;wet
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;white;blue;dangerous;silent;loud
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;cold;constant;steady;hard;soft;warm;gentle;strong
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;full;double;clear;rare;perfect;wide
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,snow,white;heavy;fresh;deep;soft;cold;light;new;thick;clean
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,storm,big;strong;violent;heavy;sudden;powerful;dark;bad;dangerous;loud
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,thunder,loud;strong;deep;sudden;distant;heavy;rolling;powerful;constant;sharp
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;powerful;regular;fast;slow
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;big;old;dangerous;extinct;powerful;famous;high;new
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;steady;powerful;soft;fresh;hard
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,apple,red;green;fresh;sweet;big;small;juicy;ripe;round;crisp
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,banana,ripe;yellow;green;sweet;fresh;big;small;long;soft;curved
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,beef,fresh;cooked;raw;tender;lean;ground;grilled;roasted;juicy;spicy
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,bread,fresh;white;brown;soft;warm;hard;homemade;sliced;sweet;dry
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,broccoli,fresh;green;cooked;raw;steamed;healthy;small;big;soft;tender
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,cheese,hard;soft;fresh;old;white;yellow;strong;mild;creamy;blue
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;fresh;spicy;tender;baked;hot
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;white;brown;cooked;scrambled
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;small;big;white;oily;smoked
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,pasta,cooked;fresh;hot;cold;homemade;Italian;long;short;soft;dry
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,rice,white;brown;cooked;raw;fried;steamed;sticky;soft;long;short
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Food Items,soup,hot;warm;cold;thick;clear;fresh;homemade;spicy;salty;simple
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,artist,famous;young;old;great;talented;modern;creative;new;local;popular
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,athlete,young;strong;great;famous;professional;talented;fast;top;new;successful
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,chef,famous;great;young;talented;professional;new;creative;top;local;skilled
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,doctor,good;young;old;great;famous;local;skilled;new;experienced;professional
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,engineer,good;young;old;skilled;professional;talented;experienced;new;great;top
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,farmer,local;small;old;young;hard-working;poor;rich;successful;experienced;skilled
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,lawyer,good;young;old;famous;skilled;professional;experienced;top;local;successful
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,musician,famous;young;old;great;talented;new;local;popular;skilled;creative
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,scientist,famous;great;young;old;top;talented;skilled;new;leading;creative
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,soldier,brave;young;old;strong;good;experienced;skilled;loyal;new;professional
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,teacher,good;young;old;great;new;experienced;skilled;local;popular;patient
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Human Roles,writer,famous;great;young;old;new;talented;popular;creative;local;skilled
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,book,old;new;good;great;famous;big;small;interesting;popular;classic
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,bridge,old;new;big;small;long;short;famous;strong;wooden;stone
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;metal;heavy;light;round
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,earth,round;big;old;green;blue;beautiful;rich;dry;wet;warm
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;small;long;old;new;beautiful;metal;simple;sweet
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,key,small;old;new;golden;silver;big;metal;main;important;lost
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;dangerous
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,lock,old;new;big;small;strong;broken;metal;heavy;main;simple
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,moon,full;new;bright;round;big;white;clear;beautiful;half;blue
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;broken;simple;cheap
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;strong;warm;red;rising;setting;golden
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Inanimate Objects,sword,sharp;old;new;long;short;big;small;silver;golden;heavy
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;lazy;wild;friendly
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;wild
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,dolphin,smart;friendly;playful;big;small;wild;young;fast;gray;beautiful
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,elephant,big;old;young;wild;gray;African;Indian;strong;smart;friendly
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;friendly;active;fast;soft
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,monkey,small;big;young;old;wild;smart;funny;brown;active;noisy
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;brown;wild;cute;young;old;fast;quiet
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,peacock,beautiful;colorful;big;wild;male;female;young;old;bright;proud
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,rabbit,small;white;brown;cute;wild;young;old;fast;soft;friendly
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,shark,big;dangerous;white;gray;wild;fast;strong;young;old;hungry
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,snake,long;small;big;green;dangerous;wild;young;old;fast;poisonous
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Neutral Animals,whale,big;blue;white;gray;wild;young;old;huge;friendly;strong
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,city,big;small;old;new;modern;ancient;busy;beautiful;famous;large
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,desert,hot;dry;big;small;sandy;wide;empty;cold;open;wild
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,forest,big;dark;deep;green;old;thick;wild;beautiful;dense;quiet
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,island,small;big;beautiful;tropical;remote;wild;green;quiet;private;famous
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;quiet;old;natural;fresh
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,mountain,high;big;small;old;tall;rocky;green;famous;snow-covered;steep
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,ocean,big;deep;blue;wide;open;wild;beautiful;calm;warm;cold
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,plain,wide;open;flat;big;green;dry;empty;grassy;long;quiet
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,plateau,high;flat;big;wide;dry;rocky;old;open;large;remote
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,river,big;small;long;wide;deep;fast;slow;clear;blue;wild
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,valley,deep;wide;green;beautiful;small;big;quiet;long;narrow;open
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Places,village,small;old;quiet;new;big;beautiful;remote;local;peaceful;poor
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,cactus,green;big;small;tall;wild;old;young;dry;round;sharp
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,eggplant,purple;big;small;fresh;long;round;cooked;raw;soft;ripe
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;pink;blue
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,grass,green;long;short;fresh;wild;dry;soft;thick;tall;wet
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,lettuce,green;fresh;big;small;crisp;soft;new;old;wild;clean
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,mushroom,wild;white;small;big;fresh;brown;edible;poisonous;soft;raw
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,onion,white;red;big;small;fresh;raw;cooked;sweet;strong;yellow
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,pepper,red;green;yellow;hot;sweet;small;big;fresh;raw;spicy
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,potato,big;small;white;brown;fresh;cooked;raw;sweet;soft;round
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;big;small;sweet
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,tomato,red;ripe;green;small;big;fresh;round;sweet;juicy;soft
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Plants,tree,big;small;old;young;green;tall;thick;wild;strong;beautiful
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,ally,strong;loyal;good;close;true;old;new;powerful;trusted;important
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,brother,big;little;older;younger;good;close;true;strong;dear;loving
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,enemy,old;new;strong;powerful;true;great;main;dangerous;bitter;deadly
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,father,good;old;young;loving;strong;real;true;kind;caring;wise
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,follower,loyal;true;faithful;strong;close;new;old;good;active;trusted
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,friend,good;close;best;true;old;new;dear;loyal;real;trusted
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,leader,strong;good;great;true;new;old;powerful;wise;main;trusted
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,mother,good;loving;kind;caring;strong;true;real;wise;old;young
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,partner,good;true;close;strong;new;old;loyal;trusted;important;loving
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,rival,strong;main;old;new;true;great;powerful;close;bitter;dangerous
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,sister,big;little;older;younger;good;close;true;loving;dear;kind
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Social Relationships,stranger,complete;total;perfect;new;real;true;silent;quiet;unknown;foreign
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,above,high;clear;open;bright;blue;empty;wide;free;sunny;quiet
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,back,strong;lower;upper;straight;broad;wide;flat;bare;naked;sore
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,below,deep;dark;cold;quiet;silent;empty;low;hidden;secret;unknown
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,east,far;distant;bright;new;open;wide;warm;rising;golden;clear
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,front,main;open;wide;big;strong;flat;clear;new;old;straight
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,inside,warm;dark;quiet;safe;soft;small;big;empty;full;private
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,left,far;near;open;free;empty;quiet;main;big;small;wide
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,north,far;cold;distant;high;open;wild;snowy;strong;clear;bright
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,outside,open;wide;free;big;small;empty;quiet;cold;warm;bright
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,right,far;near;open;free;main;big;small;wide;clear;straight
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,south,far;warm;distant;open;wide;sunny;bright;green;clear;free
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Spatial Concepts,west,far;wild;open;wide;distant;warm;bright;golden;free;clear
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,century,new;old;last;past;present;next;great;long;short;modern
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,day,new;good;long;short;hot;cold;sunny;rainy;busy;bright
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,evening,quiet;long;short;cool;warm;late;early;dark;peaceful;beautiful
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,hour,long;short;late;early;last;next;busy;quiet;free;full
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,minute,last;next;long;short;free;busy;quiet;early;late;final
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,month,last;next;new;old;long;short;busy;quiet;cold;hot
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,morning,early;quiet;new;good;cold;warm;bright;busy;fresh;clear
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;clear;peaceful
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,second,last;next;long;short;free;busy;quiet;early;late;final
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,week,last;next;new;old;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,ES # Spanish,Perfect,most frequent,Time Concepts,year,last;next;new;old;long;short;good;bad;busy;quiet

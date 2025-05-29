@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,anger,strong;big;sudden;deep;real;great;cold;hot;quick;open
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,courage,great;strong;real;big;true;quiet;new;much;little;open
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,fear,big;strong;deep;real;sudden;cold;great;quiet;open;little
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,freedom,great;real;true;full;new;open;big;much;little;personal
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,happiness,great;real;true;big;full;deep;quiet;open;much;little
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,hate,strong;deep;big;real;cold;open;sudden;great;true;quiet
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,honesty,true;real;great;full;open;big;quiet;much;little;deep
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,justice,true;real;great;full;open;big;quiet;much;little;deep
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,knowledge,great;deep;real;true;big;much;little;open;new;full
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,love,true;real;big;deep;great;strong;open;quiet;new;full
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,peace,true;real;great;deep;quiet;full;open;big;new;much
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Abstract Concepts,wisdom,great;true;real;deep;big;quiet;much;little;open;full
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;golden;silver;round;heavy;light
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,candle,small;big;white;red;old;new;long;short;thin;thick
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;soft;long;thick;clean
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,coin,small;old;new;round;golden;silver;big;thin;light;clean
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,crown,golden;big;small;old;new;heavy;light;beautiful;rich;bright
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;red;blue;white;green;long;bright
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,mask,big;small;old;new;white;black;red;funny;scary;light
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,necklace,golden;silver;small;big;old;new;long;short;beautiful;bright
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,painting,big;small;old;new;beautiful;bright;dark;famous;simple;colorful
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,ring,golden;silver;small;big;old;new;round;beautiful;light;bright
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;white;stone;golden;beautiful;heavy;famous
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;round;beautiful;clean;light
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,cloud,big;small;white;dark;gray;high;low;soft;light;thick
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;quick;deep;bad;new
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,fog,thick;light;white;gray;heavy;cold;low;big;small;early
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,lightning,bright;quick;strong;big;sudden;white;loud;real;new;fast
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,rain,heavy;light;big;small;cold;warm;strong;soft;long;short
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,rainbow,big;small;bright;beautiful;colorful;new;high;long;clear;light
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;big;small;deep;clean;fresh
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;bad;cold;quick;loud;dark;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,thunder,loud;big;strong;sudden;real;quick;deep;heavy;bad;new
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,tide,high;low;big;strong;quick;real;new;deep;sudden;fast
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,volcano,big;small;old;new;high;strong;hot;real;active;quiet
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;big;small;quick;soft;fresh;new
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;juicy;ripe;soft
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,banana,yellow;big;small;long;sweet;ripe;fresh;soft;new;green
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,beef,fresh;cooked;raw;red;big;small;soft;hard;hot;cold
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,bread,fresh;white;brown;big;small;soft;hard;warm;new;old
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,broccoli,green;fresh;big;small;soft;hard;cooked;raw;new;healthy
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;big;small;fresh;old;new;strong
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,chicken,cooked;raw;big;small;white;fresh;hot;cold;soft;new
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,egg,big;small;white;brown;fresh;cooked;raw;round;hard;soft
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,fish,fresh;big;small;raw;cooked;white;soft;hard;new;cold
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,pasta,cooked;soft;hot;cold;big;small;fresh;long;short;new
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,rice,white;brown;cooked;raw;soft;hard;hot;cold;fresh;new
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Food Items,soup,hot;cold;fresh;big;small;thick;thin;new;tasty;warm
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,artist,good;young;old;new;famous;great;big;small;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,athlete,strong;good;young;old;new;fast;big;small;famous;great
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,chef,good;young;old;new;famous;great;big;small;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,doctor,good;young;old;new;famous;great;big;small;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,engineer,good;young;old;new;smart;great;big;small;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,farmer,good;old;young;new;big;small;hard;quiet;real;strong
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,lawyer,good;young;old;new;smart;great;big;small;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,musician,good;young;old;new;famous;great;big;small;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,scientist,good;young;old;new;smart;great;big;small;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,soldier,strong;good;young;old;new;brave;big;small;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,teacher,good;young;old;new;smart;great;big;small;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Human Roles,writer,good;young;old;new;famous;great;big;small;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,book,big;small;old;new;good;long;short;famous;real;open
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;high;low;strong;wide
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,drums,big;small;old;new;loud;soft;round;long;short;heavy
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;brown;real;quiet;strong
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,flute,long;short;old;new;small;big;silver;golden;soft;light
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;round;long;short;light
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,knife,sharp;small;big;old;new;long;short;silver;clean;light
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;heavy;silver;golden;round;hard
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,moon,big;small;white;round;full;new;bright;high;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,pen,small;big;old;new;blue;black;red;long;short;light
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,sun,big;bright;hot;yellow;round;high;strong;new;real;warm
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;big;small;silver;golden;strong
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,cat,small;big;young;old;black;white;soft;quiet;cute;fast
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,dog,big;small;young;old;brown;black;white;friendly;strong;fast
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,dolphin,big;small;smart;fast;friendly;young;old;blue;gray;strong
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;heavy;friendly;smart;quiet
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,hamster,small;big;young;old;cute;soft;brown;white;quiet;fast
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,monkey,small;big;young;old;brown;smart;fast;funny;friendly;strong
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,mouse,small;big;young;old;gray;white;quiet;fast;cute;soft
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,peacock,big;small;young;old;blue;green;beautiful;bright;colorful;proud
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,rabbit,small;big;young;old;white;brown;soft;cute;fast;quiet
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,shark,big;small;strong;fast;gray;white;young;old;real;quiet
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,snake,long;short;big;small;green;black;fast;quiet;young;old
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Neutral Animals,whale,big;small;blue;gray;strong;young;old;quiet;friendly;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,city,big;small;old;new;busy;quiet;famous;clean;dirty;modern
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,desert,big;small;hot;dry;old;new;empty;quiet;wide;sandy
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,forest,big;small;green;dark;old;new;quiet;deep;thick;wild
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,island,small;big;new;old;green;quiet;far;near;beautiful;empty
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,lake,big;small;deep;blue;clear;quiet;old;new;round;fresh
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,mountain,big;small;high;low;old;new;green;white;strong;quiet
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,ocean,big;small;deep;blue;wide;quiet;old;new;strong;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,plain,big;small;wide;green;flat;quiet;open;old;new;empty
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,plateau,big;small;high;flat;wide;quiet;old;new;green;empty
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,river,big;small;long;short;deep;wide;blue;quiet;old;new
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,valley,big;small;deep;green;quiet;old;new;wide;long;open
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Places,village,small;big;old;new;quiet;friendly;clean;pretty;far;near
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,cactus,green;big;small;tall;short;old;new;dry;thick;sharp
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,eggplant,purple;big;small;long;short;fresh;new;old;soft;round
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;blue;fresh;new;pretty
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,grass,green;long;short;soft;thick;fresh;new;old;dry;wet
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;round;clean;healthy
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,mushroom,small;big;white;brown;fresh;new;old;soft;round;wild
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;strong;sweet
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,potato,big;small;brown;white;fresh;new;old;round;soft;hard
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;small;big;fresh;new;pretty
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,tomato,red;big;small;round;fresh;new;old;soft;sweet;ripe
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Plants,tree,big;small;old;new;green;tall;short;strong;thick;quiet
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,ally,good;strong;true;real;old;new;big;small;quiet;friendly
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,brother,big;small;young;old;good;strong;true;real;quiet;friendly
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,enemy,strong;big;small;old;new;real;true;quiet;bad;open
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,father,good;old;young;big;small;strong;true;real;quiet;friendly
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,follower,good;true;real;old;new;big;small;quiet;friendly;strong
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,friend,good;true;real;old;new;big;small;quiet;friendly;strong
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,leader,good;strong;true;real;old;new;big;small;quiet;friendly
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,mother,good;old;young;big;small;strong;true;real;quiet;friendly
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,partner,good;true;real;old;new;big;small;quiet;friendly;strong
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,rival,strong;big;small;old;new;real;true;quiet;bad;open
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,sister,big;small;young;old;good;strong;true;real;quiet;friendly
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Social Relationships,stranger,new;real;true;old;young;big;small;quiet;open;friendly
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,above,high;open;clear;new;real;true;big;small;quiet;wide
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,back,strong;big;small;old;new;real;true;quiet;open;hard
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,below,low;deep;quiet;real;true;open;new;small;big;dark
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,east,far;new;real;true;open;big;small;quiet;bright;warm
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,front,open;real;true;big;small;new;old;strong;quiet;clear
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,inside,quiet;real;true;open;big;small;new;old;deep;warm
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,left,open;real;true;big;small;new;old;quiet;clear;far
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,north,cold;far;real;true;open;big;small;new;old;quiet
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,outside,open;real;true;big;small;new;old;quiet;clear;cold
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,right,open;real;true;big;small;new;old;quiet;clear;far
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,south,warm;far;real;true;open;big;small;new;old;quiet
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Spatial Concepts,west,far;real;true;open;big;small;new;old;quiet;warm
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,century,long;old;new;big;small;real;true;quiet;open;great
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,day,long;short;new;old;good;big;small;quiet;warm;bright
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,evening,quiet;long;short;new;old;good;warm;dark;soft;big
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,hour,long;short;new;old;good;big;small;quiet;late;early
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,minute,short;long;new;old;good;big;small;quiet;late;early
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,month,long;short;new;old;good;big;small;quiet;cold;warm
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,morning,early;quiet;new;old;good;long;short;warm;bright;soft
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,night,dark;quiet;long;short;new;old;cold;late;soft;big
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,season,new;old;long;short;cold;warm;big;small;quiet;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,second,short;long;new;old;good;big;small;quiet;quick;early
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,week,long;short;new;old;good;big;small;quiet;busy;real
+gpt-4.1,basic,0.0,DE # German,B1,most frequent,Time Concepts,year,new;old;long;short;good;big;small;quiet;real;great
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;open;silent;cold;quick;wild
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,courage,great;true;real;strong;quiet;moral;personal;much;little;big
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;big;little;open;cold;silent
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,freedom,personal;full;complete;real;political;true;much;little;new;great
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,happiness,great;real;true;much;little;full;deep;simple;quiet;complete
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,hate,deep;strong;real;open;cold;great;sudden;silent;much;little
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,honesty,true;real;great;complete;full;open;simple;personal;much;little
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,justice,true;real;social;great;complete;full;open;moral;equal;fair
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,knowledge,great;deep;real;much;little;true;full;personal;new;old
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,love,true;real;deep;great;strong;much;little;open;first;new
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,peace,true;real;great;complete;full;deep;quiet;new;long;much
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Abstract Concepts,wisdom,great;true;real;deep;much;little;old;new;personal;quiet
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;quiet;round;heavy
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;thin;thick
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;soft;thick;long;clean
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;clean;dirty
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,crown,golden;big;small;old;new;heavy;light;beautiful;rich;royal
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,flag,national;big;small;old;new;red;blue;white;green;colorful
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,mask,old;new;big;small;white;black;red;scary;funny;colorful
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;long;short;beautiful;small;big;colorful
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;colorful;famous;simple;modern;classic
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,ring,gold;silver;old;new;small;big;beautiful;round;simple;thin
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;golden;beautiful;famous;white;heavy
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;beautiful;simple;round;clean
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,cloud,white;big;small;dark;light;gray;heavy;high;low;soft
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;deep;quick;natural
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,fog,thick;thin;white;gray;heavy;light;cold;morning;low;soft
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,lightning,bright;quick;strong;sudden;white;big;loud;real;natural;wild
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;strong;soft;big;small;sudden;real
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,rainbow,beautiful;big;small;bright;colorful;real;new;rare;high;long
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;deep;fresh;new;clean;thick
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,storm,big;small;strong;weak;sudden;real;heavy;wild;cold;quick
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,thunder,loud;strong;big;sudden;real;heavy;quick;deep;wild;natural
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,tide,high;low;strong;weak;big;small;real;sudden;quick;natural
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;quiet;strong;high;real;natural
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;big;small;soft;quick;sudden;real
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;juicy;ripe;new
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,banana,yellow;big;small;ripe;sweet;fresh;long;soft;new;old
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,beef,fresh;raw;cooked;red;good;hot;cold;soft;hard;tasty
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,bread,fresh;old;white;brown;soft;hard;big;small;warm;new
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;healthy;tasty
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;big;small;tasty;new
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,chicken,cooked;raw;fresh;hot;cold;big;small;white;tasty;soft
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,egg,big;small;white;brown;fresh;raw;cooked;hard;soft;new
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,fish,fresh;raw;cooked;big;small;white;tasty;soft;hard;new
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,pasta,cooked;hot;cold;soft;hard;fresh;tasty;long;short;new
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;fresh;tasty
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Food Items,soup,hot;cold;fresh;tasty;big;small;thick;thin;new;simple
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,artist,famous;young;old;new;good;great;modern;creative;talented;real
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,athlete,strong;young;old;good;great;fast;famous;new;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,chef,good;great;famous;young;old;new;creative;talented;real;big
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,doctor,good;great;young;old;new;famous;real;kind;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,engineer,good;great;young;old;new;real;smart;talented;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,farmer,good;old;young;new;real;big;small;hard;simple;great
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,lawyer,good;great;young;old;new;real;smart;famous;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,musician,good;great;young;old;new;famous;talented;real;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,scientist,good;great;young;old;new;real;smart;famous;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,soldier,strong;brave;young;old;good;great;real;new;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,teacher,good;great;young;old;new;real;kind;smart;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Human Roles,writer,good;great;young;old;new;famous;real;creative;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,book,old;new;big;small;good;great;famous;simple;long;short
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;wide
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,drums,big;small;loud;old;new;round;strong;soft;simple;famous
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,earth,big;small;round;old;new;green;blue;real;beautiful;rich
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,flute,small;long;short;old;new;silver;wooden;simple;soft;beautiful
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;simple;real;important;lost
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;clean;simple
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,lock,old;new;big;small;strong;simple;silver;golden;real;broken
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,moon,full;new;big;small;white;round;bright;high;beautiful;real
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;long;short
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,sun,bright;hot;big;small;yellow;round;high;new;real;strong
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Inanimate Objects,sword,sharp;big;small;old;new;long;short;silver;golden;strong
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,cat,small;big;black;white;young;old;soft;cute;quiet;quick
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,dog,big;small;young;old;black;white;brown;friendly;strong;quick
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,dolphin,big;small;smart;friendly;young;old;quick;blue;gray;playful
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;heavy;friendly;wild;smart
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,hamster,small;big;young;old;cute;soft;quick;brown;white;friendly
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,monkey,small;big;young;old;quick;smart;funny;brown;friendly;wild
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,mouse,small;big;young;old;gray;white;quick;quiet;cute;soft
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,peacock,big;small;young;old;colorful;beautiful;blue;green;proud;wild
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,rabbit,small;big;young;old;white;gray;quick;soft;cute;friendly
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,shark,big;small;young;old;strong;quick;wild;gray;white;dangerous
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,snake,long;short;big;small;green;black;quick;wild;dangerous;quiet
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Neutral Animals,whale,big;small;young;old;blue;gray;strong;friendly;wild;heavy
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,city,big;small;old;new;modern;busy;quiet;rich;poor;famous
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,desert,big;small;hot;dry;old;new;empty;open;sandy;wild
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,forest,big;small;old;new;green;dark;deep;wild;quiet;thick
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,island,big;small;new;old;green;quiet;wild;beautiful;empty;rich
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,lake,big;small;deep;shallow;old;new;blue;quiet;clean;beautiful
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,mountain,big;small;high;low;old;new;green;white;wild;beautiful
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,ocean,big;small;deep;blue;old;new;wild;open;quiet;beautiful
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,plain,big;small;open;green;flat;wide;empty;quiet;new;old
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,plateau,big;small;high;low;flat;open;old;new;dry;wide
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,river,big;small;long;short;deep;shallow;old;new;clean;wild
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,valley,big;small;deep;wide;green;quiet;old;new;open;beautiful
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Places,village,small;big;old;new;quiet;simple;poor;rich;friendly;beautiful
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,cactus,green;big;small;tall;short;old;new;wild;dry;thick
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,eggplant,purple;big;small;long;short;fresh;new;old;soft;round
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;blue;fresh;new;wild
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,grass,green;long;short;soft;thick;fresh;new;wild;dry;clean
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;clean;round;healthy
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;new;old;soft;round
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;strong;soft
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,potato,big;small;white;brown;fresh;new;old;round;soft;hard
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,rose,red;white;yellow;pink;beautiful;fresh;new;wild;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,tomato,red;big;small;fresh;new;old;round;soft;ripe;juicy
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Plants,tree,big;small;old;new;green;tall;short;thick;wild;beautiful
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,ally,good;strong;true;real;old;new;close;loyal;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,brother,big;small;young;old;good;true;real;close;strong;friendly
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,enemy,strong;old;new;big;small;real;true;open;close;dangerous
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,father,good;old;young;big;small;real;true;strong;kind;friendly
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,follower,true;real;good;strong;close;loyal;new;old;big;small
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,friend,good;true;real;old;new;close;best;big;small;kind
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,leader,good;strong;true;real;old;new;big;small;great;kind
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,mother,good;old;young;big;small;real;true;kind;strong;friendly
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,partner,good;true;real;old;new;close;strong;big;small;kind
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,rival,strong;old;new;big;small;real;true;open;close;dangerous
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,sister,big;small;young;old;good;true;real;close;kind;friendly
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Social Relationships,stranger,new;real;true;old;young;big;small;quiet;open;close
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,above,high;open;clear;bright;blue;wide;empty;big;free;far
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,back,strong;big;small;old;new;straight;weak;hard;soft;broad
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,below,low;deep;dark;cold;quiet;open;empty;small;far;close
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,east,far;close;open;new;old;big;small;bright;warm;clear
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,front,open;big;small;new;old;clear;close;strong;wide;bright
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,inside,small;big;dark;quiet;warm;cold;new;old;close;safe
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,left,open;close;big;small;new;old;far;near;quiet;clear
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,north,far;close;cold;open;new;old;big;small;high;clear
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,outside,open;big;small;new;old;cold;warm;quiet;free;clear
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,right,open;close;big;small;new;old;far;near;clear;quiet
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,south,far;close;warm;open;new;old;big;small;low;clear
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Spatial Concepts,west,far;close;open;new;old;big;small;bright;warm;clear
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,century,new;old;last;next;long;short;great;big;small;modern
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;bright;busy
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,evening,long;short;quiet;good;bad;warm;cold;dark;new;old
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,hour,long;short;new;old;last;next;good;bad;busy;quiet
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,minute,long;short;new;old;last;next;good;bad;quick;slow
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,month,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,morning,early;late;new;old;long;short;quiet;good;cold;warm
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;new;old;good;bad
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;good;bad
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,second,long;short;new;old;last;next;quick;slow;good;bad
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,week,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,DE # German,B2,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;open;silent;cold;wild;burning
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,courage,great;true;real;quiet;moral;strong;personal;much;inner;brave
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;open;silent;cold;wild;constant
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,freedom,personal;complete;full;real;political;true;total;great;individual;economic
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,happiness,great;real;true;complete;much;personal;deep;simple;pure;full
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,hate,deep;great;real;strong;open;cold;silent;wild;sudden;true
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,honesty,true;real;complete;great;personal;open;simple;full;moral;total
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,justice,true;real;social;great;complete;moral;equal;fair;legal;natural
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,knowledge,great;deep;real;true;much;personal;full;complete;wide;scientific
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,love,true;real;great;deep;strong;pure;first;much;personal;romantic
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,peace,real;true;great;complete;inner;long;lasting;much;personal;political
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Abstract Concepts,wisdom,great;true;real;deep;much;old;personal;simple;practical;ancient
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;clear;church;round
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,candle,small;big;white;red;long;short;new;old;burning;scented
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;soft;thick;clean;dirty
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;ancient;shiny
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,crown,golden;silver;old;new;big;small;royal;beautiful;heavy;rich
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,flag,national;red;blue;white;big;small;old;new;colorful;green
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,mask,old;new;white;black;red;big;small;scary;beautiful;simple
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;beautiful;long;short;big;small;colorful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;modern;colorful;simple;classic
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,ring,gold;silver;old;new;big;small;beautiful;round;wedding;simple
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;famous;beautiful;ancient;white
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;beautiful;round;glass;simple
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;black;light;thick;high;low
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;natural;recent;powerful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,fog,thick;heavy;light;white;gray;cold;morning;dense;low;wet
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;blue;loud;real;natural;powerful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;strong;soft;hard;constant;sudden;gentle
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;rare;real;full;clear;perfect
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,snow,white;heavy;light;soft;cold;deep;fresh;new;clean;thick
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;real;great;wild;cold;loud;powerful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;big;real;deep;heavy;powerful;distant;constant
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;big;small;daily;regular;natural;rising
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,volcano,active;old;new;big;small;dangerous;strong;real;natural;famous
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;soft;hard;sudden;fresh;gentle;wild
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;ripe;round;juicy;crisp
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,banana,yellow;ripe;big;small;sweet;fresh;long;soft;green;curved
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,beef,fresh;cooked;raw;red;tender;lean;juicy;hot;cold;grilled
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;new;old;sliced;homemade
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;healthy;soft;hard;steamed
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,cheese,hard;soft;yellow;white;fresh;old;strong;mild;sliced;creamy
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,chicken,cooked;raw;fresh;fried;grilled;hot;cold;spicy;tender;roasted
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,egg,boiled;fried;raw;fresh;big;small;white;brown;cooked;hard
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;red;fried;grilled;cold
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,pasta,cooked;fresh;hot;cold;soft;long;short;white;homemade;simple
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;fresh;long;short;sticky
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Food Items,soup,hot;cold;fresh;thick;thin;clear;simple;homemade;spicy;warm
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,artist,famous;young;old;great;modern;creative;talented;new;local;popular
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,athlete,young;strong;great;famous;fast;old;new;talented;professional;top
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,chef,great;famous;young;old;new;talented;professional;creative;top;local
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,doctor,good;young;old;great;famous;new;local;professional;kind;helpful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,engineer,good;young;old;great;new;talented;professional;skilled;top;local
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,farmer,old;young;good;local;small;big;hard-working;poor;rich;simple
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,lawyer,good;young;old;great;famous;new;local;professional;top;skilled
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,musician,famous;young;old;great;new;talented;popular;local;creative;top
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,scientist,famous;young;old;great;new;top;talented;local;good;modern
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,soldier,brave;young;old;strong;good;great;new;professional;loyal;skilled
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,teacher,good;young;old;great;new;local;kind;helpful;professional;top
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Human Roles,writer,famous;young;old;great;new;talented;popular;local;creative;top
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,book,old;new;big;small;good;famous;interesting;long;short;popular
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;famous;high;wooden
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;red;black;famous;round
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,earth,big;round;old;blue;green;beautiful;rich;dry;wet;warm
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,flute,small;long;silver;wooden;old;new;beautiful;simple;famous;soft
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;metal;important;simple;lost
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;metal;dangerous
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,lock,old;new;big;small;strong;metal;broken;simple;golden;silver
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,moon,full;new;big;small;round;bright;white;clear;beautiful;high
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;simple;long;short
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;strong;warm;high;clear;shining
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;big;small;silver;golden;strong
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,cat,small;big;black;white;young;old;cute;soft;wild;lazy
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,dog,big;small;young;old;black;white;brown;friendly;loyal;cute
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;young;old;fast;playful;blue;wild
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,elephant,big;old;young;wild;strong;gray;smart;heavy;gentle;friendly
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,hamster,small;cute;young;old;brown;white;soft;friendly;quick;round
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,monkey,smart;funny;young;old;small;big;wild;brown;quick;playful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,mouse,small;gray;white;quick;cute;young;old;soft;wild;brown
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,peacock,beautiful;big;colorful;blue;green;wild;young;old;bright;proud
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,rabbit,small;white;cute;quick;young;old;soft;wild;brown;friendly
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,shark,big;strong;dangerous;wild;fast;gray;white;old;young;powerful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,snake,long;short;big;small;green;dangerous;wild;quick;old;young
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Neutral Animals,whale,big;blue;old;young;wild;strong;friendly;gray;huge;gentle
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,city,big;small;old;new;modern;busy;large;famous;beautiful;rich
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,desert,big;hot;dry;sandy;wide;empty;old;new;open;wild
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,forest,big;dark;green;old;deep;wild;thick;new;quiet;beautiful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,island,small;big;beautiful;green;new;old;wild;quiet;tropical;famous
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,lake,big;small;deep;blue;clear;beautiful;quiet;old;new;fresh
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,mountain,high;big;small;old;new;tall;famous;green;rocky;snowy
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,ocean,big;deep;blue;wide;open;wild;beautiful;clear;strong;warm
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,plain,big;wide;open;green;flat;dry;empty;long;new;old
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,plateau,high;big;wide;flat;dry;open;old;new;rocky;large
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,river,big;small;long;short;deep;wide;clear;fast;slow;beautiful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,valley,deep;wide;green;big;small;beautiful;quiet;long;open;narrow
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Places,village,small;big;old;new;quiet;beautiful;local;simple;peaceful;friendly
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,cactus,green;big;small;tall;short;old;new;wild;dry;sharp
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,eggplant,purple;big;small;fresh;long;short;new;old;round;soft
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;colorful;pink
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,grass,green;long;short;fresh;wild;soft;dry;thick;new;old
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;crisp;round;healthy
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;new;old;soft;round
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;strong;sweet
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,potato,big;small;white;brown;fresh;new;old;round;soft;cooked
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;big;small;new
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,tomato,red;big;small;fresh;ripe;round;new;old;soft;juicy
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Plants,tree,big;small;old;new;green;tall;young;strong;thick;wild
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,ally,strong;good;true;loyal;old;new;close;trusted;important;friendly
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,brother,big;small;young;old;good;true;close;strong;friendly;kind
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,enemy,strong;old;new;true;real;big;small;dangerous;powerful;main
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,father,good;old;young;strong;kind;loving;true;real;big;caring
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,follower,loyal;true;good;strong;old;new;close;important;young;faithful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,friend,good;true;old;new;close;best;young;real;loyal;kind
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,leader,strong;good;true;great;old;new;young;main;important;real
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,mother,good;old;young;kind;loving;true;real;caring;strong;gentle
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,partner,good;true;close;strong;old;new;important;loyal;real;main
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,rival,strong;main;old;new;true;real;big;small;important;powerful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,sister,big;small;young;old;good;true;close;kind;friendly;loving
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Social Relationships,stranger,new;old;real;true;complete;total;unknown;quiet;silent;distant
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,above,high;open;clear;wide;bright;empty;blue;far;free;sunny
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,back,strong;big;small;old;new;straight;broad;weak;hard;soft
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,below,low;deep;dark;cold;quiet;silent;empty;hidden;wet;soft
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,east,far;new;old;big;small;open;bright;warm;sunny;quiet
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,front,big;small;open;wide;new;old;main;clear;strong;bright
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,inside,warm;quiet;dark;safe;soft;small;big;new;old;private
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,left,open;free;quiet;new;old;big;small;main;clear;empty
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,north,cold;far;new;old;big;small;open;wild;quiet;snowy
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,outside,open;free;big;small;new;old;wild;quiet;bright;fresh
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,right,open;free;clear;new;old;big;small;main;bright;empty
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,south,warm;far;new;old;big;small;open;sunny;quiet;green
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Spatial Concepts,west,far;new;old;big;small;open;wild;quiet;warm;sunny
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,century,new;old;last;next;past;great;long;short;modern;important
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,day,new;old;long;short;good;bad;sunny;rainy;busy;quiet
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,evening,quiet;long;short;warm;cool;dark;late;early;nice;peaceful
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;new;old;last;next
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,minute,long;short;last;next;new;old;quiet;busy;early;late
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,month,new;old;last;next;long;short;busy;quiet;cold;warm
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,morning,early;quiet;new;old;long;short;cold;warm;busy;fresh
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;new;old
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,season,new;old;long;short;cold;warm;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,second,last;next;long;short;new;old;quick;fast;early;late
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,week,new;old;last;next;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,DE # German,C1,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;burning;bitter;cold;growing;hidden
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,courage,great;true;quiet;moral;physical;inner;remarkable;extraordinary;steady;personal
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,fear,deep;great;sudden;constant;irrational;real;growing;silent;intense;overwhelming
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,freedom,complete;total;personal;political;true;individual;economic;religious;absolute;full
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,happiness,great;true;real;pure;simple;lasting;deep;complete;perfect;genuine
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,hate,deep;blind;pure;open;cold;burning;bitter;strong;growing;silent
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,honesty,complete;true;absolute;personal;brutal;simple;total;real;open;moral
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,justice,true;social;criminal;equal;real;natural;poetic;legal;divine;fair
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,knowledge,deep;great;general;scientific;practical;personal;basic;common;detailed;broad
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,love,true;deep;great;pure;real;first;romantic;unconditional;strong;lasting
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,peace,lasting;true;complete;inner;world;real;perfect;long;political;quiet
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Abstract Concepts,wisdom,great;ancient;true;deep;practical;spiritual;common;real;personal;traditional
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;church;heavy;broken;large
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,candle,small;white;scented;burning;tall;thin;red;wax;lit;new
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,carpet,red;large;old;new;thick;soft;blue;green;Persian;beautiful
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,coin,old;gold;silver;small;rare;ancient;new;round;valuable;foreign
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;heavy;silver;ancient;jeweled;new;broken
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,flag,national;red;white;blue;old;new;large;small;green;official
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,mask,old;white;black;wooden;painted;new;golden;silver;scary;beautiful
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;old;new;long;short;pearl;diamond;simple
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,painting,old;beautiful;famous;large;small;modern;abstract;new;original;classic
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;old;new;beautiful;wedding;simple;small;big
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,statue,large;old;bronze;marble;stone;small;famous;ancient;golden;broken
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Cultural Artifacts,vase,old;beautiful;large;small;blue;white;broken;new;glass;ceramic
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;black;grey;heavy;thick;light;fluffy
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,earthquake,big;strong;powerful;sudden;deadly;recent;major;minor;violent;destructive
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,fog,thick;heavy;white;dense;morning;cold;light;grey;low;wet
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;silent;dangerous;white;blue;fast
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,rain,heavy;light;cold;steady;constant;hard;soft;warm;gentle;strong
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;double;full;clear;rare;perfect;wide
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,snow,white;fresh;deep;heavy;soft;cold;light;new;thick;clean
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,storm,big;strong;violent;heavy;sudden;powerful;bad;tropical;winter;dangerous
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,thunder,loud;distant;deep;rolling;sudden;heavy;strong;constant;sharp;powerful
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;powerful;regular;spring;neap
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;dangerous;old;new;powerful;famous;large
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;steady;powerful;soft;fresh;hard
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,apple,red;green;fresh;sweet;big;small;juicy;ripe;crisp;round
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,banana,ripe;yellow;green;sweet;fresh;big;small;long;soft;curved
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,beef,fresh;raw;cooked;lean;tender;ground;roasted;grilled;juicy;rare
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;homemade;sliced;whole;new
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,broccoli,fresh;green;steamed;cooked;raw;healthy;small;big;organic;tender
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,cheese,hard;soft;fresh;old;blue;white;yellow;strong;mild;creamy
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;fresh;spicy;tender;baked;whole
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;scrambled;large;small;white
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;small;big;smoked;white;oily
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,pasta,cooked;fresh;hot;cold;homemade;Italian;long;short;soft;creamy
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,rice,white;brown;cooked;steamed;fried;sticky;long;short;soft;hot
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Food Items,soup,hot;warm;cold;thick;clear;fresh;homemade;spicy;vegetable;chicken
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,artist,famous;young;talented;great;modern;creative;new;old;local;successful
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,athlete,young;strong;great;professional;famous;talented;fast;top;successful;skilled
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,chef,famous;great;young;talented;professional;French;Italian;skilled;creative;top
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,doctor,good;young;old;famous;skilled;local;experienced;family;new;professional
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,engineer,skilled;young;good;experienced;talented;professional;civil;electrical;mechanical;software
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,farmer,local;small;old;young;hard-working;poor;rich;successful;family;organic
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,lawyer,good;young;old;famous;skilled;experienced;top;local;criminal;successful
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,musician,famous;young;talented;great;classical;modern;local;old;new;successful
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,scientist,famous;great;young;old;leading;top;modern;talented;skilled;successful
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,soldier,brave;young;old;good;strong;dead;wounded;experienced;loyal;professional
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,teacher,good;young;old;new;experienced;great;local;favorite;strict;kind
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Human Roles,writer,famous;great;young;old;new;talented;successful;modern;local;popular
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,book,old;new;good;big;small;famous;interesting;thick;thin;favorite
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,bridge,old;new;big;small;long;short;wooden;stone;famous;strong
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,drums,big;loud;small;new;old;wooden;African;electric;fast;heavy
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,earth,round;big;blue;green;old;warm;rich;dry;wet;soft
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,flute,silver;wooden;old;new;small;long;beautiful;simple;gold;traditional
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,key,small;old;new;golden;silver;big;lost;spare;broken;main
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;clean
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,lock,old;new;big;small;broken;strong;heavy;main;metal;golden
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,moon,full;new;bright;round;big;white;clear;half;dark;rising
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,pen,blue;black;red;old;new;small;big;broken;favorite;cheap
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;warm;golden;big;red;yellow;shining
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Inanimate Objects,sword,sharp;old;long;short;silver;golden;big;small;broken;new
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,cat,black;white;small;big;old;young;wild;stray;cute;lazy
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,dog,big;small;old;young;black;white;brown;friendly;loyal;stray
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,dolphin,friendly;smart;playful;big;small;wild;young;fast;grey;intelligent
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,elephant,big;old;young;wild;African;Asian;grey;strong;gentle;huge
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;little;golden;active;friendly
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,monkey,small;big;young;old;wild;brown;clever;playful;noisy;smart
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,mouse,small;little;white;grey;brown;wild;cute;young;old;quiet
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,peacock,beautiful;colorful;big;male;wild;blue;green;proud;young;old
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,rabbit,small;white;brown;cute;wild;young;old;grey;soft;little
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,shark,big;great;white;dangerous;wild;young;old;fast;hungry;strong
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,snake,long;small;big;green;poisonous;dangerous;wild;young;old;black
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Neutral Animals,whale,big;blue;white;huge;old;young;wild;grey;large;friendly
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,city,big;large;small;old;new;modern;ancient;busy;beautiful;crowded
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,desert,hot;dry;big;large;sandy;empty;wide;open;cold;endless
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,forest,big;large;dark;deep;green;old;thick;wild;dense;beautiful
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,island,small;big;tropical;beautiful;remote;private;lonely;green;rocky;sandy
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;cold;warm;fresh;quiet
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,mountain,high;big;tall;old;rocky;snow-covered;green;steep;beautiful;famous
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,ocean,big;deep;blue;wide;open;endless;rough;calm;warm;cold
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,plain,wide;open;flat;green;big;grassy;empty;dry;endless;large
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,plateau,high;flat;large;wide;dry;rocky;big;open;grassy;remote
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,river,big;small;long;wide;deep;fast;slow;clear;dirty;wild
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,valley,deep;wide;green;narrow;beautiful;long;small;open;quiet;peaceful
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Places,village,small;old;quiet;little;new;big;peaceful;remote;beautiful;local
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,cactus,green;big;small;tall;wild;desert;old;young;round;spiny
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,eggplant,purple;big;small;fresh;long;round;young;old;cooked;raw
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,flower,beautiful;red;white;yellow;pink;blue;fresh;wild;small;big
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,grass,green;long;short;fresh;wild;dry;soft;thick;tall;wet
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,lettuce,fresh;green;crisp;big;small;young;old;soft;clean;organic
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,mushroom,wild;fresh;white;brown;small;big;edible;poisonous;raw;cooked
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,onion,red;white;yellow;big;small;fresh;raw;cooked;sweet;strong
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,pepper,red;green;yellow;hot;sweet;black;fresh;small;big;spicy
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,potato,big;small;old;new;white;red;sweet;baked;boiled;fried
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;small;big;single
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,tomato,red;ripe;green;small;big;fresh;round;juicy;sweet;soft
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Plants,tree,big;old;tall;green;small;young;dead;thick;strong;leafy
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,ally,strong;loyal;close;good;old;new;trusted;powerful;important;reliable
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,brother,older;younger;big;little;twin;real;close;dear;lost;loving
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,enemy,old;great;powerful;strong;real;main;bitter;dangerous;deadly;former
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,father,good;old;young;loving;real;strict;kind;proud;caring;wise
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,follower,loyal;faithful;true;close;new;old;strong;devoted;young;active
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,friend,good;close;best;old;new;true;dear;loyal;real;trusted
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,leader,strong;great;good;true;new;old;powerful;natural;wise;respected
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,mother,good;loving;young;old;real;kind;caring;proud;single;wise
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,partner,good;new;old;close;true;strong;loyal;trusted;business;perfect
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,rival,main;old;strong;great;bitter;new;powerful;close;real;dangerous
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,sister,older;younger;big;little;twin;real;close;dear;lost;loving
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Social Relationships,stranger,complete;total;perfect;new;old;silent;quiet;dark;unknown;mysterious
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,above,high;clear;open;bright;blue;empty;wide;far;sunny;endless
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,back,lower;upper;strong;broad;straight;weak;stiff;sore;flat;bare
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,below,deep;dark;cold;quiet;silent;empty;hidden;low;secret;wet
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,east,far;distant;bright;rising;new;old;golden;warm;open;sunny
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,front,main;open;wide;big;small;new;old;strong;flat;clear
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,inside,warm;safe;quiet;dark;bright;small;big;dry;clean;private
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,left,far;near;lower;upper;main;open;free;empty;quiet;silent
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,north,far;cold;distant;wild;open;high;snowy;dark;remote;strong
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,outside,open;wide;free;big;cold;warm;bright;dark;empty;public
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,right,far;near;lower;upper;main;open;free;empty;quiet;silent
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,south,far;warm;distant;open;sunny;bright;green;rich;wild;new
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Spatial Concepts,west,far;wild;open;distant;old;new;golden;free;bright;rich
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,century,new;old;last;past;present;next;early;late;modern;golden
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,day,new;good;long;short;hot;cold;sunny;rainy;busy;bright
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,evening,late;quiet;long;warm;cool;dark;early;peaceful;beautiful;soft
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;last;next;free;golden
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,minute,last;next;long;short;free;busy;quiet;early;late;golden
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,month,last;next;new;old;long;short;busy;quiet;cold;warm
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,morning,early;quiet;new;cold;warm;bright;fresh;busy;long;beautiful
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,night,long;dark;quiet;cold;warm;late;short;clear;beautiful;silent
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,season,new;old;long;short;dry;wet;cold;warm;busy;quiet
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,second,last;next;long;short;free;busy;quiet;early;late;golden
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,week,last;next;new;long;short;busy;quiet;good;bad;free
+gpt-4.1,basic,0.0,DE # German,C2,most frequent,Time Concepts,year,last;next;new;old;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,anger,great;deep;sudden;strong;silent;cold;open;real;burning;wild
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,courage,great;true;moral;quiet;personal;physical;real;inner;much;strong
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,fear,great;deep;sudden;real;constant;strong;open;silent;cold;wild
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,freedom,personal;political;complete;true;real;full;individual;religious;economic;total
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,happiness,great;true;real;complete;perfect;much;deep;pure;simple;lasting
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,hate,deep;great;open;real;strong;cold;pure;burning;silent;wild
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,honesty,complete;true;real;personal;great;perfect;open;simple;much;moral
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,justice,social;true;real;complete;perfect;moral;equal;natural;legal;divine
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,knowledge,great;deep;true;real;complete;perfect;much;personal;scientific;practical
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,love,true;great;deep;real;pure;perfect;strong;first;much;lasting
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,peace,complete;true;real;lasting;perfect;inner;much;great;political;personal
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Abstract Concepts,wisdom,great;true;deep;real;much;perfect;ancient;practical;personal;moral
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;clear;church;heavy
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,candle,small;white;long;short;red;new;old;burning;scented;thin
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;thick;soft;clean;dirty
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,coin,old;new;gold;silver;small;big;round;rare;ancient;shiny
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;old;new;big;small;silver;beautiful;heavy;ancient
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;old;new;big;small;green;black
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,mask,old;new;white;black;red;golden;small;big;wooden;painted
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;beautiful;long;short;pearl;big;small
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;modern;ancient;original;colorful
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;old;new;big;small;wedding;beautiful;simple;diamond
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;golden;ancient;beautiful;famous
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,vase,old;new;big;small;white;blue;beautiful;broken;glass;ceramic
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,cloud,white;dark;big;small;black;gray;heavy;light;thick;high
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;great;recent;powerful;deadly;natural
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,fog,thick;heavy;white;gray;cold;morning;dense;light;low;wet
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;quick;white;blue;powerful;silent;wild;natural
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;hard;soft;steady;constant;sudden;strong
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,rainbow,bright;beautiful;big;small;colorful;clear;double;rare;full;perfect
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,snow,white;heavy;light;soft;cold;deep;fresh;new;thick;pure
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;great;wild;powerful;cold;violent;natural
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;heavy;distant;rolling;great;powerful;wild
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;weak;rising;falling;daily;big;small;natural
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,volcano,active;old;new;big;small;dead;dangerous;high;famous;natural
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;soft;hard;steady;sudden;wild;fresh
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;ripe;juicy;round;yellow
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,banana,yellow;ripe;green;big;small;sweet;fresh;long;soft;curved
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,beef,fresh;raw;cooked;red;tender;lean;ground;grilled;roasted;juicy
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;new;old;sliced;homemade
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;healthy;steamed;soft;tender
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,cheese,hard;soft;white;yellow;fresh;old;strong;mild;sliced;creamy
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,chicken,cooked;raw;fresh;fried;grilled;roasted;small;big;white;tender
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,egg,boiled;fried;raw;fresh;white;brown;big;small;hard;soft
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,fish,fresh;raw;cooked;big;small;white;fried;grilled;smoked;salty
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,pasta,cooked;fresh;hot;cold;long;short;soft;homemade;Italian;simple
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;steamed;fried;soft;sticky
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Food Items,soup,hot;cold;thick;thin;fresh;homemade;clear;simple;warm;tasty
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,artist,great;famous;young;old;modern;talented;creative;new;local;popular
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,athlete,great;young;old;strong;famous;fast;talented;professional;new;top
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,chef,great;famous;young;old;new;talented;professional;French;Italian;top
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,doctor,good;young;old;great;famous;new;local;family;private;top
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,engineer,good;young;old;great;new;talented;professional;civil;electrical;top
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,farmer,old;young;local;small;big;good;poor;rich;family;hard-working
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,lawyer,good;young;old;great;famous;new;local;top;criminal;civil
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,musician,great;young;old;famous;new;talented;classical;modern;local;popular
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,scientist,great;young;old;famous;new;top;modern;talented;leading;local
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,soldier,brave;young;old;great;good;strong;new;dead;wounded;loyal
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,teacher,good;young;old;great;new;local;famous;top;strict;kind
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Human Roles,writer,great;young;old;famous;new;modern;popular;local;top;talented
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,book,old;new;big;small;good;great;famous;interesting;long;short
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,bridge,old;new;big;small;long;short;high;low;wooden;stone
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;metal;heavy;light;round
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;brown;rich;dry;wet
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;old;new;small;long;short;metal;beautiful;simple
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,key,small;big;old;new;golden;silver;metal;main;house;car
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;kitchen;pocket;silver
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,lock,old;new;big;small;strong;weak;metal;golden;silver;main
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,moon,full;new;big;small;bright;round;white;clear;high;beautiful
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;old;new;small;big;long;short;simple
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;red;white;high;strong;warm
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Inanimate Objects,sword,long;short;old;new;sharp;big;small;golden;silver;heavy
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,cat,black;white;small;big;young;old;wild;domestic;cute;lazy
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;wild
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,dolphin,big;small;young;old;wild;friendly;smart;fast;gray;playful
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,elephant,big;small;young;old;wild;gray;African;Indian;strong;friendly
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,hamster,small;big;young;old;cute;brown;white;golden;wild;domestic
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,monkey,small;big;young;old;wild;brown;funny;smart;quick;playful
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,mouse,small;big;white;gray;brown;young;old;wild;domestic;quick
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,peacock,big;small;beautiful;colorful;wild;male;female;young;old;blue
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,rabbit,small;big;white;brown;wild;young;old;cute;quick;domestic
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,shark,big;small;white;gray;wild;young;old;dangerous;fast;strong
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,snake,long;short;big;small;green;black;wild;young;old;dangerous
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Neutral Animals,whale,big;small;blue;white;wild;young;old;gray;strong;friendly
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,city,big;small;old;new;modern;ancient;busy;famous;beautiful;large
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,desert,big;small;hot;dry;sandy;wide;empty;open;cold;wild
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,forest,big;small;old;new;green;dark;deep;thick;wild;quiet
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,island,big;small;new;old;tropical;green;beautiful;wild;quiet;remote
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,lake,big;small;deep;shallow;clear;blue;old;new;quiet;beautiful
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,mountain,high;low;big;small;old;new;green;rocky;snowy;steep
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,ocean,big;small;deep;blue;wide;open;wild;quiet;warm;cold
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,plain,big;small;wide;open;green;flat;dry;empty;grassy;quiet
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,plateau,big;small;high;low;wide;flat;dry;rocky;open;green
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,river,big;small;long;short;deep;wide;narrow;clear;fast;slow
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,valley,big;small;deep;wide;green;narrow;quiet;open;beautiful;long
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Places,village,small;big;old;new;quiet;peaceful;local;rural;beautiful;simple
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,cactus,big;small;green;tall;short;wild;old;new;dry;round
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,eggplant,big;small;purple;fresh;raw;cooked;long;round;soft;ripe
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;blue;pink
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,grass,green;long;short;fresh;wild;dry;soft;thick;tall;new
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,lettuce,green;fresh;big;small;crisp;new;old;soft;wild;round
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,mushroom,small;big;white;brown;wild;fresh;raw;cooked;soft;round
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,onion,big;small;white;red;yellow;fresh;raw;cooked;sweet;round
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,pepper,red;green;yellow;hot;sweet;big;small;fresh;raw;cooked
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,potato,big;small;white;brown;new;old;fresh;cooked;raw;round
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;small;big;new
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,tomato,red;green;big;small;fresh;ripe;round;raw;cooked;juicy
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Plants,tree,big;small;old;new;green;tall;young;wild;thick;strong
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,ally,strong;good;old;new;loyal;close;true;powerful;trusted;important
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,brother,big;small;young;old;older;younger;good;true;close;dear
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,enemy,old;new;strong;great;powerful;true;main;real;dangerous;bitter
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,father,old;young;good;great;real;true;loving;strong;kind;proud
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,follower,loyal;true;good;old;new;close;strong;faithful;young;active
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,friend,good;old;new;close;true;best;dear;loyal;young;real
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,leader,strong;good;great;true;new;old;main;real;powerful;top
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,mother,old;young;good;great;real;true;loving;kind;strong;proud
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,partner,good;new;old;true;strong;close;loyal;real;important;main
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,rival,old;new;strong;main;true;great;real;powerful;close;bitter
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,sister,big;small;young;old;older;younger;good;true;close;dear
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Social Relationships,stranger,old;new;young;unknown;complete;total;real;true;foreign;quiet
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,above,high;open;clear;bright;blue;wide;empty;free;quiet;sunny
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,back,strong;broad;straight;weak;bare;open;flat;hard;soft;narrow
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,below,low;dark;deep;quiet;cold;open;empty;wet;hidden;silent
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,east,far;near;distant;open;bright;sunny;warm;quiet;new;old
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,front,open;main;wide;big;small;new;old;clear;strong;bright
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,inside,warm;quiet;dark;safe;open;empty;new;old;big;small
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,left,open;free;empty;quiet;main;big;small;new;old;clear
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,north,far;near;distant;cold;open;wild;quiet;new;old;high
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,outside,open;free;empty;quiet;cold;warm;new;old;big;small
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,right,open;free;empty;quiet;main;big;small;new;old;clear
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,south,far;near;distant;warm;open;quiet;new;old;low;sunny
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Spatial Concepts,west,far;near;distant;open;quiet;new;old;wild;warm;sunny
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,century,new;old;last;next;past;present;great;long;short;modern
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,day,new;old;long;short;good;bad;sunny;rainy;busy;quiet
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,evening,long;short;quiet;warm;cool;late;early;dark;beautiful;busy
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,hour,long;short;late;early;last;next;busy;quiet;good;bad
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,minute,long;short;last;next;early;late;quiet;busy;good;bad
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,month,new;old;last;next;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,morning,early;late;quiet;new;old;long;short;cold;warm;busy
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;new;old
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,season,new;old;long;short;last;next;busy;quiet;warm;cold
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,second,long;short;last;next;early;late;quick;slow;good;bad
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,week,new;old;last;next;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,DE # German,Perfect,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;quiet

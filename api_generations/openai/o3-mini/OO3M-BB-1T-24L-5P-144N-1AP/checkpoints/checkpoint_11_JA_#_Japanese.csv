@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,anger,strong;deep;hot;fierce;burning;sudden;wild;bitter;constant;raw
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,courage,brave;strong;bold;true;firm;clear;noble;real;good;steady
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,fear,deep;strong;bad;dark;sudden;real;cold;high;fierce;constant
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,freedom,true;great;pure;strong;clear;wide;open;full;real;high
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,happiness,great;deep;full;true;good;pure;clear;high;warm;bright
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,hate,strong;deep;bitter;fierce;raw;dark;bad;wild;sudden;constant
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,honesty,true;real;good;clear;pure;simple;strong;high;noble;firm
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,justice,true;fair;good;clear;strong;pure;real;firm;noble;even
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,knowledge,deep;broad;wide;real;true;good;pure;full;high;clear
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,love,deep;strong;true;pure;warm;good;real;clear;bright;kind
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,peace,calm;still;true;good;clear;deep;pure;quiet;real;high
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,wisdom,deep;true;real;good;pure;clear;old;strong;rare;high
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,bell,small;old;clear;loud;round;pure;good;bright;shiny;heavy
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,candle,small;light;warm;bright;pure;old;clear;soft;good;real
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,carpet,soft;warm;clean;nice;thick;old;bright;good;real;fine
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,coin,small;round;bright;real;good;pure;clear;hard;thin;old
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,crown,gold;bright;high;old;fine;pure;clear;real;good;royal
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,flag,red;blue;bright;high;real;good;clear;strong;pure;bold
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,mask,old;new;clear;simple;good;dark;pure;real;small;strong
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,necklace,short;long;gold;bright;pure;clear;good;old;fine;real
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,painting,old;new;real;good;clear;bright;fine;pure;strong;bold
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,ring,small;round;gold;bright;pure;good;clear;real;old;fine
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,statue,big;old;strong;clear;real;good;fine;pure;round;high
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,vase,small;old;clear;fine;pure;good;bright;real;tall;round
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,cloud,white;soft;light;high;real;good;deep;pure;thick;wide
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,earthquake,big;strong;real;bad;deep;sudden;wild;dark;fierce;hard
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,fog,thick;dark;heavy;soft;deep;low;pale;weak;cold;still
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,lightning,bright;fast;strong;real;sharp;high;clear;wild;quick;sudden
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,rain,wet;cold;soft;light;heavy;real;good;pure;clear;strong
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,rainbow,bright;clear;beautiful;high;real;good;pure;fine;wide;lovely
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;light;real;good;clear;deep;pure;heavy
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,storm,big;strong;dark;loud;real;bad;deep;high;wild;sudden
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,thunder,loud;deep;strong;real;bad;high;dark;sudden;wild;heavy
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,tide,high;low;strong;deep;real;good;clear;calm;wild;full
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,volcano,big;high;strong;real;hot;deep;wild;fierce;active;dangerous
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,wind,strong;soft;high;wild;deep;real;good;cold;clear;fast
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,apple,red;green;good;small;round;sweet;fresh;pure;ripe;bright
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,banana,yellow;good;ripe;soft;sweet;long;fresh;pure;real;bright
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,beef,red;good;raw;fresh;strong;real;fine;pure;soft;thick
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,bread,fresh;good;soft;old;warm;pure;real;fine;brown;thick
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,broccoli,green;fresh;good;raw;pure;real;firm;bright;small;healthy
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,cheese,yellow;good;fresh;soft;real;pure;fine;old;sharp;round
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,chicken,white;good;fresh;raw;small;strong;pure;real;fine;soft
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,egg,small;white;good;raw;fresh;round;pure;real;fine;hard
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,fish,small;good;fresh;raw;blue;dark;light;pure;real;cold
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,pasta,long;good;soft;fresh;pure;fine;thin;yellow;real;warm
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,rice,white;good;small;fine;pure;real;dry;soft;light;fresh
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,soup,hot;good;warm;deep;clear;soft;fresh;real;pure;tasty
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,artist,good;young;smart;kind;true;real;bold;free;calm;creative
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,athlete,strong;fast;good;young;brave;smart;real;hard;fit;active
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,chef,good;smart;young;kind;calm;real;fine;strong;bold;quick
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,doctor,good;kind;smart;strong;true;calm;real;neat;helpful;busy
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,engineer,good;smart;young;strong;clear;real;fine;bold;calm;quick
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,farmer,good;strong;old;kind;real;hard;true;simple;calm;steady
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,lawyer,good;smart;strong;clear;real;bold;true;kind;fair;neat
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,musician,good;young;smart;kind;real;bold;free;calm;quick;fine
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,scientist,good;smart;strong;real;clear;bold;true;kind;calm;young
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,soldier,strong;brave;good;real;bold;true;hard;firm;young;tough
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,teacher,good;kind;smart;strong;true;real;calm;neat;young;clear
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,writer,good;smart;kind;real;true;calm;neat;bold;young;funny
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,book,old;good;thick;real;clear;fine;bright;small;young;plain
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,bridge,old;long;strong;good;high;clear;real;neat;wide;firm
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,drums,loud;strong;good;real;deep;clear;bold;wild;bright;fast
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,earth,old;big;round;real;good;clear;high;dark;pure;firm
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,flute,small;clear;good;soft;high;light;real;bright;fine;pure
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,key,small;old;good;real;clear;fine;bright;dark;strong;thin
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,knife,sharp;good;strong;real;clear;old;thin;bright;fine;cold
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,lock,old;small;good;strong;real;clear;fine;dark;pure;tight
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,moon,round;bright;full;clear;old;high;real;calm;pure;soft
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,pen,small;good;dark;real;fine;clear;sharp;neat;thin;blue
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,sun,big;bright;hot;clear;real;good;high;pure;strong;warm
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,sword,sharp;strong;good;old;real;clear;bright;fine;long;bold
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,cat,small;good;cute;fast;soft;real;kind;young;neat;bright
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,dog,good;fast;kind;small;real;young;strong;neat;wild;brave
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,dolphin,smart;kind;good;fast;young;real;clear;fine;bright;strong
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,elephant,big;old;strong;good;real;kind;dark;pure;high;slow
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,hamster,small;cute;good;soft;real;fast;kind;neat;young;light
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,monkey,funny;smart;good;real;kind;fast;young;clear;wild;bright
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,mouse,small;quick;good;real;soft;neat;light;kind;pure;young
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,peacock,colorful;bright;fine;good;real;bold;pure;clear;high;neat
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,rabbit,small;cute;fast;soft;good;real;kind;neat;bright;young
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,shark,big;strong;fast;real;good;dark;wild;fierce;pure;bold
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,snake,long;thin;strong;real;good;dark;cold;pure;quick;smooth
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,whale,big;strong;slow;deep;real;good;high;dark;pure;old
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,city,big;old;good;real;high;clear;strong;neat;wide;busy
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,desert,hot;dry;big;old;real;good;clear;high;pure;empty
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,forest,big;green;old;real;good;deep;wild;clear;pure;calm
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,island,small;big;clear;real;old;good;high;pure;neat;calm
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,lake,big;deep;clear;real;old;good;pure;calm;high;still
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,mountain,big;high;old;strong;real;deep;good;clear;pure;tall
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,ocean,big;deep;blue;real;good;wild;high;strong;clear;pure
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,plain,big;wide;flat;real;good;clear;old;neat;pure;bright
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,plateau,high;flat;old;big;strong;real;good;clear;pure;wide
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,river,long;deep;clear;real;old;good;strong;pure;high;wild
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,valley,deep;low;wide;real;old;good;clear;pure;high;calm
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,village,small;old;neat;real;good;clear;strong;pure;high;quiet
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,cactus,green;sharp;small;good;real;prickly;deep;old;clear;pure
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,eggplant,purple;small;good;fresh;real;pure;clear;bright;old;soft
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,flower,small;bright;red;good;clear;pure;real;fresh;nice;sweet
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,grass,green;small;good;real;pure;soft;neat;clear;fine;fresh
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,lettuce,green;fresh;good;small;real;pure;clear;neat;raw;clean
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,mushroom,small;brown;good;fresh;real;pure;deep;old;neat;soft
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,onion,small;white;strong;real;good;fresh;pure;sharp;raw;clear
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,pepper,red;hot;good;small;real;pure;clear;fresh;bold;strong
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,potato,brown;big;good;real;soft;pure;clear;old;round;raw
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,rose,red;sweet;good;bright;real;pure;soft;small;fresh;nice
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,tomato,red;round;good;fresh;real;pure;bright;soft;nice;sweet
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,tree,big;old;green;strong;real;good;high;clear;pure;tall
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,ally,true;good;kind;brave;real;strong;clear;bold;firm;pure
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,brother,good;kind;strong;real;true;old;young;neat;close;dear
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,enemy,bad;cruel;strong;real;dark;mean;fierce;wild;harsh;cold
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,father,old;good;strong;kind;real;true;wise;close;neat;brave
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,follower,good;true;kind;real;strong;neat;bold;close;simple;young
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,friend,good;kind;true;real;close;neat;bold;warm;young;nice
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,leader,strong;true;good;bold;kind;real;smart;brave;clear;neat
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,mother,old;good;kind;real;true;warm;neat;close;calm;brave
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,partner,good;close;kind;true;real;strong;neat;bold;clear;friendly
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,rival,strong;bad;real;bold;fierce;true;clear;tough;hard;wild
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,sister,good;kind;true;real;close;neat;old;young;warm;dear
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,stranger,bad;new;real;unknown;kind;true;clear;neat;dark;cold
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,above,high;clear;real;bright;true;good;fine;pure;neat;open
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,back,strong;real;good;firm;clear;tight;neat;high;pure;hard
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,below,low;deep;real;good;clear;pure;strong;fine;neat;dark
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,east,good;real;pure;bright;high;clear;strong;old;neat;warm
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,front,clear;strong;real;good;bold;neat;high;true;pure;open
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,inside,deep;clear;real;good;warm;pure;strong;neat;bright;calm
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,left,small;good;real;clear;pure;neat;strong;fine;bright;true
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,north,cold;high;clear;strong;real;good;pure;neat;bright;true
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,outside,open;wide;clear;real;good;strong;bright;neat;pure;high
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,right,true;clear;good;strong;real;neat;pure;bold;firm;bright
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,south,warm;high;clear;good;real;pure;strong;neat;bright;kind
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,west,old;clear;real;good;strong;high;pure;neat;bright;wide
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,century,old;long;great;real;good;high;clear;pure;deep;famous
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,day,long;bright;good;clear;real;warm;high;pure;simple;fine
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,evening,dark;calm;good;clear;real;cool;quiet;warm;pure;soft
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,hour,short;long;good;clear;real;high;pure;quick;fine;simple
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,minute,small;short;good;clear;real;quick;pure;fine;neat;light
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,month,long;good;real;clear;old;high;pure;bright;fine;cool
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,morning,bright;good;clear;real;warm;pure;fresh;high;calm;early
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,night,dark;long;good;deep;quiet;real;pure;still;cool;calm
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,season,good;long;real;clear;old;high;pure;warm;cool;fine
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,second,short;good;clear;real;quick;fine;pure;neat;small;fast
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,week,long;good;real;clear;fine;pure;high;neat;old;bright
+o3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,year,long;good;old;real;clear;high;pure;fine;great;bright
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,anger,intense;powerful;strong;quick;deep;burning;fierce;loud;raw;bitter
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,courage,brave;bold;strong;heroic;determined;noble;fearless;steadfast;daring;valiant
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,fear,intense;deep;sudden;overwhelming;constant;strong;dark;eerie;cold;sharp
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,freedom,absolute;true;complete;free;vast;open;pure;simple;independent;natural
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,happiness,joyful;bright;warm;sweet;calm;deep;true;full;pleasant;clear
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,hate,intense;deep;strong;bitter;cold;sharp;harsh;fierce;powerful;severe
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,honesty,clear;true;open;frank;pure;simple;sincere;direct;plain;fair
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,justice,true;fair;equal;strict;complete;right;firm;solid;clear;proper
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,knowledge,deep;broad;vast;true;clear;sound;solid;basic;modern;useful
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,love,true;deep;pure;strong;warm;tender;sweet;kind;real;gentle
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,peace,calm;quiet;lasting;gentle;clear;pure;soft;steady;deep;smooth
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,wisdom,old;deep;true;clear;solid;ancient;sound;basic;humble;pure
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,bell,small;round;clear;old;loud;shiny;metal;heavy;bright;crisp
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,candle,small;thin;bright;old;soft;warm;flickering;pale;gentle;simple
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,carpet,soft;thick;warm;bright;clean;neat;old;new;rich;fine
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,coin,small;round;bright;old;shiny;heavy;silver;golden;clear;valuable
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,crown,golden;royal;bright;heavy;old;fine;neat;shiny;elegant;majestic
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,flag,bright;colorful;bold;large;red;blue;neat;clear;simple;strong
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,mask,plain;old;new;neat;clear;strange;dark;silent;simple;scary
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,necklace,golden;pretty;bright;old;small;neat;fine;clear;shiny;elegant
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,painting,old;bright;colorful;neat;clear;true;deep;rich;warm;soft
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,ring,small;golden;bright;neat;old;fine;round;clear;shiny;elegant
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,statue,big;old;proud;strong;clear;neat;tall;solid;fine;noble
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,vase,old;neat;fine;clear;bright;pure;simple;round;elegant;delicate
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,cloud,white;soft;light;dark;high;large;thin;deep;slow;gentle
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,earthquake,strong;sudden;deep;large;heavy;fierce;intense;major;violent;quick
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,fog,thick;soft;light;dark;deep;white;slow;dense;low;misty
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,lightning,bright;quick;strong;sharp;sudden;clear;hot;vivid;pure;intense
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,rain,wet;soft;light;heavy;cold;clear;dark;strong;fresh;sudden
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,rainbow,bright;colorful;clear;soft;deep;rare;bold;neat;true;lovely
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,snow,white;soft;cold;light;fresh;pure;deep;thick;clear;silent
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,storm,strong;heavy;dark;wild;fierce;quick;loud;deep;sudden;rough
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,thunder,loud;deep;strong;sudden;booming;dark;heavy;clear;rough;fierce
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,tide,high;low;strong;deep;powerful;slow;clear;rough;steady;regular
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,volcano,hot;active;strong;deep;large;sudden;fierce;heavy;burning;dangerous
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;soft;heavy;fast;clear;light;fresh;wild
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,apple,red;green;sweet;fresh;tasty;small;round;juicy;crisp;ripe
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,banana,yellow;sweet;ripe;soft;long;fresh;smooth;tasty;bright;curved
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,beef,red;fresh;rare;hot;cooked;tender;thick;juicy;lean;raw
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,bread,fresh;soft;warm;brown;tasty;light;neat;firm;thick;plain
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,broccoli,green;fresh;raw;firm;healthy;crunchy;tasty;light;small;bright
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,cheese,soft;hard;fresh;old;tasty;rich;mild;sharp;white;creamy
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,chicken,fresh;small;cooked;tender;hot;tasty;firm;lean;juicy;light
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,egg,small;white;fresh;raw;hard;soft;oval;neat;pure;fragile
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,fish,fresh;small;raw;cooked;tasty;firm;lean;light;wet;salty
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,pasta,cooked;soft;fresh;hot;neat;plain;firm;tasty;light;smooth
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,rice,white;steamed;fresh;soft;neat;plain;tasty;hot;small;light
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,soup,warm;hot;rich;fresh;tasty;neat;light;clear;deep;mild
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,artist,creative;talented;wise;bold;smart;careful;thoughtful;deep;unique;skilled
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,athlete,strong;fast;brave;tough;active;smart;agile;fit;quick;powerful
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,chef,skilled;creative;careful;tidy;neat;smart;experienced;friendly;precise;bold
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,doctor,kind;smart;careful;true;brave;gentle;skilled;calm;patient;helpful
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,engineer,smart;careful;skilled;creative;logical;precise;neat;true;modern;practical
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,farmer,hard;strong;kind;smart;patient;honest;active;hardworking;calm;rural
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,lawyer,smart;careful;true;strong;wise;bold;clear;firm;fair;legal
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,musician,creative;talented;smart;bright;deep;bold;neat;fine;rhythmic;skilled
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,scientist,smart;careful;deep;true;logical;neat;bright;solid;precise;curious
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,soldier,brave;strong;tough;bold;loyal;disciplined;active;firm;steady;resilient
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,teacher,kind;smart;patient;clear;fair;gentle;wise;friendly;steady;helpful
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,writer,creative;smart;careful;deep;bold;true;neat;bright;fine;original
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,book,old;thick;small;big;neat;clear;deep;interesting;rich;popular
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,bridge,long;strong;old;large;tall;clear;firm;safe;solid;wide
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,drums,loud;strong;deep;fast;neat;clear;heavy;bold;old;rhythmic
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,earth,round;old;heavy;firm;deep;blue;green;solid;natural;vast
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,flute,small;bright;soft;clear;neat;old;fine;pure;smooth;sweet
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,key,small;metal;old;neat;clear;bright;simple;thin;sturdy;plain
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,knife,sharp;small;strong;bright;dangerous;old;neat;fine;cold;sturdy
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,lock,old;strong;neat;clear;small;heavy;safe;tight;solid;firm
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,moon,bright;full;round;clear;pale;calm;soft;old;deep;silent
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,pen,small;neat;long;clear;blue;fine;smooth;sharp;bright;new
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,sun,bright;warm;strong;clear;big;high;deep;golden;pure;lively
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,sword,sharp;strong;bright;old;clean;true;lean;heavy;bold;fine
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,cat,small;cute;soft;quick;neat;agile;calm;smart;kind;gentle
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,dog,loyal;friendly;strong;kind;brave;neat;quick;smart;happy;active
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,dolphin,smart;friendly;quick;active;kind;bright;neat;playful;warm;agile
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,elephant,huge;strong;old;kind;gentle;heavy;wise;calm;solid;massive
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,hamster,small;cute;quick;soft;neat;kind;funny;active;tiny;round
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,monkey,smart;quick;agile;fun;playful;curious;active;neat;lively;bold
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,mouse,small;quiet;quick;neat;soft;brown;light;timid;smart;delicate
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,peacock,colorful;bright;elegant;proud;neat;bold;lovely;grand;shining;rare
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,rabbit,small;soft;cute;quick;neat;light;gentle;kind;warm;timid
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,shark,big;strong;fierce;fast;old;deep;dark;bold;sharp;wild
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,snake,long;slim;cold;quiet;sly;dark;strong;sharp;smooth;dangerous
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,whale,huge;big;strong;deep;gentle;calm;old;slow;heavy;grand
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,city,big;busy;bright;clean;old;modern;strong;neat;lively;crowded
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,desert,dry;hot;vast;empty;old;sandy;bright;clear;harsh;lonely
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,forest,green;deep;dark;quiet;old;huge;rich;wild;fresh;calm
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,island,small;green;quiet;old;bright;clear;safe;neat;calm;lonely
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,lake,clear;deep;still;blue;large;dark;pure;calm;fresh;quiet
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,mountain,high;tall;deep;old;strong;round;clear;vast;cold;solid
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,ocean,big;deep;blue;vast;strong;wild;rough;clear;endless;salty
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,plain,wide;flat;open;clear;simple;large;calm;quiet;vast;gentle
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,plateau,high;flat;wide;clear;old;strong;open;neat;vast;calm
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,river,long;deep;clear;fast;wild;strong;blue;pure;fresh;winding
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,valley,deep;green;wide;quiet;calm;old;clear;low;rich;open
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,village,small;quiet;calm;old;neat;green;close;warm;friendly;clear
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,cactus,green;sharp;small;dry;spiny;tough;firm;dark;neat;old
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,eggplant,purple;fresh;soft;neat;small;dark;rich;tasty;bright;firm
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,flower,beautiful;bright;fresh;red;small;neat;pure;soft;delicate;sweet
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,grass,green;soft;fresh;neat;small;pure;deep;natural;light;thick
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,lettuce,green;fresh;soft;neat;crisp;light;small;tasty;pure;raw
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,mushroom,small;brown;fresh;neat;soft;wild;dark;rich;pure;tasty
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,onion,small;white;strong;fresh;raw;neat;brown;sharp;clear;pungent
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,pepper,red;hot;fresh;small;neat;bright;strong;spicy;rich;sharp
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,potato,brown;soft;fresh;firm;neat;small;old;tasty;rich;light
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,rose,red;beautiful;sweet;fresh;neat;soft;bright;lovely;pure;fragrant
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,tomato,red;fresh;soft;ripe;neat;small;round;juicy;rich;pure
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,tree,tall;old;green;strong;deep;large;wide;neat;firm;natural
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,ally,loyal;kind;true;brave;strong;friendly;firm;close;helpful;honest
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,brother,kind;close;strong;true;young;old;smart;brave;good;friendly
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,enemy,strong;cruel;dark;fierce;bitter;harsh;angry;bold;loud;wild
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,father,kind;strong;old;true;wise;brave;firm;calm;good;close
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,follower,loyal;true;kind;brave;neat;close;smart;active;firm;steady
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,friend,kind;true;friendly;close;good;brave;warm;smart;neat;loyal
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,leader,strong;brave;smart;kind;bold;true;firm;clear;wise;reliable
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,mother,kind;warm;true;strong;good;old;brave;neat;close;caring
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,partner,loyal;true;kind;close;brave;strong;smart;neat;good;friendly
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,rival,strong;fierce;bold;brave;sharp;quick;smart;tough;active;cold
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,sister,kind;close;smart;brave;true;warm;neat;good;friendly;gentle
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,stranger,unknown;new;distant;cold;quiet;clear;small;plain;rare;bold
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,above,high;upper;distant;clear;bright;far;lofty;raised;elevated;supreme
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,back,broad;strong;curved;flat;firm;neat;clear;stiff;plain;heavy
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,below,low;deep;far;clear;dark;small;quiet;near;soft;plain
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,east,eastern;bright;warm;clear;open;sunny;soft;fresh;neat;calm
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,front,clear;bright;open;neat;strong;close;high;full;plain;bold
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,inside,inner;dark;quiet;deep;clear;small;neat;close;warm;safe
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,left,left;minor;clear;quiet;simple;distant;neat;small;true;hidden
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,north,northern;cold;clear;strong;bright;high;deep;pure;open;wild
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,outside,outer;clear;bright;open;strong;neat;wild;fresh;safe;pure
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,right,correct;true;neat;bright;clear;strong;proper;close;sharp;fair
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,south,southern;warm;clear;bright;deep;pure;open;neat;strong;fresh
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,west,western;wild;broad;clear;cool;deep;open;bright;neat;strong
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,century,long;old;great;many;clear;deep;big;long-lasting;bright;rich
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,day,bright;long;clear;warm;short;good;fine;busy;full;calm
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,evening,quiet;calm;cool;soft;dark;neat;gentle;clear;late;lovely
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,hour,short;long;busy;clear;good;true;neat;small;fast;slow
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,minute,small;short;quick;neat;clear;tiny;fast;precise;deep;full
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,month,long;short;clear;bright;busy;cold;warm;neat;full;rich
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,morning,early;bright;fresh;calm;neat;warm;quiet;clear;mild;promising
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,night,dark;quiet;long;clear;cool;deep;calm;soft;still;silent
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,season,warm;cold;clear;long;short;bright;neat;true;rich;fresh
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,second,short;quick;fast;neat;clear;small;brief;tight;true;simple
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,week,long;short;busy;clear;neat;good;full;true;warm;calm
+o3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,year,long;short;bright;clear;busy;good;full;rich;neat;strong
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,anger,intense;fiery;explosive;raw;palpable;deep;bitter;seething;sudden;uncontrollable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,courage,brave;resolute;steadfast;noble;determined;bold;admirable;unwavering;hearty;virtuous
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,fear,terrifying;overwhelming;paralyzing;deep;instinctive;haunting;crippling;anxious;ominous;palpable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,freedom,liberating;vast;unrestricted;boundless;cherished;secure;independent;celebrated;essential;transformative
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,happiness,joyful;radiant;contagious;blissful;cheerful;serene;content;uplifting;genuine;exuberant
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,hate,intense;burning;bitter;seething;deep;destructive;vehement;unyielding;dark;acrimonious
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,honesty,sincere;genuine;transparent;straightforward;principled;admirable;reliable;truthful;commendable;forthright
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,justice,impartial;fair;equitable;steadfast;necessary;balanced;unyielding;righteous;commendable;unbiased
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,knowledge,profound;vast;accumulated;valuable;scholarly;essential;fundamental;evolving;timeless;practical
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,love,unconditional;passionate;tender;deep;enduring;fervent;caring;heartfelt;boundless;sincere
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,peace,tranquil;serene;gentle;calm;lasting;harmonious;quiet;soothing;stable;restorative
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,wisdom,ancient;profound;insightful;timeless;thoughtful;experienced;deep;discerning;reflective;guiding
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,bell,resonant;metallic;clear;sonorous;antique;sturdy;handcrafted;elegant;traditional;rhythmic
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,candle,flickering;slender;burning;scented;soft;warm;glowing;delicate;waxen;comforting
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,carpet,colorful;woven;soft;patterned;thick;durable;oriental;plush;elegant;decorative
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,coin,minted;rare;antique;small;embossed;shiny;collectible;valuable;round;historic
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,crown,regal;ornate;jeweled;golden;majestic;elegant;royal;historic;symbolic;prestigious
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,flag,colorful;waving;symbolic;national;vibrant;bold;striped;commemorative;proud;recognizable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,mask,mysterious;decorative;symbolic;striking;detailed;ancient;theatrical;protective;eerie;intricate
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,necklace,elegant;sparkling;delicate;ornate;timeless;chic;handcrafted;glamorous;valuable;exquisite
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,painting,vivid;colorful;expressive;detailed;timeless;imaginative;abstract;realistic;captivating;iconic
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,ring,shiny;circular;precious;elegant;timeless;ornate;delicate;engraved;valuable;symbolic
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,statue,majestic;carved;ancient;lifelike;monumental;detailed;significant;historic;graceful;sturdy
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,vase,delicate;ornate;glazed;colorful;classic;elegant;handcrafted;antique;refined;artistic
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,cloud,fluffy;drifting;white;massive;soft;light;scattered;shifting;billowy;ethereal
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,earthquake,devastating;powerful;sudden;massive;intense;violent;unpredictable;historic;tremulous;seismic
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,fog,dense;mysterious;thick;eerie;creeping;heavy;enveloping;murky;silent;ghostly
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;dazzling;intense;electric;rapid;striking;brilliant;fleeting
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,rain,steady;heavy;refreshing;soft;drenching;gentle;cool;persistent;rhythmic;sporadic
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,rainbow,colorful;vibrant;arching;rare;brilliant;stunning;radiant;luminous;ephemeral;enchanting
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,snow,white;cold;soft;sparkling;gentle;pristine;thick;heavy;silent;powdery
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,storm,violent;fierce;sudden;wild;raging;dark;intense;turbulent;ominous;relentless
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,thunder,loud;rumbling;powerful;rolling;deep;explosive;trembling;echoing;booming;resounding
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,tide,rising;falling;rhythmic;powerful;constant;high;low;steady;surging;predictable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,volcano,active;molten;explosive;dangerous;towering;rumbling;scorched;smoldering;volatile;unpredictable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,wind,breezy;strong;gentle;cold;unpredictable;refreshing;howling;brisk;steady;wild
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,apple,crisp;juicy;sweet;red;ripe;fresh;tart;edible;flavorful;firm
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,banana,ripe;yellow;sweet;soft;fresh;curved;tropical;nutritious;appealing;mellow
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,beef,tender;juicy;savory;rich;hearty;flavorful;lean;fresh;succulent;spicy
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,bread,fresh;soft;warm;crusty;golden;fluffy;homemade;fragrant;tasty;wholesome
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,broccoli,green;fresh;crisp;healthy;vibrant;raw;tender;nutritious;plain;crunchy
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,cheese,creamy;sharp;aged;delicious;firm;soft;flavorful;smooth;rich;tangy
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,chicken,tender;juicy;flavorful;succulent;grilled;roasted;fresh;spicy;savory;golden
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,egg,fresh;raw;boiled;delicate;oval;nutritious;smooth;small;light;edible
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,fish,fresh;slippery;scaled;tasty;oily;wild;nutritious;vibrant;raw;abundant
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,pasta,cooked;tender;soft;hearty;flavorful;saucy;firm;versatile;delicious;traditional
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,rice,steamed;fluffy;white;aromatic;plain;tender;nutty;sticky;versatile;polished
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,soup,warm;hearty;flavorful;rich;savory;comforting;steamy;nourishing;spicy;smooth
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,artist,creative;talented;innovative;passionate;expressive;dedicated;skilled;visionary;inspiring;original
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,athlete,strong;agile;competitive;disciplined;fast;resilient;determined;energetic;skilled;powerful
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,chef,skilled;creative;experienced;innovative;passionate;meticulous;talented;resourceful;dedicated;expert
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,doctor,knowledgeable;caring;diligent;compassionate;experienced;professional;skilled;reliable;attentive;dedicated
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,engineer,innovative;resourceful;practical;skilled;logical;dedicated;knowledgeable;creative;precise;analytical
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,farmer,hardworking;dedicated;resourceful;rugged;traditional;experienced;knowledgeable;patient;diligent;steadfast
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,lawyer,competent;knowledgeable;articulate;diligent;experienced;professional;persuasive;ethical;strategic;reliable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,musician,talented;creative;passionate;skilled;rhythmic;expressive;innovative;dedicated;soulful;inspiring
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,scientist,curious;diligent;analytical;innovative;knowledgeable;methodical;creative;precise;logical;visionary
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,soldier,brave;disciplined;resilient;courageous;dedicated;strong;tactical;honorable;steadfast;vigilant
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,teacher,dedicated;patient;knowledgeable;inspiring;caring;experienced;supportive;creative;organized;effective
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,writer,creative;articulate;thoughtful;expressive;imaginative;skilled;reflective;original;insightful;dedicated
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,book,interesting;engaging;informative;well-written;classic;lengthy;thought-provoking;detailed;compelling;timeless
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,bridge,sturdy;long;historic;grand;arched;modern;functional;impressive;engineered;reliable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,drums,rhythmic;loud;vibrant;dynamic;resonant;powerful;energetic;booming;electrifying;steady
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,earth,vast;diverse;fertile;nurturing;ancient;vibrant;round;blue;complex;life-giving
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,flute,melodious;delicate;airy;slender;graceful;elegant;polished;refined;enchanting;lightweight
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,key,small;metallic;intricate;old;shiny;essential;unique;durable;decorative;functional
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,knife,sharp;sturdy;reliable;sleek;pointed;versatile;modern;balanced;elegant;functional
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,lock,secure;sturdy;intricate;reliable;durable;mechanical;heavy;modern;ornate;robust
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,moon,luminous;bright;full;enchanting;distant;serene;silent;majestic;pale;mysterious
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,pen,smooth;inked;slender;reliable;elegant;functional;compact;refined;artistic;durable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,sun,radiant;blazing;fierce;warm;bright;powerful;golden;brilliant;dazzling;life-giving
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,sword,sharp;gleaming;ancient;legendary;formidable;sleek;balanced;deadly;ornate;robust
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,cat,playful;agile;curious;graceful;soft;independent;sleek;mysterious;clever;adorable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,dog,loyal;friendly;playful;energetic;faithful;loving;protective;obedient;cheerful;brave
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,dolphin,intelligent;playful;graceful;friendly;agile;swift;lively;curious;social;clever
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,elephant,massive;gentle;intelligent;majestic;sturdy;historic;strong;calm;wild;impressive
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,hamster,small;fluffy;energetic;curious;adorable;playful;timid;lively;cute;nimble
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,monkey,mischievous;agile;clever;playful;curious;energetic;lively;smart;nimble;active
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,mouse,small;timid;quick;agile;delicate;subtle;furry;nimble;quiet;curious
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,peacock,colorful;elegant;majestic;vibrant;splendid;flashy;graceful;striking;ornate;brilliant
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,rabbit,fluffy;swift;gentle;small;timid;cute;delicate;lively;soft;energetic
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,shark,fierce;sleek;predatory;powerful;agile;relentless;dangerous;swift;intimidating;merciless
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,snake,slithering;venomous;agile;sleek;silent;mysterious;dangerous;flexible;cunning;deceptive
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,whale,massive;gentle;majestic;immense;powerful;graceful;ancient;serene;enormous;deep
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,city,bustling;crowded;vibrant;historic;modern;sprawling;energetic;lively;dynamic;busy
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,desert,vast;arid;scorching;barren;endless;harsh;silent;lonely;rugged;sunlit
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,forest,lush;dense;mysterious;ancient;vibrant;green;sprawling;wild;serene;enchanting
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,island,remote;tropical;serene;small;picturesque;isolated;sunny;vibrant;lush;quiet
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,lake,calm;clear;serene;reflective;deep;peaceful;vast;pristine;sparkling;inviting
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,mountain,towering;majestic;rugged;imposing;ancient;steep;snow-capped;massive;grand;formidable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,ocean,vast;deep;turbulent;endless;blue;mighty;rhythmic;mysterious;powerful;boundless
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,plain,flat;open;vast;grassy;sprawling;simple;quiet;clear;expansive;fertile
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,plateau,elevated;flat;wide;barren;expansive;remote;rugged;vast;isolated;ancient
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,river,winding;swift;deep;fresh;powerful;meandering;clear;lively;enduring;flowing
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,valley,lush;deep;fertile;tranquil;scenic;hidden;broad;green;serene;arable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,village,small;quaint;peaceful;historic;tight-knit;charming;rural;friendly;traditional;isolated
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,cactus,spiky;hardy;prickly;resilient;arid;rugged;dry;robust;enduring;unique
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,eggplant,purple;glossy;firm;ripe;smooth;vibrant;tender;succulent;plump;fresh
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,flower,fragrant;vibrant;delicate;colorful;blooming;soft;fresh;lovely;natural;radiant
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,grass,green;soft;fresh;lush;short;thick;abundant;vibrant;wild;growing
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,lettuce,crisp;fresh;leafy;green;tender;crunchy;healthy;mild;vibrant;seasonal
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,mushroom,earthy;fresh;delicate;flavorful;small;vibrant;spongy;wild;natural;unique
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,onion,sharp;pungent;layered;fresh;crisp;strong;edible;raw;aromatic;hardy
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,pepper,spicy;hot;vibrant;fresh;flavorful;bold;zesty;aromatic;sharp;pungent
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,potato,starchy;hearty;versatile;earthy;soft;robust;fresh;tender;brown;satisfying
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,rose,fragrant;delicate;vibrant;red;beautiful;elegant;soft;blooming;classic;romantic
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,tomato,ripe;juicy;red;fresh;tender;vibrant;savory;luscious;flavorful;firm
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,tree,tall;ancient;sturdy;leafy;vibrant;sprawling;majestic;green;resilient;towering
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,ally,loyal;supportive;trusted;reliable;steadfast;dependable;committed;genuine;friendly;sincere
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,brother,caring;supportive;loyal;kind;dependable;close;protective;trustworthy;warm;reliable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,enemy,hostile;dangerous;fierce;adversarial;bitter;relentless;determined;unpredictable;ruthless;formidable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,father,caring;wise;supportive;strong;loving;reliable;compassionate;authoritative;dependable;protective
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,follower,loyal;dedicated;supportive;attentive;committed;obedient;enthusiastic;respectful;reliable;persistent
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,friend,friendly;caring;supportive;genuine;trustworthy;kind;reliable;loyal;warm;understanding
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,leader,charismatic;decisive;visionary;influential;inspiring;courageous;innovative;strategic;firm;respected
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,mother,caring;nurturing;supportive;loving;warm;gentle;compassionate;dependable;kind;patient
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,partner,supportive;loving;reliable;committed;caring;trustworthy;understanding;genuine;balanced;collaborative
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,rival,competitive;determined;formidable;fierce;stubborn;challenging;persistent;vigorous;ambitious;relentless
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,sister,caring;supportive;kind;loyal;close;gentle;loving;trustworthy;friendly;understanding
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,stranger,unknown;mysterious;distant;unfamiliar;quiet;reserved;curious;casual;fleeting;enigmatic
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,above,elevated;high;upper;lofty;superior;radiant;vast;clear;soaring;prominent
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,back,robust;strong;broad;supportive;flexible;steady;reliable;firm;enduring;healthy
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,below,lower;deep;hidden;understated;secret;subtle;modest;quiet;reserved;inaccessible
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,east,eastern;rising;sunlit;exotic;historic;vibrant;warm;gentle;bright;traditional
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,front,leading;visible;prominent;open;clear;bold;direct;accessible;attractive;welcoming
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,inside,internal;enclosed;hidden;intimate;secret;cozy;warm;private;sheltered;confined
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,left,remaining;residual;deserted;untouched;isolated;unused;spare;solitary;abandoned;separate
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,north,northern;cold;icy;remote;rugged;wintry;frosty;bleak;vast;chilling
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,outside,external;open;fresh;wild;broad;clear;exposed;airy;inviting;vast
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,right,correct;proper;suitable;justified;valid;fair;true;accurate;reliable;legitimate
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,south,southern;warm;sunny;mild;exotic;breezy;tropical;relaxed;vibrant;inviting
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,west,western;rugged;expansive;golden;historic;broad;sunlit;wild;adventurous;promising
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,century,long;historic;significant;remarkable;enduring;influential;memorable;notable;ancient;celebrated
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,day,bright;sunny;busy;eventful;long;pleasant;lively;warm;clear;promising
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,evening,relaxing;calm;cool;gentle;peaceful;quiet;soft;romantic;serene;fading
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,hour,short;long;fleeting;busy;precise;eventful;memorable;valuable;important;continuous
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,minute,tiny;brief;fleeting;exact;precise;small;quick;unnoticeable;detailed;subtle
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,month,short;long;busy;eventful;memorable;changing;typical;bright;varied;consistent
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,morning,fresh;bright;early;lively;crisp;hopeful;peaceful;calm;vibrant;promising
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,night,dark;quiet;peaceful;mysterious;starry;calm;serene;silent;deep;restful
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,season,changing;vibrant;distinct;mild;harsh;refreshing;varied;beautiful;unpredictable;annual
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,second,brief;fleeting;tiny;quick;immediate;short;rapid;transient;passing;minor
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,week,busy;long;eventful;short;challenging;productive;hectic;relaxing;typical;memorable
+o3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,year,long;remarkable;challenging;successful;memorable;eventful;historic;prosperous;fruitful;significant
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,anger,boiling;intense;seething;passionate;uncontrollable;sudden;fierce;bitter;explosive;smoldering
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,courage,brave;noble;steadfast;resilient;valiant;determined;heroic;unwavering;bold;fearless
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,fear,deep;overwhelming;paralyzing;pervasive;irrational;silent;hidden;primal;crippling;instinctive
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,freedom,liberating;absolute;boundless;cherished;independent;pristine;unrestricted;essential;vital;empowering
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,happiness,joyful;radiant;blissful;exuberant;cheerful;genuine;contagious;uplifting;serene;fulfilling
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,hate,intense;bitter;deep;consuming;virulent;unyielding;harsh;corrosive;relentless;raw
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,honesty,genuine;unwavering;sincere;frank;transparent;candid;steadfast;principled;admirable;reliable
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,justice,fair;impartial;righteous;balanced;equitable;decisive;steadfast;upstanding;meritorious;lawful
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,knowledge,profound;vast;deep;scholarly;nuanced;diverse;practical;advanced;timeless;enriching
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,love,profound;unconditional;heartfelt;tender;passionate;enduring;sincere;boundless;gentle;warm
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,peace,calm;eternal;harmonious;serene;gentle;quiet;restorative;balanced;soothing;tranquil
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,wisdom,profound;ancient;timeless;insightful;deep;enlightening;measured;sagacious;reflective;discerning
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,bell,resonant;silver;delicate;ancient;clear;chime-like;ornamental;polished;ringing;traditional
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,candle,flickering;scented;soft;luminous;warm;delicate;simple;rustic;gentle;glowing
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,carpet,plush;ornate;woven;textured;colorful;delicate;soft;elegant;durable;patterned
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,coin,shiny;rare;ancient;valuable;minted;collectible;silver;metallic;embossed;unique
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,crown,golden;royal;ornate;jeweled;majestic;ancient;resplendent;gleaming;ceremonial;priceless
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,flag,vibrant;national;colorful;symbolic;waving;historic;bold;distinctive;revered;proud
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,mask,mysterious;ornate;painted;eerie;traditional;ancient;theatrical;expressive;intricate;symbolic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,necklace,elegant;delicate;jeweled;sparkling;ornate;timeless;unique;handcrafted;stylish;refined
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,painting,vivid;colorful;abstract;timeless;expressive;detailed;realistic;bold;imaginative;captivating
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,ring,shiny;elegant;ornate;precious;timeless;delicate;circular;valuable;intricate;polished
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,statue,majestic;ancient;lifelike;imposing;detailed;monumental;graceful;revered;classic;sturdy
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,vase,fragile;elegant;ornate;decorative;classic;slender;polished;timeless;artistic;delicate
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,cloud,fluffy;grey;wispy;drifting;soft;ethereal;billowing;dark;ever-changing;heavenly
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,earthquake,powerful;unexpected;massive;devastating;sudden;violent;relentless;catastrophic;severe;jarring
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,fog,dense;eerie;thick;silent;mysterious;drifting;heavy;cool;murky;enveloping
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,lightning,brilliant;sudden;electrifying;dazzling;fierce;swift;powerful;vivid;transient;striking
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,rain,heavy;gentle;relentless;soothing;drenching;steady;soft;cold;sudden;rhythmic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;fleeting;radiant;stunning;luminous;arching;magical;rare;brilliant
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,snow,white;soft;cold;powdery;gentle;silent;pristine;sparkling;delicate;fresh
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,storm,violent;raging;fierce;turbulent;chaotic;relentless;dark;sudden;powerful;unpredictable
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,thunder,booming;rolling;deep;rumbling;mighty;resonant;fierce;echoing;sudden;powerful
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,tide,rising;falling;strong;relentless;rhythmic;powerful;high;low;changing;steady
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,volcano,active;erupting;fiery;dangerous;smoldering;massive;ancient;rumbling;volatile;towering
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,wind,gusty;strong;gentle;howling;brisk;cold;soothing;relentless;unpredictable;swirling
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,apple,crisp;juicy;red;fresh;sweet;ripe;green;fragrant;tart;delicious
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,banana,ripe;yellow;sweet;fresh;soft;tropical;delicious;curved;appealing;healthy
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,beef,juicy;tender;savory;flavorful;lean;fresh;hearty;rich;succulent;robust
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,bread,fresh;soft;crusty;warm;fragrant;hearty;delicious;wholesome;golden;rustic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,broccoli,fresh;green;crisp;vibrant;healthy;crunchy;tender;nutritious;raw;flavorful
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,cheese,creamy;sharp;aged;rich;delicious;soft;mild;tangy;fresh;savory
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,chicken,tender;juicy;fresh;flavorful;hearty;succulent;roasted;savory;lean;aromatic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,egg,fresh;raw;boiled;scrambled;sunny;delicate;versatile;nutritious;simple;edible
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,fish,fresh;oily;flaky;tender;delicious;raw;wild;sustainable;vibrant;healthy
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,pasta,cooked;soft;delicious;al dente;hearty;flavorful;warm;traditional;golden;tender
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,rice,steamed;fluffy;aromatic;tender;white;plain;fresh;sticky;delicious;hearty
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,soup,warm;hearty;flavorful;rich;comforting;savory;smooth;fresh;nutritious;nourishing
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,artist,creative;talented;visionary;expressive;innovative;inspiring;dedicated;skilled;original;thoughtful
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,athlete,strong;agile;fit;competitive;resilient;swift;determined;powerful;disciplined;skilled
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,chef,talented;creative;skilled;passionate;innovative;precise;dedicated;experienced;resourceful;inventive
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,doctor,dedicated;knowledgeable;compassionate;skilled;caring;experienced;professional;reliable;astute;patient
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,engineer,innovative;skilled;analytical;resourceful;precise;creative;experienced;reliable;technical;dedicated
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,farmer,hardworking;dedicated;resourceful;experienced;humble;resilient;practical;sustainable;skilled;diligent
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,lawyer,knowledgeable;articulate;diligent;persuasive;ethical;experienced;dedicated;astute;trustworthy;analytical
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,musician,talented;creative;expressive;skilled;passionate;rhythmic;innovative;soulful;versatile;inspiring
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,scientist,innovative;analytical;dedicated;curious;methodical;insightful;precise;knowledgeable;experimental;diligent
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,soldier,brave;disciplined;resilient;courageous;honorable;dutiful;skilled;steadfast;determined;vigilant
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,teacher,dedicated;patient;knowledgeable;inspiring;caring;experienced;innovative;passionate;empathetic;wise
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,writer,creative;talented;articulate;imaginative;expressive;insightful;thoughtful;prolific;dedicated;eloquent
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,book,interesting;informative;engaging;classic;lengthy;well-written;timeless;captivating;diverse;compelling
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,bridge,sturdy;elegant;historic;expansive;arched;well-designed;monumental;impressive;functional;graceful
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,drums,rhythmic;loud;resonant;energetic;powerful;dynamic;vibrant;percussive;deep;pulsating
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,earth,fertile;vast;ancient;diverse;vibrant;nurturing;resilient;living;abundant;dynamic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,flute,melodic;delicate;airy;enchanting;refined;graceful;soft;elegant;lyrical;expressive
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,key,small;metallic;ornate;unique;essential;decorative;old;shiny;simple;intricate
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,knife,sharp;sturdy;sleek;durable;refined;practical;balanced;reliable;elegant;precise
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,lock,secure;sturdy;robust;intricate;durable;reliable;ancient;modern;ornate;dependable
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,moon,luminous;gentle;radiant;serene;mystical;pale;enchanting;celestial;silver;distant
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,pen,smooth;reliable;sleek;elegant;classic;simple;refined;sturdy;portable;comfortable
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,sun,radiant;brilliant;scorching;golden;life-giving;immense;dazzling;warm;vivid;celestial
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,sword,sharp;gleaming;ancient;formidable;legendary;durable;pristine;elegant;powerful;deadly
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,cat,sleek;agile;curious;playful;graceful;independent;cunning;attentive;stealthy;affectionate
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,dog,loyal;friendly;playful;affectionate;obedient;energetic;devoted;vigilant;happy;brave
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,dolphin,intelligent;graceful;playful;agile;social;friendly;swift;curious;acrobatic;sleek
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,elephant,majestic;enormous;gentle;ancient;wise;mighty;massive;intelligent;colossal;resilient
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,hamster,small;adorable;furry;lively;tiny;playful;curious;active;gentle;endearing
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,monkey,curious;agile;mischievous;intelligent;playful;energetic;lively;clever;spirited;quick
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,mouse,small;timid;nimble;quiet;delicate;swift;agile;curious;elusive;gentle
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,peacock,vibrant;majestic;colorful;regal;elegant;striking;dazzling;iridescent;splendid;proud
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,rabbit,soft;swift;timid;gentle;furry;lively;adorable;quick;small;playful
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,shark,formidable;sleek;dangerous;relentless;powerful;agile;ruthless;swift;intimidating;mysterious
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,snake,slithering;venomous;stealthy;sleek;mysterious;agile;dangerous;cunning;silent;sinuous
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,whale,massive;gentle;majestic;enormous;graceful;ancient;powerful;deep;serene;colossal
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,city,vibrant;bustling;modern;historic;sprawling;lively;dynamic;crowded;diverse;urban
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,desert,vast;arid;barren;scorching;endless;harsh;sunlit;desolate;dry;remote
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,forest,lush;green;dense;vibrant;ancient;magical;serene;wild;mysterious;towering
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,island,remote;tropical;serene;small;lush;isolated;picturesque;quiet;charming;idyllic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,lake,tranquil;serene;clear;still;expansive;reflective;deep;quiet;refreshing;pristine
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,mountain,majestic;towering;rugged;steep;ancient;snowy;imposing;vast;serene;formidable
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,ocean,vast;deep;turbulent;endless;salty;majestic;boundless;mysterious;powerful;rhythmic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,plain,vast;open;flat;expansive;quiet;grassy;serene;rolling;endless;simple
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,plateau,elevated;flat;arid;expansive;rugged;vast;remote;ancient;windswept;silent
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,river,flowing;winding;deep;swift;clear;serene;endless;gentle;powerful;meandering
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,valley,lush;green;scenic;deep;narrow;fertile;secluded;tranquil;winding;quiet
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,village,quaint;charming;small;rustic;peaceful;friendly;traditional;cozy;scenic;historic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,cactus,spiky;resilient;prickly;green;rugged;arid;unique;hardy;dry;sunbaked
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,eggplant,purple;shiny;elongated;fresh;firm;glossy;vibrant;smooth;ripe;tender
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,flower,beautiful;fragrant;delicate;colorful;vibrant;fresh;blooming;graceful;charming;lovely
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,grass,green;soft;lush;fresh;tall;vibrant;natural;dense;fine;delicate
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,lettuce,fresh;crisp;green;leafy;tender;vibrant;healthy;cool;crunchy;organic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,mushroom,earthy;fresh;spongy;wild;tender;aromatic;delicate;flavorful;unique;edible
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,onion,pungent;fresh;crisp;layered;strong;tangy;vibrant;juicy;raw;aromatic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,pepper,spicy;fresh;vibrant;hot;colorful;pungent;zesty;crisp;aromatic;sharp
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,potato,starchy;earthy;fluffy;hearty;fresh;robust;versatile;golden;tender;rustic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,rose,fragrant;beautiful;delicate;vibrant;romantic;soft;red;elegant;timeless;classic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,tomato,ripe;juicy;red;fresh;vibrant;tangy;succulent;plump;aromatic;delicious
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,tree,tall;ancient;sturdy;leafy;graceful;evergreen;mighty;sprawling;resilient;green
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,ally,loyal;steadfast;supportive;trusted;reliable;dependable;committed;true;enduring;sincere
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,brother,loving;supportive;caring;close;reliable;kind;protective;warm;trusting;respectful
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,enemy,hostile;bitter;relentless;formidable;dangerous;fierce;adversarial;ruthless;opposing;vehement
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,father,caring;supportive;wise;loving;strong;protective;reliable;gentle;devoted;steadfast
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,follower,loyal;devoted;eager;compliant;respectful;attentive;supportive;steadfast;trusting;sincere
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,friend,loyal;kind;caring;supportive;genuine;trustworthy;cheerful;reliable;honest;warm
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,leader,inspirational;decisive;strong;visionary;determined;confident;respectful;strategic;influential;charismatic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,mother,loving;caring;supportive;nurturing;kind;selfless;gentle;strong;devoted;warm
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,partner,caring;supportive;reliable;loving;committed;trustworthy;kind;close;understanding;dedicated
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,rival,formidable;competitive;strong;persistent;determined;fierce;relentless;challenging;cunning;evasive
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,sister,loving;caring;supportive;kind;close;dependable;warm;trustworthy;gentle;affectionate
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,stranger,unknown;mysterious;unfamiliar;distant;curious;incidental;intriguing;unapproachable;vague;enigmatic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,above,high;elevated;superior;lofty;distant;prominent;upper;soaring;overarching;celestial
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,back,strong;supportive;sturdy;broad;flexible;resilient;reliable;dependable;muscular;enduring
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,below,hidden;deep;low;secret;distant;mysterious;underlying;subdued;quiet;dark
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,east,oriental;rising;sunlit;vibrant;historic;mysterious;ancient;distant;cultural;warm
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,front,prominent;visible;leading;primary;open;inviting;bold;protective;modern;clear
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,inside,cozy;hidden;secure;intimate;private;confined;warm;sheltered;comfortable;secret
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,left,remaining;residual;alternative;lesser;final;subtle;marginal;secondary;unexpected;overlooked
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,north,cool;crisp;frigid;distant;icy;mysterious;remote;vast;brisk;clear
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,outside,open;vast;exposed;bright;wild;fresh;natural;expansive;unpredictable;scenic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,right,correct;proper;just;accurate;suitable;ideal;exact;precise;valid;legitimate
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,south,warm;sunny;mild;vibrant;inviting;gentle;comfortable;welcoming;pleasant;breezy
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,west,sunny;vibrant;rugged;vast;timeless;adventurous;open;dynamic;bold;historic
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,century,long;historic;notable;significant;memorable;transformative;momentous;enduring;marked;influential
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,day,bright;sunny;lively;warm;vibrant;clear;active;radiant;pleasant;cheerful
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,evening,tranquil;quiet;cool;peaceful;gentle;calm;soft;fading;romantic;dusky
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,hour,brief;fleeting;precious;transient;measured;precise;active;remarkable;passing;limited
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,minute,tiny;brief;precise;fleeting;exact;subtle;small;minuscule;detailed;momentary
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,month,short;long;busy;eventful;changing;typical;vibrant;calm;familiar;notable
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,morning,fresh;bright;early;peaceful;crisp;calm;cheerful;dewy;lively;hopeful
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,night,dark;quiet;calm;serene;mysterious;starry;peaceful;cool;tranquil;deep
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,season,changing;distinct;varied;vibrant;cool;warm;fleeting;pleasant;memorable;transitional
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,second,brief;fleeting;transient;precise;measured;quick;short;ephemeral;valuable;immediate
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,week,busy;long;short;eventful;hectic;peaceful;balanced;demanding;relaxing;productive
+o3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,year,long;eventful;busy;memorable;historic;prosperous;challenging;fruitful;significant;transformative
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,anger,intense;burning;fierce;passionate;explosive;deep;uncontrollable;simmering;volatile;overwhelming
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,courage,brave;bold;valiant;fearless;gallant;heroic;daring;resolute;strong;determined
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,fear,terrifying;paralyzing;consuming;overwhelming;deep;haunting;crippling;persistent;chilling;unnerving
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,freedom,unrestricted;boundless;independent;liberating;absolute;sovereign;expansive;free;open;unlimited
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,happiness,joyful;radiant;blissful;cheerful;exuberant;content;delightful;uplifting;serene;effervescent
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,hate,intense;bitter;deep;vehement;consuming;corrosive;relentless;seething;hostile;burning
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,honesty,sincere;genuine;truthful;candid;straightforward;upright;reliable;honorable;transparent;frank
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,justice,fair;righteous;impartial;unbiased;equitable;balanced;lawful;principled;moral;steadfast
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,knowledge,profound;extensive;deep;vast;comprehensive;insightful;thorough;intellectual;scholarly;learned
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,love,passionate;tender;unconditional;deep;affectionate;caring;devoted;ardent;warm;sincere
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,peace,calm;serene;tranquil;quiet;harmonious;restful;untroubled;placid;soothing;gentle
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,wisdom,profound;insightful;deep;sagacious;learned;judicious;reflective;prudent;enlightened;timeless
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,bell,loud;resonant;clear;chime-like;sonorous;metallic;ringing;vibrant;crisp;tinkling
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,candle,flickering;soft;glowing;gentle;warm;delicate;dim;radiant;slender;ambient
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,carpet,plush;colorful;woven;soft;patterned;thick;comfortable;durable;elegant;textured
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,coin,small;shiny;metallic;valuable;round;embossed;collectible;ancient;rare;historic
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,crown,regal;ornate;golden;jeweled;splendid;majestic;noble;elegant;shining;priceless
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,flag,vibrant;colorful;symbolic;waving;national;striped;bold;fluttering;proud;iconic
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,mask,mysterious;opaque;elaborate;decorative;protective;hidden;artistic;silent;ancient;eerie
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,necklace,elegant;sparkling;delicate;ornate;glamorous;classic;charming;refined;intricate;stylish
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,painting,vivid;colorful;expressive;imaginative;timeless;detailed;artistic;striking;creative;masterful
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,ring,shiny;elegant;precious;circular;decorative;intricate;timeless;radiant;delicate;beautiful
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,statue,majestic;grand;ancient;detailed;lifelike;imposing;monumental;classic;artistic;revered
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,vase,fragile;elegant;ornate;classic;decorative;exquisite;graceful;timeless;artistic;subtle
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;white;billowy;vast;drifting;dark;soft;light;ethereal;ever-changing
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,earthquake,devastating;powerful;massive;sudden;violent;relentless;catastrophic;seismic;turbulent;unforeseen
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,fog,dense;mysterious;thick;eerie;silent;chilling;shrouded;obscuring;drifting;ethereal
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;electric;powerful;dazzling;quick;striking;intense;blinding;radiant
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,rain,wet;steady;gentle;heavy;refreshing;cold;soft;drenching;persistent;soothing
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;vibrant;bright;stunning;majestic;ethereal;vivid;rare;luminous;captivating
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,snow,white;cold;powdery;soft;sparkling;silent;gentle;fresh;pristine;delicate
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,storm,violent;fierce;raging;turbulent;heavy;dark;ominous;angry;wild;relentless
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;resonant;rolling;deep;powerful;startling;echoing;rumbling;intense
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,tide,rising;falling;constant;rhythmic;powerful;oceanic;persistent;ebbing;surging;dynamic
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,volcano,active;eruptive;fiery;rumbling;dangerous;molten;towering;unstable;explosive;smoldering
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,wind,strong;brisk;gentle;cold;refreshing;blowing;howling;fierce;steady;soothing
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,apple,crisp;juicy;red;ripe;fresh;sweet;tart;delicious;fragrant;wholesome
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,banana,yellow;ripe;sweet;fresh;curved;nutritious;tropical;soft;appealing;mellow
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,beef,juicy;tender;savory;succulent;flavorful;fresh;hearty;rich;prime;satisfying
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,bread,fresh;warm;crusty;soft;delicious;wholesome;aromatic;golden;inviting;fluffy
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,broccoli,green;fresh;crisp;nutritious;tender;healthy;vibrant;organic;delicious;robust
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,cheese,creamy;rich;tangy;delicious;aged;soft;savory;firm;smooth;flavorful
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,chicken,tender;juicy;flavorful;fresh;savory;aromatic;succulent;hearty;well-cooked;satisfying
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,egg,fresh;delicate;organic;wholesome;nutritious;small;oval;soft;vibrant;appetizing
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,fish,fresh;flaky;tender;savory;delicious;succulent;oily;healthy;briny;nutritious
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,pasta,tender;savory;hearty;delicious;flavorful;aromatic;comforting;silky;satisfying;classic
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,rice,steamed;fluffy;tender;delicious;fragrant;plain;nourishing;soft;satisfying;versatile
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,soup,warm;savory;hearty;flavorful;rich;delicious;soothing;comforting;light;aromatic
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,artist,creative;innovative;talented;expressive;imaginative;skilled;visionary;dedicated;inspiring;original
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,athlete,strong;agile;determined;fit;competitive;driven;energetic;skilled;resilient;powerful
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,chef,talented;creative;skilled;innovative;experienced;dedicated;meticulous;inspiring;professional;resourceful
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,doctor,knowledgeable;compassionate;skilled;dedicated;experienced;caring;reliable;attentive;professional;trustworthy
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,engineer,innovative;analytical;skilled;logical;creative;precise;dedicated;resourceful;knowledgeable;efficient
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,farmer,hardworking;diligent;earthy;dedicated;resourceful;skilled;robust;sustainable;experienced;reliable
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,lawyer,knowledgeable;articulate;ethical;persuasive;diligent;sharp;experienced;resourceful;analytical;professional
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,musician,talented;creative;passionate;skilled;rhythmic;expressive;innovative;inspiring;dedicated;soulful
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,scientist,analytical;innovative;curious;diligent;knowledgeable;meticulous;insightful;creative;dedicated;precise
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,soldier,brave;disciplined;courageous;dedicated;resilient;determined;vigilant;strong;honorable;steadfast
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,teacher,knowledgeable;patient;dedicated;inspiring;caring;creative;resourceful;supportive;passionate;experienced
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,writer,creative;articulate;thoughtful;imaginative;dedicated;skilled;insightful;expressive;inspiring;prolific
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,book,informative;engaging;insightful;entertaining;classic;enlightening;timeless;witty;compelling;detailed
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,bridge,sturdy;historic;impressive;long;elegant;strong;architectural;iconic;timeless;connecting
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,drums,rhythmic;powerful;resonant;energetic;dynamic;pounding;deep;vibrant;lively;steady
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,earth,vast;fertile;ancient;diverse;abundant;vibrant;nurturing;dynamic;blue;majestic
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,flute,melodic;graceful;airy;delicate;soothing;vibrant;enchanting;refined;elegant;lyrical
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,key,small;metallic;intricate;essential;old;unique;shiny;decorative;functional;reliable
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,knife,sharp;sturdy;lethal;versatile;well-crafted;durable;precise;elegant;practical;sleek
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,lock,secure;sturdy;reliable;intricate;robust;durable;functional;traditional;mechanical;steadfast
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,moon,bright;serene;silvery;enchanting;luminous;mysterious;gentle;celestial;radiant;peaceful
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,pen,smooth;sleek;reliable;elegant;functional;refined;portable;precise;stylish;durable
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,sun,radiant;blazing;warm;brilliant;powerful;golden;dazzling;luminous;intense;life-giving
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,sword,sharp;gleaming;ancient;formidable;elegant;deadly;ornate;strong;resilient;legendary
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,cat,playful;curious;agile;graceful;independent;affectionate;clever;sleek;friendly;mysterious
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;playful;faithful;energetic;loving;protective;obedient;cheerful;devoted
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,dolphin,intelligent;graceful;friendly;agile;playful;curious;swift;sociable;vibrant;aquatic
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,elephant,majestic;enormous;gentle;wise;sturdy;noble;powerful;graceful;ancient;impressive
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,hamster,small;lively;cute;furry;adorable;playful;active;timid;charming;inquisitive
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,monkey,playful;agile;clever;mischievous;lively;curious;energetic;smart;nimble;spirited
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,mouse,tiny;timid;quick;cautious;delicate;nimble;furry;small;observant;agile
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,peacock,vibrant;colorful;majestic;elegant;striking;splendid;dazzling;graceful;ornate;showy
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,rabbit,fluffy;quick;gentle;timid;soft;lively;adorable;cute;agile;friendly
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,shark,ferocious;dangerous;sleek;powerful;relentless;swift;menacing;predatory;formidable;agile
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,snake,slippery;venomous;silent;sinuous;agile;mysterious;dangerous;sleek;cunning;unpredictable
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,whale,massive;majestic;gentle;powerful;graceful;enormous;ancient;mysterious;colossal;peaceful
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,city,vibrant;bustling;modern;sprawling;lively;historic;dynamic;diverse;busy;thriving
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,desert,arid;vast;barren;scorching;endless;rugged;harsh;remote;sandy;desolate
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,forest,lush;dense;vibrant;enchanting;wild;mysterious;verdant;serene;ancient;thriving
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,island,isolated;tropical;serene;remote;picturesque;lush;charming;tranquil;beautiful;inviting
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,lake,tranquil;serene;clear;reflective;calm;deep;pristine;vast;sparkling;inviting
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,mountain,majestic;towering;rugged;imposing;lofty;ancient;scenic;impressive;serene;formidable
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,ocean,vast;deep;endless;turbulent;mysterious;blue;majestic;powerful;soothing;expansive
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,plain,open;expansive;flat;endless;windswept;vast;serene;barren;rolling;gentle
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,plateau,elevated;flat;expansive;rugged;remote;serene;ancient;barren;lofty;broad
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,river,flowing;winding;sparkling;deep;meandering;endless;clear;swift;serene;powerful
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,valley,lush;green;deep;fertile;scenic;peaceful;winding;expansive;quiet;secluded
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,village,small;quaint;peaceful;charming;rustic;close-knit;friendly;historic;serene;vibrant
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,cactus,spiky;tough;resilient;prickly;arid;hardy;green;rugged;enduring;sun-baked
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,eggplant,purple;firm;glossy;tender;fresh;vibrant;earthy;plump;rich;succulent
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,flower,beautiful;delicate;fragrant;colorful;vibrant;blooming;fresh;graceful;lovely;radiant
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,grass,green;fresh;soft;lush;vibrant;short;abundant;tender;wild;fertile
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,lettuce,crisp;fresh;leafy;green;tender;mild;healthy;crunchy;vibrant;soft
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,mushroom,earthy;fresh;tender;flavorful;wild;soft;delicate;rustic;organic;aromatic
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,onion,pungent;sharp;layered;fresh;crisp;zesty;mild;aromatic;strong;robust
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,pepper,spicy;vibrant;hot;colorful;tangy;fresh;zesty;aromatic;bold;crisp
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,potato,starchy;hearty;tender;versatile;fresh;earthy;fluffy;nutritious;robust;golden
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,rose,fragrant;beautiful;delicate;red;elegant;blooming;soft;vibrant;classic;romantic
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,tomato,ripe;juicy;red;fresh;vibrant;tangy;sweet;succulent;glossy;flavorful
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,tree,tall;sturdy;majestic;leafy;ancient;green;broad;resilient;vibrant;towering
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,ally,loyal;supportive;reliable;trustworthy;steadfast;dependable;committed;sincere;protective;cooperative
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,brother,caring;supportive;loving;close;reliable;kind;understanding;protective;warm;dependable
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,enemy,hostile;fierce;dangerous;relentless;bitter;adversarial;ruthless;formidable;cunning;cold
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,father,caring;supportive;wise;protective;strong;nurturing;reliable;compassionate;understanding;steadfast
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;supportive;committed;attentive;devoted;active;respectful;reliable;sincere
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,friend,kind;supportive;loyal;caring;trustworthy;warm;understanding;reliable;genuine;cheerful
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,leader,charismatic;decisive;inspiring;visionary;strong;supportive;dynamic;reliable;bold;innovative
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;supportive;compassionate;kind;gentle;patient;understanding;devoted
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,partner,supportive;loving;reliable;committed;caring;respectful;dedicated;compassionate;loyal;understanding
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,rival,competitive;fierce;determined;challenging;ambitious;relentless;formidable;driven;bold;adversarial
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,sister,kind;caring;supportive;loving;understanding;cheerful;compassionate;reliable;warm;gentle
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,stranger,unknown;mysterious;unfamiliar;curious;distant;cautious;unapproachable;quiet;tentative;reserved
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,above,upper;elevated;high;overhanging;superior;majestic;lofty;exalted;prominent;overarching
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,back,curved;firm;steady;supportive;hidden;resilient;reliable;solid;robust;enduring
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,below,lower;beneath;underlying;subordinate;hidden;deep;fundamental;modest;submerged;subtle
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,east,eastern;rising;warm;golden;bright;welcoming;vibrant;promising;scenic;historic
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,front,leading;foremost;visible;prominent;clear;open;direct;inviting;bold;appealing
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,inside,inner;central;enclosed;intimate;hidden;private;cozy;secret;sheltered;comfortable
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,left,leftward;remaining;residual;alternate;subsequent;spare;available;additional;minor;peripheral
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,north,northern;chilly;stark;crisp;cool;icy;high;remote;expansive;snowy
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,outside,external;open;clear;visible;exposed;spacious;bright;welcoming;fresh;ambient
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,right,rightward;appropriate;correct;proper;dependable;balanced;steady;assured;valid;exact
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,south,southern;warm;sunny;mild;vibrant;inviting;bright;gentle;rich;serene
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,west,western;rugged;bold;expansive;wild;historic;open;vast;adventurous;untamed
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,century,historic;long;monumental;significant;enduring;distant;notable;vast;celebrated;remarkable
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,day,bright;sunny;long;bustling;warm;lively;pleasant;eventful;productive;vibrant
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,evening,quiet;calm;peaceful;pleasant;serene;gentle;cool;reflective;soothing;relaxed
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,hour,brief;fleeting;short;precious;measured;timed;limited;rapid;significant;transient
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,minute,brief;tiny;short;diminutive;transient;concise;exact;measured;subtle;delicate
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,month,long;fleeting;busy;notable;eventful;warm;changing;vibrant;transitional;memorable
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,morning,fresh;bright;early;crisp;calm;peaceful;vibrant;hopeful;gentle;promising
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,night,dark;quiet;peaceful;serene;mysterious;calm;starry;tranquil;deep;silent
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,season,changing;vibrant;temperate;distinct;varied;beautiful;dynamic;cyclical;pleasant;memorable
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,second,brief;fleeting;instant;rapid;transient;tiny;exact;short;measured;swift
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,week,busy;productive;dynamic;organized;active;eventful;balanced;varied;structured;challenging
+o3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,year,long;eventful;productive;memorable;challenging;dynamic;historic;transformative;prosperous;remarkable

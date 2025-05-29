@@ -1,0 +1,124 @@
+
+{
+  "task_prompts": [
+    {
+      "task_id": "SRT-1-REL",
+      "title": "Simple Route Triangle — mixed lexicon",
+      "instructions": "You start at point A facing toward point B. Move until you reach point C. Use ONLY the words left, right, up, down, diagonal-down-right, east, south, or south-east. Choose ONE route description below and return only its letter.",
+      "diagram_ascii": [
+        "A -------- B",
+        "           |",
+        "           |",
+        "           C"
+      ],
+      "options": [
+        { "id": "a", "text": "Move right, then down." },
+        { "id": "b", "text": "Move east, then south." },
+        { "id": "c", "text": "Move diagonal-down-right." },
+        { "id": "d", "text": "Move south-east." }
+      ],
+      "stop_rule": "goal_reached_or_max_steps"
+    },
+
+    {
+      "task_id": "SRT-2",
+      "title": "Complex Route Grid",
+      "instructions": "City blocks are perfect squares; \"X\" is an impassable park. Get from point A to point D in as few blocks as possible. Choose ONE route description below and return only its letter.",
+      "diagram_ascii": [
+        "A . . . .",
+        ". X . . .",
+        ". . . . .",
+        ". . . X .",
+        ". . . . D"
+      ],
+      "options": [
+        { "id": "a", "text": "down, down, down, down, right, right, right, right" },
+        { "id": "b", "text": "down, down-right, down-right, down-right, right" },
+        { "id": "c", "text": "south, south, south, south, east, east, east, east" },
+        { "id": "d", "text": "south, south-east, south-east, south-east, east" }
+      ]
+    },
+
+    {
+      "task_id": "MN-1",
+      "title": "Micro-Maze 4×4 — multiple-choice routes",
+      "instructions": "You are at S (start). The goal is E (exit). Each option below is a full sequence of moves. Choose ONE and return only its letter.",
+      "maze_ascii": [
+        "+---+---+---+---+",
+        "| S |   | X |   |",
+        "+---+---+---+---+",
+        "|   | X |   |   |",
+        "+---+---+---+---+",
+        "|   |   |   | X |",
+        "+---+---+---+---+",
+        "| X |   |   | E |",
+        "+---+---+---+---+"
+      ],
+      "options": [
+        { "id": "a", "text": "down, down, right, right, down, right" },
+        { "id": "b", "text": "down, down-right, down-right, right" },
+        { "id": "c", "text": "south, south, east, east, south, east" },
+        { "id": "d", "text": "south, south-east, south-east, east" }
+      ]
+    },
+
+    {
+      "task_id": "MN-2",
+      "title": "Micro-Maze path description",
+      "instructions": "Describe—in ≤ 20 English words—the path you would take from S to E in the maze below. Use any directional words you like. Return the description text only; do not include coordinates or extra commentary.",
+      "maze_ascii": [
+        "+---+---+---+---+",
+        "| S |   | X |   |",
+        "+---+---+---+---+",
+        "|   | X |   |   |",
+        "+---+---+---+---+",
+        "|   |   |   | X |",
+        "+---+---+---+---+",
+        "| X |   |   | E |",
+        "+---+---+---+---+"
+      ]
+    }
+  ],
+
+  "task_scoring": [
+    {
+      "task_id": "SRT-1-REL",
+      "path_lengths": {
+        "a": 2.0,            
+        "b": 2.0,            
+        "c": 1.4142,    
+        "d": 1.4142     
+      },
+      "optimal": ["c", "d"]
+    },
+
+    {
+      "task_id": "SRT-2",
+      "path_lengths": {
+        "a": 8.0,                          
+        "b": 6.2426,                  
+        "c": 8.0,                          
+        "d": 6.2426                   
+      },
+      "optimal": ["b", "d"]
+    },
+
+    {
+      "task_id": "MN-1",
+      "steps_per_option": {
+        "a": 6,
+        "b": 4.8284,
+        "c": 6,
+        "d": 4.8284
+      },
+      "optimal": ["b", "d"]
+    },
+
+    {
+      "task_id": "MN-2",
+      "output_word_limit": 20,
+      "optimal_steps": 6
+    }
+  ]
+}
+

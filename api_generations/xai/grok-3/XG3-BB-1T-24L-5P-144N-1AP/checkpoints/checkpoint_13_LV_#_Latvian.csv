@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,anger,strong;deep;sudden;hot;wild;dark;fierce;bitter;quick;intense
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,courage,great;true;bold;amazing;real;brave;powerful;quiet;inner;heroic
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,fear,big;cold;sharp;hidden;growing;dark;heavy;silent;sudden;deep
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,freedom,full;true;sweet;hard;new;long;pure;bright;precious;personal
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,happiness,warm;simple;pure;bright;big;sweet;quiet;true;endless;real
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,hate,strong;deep;bitter;dark;cold;fierce;hidden;burning;wild;sharp
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,honesty,clear;true;pure;strong;simple;real;open;kind;brave;full
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,justice,fair;true;strong;right;clear;hard;equal;honest;pure;good
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,knowledge,deep;wide;useful;great;new;old;basic;rich;hidden;important
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,love,true;deep;warm;sweet;strong;pure;gentle;endless;kind;real
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,peace,quiet;calm;deep;true;soft;long;sweet;inner;warm;full
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Abstract Concepts,wisdom,great;deep;old;quiet;true;clear;strong;simple;kind;useful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,bell,loud;clear;small;old;shiny;golden;heavy;sweet;bright;round
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,candle,bright;warm;small;soft;white;long;burning;pretty;quiet;red
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,carpet,soft;warm;colorful;big;thick;old;new;clean;heavy;nice
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,coin,old;shiny;small;round;silver;golden;rare;dirty;light;valuable
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,crown,golden;heavy;shiny;royal;old;beautiful;big;rich;bright;precious
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,flag,colorful;national;bright;big;old;proud;waving;red;white;blue
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,mask,scary;funny;black;white;old;strange;wooden;hidden;dark;painted
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,necklace,beautiful;long;shiny;golden;silver;pretty;expensive;light;delicate;old
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;big;famous;dark;bright;small;new;lovely
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,ring,golden;silver;small;shiny;expensive;pretty;old;round;simple;beautiful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,statue,tall;old;white;big;stone;beautiful;famous;heavy;quiet;cold
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Cultural Artifacts,vase,pretty;old;small;delicate;colorful;glass;tall;expensive;broken;nice
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,cloud,white;fluffy;big;dark;soft;grey;high;moving;light;heavy
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,earthquake,strong;sudden;scary;big;dangerous;loud;terrible;wild;short;powerful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,fog,thick;cold;grey;heavy;dark;silent;wet;mysterious;early;dense
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,lightning,bright;fast;loud;scary;sharp;sudden;white;dangerous;wild;powerful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;soft;warm;long;sudden;grey;wet;quiet
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;big;clear;pretty;magical;lovely;short
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;wet;beautiful;thick;quiet;fresh
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,storm,strong;loud;dark;scary;wild;big;sudden;dangerous;cold;angry
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,thunder,loud;deep;scary;strong;sudden;dark;heavy;wild;angry;powerful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,tide,high;low;strong;sudden;dangerous;quiet;cold;fast;regular;powerful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,volcano,active;hot;dangerous;big;tall;dark;angry;red;scary;old
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;fast;soft;loud;wild;sudden;gentle
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,apple,red;green;sweet;fresh;juicy;small;round;hard;tasty;ripe
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,banana,yellow;long;sweet;soft;fresh;ripe;small;tasty;healthy;curved
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,beef,fresh;red;tasty;soft;hard;cooked;raw;expensive;thick;juicy
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,bread,fresh;soft;warm;white;brown;hard;tasty;old;thick;small
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,broccoli,green;fresh;healthy;small;hard;tasty;raw;cooked;bitter;light
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;tasty;old;strong;creamy;fresh;salty
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,chicken,fresh;tasty;soft;cooked;raw;white;small;juicy;hot;tender
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,egg,white;brown;small;fresh;hard;soft;round;cooked;raw;tasty
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,fish,fresh;small;big;tasty;raw;cooked;silver;wet;cold;salty
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,pasta,soft;tasty;long;short;fresh;cooked;hot;yellow;simple;Italian
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,rice,white;brown;soft;hard;tasty;small;fresh;cooked;hot;simple
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Food Items,soup,hot;tasty;warm;fresh;thick;light;salty;creamy;healthy;homemade
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,artist,talented;creative;famous;young;old;poor;rich;quiet;strange;clever
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,athlete,strong;fast;young;fit;tall;brave;skilled;active;tough;famous
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,chef,skilled;creative;busy;famous;kind;strict;tall;friendly;clever;experienced
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,doctor,kind;smart;busy;helpful;old;young;strict;friendly;careful;experienced
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,engineer,smart;creative;busy;skilled;young;clever;careful;serious;technical;hardworking
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,farmer,hardworking;kind;strong;old;poor;quiet;friendly;busy;simple;tough
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,lawyer,smart;strict;busy;serious;clever;rich;helpful;tough;young;experienced
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,musician,talented;creative;famous;young;passionate;quiet;loud;skilled;cool;friendly
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,scientist,smart;curious;quiet;clever;serious;busy;old;young;creative;careful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,soldier,brave;strong;tough;young;strict;tall;serious;loyal;disciplined;heroic
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,teacher,kind;strict;smart;patient;helpful;friendly;old;young;wise;caring
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Human Roles,writer,creative;quiet;famous;clever;talented;young;old;serious;passionate;shy
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,book,old;new;thick;thin;heavy;interesting;boring;small;long;colorful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,bridge,long;old;strong;high;narrow;wide;beautiful;wooden;stone;modern
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,drums,loud;big;heavy;round;wooden;shiny;old;new;powerful;fast
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,earth,big;round;green;blue;old;beautiful;rich;dry;wet;warm
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,flute,small;shiny;silver;light;old;beautiful;wooden;clear;sweet;delicate
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,key,small;old;shiny;silver;heavy;rusty;important;golden;tiny;useful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,knife,sharp;small;heavy;shiny;old;rusty;dangerous;long;short;useful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,lock,old;heavy;small;rusty;strong;shiny;broken;tight;metal;secure
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,moon,bright;white;round;big;pale;cold;quiet;beautiful;full;mysterious
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,pen,small;black;blue;red;cheap;expensive;old;new;thin;useful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;warm;shining;round;high;powerful;beautiful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Inanimate Objects,sword,sharp;long;heavy;old;shiny;dangerous;strong;silver;rusty;powerful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,cat,small;soft;cute;black;white;lazy;fast;quiet;friendly;wild
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,dog,big;small;friendly;loud;brown;black;loyal;active;cute;strong
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,dolphin,smart;friendly;fast;blue;small;playful;cute;wild;shiny;happy
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,elephant,big;grey;strong;slow;heavy;tall;kind;wild;old;gentle
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,hamster,small;cute;soft;brown;white;fast;tiny;playful;quiet;sweet
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,monkey,funny;small;fast;brown;wild;clever;loud;playful;active;naughty
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,mouse,small;grey;fast;tiny;quiet;shy;cute;brown;little;sneaky
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,peacock,colorful;beautiful;big;proud;rare;shiny;loud;pretty;tall;elegant
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,rabbit,small;white;soft;cute;fast;shy;brown;tiny;sweet;quiet
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,shark,big;dangerous;grey;fast;scary;wild;strong;dark;sharp;hungry
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,snake,long;green;dangerous;fast;scary;thin;brown;wild;quiet;cold
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Neutral Animals,whale,big;blue;heavy;slow;gentle;deep;wild;dark;huge;rare
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,city,big;busy;noisy;modern;old;crowded;dirty;clean;beautiful;tall
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,desert,hot;dry;big;empty;sandy;quiet;dangerous;yellow;wide;harsh
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,forest,green;big;dark;quiet;deep;old;thick;beautiful;wild;scary
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,island,small;beautiful;green;quiet;far;tropical;rocky;lonely;warm;remote
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,lake,blue;clear;big;quiet;deep;cold;beautiful;calm;small;shiny
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,mountain,tall;high;big;cold;rocky;green;beautiful;steep;old;dangerous
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,ocean,big;blue;deep;wide;cold;wild;dark;beautiful;calm;dangerous
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,plain,wide;flat;green;empty;big;quiet;dry;open;yellow;simple
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,plateau,high;flat;wide;dry;big;quiet;rocky;cold;open;empty
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,river,long;wide;blue;clear;deep;fast;slow;cold;beautiful;quiet
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,valley,green;deep;narrow;quiet;beautiful;wide;long;rocky;cold;peaceful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Places,village,small;quiet;old;friendly;beautiful;poor;simple;green;peaceful;remote
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,cactus,green;spiky;tall;small;dry;hard;sharp;tough;desert;strange
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,eggplant,purple;shiny;long;soft;fresh;small;tasty;hard;healthy;round
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,flower,beautiful;colorful;small;pretty;red;yellow;soft;fresh;sweet;bright
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,grass,green;soft;tall;short;wet;dry;thick;fresh;light;wild
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,lettuce,green;fresh;soft;light;healthy;crispy;small;tasty;raw;wet
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,mushroom,small;brown;white;soft;tasty;wild;strange;round;fresh;edible
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,onion,white;yellow;strong;small;round;sharp;fresh;raw;tasty;smelly
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,pepper,red;green;hot;spicy;small;fresh;tasty;yellow;raw;shiny
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,potato,brown;small;hard;tasty;fresh;round;yellow;soft;cooked;simple
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,rose,red;beautiful;pretty;soft;small;thorny;sweet;pink;fresh;lovely
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,tomato,red;juicy;fresh;small;round;soft;tasty;ripe;green;sweet
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Plants,tree,tall;green;old;big;strong;thick;beautiful;wide;leafy;bare
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,ally,loyal;kind;helpful;close;strong;true;friendly;brave;trusted;good
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,brother,kind;strong;older;younger;funny;tall;close;caring;loud;protective
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,enemy,dangerous;strong;bad;angry;cold;dark;hidden;close;tough;cruel
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,father,kind;strong;old;tall;strict;loving;caring;wise;busy;funny
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,follower,loyal;quiet;young;close;eager;helpful;shy;active;true;supportive
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,friend,kind;funny;close;loyal;good;sweet;helpful;nice;old;dear
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,leader,strong;wise;brave;kind;strict;smart;tall;confident;fair;powerful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,mother,kind;loving;warm;strict;caring;gentle;sweet;busy;wise;soft
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,partner,close;kind;loyal;funny;helpful;strong;sweet;caring;good;trusted
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,rival,strong;tough;close;angry;smart;dangerous;fast;young;bad;competitive
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,sister,kind;funny;older;younger;sweet;close;loud;caring;pretty;helpful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Social Relationships,stranger,unknown;quiet;tall;strange;cold;shy;dark;friendly;young;odd
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,above,high;clear;bright;open;wide;far;blue;empty;light;distant
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,back,strong;wide;straight;sore;hidden;dark;long;hard;cold;heavy
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,below,low;dark;deep;hidden;cold;quiet;close;empty;wet;silent
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,east,far;warm;bright;distant;red;new;open;quiet;early;beautiful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,front,wide;open;clear;close;strong;bright;straight;busy;clean;important
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,inside,warm;dark;quiet;small;hidden;cozy;deep;soft;safe;crowded
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,left,close;near;small;sharp;quick;wrong;hidden;quiet;dark;empty
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,north,cold;far;dark;quiet;white;distant;wild;high;snowy;harsh
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,outside,cold;warm;bright;open;wide;noisy;wet;fresh;green;busy
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,right,correct;close;near;strong;quick;sharp;clear;good;safe;bright
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,south,warm;far;bright;distant;hot;green;open;sunny;quiet;beautiful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Spatial Concepts,west,far;distant;warm;red;quiet;open;new;late;beautiful;wild
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,century,old;long;past;new;important;famous;dark;bright;short;historic
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,day,long;short;warm;cold;bright;dark;busy;quiet;happy;sad
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,evening,quiet;cool;dark;long;calm;beautiful;warm;late;peaceful;soft
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;fast;slow;hard;important
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,minute,quick;short;fast;long;busy;important;last;quiet;slow;precious
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,month,long;short;cold;warm;busy;quiet;wet;dry;happy;hard
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,morning,early;cold;bright;quiet;fresh;cool;busy;wet;beautiful;calm
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,night,dark;long;cold;quiet;late;black;scary;beautiful;warm;silent
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,season,warm;cold;wet;dry;long;short;beautiful;hard;green;colorful
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,second,quick;fast;short;last;busy;important;tiny;slow;precious;exact
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,week,long;short;busy;quiet;hard;fast;slow;happy;tired;important
+grok-3,basic,1.0,LV # Latvian,B1,most frequent,Time Concepts,year,long;short;busy;happy;hard;new;old;fast;slow;important
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,anger,strong;deep;sudden;fierce;intense;burning;wild;bitter;hot;uncontrolled
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,courage,great;brave;bold;true;amazing;fearless;powerful;heroic;inspiring;real
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,fear,dark;cold;heavy;sharp;hidden;constant;growing;paralyzing;silent;overwhelming
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,freedom,pure;complete;sweet;hard-won;precious;beautiful;desired;essential;true;personal
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,happiness,bright;warm;endless;simple;genuine;deep;shared;quiet;full;joyful
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,hate,strong;blind;cruel;dark;bitter;deep;hidden;intense;fierce;cold
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,honesty,clear;pure;strong;brave;true;open;real;direct;firm;important
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,justice,fair;strict;true;equal;moral;legal;honest;right;necessary;hard
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,knowledge,deep;wide;useful;powerful;vast;important;practical;secret;valuable;gained
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,love,true;deep;pure;warm;endless;sweet;passionate;gentle;strong;unconditional
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,peace,quiet;calm;gentle;lasting;inner;sweet;beautiful;desired;fragile;serene
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Abstract Concepts,wisdom,deep;ancient;great;practical;true;quiet;valuable;timeless;clear;learned
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,bell,loud;clear;small;shiny;old;golden;heavy;sweet;ringing;silver
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,candle,bright;warm;small;flickering;soft;white;scented;tall;burning;delicate
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,carpet,soft;thick;red;old;clean;patterned;warm;expensive;colorful;fluffy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,coin,old;shiny;small;round;silver;gold;rare;heavy;worn;valuable
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,crown,golden;heavy;royal;shiny;beautiful;old;jeweled;majestic;powerful;ornate
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;torn;bright;bold;symbolic;large;historical
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,mask,dark;mysterious;scary;painted;wooden;funny;hidden;black;strange;traditional
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,necklace,silver;gold;long;delicate;shiny;expensive;beautiful;simple;elegant;pearl
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,painting,old;beautiful;colorful;famous;large;realistic;abstract;detailed;emotional;unique
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,ring,gold;silver;shiny;small;beautiful;expensive;simple;wedding;delicate;engraved
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,statue,tall;old;stone;grand;beautiful;historical;white;broken;impressive;marble
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Cultural Artifacts,vase,delicate;tall;glass;old;beautiful;painted;ceramic;narrow;elegant;decorative
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;heavy;soft;grey;big;floating;light;stormy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,earthquake,strong;sudden;destructive;terrifying;powerful;dangerous;violent;deadly;rare;unexpected
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,fog,thick;cold;grey;dense;mysterious;heavy;silent;wet;creepy;early
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,lightning,bright;sharp;fast;dangerous;powerful;sudden;scary;electric;loud;striking
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;soft;sudden;endless;gentle;refreshing
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;magical;clear;wide;vivid;happy;fleeting
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;fresh;thick;quiet;falling;light;fluffy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,storm,strong;loud;dark;violent;scary;sudden;dangerous;heavy;wild;powerful
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,thunder,loud;deep;scary;sudden;powerful;rolling;strong;distant;booming;shocking
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,tide,high;low;strong;dangerous;calm;steady;powerful;rising;fast;changing
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,volcano,active;dangerous;huge;hot;fiery;sleeping;deadly;tall;smoky;explosive
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fast;wild;sharp;blowing;light;noisy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,apple,red;green;sweet;fresh;juicy;ripe;small;round;tasty;crunchy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;fresh;healthy;tropical;curved;tasty
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,beef,fresh;tender;juicy;cooked;raw;red;expensive;grilled;fatty;tasty
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,bread,fresh;warm;soft;hard;white;brown;crusty;sliced;homemade;tasty
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,broccoli,green;fresh;healthy;small;raw;cooked;bitter;tender;crunchy;nutritious
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;creamy;sharp;smelly;melted;fresh;tasty
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,chicken,roasted;fried;tender;juicy;fresh;raw;cooked;spicy;grilled;white
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,egg,white;brown;fresh;boiled;fried;raw;small;hard;soft;cracked
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,fish,fresh;raw;cooked;salty;small;big;silver;tasty;grilled;oily
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,pasta,soft;cooked;fresh;long;short;hot;tasty;creamy;spicy;Italian
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,rice,white;brown;cooked;sticky;fluffy;hot;plain;tasty;healthy;simple
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Food Items,soup,hot;warm;tasty;creamy;thick;clear;spicy;fresh;homemade;healthy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,artist,creative;talented;famous;young;old;passionate;unique;skilled;inspired;dedicated
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,athlete,strong;fast;fit;young;talented;dedicated;competitive;tough;skilled;energetic
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,chef,skilled;creative;famous;busy;talented;professional;friendly;experienced;passionate;innovative
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,doctor,kind;smart;busy;helpful;experienced;caring;professional;patient;trusted;friendly
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,engineer,smart;skilled;creative;technical;experienced;innovative;hard-working;precise;educated;practical
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,farmer,hard-working;kind;strong;early;experienced;friendly;tough;patient;dedicated;rural
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,lawyer,smart;strict;busy;professional;experienced;confident;sharp;honest;tough;successful
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,musician,talented;creative;famous;passionate;young;skilled;emotional;dedicated;inspired;unique
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,scientist,smart;curious;dedicated;innovative;serious;educated;focused;creative;patient;brilliant
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,soldier,brave;strong;tough;loyal;young;trained;disciplined;fearless;dedicated;proud
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,teacher,kind;patient;smart;strict;friendly;helpful;experienced;caring;dedicated;inspiring
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Human Roles,writer,creative;talented;famous;passionate;young;inspired;focused;imaginative;dedicated;unique
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;heavy;popular;short;long
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,bridge,old;long;high;strong;narrow;wide;wooden;stone;modern;beautiful
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,drums,loud;big;heavy;rhythmic;old;new;shiny;powerful;fast;traditional
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,earth,round;blue;green;vast;beautiful;old;rich;warm;alive;precious
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,flute,small;silver;wooden;sweet;soft;old;shiny;delicate;clear;musical
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,key,small;silver;old;rusty;golden;heavy;important;shiny;lost;spare
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,knife,sharp;small;big;rusty;shiny;old;dangerous;heavy;useful;steel
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,lock,old;rusty;heavy;strong;small;broken;new;secure;tight;metal
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,moon,bright;full;pale;round;white;beautiful;mysterious;distant;cold;glowing
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,pen,black;blue;small;cheap;expensive;old;new;broken;smooth;plastic
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,sun,bright;hot;yellow;warm;big;shining;golden;strong;burning;summer
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Inanimate Objects,sword,sharp;heavy;old;rusty;long;shiny;strong;dangerous;ancient;silver
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,cat,small;soft;black;white;lazy;cute;furry;playful;quiet;friendly
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,dog,big;small;friendly;loyal;brown;black;playful;loud;cute;strong
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,dolphin,smart;friendly;fast;blue;playful;wild;beautiful;gentle;curious;amazing
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,elephant,big;grey;strong;heavy;slow;gentle;wild;tall;old;wise
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,hamster,small;cute;fluffy;tiny;active;brown;soft;shy;funny;pet
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,monkey,funny;active;small;brown;wild;clever;noisy;fast;curious;playful
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,mouse,small;grey;tiny;quiet;fast;shy;brown;sneaky;cute;little
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,peacock,beautiful;colorful;proud;big;bright;rare;elegant;loud;stunning;unique
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,rabbit,white;soft;small;cute;fast;shy;brown;fluffy;quiet;pet
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,shark,dangerous;big;grey;fast;scary;wild;strong;hungry;sharp;deadly
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,snake,long;dangerous;green;brown;scary;slimy;fast;quiet;deadly;wild
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Neutral Animals,whale,huge;blue;gentle;heavy;slow;deep;wild;beautiful;rare;amazing
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,city,big;busy;noisy;modern;old;crowded;dirty;beautiful;bright;lively
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,desert,hot;dry;vast;empty;sandy;harsh;quiet;lonely;dangerous;endless
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,forest,green;dark;dense;quiet;deep;old;wild;beautiful;mysterious;thick
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,island,small;tropical;remote;beautiful;quiet;green;isolated;sandy;warm;exotic
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,lake,clear;blue;calm;deep;cold;quiet;beautiful;still;fresh;large
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,mountain,high;tall;snowy;steep;rocky;cold;beautiful;dangerous;big;green
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,ocean,vast;deep;blue;wild;cold;salty;endless;powerful;beautiful;dangerous
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,plain,flat;wide;open;green;dry;vast;empty;quiet;simple;endless
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,plateau,high;flat;wide;dry;rocky;cold;open;vast;remote;barren
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,river,long;wide;blue;fast;calm;deep;clear;cold;beautiful;winding
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,valley,green;deep;narrow;quiet;beautiful;hidden;wide;fertile;peaceful;lush
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Places,village,small;quiet;old;friendly;peaceful;rural;simple;beautiful;remote;traditional
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,cactus,green;spiky;tall;dry;tough;small;desert;sharp;strange;hardy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,eggplant,purple;shiny;fresh;soft;long;healthy;raw;cooked;tasty;smooth
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,flower,beautiful;colorful;small;fragrant;delicate;bright;fresh;pretty;soft;lovely
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,grass,green;soft;fresh;tall;wet;thick;short;dry;wild;lush
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,lettuce,green;fresh;crisp;light;healthy;raw;soft;leafy;tasty;cool
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,mushroom,small;brown;white;soft;wild;tasty;poisonous;fresh;earthy;round
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,onion,white;yellow;strong;sharp;raw;cooked;round;fresh;small;spicy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,pepper,red;green;spicy;hot;fresh;small;sweet;raw;colorful;tasty
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,potato,brown;fresh;raw;cooked;small;big;tasty;soft;hard;healthy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,rose,red;pink;beautiful;fragrant;delicate;thorny;fresh;lovely;bright;romantic
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,tomato,red;fresh;juicy;ripe;small;round;tasty;soft;healthy;sweet
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Plants,tree,tall;green;old;big;strong;thick;leafy;beautiful;shady;sturdy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,ally,loyal;trusted;close;helpful;strong;reliable;friendly;supportive;kind;true
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,brother,older;younger;kind;funny;strong;close;protective;friendly;annoying;loving
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,enemy,dangerous;cruel;strong;hidden;bitter;fierce;cold;powerful;hated;tricky
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,father,kind;strong;strict;loving;old;wise;protective;caring;funny;hardworking
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,follower,loyal;dedicated;young;eager;quiet;supportive;faithful;close;active;trusting
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,friend,close;kind;funny;loyal;true;best;old;new;helpful;dear
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,leader,strong;wise;confident;brave;strict;fair;powerful;inspiring;smart;respected
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,mother,kind;loving;caring;strict;gentle;strong;warm;wise;patient;protective
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,partner,loyal;close;trusted;supportive;kind;loving;reliable;funny;honest;equal
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,rival,strong;tough;competitive;dangerous;close;bitter;smart;aggressive;hated;challenging
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,sister,older;younger;kind;funny;close;annoying;loving;supportive;sweet;protective
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Social Relationships,stranger,unknown;mysterious;quiet;distant;cold;friendly;odd;curious;suspicious;new
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,above,high;clear;bright;open;wide;far;distant;blue;empty;visible
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,back,strong;straight;sore;wide;broad;hurt;hidden;lower;upper;tired
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,below,low;dark;deep;hidden;close;cold;quiet;narrow;secret;underground
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,east,far;warm;early;distant;bright;exotic;historical;remote;cultural;sunny
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,front,clear;open;wide;visible;close;bright;main;straight;busy;forward
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,inside,warm;dark;quiet;small;hidden;cozy;safe;tight;comfortable;secret
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,left,close;near;wrong;remaining;hidden;odd;unused;quiet;lower;opposite
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,north,cold;far;distant;snowy;harsh;wild;quiet;dark;remote;windy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,outside,cold;warm;bright;noisy;open;wide;fresh;beautiful;dangerous;sunny
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,right,correct;near;close;proper;true;fair;strong;main;opposite;exact
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,south,warm;far;sunny;distant;hot;exotic;bright;tropical;remote;green
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Spatial Concepts,west,far;distant;warm;wild;sunny;historical;open;remote;exotic;beautiful
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,century,old;long;past;new;early;late;historical;important;specific;distant
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;cold;warm;happy;sad;bright
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,evening,quiet;dark;cool;late;calm;beautiful;relaxing;peaceful;long;cozy
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;fast;slow;important;final
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,minute,quick;short;fast;last;important;slow;busy;quiet;exact;precious
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;sunny;hard;happy;important
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,morning,early;bright;cold;quiet;fresh;sunny;busy;calm;beautiful;cool
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,night,dark;long;quiet;cold;late;scary;beautiful;silent;peaceful;starry
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,season,cold;warm;rainy;sunny;long;short;favorite;busy;happy;changing
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,second,quick;fast;short;last;important;final;brief;exact;passing;precious
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,week,long;short;busy;hard;happy;tiring;fast;slow;quiet;important
+grok-3,basic,1.0,LV # Latvian,B2,most frequent,Time Concepts,year,long;short;busy;happy;hard;new;old;important;past;successful
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,anger,intense;burning;fierce;uncontrollable;deep;raw;sudden;bitter;suppressed;explosive
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,courage,remarkable;brave;fearless;bold;inspiring;heroic;unwavering;strong;daring;noble
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;constant;hidden;sudden;chilling;gripping;intense
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,freedom,precious;hard-won;complete;personal;cherished;true;absolute;long-awaited;liberating;essential
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,happiness,pure;boundless;genuine;radiant;lasting;simple;unexpected;deep;infectious;warm
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,hate,bitter;intense;deep-rooted;blind;fierce;burning;irrational;consuming;venomous;unrelenting
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,honesty,brutal;sincere;refreshing;unwavering;absolute;raw;genuine;admirable;rare;consistent
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,justice,fair;impartial;swift;true;hard-earned;long-overdue;blind;moral;deserved;strict
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,knowledge,vast;deep;profound;useful;practical;extensive;specialized;ancient;valuable;shared
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,love,unconditional;passionate;tender;deep;eternal;true;selfless;romantic;enduring;pure
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,peace,lasting;inner;quiet;fragile;hard-won;serene;global;temporary;calm;profound
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Abstract Concepts,wisdom,timeless;profound;practical;ancient;deep;hard-earned;insightful;valuable;shared;quiet
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,bell,loud;clear;melodic;old;shiny;small;golden;heavy;ancient;resonant
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,candle,flickering;warm;soft;scented;tall;white;burning;delicate;romantic;dim
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;worn;expensive;patterned;plush;old;warm;intricate
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,coin,old;shiny;rare;small;golden;worn;valuable;ancient;silver;collectible
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,crown,golden;heavy;ornate;royal;ancient;jeweled;majestic;ceremonial;symbolic;glittering
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;tattered;iconic;historic;bold;bright;symbolic
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,mask,mysterious;colorful;scary;intricate;traditional;hidden;dark;painted;ceremonial;eerie
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,necklace,elegant;delicate;silver;golden;expensive;long;beaded;simple;beautiful;antique
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,painting,beautiful;old;vibrant;abstract;detailed;famous;large;colorful;expressive;classic
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,ring,golden;silver;shiny;expensive;simple;engagement;antique;delicate;ornate;small
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,statue,tall;ancient;marble;impressive;detailed;bronze;historical;grand;iconic;weathered
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Cultural Artifacts,vase,delicate;tall;ceramic;antique;colorful;ornate;fragile;elegant;simple;beautiful
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,cloud,fluffy;white;dark;heavy;light;drifting;thick;gray;soft;looming
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;violent;destructive;terrifying;strong;unexpected;massive;deadly
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;cold;gray;heavy;eerie;silent;damp;obscuring
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;jagged;dangerous;vivid;striking;intense;electric;blinding
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;gentle;cold;refreshing;sudden;torrential;warm;persistent
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;magical;vivid;arched;fleeting;stunning;cheerful
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,snow,soft;white;cold;heavy;light;fresh;powdery;thick;silent;sparkling
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,storm,fierce;violent;powerful;dark;loud;sudden;raging;dangerous;wild;intense
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,thunder,loud;deep;rolling;distant;powerful;sudden;booming;startling;ominous;echoing
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;steady;dangerous;calm;relentless
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;fiery;ancient;towering;destructive;explosive;majestic
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fierce;howling;brisk;constant;wild;refreshing
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,apple,red;green;sweet;crisp;juicy;fresh;round;ripe;tart;shiny
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;fresh;curved;tropical;healthy;spotted
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,beef,tender;juicy;grilled;fresh;lean;savory;cooked;red;marinated;smoky
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,bread,fresh;warm;soft;crusty;white;brown;homemade;sliced;toasted;hearty
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,broccoli,green;fresh;healthy;tender;crisp;steamed;raw;vibrant;nutritious;bitter
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,cheese,creamy;sharp;soft;hard;melted;yellow;white;aged;tangy;rich
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,chicken,grilled;roasted;tender;juicy;spicy;fried;lean;savory;cooked;fresh
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;soft;hard;raw;organic
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,fish,fresh;grilled;raw;smoked;flaky;white;fatty;salty;tender;cooked
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,pasta,soft;al dente;fresh;homemade;creamy;spicy;hot;cheesy;light;hearty
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;cooked;plain;fragrant;long-grain;savory
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Food Items,soup,hot;creamy;hearty;light;spicy;clear;warm;homemade;thick;savory
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,artist,talented;creative;famous;struggling;innovative;passionate;skilled;unique;visionary;dedicated
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,athlete,strong;fast;dedicated;talented;competitive;skilled;fit;determined;agile;powerful
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,chef,skilled;creative;experienced;famous;innovative;passionate;talented;busy;meticulous;professional
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,doctor,caring;skilled;experienced;kind;busy;dedicated;professional;knowledgeable;compassionate;trusted
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,engineer,skilled;innovative;creative;experienced;technical;brilliant;dedicated;precise;hardworking;analytical
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,farmer,hardworking;dedicated;experienced;tough;early-rising;skilled;patient;practical;strong;knowledgeable
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,lawyer,sharp;experienced;tough;skilled;persuasive;busy;professional;dedicated;confident;knowledgeable
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,musician,talented;passionate;famous;creative;skilled;dedicated;expressive;unique;gifted;versatile
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;knowledgeable;analytical;precise;passionate;experienced;focused
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,soldier,brave;strong;disciplined;loyal;dedicated;tough;heroic;trained;determined;fearless
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,teacher,patient;kind;knowledgeable;inspiring;dedicated;strict;supportive;experienced;caring;wise
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Human Roles,writer,creative;talented;famous;imaginative;skilled;passionate;dedicated;prolific;thoughtful;unique
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,book,thick;old;new;interesting;heavy;worn;exciting;hardcover;engaging;classic
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,bridge,old;long;sturdy;narrow;high;wooden;modern;iconic;busy;beautiful
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,drums,loud;powerful;rhythmic;large;heavy;traditional;electric;shiny;beaten;resonant
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,earth,vast;beautiful;ancient;fragile;green;rich;living;diverse;blue;precious
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,flute,delicate;silver;wooden;soft;melodic;small;ancient;shiny;elegant;clear
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,key,small;shiny;old;rusty;golden;important;hidden;heavy;brass;spare
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,knife,sharp;small;dangerous;shiny;heavy;kitchen;serrated;blunt;steel;useful
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,lock,heavy;old;rusty;secure;broken;small;strong;brass;tight;ancient
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,moon,full;bright;pale;mysterious;distant;silver;round;glowing;quiet;beautiful
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,pen,black;blue;expensive;cheap;smooth;old;small;elegant;plastic;reliable
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,sun,bright;warm;hot;golden;blazing;distant;shining;powerful;radiant;yellow
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Inanimate Objects,sword,sharp;heavy;ancient;shiny;long;deadly;ornate;powerful;ceremonial;rusty
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,cat,fluffy;playful;lazy;curious;small;black;white;friendly;independent;cute
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,dog,loyal;friendly;playful;big;small;protective;energetic;brown;happy;obedient
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,dolphin,intelligent;friendly;playful;sleek;fast;graceful;social;curious;beautiful;wild
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,elephant,large;gentle;gray;strong;majestic;slow;wise;powerful;wild;endangered
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,hamster,small;cute;fluffy;active;tiny;brown;playful;shy;furry;curious
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,monkey,playful;curious;agile;small;clever;noisy;brown;wild;funny;social
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,mouse,small;tiny;gray;quick;shy;quiet;sneaky;cute;timid;fast
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;vibrant;exotic;large;majestic;striking;elegant;rare
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,rabbit,cute;fluffy;small;fast;white;brown;shy;soft;playful;timid
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,shark,dangerous;powerful;sleek;fast;gray;deadly;large;predatory;wild;fearsome
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,snake,long;dangerous;slippery;green;venomous;silent;scaly;deadly;wild;coiled
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Neutral Animals,whale,huge;gentle;blue;massive;deep;slow;majestic;rare;powerful;endangered
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,city,busy;large;modern;noisy;crowded;vibrant;old;historic;beautiful;sprawling
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,desert,hot;dry;vast;sandy;empty;harsh;barren;quiet;endless;golden
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,forest,dense;green;dark;quiet;ancient;thick;mysterious;wild;lush;peaceful
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,island,small;tropical;remote;beautiful;quiet;isolated;sandy;green;exotic;rocky
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,lake,calm;clear;deep;blue;quiet;large;cold;peaceful;reflective;beautiful
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,mountain,tall;snowy;steep;majestic;rocky;high;rugged;ancient;beautiful;imposing
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,ocean,vast;deep;blue;wild;powerful;endless;calm;dark;mysterious;stormy
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,plain,flat;vast;open;green;wide;empty;quiet;grassy;endless;barren
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,plateau,high;flat;wide;rocky;remote;dry;vast;barren;elevated;rugged
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,river,long;wide;calm;fast;deep;clear;winding;blue;powerful;peaceful
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,valley,deep;green;narrow;quiet;beautiful;hidden;fertile;lush;steep;peaceful
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Places,village,small;quiet;old;peaceful;rural;friendly;tiny;remote;charming;traditional
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,cactus,spiky;green;tall;dry;tough;small;prickly;desert;hardy;sharp
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;long;soft;bitter;cooked;healthy;firm
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,flower,beautiful;colorful;delicate;fragrant;small;bright;fresh;soft;lovely;blooming
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,grass,green;soft;tall;fresh;thick;wet;dry;short;lush;wild
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,lettuce,green;fresh;crisp;leafy;light;healthy;tender;raw;bright;juicy
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,mushroom,small;brown;white;soft;edible;wild;poisonous;earthy;fresh;round
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,onion,strong;sharp;white;yellow;raw;cooked;round;pungent;fresh;layered
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,pepper,spicy;red;green;hot;fresh;sweet;small;crisp;colorful;fiery
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,potato,brown;starchy;fresh;large;small;cooked;raw;firm;soft;versatile
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;pink;soft;lovely;elegant;blooming
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;sweet;soft;firm;tangy;bright
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Plants,tree,tall;old;green;sturdy;thick;ancient;leafy;strong;bare;majestic
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,ally,loyal;trusted;supportive;close;reliable;strong;helpful;friendly;valuable;steadfast
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,brother,loving;protective;close;older;younger;funny;annoying;supportive;loyal;caring
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,enemy,dangerous;fierce;bitter;hated;powerful;cunning;relentless;hidden;strong;cruel
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,father,loving;strict;caring;supportive;wise;strong;protective;kind;hardworking;gentle
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,follower,loyal;dedicated;eager;supportive;faithful;enthusiastic;trusting;quiet;obedient;devoted
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,friend,close;loyal;kind;funny;supportive;trustworthy;dear;old;caring;reliable
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,leader,strong;confident;inspiring;decisive;wise;powerful;charismatic;fair;bold;respected
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,mother,loving;caring;gentle;strict;supportive;kind;warm;nurturing;protective;wise
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,partner,loyal;supportive;loving;trusted;equal;reliable;close;caring;understanding;committed
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,rival,strong;competitive;tough;challenging;bitter;determined;fierce;cunning;persistent;aggressive
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,sister,loving;close;supportive;funny;annoying;caring;protective;kind;older;younger
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Social Relationships,stranger,unknown;mysterious;distant;suspicious;quiet;unfamiliar;odd;shy;curious;reserved
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,above,high;elevated;upper;overhead;distant;clear;visible;bright;far;lofty
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,back,rear;hidden;behind;lower;distant;strong;broad;aching;exposed;supportive
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,below,lower;beneath;under;hidden;deep;close;dark;quiet;inferior;submerged
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,east,distant;far;oriental;rising;bright;warm;exotic;ancient;cultural;remote
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,front,forward;leading;main;visible;first;open;central;prominent;bold;primary
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,inside,inner;hidden;deep;private;warm;dark;cozy;secret;enclosed;safe
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,left,remaining;western;opposite;odd;abandoned;stray;liberal;awkward;neglected;secondary
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,north,cold;distant;far;upper;remote;harsh;wild;icy;dark;rugged
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,outside,external;outer;far;open;exposed;distant;free;wild;cold;public
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,right,correct;proper;eastern;immediate;just;moral;fair;conservative;suitable;direct
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,south,warm;distant;far;lower;sunny;tropical;remote;hot;exotic;vibrant
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Spatial Concepts,west,far;distant;setting;modern;wild;open;progressive;remote;cultural;vast
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,century,past;new;old;long;specific;historic;recent;golden;turbulent;defining
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;cold;warm;special;ordinary;bright
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,evening,quiet;cool;dark;late;calm;peaceful;long;romantic;pleasant;relaxing
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,hour,long;short;busy;early;late;quiet;crucial;final;precious;fleeting
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,minute,quick;short;last;precious;fleeting;tense;critical;exact;brief;passing
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;special;quiet;current;past
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,morning,early;bright;cold;quiet;fresh;sunny;busy;peaceful;cool;misty
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,night,dark;long;quiet;late;cold;starry;peaceful;restless;silent;deep
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,season,rainy;dry;cold;warm;long;short;favorite;changing;busy;festive
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,second,quick;brief;fleeting;last;crucial;short;passing;precise;exact;instant
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,week,long;short;busy;quiet;hectic;stressful;relaxing;productive;special;ordinary
+grok-3,basic,1.0,LV # Latvian,C1,most frequent,Time Concepts,year,long;short;busy;memorable;tough;successful;new;old;past;challenging
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,anger,intense;fiery;uncontrollable;deep;bitter;sudden;fierce;raw;burning;suppressed
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,courage,bold;fearless;brave;heroic;daring;resolute;steadfast;valiant;unwavering;gutsy
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,fear,paralyzing;deep-seated;irrational;overwhelming;chilling;creeping;intense;constant;hidden;primal
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,freedom,absolute;hard-won;precious;liberating;boundless;cherished;true;personal;political;spiritual
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,happiness,pure;genuine;infectious;boundless;fleeting;radiant;deep;simple;lasting;unexpected
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,hate,venomous;intense;bitter;deep-rooted;blind;fierce;unrelenting;toxic;consuming;hidden
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,honesty,brutal;refreshing;absolute;unwavering;sincere;raw;genuine;painful;rare;admirable
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,justice,fair;swift;blind;impartial;deserved;hard-fought;divine;social;legal;moral
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,knowledge,vast;profound;deep;extensive;practical;theoretical;hidden;ancient;specialized;invaluable
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,love,unconditional;passionate;tender;enduring;selfless;romantic;deep;genuine;platonic;eternal
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,peace,serene;lasting;inner;fragile;quiet;harmonious;global;spiritual;elusive;profound
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Abstract Concepts,wisdom,ancient;timeless;profound;practical;deep;hard-earned;insightful;quiet;philosophical;guiding
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,bell,loud;clear;melodic;ancient;heavy;small;golden;ringing;ceremonial;decorative
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,candle,flickering;warm;scented;tall;thin;melted;glowing;decorative;ritualistic;calming
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,carpet,soft;plush;colorful;woven;thick;patterned;oriental;worn;luxurious;cozy
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;valuable;small;silver;gold;worn;commemorative;historical
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,crown,golden;jeweled;heavy;royal;ancient;ceremonial;majestic;ornate;symbolic;glittering
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,flag,national;colorful;waving;tattered;proud;symbolic;historic;bold;vibrant;fluttering
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,mask,mysterious;eerie;colorful;traditional;creepy;painted;elaborate;wooden;theatrical;hidden
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,necklace,delicate;elegant;gold;silver;beaded;expensive;sentimental;long;ornate;simple
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,painting,beautiful;abstract;realistic;vibrant;old;famous;detailed;expressive;colorful;haunting
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,ring,golden;silver;diamond;simple;elegant;engagement;antique;precious;ornate;symbolic
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,statue,towering;ancient;marble;bronze;majestic;detailed;weathered;historical;imposing;artistic
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;ornate;antique;floral;elegant;fragile;painted;decorative
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;drifting;ominous;light;towering;soft;scattered
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,earthquake,devastating;powerful;sudden;terrifying;massive;destructive;violent;unpredictable;catastrophic;intense
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;eerie;cold;enveloping;silent;heavy;gray;creeping
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,lightning,bright;jagged;sudden;powerful;electric;striking;dangerous;intense;brilliant;fleeting
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,rain,heavy;light;gentle;torrential;cold;steady;refreshing;relentless;drizzling;seasonal
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;beautiful;fleeting;magical;bright;arched;rare;stunning;hopeful
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,snow,soft;heavy;light;powdery;wet;drifting;thick;pristine;cold;fluffy
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,storm,violent;fierce;raging;dark;powerful;sudden;destructive;thunderous;intense;brewing
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,thunder,loud;booming;rolling;deep;distant;powerful;startling;ominous;resonant;rumbling
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;relentless;calm;dangerous;tidal
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;towering;dangerous;ancient;fiery;massive;smoking;destructive
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Environmental Phenomena,wind,strong;gusty;cold;warm;gentle;howling;brisk;relentless;biting;swirling
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,apple,red;green;crisp;juicy;sweet;tart;fresh;ripe;shiny;round
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,banana,yellow;ripe;soft;sweet;curved;fresh;tropical;peeled;bruised;long
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,beef,tender;juicy;grilled;raw;lean;marbled;fresh;cooked;savory;thick
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,bread,fresh;crusty;soft;warm;white;brown;sliced;homemade;stale;fluffy
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,broccoli,green;fresh;tender;crisp;healthy;steamed;raw;small;bitter;vibrant
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,cheese,creamy;sharp;melted;aged;soft;hard;tangy;yellow;white;savory
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,chicken,roasted;grilled;tender;juicy;fried;raw;spicy;lean;fresh;seasoned
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,egg,boiled;fried;fresh;raw;white;brown;scrambled;soft;hard;cracked
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,fish,fresh;raw;cooked;grilled;smoked;oily;white;flaky;salty;tender
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,pasta,al dente;soft;fresh;dry;long;short;creamy;saucy;homemade;chewy
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;cooked;long-grain;short-grain;savory;plain
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Food Items,soup,hot;creamy;clear;hearty;spicy;homemade;comforting;thick;savory;light
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,artist,talented;creative;visionary;passionate;skilled;eccentric;innovative;struggling;famous;dedicated
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,athlete,strong;fast;skilled;dedicated;competitive;disciplined;agile;powerful;determined;fit
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,chef,skilled;creative;passionate;professional;innovative;busy;talented;meticulous;experienced;renowned
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,doctor,compassionate;skilled;dedicated;experienced;kind;busy;knowledgeable;trusted;patient;caring
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,engineer,innovative;skilled;technical;creative;precise;analytical;dedicated;experienced;smart;resourceful
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,farmer,hardworking;dedicated;rural;patient;skilled;tough;traditional;resilient;knowledgeable;busy
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,lawyer,sharp;persuasive;knowledgeable;dedicated;experienced;tough;articulate;ethical;busy;successful
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,musician,talented;passionate;creative;skilled;dedicated;expressive;famous;versatile;emotional;inspired
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,scientist,brilliant;curious;dedicated;analytical;innovative;meticulous;knowledgeable;passionate;pioneering;focused
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,soldier,brave;disciplined;loyal;tough;dedicated;fearless;strong;honorable;resilient;determined
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,teacher,patient;inspiring;dedicated;knowledgeable;kind;strict;supportive;enthusiastic;experienced;caring
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Human Roles,writer,creative;imaginative;talented;prolific;passionate;insightful;dedicated;eloquent;struggling;published
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,book,old;new;thick;thin;hardcover;paperback;interesting;boring;engaging;tattered
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,bridge,old;modern;sturdy;long;narrow;suspended;wooden;stone;iconic;busy
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;deep;tribal;modern;worn;shiny;resonant;energetic
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,earth,vast;blue;green;ancient;fertile;fragile;beautiful;living;rich;rotating
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,flute,delicate;melodic;silver;wooden;ancient;small;clear;soft;elegant;haunting
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,key,old;rusty;shiny;small;important;golden;spare;lost;heavy;mysterious
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,knife,sharp;dull;long;short;serrated;dangerous;kitchen;rusty;folding;precise
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,lock,sturdy;old;rusty;secure;broken;heavy;small;new;reliable;complicated
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,moon,full;crescent;bright;pale;mysterious;distant;glowing;beautiful;silent;haunting
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,pen,black;blue;expensive;cheap;smooth;leaky;old;new;elegant;practical
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,sun,bright;hot;golden;blazing;warm;radiant;distant;setting;rising;powerful
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;ornate;deadly;rusty;ceremonial;legendary;powerful;forged
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,cat,fluffy;curious;lazy;playful;sleek;independent;affectionate;sneaky;elegant;mischievous
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,dog,loyal;friendly;playful;energetic;protective;obedient;cute;big;small;furry
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,dolphin,playful;intelligent;friendly;sleek;graceful;social;curious;fast;gentle;wild
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,elephant,massive;gentle;strong;wise;gray;majestic;slow;powerful;endangered;wrinkled
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,hamster,tiny;cute;fluffy;active;small;nocturnal;curious;chubby;timid;playful
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,monkey,playful;clever;mischievous;agile;curious;social;wild;loud;small;funny
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,mouse,tiny;quiet;sneaky;small;gray;quick;timid;cute;nervous;hidden
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,peacock,colorful;proud;beautiful;vibrant;majestic;elegant;striking;exotic;ornate;bold
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,rabbit,fluffy;cute;timid;fast;small;white;wild;gentle;hopping;shy
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,shark,dangerous;fierce;powerful;sleek;predatory;terrifying;large;fast;silent;deadly
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,snake,slithery;venomous;silent;long;dangerous;coiled;colorful;creepy;stealthy;scaly
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Neutral Animals,whale,massive;gentle;majestic;deep;mysterious;powerful;endangered;enormous;graceful;singing
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,city,bustling;crowded;modern;old;noisy;vibrant;busy;sprawling;historic;industrial
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,desert,vast;arid;hot;dry;sandy;barren;endless;harsh;silent;remote
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,forest,dense;dark;green;ancient;mysterious;lush;quiet;vast;enchanted;wild
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,island,small;tropical;remote;beautiful;isolated;rocky;uninhabited;lush;sandy;volcanic
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,lake,calm;deep;blue;clear;still;cold;serene;vast;shallow;reflective
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,mountain,towering;rugged;snowy;steep;majestic;high;rocky;ancient;imposing;barren
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,ocean,vast;deep;blue;wild;endless;powerful;mysterious;turbulent;calm;salty
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,plain,vast;flat;open;barren;grassy;endless;quiet;fertile;wide;desolate
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,plateau,high;flat;vast;remote;rocky;barren;elevated;dry;scenic;ancient
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,river,long;winding;deep;calm;rushing;wide;clear;muddy;powerful;serene
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,valley,deep;green;narrow;fertile;quiet;lush;hidden;scenic;wide;peaceful
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Places,village,small;quiet;remote;traditional;peaceful;rural;charming;friendly;old;quaint
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,cactus,spiky;green;tall;desert;tough;prickly;dry;hardy;small;blooming
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;oblong;tender;bitter;raw;grilled;healthy
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;blooming;small;wild;elegant;fresh
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,grass,green;lush;soft;tall;short;wet;dry;fresh;thick;wild
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,lettuce,crisp;fresh;green;leafy;tender;raw;healthy;light;cool;washed
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,mushroom,small;brown;white;edible;poisonous;soft;earthy;wild;fresh;raw
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,onion,sharp;pungent;raw;sweet;white;red;strong;peeled;fresh;chopped
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,pepper,spicy;red;green;hot;mild;fresh;dried;sweet;raw;roasted
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,potato,brown;starchy;fresh;raw;boiled;mashed;baked;small;large;earthy
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,rose,red;pink;fragrant;beautiful;delicate;thorny;elegant;blooming;classic;romantic
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;sweet;tangy;raw;soft;plump
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Plants,tree,tall;old;green;sturdy;leafy;ancient;bare;thick;blossoming;mighty
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,ally,loyal;trusted;supportive;reliable;close;strong;valuable;dependable;friendly;strategic
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,brother,loving;protective;annoying;close;older;younger;supportive;funny;loyal;caring
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,enemy,dangerous;bitter;fierce;hated;formidable;cunning;relentless;powerful;deceptive;hostile
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,father,loving;strict;supportive;caring;wise;strong;protective;kind;hardworking;gentle
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,follower,loyal;dedicated;enthusiastic;obedient;supportive;eager;faithful;trusting;devoted;admiring
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,friend,close;loyal;kind;funny;supportive;trusted;caring;reliable;lifelong;dear
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,leader,strong;charismatic;wise;decisive;inspiring;confident;powerful;respected;visionary;bold
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,mother,loving;caring;nurturing;strict;supportive;gentle;strong;protective;kind;selfless
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,partner,loving;supportive;trusted;equal;loyal;caring;compatible;reliable;understanding;close
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,rival,fierce;competitive;challenging;strong;bitter;formidable;persistent;aggressive;determined;worthy
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,sister,loving;annoying;supportive;close;older;younger;caring;funny;loyal;protective
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Social Relationships,stranger,mysterious;unknown;unfamiliar;suspicious;distant;curious;quiet;unexpected;odd;passing
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,above,high;elevated;overhead;upper;superior;towering;lofty;skyward;prominent;dominant
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,back,rear;hind;behind;posterior;last;hidden;distant;remote;trailing;reverse
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,below,lower;underneath;beneath;inferior;under;subterranean;bottom;deep;hidden;submerged
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,east,oriental;rising;far;distant;ancient;cultural;remote;exotic;eastern;sunny
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,front,forward;leading;ahead;first;prominent;main;visible;primary;open;exposed
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;private;deep;central;confined;intimate;secret
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,left,remaining;abandoned;western;opposite;spare;liberal;progressive;awkward;sidelined;unused
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,north,cold;polar;upper;distant;remote;chilly;harsh;northern;wild;rugged
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,outside,external;outer;open;exposed;public;distant;far;outdoor;visible;surrounding
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,right,correct;proper;eastern;just;moral;accurate;true;fitting;conservative;precise
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,south,warm;tropical;lower;distant;sunny;southern;exotic;hot;remote;vibrant
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Spatial Concepts,west,distant;far;western;modern;wild;setting;progressive;open;remote;pioneering
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,century,past;new;old;modern;previous;ancient;current;long;historic;defining
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,day,sunny;rainy;long;short;busy;lazy;bright;cloudy;cold;warm
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,evening,quiet;calm;cool;dark;peaceful;late;relaxing;twilight;pleasant;serene
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;golden;critical;fleeting;precious
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,minute,quick;short;fleeting;precious;last;exact;busy;tense;critical;passing
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,month,long;short;busy;quiet;cold;warm;rainy;sunny;current;past
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,morning,early;bright;fresh;cool;quiet;sunny;misty;peaceful;busy;crisp
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,night,dark;quiet;long;short;cold;starry;late;peaceful;silent;eerie
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,season,rainy;dry;cold;hot;long;short;festive;harsh;mild;changing
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,second,quick;fleeting;brief;instant;last;crucial;precise;short;passing;critical
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,week,busy;long;short;hectic;quiet;productive;stressful;relaxing;eventful;routine
+grok-3,basic,1.0,LV # Latvian,C2,most frequent,Time Concepts,year,long;short;busy;eventful;past;new;successful;challenging;memorable;tough
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,anger,intense;burning;fierce;uncontrollable;deep;raw;suppressed;sudden;righteous;bitter
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,courage,bold;fearless;brave;heroic;daring;strong;resolute;valiant;steadfast;inspiring
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;chilling;constant;hidden;primal;genuine;gripping
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,freedom,absolute;cherished;hard-won;personal;boundless;true;liberating;precious;fragile;enduring
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,happiness,pure;infectious;radiant;boundless;genuine;lasting;simple;unexpected;profound;heartfelt
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,hate,intense;bitter;deep;consuming;blind;irrational;fiery;relentless;toxic;unspoken
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,honesty,brutal;refreshing;unwavering;sincere;absolute;raw;admirable;rare;consistent;courageous
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,justice,fair;impartial;swift;blind;hard-fought;divine;moral;true;overdue;restorative
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;profound;essential;practical;ancient;hidden;specialized;invaluable;limitless
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,love,unconditional;passionate;tender;eternal;selfless;deep;romantic;enduring;pure;genuine
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,peace,inner;lasting;fragile;serene;quiet;profound;elusive;harmonious;universal;calming
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,wisdom,timeless;profound;ancient;practical;hard-earned;insightful;quiet;deep;invaluable;guiding
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;resonant;ancient;small;golden;heavy;melodic;ornate;church
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,candle,flickering;warm;soft;scented;tall;white;melting;dim;romantic;ceremonial
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;worn;luxurious;patterned;red;dusty;oriental;plush
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;small;valuable;ancient;golden;worn;commemorative;foreign
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;heavy;regal;ancient;ceremonial;royal;ornate;symbolic;majestic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;tattered;symbolic;historic;bold;official;vibrant
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,mask,mysterious;colorful;eerie;traditional;scary;decorative;wooden;hidden;elaborate;festive
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,necklace,delicate;golden;silver;beaded;elegant;expensive;long;intricate;vintage;sentimental
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,painting,beautiful;abstract;classic;vibrant;detailed;famous;modern;expressive;colorful;realistic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,ring,golden;silver;diamond;simple;elegant;vintage;engagement;ornate;heavy;precious
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,statue,ancient;tall;marble;bronze;majestic;weathered;iconic;detailed;commemorative;grand
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;ornate;ancient;floral;elegant;fragile;decorative;classic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;ominous;light;floating;thick;gray;stormy
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;terrifying;massive;destructive;violent;rare;catastrophic;unexpected
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,fog,thick;eerie;dense;mysterious;cold;heavy;silent;obscuring;morning;creeping
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;striking;dangerous;vivid;electric;intense;fleeting;jagged
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;gentle;torrential;cold;steady;sudden;refreshing;endless;drizzling
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;beautiful;rare;bright;magical;fleeting;arched;stunning;vivid
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,snow,soft;white;cold;heavy;light;powdery;fresh;glistening;silent;thick
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,storm,fierce;powerful;violent;raging;dark;sudden;thunderous;destructive;intense;brewing
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;rolling;deep;distant;startling;powerful;ominous;echoing;rumbling
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;relentless;calm;rising;dangerous
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;fiery;massive;dangerous;majestic;erupting;ancient;towering;destructive
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fierce;howling;brisk;relentless;gusty;biting
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,apple,red;green;crisp;juicy;sweet;fresh;ripe;shiny;tart;small
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;spotted;healthy
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,beef,tender;juicy;lean;grilled;rare;medium;cooked;savory;fresh;seasoned
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,bread,fresh;warm;crusty;soft;white;wholegrain;homemade;sliced;toasted;stale
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,broccoli,green;fresh;healthy;steamed;tender;raw;crisp;small;organic;bitter
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,cheese,sharp;creamy;aged;soft;hard;melted;tangy;yellow;white;strong
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,chicken,roasted;grilled;tender;juicy;spicy;fried;lean;cooked;fresh;savory
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;small;organic;cracked;raw
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,fish,fresh;grilled;smoked;raw;salty;flaky;white;oily;tender;cooked
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,pasta,al dente;soft;fresh;homemade;creamy;spicy;hot;cold;cheesy;saucy
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;seasoned;plain;aromatic;cooked;long-grain
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Food Items,soup,hot;creamy;hearty;clear;savory;homemade;spicy;cold;thick;comforting
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,artist,talented;creative;famous;struggling;visionary;innovative;eccentric;skilled;passionate;contemporary
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,athlete,strong;fast;dedicated;competitive;skilled;disciplined;fit;agile;determined;professional
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,chef,skilled;creative;famous;innovative;passionate;experienced;meticulous;talented;busy;renowned
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,doctor,compassionate;skilled;dedicated;experienced;kind;busy;knowledgeable;trusted;professional;caring
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,engineer,innovative;skilled;technical;brilliant;experienced;creative;precise;analytical;dedicated;practical
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,farmer,hardworking;dedicated;rural;experienced;patient;tough;traditional;busy;resourceful;knowledgeable
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,lawyer,sharp;experienced;tough;successful;persuasive;dedicated;knowledgeable;ethical;aggressive;professional
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,musician,talented;passionate;creative;skilled;famous;dedicated;versatile;expressive;gifted;innovative
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;meticulous;knowledgeable;groundbreaking;focused;respected
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;dedicated;courageous;tough;trained;heroic;resilient
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,teacher,patient;kind;dedicated;knowledgeable;inspiring;strict;supportive;experienced;caring;passionate
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Human Roles,writer,creative;talented;prolific;insightful;famous;imaginative;dedicated;expressive;thoughtful;skilled
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;hardcover;paperback;worn;engaging
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,bridge,old;long;sturdy;narrow;modern;wooden;steel;iconic;suspended;historic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;deep;tribal;polished;worn;large;small;energetic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,earth,vast;beautiful;ancient;fragile;green;blue;rich;diverse;living;sacred
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,flute,delicate;silver;wooden;melodic;small;ancient;soft;elegant;tuned;ornate
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,key,old;rusty;small;golden;heavy;shiny;important;spare;lost;decorative
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,knife,sharp;small;large;rusty;kitchen;pocket;dangerous;serrated;shiny;blunt
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,lock,old;rusty;heavy;secure;broken;small;new;brass;sturdy;complicated
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,moon,bright;full;crescent;pale;mysterious;glowing;distant;beautiful;silver;enchanting
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,pen,black;blue;old;new;expensive;cheap;broken;smooth;elegant;plastic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,sun,bright;hot;warm;shining;golden;blazing;radiant;powerful;blinding;setting
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;rusty;legendary;ornate;deadly;polished;ceremonial;mighty
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,cat,playful;fluffy;curious;lazy;black;white;small;elegant;independent;cuddly
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;energetic;big;small;brown;protective;playful;obedient;loud
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;friendly;sleek;fast;social;curious;graceful;wild;beautiful
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,elephant,massive;gentle;gray;powerful;wise;majestic;slow;wild;endangered;strong
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,hamster,small;cute;furry;active;tiny;fluffy;shy;playful;cuddly;quick
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,monkey,playful;curious;agile;mischievous;wild;small;intelligent;social;funny;energetic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,mouse,small;tiny;quick;gray;shy;sneaky;cute;quiet;fast;timid
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;majestic;vibrant;elegant;striking;rare;exotic;ornate
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,rabbit,fluffy;cute;fast;white;small;timid;playful;soft;wild;hopping
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,shark,dangerous;powerful;sleek;fast;deadly;gray;large;fearsome;wild;predatory
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,snake,slithery;dangerous;venomous;long;green;silent;deadly;coiled;wild;sneaky
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Neutral Animals,whale,massive;gentle;blue;huge;majestic;powerful;deep;migrating;rare;endangered
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,city,busy;large;modern;crowded;noisy;vibrant;historic;sprawling;industrial;cosmopolitan
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,desert,vast;hot;dry;barren;sandy;endless;harsh;quiet;remote;arid
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,forest,dense;green;ancient;dark;quiet;lush;wild;mysterious;vast;serene
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,island,small;remote;tropical;beautiful;isolated;rocky;green;sandy;uninhabited;exotic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,lake,calm;clear;deep;blue;large;quiet;cold;still;beautiful;serene
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,mountain,tall;majestic;snowy;rugged;steep;high;ancient;rocky;imposing;beautiful
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,ocean,vast;deep;blue;powerful;endless;wild;stormy;calm;mysterious;dark
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,plain,vast;flat;wide;open;grassy;barren;endless;quiet;fertile;expansive
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,plateau,high;flat;wide;barren;rocky;vast;elevated;remote;rugged;dry
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,river,long;wide;deep;flowing;calm;rapid;clear;muddy;winding;mighty
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,valley,deep;green;narrow;wide;fertile;beautiful;quiet;lush;hidden;scenic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Places,village,small;quiet;rural;old;charming;remote;friendly;traditional;peaceful;simple
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,cactus,prickly;green;tall;small;desert;spiny;tough;hardy;dry;unique
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,eggplant,purple;shiny;fresh;large;small;firm;soft;bitter;organic;cooked
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;small;bright;wild;fresh;blooming;lovely
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,grass,green;soft;tall;short;fresh;wet;dry;thick;lush;wild
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,lettuce,green;crisp;fresh;leafy;tender;raw;light;healthy;organic;crunchy
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,mushroom,small;brown;white;edible;wild;soft;earthy;fresh;toxic;round
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,onion,sharp;white;red;small;strong;raw;sweet;fresh;pungent;peeled
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,pepper,spicy;red;green;hot;fresh;small;mild;bell;dried;colorful
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,potato,brown;large;small;fresh;raw;cooked;starchy;peeled;baked;fried
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,rose,red;pink;beautiful;fragrant;delicate;thorny;fresh;blooming;elegant;classic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,tomato,red;ripe;juicy;fresh;small;large;sweet;acidic;round;organic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Plants,tree,tall;old;green;sturdy;ancient;leafy;bare;thick;strong;majestic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,ally,loyal;trusted;reliable;supportive;close;valuable;strategic;strong;helpful;dependable
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,brother,loving;protective;older;younger;close;annoying;supportive;funny;loyal;caring
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,enemy,dangerous;fierce;bitter;hated;powerful;cunning;relentless;cruel;sworn;formidable
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,father,loving;strict;supportive;kind;strong;wise;caring;protective;hardworking;gentle
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;eager;supportive;obedient;enthusiastic;committed;trusting;admiring;devoted
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,friend,close;loyal;kind;funny;supportive;trustworthy;dear;old;best;caring
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,leader,strong;confident;inspiring;decisive;wise;charismatic;bold;respected;visionary;powerful
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;kind;strong;gentle;protective;wise;selfless;supportive
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,partner,loving;supportive;equal;trusted;reliable;close;committed;loyal;understanding;compatible
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,rival,fierce;competitive;tough;bitter;strong;persistent;challenging;formidable;ambitious;determined
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,sister,loving;annoying;supportive;close;older;younger;kind;funny;caring;protective
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Social Relationships,stranger,unknown;mysterious;distant;unfamiliar;suspicious;quiet;odd;random;passing;curious
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,above,high;elevated;overhead;upper;lofty;superior;towering;aerial;distant;prominent
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,back,rear;hind;posterior;hidden;last;behind;remote;distant;previous;trailing
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,below,lower;beneath;underneath;inferior;bottom;submerged;underground;lesser;deep;hidden
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,east,eastern;oriental;rising;distant;far;cultural;ancient;exotic;warm;historic
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,front,forward;leading;anterior;first;main;prominent;facing;primary;visible;bold
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;private;deep;secret;sheltered;core;confined
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,left,westward;remaining;abandoned;liberal;odd;opposite;stray;spare;lateral;discarded
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,north,cold;northern;polar;upper;distant;chilly;remote;harsh;arctic;directional
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,outside,external;outer;exterior;open;public;distant;foreign;surrounding;exposed;peripheral
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,right,correct;eastward;proper;just;accurate;conservative;immediate;fitting;true;moral
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,south,warm;southern;tropical;lower;sunny;distant;hot;exotic;regional;balmy
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,west,western;setting;distant;frontier;modern;cultural;far;open;progressive;wild
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,century,past;new;old;modern;ancient;long;turning;historic;recent;specific
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;special;ordinary;cold;warm;bright
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,evening,quiet;cool;dark;late;calm;pleasant;relaxing;early;romantic;peaceful
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,hour,long;short;busy;quiet;late;early;golden;critical;fleeting;precious
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,minute,quick;short;brief;fleeting;last;precious;exact;tense;passing;crucial
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;dry;specific;passing;current
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,morning,early;bright;fresh;cool;quiet;sunny;foggy;busy;calm;peaceful
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,night,dark;long;quiet;late;cold;starry;sleepless;eerie;silent;peaceful
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,season,warm;cold;dry;wet;long;short;favorite;changing;current;festive
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,second,quick;brief;fleeting;last;short;critical;precise;passing;instant;crucial
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;hectic;relaxing;productive;stressful;ordinary;eventful
+grok-3,basic,1.0,LV # Latvian,Perfect,most frequent,Time Concepts,year,long;short;busy;successful;challenging;memorable;past;new;current;historic

@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;hot;quick;silent;open;wild
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,courage,great;real;true;strong;big;quiet;silent;open;new;brave
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,fear,great;deep;real;sudden;big;strong;silent;open;quick;cold
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,freedom,real;true;full;great;new;open;big;complete;personal;political
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,happiness,great;real;true;full;deep;big;simple;open;quiet;new
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,hate,deep;great;real;strong;open;big;cold;sudden;silent;true
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,honesty,real;true;great;full;open;simple;complete;big;quiet;deep
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,justice,real;true;great;full;open;big;complete;social;fair;equal
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,knowledge,great;deep;real;true;full;big;new;open;simple;complete
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,love,true;real;great;deep;big;strong;open;new;full;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,peace,real;true;great;full;deep;quiet;open;new;big;complete
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Abstract Concepts,wisdom,great;real;true;deep;big;old;quiet;open;full;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;golden;silver;round;heavy;metal
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;thin;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;soft;thick;long;clean
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;shiny;clean
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,crown,gold;silver;big;small;old;new;heavy;royal;beautiful;rich
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;red;blue;white;green;national;colorful
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,mask,big;small;old;new;white;black;red;scary;funny;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,necklace,gold;silver;big;small;old;new;long;short;beautiful;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;simple;colorful;modern;classic
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,ring,gold;silver;big;small;old;new;round;simple;beautiful;shiny
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;gold;silver;famous;beautiful;tall
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;red;simple;beautiful;round
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,cloud,white;big;small;dark;gray;light;high;low;soft;thick
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;quick;bad;natural;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,fog,thick;white;gray;heavy;light;cold;morning;low;soft;wet
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,lightning,bright;quick;strong;sudden;white;big;loud;real;fast;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;big;small;strong;soft;real;sudden
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,rainbow,big;small;bright;colorful;beautiful;real;new;clear;high;rare
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,snow,white;cold;heavy;light;soft;deep;thick;fresh;new;clean
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,storm,big;strong;heavy;bad;sudden;real;cold;quick;loud;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,thunder,loud;big;strong;sudden;real;quick;heavy;deep;bad;scary
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,tide,high;low;big;strong;real;quick;sudden;deep;fast;natural
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;quiet;strong;dangerous;real;hot
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;big;small;quick;soft;real;sudden
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;juicy;ripe;new
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,banana,yellow;big;small;ripe;sweet;fresh;long;soft;new;green
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,beef,fresh;cooked;raw;hot;cold;soft;hard;red;big;small
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,bread,fresh;white;brown;soft;hard;big;small;warm;new;round
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,broccoli,green;fresh;big;small;cooked;raw;soft;hard;new;healthy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;big;small;new;round
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,chicken,cooked;raw;hot;cold;big;small;fresh;soft;white;brown
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,egg,big;small;white;brown;fresh;cooked;raw;round;new;hard
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,fish,fresh;big;small;cooked;raw;white;red;soft;new;cold
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,pasta,hot;cold;soft;hard;big;small;fresh;white;new;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;fresh;new
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Food Items,soup,hot;cold;fresh;big;small;simple;new;thick;clear;warm
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,artist,good;great;young;old;new;famous;modern;creative;talented;real
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,athlete,strong;fast;young;old;good;great;new;famous;tall;big
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,chef,good;great;young;old;new;famous;real;creative;talented;big
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,doctor,good;great;young;old;new;famous;real;kind;smart;busy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,engineer,good;great;young;old;new;smart;real;busy;famous;talented
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,farmer,good;old;young;new;hard;busy;real;great;simple;strong
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,lawyer,good;great;young;old;new;smart;real;busy;famous;strong
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,musician,good;great;young;old;new;famous;real;talented;creative;busy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,scientist,good;great;young;old;new;smart;real;famous;busy;talented
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,soldier,strong;brave;young;old;good;great;new;real;busy;famous
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,teacher,good;great;young;old;new;real;smart;busy;kind;famous
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Human Roles,writer,good;great;young;old;new;famous;real;creative;talented;busy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,book,big;small;old;new;good;great;famous;simple;long;short
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;wide
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,drums,big;small;old;new;loud;soft;round;simple;famous;wooden
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;real;small;beautiful;rich
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,flute,small;long;short;old;new;silver;wooden;simple;famous;soft
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,key,small;big;old;new;silver;gold;simple;real;round;metal
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;metal;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;simple;metal;silver;gold;round
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,moon,big;small;round;white;full;new;old;bright;clear;high
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;long;short
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,sun,big;round;bright;hot;yellow;high;new;old;strong;clear
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Inanimate Objects,sword,sharp;big;small;old;new;long;short;silver;metal;strong
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,cat,small;big;young;old;black;white;gray;cute;soft;quick
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,dog,big;small;young;old;black;white;brown;friendly;strong;quick
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,dolphin,big;small;young;old;smart;friendly;quick;gray;blue;cute
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;friendly;smart;wild;heavy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,hamster,small;big;young;old;cute;soft;quick;brown;white;friendly
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,monkey,small;big;young;old;quick;smart;funny;brown;friendly;wild
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,mouse,small;big;young;old;gray;quick;cute;white;brown;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,peacock,big;small;young;old;colorful;beautiful;blue;green;bright;proud
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,rabbit,small;big;young;old;white;gray;quick;cute;soft;friendly
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,shark,big;small;young;old;strong;quick;gray;white;wild;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,snake,long;short;big;small;young;old;green;quick;wild;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Neutral Animals,whale,big;small;young;old;blue;gray;strong;friendly;wild;heavy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,city,big;small;old;new;busy;modern;quiet;famous;rich;clean
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,desert,big;small;hot;dry;old;new;empty;open;quiet;sandy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,forest,big;small;old;new;green;dark;deep;quiet;wild;thick
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,island,big;small;old;new;green;quiet;beautiful;open;famous;rich
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,lake,big;small;deep;old;new;blue;quiet;clear;fresh;round
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,mountain,big;small;high;low;old;new;green;rocky;famous;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,ocean,big;small;deep;blue;old;new;open;wild;quiet;strong
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,plain,big;small;green;open;flat;quiet;old;new;wide;dry
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,plateau,big;small;high;flat;old;new;dry;open;quiet;wide
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,river,big;small;long;short;deep;old;new;blue;quiet;clear
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,valley,big;small;deep;green;old;new;quiet;open;long;wide
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Places,village,small;big;old;new;quiet;simple;green;friendly;clean;open
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,cactus,green;big;small;old;new;tall;short;dry;thick;wild
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,eggplant,purple;big;small;fresh;old;new;long;round;soft;healthy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;new;simple;colorful
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,grass,green;long;short;soft;thick;fresh;new;dry;wild;small
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;round;healthy;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,mushroom,small;big;white;brown;fresh;old;new;round;soft;wild
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,onion,big;small;white;red;fresh;old;new;round;strong;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;fresh;new;round;spicy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,potato,big;small;white;brown;fresh;old;new;round;soft;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;new;big;small;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,tomato,red;big;small;fresh;old;new;round;soft;juicy;simple
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Plants,tree,big;small;old;new;green;tall;short;thick;wild;strong
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,ally,good;strong;true;real;old;new;close;loyal;friendly;big
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,brother,big;small;young;old;good;true;real;close;strong;friendly
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,enemy,strong;big;small;old;new;real;true;open;dangerous;bad
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,father,good;old;young;big;small;real;true;strong;kind;busy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,follower,good;true;real;young;old;new;close;loyal;strong;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,friend,good;true;real;old;new;close;best;young;strong;friendly
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,leader,good;strong;true;real;old;new;great;big;smart;famous
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,mother,good;old;young;big;small;real;true;kind;strong;busy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,partner,good;true;real;old;new;close;strong;friendly;big;loyal
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,rival,strong;big;small;old;new;real;true;open;dangerous;close
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,sister,big;small;young;old;good;true;real;close;kind;friendly
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Social Relationships,stranger,new;real;true;old;young;quiet;open;close;big;small
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,above,high;open;real;true;new;close;far;big;small;clear
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,back,big;small;strong;real;true;open;close;new;old;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,below,low;open;real;true;new;close;far;big;small;clear
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,east,far;open;real;true;new;close;big;small;clear;bright
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,front,big;small;open;real;true;new;close;high;low;clear
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,inside,small;big;real;true;open;close;new;old;quiet;clear
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,left,open;real;true;new;close;big;small;clear;quiet;far
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,north,far;open;real;true;new;close;big;small;cold;clear
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,outside,open;real;true;new;close;big;small;clear;quiet;far
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,right,open;real;true;new;close;big;small;clear;quiet;far
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,south,far;open;real;true;new;close;big;small;warm;clear
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Spatial Concepts,west,far;open;real;true;new;close;big;small;clear;bright
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,century,new;old;long;short;big;small;real;true;great;modern
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,day,new;old;long;short;big;small;good;bad;real;busy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,evening,long;short;quiet;new;old;good;bad;real;dark;busy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,hour,long;short;new;old;big;small;real;true;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,minute,long;short;new;old;big;small;real;true;quick;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,month,new;old;long;short;big;small;real;true;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,morning,new;old;long;short;good;bad;quiet;real;early;busy
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,night,long;short;dark;quiet;new;old;good;bad;real;late
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,season,new;old;long;short;big;small;real;true;warm;cold
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,second,long;short;new;old;big;small;real;true;quick;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,week,new;old;long;short;big;small;real;true;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B1,most frequent,Time Concepts,year,new;old;long;short;big;small;real;true;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;silent;open;cold;burning;wild
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,courage,great;true;real;strong;quiet;moral;personal;physical;brave;inner
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,fear,great;deep;sudden;real;strong;open;silent;cold;wild;burning
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,freedom,full;complete;real;true;personal;political;total;great;new;national
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,happiness,great;real;true;full;complete;simple;deep;pure;personal;perfect
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,hate,deep;strong;real;open;great;cold;silent;burning;wild;true
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,honesty,true;real;complete;full;great;simple;open;personal;total;pure
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,justice,true;real;social;great;equal;full;complete;fair;moral;legal
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,knowledge,deep;great;real;true;full;complete;wide;personal;new;general
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,love,true;real;deep;great;strong;pure;first;new;open;perfect
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,peace,real;true;great;full;complete;national;world;inner;long;new
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Abstract Concepts,wisdom,great;true;real;deep;old;full;complete;simple;personal;new
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;golden;silver;heavy;church;school
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,candle,small;big;white;red;old;new;long;short;burning;birthday
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;green;soft;thick;clean;dirty
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;clean;dirty
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,crown,golden;silver;old;new;big;small;royal;beautiful;heavy;rich
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,flag,national;red;white;blue;green;big;small;old;new;colorful
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,mask,old;new;white;black;red;big;small;scary;funny;colorful
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;long;short;beautiful;big;small;colorful
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;colorful;modern;simple;classic
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,ring,gold;silver;old;new;big;small;beautiful;wedding;simple;round
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;golden;silver;beautiful;famous;tall
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;red;beautiful;simple;broken
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;heavy;light;high;low;thick
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;natural;deadly;recent
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,fog,thick;heavy;light;white;gray;cold;morning;early;low;wet
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;loud;big;real;wild;natural
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,rain,heavy;light;strong;cold;warm;soft;hard;sudden;real;morning
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,rainbow,bright;beautiful;colorful;big;small;real;full;clear;perfect;rare
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,snow,white;heavy;light;cold;soft;deep;fresh;new;thick;clean
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;real;wild;cold;great;hard;loud
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,thunder,loud;strong;big;sudden;real;wild;heavy;hard;deep;long
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,tide,high;low;strong;big;small;real;sudden;daily;natural;fast
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;dead;strong;real;dangerous;natural
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;soft;hard;sudden;real;wild;fresh
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;ripe;round;juicy;soft
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,banana,yellow;ripe;big;small;sweet;fresh;soft;long;green;old
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,beef,fresh;cooked;raw;red;soft;hard;hot;cold;spicy;tasty
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,bread,fresh;white;brown;soft;hard;hot;cold;big;small;round
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;healthy;tasty
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,cheese,soft;hard;white;yellow;fresh;old;big;small;tasty;salty
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,chicken,cooked;raw;fresh;hot;cold;big;small;white;tasty;spicy
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,egg,boiled;fried;raw;fresh;big;small;white;brown;soft;hard
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;tasty;salty;soft;hard
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,pasta,cooked;raw;hot;cold;soft;hard;tasty;fresh;white;long
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;tasty;fresh
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Food Items,soup,hot;cold;tasty;fresh;thick;thin;spicy;salty;big;small
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,artist,famous;young;old;new;great;good;modern;creative;talented;local
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,athlete,strong;young;old;new;great;good;fast;famous;local;talented
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,chef,good;great;famous;young;old;new;local;talented;creative;skilled
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,doctor,good;great;young;old;new;local;famous;skilled;kind;helpful
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,engineer,good;great;young;old;new;local;skilled;talented;famous;smart
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,farmer,good;old;young;new;local;hard-working;poor;rich;simple;great
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,lawyer,good;great;young;old;new;local;famous;skilled;smart;rich
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,musician,good;great;young;old;new;famous;local;talented;creative;modern
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,scientist,good;great;young;old;new;famous;local;smart;talented;modern
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,soldier,brave;strong;young;old;new;good;great;local;famous;loyal
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,teacher,good;great;young;old;new;local;kind;helpful;smart;famous
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Human Roles,writer,good;great;young;old;new;famous;local;creative;talented;modern
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,book,old;new;big;small;good;great;famous;interesting;simple;long
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;famous
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,drums,big;small;old;new;loud;soft;fast;slow;heavy;light
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;rich;dry;wet;beautiful
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,flute,small;big;old;new;silver;golden;soft;loud;long;short
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;important;lost;simple;metal
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;silver;golden;long;short;clean
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,lock,small;big;old;new;strong;weak;simple;broken;metal;heavy
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,moon,full;new;big;small;round;white;bright;clear;beautiful;high
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;long;short
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,sun,hot;bright;big;round;yellow;red;high;strong;warm;clear
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Inanimate Objects,sword,sharp;big;small;old;new;silver;golden;long;short;heavy
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,cat,small;big;black;white;gray;young;old;cute;soft;wild
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;wild
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,dolphin,big;small;gray;blue;smart;friendly;fast;young;old;wild
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,elephant,big;small;gray;old;young;wild;strong;heavy;friendly;smart
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,hamster,small;big;brown;white;gray;young;old;cute;soft;friendly
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,monkey,small;big;brown;gray;young;old;wild;smart;funny;friendly
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,mouse,small;big;gray;white;brown;young;old;cute;wild;fast
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,peacock,big;small;blue;green;colorful;beautiful;young;old;wild;bright
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,rabbit,small;big;white;gray;brown;young;old;cute;soft;wild
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,shark,big;small;gray;white;blue;wild;strong;fast;dangerous;young
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,snake,long;short;big;small;green;brown;black;wild;dangerous;young
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Neutral Animals,whale,big;small;blue;gray;white;wild;strong;young;old;fast
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,city,big;small;old;new;modern;busy;quiet;rich;poor;famous
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,desert,big;small;hot;dry;old;new;empty;wide;open;sandy
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,forest,big;small;old;new;green;dark;deep;wild;thick;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,island,big;small;old;new;green;quiet;beautiful;wild;empty;famous
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,lake,big;small;deep;shallow;old;new;blue;clear;quiet;beautiful
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,mountain,big;small;high;low;old;new;green;rocky;snowy;famous
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,ocean,big;small;deep;blue;green;wide;open;wild;quiet;beautiful
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,plain,big;small;wide;open;green;flat;dry;empty;quiet;long
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,plateau,big;small;high;low;old;new;dry;flat;wide;open
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,river,big;small;long;short;deep;wide;narrow;old;new;clear
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,valley,big;small;deep;wide;green;quiet;old;new;long;open
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Places,village,small;big;old;new;quiet;poor;rich;local;simple;beautiful
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,cactus,green;big;small;old;new;tall;short;wild;dry;sharp
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,eggplant,purple;big;small;fresh;old;new;soft;hard;long;round
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;simple;colorful
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,grass,green;long;short;soft;thick;wild;fresh;dry;new;old
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,lettuce,green;fresh;big;small;soft;hard;new;old;round;healthy
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;soft;hard;new;old
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,onion,big;small;white;red;fresh;old;new;round;strong;sweet
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,potato,big;small;white;brown;fresh;old;new;round;soft;hard
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,rose,red;white;yellow;pink;beautiful;fresh;wild;small;big;new
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,tomato,red;big;small;fresh;ripe;round;soft;new;old;sweet
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Plants,tree,big;small;old;new;green;tall;short;wild;thick;young
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,ally,good;strong;true;real;old;new;loyal;close;important;trusted
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,brother,big;small;old;young;good;real;true;close;strong;kind
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,enemy,strong;real;true;old;new;big;small;open;close;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,father,good;old;young;real;true;strong;kind;close;big;loving
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,follower,good;true;real;loyal;close;strong;old;new;young;important
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,friend,good;true;real;close;old;new;best;young;kind;loyal
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,leader,good;strong;true;real;old;new;young;great;important;famous
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,mother,good;old;young;real;true;kind;close;loving;strong;big
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,partner,good;true;real;close;old;new;strong;important;loyal;young
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,rival,strong;real;true;old;new;big;small;close;open;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,sister,big;small;old;young;good;real;true;close;kind;loving
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Social Relationships,stranger,real;true;new;old;young;close;open;big;small;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,above,high;open;clear;wide;bright;empty;blue;sunny;quiet;free
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,back,strong;big;small;old;new;hard;soft;straight;weak;broad
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,below,low;dark;deep;cold;quiet;empty;open;wet;soft;hidden
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,east,far;near;open;bright;sunny;warm;new;old;quiet;big
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,front,open;big;small;wide;clear;new;old;strong;bright;main
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,inside,warm;quiet;dark;soft;small;big;safe;new;old;close
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,left,open;free;quiet;big;small;new;old;main;close;empty
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,north,cold;far;near;open;big;small;new;old;quiet;high
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,outside,open;free;big;small;new;old;quiet;bright;sunny;cold
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,right,open;free;quiet;big;small;new;old;main;close;empty
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,south,warm;far;near;open;big;small;new;old;quiet;sunny
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Spatial Concepts,west,far;near;open;bright;sunny;warm;new;old;quiet;big
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,century,new;old;last;past;next;great;long;short;modern;important
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;sunny;busy
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,evening,long;short;quiet;busy;warm;cold;dark;new;old;late
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,hour,long;short;new;old;last;next;busy;free;early;late
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,minute,long;short;new;old;last;next;busy;free;early;late
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,month,new;old;last;next;long;short;busy;free;cold;hot
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,morning,early;late;new;old;long;short;quiet;busy;cold;warm
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;new;old;late;early
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,second,long;short;new;old;last;next;busy;free;early;late
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,week,new;old;last;next;long;short;busy;free;good;bad
+gpt-4.1,basic,0.0,AR # Arabic,B2,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;free
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;open;silent;growing;wild;burning
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,courage,great;true;real;moral;quiet;personal;physical;inner;enough;much
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;constant;growing;silent;open;wild
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,freedom,complete;full;personal;political;real;total;true;individual;economic;religious
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,happiness,great;real;true;complete;pure;simple;much;deep;lasting;personal
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,hate,deep;strong;real;open;great;silent;growing;wild;burning;pure
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,honesty,complete;true;real;great;personal;open;simple;full;much;moral
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,justice,social;true;real;complete;equal;fair;moral;legal;natural;criminal
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,knowledge,deep;great;real;true;complete;much;personal;scientific;general;practical
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,love,true;real;great;deep;pure;first;much;strong;open;lasting
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,peace,complete;real;true;lasting;inner;much;great;political;social;personal
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Abstract Concepts,wisdom,great;true;real;deep;much;old;ancient;practical;personal;simple
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;clear;church;school
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;burning;scented;long;short
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;green;soft;thick;clean
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;ancient;shiny
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,crown,golden;silver;old;new;royal;big;small;beautiful;heavy;rich
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,flag,national;red;blue;white;green;big;small;old;new;colorful
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,mask,old;new;white;black;red;golden;scary;beautiful;small;big
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,necklace,golden;silver;old;new;beautiful;long;short;big;small;colorful
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;colorful;modern;classic;simple
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,ring,golden;silver;old;new;big;small;beautiful;wedding;simple;shiny
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,statue,big;small;old;new;golden;silver;famous;beautiful;stone;bronze
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Cultural Artifacts,vase,big;small;old;new;beautiful;white;blue;red;glass;ceramic
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;black;heavy;light;high;low
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;recent;powerful;deadly;natural;terrible
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,fog,thick;heavy;light;white;gray;morning;cold;dense;low;wet
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;blue;powerful;loud;natural;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,rain,heavy;light;strong;cold;warm;soft;hard;sudden;much;little
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;clear;full;double;rare;perfect
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,snow,white;heavy;light;soft;cold;deep;fresh;clean;new;thick
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,storm,big;small;strong;weak;sudden;heavy;terrible;powerful;cold;wild
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;heavy;powerful;distant;close;rolling;big
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;rising;falling;daily;big;small;natural
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,volcano,active;dead;big;small;old;new;dangerous;powerful;famous;natural
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;light;heavy;soft;sudden;north;south
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;juicy;ripe;round;crisp
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,banana,yellow;ripe;green;big;small;sweet;fresh;soft;long;curved
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,beef,fresh;cooked;raw;red;tender;lean;juicy;ground;grilled;roasted
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;new;old;sliced;homemade
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;healthy;soft;hard;steamed
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,cheese,soft;hard;white;yellow;fresh;old;strong;mild;creamy;sliced
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,chicken,cooked;raw;fresh;fried;grilled;roasted;small;big;white;tender
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,egg,boiled;fried;raw;fresh;white;brown;big;small;cooked;broken
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;fried;grilled;red;smoked
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,pasta,cooked;fresh;hot;cold;long;short;soft;hard;white;Italian
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;long;short
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Food Items,soup,hot;cold;fresh;thick;thin;clear;chicken;vegetable;tasty;homemade
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,artist,famous;young;old;great;modern;talented;creative;new;local;popular
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,athlete,strong;young;old;great;famous;fast;talented;new;local;professional
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,chef,great;famous;young;old;talented;new;local;creative;professional;skilled
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,doctor,good;great;young;old;famous;local;new;skilled;professional;kind
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,engineer,good;great;young;old;skilled;new;local;professional;talented;famous
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,farmer,local;old;young;good;great;small;big;hard-working;poor;rich
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,lawyer,good;great;young;old;famous;local;new;skilled;professional;smart
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,musician,famous;young;old;great;talented;new;local;creative;popular;professional
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,scientist,great;famous;young;old;new;local;smart;talented;creative;professional
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,soldier,brave;young;old;strong;good;great;new;local;professional;loyal
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,teacher,good;great;young;old;new;local;kind;smart;professional;patient
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Human Roles,writer,famous;young;old;great;new;local;creative;talented;popular;professional
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,book,old;new;big;small;good;great;famous;interesting;long;short
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;famous
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,drums,big;small;loud;soft;old;new;red;blue;wooden;famous
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,earth,big;round;blue;green;old;beautiful;rich;dry;wet;warm
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,flute,small;big;old;new;silver;wooden;long;short;beautiful;soft
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,key,small;big;old;new;golden;silver;metal;important;lost;spare
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,knife,sharp;small;big;old;new;silver;metal;long;short;clean
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;weak;metal;golden;silver;broken
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,moon,full;new;big;small;bright;white;round;clear;beautiful;high
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;long;short;broken
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;red;strong;warm;high;clear
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;silver;golden;big;small;strong
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,cat,small;big;black;white;gray;young;old;cute;soft;wild
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;wild
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;young;old;fast;gray;blue;playful
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,elephant,big;small;young;old;gray;wild;strong;smart;friendly;gentle
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,hamster,small;big;young;old;cute;brown;white;soft;friendly;fast
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,monkey,small;big;young;old;smart;brown;wild;funny;fast;friendly
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,mouse,small;big;gray;white;brown;young;old;fast;cute;wild
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,peacock,beautiful;big;small;colorful;blue;green;young;old;wild;proud
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,rabbit,small;big;white;brown;gray;young;old;cute;fast;wild
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,shark,big;small;young;old;gray;white;wild;strong;fast;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,snake,long;short;big;small;green;brown;black;wild;dangerous;fast
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Neutral Animals,whale,big;small;blue;gray;young;old;wild;strong;fast;friendly
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,city,big;small;old;new;modern;busy;beautiful;rich;poor;famous
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,desert,big;small;hot;dry;sandy;empty;wide;open;wild;beautiful
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,forest,big;small;green;dark;deep;old;wild;thick;beautiful;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,island,small;big;beautiful;green;quiet;wild;new;old;famous;tropical
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,lake,big;small;deep;shallow;blue;clear;beautiful;quiet;old;new
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,mountain,high;low;big;small;old;new;green;rocky;snowy;famous
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,ocean,big;small;deep;blue;wide;open;wild;beautiful;quiet;warm
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,plain,big;small;wide;open;green;dry;flat;empty;quiet;beautiful
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,plateau,high;low;big;small;wide;flat;dry;green;old;new
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,river,big;small;long;short;deep;wide;narrow;clear;fast;slow
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,valley,deep;wide;big;small;green;beautiful;quiet;long;narrow;open
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Places,village,small;big;old;new;quiet;beautiful;poor;rich;local;friendly
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,cactus,green;big;small;tall;short;old;new;wild;dry;sharp
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,eggplant,purple;big;small;fresh;old;new;long;short;round;soft
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;blue;fresh;wild;colorful
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,grass,green;long;short;soft;thick;dry;wet;fresh;wild;tall
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,lettuce,green;fresh;big;small;soft;crisp;new;old;round;healthy
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;soft;round;new;old
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,onion,big;small;white;red;yellow;fresh;old;round;strong;sweet
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,potato,big;small;white;brown;fresh;old;new;round;soft;hard
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,rose,red;white;yellow;pink;beautiful;fresh;wild;small;big;sweet
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,tomato,red;big;small;fresh;ripe;round;soft;new;old;juicy
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Plants,tree,big;small;old;new;green;tall;short;wild;strong;beautiful
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,ally,strong;good;true;loyal;old;new;close;important;trusted;powerful
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,brother,big;small;young;old;good;true;close;strong;kind;loving
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,enemy,strong;old;new;true;powerful;dangerous;close;open;real;bitter
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,father,good;great;old;young;strong;kind;loving;true;real;wise
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,follower,loyal;true;good;strong;close;new;old;important;faithful;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,friend,good;true;close;old;new;best;loyal;kind;real;dear
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,leader,strong;good;great;true;new;old;important;powerful;wise;famous
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,mother,good;great;old;young;kind;loving;true;real;strong;wise
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,partner,good;true;close;strong;new;old;important;loyal;real;trusted
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,rival,strong;old;new;true;close;powerful;real;open;bitter;main
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,sister,big;small;young;old;good;true;close;kind;loving;dear
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Social Relationships,stranger,complete;total;real;true;new;old;quiet;silent;open;unknown
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,above,high;clear;open;bright;blue;wide;empty;far;close;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,back,strong;big;small;old;new;straight;weak;broad;narrow;hard
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,below,low;deep;dark;quiet;open;close;far;empty;cold;silent
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,east,far;close;open;new;old;big;small;quiet;bright;warm
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,front,big;small;open;close;new;old;strong;weak;high;low
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,inside,quiet;dark;warm;cold;open;close;big;small;empty;full
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,left,open;close;far;near;big;small;quiet;strong;weak;empty
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,north,far;close;cold;open;big;small;new;old;quiet;high
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,outside,open;close;far;near;big;small;quiet;cold;warm;empty
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,right,open;close;far;near;big;small;quiet;strong;weak;empty
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,south,far;close;warm;open;big;small;new;old;quiet;low
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Spatial Concepts,west,far;close;open;new;old;big;small;quiet;bright;warm
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,century,last;new;old;next;past;great;long;short;important;modern
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,evening,quiet;long;short;good;bad;warm;cold;dark;late;early
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,hour,long;short;last;next;early;late;busy;quiet;good;bad
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,minute,last;next;long;short;early;late;good;bad;quiet;busy
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,month,last;next;new;old;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,morning,early;late;quiet;good;bad;long;short;cold;warm;new
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,night,long;short;quiet;dark;cold;warm;good;bad;late;early
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,second,last;next;long;short;early;late;good;bad;quiet;busy
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,week,last;next;new;old;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C1,most frequent,Time Concepts,year,last;next;new;old;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;burning;bitter;cold;hidden;violent
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,courage,great;true;quiet;moral;physical;inner;remarkable;extraordinary;steady;personal
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,fear,deep;great;sudden;constant;irrational;real;intense;silent;growing;overwhelming
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,freedom,complete;total;personal;political;true;individual;economic;religious;absolute;full
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,happiness,true;great;pure;real;simple;lasting;deep;complete;perfect;genuine
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,hate,deep;blind;pure;open;cold;strong;bitter;burning;intense;silent
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,honesty,complete;true;total;personal;absolute;great;simple;real;open;perfect
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,justice,true;social;real;equal;fair;complete;perfect;legal;moral;natural
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,knowledge,deep;great;true;complete;scientific;practical;personal;general;wide;basic
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,love,true;deep;great;pure;real;first;strong;perfect;romantic;unconditional
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,peace,true;lasting;complete;inner;perfect;real;long;political;world;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Abstract Concepts,wisdom,great;true;deep;ancient;practical;real;personal;common;natural;spiritual
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;church;heavy;broken;round
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,candle,small;white;red;scented;burning;tall;thin;wax;new;old
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,carpet,red;large;old;new;soft;thick;Persian;clean;dirty;beautiful
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,coin,old;gold;silver;small;rare;ancient;new;round;valuable;foreign
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;heavy;silver;jeweled;ancient;new;famous
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,flag,national;red;white;blue;old;new;big;small;green;official
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,mask,white;black;old;new;wooden;golden;painted;scary;beautiful;colorful
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;old;new;long;short;pearl;diamond;simple
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,painting,old;beautiful;famous;large;small;modern;abstract;colorful;new;original
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;old;new;beautiful;wedding;small;big;simple
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,statue,old;large;small;famous;bronze;marble;ancient;beautiful;golden;new
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Cultural Artifacts,vase,old;beautiful;large;small;blue;white;broken;new;glass;ceramic
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;thick;heavy;light;black;fluffy
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,earthquake,big;strong;powerful;sudden;deadly;recent;major;minor;violent;destructive
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,fog,thick;heavy;white;dense;morning;cold;gray;light;low;wet
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;dangerous;silent;loud;white;sharp
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,rain,heavy;light;cold;hard;soft;steady;constant;sudden;warm;gentle
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;double;clear;rare;perfect;full
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,snow,white;heavy;fresh;deep;soft;cold;light;thick;new;clean
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,storm,big;strong;violent;sudden;heavy;powerful;dark;cold;dangerous;terrible
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;heavy;distant;rolling;powerful;sharp;constant
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;powerful;regular;fast;slow
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;small;dangerous;famous;old;new;powerful
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;soft;hard;steady;sudden;powerful
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,apple,red;green;fresh;sweet;big;small;juicy;ripe;round;crisp
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,banana,yellow;ripe;green;fresh;sweet;big;small;soft;long;curved
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,beef,fresh;raw;cooked;tender;lean;ground;grilled;roasted;juicy;spicy
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;homemade;sliced;old;sweet
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,broccoli,fresh;green;steamed;cooked;raw;healthy;small;big;soft;tender
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,cheese,hard;soft;fresh;old;white;yellow;strong;mild;creamy;sliced
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;fresh;spicy;tender;whole;baked
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;white;brown;cooked;scrambled
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;small;big;white;oily;smoked
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,pasta,cooked;fresh;hot;cold;Italian;homemade;long;short;soft;creamy
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,rice,white;brown;cooked;steamed;fried;hot;cold;sticky;soft;long
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Food Items,soup,hot;cold;thick;thin;fresh;homemade;spicy;clear;creamy;warm
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,artist,famous;young;old;talented;great;modern;creative;local;new;skilled
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,athlete,young;strong;famous;great;professional;talented;fast;skilled;top;successful
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,chef,famous;great;young;talented;professional;skilled;creative;local;new;top
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,doctor,good;young;old;famous;great;skilled;local;new;experienced;professional
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,engineer,young;skilled;experienced;good;professional;talented;great;local;new;senior
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,farmer,local;old;young;small;big;poor;rich;hard-working;skilled;experienced
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,lawyer,good;young;old;famous;great;skilled;local;new;experienced;professional
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,musician,famous;young;old;talented;great;skilled;local;new;creative;professional
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,scientist,famous;young;old;great;skilled;talented;local;new;top;experienced
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,soldier,brave;young;old;strong;good;skilled;experienced;loyal;new;professional
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,teacher,good;young;old;great;skilled;experienced;local;new;kind;patient
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Human Roles,writer,famous;young;old;great;talented;skilled;local;new;creative;successful
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,book,old;new;big;small;famous;interesting;good;thick;thin;popular
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,bridge,old;new;big;small;long;short;famous;strong;wooden;stone
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,drums,big;small;loud;old;new;wooden;African;metal;round;traditional
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,earth,round;big;small;old;green;blue;beautiful;rich;dry;wet
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,flute,wooden;silver;small;long;old;new;metal;beautiful;traditional;simple
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,key,small;old;new;golden;silver;big;metal;main;important;lost
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,lock,old;new;big;small;strong;broken;metal;golden;silver;heavy
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,moon,full;new;bright;round;big;small;white;clear;beautiful;half
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,pen,blue;black;red;old;new;small;big;broken;cheap;expensive
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;red;strong;warm;rising;setting
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Inanimate Objects,sword,sharp;old;new;long;short;silver;golden;big;small;famous
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;wild;lazy;friendly
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;wild
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,dolphin,smart;friendly;playful;big;small;wild;young;old;fast;gray
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,elephant,big;small;old;young;wild;gray;African;Asian;strong;friendly
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;friendly;active;soft;tiny
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,monkey,small;big;young;old;wild;funny;smart;brown;active;playful
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,mouse,small;gray;white;brown;cute;wild;young;old;fast;tiny
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;wild;young;old;blue;green;proud
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,rabbit,small;white;brown;cute;wild;young;old;soft;fast;gray
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,shark,big;small;dangerous;wild;white;gray;fast;young;old;strong
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,snake,long;short;big;small;dangerous;wild;green;brown;black;poisonous
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Neutral Animals,whale,big;small;blue;white;gray;wild;young;old;strong;friendly
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,city,big;small;old;new;modern;ancient;busy;famous;beautiful;crowded
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,desert,hot;dry;big;small;sandy;empty;wide;cold;open;wild
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,forest,big;small;green;dark;deep;old;thick;wild;beautiful;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,island,small;big;beautiful;tropical;remote;quiet;wild;green;new;famous
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;quiet;old;new;fresh
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,mountain,high;tall;big;small;old;new;rocky;green;famous;snowy
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,ocean,big;deep;blue;wide;open;wild;beautiful;calm;rough;warm
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,plain,wide;open;flat;green;dry;big;small;empty;grassy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,plateau,high;flat;wide;big;small;dry;rocky;green;open;old
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,river,big;small;long;short;deep;wide;narrow;fast;slow;clear
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,valley,deep;wide;green;small;big;narrow;beautiful;quiet;open;long
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Places,village,small;big;old;new;quiet;peaceful;local;poor;rich;beautiful
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,cactus,green;big;small;tall;short;wild;old;new;dry;spiky
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,eggplant,purple;big;small;fresh;cooked;raw;soft;round;long;ripe
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;pink;blue
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,grass,green;tall;short;dry;fresh;wild;soft;thick;long;wet
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,lettuce,green;fresh;big;small;crisp;soft;wild;new;old;round
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,mushroom,small;big;white;brown;wild;fresh;cooked;raw;soft;edible
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,onion,red;white;yellow;big;small;fresh;raw;cooked;sweet;strong
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,pepper,red;green;yellow;hot;sweet;big;small;fresh;raw;cooked
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,potato,big;small;white;brown;fresh;cooked;raw;soft;hard;round
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;small;big;sweet
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,tomato,red;ripe;green;small;big;fresh;round;soft;sweet;juicy
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Plants,tree,big;small;old;young;green;tall;short;wild;thick;strong
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,ally,strong;loyal;close;old;new;trusted;powerful;important;good;reliable
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,brother,older;younger;big;small;close;dear;loving;strong;good;loyal
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,enemy,old;new;strong;powerful;dangerous;bitter;real;main;great;deadly
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,father,old;young;loving;strong;good;kind;strict;wise;caring;proud
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,follower,loyal;faithful;true;close;new;old;strong;active;silent;trusted
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,friend,close;good;best;old;new;true;loyal;dear;real;trusted
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,leader,strong;great;good;new;old;powerful;wise;true;famous;respected
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,mother,loving;caring;kind;good;strong;old;young;wise;gentle;proud
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,partner,good;close;new;old;strong;true;loyal;trusted;important;reliable
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,rival,strong;main;old;new;powerful;real;great;close;dangerous;bitter
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,sister,older;younger;big;small;close;dear;loving;good;kind;loyal
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Social Relationships,stranger,complete;total;new;old;silent;real;perfect;unknown;foreign;distant
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,above,high;far;close;near;open;clear;empty;wide;bright;blue
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,back,lower;upper;strong;weak;straight;broad;narrow;flat;soft;hard
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,below,low;deep;far;close;near;dark;cold;hidden;quiet;empty
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,east,far;near;close;distant;bright;open;new;old;main;important
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,front,main;open;wide;big;small;close;near;new;old;clear
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,inside,dark;warm;quiet;safe;small;big;close;near;hidden;private
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,left,far;near;close;main;open;new;old;big;small;important
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,north,far;near;close;cold;main;open;new;old;big;important
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,outside,open;wide;big;small;near;far;close;cold;dark;bright
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,right,far;near;close;main;open;new;old;big;small;important
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,south,far;near;close;warm;main;open;new;old;big;important
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Spatial Concepts,west,far;near;close;main;open;new;old;big;small;important
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,century,last;new;old;past;present;next;great;long;short;modern
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,day,new;old;long;short;hot;cold;sunny;rainy;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,evening,quiet;long;short;cool;warm;dark;late;early;beautiful;peaceful
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;last;next;full;free
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,minute,last;next;long;short;free;busy;early;late;quiet;full
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,month,last;next;new;old;long;short;busy;quiet;cold;hot
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,morning,early;late;quiet;busy;cold;warm;new;beautiful;fresh;bright
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,night,dark;long;short;quiet;cold;warm;late;early;beautiful;peaceful
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,second,last;next;long;short;free;busy;early;late;quiet;full
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,week,last;next;new;old;long;short;busy;quiet;full;free
+gpt-4.1,basic,0.0,AR # Arabic,C2,most frequent,Time Concepts,year,last;next;new;old;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;burning;growing;bitter;cold;violent
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,courage,great;true;quiet;moral;physical;inner;remarkable;extraordinary;steady;personal
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,fear,deep;great;sudden;constant;irrational;real;growing;silent;intense;overwhelming
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,freedom,complete;total;personal;political;true;individual;full;economic;religious;absolute
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,happiness,true;great;real;pure;simple;lasting;deep;complete;perfect;genuine
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,hate,deep;blind;pure;open;cold;strong;growing;bitter;violent;silent
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,honesty,complete;true;total;personal;absolute;great;real;simple;perfect;moral
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,justice,true;social;real;equal;complete;perfect;moral;fair;legal;absolute
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,knowledge,deep;great;true;complete;perfect;wide;broad;personal;scientific;practical
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,love,true;deep;great;pure;real;first;perfect;strong;lasting;unconditional
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,peace,true;lasting;complete;perfect;inner;real;great;political;social;world
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,wisdom,great;true;deep;ancient;practical;real;personal;perfect;moral;simple
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;church;heavy;round;metal
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,candle,white;small;big;scented;long;short;red;burning;wax;thin
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,carpet,red;big;old;new;soft;thick;Persian;beautiful;colorful;clean
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,coin,old;gold;silver;small;rare;ancient;round;new;valuable;shiny
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;big;silver;heavy;ancient;jeweled;new
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;big;small;old;new;colorful;green
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,mask,white;black;old;new;wooden;golden;silver;scary;colorful;plastic
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;long;short;old;new;pearl;diamond;colorful
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,painting,beautiful;old;famous;big;small;modern;new;colorful;abstract;classic
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;old;new;beautiful;small;big;wedding;simple
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,statue,big;small;old;bronze;stone;marble;famous;ancient;beautiful;golden
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,vase,big;small;old;new;beautiful;glass;ceramic;white;blue;colorful
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;thick;light;heavy;low;high
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,earthquake,big;small;strong;powerful;sudden;deadly;recent;major;minor;destructive
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,fog,thick;heavy;white;dense;morning;cold;light;gray;low;wet
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;white;blue;dangerous;loud;sharp
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;hard;soft;constant;gentle;strong
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;double;clear;rare;perfect;full
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,snow,white;heavy;light;fresh;deep;soft;cold;thick;new;clean
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,storm,big;strong;heavy;violent;sudden;powerful;dark;cold;great;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;heavy;distant;rolling;powerful;sharp;constant
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;big;powerful;fast;regular
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;big;small;dangerous;old;new;powerful;famous;extinct
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;soft;hard;steady;powerful;fresh
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;juicy;ripe;round;crisp
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,banana,yellow;ripe;green;big;small;sweet;fresh;long;soft;curved
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,beef,fresh;cooked;raw;tender;lean;ground;grilled;roasted;juicy;spicy
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;sliced;homemade;sweet;round
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,broccoli,fresh;green;cooked;raw;steamed;healthy;small;big;soft;tender
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,cheese,soft;hard;white;yellow;fresh;aged;creamy;salty;mild;strong
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,chicken,cooked;raw;grilled;fried;roasted;fresh;spicy;tender;juicy;baked
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;white;brown;cooked;large
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,fish,fresh;cooked;raw;fried;grilled;small;big;salty;white;smoked
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,pasta,cooked;fresh;hot;cold;homemade;Italian;long;short;soft;creamy
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,rice,white;brown;cooked;raw;steamed;fried;long;short;soft;sticky
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Food Items,soup,hot;cold;thick;thin;fresh;homemade;spicy;creamy;clear;warm
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,artist,famous;young;old;great;talented;modern;creative;new;local;skilled
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,athlete,young;strong;great;famous;professional;talented;fast;skilled;new;top
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,chef,famous;great;young;talented;skilled;professional;new;creative;local;top
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,doctor,good;young;old;great;famous;skilled;local;new;experienced;professional
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,engineer,skilled;young;old;great;talented;professional;new;experienced;local;top
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,farmer,local;old;young;hard-working;skilled;small;big;experienced;new;good
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,lawyer,good;young;old;great;famous;skilled;local;new;experienced;professional
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,musician,famous;young;old;great;talented;skilled;new;local;creative;professional
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,scientist,famous;young;old;great;talented;skilled;new;local;top;experienced
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,soldier,brave;young;old;strong;great;skilled;new;experienced;loyal;good
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,teacher,good;young;old;great;skilled;new;experienced;local;kind;patient
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Human Roles,writer,famous;young;old;great;talented;skilled;new;creative;local;popular
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,book,old;new;big;small;famous;good;interesting;thick;thin;popular
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;famous;wooden;stone
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,drums,big;small;loud;old;new;wooden;metal;round;traditional;African
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,earth,big;round;blue;green;old;beautiful;rich;dry;wet;warm
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;small;long;old;new;beautiful;metal;traditional;simple
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,key,small;big;old;new;golden;silver;metal;main;important;lost
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;dangerous
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,lock,old;new;big;small;strong;metal;broken;golden;silver;heavy
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,moon,full;new;bright;big;small;round;white;clear;beautiful;half
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;small;big;new;old;broken;plastic;silver
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;strong;warm;golden;shining;red
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;silver;golden;big;small;heavy
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;lazy;playful;friendly
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;brown;friendly;loyal;young;old;playful
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,dolphin,smart;friendly;playful;big;small;young;fast;gray;wild;trained
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,elephant,big;small;old;young;wild;gray;strong;African;Asian;friendly
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;friendly;active;fluffy;tiny
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,monkey,small;big;young;old;wild;funny;smart;brown;active;playful
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;cute;young;old;wild;fast;quiet;brown
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;wild;blue;green;male;female;rare
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,rabbit,small;white;brown;cute;young;old;wild;soft;fast;fluffy
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,shark,big;small;dangerous;white;gray;wild;fast;strong;young;old
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,snake,long;short;big;small;dangerous;green;black;wild;poisonous;fast
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Neutral Animals,whale,big;small;blue;white;gray;wild;young;old;huge;friendly
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,city,big;small;old;new;modern;ancient;busy;beautiful;famous;large
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,desert,hot;dry;big;small;sandy;wide;empty;cold;open;vast
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,forest,big;small;green;dark;deep;thick;old;wild;beautiful;dense
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,island,small;big;beautiful;tropical;remote;private;green;new;old;famous
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;fresh;natural;round;quiet
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,mountain,high;tall;big;small;old;rocky;green;snow-capped;beautiful;steep
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,ocean,big;deep;blue;wide;open;vast;beautiful;wild;warm;cold
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,plain,wide;open;flat;green;big;small;dry;grassy;empty;vast
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,plateau,high;flat;big;small;dry;wide;rocky;green;old;open
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,river,big;small;long;short;deep;wide;narrow;fast;slow;clear
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,valley,deep;wide;green;beautiful;small;big;narrow;long;open;quiet
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Places,village,small;big;old;new;quiet;peaceful;beautiful;local;rural;traditional
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,cactus,green;big;small;tall;short;wild;desert;round;spiny;dry
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,eggplant,purple;big;small;fresh;long;short;round;cooked;raw;soft
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;pink;colorful
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,grass,green;tall;short;fresh;wild;dry;soft;thick;long;wet
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,lettuce,green;fresh;big;small;crisp;soft;round;leafy;raw;clean
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,mushroom,white;brown;small;big;fresh;wild;cooked;raw;soft;edible
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,onion,red;white;yellow;big;small;fresh;raw;cooked;sweet;strong
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,pepper,red;green;yellow;hot;sweet;small;big;fresh;raw;spicy
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,potato,big;small;white;brown;fresh;raw;cooked;soft;round;sweet
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;big;small;fragrant
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,tomato,red;ripe;green;small;big;fresh;round;juicy;sweet;soft
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Plants,tree,big;small;old;young;green;tall;short;fruit;wild;thick
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,ally,strong;loyal;close;good;old;new;trusted;important;powerful;reliable
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,brother,older;younger;big;small;close;dear;loving;strong;good;loyal
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,enemy,old;new;strong;powerful;dangerous;real;main;bitter;deadly;open
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,father,good;old;young;loving;strong;kind;caring;wise;strict;proud
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,follower,loyal;true;close;new;old;strong;faithful;good;active;silent
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,friend,good;close;best;old;new;true;dear;loyal;trusted;kind
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,leader,strong;good;great;new;old;true;wise;powerful;main;respected
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,mother,good;loving;kind;caring;strong;old;young;wise;dear;gentle
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,partner,good;close;new;old;strong;true;loyal;trusted;important;main
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,rival,strong;main;old;new;powerful;real;bitter;close;dangerous;open
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,sister,older;younger;big;small;close;dear;loving;kind;good;loyal
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Social Relationships,stranger,complete;total;new;old;real;perfect;silent;quiet;unknown;distant
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,above,high;clear;open;bright;blue;empty;wide;free;sunny;vast
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,back,strong;broad;straight;weak;lower;upper;bare;naked;smooth;stiff
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,below,deep;dark;cold;quiet;silent;empty;low;hidden;secret;wet
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,east,far;distant;bright;new;rising;warm;golden;open;clear;sunny
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,front,main;open;wide;big;small;clear;new;old;strong;bright
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,inside,warm;safe;quiet;dark;small;big;private;secret;soft;hidden
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,left,far;near;main;open;free;empty;quiet;silent;weak;strong
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,north,far;cold;distant;high;open;wild;snowy;strong;clear;bright
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,outside,open;free;wide;big;small;bright;cold;warm;quiet;empty
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,right,main;open;free;strong;clear;near;far;bright;empty;quiet
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,south,far;warm;distant;open;sunny;bright;green;strong;clear;new
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,west,far;distant;open;wild;bright;golden;warm;clear;free;new
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,century,new;old;last;past;present;next;great;long;short;modern
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,day,new;long;short;good;bad;sunny;bright;busy;clear;warm
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,evening,quiet;long;short;warm;cool;late;early;beautiful;dark;peaceful
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,hour,long;short;late;early;last;next;busy;quiet;free;full
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,minute,last;next;long;short;free;busy;quiet;early;late;final
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,month,last;next;new;old;long;short;busy;quiet;cold;warm
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,morning,early;late;quiet;new;cold;warm;bright;busy;fresh;clear
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;clear;peaceful
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,season,new;old;long;short;cold;warm;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,second,last;next;long;short;free;busy;quiet;early;late;final
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,week,last;next;new;old;long;short;busy;quiet;full;free
+gpt-4.1,basic,0.0,AR # Arabic,Perfect,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;quiet

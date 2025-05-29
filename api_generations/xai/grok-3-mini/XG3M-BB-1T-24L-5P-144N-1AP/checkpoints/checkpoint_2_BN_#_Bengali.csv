@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,anger,strong;hot;big;sudden;deep;bad;quick;long;quiet;old
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,courage,strong;great;true;bold;big;small;new;real;false;quick
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,fear,great;deep;sudden;cold;big;small;quick;long;dark;strong
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,freedom,great;true;full;big;small;new;real;quick;easy;open
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,happiness,great;true;big;small;new;real;quick;easy;full;bright
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,hate,strong;deep;big;small;quick;long;bad;real;false;hot
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,honesty,true;great;full;big;small;new;real;quick;easy;simple
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,justice,true;great;fair;big;small;new;real;quick;easy;strong
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,knowledge,great;deep;big;small;new;real;quick;easy;full;wide
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,love,great;true;deep;big;small;new;real;quick;easy;strong
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,peace,great;true;full;big;small;new;real;quick;easy;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Abstract Concepts,wisdom,great;deep;true;big;small;new;real;quick;easy;old
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;quiet;shiny;dirty;round;heavy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,candle,big;small;old;new;bright;dark;hot;cold;white;long
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;soft;hard;clean;dirty;red;blue
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,coin,big;small;old;new;shiny;dirty;gold;silver;round;heavy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,crown,big;small;old;new;shiny;dirty;gold;heavy;royal;bright
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;colorful;plain;red;blue;national;high
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,mask,big;small;old;new;black;white;scary;funny;plastic;soft
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,necklace,big;small;old;new;shiny;dirty;gold;silver;beautiful;long
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,painting,big;small;old;new;beautiful;ugly;colorful;dark;famous;simple
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,ring,big;small;old;new;shiny;dirty;gold;silver;round;heavy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;tall;short;stone;metal;beautiful;strong
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;beautiful;ugly;glass;clay;colorful;tall
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,cloud,big;small;white;gray;high;low;soft;dark;moving;light
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;long;bad;rare;deep;fast
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,fog,thick;thin;white;gray;cold;wet;heavy;light;early;late
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,lightning,bright;fast;strong;weak;sudden;loud;dangerous;rare;white;high
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;long;short;wet;soft;steady;hard
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,rainbow,bright;colorful;beautiful;big;small;rare;clear;wet;high;full
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;deep;light;wet;heavy;fresh;new;old
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,storm,strong;big;loud;wet;cold;fast;long;dangerous;dark;sudden
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,thunder,loud;strong;deep;sudden;long;scary;rare;big;fast;heavy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;fast;slow;big;small;wet;cold
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,volcano,big;small;active;old;hot;dangerous;high;deep;black;red
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Environmental Phenomena,wind,strong;weak;fast;slow;cold;warm;loud;quiet;dry;wet
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,apple,red;green;big;small;sweet;sour;fresh;ripe;juicy;hard
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,banana,yellow;big;small;sweet;soft;hard;fresh;ripe;long;curved
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,beef,red;fresh;cooked;raw;big;small;tough;soft;hot;cold
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,bread,fresh;old;soft;hard;white;brown;big;small;warm;dry
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,broccoli,green;fresh;big;small;hard;soft;raw;cooked;healthy;bitter
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;strong;mild;creamy;dry
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,chicken,white;brown;big;small;fresh;cooked;raw;tender;juicy;hot
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,egg,white;brown;big;small;fresh;old;hard;soft;cooked;raw
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,fish,big;small;fresh;cooked;raw;silver;colorful;fast;slippery;tasty
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,pasta,long;short;soft;hard;cooked;raw;white;yellow;hot;dry
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,rice,white;brown;cooked;raw;soft;hard;hot;cold;dry;fresh
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Food Items,soup,hot;cold;thick;thin;tasty;salty;fresh;old;red;white
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,artist,creative;talented;young;old;famous;unknown;good;bad;busy;happy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,athlete,strong;fast;young;old;fit;skilled;good;bad;tall;short
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,chef,skilled;busy;young;old;good;bad;creative;famous;clean;quick
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,doctor,skilled;busy;young;old;good;bad;kind;strict;smart;helpful
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,engineer,skilled;smart;young;old;good;bad;busy;creative;careful;strong
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,farmer,hard-working;strong;young;old;good;bad;busy;poor;rich;happy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,lawyer,smart;busy;young;old;good;bad;strict;helpful;famous;careful
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,musician,talented;young;old;good;bad;famous;creative;busy;happy;skilled
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,scientist,smart;curious;young;old;good;bad;busy;creative;careful;famous
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,soldier,strong;brave;young;old;good;bad;trained;loyal;fit
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,teacher,kind;smart;young;old;good;bad;patient;strict;helpful;busy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Human Roles,writer,creative;smart;young;old;good;bad;famous;busy;happy;skilled
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,book,old;new;big;small;thick;thin;interesting;boring;colorful;heavy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,bridge,big;small;old;new;strong;weak;high;long;metal;wooden
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,drums,big;small;loud;quiet;old;new;wooden;metal;shiny;heavy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,earth,big;round;green;blue;old;new;wet;dry;hot;cold
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,flute,long;short;old;new;wooden;metal;shiny;smooth;loud;soft
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,key,small;old;new;metal;shiny;rusty;long;short;important;simple
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,knife,sharp;dull;small;big;metal;wooden;old;new;clean;dirty
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,lock,small;big;old;new;metal;strong;weak;shiny;rusty;simple
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,moon,big;small;bright;dark;full;new;old;white;cold;beautiful
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,pen,small;old;new;black;blue;shiny;cheap;expensive;smooth;broken
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,sun,big;bright;hot;yellow;strong;warm;high;daily;powerful;clear
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Inanimate Objects,sword,sharp;long;old;new;metal;heavy;shiny;strong;ancient;big
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,cat,small;big;black;white;soft;wild;tame;fast;lazy;cute
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,dog,big;small;friendly;wild;fast;slow;loyal;smart;old;young
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,dolphin,big;small;smart;fast;playful;gray;wild;friendly;strong;cute
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,elephant,big;gray;strong;slow;wild;tame;old;young;heavy;smart
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,hamster,small;cute;fast;soft;brown;white;wild;tame;active;playful
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,monkey,small;clever;fast;wild;brown;black;active;playful;noisy;fun
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,mouse,small;gray;fast;quiet;wild;tame;clever;shy;active;soft
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,peacock,big;colorful;beautiful;wild;proud;noisy;blue;green;tall;active
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,rabbit,small;white;fast;soft;wild;tame;cute;shy;active;furry
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,shark,big;gray;fast;strong;wild;dangerous;sharp;scary;deep;hungry
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,snake,long;thin;green;black;wild;dangerous;smooth;fast;quiet;scary
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Neutral Animals,whale,big;gray;strong;fast;wild;deep;huge;smart;gentle;old
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,city,big;small;busy;quiet;old;new;clean;dirty;modern;crowded
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,desert,big;dry;hot;sandy;empty;wide;yellow;harsh;quiet;old
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,forest,big;green;dark;wild;thick;quiet;old;fresh;cool;deep
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,island,small;big;green;tropical;quiet;remote;beautiful;sandy;old;warm
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,lake,big;small;blue;green;deep;shallow;cold;clear;quiet;fresh
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,mountain,big;high;steep;green;snowy;old;strong;cold;beautiful;rocky
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,ocean,big;deep;blue;wide;cold;warm;wet;powerful;salty;vast
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,plain,big;flat;green;dry;wide;open;simple;quiet;old;empty
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,plateau,high;flat;big;rocky;dry;wide;old;empty;cold;green
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,river,long;wide;deep;shallow;fast;slow;clean;dirty;blue;fresh
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,valley,deep;green;wide;quiet;beautiful;low;fertile;cool;old;narrow
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Places,village,small;quiet;old;green;simple;peaceful;rural;clean;busy;poor
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,cactus,tall;short;green;spiky;dry;wild;strong;old;small;big
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,eggplant,purple;big;small;fresh;soft;hard;raw;cooked;shiny;long
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,flower,beautiful;colorful;small;big;fresh;old;red;yellow;soft;sweet
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,grass,green;tall;short;soft;wet;dry;fresh;old;thick;thin
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,lettuce,green;fresh;crisp;big;small;raw;soft;healthy;clean;wet
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,mushroom,small;big;white;brown;soft;hard;fresh;old;wild;tasty
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,onion,white;red;big;small;fresh;strong;raw;cooked;dry;spicy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,pepper,red;green;small;big;fresh;spicy;hot;raw;cooked;shiny
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,potato,big;small;brown;fresh;hard;soft;raw;cooked;dirty;clean
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,rose,red;beautiful;small;big;fresh;old;soft;thorny;sweet;wild
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,tomato,red;green;big;small;fresh;juicy;raw;cooked;soft;shiny
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Plants,tree,tall;big;green;old;young;strong;weak;wide;leafy;fruit
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,ally,strong;true;good;bad;new;old;reliable;helpful;loyal;smart
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,brother,young;old;kind;strict;tall;short;good;bad;helpful;funny
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,enemy,strong;weak;bad;dangerous;old;new;smart;dumb;hidden;open
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,father,strong;kind;old;young;tall;short;good;bad;wise;busy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,follower,loyal;faithful;young;old;good;bad;strong;weak;active;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,friend,good;true;close;old;new;kind;funny;helpful;loyal;smart
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,leader,strong;wise;good;bad;young;old;smart;brave;popular;fair
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,mother,kind;loving;old;young;tall;short;good;busy;patient;strong
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,partner,good;reliable;young;old;strong;weak;smart;helpful;loyal;busy
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,rival,strong;weak;bad;tough;young;old;smart;dumb;competitive;dangerous
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,sister,young;old;kind;funny;tall;short;good;bad;helpful;smart
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Social Relationships,stranger,unknown;new;strange;tall;short;young;old;friendly;scary;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,above,high;top;clear;bright;safe;open;blue;white;far;direct
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,back,rear;hidden;dark;strong;weak;old;new;straight;curved;wide
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,below,low;deep;dark;hidden;wet;cold;small;big;quiet;safe
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,east,far;near;sunny;warm;coastal;flat;high;old;new;green
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,front,main;open;clear;big;small;bright;dark;safe;busy;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,inside,warm;cool;safe;hidden;dry;wet;big;small;clean;dirty
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,left,free;open;clear;dark;bright;high;low;old;new;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,north,cold;far;wild;green;high;flat;old;new;busy;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,outside,open;free;cold;warm;wet;dry;big;small;green;dirty
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,right,correct;straight;true;good;bad;easy;hard;clear;direct;simple
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,south,warm;hot;sunny;flat;green;busy;old;new;coastal;wide
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Spatial Concepts,west,far;wild;dry;sunny;high;low;old;new;quiet;empty
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,century,long;old;new;great;bad;full;empty;busy;quiet;important
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,day,long;short;bright;dark;hot;cold;busy;quiet;good;bad
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,evening,long;short;cool;dark;quiet;busy;beautiful;late;early;calm
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;full;empty;good;bad
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,minute,short;long;quick;slow;important;small;last;first;good;bad
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,month,long;short;busy;quiet;hot;cold;new;old;full;empty
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,morning,early;fresh;bright;cool;quiet;busy;good;bad;clear;wet
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,night,dark;long;quiet;cold;busy;beautiful;late;short;clear;warm
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;good;bad;full;empty
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,second,short;quick;last;first;important;small;fast;slow;good;bad
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,week,long;short;busy;quiet;full;empty;good;bad;new;old
+grok-3-mini,basic,1.0,BN # Bengali,B1,most frequent,Time Concepts,year,long;short;good;bad;new;old;busy;quiet;full;empty
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;hot;suppressed;violent;quiet;explosive
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,courage,great;true;moral;physical;heroic;bold;brave;strong;quiet;sudden
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,fear,deep;sudden;great;cold;dark;hidden;strong;real;growing;basic
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,freedom,great;true;full;new;basic;personal;social;hard-won;simple;clear
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,happiness,great;pure;simple;real;sudden;deep;quiet;true;warm;lasting
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,hate,deep;strong;blind;bitter;pure;sudden;growing;cold;intense;open
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,honesty,complete;simple;true;basic;clear;direct;pure;strong;open;real
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,justice,fair;true;social;blind;quick;strong;basic;real;open;clear
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,knowledge,great;deep;wide;basic;useful;new;real;simple;true;clear
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,love,great;true;deep;pure;strong;simple;sudden;warm;blind;lasting
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,peace,true;deep;quiet;lasting;simple;full;real;strong;open;warm
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Abstract Concepts,wisdom,great;old;deep;true;simple;practical;clear;strong;basic;real
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,bell,loud;small;old;big;ringing;broken;metal;new;clear;soft
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,candle,small;burning;old;new;bright;simple;colored;soft;long;warm
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,carpet,old;new;soft;big;colored;thick;clean;dirty;simple;warm
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,coin,old;new;small;shiny;gold;silver;rare;dirty;round;heavy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,crown,royal;gold;big;old;new;heavy;simple;shiny;broken;decorated
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,flag,national;old;new;colored;big;small;torn;proud;simple;waving
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,mask,old;new;scary;simple;colored;broken;plastic;wooden;small;funny
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;shiny;simple;colored;heavy;broken;beautiful
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,painting,old;new;beautiful;simple;colored;large;small;broken;famous;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,ring,gold;silver;old;new;shiny;simple;small;broken;wedding;heavy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,statue,old;large;stone;new;broken;famous;simple;metal;big;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Cultural Artifacts,vase,old;new;broken;simple;colored;large;small;glass;ceramic;decorative
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;fluffy;moving;low;high;rainy;stormy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,earthquake,strong;sudden;big;dangerous;minor;deep;local;rare;destructive;shaking
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,fog,thick;light;cold;early;morning;low;wet;grey;sudden;heavy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,lightning,bright;fast;sudden;dangerous;strong;white;night;rare;powerful;striking
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;sudden;steady;falling;soft;hard;wet
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,rainbow,bright;colorful;beautiful;rare;full;small;clear;wet;magical;double
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,snow,white;heavy;light;cold;falling;fresh;deep;soft;wet;winter
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,storm,strong;big;sudden;dangerous;windy;rainy;dark;wild;fierce;long
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,thunder,loud;sudden;strong;frightening;deep;distant;rare;clear;night;powerful
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,tide,high;low;strong;fast;rising;falling;cold;warm;coastal;dangerous
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,volcano,active;sleeping;big;dangerous;hot;old;rare;explosive;mountain;smoking
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;blowing;fast;steady;wild;gentle;dry
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,apple,red;green;fresh;sweet;big;small;ripe;sour;juicy;hard
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,banana,yellow;green;fresh;ripe;big;small;sweet;soft;long;tasty
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,beef,fresh;cooked;rare;well-done;tough;tender;red;ground;cheap;fatty
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,bread,fresh;old;soft;hard;white;brown;sliced;warm;simple;tasty
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;big;small;healthy;bitter;soft;steamed
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,cheese,yellow;soft;hard;fresh;old;strong;mild;grated;tasty;creamy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,chicken,fresh;cooked;raw;small;big;white;fried;grilled;tender;cheap
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,egg,fresh;boiled;fried;raw;large;small;white;brown;broken;soft
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,fish,fresh;cooked;raw;big;small;salty;oily;wild;farmed;tasty
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,pasta,cooked;dry;soft;long;short;simple;cheese;tomato;hot;fresh
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,rice,cooked;dry;white;brown;long-grain;short-grain;hot;sticky;fresh;simple
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Food Items,soup,hot;cold;thick;thin;fresh;vegetable;chicken;tasty;simple;creamy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,artist,talented;young;old;famous;creative;skilled;local;modern;dedicated;poor
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,athlete,strong;fast;young;old;professional;skilled;famous;dedicated;fit;competitive
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,chef,great;young;old;skilled;famous;creative;professional;busy;talented;quick
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,doctor,good;young;old;skilled;busy;professional;local;caring;experienced;tired
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,engineer,skilled;young;old;professional;creative;busy;local;smart;dedicated;mechanical
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,farmer,hard-working;old;young;local;poor;rich;busy;skilled;simple;dedicated
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,lawyer,good;young;old;professional;busy;skilled;local;smart;experienced;strict
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,musician,talented;young;old;famous;skilled;creative;local;dedicated;popular;energetic
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,scientist,smart;young;old;famous;skilled;dedicated;creative;professional;busy;curious
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,soldier,brave;young;old;strong;trained;dedicated;professional;tired;local;heroic
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,teacher,good;young;old;patient;skilled;dedicated;local;strict;experienced;kind
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Human Roles,writer,talented;young;old;famous;creative;skilled;dedicated;local;popular;careful
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;popular;cheap;colorful;heavy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,bridge,old;new;big;small;strong;broken;wooden;stone;high;safe
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,drums,big;small;loud;wooden;metal;old;new;simple;broken;rhythmic
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,earth,green;blue;big;old;round;beautiful;fragile;dry;wet;hot
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,flute,wooden;metal;old;new;small;simple;shiny;broken;sweet-sounding;light
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,key,small;metal;old;new;shiny;broken;simple;gold;silver;rusty
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,knife,sharp;old;new;big;small;metal;wooden;broken;simple;rusty
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,lock,old;new;strong;weak;metal;broken;simple;electronic;small;secure
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,moon,full;bright;dark;old;round;beautiful;distant;cold;silver;mysterious
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,pen,black;blue;old;new;cheap;expensive;simple;broken;metal;plastic
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,sun,bright;hot;yellow;big;warm;rising;setting;strong;daily;golden
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Inanimate Objects,sword,sharp;old;new;big;small;metal;broken;simple;heavy;shiny
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,cat,black;white;small;big;wild;tame;lazy;active;friendly;fluffy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,dog,big;small;friendly;wild;loyal;active;old;young;brown;white
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,dolphin,smart;big;small;wild;friendly;fast;playful;grey;sea;jumping
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,elephant,big;grey;wild;tame;strong;old;young;heavy;slow;intelligent
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,hamster,small;cute;furry;wild;tame;fast;active;brown;white;playful
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,monkey,small;wild;smart;fast;playful;brown;black;young;old;noisy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,mouse,small;grey;wild;tame;fast;quiet;clever;young;old;furry
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,peacock,beautiful;wild;colorful;big;proud;loud;active;rare;blue;green
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,rabbit,small;white;wild;tame;fast;fluffy;young;old;playful;shy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,shark,big;dangerous;wild;fast;grey;sharp-toothed;deep-sea;hungry;strong;fierce
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,snake,long;dangerous;wild;small;big;poisonous;green;black;fast;slippery
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Neutral Animals,whale,big;wild;grey;fast;deep-sea;singing;old;young;massive;gentle
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,city,big;busy;modern;old;crowded;clean;dirty;beautiful;noisy;rich
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,desert,dry;hot;big;sandy;empty;wild;distant;yellow;rocky;harsh
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,forest,green;deep;wild;dark;big;quiet;wet;old;dense;beautiful
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,island,small;big;tropical;isolated;beautiful;green;sandy;wild;distant;sunny
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,lake,big;small;deep;shallow;clear;dirty;blue;calm;wild;frozen
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,mountain,high;big;snowy;rocky;green;old;steep;wild;beautiful;cold
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,ocean,big;deep;blue;wild;cold;warm;stormy;calm;vast;salty
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,plain,flat;wide;green;dry;empty;simple;vast;open;fertile;wild
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,plateau,high;flat;rocky;wide;dry;green;wild;distant;ancient;steep
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,river,long;wide;deep;shallow;fast;slow;clean;dirty;blue;wild
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,valley,deep;green;wide;narrow;beautiful;quiet;fertile;wild;sunny;shady
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Places,village,small;quiet;old;green;simple;remote;poor;rich;friendly;traditional
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,cactus,green;spiky;dry;small;big;wild;desert;tough;rare;flowering
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,eggplant,purple;green;fresh;big;small;soft;raw;cooked;shiny;healthy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,flower,beautiful;red;white;wild;fresh;small;big;sweet-smelling;simple;colorful
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,grass,green;fresh;wet;dry;short;long;wild;soft;thick;healthy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,lettuce,green;fresh;crisp;raw;big;small;healthy;wet;simple;leafy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,mushroom,small;big;wild;fresh;cooked;white;brown;soft;rare;tasty
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,onion,white;red;fresh;big;small;strong-smelling;raw;cooked;healthy;sharp
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,pepper,red;green;fresh;hot;sweet;small;big;raw;cooked;spicy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,potato,big;small;fresh;raw;cooked;brown;white;soft;hard;healthy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,rose,red;beautiful;fresh;wild;sweet-smelling;thorny;big;small;simple;colorful
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,tomato,red;green;fresh;big;small;juicy;raw;cooked;sweet;healthy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Plants,tree,tall;old;green;big;small;wild;fruit-bearing;leafy;strong;shady
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,ally,strong;true;faithful;reliable;helpful;close;powerful;secret;foreign;loyal
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,brother,younger;older;loving;kind;strong;helpful;naughty;smart;loyal;playful
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,enemy,dangerous;strong;old;new;bitter;hidden;foreign;powerful;fierce;common
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,father,loving;strong;old;young;kind;strict;busy;wise;caring;hardworking
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,follower,loyal;faithful;strong;dedicated;blind;active;young;old;simple;enthusiastic
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,friend,good;true;close;old;new;loyal;helpful;funny;kind;reliable
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,leader,strong;good;great;young;old;wise;popular;powerful;dedicated;inspiring
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,mother,loving;kind;strong;busy;caring;young;old;patient;wise;protective
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,partner,good;reliable;strong;close;business;life;faithful;helpful;equal;active
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,rival,strong;tough;old;new;bitter;competitive;dangerous;equal;smart;fierce
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,sister,younger;older;loving;kind;helpful;smart;playful;loyal;caring;funny
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Social Relationships,stranger,unknown;mysterious;dangerous;foreign;new;odd;friendly;scary;tall;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,above,high;clear;bright;distant;open;full;safe;warm;simple;vast
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,back,old;strong;broken;wooden;soft;wide;dark;hidden;simple;empty
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,below,deep;dark;hidden;low;cold;quiet;wet;dangerous;simple;vast
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,east,distant;sunny;warm;coastal;old;new;wild;empty;simple;green
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,front,big;small;open;closed;clean;dirty;bright;dark;simple;busy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,inside,warm;cool;dark;bright;safe;empty;full;quiet;simple;hidden
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,left,free;open;dark;bright;empty;full;simple;clean;dirty;hidden
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,north,cold;wild;distant;green;empty;old;new;simple;vast;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,outside,cold;warm;dark;bright;empty;full;wet;dry;simple;open
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,right,correct;true;strong;clear;simple;direct;fair;quick;easy;full
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,south,warm;sunny;green;coastal;distant;wild;empty;simple;vast;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Spatial Concepts,west,wild;distant;empty;sunny;old;new;simple;vast;green;quiet
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,century,long;old;past;modern;great;dark;golden;simple;full;busy
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;quiet;warm;cold;simple;clear
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,evening,quiet;long;warm;cool;dark;peaceful;busy;simple;beautiful;late
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;dark;bright;simple;full
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,minute,short;long;quick;slow;last;first;simple;busy;quiet;final
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,month,long;short;busy;quiet;hot;cold;simple;full;dry;wet
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,morning,early;fresh;bright;cool;quiet;busy;simple;clear;warm;new
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,night,dark;long;quiet;cold;busy;warm;simple;clear;full;mysterious
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,season,long;short;warm;cold;dry;wet;simple;busy;quiet;changing
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,second,short;last;first;quick;simple;final;early;late;full;empty
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,week,long;short;busy;quiet;simple;full;new;old;clear;changing
+grok-3-mini,basic,1.0,BN # Bengali,B2,most frequent,Time Concepts,year,long;short;busy;quiet;new;old;full;simple;changing;great
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;suppressed;raw;hot;cold;righteous;pent-up
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,courage,bold;great;true;inner;moral;quiet;heroic;fearless;unmatched;steadfast
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,fear,deep;sudden;constant;irrational;intense;hidden;real;overwhelming;childish;basic
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,freedom,true;full;personal;absolute;limited;hard-won;basic;political;inner;equal
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,happiness,pure;lasting;simple;great;inner;sudden;shared;quiet;genuine;everyday
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,hate,deep;bitter;blind;intense;racial;pure;strong;mutual;irrational;cold
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,honesty,complete;brutal;simple;true;rare;basic;straightforward;absolute;personal;clear
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,justice,fair;social;true;blind;swift;natural;equal;criminal;full;divine
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,knowledge,deep;basic;wide;practical;secret;useful;ancient;scientific;common;human
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,love,true;deep;pure;unconditional;romantic;strong;mutual;forbidden;simple;eternal
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,peace,inner;world;lasting;quiet;true;global;perfect;fragile;mental;complete
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Abstract Concepts,wisdom,great;ancient;practical;deep;common;true;simple;spiritual;rare;human
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,bell,small;large;old;ringing;metal;church;school;clear;broken;golden
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,candle,small;lit;scented;white;old;birthday;burning;tall;melted;red
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,carpet,soft;thick;old;red;dirty;new;woolen;patterned;large;clean
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,coin,old;shiny;rare;small;gold;silver;ancient;foreign;fake;heavy
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,crown,golden;royal;heavy;ancient;jeweled;big;symbolic;fake;simple;lost
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,flag,national;old;waving;colorful;torn;foreign;small;proud;red;official
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,mask,black;protective;scary;old;facial;colorful;simple;decorative;plastic;hidden
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,necklace,gold;beautiful;long;pearl;simple;broken;expensive;antique;silver;shiny
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,painting,beautiful;old;modern;large;famous;abstract;colorful;simple;detailed;dark
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,ring,gold;small;engagement;broken;shiny;antique;simple;diamond;old;magical
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,statue,large;ancient;bronze;famous;broken;stone;modern;tall;beautiful;historical
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Cultural Artifacts,vase,old;glass;broken;decorative;large;simple;colorful;antique;small;floral
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,cloud,white;dark;fluffy;low;rainy;high;stormy;light;gray;moving
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,earthquake,strong;sudden;major;destructive;mild;rare;underground;powerful;recent;deep
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,fog,thick;dense;morning;heavy;cold;light;mysterious;wet;early;gray
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,lightning,bright;fast;sudden;dangerous;powerful;frequent;dramatic;electric;nighttime;forked
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;warm;sudden;gentle;pouring;seasonal;fresh
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,rainbow,beautiful;colorful;bright;rare;double;faint;full;natural;arched;vivid
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,snow,white;fresh;heavy;light;cold;deep;falling;wet;pure;powdery
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,storm,violent;strong;sudden;winter;massive;tropical;fierce;dark;windy;electrical
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;sudden;powerful;frightening;deep;constant;nighttime;echoing
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;full;daily;ocean;powerful;calm
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,volcano,active;sleeping;dangerous;massive;ancient;erupting;fiery;tall;volcanic;hidden
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;northern;fresh;wild
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,apple,red;fresh;green;ripe;sweet;juicy;small;sour;organic;big
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,banana,yellow;ripe;green;sweet;long;fresh;soft;peeled;organic;small
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,beef,fresh;cooked;lean;ground;tender;raw;grilled;fatty;organic;rare
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,bread,fresh;soft;white;whole;toasted;warm;sliced;homemade;dry;crusty
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;cooked;tender;frozen;crisp;small
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,cheese,soft;hard;fresh;melted;sharp;creamy;yellow;grated;aged;mild
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,chicken,fresh;grilled;roasted;raw;organic;fried;tender;small;spicy;white
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,egg,fresh;boiled;raw;large;broken;organic;fried;small;white;scrambled
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,fish,fresh;cooked;grilled;raw;big;small;salty;frozen;wild;oily
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,pasta,cooked;fresh;dry;hot;Italian;soft;cheesy;homemade;long;spicy
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,rice,cooked;white;brown;steamed;hot;dry;sticky;organic;wild;fluffy
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;thick;cold;spicy;fresh;simple;hearty
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,artist,talented;creative;famous;young;skilled;modern;dedicated;passionate;unknown;local
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,athlete,strong;fast;professional;young;skilled;dedicated;famous;injured;talented;competitive
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,chef,skilled;famous;young;creative;professional;busy;talented;experienced;local;passionate
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,doctor,skilled;experienced;young;busy;dedicated;famous;local;caring;professional;senior
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,engineer,skilled;creative;young;professional;experienced;dedicated;local;mechanical;busy;talented
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,farmer,hard-working;local;experienced;young;organic;dedicated;poor;skilled;rural;busy
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,lawyer,skilled;experienced;young;professional;busy;corporate;dedicated;local;famous;honest
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,musician,talented;famous;young;skilled;passionate;professional;local;creative;dedicated;unknown
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,scientist,brilliant;dedicated;young;experienced;famous;skilled;professional;local;creative;busy
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,soldier,brave;trained;young;experienced;dedicated;professional;injured;loyal;strong;heroic
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,teacher,dedicated;experienced;young;skilled;passionate;local;professional;strict;creative;kind
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Human Roles,writer,talented;famous;young;skilled;creative;dedicated;unknown;professional;local;passionate
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,book,old;new;thick;interesting;popular;heavy;small;colorful;educational;fiction
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,bridge,old;long;strong;wooden;metal;high;broken;famous;modern;safe
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,drums,loud;big;wooden;electronic;small;old;professional;rhythmic;shiny;basic
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,earth,green;vast;beautiful;round;ancient;living;dry;fertile;blue;warm
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,flute,wooden;small;silver;old;musical;simple;shiny;professional;sweet-sounding;basic
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,key,small;metal;old;shiny;spare;locked;secret;golden;basic;heavy
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,knife,sharp;small;old;metal;kitchen;dull;wooden-handled;clean;rusty;long
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,lock,old;metal;broken;secure;small;electronic;simple;rusty;modern;keyless
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,moon,full;bright;crescent;dark;beautiful;distant;silver;new;old;glowing
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,pen,black;cheap;old;new;ink;simple;fancy;broken;metal;colorful
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;warm;yellow;powerful;distant;golden;midday
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Inanimate Objects,sword,sharp;old;metal;long;ancient;shiny;broken;magical;heavy;royal
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,cat,black;small;wild;friendly;lazy;playful;old;stray;white;cute
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,dog,big;friendly;old;small;loyal;wild;trained;playful;brown;smart
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;big;friendly;marine;gray;fast;young;social
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,elephant,large;wild;gray;strong;old;gentle;African;smart;endangered;playful
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,hamster,small;cute;furry;wild;tame;young;fast;brown;active;friendly
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,monkey,wild;small;playful;smart;brown;young;loud;agile;curious;funny
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,mouse,small;gray;wild;fast;timid;young;sneaky;cute;common;furry
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,peacock,colorful;wild;beautiful;large;proud;exotic;male;royal;bright;noisy
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,rabbit,white;small;wild;fast;cute;fluffy;young;brown;tame;playful
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,shark,big;dangerous;wild;fast;gray;fierce;ocean;hungry;ancient;sharp-toothed
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,snake,long;poisonous;wild;small;green;dangerous;slimy;fast;hidden;coiled
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Neutral Animals,whale,huge;wild;blue;intelligent;marine;old;gentle;endangered;deep-sea;singing
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,city,big;busy;modern;old;crowded;beautiful;noisy;clean;historic;industrial
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,desert,hot;dry;vast;sandy;empty;remote;beautiful;harsh;golden;silent
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,forest,dense;green;old;dark;wild;beautiful;quiet;tropical;ancient;vast
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,island,small;tropical;remote;beautiful;deserted;green;volcanic;sunny;rocky;large
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,lake,blue;deep;clear;frozen;large;small;calm;fresh;hidden;scenic
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,mountain,high;snow-covered;rocky;tall;green;ancient;steep;beautiful;rugged;distant
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,ocean,vast;deep;blue;stormy;calm;wide;cold;endless;salty;mysterious
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,plain,flat;vast;green;dry;open;fertile;empty;wide;simple;golden
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,plateau,high;flat;rocky;vast;dry;ancient;green;remote;elevated;scenic
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,river,wide;deep;fast;clean;winding;frozen;muddy;long;blue;peaceful
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,valley,deep;green;narrow;fertile;hidden;beautiful;wide;remote;sunny;quiet
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Places,village,small;quiet;old;rural;peaceful;simple;remote;traditional;green;friendly
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,cactus,spiky;green;tall;wild;small;desert;thorny;hardy;flowering;dry
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,eggplant,purple;fresh;large;organic;cooked;shiny;round;raw;soft;dark
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,flower,beautiful;red;wild;fresh;small;colorful;blooming;fragrant;yellow;rare
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,grass,green;tall;wet;dry;soft;wild;fresh;short;thick;lush
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,lettuce,green;fresh;crisp;raw;organic;leafy;small;washed;salad;tender
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,mushroom,small;fresh;wild;cooked;brown;edible;raw;magic;soft;large
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,onion,fresh;raw;big;small;sliced;organic;sweet;spicy;dried;white
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,pepper,red;fresh;hot;green;spicy;raw;sliced;organic;sweet;dried
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,potato,fresh;raw;big;small;baked;organic;peeled;fried;soft;white
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,rose,red;beautiful;fresh;wild;thorny;blooming;sweet-smelling;white;rare;full
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,tomato,red;fresh;ripe;small;organic;juicy;raw;sliced;green;sweet
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Plants,tree,tall;green;old;big;fruit;leafy;ancient;shady;young;strong
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,ally,strong;faithful;close;reliable;secret;powerful;true;helpful;strategic;loyal
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,brother,older;younger;loving;protective;close;distant;caring;playful;strong;reliable
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,enemy,dangerous;powerful;sworn;bitter;old;fierce;hidden;strong;foreign;deadly
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,father,loving;strict;busy;kind;old;young;protective;wise;distant;caring
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,follower,loyal;dedicated;faithful;blind;strong;active;new;passionate;enthusiastic;quiet
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,friend,best;close;true;old;new;loyal;helpful;fun;distant;reliable
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,leader,strong;wise;charismatic;effective;natural;young;famous;inspiring;dedicated;powerful
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,mother,loving;caring;busy;strict;kind;young;old;protective;supportive;gentle
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,partner,reliable;business;close;equal;strong;supportive;professional;faithful;new;trusted
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,rival,fierce;strong;old;new;bitter;competitive;dangerous;equal;local;smart
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,sister,younger;older;loving;caring;close;playful;supportive;distant;kind;protective
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Social Relationships,stranger,unknown;mysterious;dangerous;friendly;odd;foreign;helpful;suspicious;new;quiet
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,above,high;clear;visible;bright;distant;overhead;blue;floating;superior;elevated
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,back,strong;straight;broad;injured;muscular;old;hidden;rear;lower;painful
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,below,deep;hidden;dark;low;underground;submerged;inferior;quiet;cold;secret
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,east,rising;distant;sunny;coastal;ancient;wild;far;warm;exotic
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,front,wide;open;main;forward;clear;busy;visible;strong;direct;leading
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,inside,warm;hidden;dark;comfortable;secret;inner;quiet;empty;cozy;protected
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,left,free;open;abandoned;wild;unused;distant;clear;quiet;empty;natural
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,north,cold;frozen;distant;wild;polar;northern;vast;snowy;remote;dark
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,outside,cold;bright;open;wet;empty;quiet;sunny;dark;free;vast
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,right,correct;true;just;proper;accurate;lawful;fair;exact;moral;appropriate
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,south,warm;sunny;tropical;distant;coastal;wild;southern;hot;exotic;humid
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Spatial Concepts,west,wild;distant;sunny;coastal;open;western;vast;dry;remote;golden
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,century,past;current;future;long;golden;dark;recent;ancient;modern;forgotten
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;clear;dark;hot;cold;ordinary
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,evening,quiet;cool;long;dark;peaceful;warm;late;beautiful;relaxing;golden
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;dark;golden;final;morning
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,minute,short;last;quick;final;slow;exact;precious;long;waiting;ticking
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;final;early;rainy;sunny
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,morning,early;fresh;bright;cool;quiet;sunny;foggy;busy;clear;peaceful
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,night,dark;long;quiet;cold;starry;late;warm;mysterious;peaceful;short
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,season,long;short;warm;cold;rainy;dry;busy;quiet;final;changing
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,second,short;last;quick;final;precious;exact;slow;waiting;crucial;ticking
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,week,long;short;busy;quiet;final;early;productive;relaxing;full;empty
+grok-3-mini,basic,1.0,BN # Bengali,C1,most frequent,Time Concepts,year,long;short;busy;good;bad;final;new;old;productive;memorable
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,anger,intense;sudden;boiling;deep;suppressed;righteous;blind;explosive;simmering;quiet
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,courage,brave;heroic;steadfast;moral;physical;quiet;foolish;inspiring;unwavering;bold
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,fear,intense;sudden;deep;irrational;overwhelming;primal;hidden;crippling;natural;constant
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,freedom,absolute;hard-won;personal;political;basic;complete;restricted;true;individual;eternal
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,happiness,pure;lasting;simple;deep;sudden;genuine;fleeting;shared;inner;quiet
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,hate,intense;blind;deep;irrational;bitter;enduring;violent;unspoken;cold;growing
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,honesty,absolute;brutal;straightforward;rare;simple;deep;refreshing;natural;painful;unwavering
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,justice,fair;blind;swift;true;social;equal;divine;harsh;balanced;ultimate
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,knowledge,vast;deep;practical;theoretical;ancient;modern;hidden;basic;shared;essential
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,love,deep;pure;unconditional;romantic;enduring;sudden;passionate;quiet;familial;intense
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,peace,lasting;inner;global;fragile;true;quiet;perfect;spiritual;temporary;absolute
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;deep;timeless;simple;hard-earned;spiritual;quiet;natural
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,bell,loud;small;ringing;antique;clear;golden;church;hand-held;broken;decorative
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,candle,lit;flickering;scented;tall;waxen;small;colorful;melted;decorative;simple
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,carpet,soft;woolen;colorful;thick;old;patterned;clean;worn;large;modern
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;small;ancient;gold;silver;foreign;valuable;counterfeit
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;heavy;symbolic;simple;ornate;broken;ceremonial
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,flag,national;waving;colorful;torn;proud;old;symbolic;large;faded;foreign
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,mask,facial;decorative;protective;ancient;colorful;scary;simple;theatrical;hidden;plastic
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,necklace,gold;beaded;simple;elegant;long;antique;colorful;heavy;cheap;jeweled
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,painting,beautiful;old;abstract;colorful;famous;simple;large;detailed;modern;faded
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,ring,gold;simple;diamond;ancient;engraved;small;cheap;wedding;heavy;shiny
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,statue,tall;stone;ancient;bronze;famous;broken;decorative;modern;large;heroic
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Cultural Artifacts,vase,decorative;glass;ancient;colorful;simple;broken;tall;floral;modern;ceramic
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;drifting;low;high;stormy;thin;puffy;gray
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,earthquake,strong;sudden;devastating;minor;violent;deep;rare;shallow;destructive;unpredictable
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,fog,thick;dense;morning;mysterious;cold;light;rolling;damp;eerie;persistent
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,lightning,bright;fast;striking;dangerous;forked;distant;electric;sudden;powerful;silent
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;warm;pouring;gentle;seasonal;relentless;fresh
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,rainbow,colorful;bright;arched;rare;beautiful;faint;double;vivid;fleeting;natural
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,snow,white;fresh;deep;fluffy;cold;melting;heavy;powdery;light;frozen
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,storm,violent;fierce;sudden;massive;tropical;electrical;windy;raging;dark;approaching
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;booming;sudden;frightening;deep;crackling;long;echoing
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;calm;rough;daily;powerful;incoming
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;smoking;ancient;erupting;tall;fiery;destructive
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;northern;eastern;biting
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,apple,red;fresh;juicy;sweet;green;ripe;sour;small;crisp;organic
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,banana,yellow;ripe;fresh;long;sweet;green;soft;peeled;tropical;spotted
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,beef,fresh;tender;lean;grilled;fatty;rare;cooked;organic;tough;ground
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,bread,fresh;soft;warm;sliced;whole-wheat;crusty;toasted;plain;sweet;stale
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,broccoli,fresh;green;steamed;crisp;raw;frozen;organic;tender;boiled;healthy
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,cheese,sharp;soft;hard;creamy;aged;mild;grated;fresh;melted;imported
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,chicken,roasted;fresh;grilled;fried;organic;tender;boneless;spicy;raw;free-range
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,egg,fresh;boiled;fried;large;small;cracked;organic;brown;white;runny
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,fish,fresh;grilled;smoked;raw;large;small;oily;tasty;frozen;wild
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;cheesy;spicy;simple;Italian;boiled;stuffed
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;long-grain;raw;spiced;hot
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Food Items,soup,hot;creamy;vegetable;thick;spicy;clear;homemade;cold;hearty;flavored
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,artist,talented;creative;famous;struggling;dedicated;visionary;local;skilled;modern;inspired
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,athlete,strong;fast;dedicated;professional;young;skilled;injured;competitive;fit;Olympic
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,chef,skilled;famous;creative;professional;young;experienced;talented;busy;innovative;local
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,doctor,skilled;experienced;caring;busy;young;specialist;dedicated;qualified;local;senior
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,engineer,skilled;innovative;experienced;young;dedicated;mechanical;electrical;creative;qualified;busy
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,farmer,hardworking;local;experienced;organic;young;dedicated;rural;skilled;traditional;modern
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,lawyer,skilled;experienced;corporate;dedicated;young;successful;ethical;busy;qualified;criminal
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,musician,talented;famous;young;dedicated;skilled;classical;rock;local;creative;professional
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,scientist,brilliant;dedicated;young;experienced;innovative;research;qualified;busy;theoretical;practical
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,soldier,brave;trained;young;experienced;dedicated;elite;injured;heroic;disciplined;veteran
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,teacher,dedicated;experienced;young;inspiring;skilled;patient;qualified;local;creative;strict
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Human Roles,writer,talented;famous;young;dedicated;skilled;creative;prolific;local;experienced;imaginative
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;educational;fictional;popular;hardcover;cheap
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,bridge,old;long;strong;wooden;stone;modern;high;narrow;crossing;damaged
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;wooden;large;small;traditional;modern;electronic;beaten;shiny
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,earth,green;vast;round;fertile;dry;ancient;living;blue;rocky;mysterious
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,flute,wooden;silver;long;sweet-sounding;small;ancient;modern;melodic;handmade;polished
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,key,small;metal;old;shiny;rusty;spare;modern;locked;simple;electronic
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,knife,sharp;small;large;rusty;clean;kitchen;pocket;dull;metal;wooden-handled
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,lock,old;rusty;secure;modern;electronic;simple;broken;small;heavy;keyless
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,moon,full;bright;crescent;distant;glowing;silver;waxing;waning;mysterious;large
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,pen,black;ink;smooth;cheap;fancy;broken;metallic;colorful;erasable;wooden
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;warm;distant;golden;powerful;midday
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;shiny;ceremonial;wooden;long;rusty;decorated;steel
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,cat,black;fluffy;playful;lazy;wild;domestic;small;striped;clever;old
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,dog,loyal;big;small;friendly;wild;trained;playful;old;barking;furry
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;large;wild;graceful;marine;fast;social;curious;sleek
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,elephant,large;gray;wild;gentle;strong;old;endangered;playful;majestic;intelligent
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,hamster,small;furry;playful;cute;wild;domesticated;fast;brown;nocturnal;active
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,monkey,playful;small;wild;intelligent;brown;agile;noisy;young;curious;social
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,mouse,small;gray;fast;wild;timid;domestic;quiet;clever;young;furry
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,peacock,colorful;proud;wild;large;beautiful;exotic;noisy;graceful;male;shiny
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,rabbit,white;fluffy;fast;wild;domestic;small;playful;brown;cute;timid
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,shark,large;dangerous;fast;wild;gray;predatory;oceanic;aggressive;sleek;ancient
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,snake,long;venomous;wild;green;slippery;coiled;dangerous;small;patterned;silent
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Neutral Animals,whale,large;majestic;wild;blue;gentle;oceanic;singing;endangered;deep-diving;graceful
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,city,busy;large;modern;old;crowded;clean;noisy;historic;vibrant;sprawling
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,desert,dry;vast;sandy;hot;barren;windy;remote;golden;harsh;empty
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,forest,dense;green;ancient;dark;wild;tropical;quiet;vast;lush;mysterious
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,island,small;tropical;remote;beautiful;volcanic;sandy;green;deserted;rocky;large
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,lake,deep;blue;calm;frozen;large;small;clear;fresh;scenic;quiet
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,mountain,tall;snowy;rugged;green;high;ancient;steep;remote;majestic;volcanic
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;mysterious;cold;warm
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,plain,flat;vast;green;dry;fertile;open;windy;empty;grassy;rolling
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,plateau,high;flat;rocky;vast;dry;green;elevated;remote;windy;barren
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,river,wide;deep;flowing;clear;muddy;fast;slow;long;scenic;frozen
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,valley,deep;green;narrow;wide;fertile;hidden;scenic;mountainous;quiet;lush
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Places,village,small;quiet;rural;ancient;simple;coastal;hilly;traditional;remote;charming
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,cactus,spiky;green;tall;small;desert;flowering;hardy;dry;prickly;exotic
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,eggplant,purple;fresh;large;small;ripe;cooked;shiny;bitter;organic;soft
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,flower,beautiful;colorful;fresh;wild;fragrant;small;blooming;wilted;red;exotic
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,grass,green;fresh;tall;short;wet;dry;soft;wild;mowed;lush
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,lettuce,fresh;green;crisp;raw;organic;leafy;wilted;salad;small;sweet
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,mushroom,wild;fresh;small;large;edible;poisonous;white;cooked;damp;earthy
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,onion,fresh;large;small;raw;cooked;spicy;white;red;pungent;organic
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,pepper,hot;fresh;red;green;spicy;small;dried;sweet;ground;flavorful
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,potato,large;small;fresh;baked;boiled;organic;starchy;raw;peeled;yellow
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,rose,red;beautiful;fragrant;fresh;thorny;wild;blooming;white;soft;garden
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,tomato,red;fresh;ripe;juicy;small;large;raw;cooked;organic;sweet
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Plants,tree,tall;green;old;young;leafy;fruit-bearing;shady;dead;strong;ancient
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,ally,strong;faithful;strategic;reliable;helpful;powerful;loyal;close;supportive;international
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,brother,older;younger;loving;protective;annoying;helpful;distant;supportive;fun;responsible
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,enemy,dangerous;sworn;powerful;hidden;bitter;foreign;fierce;old;ruthless;threatening
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,father,loving;strict;busy;wise;young;old;supportive;distant;caring;hardworking
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,follower,loyal;dedicated;blind;faithful;enthusiastic;active;supportive;numerous;quiet;strong
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,friend,true;close;loyal;old;new;helpful;fun;trustworthy;distant;supportive
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,leader,strong;charismatic;wise;effective;young;old;inspiring;democratic;authoritarian;popular
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,mother,loving;caring;busy;wise;young;old;supportive;strict;nurturing;protective
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,partner,reliable;business;romantic;supportive;equal;loyal;professional;creative;trusted;long-term
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,rival,fierce;strong;competitive;old;new;bitter;skilled;corporate;dangerous;worthy
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,sister,younger;older;loving;helpful;annoying;supportive;fun;protective;distant;caring
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Social Relationships,stranger,unknown;mysterious;friendly;dangerous;foreign;helpful;suspicious;tall;quiet;passing
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,above,high;overhead;upper;elevated;superior;clear;distant;bright;floating;vast
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,back,rear;hidden;old;straight;strong;aching;covered;wooden;distant;broad
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,below,low;underground;hidden;deep;inferior;dark;submerged;quiet;cold;vast
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,east,rising;distant;sunny;coastal;ancient;modern;flat;hilly;warm;exotic
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,front,main;forward;open;busy;clean;wide;covered;hidden;strong;decorative
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,inside,hidden;warm;dark;spacious;quiet;empty;cluttered;cozy;secret;secure
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,left,western;free;unused;empty;straight;wide;narrow;hidden;forgotten;cold
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,north,cold;distant;polar;windy;ancient;modern;flat;mountainous;remote;dark
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,outside,bright;cold;wet;open;free;noisy;quiet;vast;green;empty
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,right,correct;straight;moral;eastern;strong;wide;narrow;firm;just;proper
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,south,warm;tropical;coastal;sunny;distant;flat;hilly;modern;ancient;vibrant
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Spatial Concepts,west,wild;distant;coastal;sunny;remote;flat;mountainous;golden;modern;ancient
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,century,past;future;long;short;golden;dark;modern;ancient;prosperous;turbulent
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;lazy;warm;cold;clear;ordinary
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,evening,cool;quiet;long;short;peaceful;busy;warm;dark;relaxing;golden
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,hour,long;short;final;early;late;busy;quiet;productive;wasted;golden
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,minute,short;last;first;quick;slow;precious;wasted;final;early;tense
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;final;starting;festive;dull
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,morning,fresh;early;bright;foggy;quiet;busy;cold;warm;crisp;lazy
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;warm;sleepless;peaceful;mysterious;short
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,season,long;short;warm;cold;rainy;dry;festive;dull;changing;mild
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,second,short;last;first;quick;final;precious;wasted;tense;early;brief
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,week,long;short;busy;quiet;final;starting;productive;relaxing;dull;eventful
+grok-3-mini,basic,1.0,BN # Bengali,C2,most frequent,Time Concepts,year,long;short;busy;quiet;prosperous;difficult;final;new;old;memorable
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;boiling;fierce;suppressed;righteous;simmering
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,courage,brave;bold;heroic;unwavering;great;moral;physical;quiet;foolish;innate
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,fear,intense;sudden;deep;irrational;paralyzing;overwhelming;primal;hidden;constant;gripping
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,freedom,true;complete;absolute;personal;political;hard-won;limited;basic;newfound;total
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;overwhelming;quiet;fleeting;deep;joyful;shared
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,hate,intense;deep;blind;bitter;irrational;enduring;strong;mutual;growing;fierce
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,honesty,absolute;brutal;simple;refreshing;complete;straightforward;rare;genuine;unwavering;pure
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,justice,fair;swift;blind;true;social;equal;divine;poetic;rough;delayed
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;practical;theoretical;ancient;modern;hidden;useful;basic;extensive
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,love,true;deep;unconditional;passionate;enduring;pure;romantic;selfless;young;forbidden
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,peace,lasting;inner;global;quiet;fragile;true;perfect;deep;temporary;absolute
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;great;innate;hard-earned;spiritual;sound;deep
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,bell,loud;ringing;old;golden;small;clear;ancient;brass;church;hand-held
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,candle,lit;flickering;scented;tall;white;melting;decorative;small;beeswax;colored
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;woolen;old;patterned;large;Persian;dirty;new
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;gold;silver;ancient;small;foreign;valuable;counterfeit
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;heavy;jeweled;ancient;ceremonial;simple;stolen;ornate;imperial
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,flag,national;waving;colorful;torn;old;proud;foreign;symbolic;large;faded
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,mask,protective;decorative;scary;wooden;plastic;ancient;full-face;simple;colorful;ritual
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,necklace,golden;pearl;simple;elegant;heavy;antique;beaded;cheap;long;sparkling
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,painting,beautiful;old;abstract;colorful;famous;large;modern;detailed;landscape;portrait
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,ring,golden;diamond;simple;engagement;old;silver;heavy;engraved;cheap;magical
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,statue,grand;ancient;stone;bronze;tall;famous;broken;modern;heroic;detailed
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,vase,antique;glass;decorative;tall;broken;colorful;simple;ceramic;floral;elegant
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;white;dark;stormy;high;drifting;gray;low;puffy;rain-filled
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,earthquake,strong;devastating;sudden;minor;seismic;destructive;frequent;shallow;deep;tectonic
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;morning;eerie;light;coastal;mysterious;cold;rolling;persistent
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,lightning,bright;fast;striking;forked;dangerous;electrical;sudden;distant;vivid;nighttime
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;cold;warm;seasonal;gentle;tropical;relentless
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;faint;spectacular;arched;post-rain;vivid;fleeting;full
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,snow,fresh;heavy;light;falling;deep;powdery;wet;winter;drifting;sparkling
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,storm,fierce;violent;brewing;sudden;tropical;windy;electric;massive;coastal;approaching
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;booming;sudden;echoing;fierce;nighttime;continuous;startling
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,tide,high;low;rising;ebbing;strong;coastal;incoming;outgoing;powerful;daily
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;erupting;massive;dangerous;ancient;fiery;towering;volcanic;smoking
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;howling;cold;warm;steady;gusty;eastern;western;biting
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,apple,red;green;fresh;ripe;juicy;sweet;sour;large;organic;fallen
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,banana,yellow;ripe;green;sweet;long;fresh;peeled;organic;overripe;small
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,beef,fresh;lean;grilled;tender;ground;rare;cooked;organic;fatty;sliced
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,bread,fresh;warm;soft;whole-wheat;sliced;toasted;crusty;homemade;stale;white
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;crisp;frozen;tender;chopped;healthy
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,cheese,sharp;soft;hard;melted;aged;creamy;grated;mild;imported;sliced
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,chicken,grilled;roasted;fresh;organic;fried;tender;boneless;spicy;raw;whole
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;raw;large;brown;white;cracked;organic;scrambled
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,fish,fresh;grilled;smoked;raw;oily;flaky;wild;farmed;frozen;salted
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;whole-wheat;cheesy;sauced;hot;Italian;simple
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;wild;raw;spiced;long-grain
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;thick;clear;spicy;homemade;cold;hearty
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,artist,talented;creative;famous;young;skilled;dedicated;visionary;struggling;local;innovative
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,athlete,strong;fast;skilled;professional;dedicated;young;Olympic;injured;competitive;fit
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,chef,skilled;famous;creative;professional;young;talented;busy;innovative;experienced;local
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,doctor,skilled;experienced;dedicated;young;busy;compassionate;senior;specialist;local;trustworthy
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,engineer,skilled;creative;experienced;young;innovative;mechanical;electrical;dedicated;professional;talented
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,farmer,hard-working;local;experienced;young;dedicated;organic;rural;skilled;busy;traditional
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,lawyer,sharp;experienced;successful;young;dedicated;corporate;defense;local;ethical;busy
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,musician,talented;famous;young;skilled;creative;classical;rock;dedicated;local;innovative
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,scientist,brilliant;dedicated;experienced;young;innovative;research;environmental;medical;talented;curious
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,soldier,brave;trained;young;disciplined;experienced;loyal;elite;wounded;active;heroic
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,teacher,dedicated;experienced;young;inspiring;patient;skilled;local;passionate;strict;creative
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Human Roles,writer,talented;famous;young;creative;dedicated;prolific;local;experienced;fictional;poetic
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;educational;fictional;hardcover;popular;rare
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,bridge,old;long;wooden;stone;modern;high;suspended;busy;ancient;collapsing
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,drums,loud;wooden;rhythmic;large;small;traditional;electronic;tuned;tribal;professional
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,earth,green;vast;fertile;dry;spinning;ancient;blue;solid;rocky;living
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;sweet-sounding;small;ancient;modern;handmade;professional;tuned;decorative
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,key,small;metal;old;rusty;spare;electronic;golden;lost;modern;skeleton
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,knife,sharp;old;rusty;kitchen;pocket;hunting;metal;dull;clean;decorative
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,lock,old;rusty;secure;modern;electronic;broken;metal;simple;padlock;combination
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,moon,full;bright;crescent;distant;waxing;waning;silver;glowing;nightly;mysterious
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,pen,black;ink;old;new;fountain;ballpoint;cheap;elegant;broken;colorful
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;golden;midday;warm;distant;summer;shining
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;metal;long;decorative;ceremonial;rusty;magical;knightly;broken
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,cat,black;white;fluffy;stray;domestic;wild;playful;old;young;lazy
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,dog,loyal;big;small;friendly;stray;trained;wild;old;young;barking
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,dolphin,playful;intelligent;marine;wild;captive;graceful;large;social;jumping;endangered
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,elephant,large;gray;wild;tame;endangered;strong;old;young;majestic;trunked
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,hamster,small;furry;playful;pet;wild;caged;brown;fast;nocturnal;cute
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,monkey,playful;wild;small;clever;jungle;trained;noisy;young;old;furry
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,mouse,small;gray;wild;pet;timid;fast;nocturnal;trapped;furry;sneaky
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,peacock,colorful;proud;wild;captive;majestic;large;feathered;noisy;beautiful;royal
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,rabbit,white;fluffy;wild;pet;fast;small;hopping;young;old;timid
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,shark,dangerous;large;marine;fast;predatory;wild;gray;toothy;deep-sea;solitary
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,snake,long;poisonous;wild;pet;slithery;green;coiled;dangerous;small;venomous
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Neutral Animals,whale,massive;marine;wild;endangered;blue;singing;deep-sea;graceful;large;migratory
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,city,busy;large;modern;old;crowded;coastal;industrial;historic;vibrant;polluted
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,desert,hot;dry;vast;sandy;barren;remote;golden;harsh;endless;rocky
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,forest,dense;green;ancient;tropical;dark;quiet;vast;wild;rainy;peaceful
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,island,tropical;small;remote;volcanic;deserted;green;sunny;rocky;large;coastal
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,lake,deep;blue;calm;frozen;large;small;freshwater;scenic;clear;polluted
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,mountain,high;snowy;rugged;tall;ancient;green;volcanic;majestic;steep;remote
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,ocean,vast;deep;blue;stormy;calm;saltwater;endless;mysterious;tropical;cold
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,plain,flat;vast;green;dry;grassy;open;fertile;endless;rural;windswept
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;ancient;scenic;remote;grassy
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,river,wide;deep;flowing;muddy;clear;fast;slow;winding;ancient;polluted
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,valley,deep;green;fertile;narrow;wide;scenic;remote;hidden;mountainous;peaceful
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Places,village,small;quiet;rural;ancient;coastal;fishing;mountain;traditional;peaceful;remote
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,cactus,spiky;green;desert;tall;small;flowering;wild;potted;hardy;prickly
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,eggplant,purple;fresh;large;small;ripe;cooked;organic;shiny;grilled;firm
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,flower,beautiful;colorful;fresh;wild;blooming;scented;red;small;garden;wilting
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,grass,green;tall;short;wet;dry;wild;lawn;soft;overgrown;fresh
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,lettuce,fresh;green;crisp;organic;leafy;raw;chopped;salad;wilted;healthy
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,mushroom,wild;edible;poisonous;small;large;fresh;dried;brown;white;fungi
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,onion,fresh;raw;chopped;sweet;strong;organic;small;large;peeled;fried
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,pepper,hot;sweet;fresh;red;green;sliced;spicy;organic;dried;crunchy
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,potato,fresh;baked;boiled;raw;large;small;organic;peeled;fried;starchy
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,rose,red;beautiful;thorny;fresh;blooming;scented;wild;garden;white;delicate
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,tomato,red;fresh;ripe;juicy;organic;small;large;sliced;raw;vine-ripened
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Plants,tree,tall;old;green;shady;fruit-bearing;ancient;young;leafy;bare;mighty
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,ally,strong;reliable;faithful;strategic;close;trusted;powerful;foreign;helpful;loyal
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,brother,older;younger;loving;protective;close;distant;caring;mischievous;supportive;estranged
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,enemy,sworn;fierce;bitter;foreign;dangerous;powerful;hidden;old;ruthless;common
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,father,loving;strict;caring;absent;proud;wise;young;hardworking;supportive;distant
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;faithful;blind;enthusiastic;strong;mass;religious;political;obedient
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,friend,close;true;old;new;loyal;reliable;fun;supportive;distant;childhood
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,leader,strong;charismatic;wise;effective;inspirational;authoritarian;young;old;democratic;visionary
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,mother,loving;caring;strict;protective;busy;young;old;supportive;nurturing;absent
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,partner,reliable;business;life;equal;supportive;trusted;romantic;professional;distant;loyal
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,rival,fierce;bitter;strong;corporate;sports;old;new;dangerous;competitive;worthy
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,sister,older;younger;loving;protective;close;distant;caring;supportive;playful;estranged
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Social Relationships,stranger,mysterious;unknown;dangerous;friendly;passing;foreign;helpful;suspicious;wandering;odd
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,above,high;overhead;upper;skyward;elevated;superior;northern;distant;bright;clear
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,back,rear;hidden;lower;old;straight;sore;distant;wooden;dark;secret
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,below,low;underground;sub;deep;hidden;inferior;southern;dark;wet;secret
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,east,far;rising;coastal;ancient;sunny;distant;eastern;flat;green;mysterious
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,front,main;forward;open;busy;leading;visible;direct;clean;wide;public
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,inside,inner;hidden;warm;dark;secure;private;cozy;quiet;enclosed;secret
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,left,western;abandoned;unused;dark;hidden;free;sharp;quick;sudden;empty
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,north,far;cold;polar;upper;distant;green;windy;ancient;vast;frozen
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,outside,outer;cold;bright;public;exposed;rainy;windy;distant;free;natural
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,right,correct;eastern;straight;quick;moral;legal;dominant;sharp;absolute;true
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,south,far;warm;tropical;lower;distant;sunny;coastal;vast;green;humid
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,west,far;wild;coastal;sunset;distant;rugged;ancient;dry;vast;golden
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,century,past;future;golden;dark;recent;ancient;modern;turbulent;prosperous;forgotten
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,day,sunny;rainy;long;short;busy;lazy;clear;dark;hot;cold
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,evening,calm;quiet;cool;long;romantic;dark;peaceful;busy;golden;misty
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;golden;dark;final;waiting
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,minute,last;final;short;waiting;precise;golden;quiet;busy;early;late
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,month,long;short;busy;quiet;final;early;wet;dry;festive;cold
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,morning,fresh;early;bright;foggy;quiet;busy;cold;warm;golden;crisp
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;warm;restless;peaceful;moonlit;endless
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,season,long;short;wet;dry;festive;busy;quiet;cold;warm;changing
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,second,last;final;quick;short;long;precise;golden;waiting;quiet;busy
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;final;early;festive;working;relaxing;eventful
+grok-3-mini,basic,1.0,BN # Bengali,Perfect,most frequent,Time Concepts,year,long;short;busy;quiet;final;early;festive;prosperous;challenging;memorable

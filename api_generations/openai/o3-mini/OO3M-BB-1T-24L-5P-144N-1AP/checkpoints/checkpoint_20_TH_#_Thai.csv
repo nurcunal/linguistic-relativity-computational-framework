@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,anger,big;strong;deep;hot;wild;sharp;quick;heavy;fast;burning
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,courage,brave;strong;bold;firm;true;great;pure;honest;clear;steady
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,fear,scary;deep;dark;cold;high;strong;real;sharp;sudden;heavy
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,freedom,free;open;clear;big;wide;true;pure;safe;warm;real
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,happiness,happy;bright;warm;good;clear;deep;strong;pure;calm;soft
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,hate,deep;dark;strong;bad;cold;sharp;fierce;wild;heavy;bitter
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,honesty,true;pure;clear;real;fair;good;strong;kind;bright;direct
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,justice,fair;true;clear;strong;good;real;brave;kind;pure;direct
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,knowledge,deep;vast;true;clear;good;real;broad;rich;old;open
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,love,deep;true;pure;warm;soft;kind;good;strong;real;sweet
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,peace,calm;quiet;deep;clear;pure;soft;true;good;safe;warm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,wisdom,old;deep;true;clear;good;real;broad;kind;wise;rich
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,bell,round;small;old;clear;high;loud;bright;real;neat;good
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,candle,small;light;bright;soft;warm;old;clear;neat;calm;fragile
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,carpet,soft;thick;clean;bright;neat;warm;new;rich;deep;long
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,coin,small;old;round;bright;pure;clear;neat;thin;real;new
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,crown,gold;bright;rich;old;neat;clear;new;strong;royal;small
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,flag,red;blue;bright;neat;clear;old;true;strong;bold;wide
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,mask,old;dark;neat;clear;white;true;bold;new;strong;plain
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,necklace,gold;bright;neat;clear;small;pure;rich;old;true;fine
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,painting,colorful;old;neat;clear;bright;deep;true;good;soft;rich
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,ring,small;bright;gold;neat;clear;pure;round;old;true;rich
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,statue,old;big;strong;clear;neat;pure;true;deep;rich;bold
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,vase,small;old;neat;clear;bright;pure;fine;real;big;round
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,cloud,white;soft;high;bright;light;round;pure;calm;deep;thin
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,earthquake,big;strong;deep;rough;fast;hard;loud;dark;wild;sudden
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,fog,thick;light;deep;dark;soft;cold;clear;slow;pure;heavy
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,lightning,fast;bright;sharp;strong;clear;deep;wild;high;sudden;hot
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,rain,wet;cold;light;strong;deep;soft;dark;long;heavy;clear
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,rainbow,bright;colorful;neat;clear;true;soft;deep;long;high;pure
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;light;deep;pure;neat;bright;slow;thick
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,storm,strong;fast;dark;loud;deep;wild;rough;heavy;cold;intense
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,thunder,loud;deep;strong;fast;dark;rough;heavy;clear;wild;long
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,tide,high;low;strong;deep;fast;rough;dark;smooth;wild;clear
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,volcano,big;hot;strong;deep;dark;rough;wild;high;old;loud
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,wind,strong;cold;deep;fast;soft;wild;clear;high;pure;rough
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,apple,red;big;sweet;fresh;green;round;crisp;soft;pure;good
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,banana,yellow;long;sweet;soft;ripe;fresh;curved;good;bright;small
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,beef,red;raw;good;fresh;lean;soft;rich;deep;strong;tasty
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,bread,fresh;soft;good;brown;white;neat;thick;warm;old;tasty
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,broccoli,green;fresh;good;small;neat;crisp;rich;soft;new;raw
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,cheese,yellow;white;soft;good;fresh;rich;neat;strong;mild;old
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,chicken,white;fresh;good;tasty;raw;neat;soft;hot;deep;rich
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,egg,small;white;fresh;good;raw;neat;round;soft;high;brown
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,fish,fresh;good;small;wild;soft;neat;raw;bright;deep;tasty
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,pasta,long;soft;good;fresh;neat;warm;tasty;clear;rich;light
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,rice,white;good;small;neat;soft;fresh;pure;light;tasty;rich
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,soup,hot;warm;good;fresh;deep;soft;rich;neat;thick;tasty
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,artist,creative;good;bold;true;neat;kind;strong;real;smart;brave
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,athlete,strong;fast;brave;good;neat;bold;true;quick;smart;clear
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,chef,good;neat;bold;fast;kind;strong;real;smart;nice;true
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,doctor,good;kind;smart;neat;strong;brave;clear;true;calm;warm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,engineer,good;smart;neat;strong;clear;bold;true;kind;deep;brave
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,farmer,good;strong;kind;neat;brave;hard;true;rich;old;real
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,lawyer,smart;good;fair;strong;bold;real;neat;true;kind;wise
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,musician,good;creative;bold;neat;true;smart;kind;strong;deep;nice
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,scientist,smart;good;deep;true;neat;bold;strong;kind;clear;real
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,soldier,brave;strong;good;neat;bold;true;fast;smart;kind;clear
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,teacher,kind;good;smart;true;neat;clear;strong;brave;real;fair
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,writer,good;neat;smart;true;kind;fresh;bold;deep;clear;real
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,book,old;good;neat;deep;clear;true;rich;bright;simple;plain
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,bridge,long;strong;old;big;neat;clear;good;deep;wide;true
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,drums,loud;deep;strong;good;fast;neat;bright;bold;rough;clear
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,earth,old;big;deep;rich;green;round;strong;good;clear;true
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,flute,small;soft;clear;good;neat;bright;pure;old;deep;sweet
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,key,small;old;neat;bright;good;clear;true;strong;pure;fine
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,knife,sharp;old;good;neat;clear;strong;true;bright;hard;pure
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,lock,old;strong;neat;good;clear;true;tight;deep;bold;safe
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,moon,bright;round;old;clear;pure;deep;soft;good;high;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,pen,small;neat;good;clear;bright;warm;deep;real;true;soft
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,sun,bright;hot;big;strong;clear;warm;good;deep;bold;high
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,sword,sharp;long;strong;true;good;neat;bright;clear;brave;hard
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,cat,small;cute;soft;neat;quick;good;bright;calm;smart;kind
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,dog,big;loyal;good;friendly;strong;smart;neat;brave;soft;true
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,dolphin,smart;fast;good;kind;neat;clear;deep;bright;strong;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,elephant,big;strong;old;good;kind;neat;deep;smart;calm;heavy
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,hamster,small;cute;soft;neat;quick;good;bright;kind;tiny;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,monkey,funny;small;smart;quick;good;neat;bright;wild;kind;bold
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,mouse,small;quick;neat;good;soft;shy;kind;calm;true;light
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,peacock,colorful;bright;neat;strong;good;bold;nice;proud;true;rich
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,rabbit,small;cute;quick;soft;good;neat;kind;bright;warm;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,shark,big;strong;fast;wild;deep;dark;good;neat;clear;bold
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,snake,long;slim;dark;sneaky;good;neat;quick;strong;deep;cold
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,whale,big;strong;deep;old;good;slow;neat;calm;warm;clear
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,city,big;busy;old;clear;neat;rich;strong;deep;wide;good
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,desert,hot;dry;big;clear;old;neat;deep;wide;harsh;pure
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,forest,green;big;deep;old;rich;dark;neat;calm;quiet;cool
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,island,small;green;quiet;neat;deep;good;bright;rich;old;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,lake,big;deep;clear;calm;blue;pure;quiet;cool;still;bright
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,mountain,big;high;old;deep;strong;clear;steep;rich;good;tall
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,ocean,big;deep;blue;strong;clear;rich;wild;rough;calm;old
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,plain,big;flat;old;clear;neat;rich;deep;wide;good;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,plateau,high;old;big;deep;clear;strong;neat;rich;wide;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,river,long;deep;clear;fast;strong;wide;calm;good;bright;pure
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,valley,deep;green;wide;old;quiet;cool;dark;neat;rich;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,village,small;quiet;neat;old;good;deep;rich;calm;clear;warm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,cactus,green;small;sharp;good;old;neat;dry;plain;deep;wild
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,eggplant,purple;deep;good;neat;rich;fresh;soft;small;clear;bright
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,flower,small;bright;fresh;good;neat;red;pure;soft;clear;sweet
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,grass,green;soft;small;neat;deep;fresh;good;pure;cool;bright
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,lettuce,green;fresh;small;neat;good;soft;clear;deep;crisp;raw
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,mushroom,small;brown;good;neat;soft;fresh;deep;pure;rich;old
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,onion,small;strong;white;good;neat;raw;deep;sharp;fresh;clear
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,pepper,red;hot;small;good;neat;fresh;deep;clear;raw;bold
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,potato,brown;good;small;neat;fresh;deep;soft;rich;old;plain
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,rose,red;bright;soft;good;neat;pure;sweet;fresh;deep;small
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,tomato,red;round;fresh;good;neat;soft;ripe;clear;pure;bright
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,tree,big;old;green;tall;strong;neat;deep;rich;good;wide
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,ally,true;kind;good;strong;neat;brave;calm;real;clear;close
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,brother,kind;good;true;strong;neat;brave;close;real;warm;smart
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,enemy,bad;dark;cold;strong;wild;deep;harsh;true;sharp;clear
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,father,old;kind;strong;true;good;neat;calm;warm;deep;brave
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,follower,good;true;kind;neat;brave;strong;real;close;smart;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,friend,kind;good;true;close;neat;warm;brave;real;smart;clear
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,leader,strong;true;good;brave;neat;kind;bold;smart;clear;real
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,mother,old;kind;good;true;warm;neat;calm;strong;brave;soft
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,partner,good;true;neat;kind;warm;close;nice;strong;deep;real
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,rival,strong;bad;close;dark;true;neat;fast;bold;cold;clear
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,sister,kind;good;true;neat;close;warm;brave;real;smart;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,stranger,new;unknown;good;clear;bright;neat;small;kind;deep;real
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,above,high;clear;true;good;neat;bright;deep;strong;open;long
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,back,strong;deep;old;good;clear;neat;wide;close;true;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,below,low;deep;small;good;neat;clear;quiet;true;calm;dark
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,east,true;bright;warm;clear;neat;calm;good;deep;simple;bold
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,front,clear;bright;strong;neat;good;deep;bold;rich;true;wide
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,inside,deep;clear;small;neat;good;warm;close;true;calm;bright
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,left,small;neat;good;clear;deep;bold;strong;true;close;light
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,north,cold;clear;deep;strong;good;neat;true;bright;high;dark
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,outside,open;clear;broad;good;neat;warm;deep;bright;true;high
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,right,true;good;neat;clear;deep;strong;bold;smart;bright;close
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,south,warm;clear;deep;good;strong;neat;true;bright;rich;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,west,clear;bright;deep;strong;good;neat;rich;true;calm;open
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,century,long;old;deep;clear;good;neat;strong;true;bold;warm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,day,bright;long;good;clear;warm;neat;strong;deep;true;lively
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,evening,calm;cool;dark;neat;good;clear;soft;deep;true;warm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,hour,short;long;good;neat;clear;deep;true;fast;bold;fair
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,minute,small;short;neat;good;clear;deep;true;quick;calm;bright
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,month,long;true;good;neat;clear;deep;warm;bright;rich;calm
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,morning,bright;clear;calm;good;early;neat;warm;fresh;deep;true
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,night,dark;calm;cool;quiet;clear;deep;good;neat;true;soft
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,season,cold;warm;good;neat;deep;clear;bright;true;rich;mild
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,second,short;quick;good;neat;clear;deep;true;fast;calm;bright
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,week,long;good;neat;clear;deep;true;calm;warm;bright;real
+o3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,year,long;old;good;deep;true;neat;bright;warm;clear;rich
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,anger,strong;intense;hot;deep;bitter;fierce;rapid;wild;sudden;uncontrolled
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,courage,brave;bold;heroic;strong;steadfast;determined;true;noble;confident;resilient
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,fear,deep;strong;silent;obvious;real;sudden;crippling;endless;irrational;dark
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,freedom,free;absolute;open;clear;true;pure;simple;unlimited;independent;precious
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,happiness,joyful;bright;real;true;lasting;simple;warm;pure;nice;shining
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,hate,intense;deep;bitter;cold;harsh;fierce;raw;extreme;vivid;burning
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,honesty,honest;open;sincere;true;direct;clear;real;pure;simple;fair
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,justice,fair;equal;true;clear;proper;firm;steady;real;balanced;strict
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,knowledge,deep;broad;clear;real;vast;basic;simple;true;complete;solid
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,love,deep;true;pure;warm;strong;kind;real;bright;tender;gentle
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,peace,calm;quiet;clear;deep;simple;true;safe;steady;pleasant;gentle
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,wisdom,deep;true;old;pure;clear;simple;vast;calm;solid;lasting
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,bell,small;round;loud;clear;old;bright;heavy;simple;pure;soft
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,candle,small;bright;soft;clear;real;warm;old;pure;steady;simple
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,carpet,soft;warm;bright;clean;old;thick;smooth;rich;simple;colorful
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,coin,small;round;old;shiny;metal;clear;pure;bright;simple;rare
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,crown,royal;golden;bright;proud;rich;pure;strong;classic;elegant;high
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,flag,red;blue;bright;bold;strong;clear;true;simple;pure;proud
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,mask,dark;plain;smooth;old;soft;clear;simple;hidden;true;worn
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,necklace,pretty;small;bright;rich;true;pure;old;simple;neat;shiny
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,painting,bright;vivid;rich;clear;deep;true;fine;simple;old;lovely
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,ring,small;round;bright;clear;pure;rich;strong;simple;neat;old
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,statue,tall;strong;old;pure;solid;smooth;clear;true;bold;neat
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,vase,small;clear;bright;pure;smooth;old;neat;rich;fine;simple
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,cloud,white;soft;high;light;fluffy;dark;cool;gray;clear;calm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,earthquake,strong;deep;sudden;fierce;big;raw;true;wild;heavy;real
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,fog,thick;dense;deep;soft;low;gray;cold;light;pure;heavy
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,lightning,bright;fast;strong;sudden;clear;wild;sharp;real;electric;quick
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,rain,soft;heavy;cold;warm;strong;clear;real;deep;light;steady
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,rainbow,bright;colorful;clear;rich;true;rare;lovely;simple;soft;wide
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,snow,white;soft;cold;deep;light;pure;thick;fresh;clear;quiet
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,storm,strong;wild;deep;dark;true;fast;loud;heavy;fierce;sudden
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,thunder,loud;deep;strong;clear;fast;wild;heavy;booming;true;sudden
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,tide,high;low;strong;deep;steady;clear;real;wild;pure;constant
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,volcano,hot;deep;strong;big;wild;fierce;sudden;active;raw;dangerous
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,wind,strong;soft;cold;warm;deep;clear;fast;wild;pure;steady
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,apple,red;fresh;sweet;crisp;round;ripe;small;pure;bright;juicy
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;fresh;pure;bright;firm;smooth
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,beef,red;fresh;raw;rich;lean;pure;good;tender;strong;heavy
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,bread,warm;fresh;soft;dry;tasty;good;pure;simple;light;rich
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,broccoli,green;fresh;healthy;crisp;raw;pure;small;firm;bright;good
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,cheese,yellow;soft;rich;fresh;pure;old;good;mild;tasty;smooth
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,chicken,fresh;warm;good;tender;rich;pure;soft;light;juicy;tasty
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,egg,small;fresh;white;oval;raw;good;pure;simple;neat;whole
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,fish,fresh;small;rich;good;soft;pure;real;clean;light;tasty
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,pasta,soft;tasty;rich;fresh;good;neat;plain;smooth;light;simple
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,rice,white;neat;small;soft;fresh;pure;good;firm;light;plain
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,soup,warm;rich;good;fresh;clear;soft;deep;tasty;pure;simple
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,artist,creative;smart;kind;bold;true;strong;neat;lively;bright;original
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,athlete,strong;fast;good;brave;bold;agile;true;fit;quick;tough
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,chef,good;smart;strong;neat;creative;kind;clear;fresh;pure;brave
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,doctor,kind;good;smart;strong;true;clear;calm;neat;brave;careful
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,engineer,smart;good;true;strong;clear;neat;bright;careful;creative;solid
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,farmer,hard;good;strong;kind;true;neat;fresh;simple;brave;honest
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,lawyer,smart;good;fair;strong;true;clear;neat;bold;kind;calm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,musician,creative;smart;kind;bold;true;neat;strong;fresh;deep;lively
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,scientist,smart;good;strong;clear;neat;true;bold;deep;careful;solid
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,soldier,brave;strong;good;bold;true;clear;neat;fast;tough;loyal
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,teacher,kind;smart;good;clear;true;neat;brave;fair;strong;patient
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,writer,creative;smart;kind;bold;true;neat;clear;deep;good;original
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,book,old;clear;neat;deep;rich;simple;true;good;bright;plain
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,bridge,long;strong;clear;firm;neat;old;deep;wide;true;tall
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,drums,loud;deep;strong;clear;bold;pure;fast;neat;raw;heavy
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,earth,round;old;deep;true;rich;strong;clear;warm;pure;vast
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,flute,soft;clear;bright;neat;pure;old;simple;gentle;smooth;light
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,key,small;old;strong;clear;neat;pure;bright;simple;true;firm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,knife,sharp;strong;clear;neat;true;small;pure;bright;fine;old
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,lock,strong;old;clear;neat;secure;pure;firm;real;tight;solid
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,moon,bright;round;clear;deep;pure;calm;soft;neat;old;true
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,pen,small;neat;clear;good;strong;bright;pure;smooth;simple;true
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,sun,bright;hot;clear;strong;deep;pure;golden;neat;warm;true
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,sword,sharp;strong;bright;clear;true;firm;bold;old;pure;long
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,cat,small;cute;soft;neat;quick;smart;true;kind;calm;agile
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,dog,loyal;good;strong;kind;bright;neat;fast;true;soft;brave
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,dolphin,smart;kind;fast;true;bright;neat;playful;strong;deep;gentle
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,elephant,big;strong;old;kind;true;loud;deep;neat;heavy;wise
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,hamster,small;cute;fast;neat;pure;kind;soft;quick;little;bright
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,monkey,smart;quick;playful;kind;fun;true;neat;bold;agile;lively
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,mouse,small;quick;neat;pure;kind;soft;true;light;cute;tiny
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,peacock,bright;beautiful;rich;bold;true;neat;clear;lovely;graceful;pure
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,rabbit,small;soft;quick;cute;neat;kind;pure;light;true;lovely
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,shark,strong;big;fierce;fast;true;deep;bold;raw;pure;wild
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,snake,long;slim;fast;bold;true;cold;pure;slick;quiet;dark
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,whale,big;deep;strong;slow;true;pure;old;grand;calm;vast
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,city,big;busy;bright;clear;rich;old;strong;neat;true;modern
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,desert,hot;dry;vast;empty;true;old;deep;strong;pure;silent
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,forest,green;deep;dark;old;rich;wild;true;quiet;pure;thick
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,island,small;green;quiet;deep;pure;rich;old;warm;neat;true
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,lake,deep;clear;pure;calm;fresh;bright;strong;cool;old;still
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,mountain,high;steep;old;strong;deep;true;vast;pure;grand;clear
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,ocean,deep;vast;blue;strong;wild;clear;true;rich;pure;cold
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,plain,wide;open;flat;clear;deep;true;simple;pure;neat;quiet
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,plateau,high;flat;broad;clear;deep;true;vast;pure;open;strong
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,river,long;deep;strong;clear;fast;wide;pure;true;fresh;bold
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,valley,low;deep;green;wide;clear;true;pure;quiet;soft;calm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,village,small;quiet;neat;old;true;rich;simple;pure;kind;calm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,cactus,green;sharp;small;tough;dry;true;strong;neat;pure;old
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,eggplant,purple;dark;rich;fresh;neat;pure;soft;raw;true;smooth
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,flower,bright;pretty;fresh;pure;sweet;soft;small;true;neat;colorful
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,grass,green;soft;fresh;neat;pure;light;small;true;clear;thick
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,lettuce,green;fresh;crisp;pure;neat;soft;rich;clear;true;small
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,mushroom,small;brown;fresh;neat;pure;rich;soft;true;round;firm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,onion,strong;white;fresh;sharp;rich;neat;pure;deep;soft;clear
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,pepper,red;hot;fresh;bright;strong;neat;pure;deep;raw;bold
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,potato,brown;white;soft;warm;rich;neat;pure;deep;fresh;firm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,rose,red;bright;soft;sweet;pure;fresh;neat;true;lovely;deep
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,tomato,red;fresh;ripe;soft;bright;neat;pure;true;rich;sweet
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,tree,tall;green;old;strong;wide;deep;pure;neat;true;rich
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,ally,true;strong;kind;good;fair;brave;smart;neat;loyal;bold
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,brother,kind;true;good;strong;brave;smart;neat;warm;close;loyal
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,enemy,strong;bitter;cruel;dark;harsh;bold;mean;cold;raw;fierce
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,father,strong;kind;wise;true;good;brave;old;neat;deep;clear
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,follower,true;good;kind;neat;loyal;brave;smart;strong;simple;bold
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,friend,kind;true;good;close;warm;neat;brave;smart;clear;happy
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,leader,strong;brave;true;kind;smart;good;bold;rich;fair;clear
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,mother,kind;true;good;strong;warm;wise;brave;neat;deep;close
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,partner,true;kind;good;strong;close;neat;brave;smart;loyal;fair
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,rival,strong;bold;fierce;true;harsh;mean;brave;clear;tough;raw
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,sister,kind;true;good;close;warm;neat;brave;smart;pretty;loyal
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,stranger,unknown;new;clear;true;cold;neat;brief;kind;plain;shy
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,above,high;clear;bright;true;vast;deep;pure;open;neat;wide
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,back,strong;true;neat;firm;deep;plain;clear;pure;bold;wide
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,below,low;deep;true;clear;pure;small;neat;wide;hard;calm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,east,bright;true;clear;warm;neat;pure;strong;fresh;calm;vast
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,front,clear;strong;neat;true;bold;bright;open;pure;deep;wide
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,inside,close;deep;pure;clear;true;neat;warm;small;calm;quiet
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,left,clear;neat;true;bold;pure;strong;deep;close;open;firm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,north,cold;clear;bright;true;deep;pure;strong;neat;vast;sharp
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,outside,open;clear;broad;true;strong;bright;free;neat;pure;vast
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,right,true;clear;neat;strong;pure;close;bold;firm;bright;correct
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,south,warm;bright;true;clear;strong;neat;pure;deep;soft;kind
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,west,clear;bright;true;strong;neat;pure;bold;deep;wide;open
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,century,long;old;deep;true;great;vast;rich;strong;clear;simple
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,day,bright;long;clear;warm;true;good;neat;pure;fresh;happy
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,evening,calm;cool;deep;true;quiet;neat;soft;pure;clear;warm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,hour,short;long;clear;true;neat;pure;deep;fast;good;brief
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,minute,short;quick;clear;neat;true;pure;deep;small;light;fast
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,month,long;old;deep;true;clear;neat;pure;rich;bright;calm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,morning,bright;fresh;clear;true;early;neat;pure;calm;warm;simple
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,night,dark;cool;deep;true;calm;quiet;neat;pure;soft;long
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,season,long;true;clear;neat;pure;rich;deep;warm;good;bright
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,second,short;quick;clear;neat;true;pure;small;fast;brief;light
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,week,long;busy;true;clear;neat;pure;deep;good;rich;calm
+o3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,year,long;old;rich;deep;true;clear;neat;pure;good;bright
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,anger,intense;powerful;boiling;explosive;uncontrollable;deep;burning;fierce;sudden;irrational
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,courage,brave;bold;strong;valiant;daring;resilient;determined;heroic;steadfast;noble
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,fear,intense;overwhelming;paralyzing;deep;sudden;irrational;gripping;pervasive;haunting;chilling
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,freedom,absolute;complete;undeniable;boundless;independent;valuable;infinite;refreshing;vital;pure
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,happiness,joyful;bright;serene;warm;genuine;uplifting;cheerful;blissful;radiant;contagious
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,hate,intense;burning;deep;bitter;blind;extreme;strong;destructive;fierce;consuming
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,honesty,sincere;true;genuine;frank;direct;open;clear;reliable;principled;authentic
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,justice,fair;unbiased;equal;balanced;impartial;righteous;lawful;deserved;proper;strict
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,knowledge,vast;deep;extensive;insightful;comprehensive;accurate;reliable;rich;solid;scholarly
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,love,deep;true;enduring;pure;passionate;caring;gentle;unconditional;warm;tender
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,peace,calm;quiet;serene;gentle;lasting;pure;deep;stable;harmonious;refreshing
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,wisdom,profound;deep;timeless;insightful;practical;wise;enduring;mature;clear;ancient
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,bell,ringing;metallic;loud;clear;polished;shiny;small;bronze;resonant;delicate
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,candle,flickering;small;bright;delicate;soft;glowing;warm;scented;traditional;slender
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,carpet,soft;colorful;thick;warm;woven;plush;durable;patterned;elegant;cozy
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,coin,metallic;round;shiny;old;rare;small;valuable;stamped;collectible;simple
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,crown,royal;golden;jeweled;majestic;ornate;impressive;brilliant;heavy;symbolic;distinguished
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,flag,vibrant;national;colorful;bold;symbolic;waving;proud;strong;iconic;revered
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,mask,mysterious;dark;decorative;anonymous;plain;striking;unusual;artistic;ancient;fragile
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,necklace,elegant;delicate;shiny;beautiful;intricate;precious;stylish;graceful;ornate;lustrous
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,painting,vivid;colorful;detailed;expressive;classical;modern;beautiful;creative;inspiring;timeless
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,ring,small;circular;elegant;shiny;precious;golden;silver;delicate;intricate;timeless
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,statue,majestic;ancient;carved;towering;intricate;lifelike;solemn;classic;enduring;revered
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,vase,fragile;decorative;beautiful;elegant;antique;unique;refined;simple;artistic;smooth
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,cloud,fluffy;white;soft;light;drifting;dark;vast;serene;ethereal;high
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,earthquake,powerful;sudden;strong;devastating;violent;massive;rare;severe;unpredictable;destructive
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,fog,dense;thick;mysterious;eerie;chilling;low;white;damp;swirling;heavy
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;intense;fast;sharp;deadly;electric;rapid;dazzling
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,rain,heavy;gentle;soft;constant;steady;light;refreshing;cold;warm;sudden
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,rainbow,colorful;vivid;bright;beautiful;rare;striking;luminous;gentle;magical;clear
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;fresh;powdery;silent;gentle;thick
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,storm,violent;heavy;fierce;sudden;intense;powerful;dark;raging;wild;turbulent
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,thunder,loud;deep;rolling;booming;distant;resounding;sudden;powerful;rumbling;impressive
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,tide,powerful;strong;high;low;constant;regular;unstoppable;rhythmic;rising;changing
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,volcano,active;dangerous;fiery;eruptive;massive;ancient;towering;burning;volatile;remote
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;fierce;fast;harmful;soft;breezy;swirling
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,apple,red;juicy;sweet;fresh;crisp;round;ripe;healthy;delicious;crunchy
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;fresh;curved;firm;tropical;smooth;appealing
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,beef,tender;lean;fresh;savory;rich;juicy;hearty;flavorful;robust;delicious
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,bread,fresh;soft;warm;crusty;dense;tasty;homemade;golden;light;aromatic
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,broccoli,fresh;green;crisp;healthy;tender;vibrant;nutritious;raw;cooked;delicious
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,cheese,creamy;sharp;soft;aged;fresh;tangy;delicious;rich;mild;smooth
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,chicken,tender;juicy;fresh;flavorful;cooked;roasted;crispy;savory;lean;delicious
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,egg,fresh;organic;raw;hard-boiled;soft;scrambled;small;white;brown;nutritious
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,fish,fresh;flaky;tender;savory;mild;oily;raw;cooked;delicate;delicious
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,pasta,cooked;fresh;warm;soft;tasty;classic;traditional;simple;hearty;delicious
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,rice,steamed;white;hot;fresh;soft;aromatic;plain;long;sticky;versatile
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,soup,warm;hot;tasty;hearty;fresh;flavorful;savory;rich;comforting;smooth
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,artist,creative;talented;innovative;passionate;skilled;original;thoughtful;resourceful;dedicated;inspiring
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,athlete,strong;agile;fast;fit;determined;skilled;competitive;energetic;robust;enduring
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,chef,talented;creative;skilled;professional;innovative;dedicated;passionate;experienced;resourceful;meticulous
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,doctor,skilled;caring;knowledgeable;experienced;dedicated;professional;compassionate;reliable;thoughtful;attentive
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,engineer,skilled;innovative;practical;knowledgeable;creative;precise;logical;experienced;dedicated;analytical
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,farmer,hardworking;dedicated;experienced;resilient;patient;reliable;traditional;skilled;resourceful;honest
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,lawyer,skilled;knowledgeable;experienced;articulate;logical;dedicated;persuasive;careful;diligent;professional
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,musician,talented;creative;passionate;skilled;rhythmic;innovative;expressive;dedicated;soulful;inspiring
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,scientist,curious;innovative;dedicated;precise;analytical;knowledgeable;logical;experienced;methodical;bright
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,soldier,brave;disciplined;strong;resilient;committed;loyal;courageous;determined;skilled;vigilant
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,teacher,knowledgeable;caring;patient;inspiring;creative;skilled;supportive;friendly;attentive;thoughtful
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,writer,creative;talented;expressive;imaginative;articulate;thoughtful;original;skilled;reflective;innovative
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,book,old;new;thick;interesting;well-written;dusty;classic;informative;engaging;timeless
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,bridge,old;strong;long;sturdy;grand;famous;ancient;impressive;elegant;architectural
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;booming;deep;resonant;vibrant;dynamic;energetic;classic
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,earth,vast;fertile;blue;green;ancient;rich;diverse;rugged;vibrant;life-giving
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,flute,sweet;clear;mellow;soft;delicate;subtle;gentle;elegant;airy;enchanting
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,key,small;metallic;old;simple;unique;shiny;intricate;sturdy;decorative;symbolic
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,knife,sharp;old;strong;clean;deadly;precise;sturdy;reliable;balanced;elegant
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,lock,sturdy;old;strong;intricate;secure;reliable;decorative;heavy;classic;metallic
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,moon,bright;full;glowing;serene;silent;mysterious;pale;silver;distant;magical
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,pen,smooth;blue;black;small;elegant;reliable;sleek;handheld;classic;practical
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,sun,bright;hot;warm;powerful;radiant;golden;brilliant;fiery;dazzling;vast
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,sword,sharp;heavy;ancient;strong;elegant;dangerous;precise;sturdy;legendary;gleaming
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,cat,small;agile;curious;soft;playful;graceful;sleek;quick;clever;independent
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,dog,loyal;friendly;playful;brave;obedient;active;loving;alert;cheerful;dedicated
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,dolphin,intelligent;playful;graceful;friendly;agile;swift;curious;social;lively;gentle
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,elephant,massive;gentle;strong;majestic;wise;large;ancient;powerful;calm;impressive
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,hamster,small;cute;fuzzy;playful;tiny;active;lively;soft;curious;friendly
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,monkey,playful;clever;agile;curious;lively;active;mischievous;smart;cheeky;quick
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,mouse,small;timid;quick;agile;soft;delicate;elusive;nimble;silent;furry
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,peacock,colorful;vibrant;striking;graceful;elegant;majestic;brilliant;shiny;showy;exotic
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,rabbit,soft;quick;cute;gentle;small;timid;fuzzy;agile;playful;furry
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,shark,formidable;large;fierce;powerful;swift;dangerous;sleek;agile;aggressive;massive
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,snake,slender;dangerous;silent;venomous;agile;slick;cold;mysterious;curved;swift
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,whale,massive;gentle;gigantic;graceful;deep;slow;powerful;ancient;immense;majestic
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,city,busy;large;crowded;vibrant;modern;historic;urban;lively;sprawling;diverse
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,desert,vast;dry;hot;barren;endless;harsh;sandy;empty;scorching;remote
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,forest,dense;green;dark;lush;ancient;vibrant;mysterious;tranquil;wild;vast
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,island,small;remote;tropical;quiet;green;peaceful;unique;sunny;isolated;charming
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,lake,calm;clear;deep;serene;vast;reflective;tranquil;fresh;blue;peaceful
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,mountain,tall;high;majestic;rugged;steep;rocky;ancient;mighty;grand;imposing
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,ocean,vast;deep;blue;mysterious;powerful;endless;salty;roaring;serene;wild
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,plain,flat;open;vast;fertile;simple;endless;green;quiet;rolling;humble
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,plateau,high;flat;vast;rugged;open;ancient;remote;arid;imposing;quiet
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,river,winding;flowing;deep;clear;swift;long;fresh;mighty;calm;endless
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,valley,green;deep;narrow;serene;lush;quiet;fertile;hidden;cool;peaceful
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,village,small;quiet;charming;cozy;old;friendly;peaceful;remote;rustic;simple
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,cactus,spiky;green;prickly;dry;hardy;resilient;sandy;rugged;unique;tough
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,eggplant,purple;fresh;firm;smooth;shiny;ripe;edible;soft;healthy;organic
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,flower,colorful;fragrant;bright;delicate;fresh;vibrant;beautiful;soft;natural;lovely
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,grass,green;soft;fresh;thick;short;abundant;healthy;lush;natural;gentle
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,lettuce,fresh;crisp;green;soft;tender;light;tasty;healthy;leafy;organic
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,mushroom,small;earthy;fresh;soft;wild;tasty;unique;delicate;natural;rich
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,onion,strong;pungent;fresh;layered;spicy;crisp;raw;ripe;hardy;robust
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,pepper,spicy;fresh;hot;green;red;vibrant;zesty;tangy;flavorful;bold
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,potato,starchy;fresh;earthy;soft;brown;raw;ripe;versatile;hearty;tasty
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,rose,red;fragrant;beautiful;delicate;soft;elegant;fresh;vibrant;lovely;classic
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,tomato,ripe;red;juicy;fresh;soft;sweet;vibrant;healthy;natural;tangy
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,tree,tall;green;old;sturdy;leafy;ancient;majestic;broad;strong;vibrant
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,ally,loyal;trusted;reliable;supportive;committed;brave;sincere;steadfast;true;friendly
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,brother,loving;close;supportive;trusted;kind;reliable;caring;protective;honest;warm
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,enemy,ruthless;fierce;dangerous;bitter;hostile;relentless;unpredictable;strong;cunning;unyielding
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,father,wise;caring;supportive;strong;loving;kind;reliable;protective;patient;respectful
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,follower,loyal;obedient;dedicated;supportive;attentive;respectful;humble;enthusiastic;active;faithful
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,friend,kind;loyal;caring;supportive;honest;funny;warm;reliable;generous;trustworthy
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,leader,strong;inspiring;wise;decisive;brave;determined;visionary;influential;respected;confident
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,mother,loving;caring;nurturing;kind;supportive;gentle;patient;wise;strong;devoted
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,partner,loyal;supportive;caring;loving;honest;committed;reliable;steadfast;understanding;cooperative
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,rival,strong;fierce;competitive;determined;aggressive;skilled;challenging;relentless;formidable;tough
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,sister,loving;caring;close;supportive;kind;friendly;protective;honest;warm;reliable
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,stranger,unknown;unfamiliar;distant;mysterious;anonymous;remote;curious;cautious;new;vague
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,above,high;elevated;superior;distant;remote;bright;lofty;visible;top;prominent
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,back,strong;broad;curved;sturdy;hairy;muscular;smooth;flexible;firm;supportive
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,below,low;deep;hidden;dark;distant;secret;small;quiet;faint;mysterious
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,east,oriental;rising;golden;warm;bright;early;vivid;vibrant;welcoming;gentle
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,front,leading;bright;open;clear;visible;structured;bold;prominent;neat;spacious
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,inside,inner;hidden;secret;private;cozy;central;warm;safe;accessible;quiet
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,left,remaining;unused;hidden;spare;extra;forgotten;minor;residual;lost;quiet
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,north,cold;icy;distant;strong;frosty;northern;bleak;windy;clear;rugged
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,outside,open;vast;wild;fresh;bright;natural;free;clear;exposed;sunny
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,right,correct;proper;true;accurate;neat;exact;suitable;valid;justified;appropriate
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,south,warm;sunny;mild;inviting;gentle;tropical;peaceful;bright;pleasant;lively
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,west,western;dusty;remote;rugged;wild;dry;vast;hearty;ancient;open
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,century,long;historical;notable;memorable;significant;distant;remarkable;evolving;changing;important
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,day,bright;sunny;clear;long;busy;calm;pleasant;refreshing;warm;vibrant
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,evening,calm;cool;gentle;quiet;peaceful;early;delightful;soft;pleasant;relaxing
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,hour,short;long;brief;busy;precious;fleeting;exact;measured;specific;timely
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,minute,small;brief;tiny;precise;little;exact;fleeting;rapid;significant;subtle
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,month,long;short;busy;full;eventful;active;notable;warm;cold;rainy
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,morning,fresh;early;bright;crisp;calm;pleasant;cool;quiet;lively;peaceful
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,night,dark;quiet;calm;peaceful;cool;long;deep;starry;silent;mysterious
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,season,warm;cold;distinct;pleasant;changing;vivid;lively;mild;short;long
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,second,brief;quick;short;fleeting;tiny;fast;exact;precise;rapid;small
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,week,long;busy;short;stressful;relaxing;eventful;pleasant;active;consistent;hopeful
+o3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,year,long;new;old;busy;eventful;prosperous;challenging;memorable;successful;bright
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,anger,intense;bitter;seething;fiery;surging;palpable;explosive;deep;uncontrolled;raw
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,courage,bold;valiant;daring;fearless;resolute;heroic;determined;robust;unyielding;gallant
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,fear,paralyzing;overwhelming;deep;crippling;irrational;haunting;imminent;pervasive;sudden;intense
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,freedom,absolute;vast;unlimited;cherished;profound;liberating;boundless;essential;universal;inherent
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,happiness,joyful;radiant;blissful;exuberant;cheerful;uplifting;heartening;genuine;contagious;boundless
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,hate,intense;deep;bitter;vehement;rampant;seething;acrimonious;pervasive;unbridled;harsh
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,honesty,sincere;genuine;transparent;principled;upright;candid;moral;truthful;reliable;earnest
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,justice,fair;impartial;equitable;balanced;decisive;righteous;steadfast;consistent;enduring;essential
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,knowledge,vast;profound;comprehensive;practical;scholarly;deep;extensive;critical;refined;empirical
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,love,unconditional;passionate;tender;genuine;enduring;deep;heartfelt;warm;profound;sublime
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,peace,serene;calm;quiet;lasting;gentle;harmonious;tranquil;soothing;secure;blessed
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,wisdom,profound;timeless;deep;insightful;ancient;considered;invaluable;clarifying;reflective;judicious
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,bell,resonant;clear;melodious;small;heavy;vibrant;sonorous;ringing;elegant;timeless
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,candle,flickering;warm;soft;delicate;gentle;bright;slender;melting;modest;soothing
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,carpet,plush;soft;durable;woven;patterned;elegant;colorful;thick;exquisite;comfortable
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,coin,ancient;shiny;rare;minted;collectible;small;valuable;metallic;intricate;worn
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,crown,regal;ornate;glittering;majestic;jeweled;royal;symbolic;shining;grand;treasured
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,flag,vibrant;symbolic;colorful;fluttering;patriotic;bold;national;honored;historic;striking
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,mask,mysterious;eerie;expressive;intricate;varied;theatrical;decorative;ancient;cultural;enigmatic
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,necklace,elegant;shimmering;delicate;ornate;timeless;precious;radiant;graceful;stylish;exquisite
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,painting,vibrant;expressive;colorful;detailed;inspiring;classic;modern;captivating;timeless;evocative
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,ring,sparkling;elegant;delicate;timeless;precious;intricate;symbolic;refined;circular;radiant
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,statue,majestic;grand;timeless;detailed;imposing;classical;artful;sturdy;revered;monumental
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,vase,elegant;fragile;decorative;ornate;timeless;antique;delicate;colorful;refined;charming
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,cloud,fluffy;white;drifting;soft;billowy;vast;light;gentle;airy;transient
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;massive;intense;violent;unexpected;destructive;severe;rare
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;heavy;low;enveloping;ghostly;chilling;obscuring;pervasive
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;dazzling;powerful;intense;electrifying;streaking;vivid;striking;fleeting
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,rain,gentle;steady;refreshing;soft;warm;cool;rhythmic;cleansing;persistent;soothing
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,rainbow,colorful;vibrant;radiant;arching;ethereal;luminous;fleeting;brilliant;multicolored;magical
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,snow,white;soft;icy;powdery;chilly;delicate;silent;pure;glistening;cold
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,storm,fierce;turbulent;heavy;raging;violent;relentless;dark;roaring;chaotic;sudden
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,thunder,rolling;booming;deep;resonant;powerful;distant;relentless;echoing;mighty;rumbling
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,tide,rising;falling;rhythmic;strong;predictable;colossal;relentless;surging;steady;dominant
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,volcano,active;fiery;towering;explosive;rugged;dangerous;molten;dormant;imposing;volatile
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,wind,brisk;gentle;strong;gusty;refreshing;unpredictable;cool;soothing;wild;persistent
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,apple,crisp;juicy;fresh;sweet;red;green;ripe;tart;delicious;vibrant
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,banana,ripe;yellow;sweet;soft;curved;fresh;tropical;appealing;smooth;flavorful
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,beef,tender;juicy;savory;fresh;hearty;rich;flavorful;lean;succulent;marbled
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,bread,fresh;soft;crusty;warm;baked;wholesome;delicious;aromatic;fluffy;golden
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,broccoli,green;fresh;crisp;healthy;fibrous;raw;nutritious;vibrant;tender;steamed
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,cheese,creamy;sharp;aged;soft;tangy;rich;delicious;savory;mild;flavorful
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,chicken,tender;juicy;succulent;fresh;roasted;grilled;lean;flavorful;rich;aromatic
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,egg,fresh;whole;nutritious;small;fragile;boiled;raw;sunny;delicious;protein-rich
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,fish,fresh;flaky;tender;succulent;savory;delicate;rich;delicious;briny;vibrant
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,pasta,al dente;hearty;soft;flavorful;satisfying;rich;classic;comforting;tender;cooked
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,rice,fluffy;steamed;aromatic;plain;soft;tender;sticky;light;healthy;fragrant
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,soup,warm;hearty;savory;delicious;nourishing;flavorful;rich;comforting;smooth;steamy
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,artist,creative;imaginative;talented;innovative;expressive;skilled;original;passionate;thoughtful;dedicated
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,athlete,strong;agile;determined;fast;competitive;fit;resilient;energetic;disciplined;skilled
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,chef,skilled;creative;passionate;experienced;innovative;precise;talented;dedicated;resourceful;meticulous
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,doctor,knowledgeable;compassionate;dedicated;experienced;skilled;attentive;caring;professional;reliable;astute
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,engineer,innovative;analytical;skilled;logical;creative;resourceful;precise;dedicated;technical;methodical
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,farmer,hardworking;diligent;resilient;practical;experienced;dedicated;resourceful;earthy;humble;seasoned
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,lawyer,articulate;knowledgeable;persuasive;diligent;ethical;experienced;strategic;tenacious;assertive;analytical
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,musician,talented;creative;passionate;rhythmic;skilled;expressive;innovative;soulful;dynamic;inspiring
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,scientist,curious;analytical;innovative;methodical;precise;dedicated;brilliant;empirical;logical;intellectual
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,soldier,brave;disciplined;resilient;steadfast;loyal;courageous;determined;tactical;strong;dedicated
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,teacher,knowledgeable;patient;inspiring;dedicated;caring;creative;organized;supportive;passionate;effective
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,writer,imaginative;articulate;creative;thoughtful;original;expressive;insightful;prolific;dedicated;eloquent
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,book,informative;engaging;compelling;classic;timeless;detailed;intriguing;educational;well-written;fascinating
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,bridge,sturdy;historic;long;elegant;arched;robust;famous;architectonic;scenic;essential
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,drums,rhythmic;powerful;resonant;dynamic;energetic;booming;steady;vibrant;percussive;lively
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,earth,fertile;vast;round;vibrant;dynamic;evolving;ancient;natural;diverse;resilient
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,flute,melodic;sweet;airy;delicate;refined;graceful;elegant;soothing;clear;enchanting
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,key,small;metallic;sturdy;intricate;essential;bright;durable;ancient;unique;functional
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,knife,sharp;sturdy;precise;versatile;durable;essential;sleek;balanced;refined;reliable
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,lock,secure;sturdy;complex;reliable;intricate;strong;safe;classic;mechanical;dependable
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,moon,luminous;radiant;pale;serene;full;enchanting;distant;mysterious;glowing;celestial
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,pen,smooth;sleek;reliable;elegant;small;functional;precise;efficient;classic;versatile
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,sun,bright;radiant;warm;blazing;powerful;golden;shining;energetic;brilliant;life-giving
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,sword,sharp;gleaming;lethal;elegant;historical;mighty;formidable;revered;balanced;polished
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,cat,agile;curious;graceful;playful;independent;sleek;clever;soft;attentive;swift
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,dog,loyal;friendly;obedient;playful;energetic;devoted;affectionate;reliable;cheerful;brave
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,dolphin,intelligent;graceful;agile;friendly;playful;dynamic;social;swift;curious;vibrant
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,elephant,massive;gentle;wise;towering;strong;noble;ancient;resilient;graceful;impressive
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,hamster,tiny;cute;active;furry;lively;curious;quick;playful;gentle;small
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,monkey,playful;agile;clever;mischievous;curious;lively;smart;energetic;nimble;spirited
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,mouse,tiny;timid;agile;quiet;swift;delicate;cautious;small;modest;unassuming
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,peacock,colorful;majestic;vibrant;elegant;striking;brilliant;flamboyant;splendid;graceful;radiant
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,rabbit,fluffy;quick;gentle;soft;agile;curious;timid;adorable;lively;nimble
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,shark,fierce;powerful;sleek;dangerous;agile;relentless;predatory;swift;intimidating;robust
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,snake,slippery;mysterious;sinuous;venomous;silent;cunning;agile;sleek;stealthy;dangerous
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,whale,massive;majestic;gentle;enormous;graceful;powerful;ancient;serene;colossal;mighty
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,city,bustling;vibrant;modern;historic;sprawling;lively;dynamic;diverse;crowded;urban
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,desert,barren;vast;arid;scorching;endless;rugged;harsh;expansive;sandy;dry
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,forest,dense;lush;ancient;serene;mysterious;vibrant;green;expansive;wild;tranquil
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,island,remote;tropical;serene;isolated;picturesque;charming;quiet;vibrant;inviting;lush
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,lake,calm;serene;clear;tranquil;reflective;vast;pristine;still;inviting;deep
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,mountain,towering;majestic;rugged;imposing;scenic;icy;formidable;elevated;massive;timeless
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,ocean,vast;deep;endless;mysterious;roaring;boundless;majestic;powerful;blue;dynamic
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,plain,flat;expansive;fertile;open;endless;gentle;serene;rolling;quiet;level
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,plateau,elevated;flat;vast;rugged;expansive;scenic;remote;barren;ancient;arid
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,river,flowing;winding;deep;lively;clear;meandering;strong;picturesque;tranquil;vibrant
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,valley,lush;green;fertile;secluded;serene;winding;peaceful;deep;scenic;hidden
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,village,quaint;small;charming;rural;peaceful;historic;close-knit;friendly;traditional;serene
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,cactus,prickly;resilient;spiky;hardy;arid;rugged;green;desert;unique;enduring
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,eggplant,purple;glossy;smooth;fresh;tender;vibrant;firm;rich;healthy;flavorful
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,flower,beautiful;vibrant;delicate;fragrant;colorful;fresh;blooming;exquisite;graceful;lively
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,grass,green;soft;lush;fresh;vibrant;natural;thick;abundant;gentle;delicate
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,lettuce,crisp;fresh;leafy;vibrant;tender;green;healthy;light;refreshing;crunchy
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,mushroom,earthy;fresh;delicate;wild;flavorful;nutritious;organic;tender;natural;varied
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,onion,pungent;fresh;zesty;layered;crisp;strong;versatile;raw;aromatic;tangy
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,pepper,spicy;vibrant;fresh;zesty;hot;colorful;pungent;flavorful;aromatic;sharp
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,potato,starchy;hearty;tender;fresh;versatile;robust;earthy;satisfying;golden;rustic
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,rose,fragrant;delicate;beautiful;vibrant;red;soft;blooming;classic;elegant;timeless
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,tomato,juicy;ripe;fresh;vibrant;red;succulent;tangy;luscious;aromatic;flavorful
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,tree,tall;leafy;ancient;sturdy;majestic;green;sprawling;enduring;robust;rooted
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,ally,supportive;trusted;loyal;dependable;steadfast;reliable;sincere;honest;courageous;dedicated
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,brother,caring;supportive;kind;reliable;loving;trustworthy;respectful;close;warm;sincere
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,enemy,hostile;fierce;dangerous;relentless;bitter;ruthless;aggressive;formidable;intimidating;vengeful
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,father,loving;supportive;wise;strong;caring;protective;dependable;kind;nurturing;honorable
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,follower,loyal;attentive;dutiful;supportive;obedient;reliable;respectful;dedicated;faithful;engaged
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,friend,kind;caring;loyal;supportive;genuine;trustworthy;cheerful;reliable;affectionate;warm
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,leader,charismatic;decisive;visionary;strong;inspiring;authoritative;strategic;bold;influential;determined
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,mother,loving;caring;nurturing;supportive;kind;protective;patient;warm;dependable;compassionate
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,partner,supportive;reliable;loving;dedicated;understanding;trustworthy;close;committed;sincere;dependable
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,rival,competitive;formidable;challenging;determined;ambitious;relentless;persistent;strong;fierce;daunting
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,sister,caring;supportive;loving;kind;cheerful;reliable;close;affectionate;warm;understanding
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,stranger,unknown;unfamiliar;distant;mysterious;foreign;curious;unpredictable;uninviting;cautious;intriguing
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,above,higher;elevated;superior;lofty;soaring;ascending;prominent;outstanding;supreme;exalted
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,back,rear;hidden;posterior;distant;secondary;subtle;abandoned;deserted;modest;reserved
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,below,lower;underneath;hidden;inferior;deep;subtle;shallow;modest;unassuming;quiet
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,east,oriental;rising;radiant;sunny;vibrant;ancient;colorful;welcoming;promising;gentle
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,front,leading;forward;prominent;visible;open;bright;inviting;clear;advanced;direct
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,inside,internal;secret;hidden;enclosed;intimate;personal;warm;confined;sheltered;private
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,left,remaining;residual;abandoned;deserted;forsaken;miscellaneous;extra;spare;unchecked;orphaned
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,north,northern;chilly;bitter;frosty;guiding;remote;crisp;clear;majestic;serene
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,outside,external;open;exposed;vast;wild;bright;clear;unpredictable;inviting;airy
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,right,correct;proper;appropriate;accurate;valid;true;just;decent;sound;reliable
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,south,southern;warm;sunny;tropical;gentle;breezy;vibrant;lush;welcoming;serene
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,west,western;rugged;expansive;bold;wild;sunlit;vast;ancient;vibrant;free
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,century,long;historic;significant;memorable;notable;enduring;vast;profound;remarkable;ancient
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,day,bright;sunny;busy;lively;active;clear;pleasant;warm;cheerful;vibrant
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,evening,calm;peaceful;relaxing;quiet;gentle;soft;serene;cool;dim;reflective
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,hour,brief;fleeting;precious;short;passing;valuable;limited;measured;rapid;relentless
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,minute,tiny;brief;fleeting;small;precise;exact;concise;minor;limited;swift
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,month,long;vibrant;repetitive;seasonal;active;fruitful;regular;noted;pleasant;calm
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,morning,fresh;bright;early;peaceful;crisp;hopeful;radiant;inspiring;gentle;lively
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,night,dark;silent;quiet;serene;starry;deep;peaceful;mysterious;cool;calm
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,season,changing;distinct;vibrant;varied;memorable;lively;cool;balmy;unpredictable;refreshing
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,second,brief;fleeting;tiny;rapid;momentary;short;quick;passing;swift;transient
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,week,busy;short;eventful;long;dynamic;hectic;productive;steady;balanced;fleeting
+o3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,year,long;memorable;eventful;prosperous;evolving;fruitful;historic;remarkable;challenging;vibrant
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,anger,intense;fierce;burning;seething;explosive;deep;sudden;uncontrolled;dangerous;raw
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,courage,brave;bold;resolute;steadfast;unwavering;heroic;strong;daring;admirable;determined
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,fear,deep;irrational;overwhelming;paralyzing;creeping;sudden;haunting;palpable;raw;consuming
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,freedom,absolute;personal;independent;cherished;precious;vital;liberating;unbridled;boundless;essential
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,happiness,pure;deep;sincere;bright;contagious;lasting;simple;profound;radiant;joyful
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,hate,intense;bitter;deep;seething;raw;violent;destructive;overwhelming;toxic;incessant
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,honesty,true;complete;unfiltered;genuine;frank;candid;blunt;sincere;pure;unwavering
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,justice,fair;equal;impartial;righteous;balanced;steadfast;deserved;unbiased;honorable;consistent
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,knowledge,broad;deep;vast;extensive;valuable;reliable;essential;timeless;practical;comprehensive
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,love,unconditional;deep;passionate;true;enduring;pure;warm;tender;selfless;sweet
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,peace,calm;serene;quiet;gentle;absolute;harmonious;tranquil;restful;lasting;untroubled
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,wisdom,profound;ancient;deep;timeless;true;insightful;sage;valuable;enduring;enlightened
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;resonant;vibrant;metallic;jingling;deep;sonorous;ancient;shrill
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,candle,flickering;delicate;soft;warm;small;glowing;subtle;scented;ancient;dim
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,carpet,colorful;soft;thick;woven;elegant;plush;patterned;oriental;warm;decorative
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,coin,shiny;old;small;ancient;valuable;round;metallic;embossed;collectible;rare
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,crown,royal;golden;ornate;majestic;jeweled;ancient;regal;priceless;elegant;shining
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,flag,bright;colorful;national;striped;fluttering;embroidered;bold;proud;symbolic;revered
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,mask,intricate;eerie;decorative;mysterious;painted;elaborate;hidden;traditional;unique;frightening
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,necklace,elegant;delicate;sparkling;ornate;stunning;vintage;intricate;charming;graceful;timeless
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,painting,vivid;colorful;beautiful;detailed;classic;abstract;expressive;timeless;captivating;imaginative
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,ring,shiny;golden;silver;decorative;symbolic;elegant;precious;circular;ornate;cherished
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,statue,majestic;ancient;lifelike;monumental;carved;detailed;graceful;solemn;impressive;revered
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,vase,fragile;elegant;ceramic;ancient;decorative;colorful;ornate;timeless;delicate;artistic
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;white;dark;billowy;soft;gray;scattered;high;drifting;ethereal
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,earthquake,powerful;sudden;violent;devastating;trembling;massive;intense;shocking;earth-shaking;unpredictable
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,fog,dense;heavy;eerie;mysterious;thick;low;obscuring;chilling;ghostly;lingering
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;electric;striking;powerful;dazzling;intense;fleeting;vivid;rapid
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,rain,steady;heavy;cold;light;refreshing;drenching;soft;persistent;gentle;sudden
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;vibrant;fleeting;bright;stunning;arc-shaped;beautiful;elusive;radiant;magical
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,snow,cold;white;soft;heavy;powdery;silent;fresh;glistening;pure;deep
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,storm,intense;violent;raging;heavy;dark;powerful;sudden;tumultuous;fierce;relentless
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;deep;resounding;powerful;rolling;rumbling;startling;fierce;echoing
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,tide,rising;falling;powerful;rhythmic;strong;changing;relentless;natural;steady;overwhelming
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,volcano,active;fiery;dangerous;massive;restless;erupting;ancient;volatile;towering;molten
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;gentle;fierce;brisk;refreshing;wild;unpredictable;steady;howling
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,apple,crisp;fresh;juicy;red;green;sweet;tart;ripe;shiny;delicious
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,banana,ripe;yellow;sweet;fresh;soft;curved;tropical;delicious;nutritious;appealing
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,beef,tender;juicy;savory;fresh;flavorful;hearty;rich;succulent;robust;lean
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,bread,fresh;soft;warm;crusty;tasty;wholesome;yeasty;fragrant;rustic;golden
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,broccoli,fresh;green;crisp;nutritious;tender;healthy;vibrant;steamed;raw;organic
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,cheese,creamy;sharp;tangy;aged;soft;rich;flavorful;fresh;milky;aromatic
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,chicken,tender;juicy;savory;fresh;flavorful;grilled;roasted;lean;spicy;succulent
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,egg,fresh;raw;hard-boiled;soft;scrambled;organic;nutritious;whole;small;delicate
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,fish,fresh;tender;flaky;savory;mild;oily;firm;delicate;sustainable;briny
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,pasta,cooked;fresh;soft;al-dente;flavorful;hearty;tasty;versatile;traditional;Italian
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,rice,steamed;fluffy;white;aromatic;sticky;plain;edible;fresh;light;nutritious
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,soup,warm;hearty;flavorful;savory;delicious;rich;thick;fresh;comforting;steaming
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,artist,creative;talented;imaginative;innovative;passionate;visionary;skilled;expressive;dedicated;iconic
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,athlete,strong;agile;determined;fit;fast;powerful;energetic;competitive;skilled;resilient
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,chef,talented;creative;skilled;innovative;experienced;dedicated;passionate;meticulous;renowned;resourceful
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,doctor,skilled;knowledgeable;caring;dedicated;experienced;compassionate;professional;reliable;trusted;diligent
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,engineer,innovative;skilled;technical;knowledgeable;dedicated;creative;precise;experienced;logical;resourceful
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,farmer,hardworking;dedicated;skilled;resourceful;traditional;sustainable;reliable;industrious;experienced;resilient
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,lawyer,knowledgeable;skilled;experienced;ethical;persuasive;articulate;diligent;reputable;logical;steadfast
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,musician,talented;creative;skilled;passionate;rhythmic;expressive;innovative;melodic;versatile;soulful
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,scientist,curious;innovative;analytical;meticulous;knowledgeable;experimental;dedicated;logical;pioneering;precise
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,soldier,brave;disciplined;resilient;strong;dedicated;courageous;tough;honorable;vigilant;steadfast
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,teacher,dedicated;knowledgeable;patient;caring;skilled;inspiring;creative;encouraging;experienced;supportive
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,writer,creative;talented;imaginative;articulate;thoughtful;expressive;original;prolific;eloquent;reflective
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,book,old;thick;well-written;engaging;informative;classic;interesting;timeless;detailed;accessible
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,bridge,sturdy;long;impressive;ancient;architectural;graceful;historic;robust;elegant;reliable
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;deep;resonant;powerful;dynamic;vibrant;booming;energetic;traditional
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,earth,vast;fertile;diverse;ancient;vibrant;nurturing;blue;rich;sustainable;natural
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,flute,melodic;delicate;wooden;elegant;airy;smooth;slender;soothing;refined;traditional
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,key,small;golden;old;decorative;sturdy;unique;intricate;shiny;simple;reliable
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,knife,sharp;lethal;stainless;durable;sleek;precise;heavy;elegant;versatile;practical
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,lock,secure;reliable;sturdy;intricate;old;rusted;modern;safe;heavy;well-made
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,moon,bright;full;distant;glowing;silent;mysterious;pale;serene;ancient;luminous
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,pen,smooth;reliable;elegant;sleek;blue;fine;comfortable;lasting;precise;classic
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,sun,bright;warm;shining;magnificent;blazing;radiant;powerful;relentless;golden;eternal
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;gleaming;powerful;deadly;ornate;legendary;refined;formidable;swift
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,cat,curious;agile;playful;graceful;independent;soft;sleek;mysterious;clever;charming
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;playful;energetic;faithful;loving;brave;alert;obedient;devoted
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,dolphin,intelligent;graceful;playful;agile;friendly;acrobatic;sleek;social;curious;vibrant
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,elephant,large;gentle;majestic;ancient;strong;wise;massive;sentimental;noble;powerful
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,hamster,small;cute;furry;agile;playful;tiny;curious;energetic;lively;charming
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,monkey,playful;clever;agile;mischievous;curious;lively;active;spirited;intelligent;nimble
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,mouse,small;timid;quick;delicate;furry;nimble;silent;agile;curious;swift
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,peacock,colorful;majestic;vibrant;elegant;stunning;resplendent;grand;ornate;dazzling;proud
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,rabbit,small;soft;quick;gentle;fluffy;timid;agile;cute;delicate;friendly
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,shark,ferocious;sleek;dangerous;powerful;swift;silent;massive;predatory;agile;relentless
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,snake,slithering;venomous;sleek;silent;dangerous;agile;mysterious;ancient;cunning;slender
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,whale,massive;gentle;majestic;enormous;deep;ancient;powerful;graceful;colossal;mighty
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,city,bustling;vibrant;modern;busy;crowded;diverse;historic;expansive;lively;dynamic
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,desert,vast;barren;scorching;dry;endless;harsh;empty;sandy;arid;sunbaked
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,forest,dense;green;lush;wild;ancient;silent;mysterious;vibrant;deep;enchanting
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,island,isolated;tropical;remote;peaceful;small;lush;charming;sunny;rugged;pristine
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,lake,calm;clear;deep;serene;still;reflective;placid;blue;tranquil;vast
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,mountain,high;majestic;towering;rugged;snowy;ancient;steep;formidable;massive;impressive
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,ocean,vast;deep;blue;wild;endless;mysterious;powerful;roaring;salty;teeming
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,plain,vast;open;flat;grassy;expansive;simple;fertile;quiet;serene;endless
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,plateau,high;flat;elevated;vast;open;rugged;arid;remote;ancient;scenic
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,river,winding;flowing;deep;vibrant;swift;long;clear;powerful;endless;tranquil
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,valley,lush;green;deep;rolling;fertile;narrow;peaceful;scenic;hidden;vast
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,village,small;quiet;charming;rustic;friendly;quaint;traditional;lively;peaceful;historic
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,cactus,spiky;green;resilient;prickly;desert;hardy;rugged;thorny;arid;unique
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,eggplant,purple;fresh;shiny;plump;smooth;ripe;firm;glossy;tender;edible
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,flower,colorful;fragrant;delicate;beautiful;fresh;blooming;vibrant;soft;lovely;natural
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,grass,green;fresh;lush;soft;wild;short;thick;vibrant;growing;healthy
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,lettuce,fresh;crisp;green;tender;leafy;healthy;vibrant;organic;soft;abundant
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,mushroom,fresh;earthy;small;wild;delicate;juicy;tender;organic;flavorful;exotic
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,onion,sharp;pungent;fresh;firm;crisp;strong;red;white;savory;starchy
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,pepper,spicy;hot;fresh;vibrant;green;red;flavorful;aromatic;zesty;crisp
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,potato,starchy;fluffy;brown;hearty;fresh;soft;versatile;earthy;golden;tender
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,rose,fragrant;red;delicate;beautiful;velvety;blooming;soft;pure;classic;romantic
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,tomato,ripe;juicy;red;fresh;sweet;firm;plump;vibrant;delicious;aromatic
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,tree,tall;ancient;green;sturdy;leafy;majestic;robust;towering;old;natural
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,ally,loyal;trusted;reliable;supportive;steadfast;true;dedicated;valuable;honest;committed
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,brother,loving;supportive;caring;protective;dependable;kind;strong;close;warm;friendly
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,enemy,formidable;hostile;powerful;dangerous;relentless;bitter;cunning;ruthless;fierce;adversarial
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,father,loving;supportive;protective;wise;caring;strong;dependable;kind;gentle;nurturing
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;attentive;supportive;obedient;reliable;eager;determined;respectful;committed
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,friend,loyal;caring;supportive;kind;genuine;trustworthy;warm;honest;dependable;cheerful
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,leader,influential;decisive;strong;visionary;charismatic;inspiring;respected;strategic;determined;capable
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;supportive;kind;gentle;devoted;protective;warm;understanding
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,partner,supportive;reliable;committed;loving;trustworthy;caring;honest;dedicated;close;dependable
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,rival,formidable;competitive;challenging;persistent;determined;fierce;strong;relentless;ambitious;cunning
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,sister,loving;supportive;kind;caring;close;friendly;understanding;dependable;warm;gentle
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,stranger,unknown;distant;unfamiliar;random;mysterious;foreign;uninvited;unexpected;vague;impersonal
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,above,elevated;high;superior;lofty;overhanging;upper;prominent;soaring;majestic;celestial
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,back,strong;supportive;broad;sturdy;resilient;reliable;firm;hidden;enduring;dependable
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,below,lower;hidden;deep;modest;subtle;underlying;minor;inferior;distant;secret
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,east,eastern;rising;golden;vibrant;radiant;warm;scenic;historic;timeless;promising
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,front,leading;visible;prominent;open;bold;clear;direct;accessible;forward;inviting
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,inside,inner;enclosed;hidden;secret;cozy;private;sheltered;internal;quiet;comfortable
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,left,remaining;western;alternative;abandoned;extra;solitary;distinct;minor;reserved;neglected
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,north,northern;cold;icy;distant;rugged;harsh;clear;wintry;crisp;bold
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,outside,open;external;fresh;broad;wild;rugged;vast;airy;natural;exposed
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,right,correct;proper;true;just;accurate;fitting;ethical;reliable;ideal;fair
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,south,southern;warm;mild;tropical;vibrant;inviting;rustic;charming;gentle;sunlit
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,west,western;rugged;vast;wild;adventurous;golden;historic;expansive;free;brilliant
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,century,long;historic;significant;remarkable;ancient;storied;memorable;notable;enduring;influential
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,day,bright;sunny;lively;warm;clear;pleasant;bustling;vibrant;cheerful;transient
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,evening,calm;peaceful;quiet;cool;gentle;mellow;restful;serene;dusky;soft
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,hour,short;fleeting;precious;busy;quiet;measured;transient;passing;rapid;memorable
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,minute,tiny;brief;fleeting;precise;small;quick;subtle;measured;passing;important
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,month,short;long;busy;quiet;pleasant;vibrant;changeable;memorable;routine;seasonal
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,morning,fresh;early;bright;calm;serene;peaceful;cool;dewy;crisp;promising
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,night,dark;quiet;peaceful;starry;calm;mysterious;silent;cool;deep;endless
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,season,changing;distinct;vibrant;memorable;harsh;mild;refreshing;colorful;crisp;varied
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,second,brief;fleeting;tiny;swift;quick;short;immediate;transient;rapid;minor
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,week,busy;long;short;eventful;quiet;productive;challenging;restful;hectic;balanced
+o3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,year,long;eventful;prosperous;challenging;memorable;historic;significant;busy;successful;fruitful

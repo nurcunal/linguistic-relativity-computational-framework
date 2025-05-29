@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,anger,strong;hot;blind;sudden;great;deep;raw;quick;bitter;intense
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,courage,great;strong;brave;true;quiet;simple;real;big;bold;pure
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,fear,great;deep;sudden;dark;strong;cold;real;big;quiet;intense
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,freedom,true;great;full;new;total;real;simple;big;clear;easy
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,happiness,great;full;real;true;simple;big;pure;warm;quiet;new
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,hate,strong;deep;blind;pure;great;cold;intense;bitter;real;quick
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,honesty,true;real;simple;great;pure;clear;strong;full;quiet;new
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,justice,true;real;great;fair;strong;simple;blind;pure;full;clear
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,knowledge,great;deep;true;wide;simple;real;new;strong;full;clear
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,love,true;great;deep;pure;real;strong;warm;simple;big;quiet
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,peace,true;great;quiet;full;real;simple;deep;pure;warm;clear
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Abstract Concepts,wisdom,great;true;deep;real;simple;pure;strong;old;quiet;clear
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;soft;gold;silver;broken;clean
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,candle,small;big;old;new;white;red;broken;clean;soft;warm
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;soft;clean;dirty;red;blue;thick
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;dirty;clean;rare;shiny
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,crown,big;old;new;gold;heavy;beautiful;broken;royal;shiny;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;red;blue;national;dirty;clean;torn
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,mask,small;big;old;new;black;white;broken;simple;scary;clean
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,necklace,small;big;old;new;gold;silver;beautiful;broken;shiny;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,painting,big;small;old;new;beautiful;colorful;simple;broken;clean;dark
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,ring,small;big;old;new;gold;silver;beautiful;broken;shiny;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;metal;broken;beautiful;tall;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;broken;clean;beautiful;glass;ceramic;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,cloud,big;small;white;dark;high;low;fast;soft;heavy;light
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,earthquake,strong;big;sudden;deep;bad;scary;real;quick;major;minor
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,fog,thick;light;cold;wet;white;heavy;early;late;bad;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,lightning,bright;fast;strong;sudden;big;scary;white;hot;real;quick
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;hard;soft;steady;quick;bad;long
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,rainbow,beautiful;big;colorful;bright;clear;rare;short;long;full;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;deep;fresh;wet;hard;pure
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,storm,big;strong;bad;sudden;wild;dark;long;quick;heavy;scary
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;scary;big;long;quick;real;dark
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,tide,high;low;strong;fast;big;small;cold;warm;steady;wild
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,volcano,big;active;old;hot;dangerous;tall;deep;real;sleeping;black
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Environmental Phenomena,wind,strong;cold;warm;fast;light;steady;wild;gentle;bad;quiet
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,apple,red;green;big;small;fresh;sweet;juicy;ripe;bad;hard
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,banana,yellow;big;small;ripe;sweet;fresh;soft;green;bad;long
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,beef,fresh;cooked;bad;tough;soft;red;hot;cold;cheap;big
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,bread,fresh;old;soft;hard;white;brown;hot;cold;big;small
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,broccoli,green;fresh;big;small;raw;cooked;bad;healthy;soft;hard
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;bad;strong;mild;big
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,chicken,fresh;cooked;raw;big;small;hot;cold;bad;tender;white
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,egg,fresh;old;big;small;white;brown;hard;soft;broken;clean
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,fish,fresh;big;small;cooked;raw;cold;hot;bad;wild;silver
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,pasta,hot;cold;fresh;cooked;soft;hard;long;short;cheap;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,rice,white;cooked;raw;hot;cold;soft;hard;fresh;bad;sticky
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Food Items,soup,hot;cold;fresh;thick;thin;tasty;bad;simple;clear;creamy
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,artist,great;young;old;famous;talented;creative;simple;poor;rich;hard-working
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,athlete,strong;fast;young;old;great;famous;fit;skilled;quick;tall
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,chef,great;young;old;famous;skilled;creative;busy;good;simple;quick
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,doctor,good;young;old;busy;skilled;kind;smart;famous;helpful;hard-working
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,engineer,smart;young;old;skilled;busy;creative;good;simple;quick;strong
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,farmer,hard-working;old;young;strong;poor;rich;busy;simple;good;skilled
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,lawyer,smart;good;busy;young;old;famous;skilled;helpful;strong;quick
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,musician,great;young;old;famous;talented;skilled;creative;simple;good;busy
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,scientist,smart;great;young;old;famous;creative;busy;skilled;simple;good
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,soldier,strong;brave;young;old;skilled;tough;good;busy;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,teacher,good;young;old;kind;skilled;helpful;busy;smart;simple;patient
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Human Roles,writer,great;young;old;famous;creative;skilled;simple;good;busy;talented
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,book,old;new;big;small;good;bad;interesting;boring;thick;thin
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,bridge,old;new;big;strong;long;high;broken;simple;beautiful;wooden
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,drums,big;small;loud;old;new;wooden;broken;simple;heavy;shiny
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,earth,big;green;beautiful;old;wet;dry;cold;hot;rich;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,flute,small;old;new;wooden;shiny;broken;simple;light;sweet;clear
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,key,small;old;new;metal;broken;simple;shiny;heavy;black;silver
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,knife,sharp;old;new;big;small;metal;broken;simple;clean;dirty
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,lock,old;new;big;small;broken;simple;strong;metal;shiny;heavy
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,moon,big;bright;full;new;old;white;beautiful;dark;cold;quiet
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,pen,small;old;new;black;blue;broken;simple;cheap;good;clean
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,sun,big;bright;hot;yellow;beautiful;warm;strong;clear;high;red
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Inanimate Objects,sword,sharp;big;old;new;metal;broken;heavy;simple;shiny;long
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,cat,small;big;black;white;lazy;active;old;young;cute;wild
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,dog,big;small;friendly;wild;old;young;smart;lazy;strong;cute
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,dolphin,big;smart;fast;wild;beautiful;gray;young;old;playful;free
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,elephant,big;strong;gray;wild;old;young;heavy;smart;slow;beautiful
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,hamster,small;cute;fast;wild;young;old;brown;white;active;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,monkey,small;smart;wild;playful;young;old;brown;funny;fast;strong
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,mouse,small;fast;gray;wild;young;old;cute;quiet;active;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,peacock,beautiful;big;colorful;wild;young;old;proud;blue;green;tall
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,rabbit,small;white;fast;wild;young;old;cute;soft;active;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,shark,big;strong;wild;scary;gray;fast;young;old;dangerous;sharp
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,snake,long;wild;dangerous;small;big;green;black;young;old;quiet
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Neutral Animals,whale,big;strong;wild;gray;beautiful;old;young;slow;deep;free
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,city,big;old;new;busy;beautiful;dirty;clean;modern;small;crowded
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,desert,big;hot;dry;sandy;wild;empty;beautiful;old;quiet;yellow
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,forest,big;green;wild;dark;beautiful;old;quiet;wet;dry;deep
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,island,small;big;beautiful;green;wild;old;quiet;sunny;empty;rocky
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,lake,big;small;blue;clear;deep;cold;beautiful;quiet;wild;fresh
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,mountain,big;high;old;green;snowy;beautiful;wild;steep;tall;strong
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,ocean,big;deep;blue;cold;wild;beautiful;wet;vast;quiet;stormy
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,plain,big;flat;green;dry;wild;simple;empty;beautiful;quiet;wide
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,plateau,high;flat;big;dry;wild;beautiful;old;simple;empty;rocky
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,river,big;small;fast;slow;deep;clear;wild;beautiful;wet;long
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,valley,deep;green;beautiful;wild;quiet;big;small;wet;dry;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Places,village,small;old;quiet;simple;green;beautiful;poor;rich;clean;busy
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,cactus,small;big;green;prickly;wild;dry;old;young;simple;tall
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,eggplant,big;small;purple;fresh;raw;cooked;soft;bad;healthy;long
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,flower,beautiful;small;big;colorful;fresh;wild;red;blue;simple;sweet
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,grass,green;short;long;wet;dry;fresh;wild;soft;thick;simple
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,lettuce,green;fresh;big;small;raw;soft;bad;healthy;clean;crisp
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,mushroom,small;big;white;fresh;wild;soft;bad;healthy;dirty;clean
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,onion,big;small;white;fresh;raw;strong;bad;healthy;clean;spicy
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,pepper,small;big;red;green;fresh;hot;raw;bad;healthy;clean
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,potato,big;small;brown;fresh;raw;cooked;soft;bad;healthy;dirty
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,rose,red;beautiful;fresh;wild;big;small;sweet;simple;full;old
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,tomato,red;big;small;fresh;raw;cooked;juicy;bad;healthy;soft
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Plants,tree,big;old;green;tall;strong;wild;beautiful;young;simple;full
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,ally,strong;true;good;faithful;reliable;helpful;brave;simple;real;quiet
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,brother,young;old;good;strong;helpful;funny;kind;busy;simple;smart
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,enemy,strong;bad;dangerous;old;young;real;fierce;clever;quick;dark
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,father,old;young;strong;kind;busy;good;smart;simple;helpful;proud
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,follower,loyal;true;strong;simple;good;brave;quiet;real;faithful;young
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,friend,good;true;old;young;helpful;kind;funny;simple;reliable;close
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,leader,strong;good;great;smart;brave;simple;real;old;young;fair
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,mother,kind;old;young;caring;busy;good;strong;simple;helpful;loving
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,partner,good;strong;true;reliable;helpful;simple;real;close;smart;fair
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,rival,strong;tough;old;young;good;smart;quick;real;fierce;bad
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,sister,young;old;kind;helpful;funny;good;smart;simple;caring;busy
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Social Relationships,stranger,unknown;strange;new;old;young;quiet;scary;simple;real;fast
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,above,high;bright;clear;open;wide;full;strong;simple;real;quiet
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,back,old;new;strong;weak;straight;bent;simple;clean;dirty;wide
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,below,low;dark;deep;quiet;simple;real;cold;wet;hidden;small
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,east,far;near;sunny;warm;old;simple;real;quiet;big;small
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,front,big;small;open;clear;new;old;simple;clean;dirty;strong
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,inside,warm;dark;quiet;safe;simple;real;clean;dirty;big;small
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,left,free;open;clear;simple;real;quiet;weak;strong;old;new
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,north,far;cold;wild;simple;real;quiet;big;small;old;new
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,outside,cold;warm;open;free;simple;real;quiet;dirty;clean;wild
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,right,correct;true;simple;real;clear;strong;quick;good;bad;full
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,south,warm;far;sunny;simple;real;quiet;big;small;old;new
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Spatial Concepts,west,far;wild;simple;real;quiet;big;small;old;new;free
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,century,long;old;great;simple;real;full;new;quick;strong;quiet
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,day,long;short;bright;dark;hot;cold;busy;simple;good;bad
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,evening,quiet;long;short;cool;dark;simple;real;warm;beautiful;slow
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;simple;real;full;quick;late;early
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,minute,short;long;quick;slow;simple;real;full;small;big;quiet
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,month,long;short;busy;quiet;simple;real;full;new;old;warm
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,morning,early;fresh;bright;cool;simple;real;quiet;busy;clear;new
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,night,dark;long;quiet;cold;simple;real;full;short;warm;clear
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,season,long;short;warm;cold;simple;real;full;new;old;busy
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,second,short;quick;last;first;simple;real;full;small;big;quiet
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,week,long;short;busy;quiet;simple;real;full;new;old;fast
+grok-3-mini,basic,1.0,JA # Japanese,B1,most frequent,Time Concepts,year,long;short;new;old;good;bad;busy;simple;real;full
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,anger,intense;sudden;deep;hot;blind;raw;suppressed;explosive;quiet;fierce
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,courage,brave;strong;bold;great;true;inspiring;fearless;heroic;steadfast;admirable
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,fear,great;sudden;deep;irrational;constant;overwhelming;hidden;primal;intense;paralyzing
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,freedom,great;true;personal;total;limited;hard-won;basic;human;complete;absolute
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,happiness,great;pure;lasting;simple;true;sudden;deep;quiet;shared;real
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,hate,deep;intense;blind;strong;bitter;pure;irrational;personal;growing;cold
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,honesty,complete;true;simple;rare;basic;straightforward;open;absolute;clear;natural
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,justice,fair;true;blind;social;equal;quick;moral;perfect;strong;common
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,knowledge,great;deep;useful;basic;wide;practical;secret;common;clear;ancient
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,love,true;deep;pure;strong;blind;lasting;sudden;romantic;simple;great
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,peace,true;lasting;quiet;complete;inner;global;perfect;simple;stable;deep
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Abstract Concepts,wisdom,great;ancient;practical;deep;simple;true;common;clear;hard-earned;natural
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,bell,loud;small;big;old;new;ringing;metal;shiny;broken;antique
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,candle,small;bright;old;new;burning;wax;simple;colored;tall;warm
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,carpet,soft;old;new;big;small;colorful;thick;dirty;clean;woven
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,coin,old;new;small;shiny;gold;silver;rare;common;dirty;valuable
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,crown,golden;royal;big;old;new;heavy;shiny;simple;broken;jeweled
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,flag,national;old;new;colorful;large;small;waving;torn;simple;proud
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,mask,scary;funny;old;new;wooden;plastic;colorful;simple;black;protective
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,necklace,beautiful;old;new;shiny;gold;silver;simple;long;short;beaded
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,painting,beautiful;old;new;large;small;colorful;famous;simple;detailed;dark
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,ring,gold;silver;old;new;shiny;simple;big;small;broken;valuable
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,statue,large;old;new;stone;metal;beautiful;broken;famous;simple;tall
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Cultural Artifacts,vase,beautiful;old;new;glass;ceramic;tall;small;colorful;simple;broken
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;fluffy;moving;high;low;rainy;stormy
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,earthquake,strong;sudden;big;small;destructive;rare;local;deep;violent;shaking
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,fog,thick;light;cold;wet;early;morning;dense;low;gray;mysterious
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,lightning,bright;fast;sudden;dangerous;powerful;white;striking;rare;long;forked
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;sudden;soft;hard;falling;wet
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,rainbow,beautiful;colorful;bright;rare;full;short;high;low;clear;double
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,snow,white;cold;fresh;deep;light;falling;soft;heavy;wet;pure
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,storm,strong;violent;big;sudden;rainy;windy;dark;long;short;fierce
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,thunder,loud;sudden;deep;powerful;frightening;long;short;rolling;distant;close
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,tide,high;low;strong;weak;rising;falling;fast;slow;cold;warm
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,volcano,active;sleeping;big;small;dangerous;hot;ancient;explosive;fiery;tall
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;blowing;fast;slow;steady;gusty;gentle
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,apple,red;green;fresh;sweet;sour;big;small;ripe;juicy;hard
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,banana,yellow;green;ripe;fresh;sweet;long;short;soft;hard;curved
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,beef,fresh;cooked;tender;tough;red;lean;fatty;hot;cold;grilled
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,bread,fresh;soft;hard;white;brown;warm;cold;sliced;whole;tasty
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,broccoli,green;fresh;raw;cooked;crunchy;soft;big;small;healthy;steamed
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;tasty;strong;mild;melted
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,chicken,fresh;cooked;roasted;fried;white;dark;tender;juicy;hot;cold
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,egg,fresh;boiled;fried;raw;white;brown;large;small;cracked;hard
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,fish,fresh;cooked;salty;sweet;big;small;wild;farmed;oily;dry
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,pasta,cooked;soft;hard;long;short;tasty;hot;cold;simple;flavored
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,rice,white;brown;cooked;raw;soft;hard;sticky;dry;hot;cold
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Food Items,soup,hot;cold;tasty;thick;thin;vegetable;meat;simple;spicy;creamy
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,artist,talented;young;old;famous;creative;skilled;local;international;hard-working;dedicated
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,athlete,strong;fast;skilled;young;old;professional;amateur;dedicated;fit;competitive
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,chef,skilled;famous;young;old;creative;professional;busy;talented;experienced;passionate
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,doctor,skilled;experienced;young;old;caring;busy;professional;local;dedicated;knowledgeable
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,engineer,skilled;experienced;young;old;creative;professional;busy;dedicated;practical;innovative
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,farmer,hard-working;experienced;young;old;local;dedicated;practical;strong;busy;simple
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,lawyer,skilled;experienced;young;old;professional;busy;dedicated;smart;local;ethical
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,musician,talented;young;old;famous;skilled;creative;professional;dedicated;local;passionate
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,scientist,smart;experienced;young;old;dedicated;professional;creative;busy;innovative;curious
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,soldier,brave;strong;trained;young;old;professional;dedicated;loyal;experienced;disciplined
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,teacher,good;experienced;young;old;dedicated;patient;professional;creative;local;helpful
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Human Roles,writer,talented;experienced;young;old;creative;famous;dedicated;skilled;local;imaginative
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;popular;educational;colorful;hard
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,bridge,old;new;long;short;strong;weak;wooden;metal;high;busy
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,drums,loud;big;small;wooden;metal;old;new;shiny;rhythmic;hand-made
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,earth,green;blue;vast;old;beautiful;fragile;warm;cold;living;dry
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,flute,wooden;metal;old;new;shiny;small;long;sweet-sounding;simple;handmade
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,key,small;metal;old;new;shiny;rusty;simple;complex;broken;spare
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,knife,sharp;dull;metal;wooden;old;new;small;big;clean;dirty
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,lock,old;new;metal;strong;weak;simple;complex;broken;rusty;secure
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,moon,bright;full;new;old;silver;round;distant;beautiful;cold;mysterious
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,pen,black;blue;red;old;new;cheap;expensive;smooth;broken;simple
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,sun,bright;hot;yellow;big;warm;rising;setting;daily;powerful;life-giving
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Inanimate Objects,sword,sharp;old;new;metal;long;short;heavy;light;shiny;ancient
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,cat,black;white;gray;small;big;lazy;active;friendly;wild;cute
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,dog,big;small;friendly;wild;loyal;active;lazy;black;white;trained
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,dolphin,smart;fast;playful;big;small;wild;friendly;graceful;aquatic;gray
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,elephant,big;gray;strong;wild;tame;old;young;gentle;intelligent;heavy
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,hamster,small;cute;furry;fast;playful;wild;tame;brown;white;active
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,monkey,small;clever;wild;playful;noisy;brown;black;fast;curious;agile
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,mouse,small;gray;fast;shy;wild;tame;quiet;clever;nocturnal;common
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,peacock,beautiful;colorful;large;wild;tame;proud;noisy;exotic;male;female
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,rabbit,small;white;gray;fast;wild;tame;cute;fluffy;active;shy
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,shark,big;dangerous;fast;wild;gray;sharp-toothed;deep-sea;powerful;hungry;solitary
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,snake,long;slim;dangerous;colorful;wild;tame;poisonous;harmless;fast;slow
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Neutral Animals,whale,big;massive;blue;wild;graceful;deep-sea;singing;intelligent;old;migratory
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,city,big;busy;modern;old;crowded;clean;dirty;exciting;quiet;beautiful
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,desert,dry;hot;vast;sandy;empty;beautiful;harsh;yellow;remote;windy
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,forest,green;dense;wild;dark;beautiful;quiet;old;wet;dry;vast
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,island,small;big;tropical;remote;beautiful;green;sandy;volcanic;deserted;populated
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,lake,blue;deep;calm;frozen;clear;dirty;small;big;fresh;salty
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,mountain,high;tall;snowy;green;rocky;beautiful;steep;old;dangerous;vast
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;cold;warm;endless;mysterious
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,plain,flat;vast;green;dry;empty;open;windy;fertile;barren;simple
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,plateau,high;flat;rocky;dry;vast;green;remote;beautiful;steep;ancient
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,river,wide;narrow;deep;shallow;fast;slow;clean;dirty;blue;winding
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,valley,deep;green;narrow;wide;beautiful;fertile;remote;sunny;shady;peaceful
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Places,village,small;quiet;old;new;rural;simple;friendly;isolated;green;traditional
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,cactus,spiky;green;tall;small;dry;wild;hardy;desert;prickly;exotic
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,eggplant,purple;large;small;fresh;raw;cooked;soft;shiny;healthy;common
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,flower,beautiful;colorful;small;big;fresh;wild;garden;red;yellow;fragrant
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,grass,green;tall;short;wet;dry;soft;wild;garden;fresh;thick
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,lettuce,green;fresh;crunchy;raw;cooked;big;small;leafy;healthy;crisp
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,mushroom,small;big;wild;farmed;edible;poisonous;white;brown;fresh;soft
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,onion,white;red;big;small;fresh;raw;cooked;strong-smelling;spicy;crisp
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,pepper,red;green;hot;sweet;fresh;raw;cooked;small;big;spicy
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,potato,big;small;fresh;raw;cooked;brown;white;soft;hard;healthy
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,rose,red;beautiful;fragrant;fresh;wild;garden;thorny;full;simple;white
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,tomato,red;green;fresh;ripe;raw;cooked;juicy;small;big;sweet
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Plants,tree,tall;green;old;young;strong;weak;fruit-bearing;leafy;wooden;shady
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,ally,strong;faithful;helpful;true;reliable;close;powerful;foreign;trusted;loyal
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,brother,older;younger;kind;strict;close;distant;helpful;playful;strong;smart
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,enemy,dangerous;strong;weak;old;new;foreign;hidden;open;bitter;powerful
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,father,kind;strict;old;young;loving;busy;strong;wise;supportive;distant
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,follower,loyal;faithful;dedicated;strong;weak;active;passive;young;old;enthusiastic
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,friend,good;close;old;new;loyal;helpful;fun;reliable;honest;true
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,leader,strong;wise;good;bad;popular;respected;young;old;effective;inspiring
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,mother,loving;kind;strict;busy;young;old;caring;supportive;protective;warm
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,partner,reliable;close;business;life;strong;weak;helpful;equal;trusted;dedicated
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,rival,strong;weak;tough;smart;old;new;competitive;bitter;dangerous;challenging
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,sister,younger;older;kind;fun;close;distant;helpful;playful;smart;caring
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Social Relationships,stranger,unknown;suspicious;friendly;dangerous;new;old;tall;short;quiet;talkative
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,above,high;clear;bright;open;vast;blue;empty;full;distant;visible
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,back,strong;weak;straight;curved;broad;narrow;sore;healthy;covered;exposed
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,below,low;dark;hidden;deep;wet;dry;quiet;busy;dangerous;safe
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,east,sunny;distant;rising;coastal;flat;mountainous;warm;cold;open;wild
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,front,clear;open;busy;quiet;wide;narrow;safe;dangerous;visible;hidden
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,inside,warm;cool;dark;bright;safe;dangerous;empty;full;quiet;noisy
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,left,free;busy;open;closed;strong;weak;clear;blocked;safe;risky
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,north,cold;snowy;wild;flat;mountainous;distant;quiet;busy;green;barren
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,outside,bright;dark;cold;warm;wet;dry;open;closed;safe;dangerous
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,right,correct;wrong;strong;weak;free;busy;clear;blocked;safe;risky
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,south,warm;sunny;coastal;flat;tropical;distant;quiet;busy;green;dry
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Spatial Concepts,west,windy;coastal;flat;mountainous;distant;quiet;busy;green;dry;wild
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,century,long;short;past;future;great;dark;golden;modern;ancient;eventful
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,day,long;short;bright;dark;busy;quiet;hot;cold;happy;sad
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,evening,quiet;cool;long;short;beautiful;dark;relaxing;busy;warm;cold
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;dark;bright;waiting;passing
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,minute,short;long;quick;slow;waiting;passing;final;first;busy;quiet
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;rainy;sunny;special;normal
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,morning,early;fresh;bright;cool;busy;quiet;clear;foggy;warm;cold
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,night,dark;long;short;quiet;noisy;cold;warm;starry;moonlit;peaceful
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;beautiful;harsh;changing;stable
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,second,short;long;final;first;quick;slow;waiting;passing;last;next
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,week,long;short;busy;quiet;full;empty;working;holiday;tiring;relaxing
+grok-3-mini,basic,1.0,JA # Japanese,B2,most frequent,Time Concepts,year,long;short;good;bad;busy;quiet;new;old;successful;challenging
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,anger,furious;intense;sudden;blind;deep;raw;suppressed;righteous;bitter;explosive
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,courage,brave;bold;heroic;unwavering;quiet;sudden;moral;physical;foolish;admirable
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,fear,intense;sudden;deep;irrational;overwhelming;constant;hidden;primal;paralyzing;dark
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,freedom,total;personal;political;absolute;hard-won;basic;limited;sudden;true;social
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,happiness,pure;lasting;simple;sudden;deep;shared;fleeting;genuine;quiet;overwhelming
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,hate,intense;deep;blind;bitter;irrational;strong;lasting;personal;fierce;cold
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,honesty,complete;brutal;simple;rare;straightforward;absolute;painful;quiet;genuine;basic
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,justice,fair;swift;social;true;blind;equal;legal;moral;perfect;delayed
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,knowledge,vast;deep;basic;practical;hidden;scientific;ancient;useful;secret;widespread
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,love,deep;true;passionate;eternal;simple;sudden;pure;romantic;strong;quiet
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,peace,lasting;fragile;inner;global;quiet;sudden;perfect;true;external;deep
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Abstract Concepts,wisdom,ancient;practical;deep;simple;hard-earned;true;quiet;natural;rare;clear
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,bell,loud;clear;old;ringing;small;golden;antique;heavy;silver;church
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,candle,lit;tall;scented;small;flickering;white;melted;decorative;long;colored
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;old;woven;dirty;expensive;patterned;large;red
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,coin,old;shiny;rare;small;gold;ancient;foreign;heavy;silver;valuable
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,crown,royal;golden;heavy;jeweled;ancient;simple;ceremonial;large;false;ornate
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,flag,national;waving;colorful;old;torn;bright;foreign;large;symbolic;red
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,mask,protective;colorful;scary;simple;decorative;plastic;wooden;old;facial;false
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,necklace,gold;shiny;long;simple;antique;beaded;expensive;silver;decorative;heavy
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,painting,beautiful;old;modern;colorful;large;famous;abstract;detailed;simple;dark
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,ring,gold;shiny;simple;antique;diamond;heavy;silver;decorative;old;small
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,statue,tall;ancient;stone;bronze;large;famous;broken;decorative;modern;detailed
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Cultural Artifacts,vase,tall;decorative;glass;broken;antique;colorful;simple;ceramic;large;floral
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;low;high;stormy;light;fast-moving;thick;distant
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,earthquake,strong;sudden;devastating;minor;powerful;rare;shallow;deep;destructive;local
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,fog,thick;heavy;light;morning;cold;mysterious;dense;wet;rolling;low
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;fast;dangerous;forked;distant;powerful;electrical;dramatic;night
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;warm;pouring;gentle;sudden;seasonal;hard
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;faint;full;perfect;rare;beautiful;arched;natural
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,snow,fresh;deep;light;heavy;wet;powdery;falling;cold;pure;winter
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,storm,fierce;violent;strong;sudden;tropical;winter;dark;massive;approaching;deadly
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;sudden;powerful;deep;echoing;frightening;constant;night
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;incoming;outgoing;powerful;coastal;dangerous
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;explosive;ancient;smoking;tall;fiery;remote
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;northern;eastern;wild
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,apple,red;fresh;juicy;green;ripe;sweet;sour;large;small;crisp
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,banana,yellow;ripe;green;fresh;sweet;large;small;peeled;organic;soft
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,beef,fresh;tender;lean;grilled;raw;cooked;ground;organic;fatty;tough
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,bread,fresh;soft;warm;white;whole-grain;sliced;stale;crusty;homemade;toasted
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;crisp;frozen;healthy;large;boiled
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,cheese,sharp;soft;hard;creamy;aged;fresh;grated;melted;yellow;mild
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,chicken,grilled;fresh;roasted;fried;raw;organic;boneless;spicy;tender;frozen
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,egg,fresh;boiled;fried;raw;large;small;organic;cracked;hard;soft
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,fish,fresh;grilled;raw;frozen;wild;farmed;large;small;oily;salty
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,pasta,cooked;dry;fresh;boiled;sauced;long;short;homemade;wheat;cheesy
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,rice,cooked;white;brown;steamed;raw;sticky;fluffy;wild;boiled;hot
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;spicy;cold;thick;clear;homemade;tasty
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,artist,talented;creative;famous;young;skilled;dedicated;modern;struggling;passionate;local
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,athlete,strong;fast;skilled;professional;young;dedicated;competitive;fit;talented;injured
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,chef,skilled;famous;creative;young;experienced;professional;talented;busy;passionate;local
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,doctor,skilled;experienced;young;busy;dedicated;professional;caring;specialist;local;respected
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,engineer,skilled;creative;young;experienced;professional;innovative;dedicated;busy;talented;technical
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,farmer,hardworking;local;experienced;young;dedicated;organic;rural;skilled;independent;poor
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,lawyer,experienced;successful;young;professional;busy;skilled;corporate;dedicated;local;aggressive
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,musician,talented;famous;young;skilled;dedicated;professional;creative;struggling;local;passionate
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,scientist,brilliant;dedicated;young;experienced;innovative;professional;curious;skilled;respected;local
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,soldier,brave;trained;young;experienced;dedicated;professional;strong;loyal;injured;elite
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,teacher,dedicated;experienced;young;passionate;professional;skilled;caring;local;strict;inspiring
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Human Roles,writer,talented;famous;young;creative;experienced;dedicated;prolific;local;struggling;skilled
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;popular;educational;fictional;hardcover;colorful
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,bridge,old;long;strong;wooden;stone;modern;high;busy;narrow;beautiful
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,drums,loud;wooden;large;small;rhythmic;antique;electronic;heavy;shiny;traditional
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,earth,green;round;vast;fertile;dry;warm;ancient;blue;solid;living
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,flute,wooden;silver;small;antique;shiny;musical;simple;high-pitched;old;decorative
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,key,small;metal;old;shiny;rusty;simple;locked;spare;golden;secret
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,knife,sharp;small;metal;old;rusty;kitchen;pocket;wooden-handled;clean;dull
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,lock,old;metal;simple;electronic;broken;secure;small;rusty;strong;modern
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,moon,full;bright;crescent;distant;silver;dark;waxing;waning;beautiful;mysterious
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,pen,black;cheap;fancy;old;new;ink;plastic;metal;broken;colorful
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;warm;distant;powerful;midday;golden
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Inanimate Objects,sword,sharp;old;metal;heavy;ancient;shiny;decorative;long;wooden;ceremonial
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,cat,black;small;playful;lazy;wild;domestic;fluffy;old;young;stray
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,dog,loyal;big;small;friendly;wild;trained;old;young;barking;energetic
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;large;graceful;marine;friendly;fast;curious;endangered
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,elephant,large;wild;gray;strong;endangered;gentle;old;young;majestic;intelligent
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,hamster,small;furry;playful;wild;pet;brown;quick;caged;young;sleepy
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,monkey,playful;wild;small;intelligent;noisy;brown;agile;young;mischievous;endangered
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,mouse,small;gray;wild;quick;scared;pet;brown;sneaky;young;noisy
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,peacock,colorful;wild;beautiful;large;proud;exotic;noisy;endangered;male;elegant
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,rabbit,white;small;wild;fluffy;quick;pet;brown;young;tame;energetic
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,shark,dangerous;large;wild;fast;gray;marine;predatory;endangered;fierce;solitary
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,snake,long;wild;poisonous;green;scary;small;coiled;fast;endangered;slithery
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Neutral Animals,whale,large;wild;endangered;graceful;marine;blue;singing;ancient;massive;gentle
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,city,busy;large;modern;old;crowded;beautiful;dirty;exciting;historic;coastal
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,desert,dry;vast;hot;sandy;empty;remote;beautiful;harsh;windy;golden
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,forest,dense;green;old;wild;dark;quiet;tropical;vast;wet;ancient
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,island,small;tropical;remote;beautiful;volcanic;sandy;green;isolated;sunny;deserted
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,lake,calm;deep;clear;large;frozen;blue;quiet;shallow;scenic;fresh
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,mountain,tall;snowy;rugged;high;green;ancient;steep;beautiful;remote;rocky
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;cold;warm;endless;mysterious
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,plain,flat;vast;green;dry;open;fertile;empty;wide;grassy;sunny
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,plateau,high;flat;rocky;vast;dry;elevated;green;remote;scenic;ancient
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,river,wide;deep;fast;clear;muddy;long;frozen;winding;scenic;quiet
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,valley,deep;green;narrow;fertile;scenic;hidden;dry;wide;sunny;remote
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Places,village,small;quiet;rural;old;peaceful;traditional;remote;charming;poor;coastal
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,cactus,tall;spiky;green;dry;wild;small;flowering;hardy;desert;exotic
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,eggplant,purple;fresh;large;organic;ripe;cooked;shiny;small;raw;bitter
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,flower,beautiful;colorful;fresh;wild;red;small;fragrant;blooming;dried;exotic
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,grass,green;tall;wet;dry;fresh;wild;short;soft;growing;thick
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,lettuce,fresh;green;crisp;organic;raw;leafy;wilted;small;healthy;washed
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,mushroom,wild;fresh;edible;small;dried;poisonous;brown;organic;large;cooked
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,onion,fresh;raw;chopped;small;large;organic;spicy;dried;sweet;peeled
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,pepper,red;fresh;spicy;green;hot;raw;dried;organic;small;sweet
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,potato,fresh;raw;boiled;large;small;organic;peeled;baked;starchy;dirty
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,rose,red;beautiful;fresh;wild;thorny;fragrant;white;blooming;dried;exotic
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,tomato,red;fresh;ripe;raw;small;organic;juicy;green;sliced;sweet
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Plants,tree,tall;green;old;fruit-bearing;leafy;dead;young;strong;shady;ancient
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,ally,strong;reliable;faithful;powerful;trusted;foreign;close;strategic;loyal;supportive
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,brother,older;younger;protective;loving;annoying;close;helpful;distant;brave;smart
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,enemy,dangerous;powerful;sworn;old;fierce;hidden;foreign;bitter;strong;cunning
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,father,loving;strict;busy;proud;wise;absent;supportive;hardworking;old;young
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,follower,loyal;dedicated;blind;faithful;enthusiastic;strong;quiet;mass;new;skilled
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,friend,close;true;old;new;reliable;fun;supportive;distant;loyal;helpful
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,leader,strong;wise;charismatic;effective;young;experienced;respected;popular;strict;visionary
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,mother,loving;caring;busy;strict;proud;supportive;hardworking;young;wise;gentle
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,partner,reliable;business;romantic;equal;supportive;strong;trusted;close;skilled;loyal
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,rival,fierce;strong;old;new;competitive;bitter;smart;dangerous;close;talented
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,sister,younger;older;protective;loving;annoying;close;helpful;distant;brave;smart
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Social Relationships,stranger,mysterious;unknown;friendly;dangerous;foreign;odd;helpful;suspicious;tall;quiet
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,above,high;clear;visible;distant;bright;blue;open;empty;vast;pure
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,back,strong;injured;broad;straight;weak;sore;muscular;hidden;dark;old
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,below,deep;hidden;dark;low;unseen;cold;quiet;vast;mysterious;forgotten
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,east,distant;rising;sunny;ancient;foreign;coastal;flat;mountainous;warm;wide
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,front,main;busy;clear;open;wide;hidden;strong;visible;quiet;secure
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,inside,warm;dark;safe;hidden;empty;full;quiet;messy;bright;cold
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,left,free;open;weak;strong;hidden;clear;dark;empty;rightward;forgotten
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,north,cold;distant;wild;frozen;vast;ancient;windy;remote;snowy;green
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,outside,cold;bright;wet;dark;empty;noisy;safe;dangerous;open;quiet
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,right,correct;strong;free;clear;bright;hidden;open;weak;direct;natural
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,south,warm;sunny;distant;coastal;flat;humid;ancient;green;vast;exotic
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Spatial Concepts,west,distant;wild;golden;setting;remote;rugged;ancient;windy;vast;dry
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,century,past;modern;ancient;long;dark;golden;recent;forgotten;progressive;turbulent
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;quiet;hot;cold;clear;dark
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,evening,quiet;long;cool;dark;peaceful;busy;warm;short;romantic;golden
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;final;opening;dark;bright
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,minute,short;long;final;early;quick;slow;last;first;quiet;busy
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;final;early;dark;bright
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,morning,early;fresh;bright;cool;busy;quiet;sunny;foggy;warm;dark
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,night,dark;long;quiet;cold;starry;busy;warm;short;mysterious;clear
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;busy;quiet;colorful;harsh
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,second,short;final;quick;slow;last;first;busy;quiet;early;late
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,week,long;short;busy;quiet;final;early;warm;cold;dark;bright
+grok-3-mini,basic,1.0,JA # Japanese,C1,most frequent,Time Concepts,year,long;short;busy;quiet;final;early;good;bad;new;old
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;suppressed;violent;righteous;simmering;explosive
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,courage,great;true;moral;physical;heroic;quiet;foolish;innate;displayed;unwavering
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,fear,deep;sudden;intense;irrational;overwhelming;primal;hidden;constant;paralyzing;lingering
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,freedom,true;absolute;personal;political;hard-won;limited;complete;basic;economic;spiritual
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;fleeting;inner;shared;profound;everyday;radiant
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,hate,intense;deep;bitter;blind;irrational;festering;mutual;passionate;longstanding;destructive
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,honesty,brutal;complete;rare;straightforward;absolute;painful;refreshing;unwavering;heartfelt;simple
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,justice,social;true;blind;swift;poetic;equal;divine;human;restorative;fair
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,knowledge,vast;deep;practical;theoretical;ancient;hidden;shared;basic;specialized;essential
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,love,true;deep;unconditional;romantic;familial;passionate;enduring;selfless;forbidden;gentle
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,peace,inner;lasting;global;fragile;perfect;quiet;temporary;spiritual;profound;universal
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;innate;hard-earned;divine;simple;guiding;deep
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,bell,ringing;old;golden;loud;small;ancient;church;silver;hand-held;decorative
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,candle,lit;scented;tall;wax;flickering;decorative;small;colored;birthday;emergency
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,carpet,soft;woolen;patterned;thick;old;colorful;Persian;dirty;large;rolled
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,coin,ancient;shiny;gold;rare;old;foreign;metal;small;counterfeit;valuable
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,crown,royal;golden;jeweled;ancient;heavy;symbolic;ornate;ceremonial;simple;lost
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,flag,national;waving;colorful;torn;proud;foreign;small;official;historical;faded
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,mask,protective;decorative;scary;facial;ancient;Halloween;surgical;wooden;full-face;theatrical
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,necklace,gold;pearl;elegant;simple;antique;beaded;silver;long;diamond;handmade
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,painting,beautiful;abstract;old;famous;colorful;large;landscape;modern;detailed;framed
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,ring,gold;diamond;wedding;simple;ancient;silver;engagement;magical;finger;engraved
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,statue,tall;stone;ancient;bronze;historical;modern;outdoor;detailed;religious;broken
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Cultural Artifacts,vase,antique;glass;decorative;tall;floral;ceramic;broken;colored;simple;ornate
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;stormy;high;drifting;rainy;low;puffy;thin
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,earthquake,strong;devastating;minor;sudden;massive;underground;seismic;local;destructive;rare
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,fog,thick;dense;morning;light;coastal;mysterious;cold;rolling;persistent;early
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,lightning,bright;fast;striking;dangerous;forked;distant;electrical;nighttime;powerful;sudden
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;cold;warm;seasonal;gentle;tropical;persistent
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;faint;beautiful;arched;post-rain;rare;full;vivid
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,snow,fresh;heavy;light;falling;deep;powdery;wet;seasonal;white;drifting
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,storm,violent;fierce;approaching;tropical;sudden;electrical;winter;powerful;raging;distant
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;crashing;sudden;ominous;rolling;deep;nighttime;powerful
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;ocean;daily;rough;incoming;outgoing
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;erupting;ancient;volcanic;dangerous;tall;lava-filled;remote
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;eastern;northern;seasonal
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,apple,red;green;fresh;juicy;ripe;sour;sweet;large;organic;fallen
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,banana,yellow;ripe;green;sweet;peeled;fresh;small;tropical;soft;curved
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,beef,fresh;lean;grilled;tender;ground;rare;cooked;organic;fatty;steak
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,bread,fresh;soft;warm;sliced;whole-wheat;crusty;white;homemade;toasted;stale
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;crisp;frozen;boiled;healthy;small
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,cheese,sharp;soft;hard;melted;grated;creamy;aged;fresh;imported;mild
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,chicken,grilled;roasted;fresh;fried;organic;boneless;tender;spicy;raw;free-range
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,egg,fresh;boiled;fried;brown;white;large;organic;cracked;scrambled;raw
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,fish,fresh;grilled;smoked;raw;wild;frozen;oily;large;tasty;saltwater
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,pasta,cooked;fresh;dried;Italian;whole-wheat;spicy;creamy;al dente;homemade;stuffed
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,rice,cooked;white;brown;steamed;wild;fluffy;sticky;fried;organic;long-grain
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;spicy;clear;homemade;thick;cold;hearty
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,artist,talented;creative;famous;struggling;young;established;visual;dedicated;innovative;skilled
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,athlete,professional;Olympic;fit;dedicated;strong;fast;injured;young;competitive;skilled
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,chef,skilled;famous;professional;creative;head;young;talented;Italian;busy;award-winning
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,doctor,skilled;experienced;young;dedicated;hospital;family;specialist;caring;busy;respected
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,engineer,skilled;mechanical;civil;software;experienced;young;innovative;dedicated;senior;qualified
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,farmer,local;organic;hard-working;rural;experienced;young;dedicated;small-scale;traditional;successful
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,lawyer,skilled;corporate;defense;experienced;young;successful;ethical;busy;criminal;dedicated
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,musician,talented;famous;classical;rock;young;dedicated;jazz;struggling;skilled;performing
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,scientist,brilliant;dedicated;environmental;medical;young;experienced;innovative;theoretical;leading;curious
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,soldier,brave;trained;elite;young;veteran;disciplined;loyal;combat;injured;heroic
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,teacher,dedicated;experienced;young;inspiring;math;patient;strict;effective;supportive;creative
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Human Roles,writer,talented;famous;aspiring;mystery;young;prolific;dedicated;skilled;award-winning;creative
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,book,old;new;thick;popular;hardcover;fictional;educational;colorful;rare;interesting
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,bridge,old;long;wooden;stone;modern;high;suspension;broken;famous;narrow
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,drums,loud;wooden;electronic;small;professional;rhythmic;old;tribal;shiny;hand-held
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,earth,blue;green;vast;ancient;fertile;dry;spinning;living;polluted;round
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,flute,wooden;silver;ancient;modern;small;melodic;shiny;handmade;musical;simple
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,key,small;metal;old;shiny;secret;brass;locked;spare;golden;electronic
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,knife,sharp;kitchen;old;metal;pocket;dull;silver;hunting;rusty;small
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,lock,old;metal;electronic;rusty;secure;small;broken;combination;padlock;modern
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,moon,full;crescent;bright;distant;glowing;waxing;waning;silver;mysterious;ancient
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,pen,black;ink;fountain;ballpoint;old;cheap;expensive;colorful;fine;metal
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;golden;distant;midday;warm;summer;burning
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Inanimate Objects,sword,sharp;ancient;metal;long;ceremonial;magical;rusty;Japanese;powerful;decorated
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,cat,black;fluffy;wild;domestic;playful;lazy;stray;gray;cute;fierce
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,dog,loyal;big;small;friendly;stray;trained;barking;wild;cute;aggressive
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;marine;gray;fast;social;jumping;endangered;friendly
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,elephant,large;gray;wild;African;gentle;endangered;majestic;strong;old;intelligent
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,hamster,small;furry;cute;pet;active;wild;brown;playful;nocturnal;tiny
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,monkey,playful;wild;small;clever;noisy;tropical;curious;agile;brown;young
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,mouse,small;gray;wild;pet;timid;fast;squeaky;brown;nocturnal;cute
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,peacock,colorful;proud;wild;beautiful;large;exotic;feathered;male;tropical;majestic
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,rabbit,white;fluffy;wild;pet;fast;cute;brown;hopping;small;timid
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,shark,great;dangerous;wild;gray;fast;oceanic;predatory;large;fierce;endangered
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,snake,long;venomous;wild;green;coiled;slippery;dangerous;small;exotic;harmless
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Neutral Animals,whale,huge;blue;wild;migrating;endangered;marine;gentle;singing;deep-sea;majestic
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,city,bustling;large;modern;old;crowded;historic;coastal;industrial;beautiful;noisy
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,desert,vast;hot;sandy;dry;barren;remote;golden;windy;harsh;endless
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,forest,dense;green;ancient;tropical;dark;quiet;lush;rainy;vast;mysterious
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,island,tropical;small;remote;volcanic;deserted;beautiful;sandy;large;coastal;green
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,lake,deep;blue;frozen;clear;large;mountain;quiet;freshwater;scenic;shallow
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,mountain,high;snowy;rugged;majestic;tall;rocky;green;volcanic;distant;ancient
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;warm;cold;mysterious
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,plain,vast;flat;grassy;dry;fertile;open;green;endless;rural;golden
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;scenic;ancient;green;remote
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,river,wide;deep;flowing;muddy;clear;fast;winding;ancient;blue;frozen
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,valley,deep;green;fertile;narrow;scenic;hidden;wide;mountainous;peaceful;remote
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Places,village,small;rural;peaceful;ancient;coastal;fishing;mountain;quaint;traditional;remote
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,cactus,spiky;green;desert;tall;small;flowering;wild;hardy;prickly;exotic
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,eggplant,purple;fresh;large;ripe;organic;cooked;shiny;round;grilled;vegetable
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,flower,beautiful;red;wild;fragrant;blooming;yellow;garden;delicate;exotic;white
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,grass,green;tall;wet;dry;wild;soft;lawn;overgrown;fresh;mowed
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,lettuce,fresh;green;crisp;organic;leafy;salad;raw;washed;wilted;baby
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,mushroom,wild;fresh;edible;poisonous;small;dried;brown;large;cooked;exotic
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,onion,fresh;red;white;raw;chopped;strong-smelling;large;organic;sweet;dried
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,pepper,red;green;spicy;fresh;hot;sweet;chopped;dried;small;colorful
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,potato,fresh;baked;boiled;large;small;organic;sweet;fried;raw;yellow
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,rose,red;beautiful;fragrant;wild;blooming;thorny;white;garden;delicate;pink
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,tomato,red;fresh;ripe;juicy;organic;small;sliced;cherry;raw;vine
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Plants,tree,tall;old;green;leafy;ancient;fruit;shady;fallen;evergreen;bare
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,ally,strong;reliable;faithful;strategic;close;secret;powerful;trusted;military;loyal
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,brother,older;younger;caring;protective;twin;distant;loving;rebellious;supportive;playful
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,enemy,dangerous;sworn;foreign;powerful;ancient;bitter;hidden;fierce;declared;common
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,father,loving;strict;absent;proud;hardworking;young;elderly;supportive;biological;step
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;faithful;dedicated;mass;religious;political;cult
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,friend,close;old;best;loyal;new;trustworthy;childhood;supportive;fun;distant
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,leader,strong;charismatic;effective;visionary;elected;military;spiritual;democratic;authoritarian;inspiring
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,mother,loving;caring;strict;single;protective;biological;step;hardworking;devoted;absent
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,partner,business;life;reliable;equal;romantic;working;trusted;creative;supportive;long-term
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,rival,fierce;bitter;strong;corporate;sports;historical;competitive;equal;longstanding;dangerous
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,sister,younger;older;caring;protective;twin;rebellious;loving;supportive;distant;playful
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Social Relationships,stranger,mysterious;unknown;dangerous;friendly;passing;foreign;suspicious;helpful;lone;wandering
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,above,high;overhead;upper;skyward;elevated;superior;aerial;distant;floating;clear
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,back,rear;hidden;far;distant;supporting;old;straight;muscular;aching;wooden
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,below,low;underground;deep;submerged;inferior;hidden;lower;dark;watery;secret
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,east,distant;rising;coastal;sunny;ancient;far;eastern;tropical;historic;remote
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,front,main;forward;leading;visible;open;battle;straight;decorative;wide;clean
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,inside,inner;hidden;warm;dark;secret;comfortable;enclosed;private;deep;quiet
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,left,abandoned;far;political;remaining;extreme;lonely;hidden;vacant;weak;southern
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,north,far;cold;polar;ancient;northern;frozen;remote;windy;vast;historic
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,outside,outer;cold;bright;rainy;distant;visible;free;wild;external;fresh
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,right,correct;moral;political;straight;legal;immediate;absolute;far;extreme;true
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,south,warm;tropical;southern;distant;coastal;sunny;historic;far;arid;vibrant
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Spatial Concepts,west,wild;far;western;sunny;coastal;remote;historic;vast;golden;rugged
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,century,past;future;golden;dark;modern;ancient;Victorian;medieval;twentieth;new
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;lazy;ordinary;special;working;clear
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,evening,calm;quiet;long;warm;cool;romantic;late;early;festive;dark
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,hour,early;late;long;short;golden;final;busy;quiet;working;peak
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,minute,short;final;exact;quiet;busy;last;fleeting;precise;extra;calm
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,month,long;short;busy;festive;cold;warm;final;early;quiet;rainy
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,morning,early;fresh;sunny;foggy;quiet;busy;cool;bright;lazy;crisp
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;warm;festive;sleepless;romantic;late
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,season,long;short;wet;dry;festive;cold;warm;peak;off;high
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,second,final;last;quick;extra;precise;short;vital;golden;fleeting;added
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,week,long;short;busy;quiet;final;early;working;holiday;stressful;productive
+grok-3-mini,basic,1.0,JA # Japanese,C2,most frequent,Time Concepts,year,long;short;new;past;busy;successful;quiet;final;eventful;memorable
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;suppressed;righteous;simmering;explosive;controlled;mild
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,courage,great;true;moral;physical;heroic;quiet;sudden;foolish;unwavering;bold
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,fear,great;sudden;deep;irrational;primal;intense;overwhelming;paralyzing;instinctive;dark
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,freedom,true;absolute;hard-won;basic;personal;complete;limited;spiritual;economic;political
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,happiness,pure;simple;lasting;genuine;fleeting;deep;quiet;overwhelming;shared;inner
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,hate,deep;intense;blind;irrational;bitter;enduring;racial;personal;violent;unfounded
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,honesty,complete;brutal;refreshing;absolute;simple;rare;straightforward;unwavering;painful;genuine
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,justice,social;true;swift;blind;poetic;divine;equal;harsh;restorative;fair
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,knowledge,deep;vast;practical;theoretical;ancient;hidden;shared;basic;advanced;forbidden
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,love,true;deep;unconditional;passionate;enduring;pure;forbidden;romantic;selfless;young
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,peace,inner;lasting;global;fragile;perfect;quiet;world;eternal;domestic;true
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;eternal;simple;deep;worldly;spiritual;hard-earned;true
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,bell,old;large;ringing;small;golden;church;silver;clear;antique;electronic
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,candle,lit;flickering;scented;tall;small;waxen;birthday;decorative;red;melted
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,carpet,soft;thick;patterned;woolen;old;colorful;new;oriental;dirty;red
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;ancient;gold;silver;foreign;fake;small;valuable
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;heavy;ceremonial;simple;ornate;king's;decorative
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,flag,national;waving;old;colorful;torn;large;small;foreign;blue;symbolic
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,mask,protective;decorative;old;facial;wooden;carnival;black;surgical;mysterious;colorful
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,necklace,gold;pearl;simple;elegant;beaded;antique;long;silver;diamond;cheap
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,painting,beautiful;old;famous;abstract;colorful;large;small;modern;realistic;framed
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,ring,gold;diamond;simple;wedding;engagement;silver;antique;small;magical;engraved
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,statue,ancient;large;marble;bronze;beautiful;old;modern;heroic;small;stone
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,vase,antique;decorative;glass;ceramic;tall;small;ornate;simple;broken;floral
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;stormy;high;low;drifting;gray;puffy;thin
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,earthquake,strong;massive;destructive;sudden;minor;powerful;shallow;deep;local;rare
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;morning;light;chilling;coastal;mysterious;gray;rolling;persistent
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;distant;powerful;electrical;quick;dramatic;nighttime;dangerous
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;gentle;cold;warm;seasonal;tropical;persistent
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,rainbow,bright;colorful;double;faint;beautiful;short;vivid;rare;arched;full
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,snow,fresh;deep;light;fluffy;melting;heavy;white;powdery;wet;seasonal
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,storm,violent;fierce;tropical;sudden;massive;windy;electrical;winter;brewing;strong
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;booming;sudden;frightening;deep;nighttime;echoing;powerful
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;rising;ebbing;coastal;dangerous;swift;incoming;outgoing
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;ancient;dangerous;smoking;tall;fiery;remote
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;northern;easterly;fierce
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,apple,red;green;fresh;ripe;juicy;sweet;crisp;sour;organic;small
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,banana,yellow;ripe;fresh;green;sweet;peeled;large;small;organic;curved
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,beef,fresh;tender;grilled;lean;fatty;organic;rare;cooked;ground;high-quality
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,bread,fresh;warm;soft;crusty;white;whole-wheat;sliced;toasted;homemade;stale
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,broccoli,fresh;green;steamed;raw;crisp;organic;frozen;boiled;tender;large
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,cheese,sharp;soft;hard;creamy;aged;mild;grated;fresh;melted;imported
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,chicken,grilled;roasted;fresh;organic;fried;boneless;tender;spicy;frozen;whole
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,egg,fresh;hard-boiled;scrambled;raw;large;brown;white;organic;cracked;fried
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,fish,fresh;grilled;smoked;frozen;wild;farmed;salty;large;small;oily
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,pasta,cooked;fresh;dried;homemade;al dente;spicy;cheesy;plain;stuffed;Italian
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,rice,cooked;white;brown;steamed;sticky;long-grain;short-grain;boiled;organic;flavored
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;thick;thin;spicy;fresh;homemade;canned
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,artist,talented;creative;famous;young;skilled;visionary;struggling;modern;classical;dedicated
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,athlete,professional;strong;fast;skilled;young;Olympic;dedicated;injured;competitive;famous
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,chef,skilled;famous;professional;creative;young;talented;experienced;French;busy;innovative
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,doctor,skilled;experienced;young;dedicated;busy;medical;specialist;caring;senior;local
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,engineer,skilled;mechanical;electrical;young;experienced;innovative;busy;senior;creative;dedicated
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,farmer,local;hardworking;organic;experienced;young;rural;dedicated;small-scale;modern;seasonal
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,lawyer,experienced;corporate;skilled;young;busy;defense;successful;ethical;senior;local
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,musician,talented;famous;young;classical;rock;skilled;struggling;dedicated;jazz;creative
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,scientist,brilliant;dedicated;young;experienced;nuclear;biological;innovative;famous;busy;senior
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,soldier,brave;trained;young;experienced;loyal;elite;wounded;dedicated;combat;foreign
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,teacher,dedicated;experienced;young;inspiring;patient;strict;creative;senior;local;passionate
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Human Roles,writer,talented;famous;young;prolific;creative;struggling;experienced;mystery;senior;poetic
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,book,old;new;thick;thin;popular;educational;fictional;hardcover;paperback;rare
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,bridge,old;long;wooden;stone;modern;high;narrow;sturdy;arched;collapsed
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;wooden;large;small;electronic;tribal;professional;basic;tuned
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,earth,green;vast;fertile;dry;round;ancient;living;barren;spinning;blue
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;ancient;modern;small;melodic;tuned;professional;basic;handmade
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,key,small;metal;old;shiny;brass;electronic;spare;rusty;master;simple
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,knife,sharp;old;kitchen;rusty;small;large;pocket;ceremonial;blunt;steel
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,lock,old;secure;electronic;rusty;simple;heavy;broken;modern;keyless;metal
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,moon,full;bright;crescent;dark;glowing;distant;waxing;waning;silver;rising
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,pen,black;ink;fine-tipped;old;new;fountain;ballpoint;cheap;elegant;colorful
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;warm;distant;midday;burning;golden
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;metal;long;short;ceremonial;rusty;magical;steel;jeweled
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,cat,black;fluffy;stray;domestic;wild;playful;old;young;lazy;curious
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,dog,loyal;big;small;friendly;wild;trained;old;young;barking;energetic
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;trained;large;small;gray;aquatic;social;graceful
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,elephant,large;wild;gray;tame;old;young;powerful;intelligent;endangered;majestic
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,hamster,small;furry;cute;tame;wild;active;young;old;playful;nocturnal
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,monkey,playful;wild;small;intelligent;trained;noisy;young;old;agile;mischievous
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,mouse,small;gray;wild;tame;fast;quiet;young;old;shy;nocturnal
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,peacock,colorful;wild;majestic;tame;large;beautiful;noisy;young;old;exotic
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,rabbit,white;fluffy;wild;tame;small;fast;young;old;playful;hopping
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,shark,large;dangerous;wild;gray;fast;predatory;small;aggressive;oceanic;rare
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,snake,long;venomous;wild;tame;colorful;small;large;coiled;dangerous;slithery
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Neutral Animals,whale,large;majestic;wild;blue;endangered;singing;deep-sea;gray;massive;graceful
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,city,busy;large;modern;old;crowded;clean;historic;coastal;industrial;vibrant
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,desert,vast;hot;sandy;dry;barren;remote;golden;windswept;ancient;harsh
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,forest,dense;green;ancient;dark;tropical;quiet;vast;rainy;magical;wild
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,island,tropical;small;large;remote;sandy;volcanic;green;deserted;inhabited;beautiful
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,lake,deep;blue;frozen;calm;large;small;clear;polluted;scenic;freshwater
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,mountain,high;snowy;rugged;tall;green;ancient;volcanic;remote;majestic;steep
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;cold;warm;endless;mysterious
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,plain,vast;flat;green;dry;fertile;endless;grassy;open;rural;windswept
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;green;ancient;remote;scenic
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,river,wide;deep;fast-flowing;clear;muddy;long;winding;frozen;scenic;polluted
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,valley,deep;green;narrow;wide;fertile;scenic;remote;hidden;mountainous;peaceful
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Places,village,small;quiet;rural;ancient;coastal;modern;remote;fishing;farming;picturesque
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,cactus,spiky;tall;green;desert;small;flowering;wild;hardy;prickly;dried
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,eggplant,purple;fresh;large;small;shiny;organic;cooked;raw;ripe;bitter
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,flower,beautiful;red;wild;blooming;fragrant;small;large;colorful;wilted;exotic
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,grass,green;tall;short;wet;dry;wild;mowed;fresh;lush;yellowed
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,lettuce,fresh;green;crisp;organic;wilted;raw;chopped;leafy;bitter;small
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,mushroom,fresh;wild;edible;poisonous;small;large;dried;cooked;white;exotic
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,onion,fresh;large;small;red;white;spicy;raw;cooked;organic;pungent
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,pepper,red;green;hot;sweet;fresh;dried;spicy;small;large;organic
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,potato,fresh;large;small;baked;boiled;organic;raw;mashed;sweet;rotten
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,rose,red;beautiful;thorny;fragrant;wild;blooming;white;yellow;fresh;dried
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,tomato,red;fresh;ripe;juicy;small;large;organic;raw;cooked;sweet
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Plants,tree,tall;green;old;young;leafy;fruit-bearing;dead;ancient;shady;bare
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,ally,strong;faithful;strategic;reliable;powerful;secret;foreign;true;supportive;key
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,brother,older;younger;loving;protective;twin;estranged;supportive;distant;brave;caring
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,enemy,fierce;sworn;powerful;ancient;hidden;foreign;dangerous;mortal;bitter;ruthless
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,father,loving;strict;absent;proud;hardworking;wise;young;old;supportive;distant
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;blind;fervent;mass;quiet;influential;young;old;enthusiastic
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,friend,best;close;old;new;loyal;trustworthy;childhood;distant;fun;supportive
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,leader,strong;charismatic;effective;visionary;democratic;weak;inspiring;young;old;elected
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,mother,loving;caring;strict;single;protective;busy;wise;young;old;devoted
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,partner,business;life;reliable;equal;supportive;creative;distant;junior;senior;trusted
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,rival,fierce;corporate;athletic;bitter;strong;historical;local;main;weaker;competitive
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,sister,younger;older;loving;protective;twin;estranged;caring;distant;brave;supportive
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Social Relationships,stranger,mysterious;unknown;dangerous;friendly;foreign;passing;helpful;suspicious;lone;wandering
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,above,high;clear;bright;distant;visible;open;vast;empty;blue;starry
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,back,rear;hidden;strong;weak;broad;narrow;injured;straight;muscular;exposed
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,below,deep;hidden;dark;low;unseen;underground;submerged;quiet;vast;mysterious
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,east,distant;rising;sunny;coastal;ancient;modern;foggy;clear;vast;wild
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,front,main;forward;visible;open;wide;narrow;busy;clean;decorative;strong
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,inside,warm;hidden;dark;bright;empty;full;quiet;cozy;spacious;secure
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,left,free;open;bare;hidden;weak;strong;empty;crowded;dark;bright
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,north,frozen;wild;cold;vast;ancient;modern;forested;coastal;empty;rugged
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,outside,cold;warm;wet;dry;empty;crowded;bright;dark;fresh;noisy
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,right,correct;strong;free;proper;moral;absolute;legal;basic;natural;inherent
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,south,warm;sunny;coastal;tropical;vast;rural;modern;ancient;dry;lush
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,west,wild;distant;sunny;coastal;ancient;modern;windy;empty;rugged;golden
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,century,past;modern;ancient;golden;dark;recent;long;short;historical;forgotten
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,day,sunny;rainy;long;short;busy;lazy;clear;dark;warm;cold
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,evening,quiet;warm;cool;long;short;peaceful;romantic;busy;dark;golden
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;final;golden;dark;productive
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,minute,short;long;final;quick;slow;exact;passing;crucial;tense;fleeting
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;final;early;festive;rainy
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,morning,fresh;bright;early;foggy;cool;sunny;quiet;busy;crisp;lazy
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;warm;stormy;peaceful;endless;magical
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,season,long;short;warm;cold;rainy;dry;festive;productive;harsh;mild
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,second,short;final;quick;long;crucial;passing;exact;tense;fleeting;decisive
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;final;early;productive;relaxing;tough;light
+grok-3-mini,basic,1.0,JA # Japanese,Perfect,most frequent,Time Concepts,year,long;short;busy;quiet;final;early;productive;memorable;tough;golden

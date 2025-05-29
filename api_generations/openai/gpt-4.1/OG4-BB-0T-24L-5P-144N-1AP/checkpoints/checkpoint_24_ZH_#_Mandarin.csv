@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;big;hot;quick;wild;silent
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,courage,great;real;strong;true;big;quiet;new;much;little;brave
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,fear,great;deep;real;big;sudden;strong;cold;little;silent;dark
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,freedom,great;real;true;full;new;big;much;little;open;personal
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,happiness,great;real;true;full;big;much;little;simple;quiet;deep
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,hate,deep;strong;real;great;big;cold;sudden;true;silent;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,honesty,real;true;great;full;simple;open;quiet;big;much;deep
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,justice,real;true;great;full;simple;open;big;much;fair;right
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,knowledge,great;deep;real;true;full;big;much;new;little;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,love,true;real;great;deep;big;strong;new;first;much;little
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,peace,great;real;true;full;quiet;deep;new;big;much;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,wisdom,great;deep;real;true;full;big;much;new;little;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;quiet;round;heavy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,candle,small;big;white;red;long;short;old;new;thin;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;green;soft;long;thick;clean
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;clean;dirty;thin
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,crown,gold;silver;big;small;old;new;heavy;light;bright;rich
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,flag,red;blue;white;green;big;small;old;new;national;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,mask,white;black;red;big;small;old;new;funny;scary;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,necklace,gold;silver;long;short;big;small;old;new;pretty;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,painting,old;new;big;small;famous;pretty;simple;bright;dark;modern
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,ring,gold;silver;big;small;old;new;round;pretty;simple;thin
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;white;stone;gold;famous;tall;heavy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;pretty;simple;round;clean
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,cloud,white;big;small;dark;gray;light;high;low;soft;thick
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;quick;bad;heavy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,fog,thick;white;gray;heavy;light;cold;low;morning;soft;wet
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,lightning,bright;quick;strong;sudden;white;big;loud;wild;real;fast
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,rain,heavy;light;big;small;cold;warm;soft;hard;strong;sudden
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,rainbow,big;small;bright;beautiful;colorful;new;real;high;clear;light
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;big;small;deep;clean;fresh
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;wild;bad;cold;quick;dark;loud
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,thunder,loud;big;strong;sudden;wild;real;quick;heavy;deep;bad
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,tide,high;low;big;strong;fast;slow;new;old;real;quick
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;quiet;strong;hot;high;dark
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;big;small;fast;slow;soft;light
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;juicy;soft;hard
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,banana,yellow;big;small;sweet;ripe;fresh;soft;long;short;old
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,beef,fresh;cooked;raw;hot;cold;soft;hard;red;brown;good
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,bread,fresh;old;white;brown;soft;hard;big;small;warm;dry
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;healthy;good
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;big;small;strong;good
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,chicken,cooked;raw;hot;cold;fresh;big;small;white;brown;soft
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,egg,big;small;white;brown;fresh;cooked;raw;hard;soft;round
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;red;soft;hard;good
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,pasta,hot;cold;soft;hard;fresh;cooked;long;short;white;good
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;fresh;good
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Food Items,soup,hot;cold;fresh;good;big;small;thick;thin;clear;warm
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,artist,famous;young;old;new;good;great;modern;real;true;big
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,athlete,strong;young;old;good;great;fast;famous;new;big;real
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,chef,good;great;young;old;famous;new;real;true;big;busy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,doctor,good;great;young;old;busy;famous;new;real;true;kind
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,engineer,good;great;young;old;new;real;true;busy;smart;famous
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,farmer,old;young;good;great;hard;busy;new;real;true;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,lawyer,good;great;young;old;busy;new;real;true;smart;famous
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,musician,good;great;young;old;famous;new;real;true;big;busy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,scientist,good;great;young;old;smart;new;real;true;famous;busy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,soldier,strong;young;old;good;great;brave;new;real;true;busy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,teacher,good;great;young;old;new;real;true;busy;kind;smart
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Human Roles,writer,good;great;young;old;famous;new;real;true;busy;big
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,book,big;small;old;new;good;great;famous;long;short;real
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;wide
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,drums,big;small;old;new;loud;soft;round;red;brown;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;brown;rich;dry;wet
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,flute,long;short;old;new;silver;gold;small;big;soft;pretty
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,key,small;big;old;new;silver;gold;round;long;short;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;clean;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;silver;gold;round;heavy;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,moon,full;new;big;small;white;round;bright;high;clear;cold
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;long;short;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,sun,big;bright;hot;yellow;round;high;strong;clear;warm;new
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;big;small;silver;strong;clean
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,cat,small;big;young;old;black;white;cute;soft;quiet;quick
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,dog,big;small;young;old;black;white;brown;friendly;strong;quick
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,dolphin,big;small;young;old;smart;friendly;quick;blue;gray;cute
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;heavy;friendly;smart;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,hamster,small;big;young;old;cute;soft;quick;brown;white;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,monkey,small;big;young;old;quick;smart;funny;brown;friendly;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,mouse,small;big;young;old;gray;quick;quiet;cute;white;brown
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,peacock,big;small;young;old;colorful;pretty;blue;green;bright;proud
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,rabbit,small;big;young;old;white;gray;cute;quick;soft;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,shark,big;small;young;old;strong;quick;gray;white;wild;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,snake,long;short;big;small;young;old;green;quick;wild;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,whale,big;small;young;old;blue;gray;strong;friendly;wild;heavy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,city,big;small;old;new;busy;modern;quiet;rich;clean;famous
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,desert,big;small;hot;dry;old;new;wide;open;empty;sandy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,forest,big;small;old;new;green;dark;deep;quiet;wild;thick
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,island,big;small;old;new;green;quiet;far;near;open;pretty
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,lake,big;small;deep;clear;blue;old;new;quiet;round;fresh
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,mountain,big;small;high;low;old;new;green;tall;quiet;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,ocean,big;small;deep;blue;old;new;wild;open;quiet;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,plain,big;small;wide;open;green;flat;old;new;quiet;dry
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,plateau,big;small;high;low;old;new;wide;open;dry;flat
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,river,big;small;long;short;deep;wide;old;new;clear;fast
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,valley,big;small;deep;wide;green;old;new;quiet;long;open
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Places,village,small;big;old;new;quiet;pretty;friendly;simple;clean;far
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,cactus,green;big;small;old;new;tall;short;dry;thick;sharp
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,eggplant,purple;big;small;long;short;fresh;old;new;soft;round
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,flower,pretty;small;big;red;white;yellow;pink;fresh;new;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,grass,green;long;short;soft;thick;fresh;new;old;dry;wet
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;round;clean;healthy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,mushroom,small;big;white;brown;fresh;old;new;soft;round;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,onion,big;small;white;red;fresh;old;new;round;strong;sweet
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,potato,big;small;brown;white;fresh;old;new;round;soft;hard
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,rose,red;white;pink;yellow;pretty;fresh;new;old;big;small
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,tomato,red;big;small;fresh;new;old;round;soft;sweet;juicy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Plants,tree,big;small;old;new;green;tall;short;thick;strong;young
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,ally,good;strong;true;real;old;new;big;close;friendly;loyal
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,brother,big;small;young;old;good;true;real;strong;close;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,enemy,strong;old;new;big;small;real;true;bad;close;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,father,good;old;young;big;strong;true;real;kind;close;busy
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,follower,good;true;real;old;new;big;small;close;loyal;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,friend,good;true;real;old;new;close;best;big;small;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,leader,good;strong;true;real;old;new;big;smart;great;kind
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,mother,good;old;young;kind;true;real;big;close;busy;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,partner,good;true;real;old;new;big;small;close;strong;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,rival,strong;old;new;big;small;real;true;close;bad;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,sister,big;small;young;old;good;true;real;close;kind;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,stranger,new;real;true;old;big;small;quiet;close;friendly;young
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,above,high;far;close;open;new;old;big;small;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,back,big;small;old;new;strong;soft;hard;close;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,below,low;far;close;open;new;old;big;small;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,east,far;close;new;old;big;small;open;real;true;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,front,big;small;old;new;open;close;real;true;strong;clear
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,inside,small;big;close;open;new;old;real;true;quiet;dark
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,left,close;far;new;old;big;small;open;real;true;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,north,far;close;new;old;big;small;open;real;true;cold
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,outside,big;small;open;close;new;old;real;true;quiet;dark
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,right,close;far;new;old;big;small;open;real;true;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,south,far;close;new;old;big;small;open;real;true;warm
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,west,far;close;new;old;big;small;open;real;true;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,century,new;old;long;short;big;small;real;true;great;modern
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,day,new;old;long;short;good;bad;big;small;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,evening,quiet;long;short;new;old;dark;cool;good;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,hour,long;short;new;old;good;bad;big;small;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,minute,long;short;new;old;good;bad;big;small;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,month,new;old;long;short;good;bad;big;small;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,morning,new;old;quiet;long;short;good;bright;cool;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,night,long;short;dark;quiet;new;old;cool;good;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,season,new;old;long;short;good;bad;big;small;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,second,long;short;new;old;good;bad;big;small;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,week,new;old;long;short;good;bad;big;small;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,year,new;old;long;short;good;bad;big;small;real;true
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;open;silent;wild;burning;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,courage,great;true;real;strong;quiet;moral;personal;much;enough;little
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;little;open;silent;wild;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,freedom,personal;complete;full;real;political;total;true;much;great;new
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,happiness,great;real;true;complete;much;full;personal;simple;deep;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,hate,deep;strong;real;open;great;silent;wild;burning;quiet;sudden
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,honesty,complete;true;real;great;personal;open;full;simple;much;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,justice,true;real;social;great;complete;full;moral;open;equal;fair
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,knowledge,great;deep;real;true;much;full;complete;personal;new;little
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,love,true;real;great;deep;strong;first;much;new;personal;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,peace,real;true;great;complete;full;personal;quiet;deep;much;new
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,wisdom,great;true;real;deep;much;full;complete;personal;quiet;new
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;heavy;round;metal
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;thin;tall
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;green;soft;thick;long;clean
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;shiny;clean
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,crown,golden;big;small;old;new;heavy;beautiful;rich;bright;royal
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,flag,national;big;small;old;new;red;white;blue;green;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,mask,white;black;red;big;small;old;new;scary;funny;strange
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,necklace,gold;silver;new;old;long;short;beautiful;small;big;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;modern;simple;bright;colorful
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,ring,gold;silver;new;old;small;big;round;beautiful;simple;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;white;stone;golden;beautiful;famous;tall
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;beautiful;simple;round;tall
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;black;high;low;thick;light
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,earthquake,big;small;strong;sudden;real;great;natural;terrible;quick;recent
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,fog,thick;heavy;white;gray;light;cold;morning;low;wet;soft
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,lightning,bright;strong;quick;sudden;white;loud;big;real;wild;natural
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,rain,heavy;light;strong;cold;warm;soft;hard;big;small;sudden
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;big;small;colorful;new;rare;real;full;clear
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,snow,white;heavy;light;soft;cold;deep;fresh;new;clean;thick
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;wild;real;great;cold;hard;quick
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,thunder,loud;strong;big;sudden;real;wild;heavy;quick;hard;deep
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,tide,high;low;strong;big;small;fast;slow;natural;daily;regular
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;dead;high;strong;real;natural
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;big;small;soft;hard;fast;slow
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;juicy;ripe;new
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,banana,yellow;ripe;big;small;sweet;fresh;long;soft;new;green
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,beef,fresh;cooked;raw;red;soft;hard;hot;cold;new;good
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,bread,fresh;white;brown;soft;hard;new;old;big;small;warm
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;new;healthy
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;new;big;small;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,chicken,cooked;raw;fresh;hot;cold;big;small;white;soft;new
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,egg,fresh;raw;cooked;white;brown;big;small;new;hard;soft
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;new;old;soft;hard
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,pasta,cooked;hot;cold;fresh;soft;hard;new;long;short;white
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;fresh;soft;hard;new
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Food Items,soup,hot;cold;fresh;new;good;big;small;thick;clear;warm
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,artist,famous;young;old;new;great;good;modern;creative;talented;rich
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,athlete,young;strong;good;great;famous;new;old;fast;tall;talented
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,chef,good;great;famous;young;old;new;talented;creative;busy;skilled
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,doctor,good;great;young;old;new;famous;busy;kind;skilled;careful
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,engineer,good;great;young;old;new;skilled;busy;smart;talented;creative
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,farmer,old;young;good;hard;busy;new;great;poor;rich;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,lawyer,good;great;young;old;new;famous;busy;smart;skilled;rich
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,musician,famous;young;old;new;good;great;talented;creative;busy;rich
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,scientist,famous;young;old;new;good;great;smart;busy;talented;creative
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,soldier,young;old;good;great;strong;brave;new;famous;skilled;loyal
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,teacher,good;great;young;old;new;famous;kind;busy;smart;skilled
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Human Roles,writer,famous;young;old;new;good;great;creative;talented;busy;rich
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,book,new;old;big;small;good;great;famous;interesting;simple;long
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;famous;wide
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,drums,big;small;loud;new;old;red;white;round;strong;hard
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;beautiful;rich;warm;dry
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,flute,small;long;short;new;old;silver;white;beautiful;soft;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;simple;round;important;metal
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;metal;clean
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,lock,small;big;old;new;strong;simple;metal;heavy;silver;golden
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,moon,full;new;big;small;white;round;bright;beautiful;clear;high
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;long;short;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;strong;high;warm;new;clear
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,sword,sharp;long;short;big;small;old;new;silver;strong;metal
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,cat,small;big;young;old;black;white;cute;soft;quiet;fast
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,dog,big;small;young;old;black;white;brown;friendly;strong;fast
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,dolphin,big;small;smart;friendly;young;old;fast;gray;blue;playful
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;heavy;wild;smart;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,hamster,small;big;young;old;cute;white;brown;soft;fast;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,monkey,small;big;young;old;smart;funny;fast;brown;wild;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,mouse,small;big;young;old;gray;white;fast;quiet;cute;soft
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,peacock,beautiful;big;small;young;old;colorful;blue;green;bright;proud
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,rabbit,small;big;young;old;white;cute;soft;fast;quiet;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,shark,big;small;strong;fast;wild;gray;white;young;old;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,snake,long;short;big;small;green;black;fast;wild;young;old
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,whale,big;small;blue;gray;strong;young;old;wild;friendly;fast
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,city,big;small;old;new;modern;busy;rich;famous;clean;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,desert,big;small;hot;dry;old;new;empty;wide;open;sandy
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,forest,big;small;old;new;green;dark;deep;wild;thick;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,island,small;big;new;old;green;beautiful;quiet;far;near;famous
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,lake,big;small;deep;clear;blue;new;old;quiet;beautiful;fresh
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,mountain,high;big;small;old;new;green;tall;famous;beautiful;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,ocean,big;deep;blue;wide;open;wild;new;old;strong;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,plain,big;small;wide;open;green;flat;new;old;dry;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,plateau,high;big;small;wide;flat;dry;green;new;old;open
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,river,big;small;long;short;deep;wide;clear;blue;new;old
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,valley,deep;big;small;green;quiet;wide;long;new;old;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Places,village,small;big;old;new;quiet;simple;poor;rich;beautiful;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,cactus,green;big;small;tall;short;old;new;dry;wild;sharp
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,eggplant,purple;big;small;fresh;new;old;long;short;soft;round
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;new;old;colorful
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,grass,green;long;short;soft;fresh;new;old;thick;wild;dry
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,lettuce,green;fresh;new;old;big;small;soft;crisp;clean;healthy
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,mushroom,small;big;white;brown;fresh;new;old;soft;wild;round
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;strong;sweet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,potato,big;small;white;brown;fresh;new;old;round;soft;hard
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;new;old;small;big
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,tomato,red;big;small;fresh;new;old;round;soft;sweet;ripe
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Plants,tree,big;small;old;new;green;tall;short;thick;strong;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,ally,good;strong;true;real;close;loyal;old;new;friendly;important
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,brother,big;small;young;old;good;true;real;close;strong;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,enemy,strong;real;true;old;new;big;small;great;open;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,father,good;old;young;strong;real;true;kind;great;close;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,follower,true;real;good;close;loyal;strong;new;old;young;important
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,friend,good;true;real;close;old;new;best;young;friendly;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,leader,good;strong;true;real;great;new;old;young;important;famous
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,mother,good;old;young;kind;true;real;close;great;friendly;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,partner,good;true;real;close;strong;new;old;young;important;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,rival,strong;real;true;old;new;big;small;great;open;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,sister,big;small;young;old;good;true;real;close;strong;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,stranger,new;real;true;old;young;big;small;quiet;friendly;open
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,above,high;open;clear;wide;bright;blue;empty;free;far;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,back,big;small;strong;old;new;hard;soft;wide;straight;weak
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,below,low;dark;deep;quiet;cold;wet;soft;empty;open;far
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,east,far;near;open;big;small;new;old;bright;clear;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,front,big;small;open;wide;clear;new;old;bright;close;straight
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,inside,small;big;dark;quiet;warm;soft;new;old;close;safe
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,left,open;free;big;small;new;old;close;quiet;clear;straight
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,north,cold;far;open;big;small;new;old;quiet;clear;high
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,outside,open;big;small;new;old;free;wide;bright;clear;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,right,open;free;big;small;new;old;close;quiet;clear;straight
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,south,warm;far;open;big;small;new;old;quiet;clear;low
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,west,far;open;big;small;new;old;quiet;clear;bright;wide
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,century,new;old;last;next;past;great;long;short;important;modern
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;busy;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,evening,quiet;long;short;good;bad;warm;cold;dark;new;old
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,hour,long;short;new;old;last;next;busy;quiet;good;bad
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,minute,long;short;new;old;last;next;quick;slow;good;bad
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,month,new;old;last;next;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,morning,early;new;quiet;long;short;good;bad;cold;warm;busy
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;new;old;good;bad
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,second,long;short;new;old;last;next;quick;slow;good;bad
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,week,new;old;last;next;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,year,new;old;last;next;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;silent;open;wild;burning;bitter
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,courage,great;true;real;quiet;moral;personal;physical;inner;strong;brave
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,fear,great;deep;sudden;real;strong;silent;open;wild;burning;bitter
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,freedom,personal;complete;full;political;real;true;total;individual;economic;religious
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,happiness,great;real;true;complete;pure;simple;deep;lasting;perfect;personal
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,hate,deep;strong;real;open;silent;bitter;wild;burning;great;true
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,honesty,complete;true;real;great;personal;simple;open;full;moral;perfect
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,justice,social;true;real;great;equal;moral;complete;perfect;legal;fair
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,knowledge,great;deep;real;true;complete;full;personal;wide;general;scientific
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,love,true;real;great;deep;strong;pure;perfect;simple;lasting;personal
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,peace,real;true;great;complete;lasting;perfect;inner;personal;political;world
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,wisdom,great;true;real;deep;ancient;old;personal;practical;simple;moral
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;heavy;round;metal;church
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,candle,small;white;red;long;short;thin;thick;burning;scented;new
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,carpet,big;small;red;old;new;soft;thick;thin;clean;dirty
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,coin,old;new;small;gold;silver;round;rare;ancient;shiny;valuable
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,crown,golden;royal;old;new;big;small;beautiful;heavy;silver;rich
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,flag,national;red;white;blue;big;small;old;new;colorful;green
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,mask,white;black;red;old;new;small;big;scary;beautiful;golden
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;old;new;long;short;small;big;colorful
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;modern;classic;colorful;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,ring,gold;silver;small;big;old;new;beautiful;round;simple;shiny
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;golden;beautiful;famous;white
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;beautiful;simple;round;glass
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;black;light;heavy;thick;soft
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;great;powerful;deadly;recent;terrible
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,fog,thick;heavy;white;gray;light;cold;morning;dense;wet;low
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;blue;powerful;loud;fast;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;hard;soft;strong;steady;sudden;gentle
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;clear;full;perfect;rare;lovely
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,snow,white;heavy;light;soft;cold;fresh;deep;thick;new;clean
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;great;wild;terrible;powerful;loud;dark
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;big;heavy;deep;wild;powerful;great;distant
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;big;small;rising;falling;daily;regular
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,volcano,active;dead;big;small;old;new;dangerous;high;famous;powerful
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;light;heavy;soft;sudden;steady;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;juicy;round;ripe;crisp
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,banana,yellow;ripe;green;big;small;sweet;fresh;long;soft;curved
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,beef,fresh;raw;cooked;red;tender;lean;juicy;thick;thin;tasty
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;thick;thin;sweet;dry
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;healthy;soft;hard;tasty
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,cheese,soft;hard;white;yellow;fresh;old;strong;mild;tasty;rich
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,chicken,cooked;raw;fresh;fried;grilled;roasted;small;big;white;tasty
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,egg,boiled;fried;raw;fresh;white;brown;small;big;hard;soft
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,fish,fresh;raw;cooked;small;big;white;red;tasty;fried;grilled
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,pasta,cooked;fresh;hot;cold;soft;long;short;white;tasty;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,rice,white;brown;cooked;raw;soft;hard;hot;cold;sticky;dry
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Food Items,soup,hot;cold;thick;thin;tasty;fresh;clear;simple;rich;warm
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,artist,young;old;famous;great;modern;talented;creative;new;local;popular
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,athlete,young;strong;fast;great;famous;talented;old;new;top;skilled
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,chef,great;famous;young;old;new;talented;skilled;local;top;creative
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,doctor,good;young;old;famous;great;new;local;skilled;kind;busy
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,engineer,good;young;old;skilled;talented;new;great;local;top;smart
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,farmer,old;young;local;small;big;good;hard-working;poor;rich;skilled
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,lawyer,good;young;old;famous;great;skilled;local;new;top;smart
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,musician,young;old;famous;great;talented;new;local;popular;skilled;creative
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,scientist,great;young;old;famous;new;smart;talented;skilled;top;local
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,soldier,brave;young;old;strong;good;great;new;skilled;loyal;famous
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,teacher,good;young;old;great;new;local;kind;smart;skilled;popular
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Human Roles,writer,young;old;famous;great;new;talented;creative;local;popular;skilled
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,book,old;new;big;small;good;famous;interesting;thick;thin;popular
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;high;low;strong;famous
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,drums,big;small;loud;old;new;red;black;wooden;heavy;round
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,earth,big;round;old;blue;green;beautiful;rich;dry;wet;warm
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,flute,silver;wooden;small;long;short;old;new;beautiful;simple;soft
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;metal;important;main;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;metal;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;metal;silver;golden;simple;heavy
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,moon,full;new;big;small;bright;white;round;beautiful;clear;pale
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;long;short
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;red;strong;warm;golden;shining
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;silver;golden;big;small;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,cat,small;big;black;white;young;old;cute;lazy;soft;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;cute
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;young;old;fast;playful;gray;blue
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,elephant,big;small;young;old;gray;wild;strong;friendly;smart;gentle
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,hamster,small;cute;young;old;brown;white;friendly;soft;quick;round
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,monkey,small;big;young;old;brown;smart;funny;wild;quick;playful
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,mouse,small;gray;white;brown;quick;cute;young;old;wild;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;wild;young;old;bright;green;blue
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,rabbit,small;white;gray;brown;cute;young;old;quick;soft;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,shark,big;small;strong;fast;wild;dangerous;gray;white;young;old
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,snake,long;short;big;small;green;black;dangerous;wild;quick;young
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,whale,big;small;blue;gray;young;old;wild;strong;friendly;huge
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,city,big;small;old;new;modern;busy;large;famous;rich;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,desert,big;small;hot;dry;sandy;wide;empty;open;wild;cold
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,forest,big;small;green;dark;deep;old;wild;thick;quiet;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,island,small;big;beautiful;green;quiet;wild;new;old;famous;tropical
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;quiet;old;new;round
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,mountain,high;low;big;small;old;new;green;tall;famous;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,ocean,big;deep;blue;wide;open;wild;beautiful;great;strong;calm
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,plain,big;small;wide;open;green;flat;dry;empty;quiet;long
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,plateau,high;big;small;wide;flat;dry;open;green;old;new
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,river,big;small;long;short;deep;wide;narrow;clear;fast;slow
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,valley,deep;wide;narrow;green;small;big;quiet;beautiful;long;open
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Places,village,small;big;old;new;quiet;local;poor;rich;beautiful;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,cactus,green;small;big;tall;short;wild;old;new;dry;sharp
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,eggplant,purple;big;small;fresh;long;short;round;new;old;soft
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;pink;blue
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,grass,green;long;short;fresh;wild;soft;thick;dry;new;tall
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;crisp;round;healthy
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;soft;new;old;round
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;sweet;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;spicy
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,potato,big;small;brown;white;fresh;new;old;round;soft;hard
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;small;big;lovely
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,tomato,red;big;small;fresh;round;ripe;new;old;soft;juicy
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Plants,tree,big;small;old;new;green;tall;short;young;wild;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,ally,strong;good;close;true;loyal;old;new;important;trusted;powerful
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,brother,big;small;young;old;older;younger;good;close;dear;real
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,enemy,strong;old;new;great;real;true;powerful;main;big;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,father,good;old;young;real;true;loving;kind;strong;caring;wise
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,follower,loyal;true;good;close;strong;new;old;faithful;important;trusted
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,friend,good;close;best;old;new;true;dear;real;loyal;trusted
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,leader,strong;good;great;true;new;old;main;important;powerful;wise
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,mother,good;old;young;real;true;loving;kind;caring;strong;wise
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,partner,good;close;true;new;old;strong;important;trusted;loyal;real
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,rival,strong;main;old;new;true;real;great;big;powerful;important
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,sister,big;small;young;old;older;younger;good;close;dear;real
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,stranger,complete;total;real;true;new;old;quiet;silent;unknown;foreign
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,above,high;open;clear;bright;blue;wide;empty;free;sunny;light
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,back,lower;upper;strong;weak;big;small;soft;hard;straight;broad
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,below,low;dark;deep;quiet;cold;wet;empty;silent;hidden;narrow
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,east,far;near;big;small;open;new;old;main;important;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,front,main;open;big;small;wide;clear;new;old;bright;important
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,inside,dark;quiet;warm;soft;small;big;safe;private;hidden;secret
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,left,main;open;big;small;free;new;old;important;quiet;clear
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,north,far;near;big;small;cold;new;old;main;important;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,outside,open;big;small;wide;free;new;old;bright;clear;public
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,right,main;open;big;small;free;new;old;important;clear;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,south,far;near;big;small;warm;new;old;main;important;sunny
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,west,far;near;big;small;open;new;old;main;important;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,century,last;new;old;past;present;next;great;long;short;important
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,day,new;long;short;good;bad;sunny;rainy;busy;quiet;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,evening,early;late;long;short;quiet;dark;cool;warm;nice;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,hour,long;short;last;next;early;late;busy;quiet;free;full
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,minute,last;next;long;short;early;late;free;busy;quiet;full
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,month,last;next;new;old;long;short;busy;quiet;cold;warm
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,morning,early;late;long;short;quiet;cold;warm;new;busy;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;clear;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,season,new;old;long;short;cold;warm;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,second,last;next;long;short;early;late;free;busy;quiet;full
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,week,last;next;new;old;long;short;busy;quiet;free;full
+gpt-4.1,basic,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,year,last;next;new;old;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;growing;bitter;cold;burning;fierce
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,courage,great;true;quiet;moral;physical;inner;remarkable;extraordinary;steady;personal
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,fear,deep;great;sudden;constant;irrational;real;growing;intense;silent;overwhelming
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,freedom,complete;total;personal;political;individual;true;economic;religious;absolute;full
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,happiness,great;true;real;pure;simple;lasting;deep;complete;perfect;genuine
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,hate,deep;blind;pure;intense;cold;open;bitter;strong;burning;violent
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,honesty,complete;true;absolute;personal;total;simple;real;open;great;moral
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,justice,true;social;criminal;equal;natural;legal;real;poetic;moral;divine
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,knowledge,deep;great;general;scientific;practical;personal;basic;detailed;wide;technical
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,love,true;deep;great;pure;real;first;romantic;strong;unconditional;passionate
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,peace,lasting;true;complete;inner;world;real;perfect;long;political;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,wisdom,great;ancient;true;practical;deep;human;spiritual;common;traditional;real
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,bell,large;small;old;golden;silver;church;loud;heavy;broken;ancient
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,candle,small;white;tall;scented;burning;red;thin;new;old;wax
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,carpet,red;large;old;thick;soft;new;beautiful;blue;Persian;clean
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,coin,old;gold;silver;small;rare;ancient;new;round;valuable;foreign
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;heavy;silver;ancient;jeweled;new;broken
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,flag,national;red;white;blue;old;new;large;small;green;official
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,mask,white;black;old;new;wooden;golden;painted;beautiful;strange;red
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;long;short;old;new;pearl;diamond;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,painting,old;beautiful;famous;large;small;modern;new;original;abstract;classic
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;old;new;beautiful;simple;small;big
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,statue,large;old;ancient;bronze;marble;golden;famous;small;broken;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,vase,old;beautiful;large;small;blue;white;broken;new;porcelain;tall
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;black;thick;heavy;light;gray;fluffy
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,earthquake,big;strong;powerful;sudden;recent;major;minor;deadly;violent;destructive
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,fog,thick;heavy;white;morning;cold;dense;light;gray;wet;low
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;quick;powerful;white;blue;silent;dangerous;sharp
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,rain,heavy;light;cold;steady;hard;soft;constant;gentle;warm;sudden
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;double;full;clear;rare;perfect;wide
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,snow,white;heavy;fresh;deep;soft;light;cold;new;thick;falling
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,storm,big;strong;violent;sudden;heavy;powerful;bad;tropical;winter;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,thunder,loud;distant;rolling;heavy;sudden;deep;strong;sharp;constant;soft
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;powerful;regular;spring;neap
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;dangerous;old;new;famous;large;powerful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;soft;steady;hard;fresh;powerful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,apple,red;green;fresh;big;small;sweet;juicy;ripe;crisp;round
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,banana,ripe;yellow;green;fresh;big;small;sweet;long;soft;curved
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,beef,fresh;raw;cooked;tender;lean;ground;grilled;roasted;juicy;rare
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,bread,fresh;white;brown;soft;warm;homemade;sliced;hard;sweet;dry
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,broccoli,fresh;green;steamed;cooked;raw;boiled;healthy;small;big;tender
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,cheese,hard;soft;fresh;blue;white;yellow;strong;mild;creamy;aged
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;fresh;raw;baked;spicy;tender;hot
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;white;brown;cooked;scrambled
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;big;small;smoked;dried;salty
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,pasta,cooked;fresh;hot;cold;homemade;Italian;long;short;creamy;dry
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,rice,white;brown;cooked;steamed;fried;fresh;hot;cold;sticky;dry
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Food Items,soup,hot;warm;cold;thick;clear;fresh;homemade;spicy;salty;creamy
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,artist,famous;young;talented;great;modern;creative;new;old;local;successful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,athlete,young;great;professional;strong;famous;talented;top;fast;successful;skilled
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,chef,famous;great;young;talented;professional;French;Italian;skilled;creative;top
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,doctor,good;young;old;famous;great;local;skilled;experienced;new;professional
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,engineer,skilled;young;talented;professional;experienced;good;great;senior;junior;new
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,farmer,local;small;old;young;poor;rich;hard-working;successful;experienced;traditional
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,lawyer,good;young;old;famous;great;skilled;experienced;successful;local;top
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,musician,famous;young;talented;great;classical;modern;skilled;local;new;successful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,scientist,famous;great;young;old;leading;top;talented;skilled;modern;successful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,soldier,brave;young;old;strong;good;experienced;loyal;skilled;dead;wounded
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,teacher,good;young;old;great;new;experienced;local;famous;kind;strict
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Human Roles,writer,famous;great;young;old;new;talented;successful;modern;local;creative
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,book,old;new;good;great;famous;big;small;interesting;thick;thin
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,bridge,old;new;big;small;long;short;famous;wooden;stone;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;African;electric;traditional;heavy
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,earth,round;big;small;green;blue;dry;wet;rich;soft;hard
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,flute,wooden;silver;old;new;small;long;short;beautiful;simple;traditional
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,key,small;old;new;golden;silver;big;lost;spare;broken;main
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;clean;rusty
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,lock,old;new;big;small;broken;strong;heavy;golden;silver;main
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,moon,full;new;bright;round;big;small;white;clear;half;shining
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,pen,blue;black;red;old;new;small;big;broken;cheap;expensive
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,sun,bright;hot;warm;big;red;yellow;shining;rising;setting;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;silver;golden;broken;big;small
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;lazy;wild;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,dolphin,friendly;smart;playful;big;small;wild;young;old;fast;gray
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,elephant,big;old;young;wild;African;Asian;gray;strong;friendly;huge
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;friendly;active;tiny;fluffy
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,monkey,small;big;young;old;wild;brown;clever;playful;noisy;active
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,mouse,small;gray;white;brown;wild;cute;young;old;quiet;quick
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,peacock,beautiful;colorful;big;male;female;wild;young;old;bright;proud
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,rabbit,white;brown;small;big;cute;wild;young;old;soft;quick
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,shark,big;dangerous;white;gray;wild;young;old;fast;strong;hungry
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,snake,long;short;big;small;green;poisonous;wild;young;old;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,whale,big;blue;white;gray;huge;wild;young;old;friendly;large
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,city,big;small;old;new;modern;ancient;busy;large;beautiful;famous
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,desert,hot;dry;big;small;sandy;wide;empty;cold;open;vast
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,forest,big;small;dark;deep;green;thick;old;wild;tropical;dense
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,island,small;big;tropical;beautiful;remote;lonely;private;rocky;green;famous
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;natural;round;quiet;famous
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,mountain,high;tall;big;small;steep;rocky;green;snow-capped;famous;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,ocean,big;deep;blue;wide;open;vast;wild;calm;rough;endless
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,plain,wide;open;flat;green;big;small;dry;grassy;empty;fertile
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,plateau,high;flat;wide;big;small;dry;rocky;green;cold;remote
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,river,big;small;long;short;deep;wide;narrow;fast;slow;clear
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,valley,deep;narrow;wide;green;small;big;beautiful;long;quiet;hidden
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Places,village,small;old;quiet;new;big;poor;rich;beautiful;remote;peaceful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,cactus,green;tall;small;big;wild;desert;round;sharp;dry;thick
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,eggplant,purple;big;small;fresh;long;round;cooked;raw;soft;ripe
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,flower,beautiful;red;white;yellow;pink;blue;fresh;small;big;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,grass,green;tall;short;dry;wet;fresh;wild;thick;soft;long
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,lettuce,fresh;green;crisp;big;small;raw;clean;soft;round;new
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,mushroom,wild;fresh;white;brown;small;big;edible;poisonous;raw;cooked
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,onion,red;white;yellow;big;small;fresh;raw;cooked;sweet;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,pepper,red;green;yellow;hot;sweet;small;big;fresh;black;spicy
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,potato,big;small;white;brown;fresh;raw;cooked;baked;fried;mashed
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;small;big;sweet
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,tomato,red;ripe;green;small;big;fresh;round;juicy;sweet;raw
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Plants,tree,big;small;old;tall;green;young;thick;strong;dead;fallen
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,ally,strong;loyal;close;powerful;good;trusted;important;old;new;reliable
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,brother,older;younger;big;little;twin;close;dear;lost;loving;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,enemy,old;new;strong;powerful;dangerous;deadly;bitter;real;main;traditional
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,father,good;old;young;loving;kind;strict;strong;caring;proud;wise
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,follower,loyal;faithful;close;true;new;old;strong;devoted;active;silent
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,friend,good;close;best;old;new;true;dear;loyal;trusted;childhood
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,leader,strong;good;great;new;old;true;powerful;wise;young;natural
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,mother,good;loving;kind;caring;young;old;strong;gentle;proud;wise
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,partner,good;close;new;old;true;strong;loyal;trusted;business;perfect
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,rival,old;new;strong;main;powerful;bitter;close;traditional;real;serious
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,sister,older;younger;big;little;twin;close;dear;lost;loving;kind
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,stranger,complete;total;perfect;new;old;silent;quiet;friendly;dangerous;unknown
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,above,high;open;clear;empty;bright;blue;wide;sunny;quiet;distant
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,back,lower;upper;strong;weak;straight;broad;narrow;flat;sore;stiff
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,below,deep;dark;cold;quiet;silent;empty;hidden;low;secret;wet
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,east,far;distant;bright;new;rising;open;sunny;quiet;warm;golden
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,front,main;open;wide;big;small;new;old;clear;bright;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,inside,dark;quiet;warm;safe;small;big;empty;full;secret;hidden
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,left,far;near;upper;lower;main;open;free;empty;quiet;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,north,far;distant;cold;wild;open;high;snowy;strong;quiet;dark
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,outside,open;wide;big;small;empty;quiet;dark;cold;bright;sunny
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,right,far;near;upper;lower;main;open;free;empty;quiet;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,south,far;distant;warm;open;sunny;quiet;green;rich;bright;peaceful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,west,far;distant;wild;open;sunny;quiet;golden;bright;warm;free
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,century,last;new;old;past;present;next;early;late;modern;golden
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,day,new;long;short;good;bad;sunny;rainy;busy;bright;cold
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,evening,early;late;quiet;long;short;warm;cool;dark;peaceful;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,hour,last;next;early;late;long;short;busy;quiet;free;golden
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,minute,last;next;early;late;long;short;busy;free;quiet;golden
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,month,last;next;new;old;early;late;long;short;busy;cold
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,morning,early;late;quiet;cold;warm;new;bright;busy;fresh;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;peaceful;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,season,new;last;next;long;short;cold;warm;dry;rainy;busy
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,second,last;next;early;late;long;short;busy;free;quiet;golden
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,week,last;next;new;old;long;short;busy;free;quiet;hard
+gpt-4.1,basic,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,year,last;next;new;old;early;late;long;short;busy;good
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;open;burning;growing;bitter;cold
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,courage,great;true;quiet;moral;physical;inner;strong;real;steady;brave
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,fear,deep;great;sudden;real;constant;silent;growing;cold;irrational;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,freedom,complete;total;personal;political;true;full;individual;economic;religious;absolute
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,happiness,true;great;real;pure;simple;lasting;deep;complete;perfect;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,hate,deep;strong;open;cold;growing;bitter;blind;real;silent;burning
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,honesty,complete;true;real;total;personal;simple;open;perfect;absolute;moral
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,justice,true;real;social;equal;complete;perfect;moral;fair;legal;absolute
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,knowledge,deep;great;true;complete;perfect;wide;real;personal;scientific;practical
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,love,true;deep;great;real;pure;first;perfect;strong;lasting;romantic
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,peace,true;lasting;complete;perfect;real;inner;quiet;deep;world;total
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,wisdom,great;true;deep;real;practical;ancient;perfect;quiet;simple;moral
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;heavy;church;school;round
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,candle,white;small;big;red;long;short;scented;burning;birthday;wax
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,carpet,red;big;small;old;new;soft;thick;blue;green;clean
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,coin,old;new;gold;silver;small;round;rare;ancient;shiny;valuable
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;old;new;beautiful;heavy;silver;big;jeweled;ancient
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,flag,national;red;blue;white;big;small;old;new;green;colorful
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,mask,white;black;red;old;new;wooden;golden;silver;scary;colorful
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;old;new;long;short;pearl;diamond;colorful
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,painting,old;new;beautiful;famous;big;small;modern;classic;colorful;original
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;old;new;small;big;beautiful;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;golden;famous;ancient;beautiful
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,vase,old;new;big;small;blue;white;beautiful;glass;ceramic;colorful
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;black;thick;light;heavy;fluffy
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,earthquake,big;small;strong;powerful;sudden;deadly;recent;major;minor;destructive
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,fog,thick;heavy;white;gray;morning;cold;dense;light;low;wet
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;quick;powerful;white;blue;loud;dangerous;sharp
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;hard;soft;sudden;gentle;constant
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,rainbow,bright;beautiful;colorful;big;small;double;clear;full;rare;perfect
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,snow,white;heavy;light;fresh;deep;soft;cold;new;thick;clean
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;violent;powerful;cold;dark;loud;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;heavy;distant;rolling;powerful;sharp;constant
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;big;powerful;fast;regular
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;big;small;old;new;dangerous;powerful;famous;extinct
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;soft;hard;steady;sudden;fresh
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;juicy;ripe;round;crisp
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,banana,yellow;ripe;green;big;small;sweet;fresh;soft;long;curved
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,beef,fresh;raw;cooked;tender;lean;ground;grilled;roasted;juicy;spicy
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;sliced;homemade;sweet;crusty
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,broccoli,fresh;green;cooked;raw;steamed;healthy;small;big;soft;tender
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,cheese,soft;hard;fresh;old;white;yellow;creamy;sliced;strong;mild
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;fresh;spicy;tender;baked;juicy
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;white;brown;cooked;large
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,fish,fresh;raw;cooked;fried;grilled;big;small;white;oily;salty
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,pasta,cooked;fresh;hot;cold;long;short;soft;creamy;spicy;homemade
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,rice,white;brown;cooked;raw;steamed;fried;soft;sticky;hot;cold
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,soup,hot;cold;thick;thin;clear;spicy;salty;fresh;homemade;warm
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,artist,famous;young;old;great;talented;modern;creative;local;new;skilled
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,athlete,young;strong;great;famous;professional;talented;fast;skilled;top;new
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,chef,famous;great;young;old;skilled;talented;professional;creative;new;top
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,doctor,good;young;old;famous;skilled;experienced;local;new;caring;professional
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,engineer,skilled;young;old;good;experienced;talented;professional;new;creative;top
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,farmer,local;old;young;small;big;good;hard-working;skilled;new;experienced
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,lawyer,good;young;old;famous;skilled;experienced;local;new;top;professional
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,musician,famous;young;old;great;talented;skilled;new;local;creative;professional
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,scientist,famous;young;old;great;skilled;talented;new;top;creative;experienced
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,soldier,brave;young;old;strong;good;skilled;new;experienced;loyal;tough
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,teacher,good;young;old;great;new;experienced;local;caring;skilled;patient
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,writer,famous;young;old;great;talented;skilled;new;creative;local;popular
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,book,old;new;big;small;famous;good;interesting;thick;thin;popular
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;famous;wooden;stone
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;metal;heavy;light;round
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,earth,big;round;blue;green;old;beautiful;rich;warm;soft;dry
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;small;long;new;old;beautiful;soft;sweet;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,key,small;big;old;new;golden;silver;metal;main;spare;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;dangerous
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,lock,old;new;big;small;strong;metal;golden;silver;main;broken
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,moon,full;new;bright;round;big;small;white;clear;beautiful;half
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;long;short;broken
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;warm;strong;shining;golden;clear
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;silver;golden;big;small;heavy
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;lazy;playful;friendly
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;playful
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;young;old;playful;fast;gray;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,elephant,big;small;young;old;wild;gray;strong;friendly;smart;gentle
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,hamster,small;cute;young;old;brown;white;friendly;active;soft;tiny
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,monkey,small;big;young;old;wild;smart;playful;brown;active;funny
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;young;old;wild;cute;quick;quiet;tiny
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;wild;young;old;bright;blue;green
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,rabbit,white;brown;small;big;cute;young;old;wild;soft;quick
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,shark,big;small;dangerous;wild;white;gray;fast;strong;young;old
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,snake,long;short;big;small;green;dangerous;wild;young;old;quick
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,whale,big;small;blue;gray;young;old;wild;strong;friendly;huge
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,city,big;small;old;new;modern;busy;large;beautiful;famous;crowded
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,desert,hot;dry;big;small;sandy;wide;empty;open;cold;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,forest,big;small;dark;green;deep;old;thick;wild;quiet;dense
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,island,small;big;tropical;beautiful;remote;quiet;wild;green;new;private
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;quiet;round;fresh;natural
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,mountain,high;big;small;tall;old;new;green;rocky;snowy;famous
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,ocean,big;deep;blue;wide;open;wild;beautiful;clear;warm;cold
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,plain,wide;open;flat;big;small;green;dry;grassy;empty;long
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,plateau,high;flat;big;small;wide;dry;rocky;green;open;cold
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,river,big;small;long;short;deep;wide;narrow;clear;fast;slow
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,valley,deep;wide;green;small;big;narrow;beautiful;quiet;long;open
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Places,village,small;big;old;new;quiet;local;rural;peaceful;beautiful;simple
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,cactus,green;big;small;tall;short;wild;old;new;round;dry
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,eggplant,purple;big;small;fresh;long;short;round;soft;cooked;raw
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,flower,beautiful;red;white;yellow;pink;blue;fresh;small;big;wild
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,grass,green;tall;short;wild;fresh;soft;thick;dry;long;new
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,lettuce,green;fresh;big;small;crisp;soft;new;raw;round;leafy
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,mushroom,white;brown;small;big;wild;fresh;cooked;raw;soft;round
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,onion,white;red;yellow;big;small;fresh;raw;cooked;sweet;strong
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,pepper,red;green;yellow;hot;sweet;small;big;fresh;spicy;raw
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,potato,big;small;white;brown;fresh;raw;cooked;soft;hard;round
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;small;big;sweet
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,tomato,red;big;small;fresh;ripe;green;round;juicy;sweet;raw
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Plants,tree,big;small;old;new;green;tall;short;young;wild;thick
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,ally,strong;loyal;good;close;old;new;trusted;important;powerful;true
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,brother,big;small;older;younger;good;close;real;strong;loving;loyal
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,enemy,strong;old;new;powerful;real;main;dangerous;true;bitter;open
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,father,good;old;young;loving;strong;real;caring;wise;strict;kind
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,follower,loyal;true;strong;close;new;old;good;faithful;active;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,friend,good;close;best;old;new;true;loyal;real;dear;trusted
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,leader,strong;good;great;new;old;true;main;powerful;wise;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,mother,good;loving;kind;caring;strong;real;old;young;wise;gentle
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,partner,good;close;new;old;true;strong;loyal;important;trusted;loving
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,rival,strong;main;old;new;true;powerful;close;real;bitter;open
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,sister,big;small;older;younger;good;close;real;loving;kind;loyal
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,stranger,complete;total;new;real;true;perfect;quiet;silent;open;unknown
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,above,high;open;clear;wide;bright;empty;blue;sunny;free;quiet
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,back,lower;upper;strong;weak;straight;broad;narrow;soft;hard;flat
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,below,low;deep;dark;quiet;cold;empty;open;hidden;silent;secret
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,east,far;near;bright;open;sunny;warm;new;quiet;main;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,front,main;open;wide;big;small;clear;bright;strong;new;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,inside,warm;quiet;dark;safe;soft;small;big;private;open;hidden
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,left,main;open;free;quiet;empty;big;small;strong;weak;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,north,far;cold;open;wild;big;small;main;important;quiet;new
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,outside,open;wide;free;big;small;quiet;cold;warm;bright;empty
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,right,main;open;free;quiet;empty;big;small;strong;weak;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,south,far;warm;open;big;small;main;important;quiet;new;sunny
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,west,far;open;warm;big;small;main;important;quiet;new;sunny
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,century,new;old;last;next;past;present;long;short;great;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,day,new;long;short;good;bad;sunny;rainy;hot;cold;busy
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,evening,quiet;long;short;warm;cool;dark;late;early;beautiful;peaceful
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,hour,long;short;late;early;busy;free;last;next;quiet;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,minute,long;short;last;next;early;late;free;busy;quiet;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,month,new;last;next;long;short;busy;quiet;cold;hot;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,morning,early;quiet;long;short;cold;warm;new;busy;fresh;bright
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;clear;peaceful
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,season,new;last;next;long;short;cold;hot;dry;rainy;busy
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,second,long;short;last;next;early;late;free;busy;quiet;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,week,new;last;next;long;short;busy;quiet;good;bad;important
+gpt-4.1,basic,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,year,new;last;next;long;short;good;bad;busy;quiet;important

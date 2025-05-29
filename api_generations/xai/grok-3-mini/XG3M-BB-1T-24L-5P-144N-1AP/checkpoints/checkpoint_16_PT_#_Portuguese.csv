@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,anger,strong;hot;deep;sudden;bad;quick;bitter;raw;intense;blind
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,courage,brave;strong;great;true;big;quiet;sudden;blind;raw;bitter
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,fear,big;cold;deep;sudden;strong;quick;bad;dark;intense;blind
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,freedom,great;true;big;new;strong;quick;bad;raw;intense;blind
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,happiness,great;true;big;new;strong;quick;good;warm;fresh;bright
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,hate,strong;deep;bad;quick;bitter;raw;intense;blind;dark;cold
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,honesty,true;good;strong;simple;clear;quick;bad;raw;intense;blind
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,justice,fair;strong;good;true;quick;bad;raw;intense;blind;dark
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,knowledge,great;deep;true;new;strong;quick;bad;raw;intense;blind
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,love,great;true;big;deep;strong;quick;good;warm;fresh;blind
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,peace,quiet;good;true;deep;strong;quick;bad;raw;intense;blind
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Abstract Concepts,wisdom,great;true;deep;old;strong;quick;bad;raw;intense;blind
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;clear;broken;shiny;metal;round
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,candle,small;big;old;new;bright;warm;broken;shiny;white;round
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;soft;dirty;clean;red;thick;thin
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,coin,small;old;new;shiny;dirty;metal;round;heavy;light;valuable
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,crown,big;old;new;shiny;gold;heavy;royal;broken;beautiful;strong
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;colorful;red;blue;national;high;dirty
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,mask,small;big;old;new;black;scary;funny;broken;plastic;soft
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,necklace,small;big;old;new;shiny;gold;silver;beautiful;long;light
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,painting,big;small;old;new;beautiful;colorful;broken;dark;bright;simple
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,ring,small;old;new;shiny;gold;silver;beautiful;heavy;light;broken
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;metal;broken;tall;beautiful;strong
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Cultural Artifacts,vase,small;big;old;new;broken;colorful;glass;clay;beautiful;light
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,cloud,big;small;white;gray;high;fast;dark;light;soft;cold
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,earthquake,strong;big;sudden;bad;deep;fast;dark;light;old;new
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,fog,thick;gray;cold;heavy;bad;deep;fast;dark;light;soft
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,lightning,bright;fast;strong;sudden;bad;deep;dark;light;hot;cold
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;wet;bad;fast;dark;strong;sudden;soft
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;big;fast;dark;light;strong;sudden;soft
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;bad;fast;dark;strong;sudden
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,storm,strong;bad;fast;dark;heavy;light;cold;hot;big;small
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;bad;deep;fast;dark;light;hot;cold
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,tide,high;low;strong;fast;bad;deep;dark;light;hot;cold
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,volcano,big;hot;active;dangerous;deep;fast;dark;light;strong;sudden
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Environmental Phenomena,wind,strong;fast;cold;hot;bad;deep;dark;light;soft;heavy
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,apple,red;green;big;small;fresh;sweet;juicy;bad;hard;soft
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,banana,yellow;big;small;fresh;sweet;soft;bad;long;curved;ripe
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,beef,fresh;cooked;big;small;red;bad;hot;cold;soft;hard
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,bread,fresh;soft;white;brown;big;small;bad;hot;cold;hard
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,broccoli,green;fresh;big;small;bad;soft;hard;cooked;raw;healthy
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,cheese,yellow;soft;hard;fresh;bad;big;small;creamy;sharp;mild
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,chicken,fresh;cooked;big;small;white;bad;soft;hard;hot;cold
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,egg,fresh;white;brown;big;small;bad;soft;hard;cooked;raw
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,fish,fresh;big;small;silver;bad;soft;hard;cooked;raw;wild
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,pasta,cooked;soft;hard;fresh;bad;long;short;white;yellow;hot
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,rice,white;cooked;soft;hard;fresh;bad;long;short;hot;cold
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Food Items,soup,hot;cold;thick;thin;fresh;bad;tasty;creamy;vegetable;meat
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,artist,creative;talented;young;old;good;bad;famous;quiet;busy;happy
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,athlete,strong;fast;young;old;good;bad;fit;tall;quick;skilled
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,chef,skilled;busy;good;bad;young;old;creative;fast;happy;clean
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,doctor,skilled;busy;good;bad;young;old;kind;smart;quick;helpful
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,engineer,skilled;smart;good;bad;young;old;busy;creative;fast;helpful
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,farmer,hard-working;strong;good;bad;young;old;busy;simple;happy;clean
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,lawyer,smart;busy;good;bad;young;old;quick;helpful;strict;fair
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,musician,talented;good;bad;young;old;creative;busy;happy;skilled;famous
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,scientist,smart;curious;good;bad;young;old;busy;creative;quick;helpful
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,soldier,strong;brave;good;bad;young;old;trained;quick;loyal;disciplined
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,teacher,good;bad;young;old;patient;helpful;smart;busy;kind;strict
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Human Roles,writer,creative;good;bad;young;old;talented;busy;happy;skilled;famous
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,book,old;new;big;small;interesting;boring;thick;thin;colorful;heavy
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,bridge,old;new;big;strong;wooden;metal;high;long;broken;beautiful
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,drums,loud;big;small;wooden;metal;old;new;broken;shiny;heavy
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,earth,big;round;green;blue;old;new;beautiful;dirty;hot;cold
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,flute,small;wooden;metal;old;new;shiny;broken;light;sweet;loud
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,key,small;metal;old;new;shiny;broken;important;secret;long;short
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,knife,sharp;small;big;metal;old;new;broken;useful;dangerous;clean
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,lock,small;metal;old;new;broken;strong;secure;simple;heavy;light
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,moon,bright;big;full;new;old;white;beautiful;cold;distant;round
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,pen,small;black;blue;old;new;broken;cheap;expensive;useful;light
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;beautiful;strong;warm;powerful;daily;round
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Inanimate Objects,sword,sharp;big;metal;old;new;broken;heavy;light;dangerous;strong
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,cat,small;black;white;lazy;active;old;young;soft;friendly;wild
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,dog,big;small;friendly;loyal;old;young;active;lazy;smart;wild
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,dolphin,smart;fast;big;small;friendly;wild;gray;playful;aquatic;strong
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,elephant,big;gray;strong;wild;old;young;smart;slow;heavy;gentle
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,hamster,small;cute;furry;fast;wild;old;young;active;friendly;playful
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,monkey,small;smart;fast;wild;old;young;playful;furry;active;funny
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,mouse,small;gray;fast;wild;old;young;smart;furry;active;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,peacock,beautiful;colorful;big;wild;old;young;proud;active;noisy;exotic
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,rabbit,small;white;fast;wild;old;young;furry;active;cute;gentle
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,shark,big;dangerous;fast;wild;gray;strong;scary;active;hungry;fierce
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,snake,long;dangerous;wild;green;black;old;young;slippery;fast;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Neutral Animals,whale,big;huge;wild;gray;strong;old;young;gentle;fast;aquatic
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,city,big;busy;modern;old;noisy;clean;dirty;beautiful;crowded;exciting
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,desert,hot;dry;big;sandy;empty;wild;beautiful;harsh;yellow;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,forest,green;big;dense;wild;beautiful;dark;quiet;old;fresh;cool
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,island,small;big;tropical;beautiful;wild;green;sandy;remote;sunny;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,lake,big;small;blue;deep;calm;wild;beautiful;fresh;cold;clear
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,mountain,high;big;rocky;wild;beautiful;steep;old;snowy;green;tall
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,ocean,big;deep;blue;wild;beautiful;cold;warm;salty;vast;mysterious
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,plain,flat;wide;green;dry;wild;beautiful;empty;open;simple;vast
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,plateau,flat;high;rocky;wild;beautiful;dry;green;vast;empty;old
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,river,long;wide;deep;wild;beautiful;clear;dirty;fast;slow;blue
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,valley,green;deep;wide;wild;beautiful;fertile;quiet;sunny;cool;remote
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Places,village,small;quiet;old;green;simple;friendly;rural;beautiful;peaceful;remote
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,cactus,green;spiky;tall;small;wild;dry;tough;strange;beautiful;old
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,eggplant,purple;big;small;fresh;soft;hard;shiny;healthy;tasty;round
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,flower,beautiful;colorful;small;big;fresh;wild;sweet;bright;soft;red
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,grass,green;soft;short;long;fresh;wild;thick;thin;wet;dry
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,lettuce,green;fresh;crispy;big;small;healthy;soft;wet;raw;tasty
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,mushroom,small;white;fresh;wild;soft;hard;tasty;strange;brown;edible
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,onion,white;red;big;small;fresh;strong;tasty;raw;cooked;sharp
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,pepper,red;green;hot;big;small;fresh;tasty;spicy;raw;cooked
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,potato,brown;big;small;fresh;tasty;soft;hard;raw;cooked;healthy
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,rose,red;beautiful;fresh;big;small;sweet;thorny;wild;soft;bright
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,tomato,red;big;small;fresh;juicy;tasty;soft;hard;raw;cooked
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Plants,tree,tall;green;old;big;small;strong;wild;beautiful;leafy;shady
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,ally,strong;loyal;good;true;reliable;helpful;brave;smart;quick;faithful
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,brother,young;old;strong;kind;playful;helpful;smart;loyal;funny;caring
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,enemy,bad;strong;dangerous;clever;quick;ruthless;hidden;powerful;fierce;unknown
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,father,strong;kind;wise;old;young;caring;strict;hardworking;smart;loving
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,follower,loyal;faithful;strong;quick;helpful;smart;brave;dedicated;active;true
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,friend,good;true;loyal;fun;kind;helpful;smart;young;old;caring
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,leader,strong;wise;good;brave;smart;quick;powerful;fair;dedicated;inspiring
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,mother,kind;caring;loving;strong;wise;patient;hardworking;smart;gentle;supportive
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,partner,reliable;helpful;strong;smart;loyal;quick;good;dedicated;caring;true
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,rival,strong;tough;smart;quick;competitive;dangerous;fierce;skilled;ambitious;bold
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,sister,young;old;kind;caring;smart;fun;helpful;loyal;playful;supportive
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Social Relationships,stranger,unknown;mysterious;dangerous;new;odd;quiet;tall;short;friendly;unfriendly
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,above,high;bright;clear;distant;open;free;safe;warm;cool;vast
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,back,strong;wide;straight;curved;old;new;clean;dirty;soft;hard
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,below,low;dark;hidden;deep;quiet;cold;wet;dangerous;simple;vast
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,east,sunny;warm;distant;rising;bright;open;free;vast;beautiful;mysterious
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,front,clear;open;busy;clean;dirty;wide;narrow;strong;weak;bright
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,inside,warm;safe;dark;light;quiet;busy;clean;dirty;small;big
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,left,free;open;dark;light;quiet;busy;clean;dirty;strong;weak
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,north,cold;distant;wild;vast;beautiful;mysterious;open;free;high;low
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,outside,cold;hot;open;free;busy;quiet;clean;dirty;bright;dark
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,right,correct;true;just;proper;good;bad;clear;direct;straight;fair
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,south,warm;sunny;distant;vast;beautiful;open;free;high;low;mysterious
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Spatial Concepts,west,distant;wild;beautiful;open;free;vast;mysterious;sunny;warm;cool
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,century,long;old;new;important;busy;full;rich;poor;fast;slow
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;quiet;warm;cold;good;bad
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,evening,calm;cool;quiet;long;short;beautiful;dark;light;relaxing;busy
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;important;full;empty;fast
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,minute,short;quick;important;full;empty;last;first;busy;quiet;slow
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;full;empty;new;old
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,morning,fresh;bright;early;cool;quiet;busy;clear;sunny;new;good
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,night,dark;quiet;long;short;cold;warm;mysterious;peaceful;busy;starry
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;beautiful;busy;quiet;changing
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,second,short;quick;last;first;important;full;empty;fast;slow;final
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,week,long;short;busy;quiet;full;empty;new;old;good;bad
+grok-3-mini,basic,1.0,PT # Portuguese,B1,most frequent,Time Concepts,year,long;short;busy;quiet;full;empty;new;old;good;bad
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;great;furious;raw;hot;bitter;uncontrollable
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,courage,brave;strong;great;true;quiet;sudden;bold;heroic;unshakeable;simple
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,fear,deep;sudden;great;dark;cold;real;hidden;intense;irrational;basic
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,freedom,true;great;full;personal;complete;basic;new;total;equal;simple
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,happiness,great;pure;true;simple;deep;lasting;quiet;sudden;full;bright
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,hate,deep;strong;blind;bitter;intense;pure;cold;great;irrational;dark
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,honesty,true;complete;simple;pure;basic;full;real;straight;quiet;strong
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,justice,true;fair;complete;blind;social;equal;basic;pure;quick;strong
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,knowledge,deep;wide;basic;true;simple;full;practical;common;great;quick
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,love,true;deep;pure;great;strong;blind;simple;lasting;quiet;warm
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,peace,true;quiet;deep;full;inner;lasting;simple;global;basic;warm
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Abstract Concepts,wisdom,great;deep;true;ancient;simple;practical;quiet;full;common;strong
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,bell,old;loud;small;big;golden;ringing;clear;antique;simple;broken
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,candle,small;lit;old;bright;white;scented;tall;simple;melted;colored
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,carpet,soft;old;big;red;clean;thick;patterned;new;worn;simple
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,coin,old;small;shiny;gold;rare;new;metal;ancient;dirty;valuable
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,crown,golden;royal;big;old;heavy;jeweled;simple;ancient;bright;fake
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,flag,national;old;big;colorful;waving;simple;red;new;torn;foreign
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,mask,old;black;simple;scary;colorful;wooden;new;festive;protective;funny
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,necklace,gold;simple;old;beautiful;long;shiny;cheap;pearl;new;elegant
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,painting,old;beautiful;large;colorful;simple;famous;new;abstract;bright;dark
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,ring,gold;simple;old;shiny;big;wedding;cheap;diamond;new;broken
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,statue,old;large;stone;beautiful;ancient;tall;simple;broken;new;metal
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Cultural Artifacts,vase,old;beautiful;glass;large;simple;broken;colorful;small;antique;empty
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;fluffy;low;rainy;fast;simple;gray;high
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,earthquake,strong;sudden;big;dangerous;minor;deep;recent;violent;simple;rare
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,fog,thick;dense;cold;early;morning;simple;gray;light;wet;low
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,lightning,bright;fast;sudden;dangerous;simple;powerful;white;frequent;wild;close
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;steady;sudden;warm;simple;pouring;gentle;hard
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,rainbow,bright;colorful;beautiful;simple;full;double;fading;clear;rare;wide
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,snow,white;deep;fresh;cold;light;heavy;simple;falling;soft;wet
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,storm,strong;wild;big;sudden;dangerous;rainy;simple;dark;windy;fierce
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,thunder,loud;sudden;deep;powerful;simple;distant;rolling;fierce;rare;long
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;simple;outgoing;fast;calm;rough;daily
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,volcano,active;big;dangerous;simple;dormant;ancient;hot;tall;rare;explosive
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Environmental Phenomena,wind,strong;cold;gentle;fast;simple;warm;wild;steady;light;harsh
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,apple,red;fresh;big;sweet;green;ripe;simple;juicy;sour;small
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,banana,yellow;fresh;ripe;big;simple;green;sweet;soft;long;peeled
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,beef,fresh;cooked;lean;simple;tough;juicy;rare;ground;grilled;fatty
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,bread,fresh;soft;white;simple;warm;toasted;hard;sliced;brown;homemade
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,broccoli,fresh;green;simple;raw;cooked;small;crisp;steamed;organic
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,cheese,soft;hard;fresh;yellow;simple;sharp;melted;creamy;grated;aged
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,chicken,fresh;cooked;grilled;simple;roasted;tender;raw;fried;small;spicy
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,egg,fresh;boiled;raw;simple;brown;large;fried;white;cracked;hard
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,fish,fresh;big;simple;cooked;small;wild;frozen;grilled;salty;caught
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,pasta,cooked;simple;fresh;hot;dry;Italian;soft;long;cheesy;homemade
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,rice,cooked;white;simple;hot;steamed;brown;dry;fluffy;sticky;raw
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Food Items,soup,hot;simple;fresh;thick;cold;vegetable;creamy;spicy;clear;homemade
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,artist,talented;young;famous;creative;simple;skilled;local;modern;old;passionate
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,athlete,strong;fast;young;skilled;simple;professional;fit;dedicated;top;injured
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,chef,skilled;famous;young;simple;talented;busy;creative;professional;local;experienced
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,doctor,skilled;young;busy;simple;experienced;local;dedicated;professional;kind;male
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,engineer,skilled;young;simple;experienced;mechanical;busy;creative;professional;local;smart
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,farmer,local;old;simple;hard-working;young;busy;organic;rural;experienced;poor
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,lawyer,skilled;busy;simple;experienced;local;professional;young;smart;corporate;honest
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,musician,talented;young;famous;simple;skilled;local;professional;passionate;old;creative
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,scientist,skilled;young;simple;experienced;dedicated;professional;brilliant;local;busy;modern
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,soldier,brave;young;simple;trained;strong;dedicated;professional;local;injured;heroic
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,teacher,dedicated;young;simple;experienced;kind;local;professional;strict;passionate;good
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Human Roles,writer,talented;young;famous;simple;creative;local;experienced;skilled;passionate;old
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,book,old;new;thick;simple;interesting;colorful;heavy;small;popular;cheap
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,bridge,old;long;simple;strong;wooden;high;new;metal;broken;busy
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,drums,loud;big;simple;wooden;new;old;electronic;fast;small;shiny
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,earth,green;big;simple;round;beautiful;old;dry;wet;flat;rich
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,flute,small;wooden;simple;shiny;old;new;sweet-sounding;light;silver;broken
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,key,small;old;simple;metal;shiny;new;rusty;spare;secret;long
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,knife,sharp;small;simple;old;metal;new;dull;kitchen;rusty;big
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,lock,old;simple;metal;new;broken;secure;small;rusty;electronic;strong
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,moon,full;bright;simple;dark;new;old;crescent;glowing;distant;beautiful
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,pen,black;simple;new;old;cheap;fancy;broken;ink;small;blue
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,sun,bright;hot;simple;yellow;rising;setting;warm;big;distant;powerful
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Inanimate Objects,sword,sharp;old;simple;metal;big;ancient;shiny;broken;long;wooden
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,cat,black;small;simple;friendly;wild;old;young;lazy;fast;fluffy
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,dog,big;friendly;simple;old;young;loyal;wild;small;fast;trained
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,dolphin,smart;big;simple;friendly;wild;fast;playful;gray;young;rare
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,elephant,big;gray;simple;wild;old;strong;young;friendly;slow;rare
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,hamster,small;cute;simple;fluffy;young;fast;wild;old;friendly;brown
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,monkey,small;wild;simple;playful;young;fast;clever;brown;old;noisy
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,mouse,small;gray;simple;fast;wild;young;quiet;old;cute;brown
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,peacock,beautiful;big;simple;colorful;wild;proud;young;old;rare;noisy
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,rabbit,small;white;simple;fast;wild;young;cute;fluffy;old;brown
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,shark,big;dangerous;simple;wild;fast;gray;young;old;rare;hungry
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,snake,long;dangerous;simple;wild;green;small;poisonous;old;fast;rare
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Neutral Animals,whale,big;gray;simple;wild;old;rare;friendly;young;fast;deep
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,city,big;busy;simple;old;modern;crowded;beautiful;new;noisy;clean
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,desert,dry;hot;simple;vast;sandy;empty;old;beautiful;remote;harsh
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,forest,green;dense;simple;old;wild;dark;beautiful;quiet;large;wet
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,island,small;tropical;simple;beautiful;remote;green;old;sandy;volcanic;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,lake,blue;deep;simple;calm;large;frozen;beautiful;clear;old;wet
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,mountain,high;steep;simple;green;snowy;old;beautiful;rocky;tall;remote
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,ocean,vast;blue;simple;deep;stormy;calm;beautiful;cold;wide;salty
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,plain,flat;green;simple;vast;dry;open;beautiful;empty;grassy;wide
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,plateau,high;flat;simple;rocky;vast;beautiful;dry;green;old;remote
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,river,wide;deep;simple;fast;clean;old;beautiful;muddy;long;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,valley,deep;green;simple;beautiful;narrow;wide;old;fertile;quiet;remote
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Places,village,small;quiet;simple;old;rural;peaceful;green;beautiful;remote;poor
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,cactus,spiky;green;simple;tall;small;dry;old;wild;rare;thorny
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,eggplant,purple;fresh;simple;large;small;raw;cooked;shiny;soft;round
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,flower,beautiful;red;simple;small;wild;fresh;colorful;sweet-smelling;big;white
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,grass,green;soft;simple;fresh;wet;dry;tall;short;wild;thick
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,lettuce,green;fresh;simple;crisp;raw;small;leafy;organic;wet;cool
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,mushroom,small;wild;simple;fresh;edible;brown;poisonous;raw;big;cooked
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,onion,white;fresh;simple;small;raw;strong-smelling;cooked;dry;big;spicy
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,pepper,red;fresh;simple;hot;small;green;spicy;raw;dried;sweet
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,potato,big;fresh;simple;raw;cooked;brown;small;baked;soft;organic
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,rose,red;beautiful;simple;fresh;wild;sweet-smelling;big;white;thorny;old
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,tomato,red;fresh;simple;ripe;small;raw;juicy;green;cooked;round
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Plants,tree,tall;green;simple;old;big;wild;beautiful;leafy;young;fruit-bearing
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,ally,strong;faithful;simple;reliable;close;trusted;old;new;helpful;powerful
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,brother,older;younger;simple;close;kind;playful;tall;smart;funny;protective
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,enemy,dangerous;old;simple;powerful;bitter;hidden;strong;new;fierce;common
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,father,old;kind;simple;strict;loving;busy;tall;wise;funny;protective
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,follower,loyal;simple;dedicated;young;faithful;strong;old;active;trusted;blind
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,friend,close;old;simple;true;kind;fun;new;reliable;loyal;helpful
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,leader,strong;wise;simple;powerful;charismatic;young;old;effective;bold;respected
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,mother,loving;old;simple;kind;busy;caring;strict;wise;funny;protective
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,partner,reliable;simple;close;trusted;business;old;new;strong;helpful;equal
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,rival,strong;old;simple;fierce;competitive;new;bitter;powerful;smart;dangerous
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,sister,younger;older;simple;kind;fun;close;smart;playful;caring;protective
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Social Relationships,stranger,unknown;simple;suspicious;new;mysterious;tall;young;old;quiet;foreign
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,above,high;clear;simple;bright;distant;safe;open;wide;blue;free
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,back,strong;straight;simple;injured;broad;old;weak;curved;tight;relaxed
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,below,low;dark;simple;hidden;deep;quiet;cold;secret;narrow;wet
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,east,distant;simple;sunny;far;rising;coastal;old;new;green;busy
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,front,main;simple;open;wide;busy;clean;new;old;strong;safe
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,inside,warm;dark;simple;safe;hidden;quiet;cozy;dry;empty;full
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,left,free;simple;open;empty;dark;quiet;unused;wide;safe;hidden
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,north,cold;distant;simple;far;snowy;green;busy;old;new;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,outside,cold;simple;open;wet;bright;dark;free;noisy;empty;safe
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,right,correct;simple;strong;straight;true;clear;full;open;safe;direct
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,south,warm;distant;simple;sunny;far;coastal;green;busy;old;new
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Spatial Concepts,west,distant;simple;far;wild;coastal;old;new;quiet;green;busy
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,century,old;long;simple;past;modern;great;new;dark;golden;lost
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,day,long;bright;simple;short;sunny;busy;clear;cold;hot;free
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,evening,quiet;long;simple;dark;cool;peaceful;warm;busy;short;golden
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,hour,long;short;simple;busy;quiet;early;late;full;empty;golden
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,minute,short;quick;simple;last;first;full;empty;busy;quiet;final
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,month,long;short;simple;busy;quiet;warm;cold;new;old;full
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,morning,early;fresh;simple;bright;cool;quiet;busy;sunny;cold;new
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,night,dark;long;simple;quiet;cold;warm;starry;busy;short;deep
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,season,long;short;simple;warm;cold;rainy;dry;busy;quiet;full
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,second,short;last;simple;quick;final;first;empty;full;late;early
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,week,long;short;simple;busy;quiet;full;empty;new;old;final
+grok-3-mini,basic,1.0,PT # Portuguese,B2,most frequent,Time Concepts,year,long;new;simple;old;busy;quiet;full;short;golden;lost
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;hot;suppressed;violent;controlled;explosive
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,courage,great;true;brave;quiet;heroic;moral;inner;bold;sudden;inspiring
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,fear,deep;sudden;irrational;intense;constant;hidden;overwhelming;primal;dark;natural
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,freedom,total;true;personal;absolute;hard-won;basic;full;political;complete;individual
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,happiness,pure;simple;lasting;deep;sudden;quiet;real;shared;inner;great
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,hate,deep;intense;bitter;blind;strong;personal;racial;irrational;growing;pure
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,honesty,complete;simple;true;brutal;pure;straightforward;total;basic;rare;direct
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,justice,fair;true;social;blind;swift;equal;moral;basic;pure;common
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,knowledge,deep;wide;basic;practical;secret;ancient;true;common;essential;useful
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,love,true;deep;pure;blind;strong;simple;lasting;romantic;shared;intense
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,peace,true;lasting;inner;global;quiet;perfect;simple;total;deep;world
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Abstract Concepts,wisdom,great;ancient;deep;true;practical;simple;inner;rare;common;eternal
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,bell,loud;old;small;golden;ringing;church;clear;broken;ancient;modern
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,candle,lit;small;wax;scented;burning;old;white;tall;simple;decorative
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,carpet,soft;thick;old;colorful;woven;red;dirty;new;patterned;large
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,coin,old;shiny;gold;rare;small;silver;foreign;ancient;valuable;metal
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,crown,golden;royal;old;jeweled;heavy;ancient;simple;fake;decorative;large
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,flag,national;colorful;old;waving;red;foreign;torn;large;symbolic;blue
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,mask,black;protective;old;decorative;scary;simple;wooden;fake;colorful;traditional
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,necklace,gold;shiny;long;pearl;simple;antique;beautiful;cheap;heavy;silver
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,painting,beautiful;old;modern;large;colorful;famous;abstract;detailed;simple;dark
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,ring,gold;shiny;engagement;small;antique;simple;diamond;old;silver;decorative
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,statue,tall;stone;ancient;bronze;famous;broken;large;modern;beautiful;historical
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Cultural Artifacts,vase,tall;glass;antique;broken;decorative;simple;colorful;old;small;ceramic
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;low;fast-moving;high;stormy;light;gray;thin
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,earthquake,strong;sudden;destructive;minor;major;underground;rare;violent;shallow;deep
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,fog,thick;dense;morning;light;cold;mysterious;early;gray;heavy;wet
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,lightning,bright;fast;dangerous;sudden;powerful;electric;distant;dramatic;forked;white
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;warm;sudden;pouring;gentle;seasonal;hard
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,rainbow,bright;colorful;beautiful;rare;double;faint;full;vivid;short;wide
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,snow,white;fresh;deep;light;wet;heavy;falling;cold;soft;powdery
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,storm,violent;strong;sudden;fierce;rainy;windy;massive;tropical;dark;severe
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;sudden;powerful;deep;frightening;constant;booming;low
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;ocean;fast;gentle;daily;powerful
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,volcano,active;dormant;huge;dangerous;smoking;ancient;explosive;tall;remote;fiery
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;blowing;steady;gusty;eastern;northern;wild
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,apple,red;fresh;sweet;green;juicy;ripe;small;sour;organic;large
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,banana,yellow;ripe;fresh;long;sweet;green;soft;organic;small;peeled
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,beef,fresh;cooked;lean;grilled;tough;tender;organic;red;rare;ground
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,bread,fresh;soft;white;whole-grain;warm;toasted;dry;sliced;homemade;crusty
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;crisp;frozen;cooked;small;tender
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,cheese,soft;hard;fresh;yellow;melted;sharp;creamy;aged;white;grated
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,chicken,grilled;fresh;roasted;organic;cooked;fried;tender;raw;white;boneless
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,egg,fresh;boiled;raw;large;brown;white;cracked;fried;organic;small
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,fish,fresh;cooked;grilled;wild;frozen;salty;small;big;oily;smoked
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,pasta,cooked;fresh;dried;Italian;soft;hot;plain;stuffed;long;short
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,rice,cooked;white;brown;steamed;hot;sticky;dry;wild;boiled;flavored
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Food Items,soup,hot;thick;vegetable;creamy;cold;spicy;fresh;clear;homemade;hearty
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,artist,talented;creative;famous;young;skilled;modern;dedicated;original;struggling;visionary
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,athlete,strong;fast;skilled;professional;young;dedicated;fit;competitive;talented;Olympic
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,chef,skilled;famous;creative;young;professional;talented;experienced;busy;innovative;master
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,doctor,skilled;experienced;kind;busy;young;senior;dedicated;professional;caring;local
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,engineer,skilled;creative;experienced;young;professional;talented;innovative;busy;mechanical;senior
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,farmer,hardworking;local;experienced;young;dedicated;organic;rural;skilled;family;poor
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,lawyer,skilled;experienced;successful;young;professional;corporate;dedicated;busy;criminal;honest
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,musician,talented;famous;young;skilled;creative;professional;dedicated;classical;rock;jazz
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,scientist,brilliant;dedicated;experienced;young;professional;creative;innovative;environmental;medical;senior
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,soldier,brave;trained;young;experienced;dedicated;strong;professional;loyal;elite;retired
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,teacher,dedicated;experienced;young;skilled;kind;professional;creative;strict;inspiring;local
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Human Roles,writer,talented;famous;young;creative;experienced;dedicated;successful;novel;freelance;poetic
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,book,old;new;thick;interesting;popular;educational;fictional;small;hardcover;cheap
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,bridge,old;long;wooden;strong;modern;high;broken;iron;simple;wide
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,drums,loud;wooden;big;small;rhythmic;old;electronic;professional;basic;shiny
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,earth,green;round;vast;blue;fertile;dry;old;living;solid;warm
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,flute,wooden;silver;old;small;musical;simple;professional;shiny;ancient;modern
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,key,small;metal;old;shiny;secret;simple;locked;golden;basic;modern
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,knife,sharp;old;metal;small;kitchen;rusty;clean;wooden-handled;big;pocket
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,lock,old;metal;simple;broken;secure;digital;small;strong;modern;key
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,moon,full;bright;crescent;distant;silver;dark;glowing;new;old;beautiful
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,pen,black;old;cheap;fancy;ink;simple;colorful;modern;broken;writing
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;warm;yellow;distant;powerful;daily;golden
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Inanimate Objects,sword,sharp;old;metal;long;ancient;shiny;wooden;decorative;heavy;royal
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,cat,black;small;wild;domestic;lazy;playful;old;young;friendly;stray
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,dog,big;small;loyal;friendly;wild;trained;old;young;playful;guard
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,dolphin,smart;playful;wild;large;friendly;marine;fast;young;graceful;social
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,elephant,large;gray;wild;strong;old;young;gentle;African;intelligent;majestic
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,hamster,small;furry;cute;fast;wild;tame;young;playful;brown;active
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,monkey,small;wild;playful;smart;young;brown;noisy;agile;curious;forest
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,mouse,small;gray;wild;fast;cute;young;timid;house;brown;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,peacock,colorful;wild;large;beautiful;proud;male;exotic;forest;young;noisy
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,rabbit,small;white;wild;fast;cute;young;fluffy;tame;brown;playful
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,shark,large;dangerous;wild;fast;gray;ocean;hungry;young;fierce;aggressive
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,snake,long;dangerous;wild;green;small;poisonous;fast;tame;coiled;silent
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Neutral Animals,whale,large;wild;blue;ocean;gentle;singing;old;young;majestic;deep-sea
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,city,big;busy;modern;old;crowded;clean;noisy;beautiful;industrial;coastal
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,desert,dry;hot;vast;sandy;empty;remote;golden;harsh;windy;rocky
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,forest,dense;green;dark;ancient;wild;quiet;tropical;large;rainy;peaceful
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,island,small;tropical;remote;beautiful;deserted;volcanic;green;sunny;rocky;large
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,lake,deep;blue;calm;frozen;clear;large;small;freshwater;scenic;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,mountain,high;snowy;steep;rocky;tall;green;remote;ancient;rugged;beautiful
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;wide;cold;warm;endless
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,plain,flat;wide;green;dry;open;grassy;vast;empty;fertile;sunny
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,plateau,high;flat;rocky;wide;elevated;dry;green;ancient;remote;vast
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,river,wide;deep;fast;clear;muddy;long;frozen;winding;scenic;powerful
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,valley,deep;green;narrow;wide;fertile;hidden;sunny;remote;beautiful;rocky
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Places,village,small;quiet;rural;old;peaceful;coastal;mountain;simple;friendly;traditional
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,cactus,spiky;green;tall;desert;small;dry;flowering;wild;hardy;exotic
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,eggplant,purple;fresh;large;soft;cooked;raw;shiny;organic;round;bitter
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,flower,beautiful;red;wild;fresh;small;blooming;colorful;fragrant;simple;garden
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,grass,green;tall;wet;dry;soft;wild;short;fresh;lawn;thick
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,lettuce,green;fresh;crisp;raw;organic;leafy;washed;small;salad;tender
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,mushroom,small;wild;fresh;edible;poisonous;brown;cooked;raw;large;forest
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,onion,white;fresh;raw;cooked;strong-smelling;small;large;organic;peeled;spicy
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,pepper,red;fresh;hot;green;spicy;raw;cooked;small;dried;sweet
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,potato,large;fresh;baked;raw;organic;small;peeled;fried;brown;starchy
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,rose,red;beautiful;fresh;thorny;wild;blooming;sweet-smelling;garden;white;full
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,tomato,red;fresh;ripe;juicy;raw;small;organic;cooked;round;sweet
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Plants,tree,tall;green;old;young;leafy;fruit;shady;wooden;strong;ancient
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,ally,strong;reliable;close;faithful;powerful;strategic;loyal;helpful;key;trusted
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,brother,older;younger;loving;protective;funny;caring;twin;supportive;close;distant
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,enemy,dangerous;powerful;old;fierce;sworn;foreign;bitter;strong;hidden;ruthless
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,father,loving;strict;busy;wise;young;older;caring;supportive;hardworking;distant
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,follower,loyal;dedicated;faithful;blind;strong;eager;new;group;silent;active
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,friend,close;true;loyal;old;new;helpful;funny;reliable;supportive;kind
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,leader,strong;wise;charismatic;effective;young;experienced;popular;inspiring;firm;democratic
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,mother,loving;caring;busy;strict;young;older;supportive;gentle;protective;hardworking
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,partner,reliable;business;close;trusted;equal;supportive;romantic;professional;loyal;strong
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,rival,strong;fierce;old;tough;competitive;business;direct;dangerous;skilled;bitter
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,sister,younger;older;loving;funny;caring;supportive;close;protective;twin;distant
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Social Relationships,stranger,unknown;mysterious;friendly;dangerous;foreign;new;odd;silent;helpful;suspicious
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,above,high;overhead;upper;sky;clear;visible;distant;bright;floating;elevated
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,back,rear;hidden;lower;dark;straight;strong;wide;injured;muscular;flat
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,below,low;underground;deep;hidden;dark;submerged;basic;simple;quiet;unseen
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,east,rising;distant;coastal;sunny;far;windy;remote;ancient;modern;flat
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,front,main;forward;open;busy;visible;clean;wide;strong;simple;modern
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,inside,inner;hidden;warm;dark;safe;quiet;comfortable;secret;deep;protected
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,left,western;free;open;unused;dark;hidden;empty;strong;simple;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,north,cold;distant;polar;remote;windy;ancient;modern;flat;green;high
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,outside,outer;open;cold;bright;empty;noisy;free;wet;dark;exposed
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,right,correct;proper;eastern;strong;free;clear;direct;simple;quick;accurate
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,south,warm;tropical;distant;sunny;coastal;flat;ancient;modern;green;wet
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Spatial Concepts,west,wild;distant;coastal;setting;remote;windy;dry;ancient;modern;golden
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,century,past;modern;ancient;long;golden;dark;new;early;late;progressive
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;clear;warm;cold;ordinary;special
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,evening,quiet;cool;long;dark;peaceful;warm;busy;golden;short;relaxing
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,hour,long;short;busy;quiet;final;early;late;golden;dark;waiting
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,minute,short;last;quick;waiting;final;early;long;silent;busy;passing
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,month,long;short;busy;quiet;final;early;late;warm;cold;special
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,morning,early;fresh;bright;cool;busy;quiet;foggy;sunny;clear;new
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,night,dark;long;quiet;cold;starry;busy;warm;short;mysterious;peaceful
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;busy;quiet;early;late
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,second,last;quick;final;short;long;waiting;early;silent;busy;passing
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,week,long;short;busy;quiet;final;early;late;full;empty;working
+grok-3-mini,basic,1.0,PT # Portuguese,C1,most frequent,Time Concepts,year,long;short;new;old;busy;quiet;final;early;late;successful
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;suppressed;explosive;righteous;simmering;bitter
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,courage,great;quiet;bold;inner;heroic;unwavering;moral;physical;sudden;foolish
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,fear,deep;sudden;irrational;overwhelming;primal;constant;hidden;intense;childish;real
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,freedom,absolute;personal;true;limited;hard-won;basic;complete;sudden;political;spiritual
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,happiness,pure;lasting;simple;deep;sudden;genuine;fleeting;inner;everyday;shared
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,hate,deep;intense;blind;bitter;irrational;racial;personal;strong;hidden;eternal
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,honesty,complete;brutal;simple;rare;genuine;absolute;everyday;personal;unwavering;clear
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,justice,social;true;swift;blind;divine;human;fair;criminal;moral;equal
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,knowledge,vast;deep;practical;ancient;basic;scientific;personal;hidden;general;useful
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,love,true;deep;eternal;passionate;pure;sudden;unconditional;forbidden;gentle;romantic
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,peace,inner;lasting;global;quiet;fragile;true;sudden;world;perfect;mental
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Abstract Concepts,wisdom,ancient;practical;true;deep;simple;worldly;personal;hidden;natural;eternal
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,bell,loud;small;old;ringing;golden;silver;clear;broken;antique;large
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,candle,lit;small;scented;old;flickering;white;tall;wax;decorative;colored
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,carpet,soft;old;colorful;thick;patterned;woolen;clean;worn;large;red
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;gold;silver;small;ancient;valuable;foreign;fake
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,crown,golden;royal;old;jeweled;heavy;ceremonial;ancient;shiny;imperial;simple
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,flag,national;old;colorful;waving;torn;large;small;official;red;foreign
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,mask,black;old;decorative;scary;protective;colorful;simple;wooden;facial;elegant
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;long;simple;antique;pearl;sparkling;cheap;elegant
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,painting,beautiful;old;large;colorful;famous;abstract;modern;detailed;simple;original
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,ring,gold;silver;small;shiny;antique;diamond;simple;cheap;wedding;engraved
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,statue,tall;ancient;stone;bronze;impressive;old;modern;broken;famous;detailed
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Cultural Artifacts,vase,tall;antique;glass;decorative;broken;colorful;simple;ceramic;large;floral
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,cloud,white;dark;fluffy;low;fast-moving;heavy;thin;stormy;high;gray
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,earthquake,strong;sudden;devastating;minor;powerful;rare;deep;local;violent;seismic
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,fog,thick;dense;morning;cold;light;mysterious;wet;early;heavy;rolling
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,lightning,bright;fast;dangerous;sudden;electric;forked;dramatic;powerful;distant;vivid
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;warm;sudden;gentle;pouring;seasonal;fresh
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;faint;double;perfect;rare;vivid;arched;stunning
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,snow,white;fresh;heavy;light;cold;deep;falling;wet;powdery;fluffy
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,storm,violent;strong;sudden;fierce;tropical;winter;heavy;dark;electric;massive
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,thunder,loud;distant;rolling;sudden;deep;frightening;constant;booming;electric;ominous
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;fast;calm;rising;falling;coastal
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;ancient;explosive;smoking;tall;fiery;remote
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;northern;eastern;brisk
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,apple,red;green;fresh;ripe;sweet;juicy;sour;large;small;organic
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,banana,yellow;ripe;green;sweet;large;small;fresh;curved;soft;tropical
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,beef,fresh;lean;grilled;tender;fatty;organic;rare;cooked;cheap;high-quality
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,bread,fresh;soft;warm;white;whole-grain;crusty;sliced;homemade;dry;toasted
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;crisp;frozen;small;large;healthy
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,cheese,sharp;soft;hard;creamy;aged;fresh;yellow;grated;mild;strong
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,chicken,grilled;fresh;roasted;organic;tender;fried;white;frozen;spicy;plain
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,egg,fresh;boiled;fried;large;small;organic;cracked;brown;white;raw
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,fish,fresh;grilled;fresh-caught;small;large;frozen;oily;tasty;wild;farmed
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,pasta,cooked;fresh;dry;Italian;cheesy;spicy;simple;homemade;al dente;stuffed
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,rice,cooked;white;brown;steamed;sticky;long-grain;short-grain;hot;plain;flavored
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Food Items,soup,hot;creamy;vegetable;thick;clear;spicy;fresh;homemade;cold;hearty
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,artist,talented;young;famous;creative;dedicated;skilled;modern;struggling;visionary;local
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,athlete,strong;fast;professional;dedicated;young;skilled;Olympic;injured;talented;competitive
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,chef,skilled;famous;young;creative;professional;experienced;busy;talented;French;innovative
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,doctor,skilled;experienced;young;busy;caring;professional;local;specialist;dedicated;kind
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,engineer,skilled;mechanical;electrical;young;experienced;creative;professional;innovative;dedicated;talented
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,farmer,local;hard-working;experienced;young;organic;rural;dedicated;skilled;poor;wealthy
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,lawyer,experienced;corporate;young;skilled;ethical;busy;professional;successful;criminal;dedicated
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,musician,talented;young;famous;skilled;classical;rock;dedicated;struggling;professional;creative
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,scientist,brilliant;young;experienced;dedicated;environmental;medical;innovative;skilled;professional;curious
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,soldier,brave;trained;young;experienced;dedicated;elite;wounded;professional;loyal;strong
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,teacher,dedicated;experienced;young;patient;skilled;inspiring;professional;local;strict;creative
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Human Roles,writer,talented;famous;young;experienced;creative;dedicated;fictional;professional;struggling;prolific
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;educational;popular;hardcover;paperback;colorful
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,bridge,old;long;wooden;stone;modern;high;strong;broken;famous;narrow
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,drums,loud;wooden;large;small;rhythmic;old;electronic;professional;basic;tuned
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,earth,green;round;vast;ancient;fertile;dry;blue;rich;hard;flat
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,flute,wooden;silver;small;old;musical;shiny;basic;professional;simple;tuned
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,key,small;metal;old;shiny;rusty;spare;secret;basic;locked;modern
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,knife,sharp;small;old;metal;rusty;kitchen;pocket;clean;dull;wooden
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,lock,old;metal;secure;broken;modern;small;electronic;rusty;simple;strong
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,moon,full;bright;crescent;dark;distant;silver;waxing;waning;beautiful;mysterious
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,pen,black;cheap;fine;old;metal;plastic;fancy;simple;leaking;colorful
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;warm;distant;powerful;midday;golden
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Inanimate Objects,sword,sharp;old;metal;long;ancient;shiny;broken;ceremonial;heavy;decorated
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,cat,black;small;wild;domestic;playful;lazy;fluffy;stray;old;young
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,dog,big;small;loyal;wild;friendly;trained;old;young;fluffy;energetic
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;large;fast;marine;graceful;young;old;friendly
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,elephant,large;wild;gray;strong;old;young;African;gentle;majestic;endangered
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,hamster,small;furry;cute;wild;tame;young;old;active;playful;fast
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,monkey,wild;small;clever;young;old;playful;noisy;tree-dwelling;mischievous;aggressive
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,mouse,small;gray;wild;timid;fast;young;old;furry;domestic;sneaky
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,peacock,colorful;wild;large;beautiful;male;female;proud;exotic;noisy;graceful
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,rabbit,white;small;wild;fast;young;old;fluffy;tame;playful;shy
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,shark,large;dangerous;wild;fast;gray;aggressive;deep-sea;young;old;hungry
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,snake,long;poisonous;wild;small;colorful;dangerous;tame;slithery;aggressive;harmless
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Neutral Animals,whale,large;wild;blue;gentle;deep-sea;old;young;massive;endangered;graceful
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,city,large;busy;modern;old;crowded;beautiful;coastal;industrial;quiet;historic
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,desert,vast;hot;dry;sandy;barren;remote;golden;harsh;beautiful;endless
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,forest,dense;green;old;dark;tropical;quiet;vast;rainy;beautiful;ancient
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,island,small;tropical;remote;beautiful;rocky;green;deserted;volcanic;large;sunny
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,lake,large;deep;clear;frozen;calm;scenic;blue;mountain;quiet;fresh
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,mountain,high;steep;snowy;rugged;beautiful;tall;remote;green;volcanic;ancient
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,ocean,vast;deep;blue;stormy;calm;cold;warm;endless;wild;mysterious
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,plain,flat;vast;green;dry;fertile;empty;wide;grassy;open;rural
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,plateau,high;flat;rocky;vast;dry;green;ancient;elevated;barren;scenic
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,river,wide;deep;fast-flowing;clear;muddy;long;scenic;frozen;wild;gentle
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,valley,deep;green;narrow;wide;fertile;scenic;hidden;dry;beautiful;remote
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Places,village,small;quiet;rural;old;coastal;mountain;simple;friendly;poor;historic
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,cactus,tall;spiky;green;dry;wild;small;flowering;desert;hardy;prickly
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,eggplant,purple;fresh;large;small;ripe;organic;shiny;cooked;raw;bitter
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,flower,beautiful;colorful;wild;fresh;small;large;fragrant;blooming;red;delicate
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,grass,green;tall;short;wet;dry;wild;fresh;thick;soft;lush
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,lettuce,green;fresh;crisp;organic;raw;leafy;small;washed;bitter;wilted
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,mushroom,wild;fresh;small;large;edible;poisonous;dried;cooked;white;flavorful
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,onion,fresh;white;red;small;large;spicy;raw;cooked;organic;strong
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,pepper,red;green;fresh;hot;sweet;small;large;spicy;raw;dried
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,potato,large;small;fresh;baked;boiled;organic;raw;sweet;white;dirty
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,rose,red;beautiful;fresh;thorny;wild;fragrant;blooming;white;pink;delicate
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,tomato,red;fresh;ripe;small;large;juicy;organic;raw;cooked;sweet
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Plants,tree,tall;old;green;fruit-bearing;shady;young;ancient;bare;flowering;strong
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,ally,strong;reliable;faithful;secret;powerful;close;trusted;foreign;loyal;helpful
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,brother,older;younger;loving;protective;kind;distant;close;funny;responsible;annoying
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,enemy,dangerous;sworn;powerful;bitter;old;foreign;secret;fierce;strong;hidden
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,father,loving;strict;old;young;hardworking;kind;distant;protective;wise;absent
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,follower,loyal;devoted;faithful;blind;eager;strong;dedicated;simple;misguided;enthusiastic
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,friend,close;loyal;old;new;true;reliable;fun;helpful;distant;kind
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,leader,strong;charismatic;wise;elected;military;spiritual;effective;inspiring;young;old
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,mother,loving;caring;strict;young;old;protective;busy;kind;single;devoted
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,partner,reliable;business;romantic;trusted;equal;supportive;close;professional;loyal;creative
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,rival,fierce;strong;bitter;old;competitive;smart;dangerous;corporate;athletic;personal
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,sister,older;younger;caring;protective;fun;distant;kind;annoying;close;supportive
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Social Relationships,stranger,unknown;mysterious;dangerous;friendly;odd;foreign;helpful;suspicious;tall;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,above,high;clear;visible;distant;bright;safe;hidden;direct;warm;open
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,back,strong;sore;straight;curved;wide;narrow;muscular;injured;flat;open
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,below,deep;hidden;dark;cold;secret;lower;wet;quiet;distant;unseen
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,east,rising;distant;sunny;coastal;flat;ancient;wild;open;mysterious;vast
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,front,wide;open;clean;busy;narrow;decorative;simple;grand;wooden;glass
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,inside,warm;dark;safe;hidden;quiet;comfortable;empty;full;dry;secret
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,left,free;open;empty;dark;hidden;quiet;safe;narrow;wide;clean
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,north,cold;wild;distant;frozen;vast;ancient;snowy;remote;dark;green
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,outside,cold;wet;bright;open;dangerous;quiet;empty;warm;hidden;vast
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,right,correct;straight;perfect;moral;absolute;immediate;proper;legal;accurate;true
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,south,warm;sunny;coastal;flat;distant;wild;tropical;open;green;vast
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Spatial Concepts,west,wild;distant;golden;setting;coastal;open;dry;ancient;mysterious;vast
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,century,past;recent;long;dark;golden;modern;ancient;prosperous;turbulent;forgotten
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;quiet;warm;cold;clear;dark
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,evening,quiet;long;warm;cool;peaceful;dark;busy;short;golden;relaxing
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;golden;dark;final;first
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,minute,short;last;first;quiet;busy;golden;dark;final;early;late
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;final;first;rainy;sunny
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,morning,early;fresh;bright;cool;busy;quiet;foggy;sunny;cold;peaceful
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,night,dark;long;quiet;cold;starry;warm;short;stormy;peaceful;late
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;busy;quiet;final;first
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,second,final;last;first;quick;short;long;vital;simple;key;basic
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,week,long;short;busy;quiet;final;first;warm;cold;rainy;sunny
+grok-3-mini,basic,1.0,PT # Portuguese,C2,most frequent,Time Concepts,year,long;short;busy;quiet;final;first;good;bad;productive;challenging
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;hot;suppressed;righteous;bitter;explosive;quiet
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,courage,great;true;moral;physical;heroic;quiet;foolish;brave;unwavering;bold
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,fear,deep;sudden;intense;irrational;overwhelming;primal;constant;hidden;dark;paralyzing
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,freedom,absolute;complete;hard-won;personal;basic;true;limited;full;economic;spiritual
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;deep;fleeting;great;shared;inner;sudden
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,hate,intense;bitter;blind;deep;irrational;burning;cold;personal;widespread;violent
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,honesty,complete;brutal;simple;rare;absolute;genuine;straightforward;painful;total;unwavering
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,justice,social;true;swift;blind;fair;equal;divine;criminal;poetic;ultimate
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;secret;basic;practical;ancient;shared;scientific;human;limited
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,love,true;deep;unconditional;romantic;pure;eternal;passionate;forbidden;selfless;simple
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,peace,inner;lasting;global;quiet;fragile;perfect;world;mental;temporary;absolute
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Abstract Concepts,wisdom,ancient;great;practical;deep;true;worldly;simple;spiritual;infinite;rare
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,bell,loud;small;golden;ringing;antique;clear;church;silver;handheld;broken
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,candle,lit;scented;tall;wax;flickering;white;small;decorative;melting;colored
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,carpet,soft;thick;woolen;red;patterned;old;clean;Persian;dirty;large
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;gold;rare;silver;ancient;foreign;small;counterfeit;heavy
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;heavy;simple;ceremonial;ornate;kingly;broken
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,flag,national;waving;colorful;old;torn;proud;foreign;small;red;symbolic
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,mask,black;protective;decorative;scary;full-face;wooden;Halloween;simple;colorful;ancient
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,necklace,gold;pearl;long;simple;expensive;antique;beaded;silver;elegant;broken
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,painting,beautiful;old;abstract;famous;large;colorful;modern;detailed;landscape;portrait
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,ring,gold;diamond;simple;engagement;antique;silver;large;broken;magical;plain
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,statue,tall;stone;ancient;bronze;famous;broken;marble;heroic;garden;modern
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Cultural Artifacts,vase,glass;antique;decorative;tall;broken;floral;ceramic;simple;colored;ornate
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;stormy;low;high;drifting;gray;cumulus;thin
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,earthquake,strong;devastating;sudden;minor;powerful;underground;rare;destructive;seismic;local
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;morning;gray;mysterious;cold;rolling;light;coastal;persistent
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,lightning,bright;fast;striking;electric;forked;sudden;distant;powerful;nighttime;dangerous
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;pouring;summer;gentle;tropical;freezing;nonstop
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,rainbow,bright;colorful;double;faint;beautiful;full;arched;sudden;vibrant;rare
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,snow,white;fresh;deep;falling;light;powdery;heavy;melting;winter;soft
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,storm,violent;fierce;sudden;tropical;windy;electrical;massive;brewing;cold;coastal
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;booming;sudden;frightening;continuous;nighttime;powerful;muffled
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,tide,high;low;rising;strong;incoming;outgoing;coastal;gentle;dangerous;full
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;massive;explosive;fiery;ancient;smoking;dangerous;volcanic;tall
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;cold;howling;warm;steady;gusty;eastern;northern;fierce
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,apple,red;fresh;green;juicy;ripe;sweet;small;rotten;organic;crisp
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,banana,yellow;ripe;green;sweet;large;peeled;fresh;soft;organic;spotted
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,beef,fresh;grilled;lean;tender;ground;rare;cooked;organic;fatty;sliced
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,bread,fresh;warm;soft;sliced;whole-wheat;toasted;crusty;homemade;white;stale
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;crisp;frozen;chopped;tender;healthy
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,cheese,sharp;soft;aged;creamy;grated;hard;melted;Swiss;blue;fresh
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,chicken,grilled;roasted;fresh;organic;boneless;fried;tender;spicy;raw;whole
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;large;organic;cracked;white;brown;runny;hard
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,fish,fresh;grilled;wild;smoked;frozen;large;oily;caught;salty;cooked
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;Italian;cheesy;spicy;homemade;long;stuffed
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;wild;raw;spicy;boiled
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;thick;spicy;clear;homemade;cold;hearty
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,artist,talented;creative;famous;young;skilled;dedicated;local;innovative;struggling;visionary
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,athlete,strong;fast;professional;dedicated;young;skilled;Olympic;injured;competitive;fit
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,chef,skilled;famous;creative;young;professional;experienced;local;talented;passionate;innovative
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,doctor,skilled;experienced;young;dedicated;local;famous;caring;specialist;busy;qualified
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,engineer,skilled;innovative;experienced;young;mechanical;electrical;dedicated;talented;professional;creative
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,farmer,hard-working;local;experienced;young;organic;dedicated;rural;skilled;poor;successful
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,lawyer,experienced;sharp;corporate;young;dedicated;famous;local;skilled;aggressive;honest
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,musician,talented;famous;young;skilled;classical;rock;dedicated;innovative;local;passionate
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,scientist,brilliant;dedicated;young;experienced;famous;innovative;local;skilled;environmental;theoretical
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,soldier,brave;trained;young;experienced;dedicated;elite;loyal;injured;veteran;professional
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,teacher,dedicated;experienced;young;passionate;skilled;local;famous;patient;inspiring;strict
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Human Roles,writer,talented;famous;young;experienced;creative;dedicated;local;prolific;skilled;imaginative
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,book,old;new;thick;popular;hardcover;fictional;educational;colorful;rare;paperback
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,bridge,old;long;wooden;stone;modern;high;broken;famous;suspension;narrow
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,drums,loud;wooden;electronic;small;large;rhythmic;traditional;broken;metal;portable
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,earth,green;vast;blue;fertile;dry;ancient;round;living;rocky;warm
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;small;melodic;ancient;modern;broken;shiny;traditional;portable
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,key,small;metal;old;shiny;brass;broken;spare;electronic;secret;rusty
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,knife,sharp;small;metal;old;kitchen;rusty;pocket;clean;dull;silver
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,lock,old;metal;broken;secure;electronic;rusty;small;door;padlock;modern
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,moon,full;bright;crescent;dark;distant;silver;waxing;waning;glowing;red
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,pen,black;cheap;fountain;ballpoint;old;new;colorful;broken;fancy;simple
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;golden;warm;midday;distant;summer;fierce
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;metal;long;rusty;ceremonial;broken;silver;magical;heavy
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,cat,black;fluffy;wild;domestic;playful;old;young;stray;gray;lazy
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,dog,loyal;big;small;friendly;wild;trained;old;young;barking;energetic
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;gray;large;friendly;marine;jumping;swift;young
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,elephant,large;gray;wild;tame;old;young;powerful;intelligent;African;Asian
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,hamster,small;furry;playful;tame;young;fast;caged;brown;nocturnal;cute
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,monkey,playful;wild;small;clever;young;noisy;tree-dwelling;brown;tame;agile
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,mouse,small;gray;wild;timid;young;fast;caged;nocturnal;clever;brown
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,peacock,colorful;wild;large;beautiful;male;female;proud;tame;noisy;exotic
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,rabbit,white;fluffy;wild;small;fast;young;tame;brown;hopping;pet
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,shark,large;dangerous;fast;gray;wild;toothy;deep-sea;aggressive;young;solitary
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,snake,long;venomous;wild;green;small;coiled;tame;dangerous;slithery;patterned
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Neutral Animals,whale,massive;blue;wild;migrating;deep-sea;gentle;old;young;singing;endangered
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,city,busy;large;modern;old;crowded;beautiful;coastal;industrial;historic;clean
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,desert,vast;sandy;hot;dry;barren;remote;golden;endless;rocky;harsh
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,forest,dense;green;ancient;dark;tropical;quiet;vast;rainy;magical;thick
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,island,tropical;small;remote;beautiful;volcanic;deserted;green;sandy;large;rocky
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,lake,deep;blue;calm;frozen;large;clear;mountain;scenic;shallow;freshwater
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,mountain,high;snowy;rugged;tall;green;volcanic;ancient;steep;majestic;remote
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;cold;warm;mysterious
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,plain,flat;vast;green;dry;open;fertile;grassy;endless;rural;wide
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;green;ancient;scenic;remote
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,river,wide;deep;fast-flowing;clear;muddy;long;winding;frozen;scenic;wild
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,valley,deep;green;narrow;fertile;scenic;remote;wide;misty;hidden;lush
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Places,village,small;quiet;rural;ancient;coastal;peaceful;remote;traditional;green;poor
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,cactus,spiky;tall;green;desert;small;flowering;wild;prickly;dry;exotic
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,eggplant,purple;fresh;large;organic;raw;cooked;shiny;soft;ripe;long
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,flower,beautiful;red;wild;fragrant;small;blooming;yellow;garden;dried;exotic
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,grass,green;tall;wet;dry;soft;wild;mowed;lush;short;fresh
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,lettuce,fresh;green;crisp;organic;raw;leafy;washed;wilted;salad;tender
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,mushroom,wild;fresh;edible;small;poisonous;dried;brown;cooked;magic;large
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,onion,fresh;red;white;small;raw;chopped;spicy;organic;dried;sweet
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,pepper,red;hot;fresh;green;spicy;dried;ground;sweet;raw;black
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,potato,fresh;large;small;baked;raw;organic;mashed;fried;sweet;peeled
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,rose,red;beautiful;thorny;fragrant;wild;white;blooming;garden;dried;pink
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,tomato,red;fresh;ripe;juicy;raw;organic;sliced;small;cherry;cooked
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Plants,tree,tall;green;old;fruit-bearing;leafy;ancient;shady;fallen;young;oak
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,ally,strong;faithful;powerful;strategic;loyal;reliable;key;foreign;helpful;trusted
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,brother,older;younger;loving;protective;twin;biological;adopted;caring;distant;brave
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,enemy,sworn;dangerous;powerful;ancient;bitter;hidden;foreign;ruthless;strong;defeated
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,father,loving;strict;absent;biological;step;proud;hardworking;young;old;supportive
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;blind;faithful;enthusiastic;strong;passive;active;young;misguided
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,friend,best;close;old;new;loyal;true;childhood;reliable;distant;fun
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,leader,strong;charismatic;effective;young;wise;elected;military;spiritual;inspiring;ruthless
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,mother,loving;caring;single;biological;step;protective;hardworking;young;old;supportive
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,partner,business;romantic;equal;reliable;trusted;long-term;professional;supportive;creative;loyal
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,rival,fierce;strong;bitter;corporate;athletic;political;old;new;dangerous;competitive
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,sister,younger;older;loving;protective;twin;biological;adopted;caring;distant;brave
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Social Relationships,stranger,mysterious;dangerous;friendly;unknown;foreign;tall;quiet;helpful;suspicious;passing
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,above,high;overhead;upper;elevated;distant;clear;bright;floating;superior;vast
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,back,rear;hidden;old;straight;curved;strong;weak;covered;exposed;distant
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,below,low;underground;deep;hidden;submerged;inferior;dark;cool;distant;vast
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,east,distant;rising;sunny;coastal;ancient;western;far;hidden;bright;mysterious
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,front,main;forward;open;wide;busy;hidden;narrow;clear;distant;secure
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,inside,warm;hidden;dark;safe;crowded;empty;deep;bright;mysterious;vast
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,left,abandoned;open;hidden;narrow;clear;distant;wild;straight;curved;empty
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,north,frozen;distant;polar;ancient;hidden;bright;cold;vast;mysterious;wild
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,outside,cold;bright;open;hidden;vast;empty;wet;dry;distant;secure
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,right,correct;absolute;legal;moral;perfect;straight;true;just;proper;exact
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,south,warm;distant;tropical;ancient;hidden;bright;vast;mysterious;coastal;wild
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Spatial Concepts,west,wild;distant;sunny;ancient;hidden;vast;mysterious;dry;bright;coastal
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,century,past;recent;long;dark;golden;modern;ancient;lost;new;forgotten
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,day,long;sunny;short;rainy;beautiful;busy;clear;dark;warm;cold
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,evening,quiet;long;warm;cool;peaceful;dark;busy;short;golden;romantic
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,hour,long;short;final;early;late;golden;dark;busy;quiet;passing
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,minute,last;final;quick;long;short;golden;dark;busy;quiet;passing
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,month,long;short;busy;quiet;final;warm;cold;rainy;sunny;festive
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,morning,early;fresh;bright;foggy;quiet;busy;cool;sunny;dark;peaceful
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;warm;busy;short;mysterious;peaceful
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,season,long;short;warm;cold;rainy;dry;festive;quiet;busy;changing
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,second,last;final;quick;long;short;golden;dark;busy;quiet;passing
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;final;warm;cold;rainy;sunny;productive
+grok-3-mini,basic,1.0,PT # Portuguese,Perfect,most frequent,Time Concepts,year,long;short;busy;quiet;final;warm;cold;rainy;sunny;memorable

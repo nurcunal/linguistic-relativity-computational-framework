@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,anger,strong;hot;blind;deep;sudden;intense;raw;great;furious;bitter
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,courage,brave;strong;great;true;bold;fearless;heroic;steady;quiet;personal
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,fear,big;dark;sudden;cold;deep;real;strong;quick;hidden;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,freedom,great;true;full;new;personal;strong;open;real;simple;clear
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,happiness,great;true;full;pure;simple;real;deep;warm;bright;strong
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,hate,strong;deep;blind;bitter;cold;dark;pure;quick;real;great
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,honesty,true;simple;real;full;strong;clear;pure;open;direct;good
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,justice,fair;true;strong;real;full;clear;simple;good;blind;pure
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,knowledge,great;deep;wide;true;simple;real;full;strong;clear;new
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,love,great;true;deep;pure;strong;warm;real;simple;blind;full
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,peace,quiet;true;full;real;strong;warm;simple;deep;good;pure
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Abstract Concepts,wisdom,great;deep;true;simple;real;strong;clear;old;pure;full
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;clear;metal;round;shiny;broken
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,candle,small;big;old;new;bright;warm;white;red;simple;broken
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;soft;colorful;warm;dirty;clean;thick
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,coin,small;old;new;shiny;gold;silver;round;heavy;rare;dirty
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,crown,big;old;new;gold;shiny;heavy;royal;beautiful;simple;broken
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;colorful;national;red;blue;white;torn
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,mask,small;big;old;new;black;white;scary;funny;simple;broken
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,necklace,small;big;old;new;shiny;gold;silver;beautiful;simple;broken
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,painting,big;small;old;new;beautiful;colorful;dark;bright;simple;famous
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,ring,small;big;old;new;shiny;gold;silver;beautiful;simple;broken
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;metal;tall;beautiful;broken;famous
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;beautiful;broken;glass;ceramic;simple;colorful
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,cloud,big;small;white;dark;high;low;soft;fluffy;fast;cold
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,earthquake,strong;big;sudden;dangerous;deep;real;bad;quick;rare;violent
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,fog,thick;white;cold;heavy;low;wet;dark;quiet;early;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,lightning,bright;fast;strong;dangerous;sudden;white;hot;rare;wild;big
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;wet;steady;soft;hard;warm;quick;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;rare;clear;full;simple;natural;wet
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;deep;fresh;heavy;wet;pure;quiet;thick
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,storm,strong;big;wild;dangerous;fast;dark;loud;wet;cold;sudden
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,thunder,loud;strong;deep;sudden;scary;big;rare;wild;hot;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,tide,high;low;strong;fast;cold;wet;big;quiet;natural;daily
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,volcano,big;active;dangerous;hot;old;high;rare;wild;deep;black
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Environmental Phenomena,wind,strong;cold;hot;fast;light;wild;quiet;dry;wet;steady
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,apple,red;green;big;small;fresh;sweet;juicy;ripe;hard;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,banana,yellow;big;small;fresh;sweet;ripe;soft;long;bad;green
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,beef,fresh;cooked;red;tough;tender;big;hot;cold;bad;lean
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,bread,fresh;old;soft;hard;white;brown;warm;big;simple;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,broccoli,green;fresh;big;small;healthy;raw;cooked;soft;bad;crisp
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;strong;mild;bad;creamy
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,chicken,fresh;cooked;white;brown;big;small;tender;hot;cold;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,egg,fresh;big;small;white;brown;hard;soft;raw;cooked;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,fish,fresh;big;small;wild;cooked;silver;cold;wet;bad;tasty
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,pasta,hot;cold;soft;hard;fresh;dry;simple;big;small;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,rice,white;brown;cooked;raw;soft;hard;fresh;dry;simple;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Food Items,soup,hot;cold;thick;thin;fresh;tasty;simple;big;small;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,artist,young;old;talented;creative;famous;good;bad;busy;quiet;happy
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,athlete,strong;fast;young;old;good;bad;fit;active;famous;tired
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,chef,good;bad;young;old;busy;creative;famous;skilled;happy;tired
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,doctor,good;bad;young;old;busy;skilled;kind;famous;helpful;tired
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,engineer,good;bad;young;old;skilled;busy;creative;smart;helpful;famous
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,farmer,old;young;busy;strong;good;bad;simple;hard-working;happy;tired
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,lawyer,good;bad;young;old;busy;smart;famous;skilled;helpful;strict
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,musician,good;bad;young;old;talented;famous;busy;creative;happy;tired
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,scientist,smart;good;bad;young;old;busy;creative;famous;helpful;curious
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,soldier,strong;brave;young;old;good;bad;trained;tired;loyal
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,teacher,good;bad;young;old;kind;strict;busy;helpful;patient;smart
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Human Roles,writer,good;bad;young;old;creative;famous;busy;talented;happy;quiet
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,book,old;new;big;small;interesting;boring;thick;thin;colorful;cheap
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,bridge,old;new;big;strong;high;long;metal;stone;broken;safe
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,drums,big;small;loud;old;new;wooden;metal;broken;simple;colorful
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,earth,big;round;green;blue;old;beautiful;dry;wet;hot;cold
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,flute,small;long;old;new;wooden;metal;simple;broken;shiny;sweet
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,key,small;old;new;metal;shiny;broken;simple;black;silver;lost
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,knife,sharp;dull;small;big;old;new;metal;wooden;broken;clean
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,lock,old;new;small;big;metal;broken;simple;strong;shiny;rusty
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,moon,big;bright;full;dark;old;beautiful;cold;round;quiet;distant
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,pen,small;old;new;black;blue;broken;simple;cheap;shiny;good
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,sun,big;bright;hot;yellow;warm;strong;beautiful;daily;high;clear
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Inanimate Objects,sword,sharp;big;old;new;metal;heavy;shiny;broken;simple;strong
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,cat,small;big;black;white;wild;tame;lazy;active;cute;old
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,dog,big;small;friendly;wild;old;young;loyal;active;cute;strong
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,dolphin,big;smart;fast;wild;friendly;gray;playful;active;deep;rare
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,elephant,big;gray;strong;wild;old;smart;heavy;slow;friendly;rare
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,hamster,small;cute;fast;wild;tame;brown;active;playful;quiet;young
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,monkey,small;clever;wild;fast;playful;brown;active;noisy;young;funny
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,mouse,small;gray;fast;wild;quiet;shy;active;clever;young;dirty
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,peacock,big;colorful;wild;beautiful;proud;active;rare;noisy;old;shiny
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,rabbit,small;white;fast;wild;tame;cute;active;shy;young;soft
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,shark,big;dangerous;fast;wild;gray;strong;scary;deep;rare;hungry
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,snake,long;dangerous;wild;green;black;fast;scary;quiet;rare;smooth
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Neutral Animals,whale,big;gray;wild;strong;deep;rare;smart;slow;friendly;old
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,city,big;small;busy;old;new;noisy;clean;dirty;beautiful;modern
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,desert,big;dry;hot;sandy;empty;wild;quiet;yellow;rare;harsh
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,forest,big;green;dark;wild;quiet;old;beautiful;dense;wet;cool
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,island,small;big;green;tropical;wild;beautiful;quiet;remote;sunny;rocky
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,lake,big;small;blue;deep;clear;cold;quiet;beautiful;fresh;wild
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,mountain,big;high;rocky;cold;green;wild;beautiful;steep;old;snowy
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,ocean,big;deep;blue;wild;cold;wet;beautiful;vast;salty;strong
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,plain,big;flat;green;dry;open;wild;quiet;simple;vast;empty
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,plateau,high;flat;rocky;dry;big;wild;quiet;beautiful;old;empty
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,river,big;small;blue;fast;deep;wild;clear;dirty;long;cold
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,valley,deep;green;beautiful;quiet;wide;narrow;wild;sunny;fertile;cool
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Places,village,small;old;quiet;simple;green;beautiful;remote;friendly;poor;rich
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,cactus,big;small;green;spiky;dry;wild;rare;tough;simple;old
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,eggplant,purple;big;small;fresh;soft;raw;cooked;healthy;simple;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,flower,beautiful;small;big;colorful;fresh;wild;simple;red;yellow;sweet
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,grass,green;tall;short;wet;dry;soft;wild;fresh;simple;thick
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,lettuce,green;fresh;crisp;raw;big;small;healthy;simple;wet;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,mushroom,small;big;white;wild;fresh;raw;cooked;simple;rare;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,onion,big;small;white;red;fresh;raw;cooked;strong;simple;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,pepper,red;green;small;big;fresh;hot;raw;cooked;simple;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,potato,big;small;brown;fresh;raw;cooked;soft;hard;simple;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,rose,red;beautiful;fresh;wild;simple;big;small;sweet;thorny;old
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,tomato,red;green;big;small;fresh;juicy;raw;cooked;simple;bad
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Plants,tree,big;small;green;old;tall;wild;strong;beautiful;simple;dead
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,ally,strong;true;good;reliable;helpful;loyal;smart;brave;old;new
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,brother,young;old;strong;kind;funny;helpful;loyal;smart;tall;quiet
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,enemy,strong;bad;dangerous;old;new;clever;fierce;hidden;real;big
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,father,old;young;strong;kind;strict;helpful;smart;tall;busy;loving
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,follower,loyal;strong;young;old;faithful;helpful;brave;smart;quiet;active
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,friend,good;true;loyal;helpful;funny;kind;old;young;smart;reliable
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,leader,strong;good;smart;brave;old;young;loyal;helpful;famous;strict
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,mother,kind;loving;old;young;busy;helpful;smart;strong;patient;caring
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,partner,good;reliable;strong;helpful;smart;loyal;young;old;active;kind
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,rival,strong;tough;smart;bad;fierce;old;young;competitive;dangerous;big
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,sister,young;old;kind;funny;helpful;smart;tall;quiet;loving;active
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Social Relationships,stranger,unknown;strange;new;old;dangerous;friendly;quiet;tall;short;mysterious
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,above,high;clear;bright;open;free;safe;warm;cool;simple;direct
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,back,strong;weak;straight;curved;old;new;clean;dirty;simple;hidden
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,below,low;dark;hidden;deep;cold;wet;quiet;simple;safe;narrow
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,east,sunny;warm;distant;open;free;simple;clear;bright;old;new
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,front,clear;open;straight;wide;simple;strong;clean;dirty;high;low
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,inside,warm;safe;dark;bright;quiet;simple;clean;dirty;small;big
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,left,free;open;clear;simple;strong;weak;high;low;clean;dirty
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,north,cold;wild;open;free;simple;clear;bright;distant;old;new
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,outside,cold;hot;open;free;simple;clear;bright;dirty;clean;wild
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,right,correct;strong;clear;simple;free;open;high;low;clean;dirty
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,south,warm;sunny;open;free;simple;clear;bright;distant;old;new
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Spatial Concepts,west,wild;open;free;simple;clear;bright;distant;old;new;cool
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,century,long;old;new;great;simple;full;dark;bright;important;forgotten
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,day,long;short;bright;dark;busy;quiet;warm;cold;simple;special
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,evening,quiet;dark;cool;long;short;beautiful;simple;warm;busy;relaxing
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;simple;full;dark;bright
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,minute,short;long;quick;slow;simple;full;early;late;quiet;busy
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;simple;full;new;old
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,morning,early;fresh;bright;cool;quiet;busy;simple;warm;clear;new
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,night,dark;quiet;long;short;cold;warm;simple;full;scary;beautiful
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;simple;full;beautiful;harsh
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,second,short;quick;simple;full;early;late;quiet;busy;fast;slow
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,week,long;short;busy;quiet;simple;full;new;old;warm;cold
+grok-3-mini,think-in-native,0.0,DE # German,B1,most frequent,Time Concepts,year,long;short;new;old;busy;quiet;simple;full;good;bad
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,anger,strong;intense;sudden;deep;blind;hot;raw;bitter;quick;furious
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,courage,brave;strong;great;true;quiet;bold;sudden;pure;simple;firm
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,fear,great;deep;sudden;dark;cold;strong;quiet;real;quick;blind
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,freedom,great;true;full;simple;pure;strong;new;quiet;wide;open
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,happiness,great;pure;simple;true;deep;quiet;full;warm;bright;real
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,hate,strong;deep;blind;bitter;pure;quick;dark;cold;intense;raw
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,honesty,true;pure;simple;full;quiet;strong;real;clear;direct;firm
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,justice,true;fair;strong;pure;simple;blind;quick;full;real;firm
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,knowledge,great;deep;wide;true;simple;pure;strong;real;clear;full
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,love,true;deep;pure;strong;warm;simple;great;quiet;real;blind
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,peace,quiet;true;deep;full;simple;pure;strong;warm;real;firm
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Abstract Concepts,wisdom,great;deep;true;simple;pure;strong;quiet;clear;full;real
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;clear;metal;round;shiny;broken
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,candle,small;big;old;new;white;red;long;short;warm;soft
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,carpet,big;small;old;new;soft;thick;red;blue;dirty;clean
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,coin,small;old;new;shiny;gold;silver;round;heavy;rare;dirty
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,crown,big;old;new;gold;heavy;shiny;royal;simple;broken;fine
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,flag,big;small;old;new;red;blue;national;high;clean;torn
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,mask,small;big;old;new;black;white;funny;scary;soft;hard
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,necklace,small;big;old;new;gold;silver;shiny;long;short;fine
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,painting,big;small;old;new;beautiful;colorful;dark;bright;simple;fine
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,ring,small;big;old;new;gold;silver;shiny;round;fine;broken
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;metal;tall;fine;broken;quiet
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;glass;ceramic;tall;fine;broken;colorful
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,cloud,big;small;white;dark;high;low;soft;light;fast;cold
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,earthquake,strong;big;sudden;deep;dangerous;rare;violent;quick;real;bad
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,fog,thick;light;cold;wet;gray;low;quiet;early;dense;soft
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,lightning,bright;fast;sudden;strong;dangerous;white;quick;real;hot;wild
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;sudden;wet;soft;long;hard
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,rainbow,bright;colorful;beautiful;wide;high;clear;rare;full;simple;natural
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,snow,white;cold;soft;deep;fresh;light;wet;heavy;pure;quiet
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,storm,strong;big;wild;dangerous;sudden;dark;loud;fast;cold;real
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;scary;real;long;quick;dark;wild
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,tide,high;low;strong;fast;cold;wet;full;quiet;deep;wild
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,volcano,big;active;dangerous;hot;old;high;real;wild;deep;rare
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;fast;quiet;wild;fresh;dry;wet
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,apple,red;green;big;small;fresh;sweet;juicy;ripe;hard;sour
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,banana,yellow;big;small;fresh;sweet;ripe;soft;long;curved;green
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,beef,fresh;cooked;red;tough;tender;hot;cold;lean;fatty;raw
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,bread,fresh;old;soft;hard;white;brown;warm;hot;dry;sweet
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,broccoli,green;fresh;big;small;raw;cooked;healthy;soft;hard;bitter
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;strong;mild;creamy;salty
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,chicken,fresh;cooked;white;brown;tender;juicy;hot;cold;raw;fatty
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,egg,fresh;old;white;brown;big;small;hard;soft;raw;cooked
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,fish,fresh;big;small;wild;farmed;salty;sweet;raw;cooked;silver
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,pasta,hot;cold;fresh;dry;soft;hard;long;short;white;tasty
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,rice,white;brown;cooked;raw;soft;hard;hot;cold;dry;sticky
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Food Items,soup,hot;cold;thick;thin;fresh;tasty;salty;spicy;clear;creamy
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,artist,young;old;talented;creative;famous;good;bad;quiet;busy;skilled
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,athlete,strong;fast;young;old;skilled;famous;fit;good;tired;active
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,chef,good;young;old;skilled;busy;famous;creative;quick;clean;talented
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,doctor,good;young;old;skilled;busy;kind;smart;tired;helpful;professional
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,engineer,smart;young;old;skilled;busy;creative;good;tired;helpful;technical
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,farmer,old;young;strong;busy;hard-working;simple;good;tired;skilled;local
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,lawyer,smart;good;busy;young;old;skilled;professional;helpful;strict;fair
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,musician,talented;young;old;famous;good;creative;busy;skilled;quiet;active
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,scientist,smart;young;old;skilled;creative;busy;good;helpful;curious;professional
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,soldier,strong;brave;young;old;trained;good;tired;skilled;loyal;active
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,teacher,good;young;old;skilled;busy;kind;helpful;strict;patient;smart
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Human Roles,writer,talented;young;old;famous;creative;good;busy;skilled;quiet;active
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,book,old;new;big;small;thick;thin;interesting;boring;colorful;hard
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,bridge,big;old;new;strong;high;long;metal;wooden;broken;safe
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,drums,big;small;loud;old;new;wooden;metal;shiny;broken;simple
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,earth,big;round;green;blue;old;beautiful;dry;wet;hot;cold
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,flute,small;long;wooden;metal;shiny;old;new;simple;broken;sweet
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,key,small;old;new;metal;shiny;broken;simple;long;short;black
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,knife,sharp;old;new;metal;big;small;broken;clean;dirty;simple
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,lock,old;new;metal;strong;broken;simple;small;big;shiny;secure
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,moon,big;bright;full;dark;old;beautiful;cold;quiet;round;distant
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,pen,small;black;blue;old;new;cheap;expensive;broken;simple;fine
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;warm;strong;beautiful;high;daily;real
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Inanimate Objects,sword,sharp;old;new;metal;big;long;shiny;broken;simple;strong
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,cat,small;big;black;white;wild;tame;lazy;active;old;young
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,dog,big;small;friendly;wild;old;young;loyal;active;black;white
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,dolphin,big;smart;wild;friendly;fast;gray;active;playful;young;old
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,elephant,big;gray;wild;strong;old;young;slow;fast;heavy;smart
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,hamster,small;cute;wild;tame;brown;white;active;lazy;young;old
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,monkey,small;wild;smart;active;brown;black;playful;young;old;funny
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,mouse,small;gray;wild;tame;fast;quiet;young;old;active;shy
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,peacock,big;colorful;wild;beautiful;proud;active;old;young;loud;rare
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,rabbit,small;white;wild;tame;fast;cute;young;old;active;shy
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,shark,big;dangerous;wild;gray;fast;strong;old;young;scary;real
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,snake,long;dangerous;wild;green;black;fast;quiet;old;young;scary
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Neutral Animals,whale,big;gray;wild;strong;old;young;fast;slow;deep;rare
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,city,big;small;busy;old;new;noisy;clean;dirty;modern;beautiful
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,desert,big;dry;hot;sandy;empty;wild;old;quiet;vast;yellow
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,forest,big;green;wild;dark;quiet;old;beautiful;dense;wet;cool
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,island,small;big;green;tropical;wild;beautiful;quiet;remote;sandy;old
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,lake,big;small;blue;deep;quiet;clean;wild;cold;fresh;beautiful
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,mountain,big;high;old;green;snowy;wild;steep;beautiful;cold;strong
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,ocean,big;deep;blue;wild;cold;warm;vast;wet;beautiful;dangerous
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,plain,big;flat;green;dry;open;wild;quiet;vast;simple;empty
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,plateau,high;flat;big;rocky;dry;wild;quiet;vast;old;beautiful
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,river,big;small;deep;wide;fast;slow;clean;dirty;wild;beautiful
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,valley,deep;green;beautiful;quiet;wide;wild;old;fertile;cool;narrow
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Places,village,small;old;quiet;simple;green;clean;remote;beautiful;traditional;friendly
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,cactus,big;small;green;spiky;dry;wild;old;rare;tall;short
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,eggplant,purple;big;small;fresh;soft;hard;raw;cooked;shiny;long
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,flower,beautiful;red;white;small;big;fresh;wild;sweet;bright;simple
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,grass,green;long;short;fresh;dry;soft;wild;thick;wet;simple
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,lettuce,green;fresh;big;small;crisp;soft;raw;healthy;wet;simple
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;soft;raw;cooked;rare
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,onion,big;small;white;red;fresh;strong;raw;cooked;dry;spicy
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,pepper,red;green;big;small;fresh;hot;sweet;raw;cooked;shiny
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,potato,big;small;brown;fresh;raw;cooked;soft;hard;dry;tasty
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,rose,red;beautiful;fresh;wild;big;small;sweet;thorny;simple;full
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,tomato,red;green;big;small;fresh;juicy;raw;cooked;soft;shiny
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Plants,tree,big;small;green;old;young;tall;short;wild;strong;beautiful
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,ally,strong;true;good;reliable;helpful;loyal;smart;brave;quiet;firm
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,brother,young;old;strong;kind;helpful;smart;loyal;funny;quiet;busy
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,enemy,strong;dangerous;bad;old;young;smart;cruel;hidden;real;bitter
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,father,old;young;strong;kind;smart;busy;helpful;strict;loving;quiet
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,follower,loyal;strong;young;old;faithful;quiet;active;smart;helpful;firm
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,friend,good;true;loyal;kind;helpful;smart;funny;old;young;reliable
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,leader,strong;smart;good;brave;firm;busy;helpful;old;young;loyal
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,mother,kind;loving;busy;smart;helpful;old;young;strict;quiet;strong
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,partner,good;reliable;strong;smart;helpful;loyal;busy;kind;firm;true
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,rival,strong;smart;tough;old;young;dangerous;bitter;real;hidden;active
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,sister,young;old;kind;smart;helpful;funny;loyal;quiet;busy;strong
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Social Relationships,stranger,unknown;strange;new;old;young;quiet;dangerous;friendly;real;hidden
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,above,high;clear;bright;open;free;simple;direct;strong;full;pure
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,back,old;strong;hidden;quiet;dark;simple;full;real;firm;true
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,below,low;dark;hidden;deep;quiet;simple;cold;full;real;firm
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,east,far;bright;warm;simple;full;real;firm;true;open;clear
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,front,clear;open;strong;simple;full;real;firm;true;bright;direct
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,inside,warm;safe;hidden;quiet;simple;full;real;firm;true;deep
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,left,free;open;simple;full;real;firm;true;bright;clear;strong
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,north,cold;far;wild;simple;full;real;firm;true;open;clear
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,outside,free;open;wild;simple;full;real;firm;true;bright;clear
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,right,correct;strong;simple;full;real;firm;true;bright;clear;direct
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,south,warm;far;simple;full;real;firm;true;open;clear;bright
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Spatial Concepts,west,far;wild;simple;full;real;firm;true;open;clear;bright
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,century,long;old;great;simple;full;real;firm;true;bright;clear
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,day,long;short;bright;dark;simple;full;real;firm;true;warm
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,evening,quiet;dark;cool;simple;full;real;firm;true;bright;long
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,hour,long;short;busy;quiet;simple;full;real;firm;true;dark
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,minute,short;quick;simple;full;real;firm;true;bright;clear;direct
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,month,long;short;busy;simple;full;real;firm;true;bright;clear
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,morning,fresh;bright;early;simple;full;real;firm;true;cool;quiet
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,night,dark;quiet;long;simple;full;real;firm;true;cold;deep
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,season,long;short;warm;cold;simple;full;real;firm;true;bright
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,second,short;quick;simple;full;real;firm;true;bright;clear;direct
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,week,long;short;busy;simple;full;real;firm;true;bright;clear
+grok-3-mini,think-in-native,0.0,DE # German,B2,most frequent,Time Concepts,year,long;short;new;old;simple;full;real;firm;true;bright
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;hot;explosive;bitter;raw;suppressed;uncontrollable
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,courage,brave;strong;fearless;bold;heroic;steadfast;quiet;moral;inspiring;unwavering
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,fear,intense;sudden;deep;irrational;overwhelming;primal;hidden;constant;paralyzing;instinctive
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,freedom,absolute;true;personal;hard-won;unlimited;basic;democratic;spiritual;joyful;restricted
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;overwhelming;quiet;shared;fleeting;inner;radiant
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,hate,intense;deep;bitter;blind;irrational;strong;destructive;enduring;passionate;unspoken
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,honesty,complete;straightforward;brutal;rare;refreshing;absolute;painful;sincere;unwavering;clear
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,justice,fair;blind;swift;true;social;equal;moral;harsh;balanced;restorative
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,knowledge,vast;deep;practical;theoretical;ancient;modern;hidden;essential;shared;accurate
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,love,true;deep;passionate;unconditional;romantic;familial;enduring;gentle;intense;selfless
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,peace,lasting;inner;global;fragile;quiet;perfect;spiritual;mutual;deep;temporary
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;intuitive;hard-earned;clear;spiritual;quiet;invaluable
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,bell,loud;clear;ringing;old;small;golden;church;alarm;decorative;broken
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,candle,lit;flickering;scented;tall;white;melting;decorative;birthday;emergency;warm
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;old;woolen;patterned;dirty;new;oriental;large
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,coin,old;shiny;rare;gold;silver;foreign;small;counterfeit;ancient;valuable
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;heavy;symbolic;ornate;simple;ceremonial;lost
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,flag,national;waving;colorful;torn;proud;foreign;small;official;faded;symbolic
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,mask,protective;decorative;scary;festive;old;wooden;full-face;simple;theatrical;hidden
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,necklace,golden;pearl;long;simple;elegant;antique;beaded;cheap;sparkling;heavy
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,painting,beautiful;old;modern;abstract;colorful;famous;detailed;small;landscape;portrait
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,ring,golden;engagement;simple;antique;diamond;small;wedding;magical;heavy;plain
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,statue,tall;stone;ancient;bronze;impressive;broken;modern;heroic;garden;forgotten
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Cultural Artifacts,vase,decorative;glass;antique;colorful;tall;broken;simple;floral;ceramic;elegant
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;stormy;high;drifting;thin;low;rainy;beautiful
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,earthquake,strong;sudden;devastating;minor;underground;frequent;destructive;shallow;deep;seismic
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,fog,thick;dense;morning;mysterious;cold;rolling;light;persistent;coastal;eerie
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,lightning,bright;fast;striking;dangerous;forked;distant;electrical;sudden;powerful;nighttime
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;cold;warm;seasonal;gentle;tropical;relentless
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;faint;beautiful;arched;rare;full;evening;magical
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,snow,white;fresh;deep;fluffy;melting;heavy;light;winter;powdery;frozen
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,storm,violent;fierce;approaching;powerful;sudden;tropical;windy;rainy;electrical;calm
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;crashing;sudden;ominous;deep;frequent;echoing;frightening
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;gentle;coastal;daily;powerful;unpredictable
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;smoking;ancient;dangerous;fiery;tall;underwater
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;eastern;northern;refreshing
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,apple,red;green;fresh;juicy;ripe;sweet;sour;small;organic;fallen
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,banana,yellow;ripe;green;sweet;long;fresh;peeled;tropical;soft;spotted
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,beef,fresh;tender;grilled;lean;fatty;rare;cooked;organic;cheap;high-quality
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,bread,fresh;warm;soft;crusty;white;whole-grain;sliced;homemade;stale;toasted
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,broccoli,fresh;green;steamed;raw;crisp;organic;frozen;tender;bitter;healthy
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,cheese,sharp;soft;hard;creamy;aged;mild;grated;fresh;imported;melted
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,chicken,grilled;roasted;fresh;organic;tender;spicy;fried;boneless;raw;seasoned
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,egg,fresh;boiled;fried;raw;large;brown;white;cracked;organic;soft-boiled
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,fish,fresh;grilled;smoked;wild;farmed;salty;flaky;raw;big;tasty
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;homemade;spicy;cheesy;simple;Italian;hot
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;wild;raw;seasoned;long-grain
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;spicy;thick;clear;homemade;cold;hearty
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,artist,talented;creative;famous;struggling;young;established;visionary;dedicated;innovative;skilled
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,athlete,strong;fast;dedicated;professional;young;injured;competitive;skilled;fit;Olympic
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,chef,skilled;famous;creative;busy;professional;young;experienced;passionate;talented;innovative
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,doctor,skilled;caring;busy;experienced;young;specialist;dedicated;professional;trustworthy;emergency
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,engineer,skilled;innovative;experienced;young;mechanical;electrical;dedicated;creative;professional;reliable
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,farmer,hardworking;local;experienced;young;organic;dedicated;rural;skilled;independent;traditional
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,lawyer,sharp;experienced;successful;young;corporate;dedicated;ethical;aggressive;professional;trustworthy
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,musician,talented;famous;young;skilled;passionate;classical;rock;dedicated;innovative;performing
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,scientist,brilliant;dedicated;experienced;young;innovative;research;theoretical;practical;curious;respected
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,soldier,brave;trained;experienced;young;disciplined;heroic;loyal;combat;elite;wounded
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,teacher,dedicated;experienced;young;inspiring;patient;knowledgeable;strict;creative;effective;supportive
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Human Roles,writer,talented;famous;young;prolific;creative;dedicated;fictional;journalistic;skilled;imaginative
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;hardcover;paperback;educational;fictional
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,bridge,old;new;long;high;wooden;stone;modern;broken;famous;safe
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;wooden;electronic;small;large;professional;beginner;tuned;antique
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,earth,green;vast;round;fertile;dry;ancient;living;polluted;beautiful;fragile
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,flute,wooden;silver;small;melodic;antique;modern;professional;simple;shiny;handmade
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,key,small;metal;rusty;shiny;old;new;spare;locked;golden;secret
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,knife,sharp;dull;metal;wooden-handled;kitchen;pocket;old;new;dangerous;useful
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,lock,old;new;broken;secure;metal;electronic;simple;complex;rusty;modern
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,moon,full;bright;crescent;dark;distant;beautiful;mysterious;silver;waxing;waning
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,pen,black;blue;cheap;expensive;fountain;ballpoint;old;new;leaking;smooth
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;warm;distant;powerful;midday;golden
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Inanimate Objects,sword,sharp;ancient;metal;long;decorative;battle;rusty;shiny;heavy;ceremonial
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,cat,black;white;fluffy;playful;lazy;wild;domestic;stray;young;old
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,dog,loyal;big;small;friendly;trained;wild;playful;old;young;barking
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,dolphin,intelligent;playful;graceful;wild;marine;large;friendly;jumping;social;endangered
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,elephant,large;gray;wild;gentle;endangered;strong;intelligent;old;young;majestic
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,hamster,small;furry;playful;cute;pet;wild;fast;nocturnal;young;old
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,monkey,playful;clever;wild;small;noisy;curious;tree-dwelling;young;old;mischievous
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,mouse,small;gray;fast;timid;wild;pet;nocturnal;cute;young;old
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,peacock,colorful;proud;wild;beautiful;large;exotic;feathered;male;female;noisy
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,rabbit,fluffy;fast;wild;pet;white;brown;young;old;hopping;cute
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,shark,dangerous;large;fast;marine;predatory;gray;wild;fearsome;endangered;solitary
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,snake,long;poisonous;wild;colorful;slithery;small;large;hidden;dangerous;harmless
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Neutral Animals,whale,massive;gentle;marine;endangered;blue;singing;wild;deep-diving;graceful;ancient
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,city,busy;large;modern;old;crowded;beautiful;industrial;coastal;historic;noisy
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,desert,dry;vast;sandy;hot;barren;remote;beautiful;windy;ancient;golden
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,forest,dense;green;ancient;dark;tropical;quiet;wild;vast;rainy;peaceful
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,island,tropical;small;remote;beautiful;volcanic;sandy;deserted;large;green;rocky
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,lake,deep;clear;frozen;large;small;peaceful;mountain;freshwater;scenic;calm
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,mountain,high;snowy;rugged;ancient;green;steep;majestic;volcanic;remote;beautiful
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;mysterious;warm;cold
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,plain,flat;vast;grassy;dry;fertile;open;windy;green;empty;rolling
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;scenic;ancient;green;remote
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,river,wide;deep;flowing;muddy;clear;fast;slow;winding;ancient;frozen
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,valley,deep;green;fertile;narrow;wide;scenic;hidden;mountainous;peaceful;dry
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Places,village,small;quiet;rural;ancient;coastal;mountain;traditional;poor;rich;friendly
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,cactus,spiky;green;desert;tall;small;flowering;wild;hardy;prickly;exotic
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,eggplant,purple;fresh;large;small;shiny;raw;cooked;organic;bitter;soft
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,flower,beautiful;colorful;fragrant;wild;garden;small;large;blooming;wilted;red
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,grass,green;tall;short;wet;dry;wild;lawn;soft;thick;yellow
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,lettuce,fresh;green;crisp;raw;organic;leafy;salad;wilted;small;large
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,mushroom,wild;edible;poisonous;small;large;fresh;dried;white;brown;tasty
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,onion,fresh;raw;cooked;spicy;large;small;organic;peeled;sliced;strong
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,pepper,hot;sweet;red;green;fresh;dried;spicy;small;large;flavorful
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,potato,fresh;raw;cooked;large;small;organic;baked;fried;starchy;yellow
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,rose,red;beautiful;thorny;fragrant;wild;garden;blooming;white;pink;fresh
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,tomato,red;fresh;ripe;juicy;small;large;organic;raw;cooked;sweet
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Plants,tree,tall;green;old;young;leafy;fruit-bearing;shady;ancient;bare;strong
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,ally,strong;reliable;faithful;strategic;helpful;trusted;powerful;loyal;supportive;key
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,brother,older;younger;protective;caring;annoying;supportive;fun;distant;close;helpful
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,enemy,dangerous;powerful;sworn;bitter;hidden;foreign;strong;ruthless;old;threatening
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,father,loving;strict;hardworking;absent;supportive;wise;young;old;caring;proud
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,follower,loyal;dedicated;blind;enthusiastic;faithful;active;passive;strong;weak;committed
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,friend,close;loyal;true;old;new;fun;supportive;trustworthy;helpful;distant
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,leader,strong;charismatic;effective;visionary;weak;inspiring;democratic;authoritarian;experienced;young
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,mother,loving;caring;strict;hardworking;supportive;wise;young;old;protective;nurturing
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,partner,reliable;supportive;business;romantic;equal;trusted;helpful;committed;strong;creative
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,rival,fierce;strong;competitive;bitter;equal;challenging;old;new;skilled;dangerous
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,sister,younger;older;caring;annoying;supportive;fun;close;distant;protective;helpful
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Social Relationships,stranger,unknown;mysterious;dangerous;friendly;foreign;passing;helpful;suspicious;tall;quiet
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,above,high;overhead;superior;elevated;upper;distant;clear;bright;floating;vast
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,back,rear;hidden;distant;old;strong;weak;straight;curved;painful;broad
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,below,low;underground;inferior;deep;hidden;dark;submerged;quiet;cold;vast
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,east,rising;distant;sunny;coastal;ancient;modern;flat;mountainous;warm;exotic
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,front,forward;main;visible;leading;open;busy;clean;damaged;wide;narrow
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,inside,inner;hidden;warm;dark;safe;crowded;empty;quiet;comfortable;secret
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,left,western;unused;free;damaged;strong;weak;open;closed;dark;bright
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,north,cold;polar;distant;windy;forested;mountainous;ancient;modern;vast;remote
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,outside,outer;exposed;cold;warm;busy;quiet;green;urban;rural;fresh
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,right,correct;eastern;strong;weak;free;occupied;straight;curved;bright;dark
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,south,warm;tropical;distant;coastal;dry;wet;ancient;modern;vast;sunny
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Spatial Concepts,west,wild;coastal;distant;sunny;ancient;modern;flat;mountainous;cool;remote
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,century,past;future;long;short;golden;dark;modern;ancient;eventful;peaceful
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;lazy;clear;foggy;warm;cold
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,evening,calm;quiet;long;short;warm;cool;beautiful;dark;relaxing;busy
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;golden;dark;final;first
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,minute,short;long;final;first;quiet;busy;last;next;precise;fleeting
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;final;first;festive;dull
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,morning,fresh;early;bright;foggy;cold;warm;busy;quiet;clear;energetic
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,night,dark;long;short;quiet;stormy;clear;warm;cold;mysterious;peaceful
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,season,long;short;warm;cold;rainy;dry;festive;quiet;changing;beautiful
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,second,short;final;first;quick;last;next;precise;fleeting;important;ordinary
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,week,long;short;busy;quiet;final;first;productive;relaxing;eventful;dull
+grok-3-mini,think-in-native,0.0,DE # German,C1,most frequent,Time Concepts,year,long;short;busy;quiet;successful;difficult;final;first;memorable;ordinary
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;suppressed;explosive;quiet;righteous;simmering
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,courage,brave;bold;unwavering;heroic;quiet;sudden;moral;inspiring;foolish;steadfast
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,fear,intense;sudden;deep;irrational;overwhelming;primal;hidden;constant;paralyzing;creeping
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,freedom,absolute;hard-won;personal;true;limited;complete;basic;cherished;fleeting;universal
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;fleeting;deep;shared;quiet;overwhelming;everyday
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,hate,intense;blind;deep;irrational;bitter;enduring;violent;unspoken;growing;mutual
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,honesty,
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,justice,fair;swift;blind;true;social;equal;delayed;moral;ultimate;imperfect
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,knowledge,vast;deep;practical;ancient;secret;basic;shared;useful;forgotten;advanced
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,love,true;deep;unconditional;passionate;fleeting;enduring;blind;pure;mutual;forbidden
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,peace,lasting;fragile;inner;global;quiet;true;temporary;perfect;disturbed;harmonious
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;simple;hidden;shared;foolish;enduring;intuitive
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,bell,loud;ringing;old;small;golden;cracked;clear;antique;handheld;festive
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,candle,flickering;scented;tall;waxen;lit;small;colorful;melting;decorative;simple
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,carpet,soft;woven;colorful;thick;old;patterned;dirty;luxurious;cheap;oriental
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,coin,shiny;old;rare;small;golden;fake;ancient;valuable;foreign;worn
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,crown,golden;royal;heavy;jeweled;ancient;symbolic;fake;ornate;simple;ceremonial
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,flag,national;waving;colorful;torn;proud;foreign;faded;symbolic;large;small
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,mask,mysterious;decorative;protective;old;colorful;facial;simple;scary;traditional;hidden
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,necklace,shiny;golden;beaded;long;antique;simple;elegant;cheap;jeweled;broken
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,painting,beautiful;old;abstract;colorful;famous;simple;detailed;modern;faded;large
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,ring,golden;shiny;engagement;small;antique;simple;jeweled;broken;valuable;plain
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,statue,grand;ancient;stone;bronze;tall;broken;famous;simple;decorative;forgotten
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Cultural Artifacts,vase,fragile;decorative;antique;colorful;tall;simple;broken;glass;ceramic;elegant
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;drifting;stormy;high;thin;heavy;passing;gray
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,earthquake,violent;sudden;massive;destructive;shallow;deep;rare;powerful;minor;unexpected
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,fog,thick;dense;morning;chilling;mysterious;light;persistent;coastal;early;rolling
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;striking;dangerous;forked;distant;powerful;quick;electrical;stormy
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;cold;warm;seasonal;gentle;relentless;tropical
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,rainbow,colorful;bright;fleeting;double;vivid;arched;rare;beautiful;full;fading
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,snow,fresh;deep;light;falling;cold;powdery;melting;heavy;white;drifting
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,storm,fierce;raging;sudden;violent;approaching;mild;tropical;windy;dark;passing
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;sudden;echoing;powerful;faint;crashing;ominous;rolling
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;gentle;incoming;outgoing;coastal;unpredictable
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;explosive;smoking;ancient;dangerous;fiery;quiet;towering
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Environmental Phenomena,wind,strong;gentle;howling;cold;warm;gusty;steady;northern;eastern;biting
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,apple,red;juicy;fresh;green;ripe;sweet;sour;small;large;crisp
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,banana,yellow;ripe;fresh;green;sweet;soft;large;small;peeled;tropical
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,beef,tender;fresh;grilled;lean;fatty;rare;cooked;organic;cheap;tough
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,bread,fresh;warm;soft;crusty;white;whole-grain;sliced;stale;homemade;toasted
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,broccoli,fresh;green;steamed;raw;crisp;organic;frozen;small;large;tender
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,cheese,sharp;soft;hard;creamy;aged;mild;grated;fresh;melted;imported
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,chicken,grilled;fresh;roasted;tender;spicy;organic;fried;boneless;small;large
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,egg,fresh;boiled;fried;large;small;organic;cracked;raw;brown;white
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,fish,fresh;grilled;smoked;wild;farmed;large;small;oily;flaky;frozen
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;homemade;spicy;simple;Italian;long;short
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;wild;raw;long-grain;short-grain
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Food Items,soup,hot;creamy;vegetable;spicy;thick;clear;homemade;canned;flavorful;cold
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,artist,talented;creative;famous;struggling;dedicated;young;established;visionary;skilled;inspired
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,athlete,strong;fast;dedicated;professional;young;injured;skilled;competitive;fit;Olympic
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,chef,skilled;famous;creative;busy;young;experienced;talented;professional;innovative;passionate
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,doctor,skilled;caring;busy;experienced;young;specialist;dedicated;professional;trustworthy;emergency
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,engineer,skilled;innovative;busy;experienced;young;mechanical;dedicated;professional;creative;reliable
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,farmer,hardworking;experienced;local;organic;young;dedicated;rural;skilled;traditional;modern
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,lawyer,sharp;experienced;busy;young;corporate;dedicated;professional;ethical;successful;defense
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,musician,talented;famous;young;skilled;dedicated;classical;rock;passionate;innovative;struggling
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,scientist,brilliant;dedicated;young;experienced;innovative;theoretical;practical;curious;professional;leading
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,soldier,brave;trained;young;experienced;disciplined;loyal;elite;wounded;active;retired
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,teacher,dedicated;experienced;young;inspiring;patient;skilled;strict;creative;professional;enthusiastic
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Human Roles,writer,talented;famous;young;experienced;creative;prolific;struggling;insightful;dedicated;fictional
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;popular;rare;hardcover;paperback
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,bridge,old;new;long;high;wooden;stone;modern;broken;famous;simple
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;wooden;large;small;electronic;traditional;broken;shiny;acoustic
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,earth,green;vast;ancient;fertile;dry;round;living;barren;spinning;blue
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,flute,wooden;silver;small;melodic;ancient;shiny;simple;broken;traditional;modern
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,key,small;metal;rusty;shiny;old;new;spare;locked;golden;simple
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,knife,sharp;dull;metal;small;large;kitchen;rusty;clean;pocket;dangerous
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,lock,old;new;rusty;secure;broken;metal;simple;electronic;padlock;door
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,moon,full;bright;crescent;dark;distant;glowing;waxing;waning;silver;mysterious
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,pen,black;ink;smooth;cheap;expensive;broken;fountain;ballpoint;colorful;simple
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;warm;distant;burning;midday;golden
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Inanimate Objects,sword,sharp;ancient;metal;long;short;rusty;ceremonial;deadly;jeweled;wooden
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,cat,black;fluffy;playful;lazy;wild;domestic;small;large;stray;curious
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,dog,loyal;friendly;big;small;energetic;lazy;trained;stray;barking;furry
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;sleek;wild;friendly;large;small;marine;jumping;graceful
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,elephant,large;gray;wild;gentle;strong;endangered;African;Asian;trumpeting;majestic
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,hamster,small;furry;playful;tame;wild;brown;white;fast;nocturnal;cute
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,monkey,playful;agile;wild;small;large;curious;noisy;clever;swinging;mischievous
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,mouse,small;gray;fast;timid;wild;tame;squeaky;nocturnal;furry;clever
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,peacock,colorful;proud;wild;large;beautiful;exotic;strutting;noisy;royal;elegant
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,rabbit,fluffy;fast;wild;tame;small;white;brown;hopping;cute;timid
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,shark,dangerous;large;fast;wild;gray;predatory;oceanic;fierce;solitary;sharp-toothed
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,snake,long;venomous;slithery;wild;colorful;small;large;coiled;dangerous;harmless
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Neutral Animals,whale,massive;gentle;wild;blue;singing;endangered;deep-sea;graceful;migrating;ancient
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,city,busy;large;modern;old;crowded;clean;dirty;historic;vibrant;coastal
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,desert,vast;dry;sandy;hot;barren;endless;remote;golden;windy;harsh
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,forest,dense;green;ancient;dark;tropical;quiet;vast;leafy;wild;misty
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,island,tropical;small;remote;beautiful;deserted;volcanic;sandy;green;rocky;inhabited
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,lake,calm;deep;blue;frozen;clear;large;small;freshwater;scenic;hidden
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,mountain,tall;snowy;rugged;green;high;ancient;steep;majestic;volcanic;remote
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;mysterious;warm;cold
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,plain,flat;vast;green;dry;open;fertile;windy;endless;grassy;barren
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;green;ancient;remote;scenic
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,river,wide;deep;flowing;clear;muddy;fast;slow;winding;ancient;frozen
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,valley,deep;green;narrow;wide;fertile;hidden;scenic;misty;rocky;peaceful
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Places,village,small;quiet;rural;ancient;coastal;mountain;simple;charming;isolated;traditional
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,cactus,spiky;green;tall;small;desert;flowering;hardy;prickly;wild;exotic
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,eggplant,purple;fresh;large;small;shiny;ripe;cooked;organic;soft;bitter
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;wild;fresh;wilted;small;large;blooming;exotic
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,grass,green;tall;short;wet;dry;fresh;wild;mowed;soft;thick
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,lettuce,fresh;green;crisp;organic;wilted;leafy;raw;small;large;salad
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,mushroom,fresh;wild;edible;poisonous;small;large;brown;white;cooked;raw
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,onion,fresh;sharp;small;large;red;white;raw;cooked;pungent;organic
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,pepper,spicy;fresh;red;green;hot;sweet;small;large;dried;raw
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,potato,fresh;large;small;baked;raw;organic;starchy;boiled;fried;sweet
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,rose,red;beautiful;fragrant;thorny;fresh;wild;blooming;white;pink;elegant
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,tomato,red;fresh;ripe;juicy;small;large;organic;raw;cooked;sweet
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Plants,tree,tall;green;old;young;leafy;fruit-bearing;shady;ancient;bare;flowering
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,ally,strong;reliable;faithful;strategic;helpful;trusted;powerful;secret;loyal;supportive
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,brother,older;younger;loving;protective;annoying;supportive;distant;close;fun;responsible
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,enemy,dangerous;sworn;bitter;powerful;hidden;foreign;ruthless;old;defeated;threatening
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,father,loving;strict;absent;supportive;wise;young;old;hardworking;distant;caring
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;faithful;dedicated;misguided;strong;weak;numerous
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,friend,close;loyal;true;old;new;fun;supportive;distant;reliable;trustworthy
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,leader,strong;charismatic;wise;effective;young;old;inspiring;authoritarian;democratic;visionary
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,mother,loving;caring;strict;supportive;busy;young;old;protective;nurturing;absent
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,partner,reliable;supportive;business;romantic;equal;trusted;distant;helpful;committed;professional
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,rival,fierce;strong;bitter;competitive;old;new;dangerous;skilled;corporate;personal
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,sister,younger;older;loving;annoying;supportive;close;distant;fun;protective;caring
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Social Relationships,stranger,mysterious;unknown;dangerous;friendly;passing;foreign;helpful;suspicious;tall;quiet
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,above,high;overhead;superior;elevated;upper;distant;clear;bright;vast;floating
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,back,rear;hidden;distant;strong;weak;straight;curved;painful;supportive;old
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,below,low;underground;inferior;deep;hidden;dark;submerged;quiet;vast;cold
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,east,rising;distant;sunny;coastal;ancient;modern;flat;mountainous;foggy;clear
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,front,forward;main;visible;strong;weak;open;closed;busy;quiet;leading
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,inside,inner;hidden;warm;dark;safe;crowded;empty;secret;cozy;protected
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,left,western;abandoned;free;strong;weak;open;closed;distant;near;shadowy
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,north,cold;polar;distant;windy;forested;mountainous;flat;ancient;modern;harsh
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,outside,external;cold;warm;open;exposed;bright;dark;vast;noisy;quiet
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,right,correct;eastern;strong;weak;straight;curved;moral;legal;immediate;distant
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,south,warm;tropical;distant;coastal;flat;mountainous;sunny;ancient;modern;humid
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Spatial Concepts,west,wild;distant;coastal;sunny;mountainous;flat;ancient;modern;windy;golden
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,century,past;future;golden;dark;recent;ancient;progressive;turbulent;peaceful;forgotten
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,day,sunny;rainy;long;short;busy;lazy;clear;foggy;warm;cold
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,evening,calm;quiet;long;short;warm;cool;peaceful;busy;golden;fading
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;golden;dark;passing;final
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,minute,short;long;final;waiting;ticking;quiet;busy;last;first;endless
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,month,long;short;busy;quiet;festive;cold;warm;rainy;sunny;final
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,morning,fresh;bright;early;foggy;sunny;quiet;busy;cool;crisp;new
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,night,dark;long;quiet;starry;stormy;cold;warm;endless;peaceful;mysterious
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,season,long;short;warm;cold;rainy;dry;festive;quiet;changing;mild
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,second,short;final;waiting;quick;last;first;ticking;precious;fleeting;extra
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,week,long;short;busy;quiet;final;starting;ending;productive;relaxing;ordinary
+grok-3-mini,think-in-native,0.0,DE # German,C2,most frequent,Time Concepts,year,long;short;busy;quiet;new;old;productive;challenging;memorable;forgotten
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;suppressed;boiling;fierce;uncontrollable;quiet
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,courage,brave;bold;heroic;great;moral;physical;quiet;foolish;innate;displayed
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,fear,intense;sudden;deep;irrational;overwhelming;primal;hidden;constant;paralyzing;natural
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,freedom,absolute;personal;political;true;limited;hard-won;basic;individual;economic;social
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;fleeting;inner;shared;complete;everyday;radiant
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,hate,intense;deep;blind;irrational;bitter;enduring;mutual;racial;personal;violent
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,honesty,complete;brutal;refreshing;absolute;straightforward;rare;heartfelt;simple;unwavering;painful
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,justice,fair;swift;blind;social;poetic;divine;criminal;equal;restorative;imperfect
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;practical;theoretical;ancient;modern;secret;shared;basic;specialized
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,love,true;deep;unconditional;romantic;eternal;passionate;platonic;forbidden;familial;lost
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,peace,lasting;inner;global;fragile;quiet;perfect;world;mental;temporary;spiritual
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;innate;hard-earned;simple;divine;worldly;quiet
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,bell,loud;small;ringing;antique;golden;church;alarm;handheld;cracked;festive
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,candle,lit;scented;tall;waxen;flickering;decorative;birthday;emergency;colored;melted
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,carpet,soft;thick;patterned;woolen;old;colorful;oriental;dirty;rolled;expensive
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;gold;silver;foreign;counterfeit;ancient;small;valuable
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;ceremonial;heavy;symbolic;stolen;ornate;simple
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,flag,national;waving;colorful;torn;proud;foreign;historical;small;official;faded
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,mask,protective;decorative;facial;ancient;scary;theatrical;hidden;plastic;cultural;elegant
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,necklace,gold;pearl;simple;elegant;antique;beaded;long;cheap;sparkling;handmade
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,painting,beautiful;famous;abstract;oil;modern;landscape;portrait;colorful;damaged;valuable
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,ring,gold;engagement;simple;antique;diamond;silver;wedding;small;engraved;lost
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,statue,tall;stone;ancient;bronze;famous;garden;broken;heroic;modern;decorative
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Cultural Artifacts,vase,glass;antique;floral;tall;broken;decorative;ceramic;empty;colorful;fragile
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;stormy;high;drifting;thin;cumulus;rainy;distant
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,earthquake,strong;devastating;sudden;minor;seismic;underground;destructive;frequent;shallow;massive
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;morning;mysterious;cold;rolling;light;coastal;eerie;persistent
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,lightning,bright;fast;striking;forked;dangerous;nighttime;electrical;distant;powerful;sudden
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;cold;warm;seasonal;gentle;tropical;relentless
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;faint;perfect;arched;post-rain;vivid;rare;full
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,snow,fresh;deep;fluffy;melting;heavy;winter;light;packed;wet;pristine
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,storm,violent;fierce;approaching;electrical;winter;tropical;sudden;powerful;rainy;howling
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;crashing;sudden;ominous;rolling;nighttime;fierce;echoing
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;coastal;incoming;outgoing;gentle;powerful
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;smoking;ancient;dangerous;fiery;underwater;tall
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;eastern;northern;fierce
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,apple,red;green;fresh;ripe;juicy;sweet;tart;small;organic;fallen
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,banana,yellow;ripe;green;peeled;sweet;long;fresh;spotted;organic;tropical
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,beef,fresh;lean;grilled;tender;ground;rare;fatty;organic;cooked;cheap
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,bread,fresh;warm;sliced;whole-wheat;soft;crusty;homemade;stale;white;toasted
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;crisp;frozen;tender;healthy;boiled
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,cheese,sharp;soft;hard;melted;aged;creamy;grated;fresh;imported;mild
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,chicken,grilled;roasted;fresh;organic;fried;tender;boneless;raw;spicy;whole
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;raw;brown;white;large;cracked;organic;scrambled
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,fish,fresh;grilled;smoked;wild;frozen;oily;caught;small;tasty;salted
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;homemade;cheesy;spicy;Italian;long;stuffed
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;wild;boiled;raw;aromatic
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;spicy;thick;clear;homemade;cold;hearty
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,artist,talented;creative;famous;struggling;young;established;visionary;dedicated;skilled;innovative
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,athlete,strong;fast;professional;dedicated;injured;young;Olympic;skilled;competitive;fit
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,chef,skilled;famous;creative;professional;young;experienced;talented;busy;innovative;passionate
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,doctor,skilled;experienced;young;dedicated;busy;specialist;caring;retired;qualified;emergency
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,engineer,skilled;mechanical;civil;electrical;innovative;experienced;young;dedicated;qualified;creative
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,farmer,hardworking;local;organic;experienced;young;dedicated;rural;skilled;independent;modern
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,lawyer,skilled;corporate;experienced;young;dedicated;successful;ethical;busy;qualified;criminal
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,musician,talented;famous;classical;rock;young;dedicated;skilled;innovative;struggling;professional
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,scientist,brilliant;dedicated;young;experienced;innovative;environmental;medical;theoretical;skilled;curious
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,soldier,brave;trained;young;veteran;dedicated;elite;injured;professional;loyal;combat
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,teacher,dedicated;experienced;young;passionate;skilled;retired;inspiring;strict;qualified;creative
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Human Roles,writer,talented;famous;young;experienced;creative;struggling;prolific;dedicated;skilled;fictional
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,book,old;new;thick;thin;hardcover;paperback;interesting;educational;fictional;rare
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,bridge,old;long;wooden;stone;modern;high;broken;famous;suspension;narrow
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,drums,loud;wooden;electronic;small;professional;rhythmic;antique;shiny;hand-held;large
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,earth,green;blue;fertile;dry;ancient;vast;spinning;living;rocky;flat
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;small;antique;musical;shiny;simple;professional;ancient;melodic
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,key,small;metal;old;rusty;spare;golden;locked;modern;secret;electronic
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,knife,sharp;small;kitchen;rusty;pocket;old;clean;dull;silver;hunting
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,lock,old;rusty;electronic;secure;broken;small;modern;keyless;metal;combination
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,moon,full;bright;crescent;dark;distant;waxing;waning;glowing;silver;mysterious
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,pen,black;ink;cheap;fancy;broken;new;ballpoint;fountain;colorful;old
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;warm;distant;burning;midday;golden
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;metal;long;ceremonial;rusty;magical;heavy;decorative;forged
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,cat,black;fluffy;wild;domestic;playful;old;stray;cute;lazy;aggressive
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,dog,loyal;big;small;trained;wild;playful;old;friendly;aggressive;stray
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;marine;gray;fast;social;endangered;young;trained
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,elephant,large;gray;wild;tame;endangered;strong;old;playful;majestic;African
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,hamster,small;furry;cute;wild;pet;fast;nocturnal;young;tame;active
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,monkey,playful;wild;small;intelligent;noisy;young;tame;agile;curious;mischievous
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,mouse,small;gray;wild;pet;fast;timid;young;noisy;cute;trapped
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,peacock,colorful;wild;beautiful;proud;large;tame;exotic;noisy;male;elegant
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,rabbit,white;fluffy;wild;pet;fast;young;tame;cute;hopping;small
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,shark,large;dangerous;wild;gray;fast;predatory;endangered;deep-sea;aggressive;solitary
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,snake,long;poisonous;wild;tame;green;coiled;fast;endangered;small;slithery
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Neutral Animals,whale,large;blue;wild;endangered;marine;singing;migratory;gentle;massive;deep-diving
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,city,busy;large;modern;old;crowded;beautiful;industrial;coastal;historic;vibrant
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,desert,hot;dry;vast;sandy;barren;remote;golden;windy;harsh;endless
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,forest,dense;green;ancient;dark;tropical;quiet;vast;rainy;magical;protected
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,island,tropical;small;remote;volcanic;sandy;green;deserted;large;coastal;beautiful
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,lake,deep;blue;frozen;calm;large;small;clear;mountain;polluted;scenic
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,mountain,high;snowy;rugged;tall;green;ancient;volcanic;steep;majestic;remote
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;warm;cold;mysterious
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,plain,flat;vast;green;dry;fertile;empty;rolling;grassy;endless;open
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;green;ancient;remote;scenic
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,river,wide;deep;flowing;muddy;clear;fast;slow;ancient;polluted;scenic
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,valley,deep;green;narrow;wide;fertile;hidden;scenic;dry;mountainous;peaceful
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Places,village,small;quiet;rural;ancient;coastal;mountain;poor;prosperous;traditional;remote
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,cactus,spiky;green;tall;desert;small;flowering;wild;hardy;exotic;prickly
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,eggplant,purple;fresh;large;raw;cooked;organic;shiny;bitter;small;grilled
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,flower,beautiful;red;wild;fragrant;blooming;small;exotic;dried;colorful;wilted
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,grass,green;tall;wet;dry;wild;mowed;soft;thick;fresh;yellowed
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,lettuce,fresh;green;crisp;organic;raw;wilted;leafy;salad;small;washed
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,mushroom,wild;edible;poisonous;fresh;small;dried;large;organic;cooked;exotic
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,onion,fresh;raw;chopped;organic;small;large;sweet;spicy;dried;peeled
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,pepper,red;green;fresh;spicy;raw;dried;organic;hot;sweet;ground
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,potato,fresh;baked;raw;organic;small;large;boiled;fried;sweet;peeled
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,rose,red;beautiful;thorny;fragrant;wild;blooming;white;dried;exotic;fresh
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,tomato,red;fresh;ripe;raw;organic;small;juicy;sliced;green;cooked
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Plants,tree,tall;green;old;young;leafy;fruit-bearing;dead;ancient;shady;bare
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,ally,strong;reliable;strategic;faithful;powerful;secret;foreign;trusted;loyal;helpful
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,brother,older;younger;loving;protective;twin;estranged;supportive;annoying;close;distant
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,enemy,sworn;bitter;powerful;foreign;dangerous;hidden;ancient;ruthless;common;defeated
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,father,loving;strict;absent;proud;hardworking;elderly;young;supportive;distant;biological
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;faithful;dedicated;mass;religious;political;misguided
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,friend,best;close;old;new;loyal;trustworthy;childhood;distant;supportive;false
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,leader,strong;charismatic;effective;weak;inspirational;political;military;natural;elected;visionary
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,mother,loving;caring;strict;single;elderly;young;protective;busy;supportive;biological
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,partner,business;romantic;reliable;equal;trusted;professional;life;silent;creative;supportive
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,rival,fierce;strong;business;political;hated;equal;longstanding;defeated;competitive;secret
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,sister,older;younger;loving;protective;twin;estranged;supportive;annoying;close;distant
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Social Relationships,stranger,mysterious;dangerous;friendly;unknown;foreign;helpful;suspicious;passing;tall;quiet
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,above,high;clear;bright;distant;floating;overhead;superior;elevated;visible;vast
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,back,strong;sore;straight;broad;injured;muscular;arched;hidden;rear;weak
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,below,deep;hidden;dark;underground;lower;submerged;inferior;quiet;vast;secret
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,east,rising;distant;coastal;sunny;ancient;far;exotic;trade;wind-swept;mysterious
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,front,wide;narrow;open;closed;busy;main;forward;defensive;visible;grand
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,inside,warm;dark;hidden;cozy;empty;secret;inner;protected;vast;quiet
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,left,sharp;weak;dominant;injured;free;hidden;straight;crooked;open;closed
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,north,cold;polar;distant;windy;ancient;magnetic;far;frozen;mysterious;rugged
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,outside,cold;bright;wet;dark;open;exposed;vast;noisy;quiet;fresh
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,right,correct;strong;dominant;injured;straight;free;hidden;moral;legal;absolute
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,south,warm;tropical;distant;sunny;ancient;far;exotic;humid;coastal;vibrant
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Spatial Concepts,west,wild;distant;sunny;ancient;far;rugged;coastal;mysterious;golden;frontier
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,century,past;future;golden;dark;modern;ancient;lost;prosperous;turbulent;enlightened
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;lazy;perfect;ordinary;special;final
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,evening,quiet;long;warm;cool;peaceful;romantic;late;early;golden;dark
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,hour,long;short;final;early;late;golden;quiet;busy;dark;productive
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,minute,last;final;short;long;quiet;busy;golden;early;late;precise
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,month,long;short;busy;quiet;final;early;late;festive;dark;productive
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,morning,early;fresh;bright;foggy;quiet;busy;cold;warm;golden;crisp
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;warm;endless;peaceful;stormy;magical
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,season,long;short;warm;cold;festive;dry;wet;productive;quiet;changing
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,second,last;final;short;long;quiet;busy;golden;early;late;precise
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;final;early;late;productive;relaxing;eventful
+grok-3-mini,think-in-native,0.0,DE # German,Perfect,most frequent,Time Concepts,year,long;short;busy;quiet;final;early;late;productive;memorable;challenging

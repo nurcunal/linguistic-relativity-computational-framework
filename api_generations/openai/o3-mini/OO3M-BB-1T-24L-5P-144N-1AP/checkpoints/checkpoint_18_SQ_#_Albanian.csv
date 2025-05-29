@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,anger,strong;deep;hot;fierce;burning;quick;rough;wild;sharp;intense
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,courage,strong;brave;bold;true;firm;steady;calm;clear;real;noble
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,fear,big;deep;dark;cold;raw;hard;wild;grim;real;great
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,freedom,free;open;wide;clear;true;pure;safe;bright;deep;happy
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,happiness,happy;bright;warm;good;clear;fine;real;pure;calm;gentle
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,hate,strong;deep;dark;cold;bad;hard;raw;wild;harsh;bitter
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,honesty,true;clear;pure;good;fair;real;deep;strong;calm;open
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,justice,fair;true;clear;strong;good;honest;pure;deep;brave;real
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,knowledge,deep;clear;big;true;real;wide;good;open;bright;strong
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,love,strong;deep;true;warm;kind;pure;good;bright;real;soft
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,peace,calm;quiet;clear;deep;pure;good;soft;bright;safe;kind
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,wisdom,deep;true;old;clear;good;pure;real;kind;full;bright
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,bell,small;round;old;clear;loud;bright;plain;fine;heavy;strong
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,candle,small;bright;soft;warm;clear;old;fine;light;pure;calm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,carpet,soft;thick;warm;old;bright;fine;neat;deep;good;clean
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,coin,small;round;old;shiny;bright;hard;clear;fine;pure;true
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,crown,rich;bright;high;fine;old;strong;true;bold;neat;royal
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,flag,red;blue;bright;high;clear;strong;neat;real;fine;wide
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,mask,dark;old;clear;real;true;neat;bold;fine;soft;pure
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,necklace,small;fine;bright;old;shiny;clear;neat;pure;true;soft
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,painting,old;fine;bright;clear;real;neat;bold;deep;true;good
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,ring,small;round;bright;fine;old;clear;neat;true;pure;bold
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,statue,big;old;strong;clear;fine;true;deep;neat;bright;pure
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,vase,small;fine;old;bright;clear;neat;real;pure;true;soft
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,cloud,white;soft;bright;high;deep;clear;fine;real;light;calm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,earthquake,big;strong;deep;fast;real;hard;wild;rough;loud;heavy
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,fog,thick;deep;soft;dark;wide;clear;cold;heavy;still;high
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,lightning,bright;fast;strong;clear;sharp;real;deep;wild;quick;hot
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,rain,wet;cold;soft;light;clear;deep;strong;hard;real;long
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,rainbow,bright;clear;wide;deep;fine;true;neat;soft;rich;vivid
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,snow,white;soft;cold;deep;pure;clear;fine;real;bright;calm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,storm,strong;wild;fast;deep;loud;dark;real;hard;fierce;rough
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,thunder,loud;deep;strong;dark;real;hard;fast;clear;heavy;wild
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,tide,high;low;strong;deep;clear;real;raw;fast;wild;firm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,volcano,big;hot;strong;deep;real;wild;fierce;old;raw;rough
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,wind,strong;cold;fast;deep;real;clear;wild;soft;high;fresh
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,apple,red;good;sweet;fresh;round;small;fine;juicy;bright;neat
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,banana,yellow;good;sweet;soft;ripe;fresh;long;fine;small;neat
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,beef,red;good;raw;thick;fresh;strong;fine;hard;juicy;real
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,bread,fresh;good;soft;brown;warm;fine;old;real;neat;thick
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,broccoli,green;fresh;good;raw;fine;neat;small;bright;young;crisp
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,cheese,yellow;good;fresh;soft;hard;neat;fine;real;old;rich
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,chicken,good;fresh;raw;warm;brown;fine;neat;small;real;tasty
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,egg,small;white;fresh;good;neat;round;fine;raw;brown;pure
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,fish,fresh;good;small;wild;blue;raw;fine;neat;fast;real
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,pasta,good;soft;fine;raw;fresh;neat;long;small;real;tasty
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,rice,white;fine;good;small;neat;real;pure;soft;fresh;plain
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,soup,hot;good;fresh;soft;warm;deep;clear;neat;real;tasty
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,artist,creative;good;smart;kind;deep;real;bright;neat;brave;true
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,athlete,strong;fast;good;brave;real;neat;clear;bold;active;tough
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,chef,good;smart;neat;kind;real;bold;clear;brave;fine;quick
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,doctor,good;kind;smart;brave;real;clear;neat;strong;warm;true
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,engineer,smart;good;clear;neat;strong;real;brave;fine;kind;true
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,farmer,hard;good;strong;real;brave;neat;kind;old;clear;big
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,lawyer,smart;good;clear;strong;true;neat;fair;kind;real;brave
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,musician,good;creative;smart;kind;real;bright;neat;clear;bold;true
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,scientist,smart;good;clear;real;brave;neat;kind;strong;true;deep
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,soldier,brave;strong;good;real;hard;neat;bold;true;fast;tough
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,teacher,good;kind;smart;clear;neat;brave;true;real;patient;calm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,writer,good;kind;smart;clear;neat;real;true;brave;deep;fine
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,book,old;good;clear;real;neat;deep;fine;thick;new;plain
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,bridge,long;strong;good;high;clear;neat;real;big;old;wide
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,drums,loud;strong;deep;good;fast;neat;clear;bold;real;hard
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,earth,green;old;good;deep;round;real;clear;neat;big;wide
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,flute,small;clear;good;soft;real;neat;bright;fine;old;pure
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,key,small;old;good;clear;fine;real;neat;true;sharp;hard
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,knife,sharp;small;good;real;old;clear;fine;hard;true;neat
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,lock,strong;old;good;real;neat;clear;tight;fine;safe;hard
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,moon,bright;round;old;clear;deep;pure;real;high;soft;cool
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,pen,small;good;clear;neat;fine;real;blue;true;sharp;old
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,sun,bright;warm;strong;high;clear;good;real;big;fine;pure
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,sword,sharp;strong;old;good;clear;fine;brave;real;true;hard
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,cat,small;cute;soft;good;real;neat;kind;calm;fast;young
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,dog,good;kind;strong;brave;real;neat;fast;cute;smart;loyal
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,dolphin,smart;kind;good;fast;real;neat;clear;bright;blue;young
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,elephant,big;strong;old;kind;good;real;neat;slow;smart;heavy
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,hamster,small;cute;soft;good;neat;real;kind;round;fast;young
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,monkey,smart;quick;good;kind;real;neat;fast;bold;young;fun
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,mouse,small;quick;good;neat;real;kind;light;soft;shy;young
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,peacock,bright;beautiful;fine;real;neat;old;bold;clear;kind;proud
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,rabbit,small;soft;quick;good;neat;real;kind;brown;young;cute
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,shark,big;strong;fast;real;bold;neat;deep;wild;sharp;dark
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,snake,long;slim;real;bold;good;neat;dark;fast;quiet;cold
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,whale,big;strong;deep;real;old;good;slow;neat;clear;huge
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,city,big;busy;loud;bright;old;clear;neat;real;safe;wide
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,desert,hot;dry;big;clear;deep;old;true;real;hard;wide
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,forest,green;big;deep;old;dark;calm;clear;neat;real;wild
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,island,small;big;green;clear;real;old;neat;safe;bright;calm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,lake,big;deep;clear;still;calm;real;old;pure;neat;cool
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,mountain,big;high;old;steep;deep;strong;clear;real;wild;cool
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,ocean,big;deep;blue;strong;wild;clear;real;rough;cold;vast
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,plain,wide;flat;clear;good;real;neat;deep;old;pure;calm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,plateau,high;flat;clear;real;old;neat;wide;deep;good;calm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,river,long;deep;clear;strong;fast;real;wide;cold;pure;neat
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,valley,low;deep;wide;clear;calm;real;old;neat;good;safe
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Places,village,small;quiet;old;neat;clear;good;real;safe;warm;kind
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,cactus,green;spiky;small;hard;real;neat;dry;good;old;fine
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,eggplant,purple;good;soft;raw;fresh;neat;small;deep;clear;real
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,flower,beautiful;bright;small;fresh;good;neat;soft;real;pure;sweet
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,grass,green;soft;fresh;neat;small;good;real;wild;pure;clear
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,lettuce,green;fresh;good;neat;soft;small;raw;real;clear;pure
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,mushroom,small;brown;good;fresh;real;neat;soft;old;clear;fine
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,onion,small;brown;white;good;raw;neat;strong;sharp;real;deep
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,pepper,red;hot;good;small;fresh;neat;raw;clear;real;bold
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,potato,brown;good;soft;real;neat;fresh;small;old;clear;warm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,rose,red;beautiful;sweet;fresh;good;neat;soft;real;bright;pure
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,tomato,red;fresh;good;small;soft;neat;real;clear;bright;ripe
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Plants,tree,big;tall;old;green;strong;real;clear;neat;deep;wide
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,ally,good;true;kind;brave;firm;clear;strong;neat;real;safe
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,brother,good;kind;true;strong;real;neat;brave;nice;close;warm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,enemy,bad;strong;dark;real;cruel;harsh;mean;wild;hard;cold
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,father,old;kind;strong;good;wise;real;neat;brave;true;warm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,follower,loyal;good;true;kind;real;neat;brave;close;smart;clear
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,friend,good;kind;true;close;real;neat;warm;nice;brave;smart
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,leader,strong;good;brave;wise;true;neat;smart;clear;kind;real
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,mother,kind;old;good;strong;warm;real;neat;close;true;wise
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,partner,good;kind;true;close;neat;real;strong;smart;bold;warm
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,rival,strong;bad;real;bold;clear;fierce;mean;fast;hard;true
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,sister,good;kind;true;close;real;neat;warm;sweet;brave;smart
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,stranger,new;unknown;real;clear;good;kind;neat;quiet;cold;fast
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,above,high;clear;far;good;strong;true;neat;deep;bright;open
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,back,strong;high;clear;old;real;neat;deep;tight;good;hard
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,below,low;deep;clear;old;real;neat;dark;good;soft;quiet
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,east,warm;bright;clear;true;good;neat;rich;old;open;high
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,front,clear;bright;strong;good;neat;open;bold;real;high;true
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,inside,deep;clear;warm;quiet;neat;good;open;real;small;bright
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,left,small;real;clear;good;near;neat;bold;true;deep;kind
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,north,cold;clear;deep;strong;good;real;neat;high;bright;true
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,outside,open;clear;bright;real;good;neat;high;wide;warm;fresh
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,right,true;clear;good;neat;strong;real;fair;kind;bold;bright
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,south,warm;clear;bright;good;neat;deep;real;high;open;soft
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,west,old;warm;clear;deep;good;real;neat;bright;strong;open
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,century,long;old;great;strong;clear;real;neat;deep;good;big
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,day,bright;long;good;clear;real;warm;neat;fast;pure;happy
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,evening,cool;calm;clear;good;deep;real;neat;soft;warm;dark
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,hour,short;long;clear;good;fast;neat;real;deep;bright;pure
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,minute,short;quick;clear;good;neat;real;deep;fine;bright;fast
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,month,long;short;good;clear;real;neat;deep;bright;pure;old
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,morning,bright;clear;good;warm;fresh;neat;early;real;soft;happy
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,night,dark;cool;deep;clear;calm;quiet;good;neat;real;soft
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,season,long;short;good;clear;deep;neat;real;bright;warm;cold
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,second,short;quick;clear;good;neat;real;fast;pure;deep;small
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,week,long;short;good;clear;real;neat;deep;bright;warm;old
+o3-mini,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,year,long;full;good;clear;deep;real;neat;bright;old;new
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,anger,hot;deep;strong;sudden;fierce;intense;burning;raw;explosive;uncontrolled
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,courage,brave;bold;strong;true;firm;noble;resolute;determined;confident;fearless
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,fear,great;deep;intense;sudden;overwhelming;scary;cold;vivid;lingering;chilling
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,freedom,true;real;clear;pure;strong;open;endless;complete;precious;absolute
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,happiness,true;great;pure;deep;simple;clear;bright;warm;lasting;constant
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,hate,strong;deep;burning;bitter;harsh;cold;intense;raw;fierce;wild
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,honesty,true;pure;clear;real;open;sincere;firm;simple;good;straightforward
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,justice,true;fair;clear;strong;equal;proper;balanced;noble;rigorous;strict
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,knowledge,good;deep;strong;true;clear;wide;vast;solid;practical;useful
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,love,true;deep;strong;pure;real;warm;kind;simple;bright;gentle
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,peace,calm;true;deep;clear;quiet;lasting;strong;pure;simple;real
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,wisdom,deep;true;clear;strong;pure;simple;real;wise;lasting;fair
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,bell,small;old;clear;loud;bright;heavy;round;simple;sharp;pure
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,candle,small;bright;soft;warm;thin;old;simple;clear;short;flickering
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,carpet,soft;warm;thick;bright;new;old;clean;neat;plain;smooth
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,coin,small;old;round;metal;shiny;clear;simple;bright;pure;hard
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,crown,golden;royal;old;bright;shining;heavy;pure;strong;rich;true
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,flag,bright;bold;true;clear;strong;proud;old;simple;waving;noble
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,mask,old;white;dark;plain;clear;neat;soft;true;strong;strange
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,necklace,beautiful;bright;golden;silver;pretty;small;simple;neat;clear;valuable
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,painting,beautiful;old;bright;clear;simple;deep;real;bold;rich;fine
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,ring,small;round;bright;golden;silver;simple;clear;neat;old;precious
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,statue,old;strong;real;bright;clear;noble;pure;solid;tall;beautiful
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,vase,small;clear;bright;old;neat;pure;simple;fine;round;delicate
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,cloud,white;soft;light;big;dark;high;thin;round;floating;gentle
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,earthquake,strong;big;deep;sudden;loud;real;true;heavy;intense;fierce
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,fog,thick;deep;white;soft;light;dark;cold;still;clear;heavy
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,lightning,bright;quick;strong;clear;sudden;sharp;pure;real;fast;visible
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,rain,wet;cold;soft;heavy;light;clear;deep;true;small;strong
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,rainbow,bright;clear;colorful;true;pure;soft;deep;bold;simple;rare
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,snow,white;soft;cold;deep;pure;light;fresh;clear;thick;silent
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,storm,strong;dark;heavy;wild;deep;loud;fast;true;rough;fierce
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,thunder,loud;deep;strong;fast;clear;rough;heavy;sudden;booming;wild
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,tide,high;low;strong;wild;deep;clear;warm;cool;constant;rhythmic
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,volcano,hot;strong;deep;old;dark;violent;active;true;loud;dangerous
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;clear;soft;high;deep;fast;wild;quiet
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,apple,red;green;sweet;fresh;juicy;small;round;crisp;ripe;tasty
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;fresh;long;curved;bright;tasty;firm
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,beef,red;fresh;raw;cooked;strong;good;fatty;lean;thick;tender
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,bread,fresh;soft;warm;round;plain;tasty;hard;crisp;old;simple
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,broccoli,green;fresh;raw;tender;firm;healthy;good;bright;small;tasty
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;sharp;good;pure;tasty
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,chicken,fresh;raw;cooked;tender;good;tasty;juicy;firm;light;warm
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,egg,small;raw;fresh;hard;soft;white;brown;oval;pure;fragile
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,fish,fresh;raw;cooked;small;big;wild;true;tasty;firm;light
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,pasta,cooked;raw;fresh;soft;firm;white;long;small;tasty;warm
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,rice,white;brown;fresh;small;neat;plain;good;tasty;cooked;raw
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,soup,hot;warm;fresh;deep;good;clear;simple;tasty;rich;soft
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,artist,talented;creative;true;kind;good;bold;neat;strong;deep;smart
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,athlete,strong;fast;good;brave;bold;fit;tall;true;keen;active
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,chef,good;skilled;smart;neat;brave;creative;strong;kind;fresh;busy
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,doctor,wise;kind;good;smart;true;calm;strong;brave;neat;helpful
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,engineer,smart;good;strong;neat;clear;true;bold;skilled;deep;practical
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,farmer,hardworking;strong;good;smart;kind;brave;true;neat;simple;busy
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,lawyer,smart;good;strong;true;clear;brave;fair;kind;neat;real
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,musician,talented;creative;good;bold;true;soft;neat;kind;deep;lively
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,scientist,smart;good;deep;true;clear;kind;careful;brave;neat;strong
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,soldier,brave;strong;good;bold;true;ready;smart;neat;tough;proud
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,teacher,kind;good;smart;true;neat;clear;strong;patient;bold;gentle
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,writer,creative;good;smart;kind;true;neat;deep;bold;clear;real
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,book,old;new;good;thick;clear;plain;deep;interesting;neat;long
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,bridge,old;strong;wide;long;clear;good;tall;neat;safe;true
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,drums,loud;strong;deep;bold;clear;fast;good;heavy;real;bright
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,earth,big;round;deep;old;real;strong;good;clear;warm;blue
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,flute,small;clear;soft;bright;neat;sweet;good;old;pure;gentle
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,key,small;old;good;clear;simple;bright;true;neat;solid;strong
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,knife,sharp;strong;good;old;clear;dark;neat;firm;true;heavy
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,lock,old;strong;heavy;clear;small;good;true;neat;dark;safe
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,moon,bright;full;clear;round;old;soft;deep;true;calm;silent
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,pen,small;good;clear;neat;sharp;dark;bright;true;smooth;quick
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,sun,bright;strong;hot;full;clear;big;good;real;pure;high
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,sword,sharp;strong;bright;old;true;clear;good;heavy;long;mighty
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,cat,small;cute;soft;quick;neat;kind;brave;clear;gentle;playful
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,dog,kind;loyal;good;brave;quick;soft;neat;strong;playful;true
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,dolphin,smart;kind;quick;good;playful;strong;deep;clear;neat;lively
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,elephant,big;strong;kind;good;old;clear;deep;heavy;smart;gentle
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,hamster,small;cute;quick;soft;neat;kind;good;tiny;playful;mild
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,monkey,funny;quick;smart;playful;kind;good;brave;neat;lively;true
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,mouse,small;quiet;quick;soft;timid;kind;neat;good;light;shy
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,peacock,colorful;bright;beautiful;proud;bold;strong;neat;grand;royal;unique
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,rabbit,small;soft;cute;quick;kind;neat;good;playful;gentle;fresh
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,shark,big;strong;fierce;deep;fast;wild;sharp;true;dark;dangerous
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,snake,long;slim;dark;quick;silent;deep;bold;good;small;cold
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,whale,big;deep;strong;old;calm;slow;true;kind;clear;blue
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,city,big;busy;old;new;strong;clear;grand;neat;loud;true
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,desert,hot;dry;big;empty;deep;old;clear;pure;harsh;vast
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,forest,big;deep;old;green;quiet;dark;wild;strong;fresh;calm
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,island,small;big;lonely;green;clear;real;pure;old;quiet;sunny
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,lake,big;deep;clear;calm;old;still;pure;blue;quiet;fresh
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,mountain,big;high;steep;old;strong;deep;tall;rocky;clear;massive
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,ocean,big;deep;blue;wild;strong;clear;vast;old;true;endless
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,plain,flat;large;green;clear;old;vast;open;neat;soft;simple
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,plateau,high;flat;large;clear;old;strong;deep;vast;open;quiet
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,river,long;deep;clear;strong;fast;winding;pure;wide;old;cool
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,valley,deep;green;quiet;wide;old;calm;clear;pure;large;soft
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Places,village,small;quiet;old;neat;calm;pure;kind;true;good;simple
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,cactus,green;sharp;small;dry;old;strong;neat;plain;thick;spiny
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,eggplant,purple;fresh;big;soft;neat;good;raw;deep;plain;tasty
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,flower,beautiful;bright;fresh;small;pure;soft;real;deep;kind;neat
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,grass,green;fresh;soft;small;neat;pure;deep;good;light;short
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,lettuce,green;fresh;crisp;soft;neat;good;pure;light;raw;simple
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,mushroom,small;brown;fresh;soft;deep;good;raw;firm;old;wild
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,onion,strong;sharp;fresh;small;white;raw;deep;good;pure;firm
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,pepper,red;green;hot;fresh;small;good;pure;sharp;bright;raw
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,potato,brown;white;fresh;soft;round;good;pure;deep;firm;old
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,rose,red;bright;sweet;soft;pure;deep;fresh;neat;true;lovely
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,tomato,red;fresh;ripe;soft;good;round;deep;pure;bright;sweet
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Plants,tree,big;tall;old;green;strong;deep;clear;wide;pure;firm
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,ally,true;good;strong;kind;brave;neat;loyal;clear;firm;friendly
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,brother,good;kind;true;close;brave;neat;strong;loyal;deep;warm
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,enemy,bad;strong;fierce;cruel;deep;dark;harsh;true;wild;bitter
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,father,old;kind;strong;good;true;brave;neat;deep;solid;wise
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,follower,true;good;kind;strong;close;neat;brave;loyal;simple;small
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,friend,good;kind;true;brave;neat;loyal;close;warm;strong;real
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,leader,strong;brave;true;good;kind;clear;wise;neat;bold;firm
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,mother,old;kind;good;true;warm;strong;neat;close;brave;real
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,partner,good;kind;true;strong;close;clear;neat;deep;loyal;brave
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,rival,strong;good;bold;fierce;deep;quick;brave;keen;smart;clear
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,sister,good;kind;true;close;neat;brave;warm;strong;sweet;deep
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,stranger,unknown;new;strange;clear;deep;good;bold;plain;cool;quiet
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,above,high;clear;true;bright;old;strong;neat;wide;pure;open
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,back,strong;good;clear;deep;old;neat;pure;wide;firm;bold
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,below,low;deep;clear;good;bare;small;neat;pure;true;calm
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,east,warm;bright;clear;good;old;strong;neat;pure;true;rising
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,front,clear;strong;true;bold;neat;good;bright;pure;open;firm
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,inside,deep;quiet;hidden;clear;good;pure;neat;soft;warm;small
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,left,small;true;neat;good;pure;deep;kind;fair;quiet;open
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,north,cold;true;clear;old;strong;deep;good;pure;hard;brave
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,outside,big;open;clear;strong;true;good;bright;pure;neat;free
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,right,true;good;clear;strong;neat;pure;deep;fair;kind;smart
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,south,warm;true;good;clear;strong;deep;bright;neat;pure;kind
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,west,wild;deep;old;clear;true;good;neat;brave;strong;bold
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,century,long;old;great;true;deep;strong;vast;clear;known;classic
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,day,bright;long;clear;good;warm;true;fresh;lively;rich;sunny
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,evening,calm;cool;deep;dark;clear;soft;quiet;good;old;true
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,hour,short;long;clear;good;quick;true;neat;steady;pure;deep
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,minute,short;long;clear;good;quick;true;neat;pure;deep;small
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,month,long;short;clear;good;fresh;true;neat;deep;warm;bright
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,morning,bright;early;fresh;clear;good;warm;true;calm;neat;lively
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,night,dark;deep;quiet;clear;cold;calm;good;true;soft;long
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,season,cold;warm;clear;good;true;deep;bright;fresh;long;short
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,second,short;quick;clear;true;neat;good;small;deep;fast;brief
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,week,long;short;good;clear;true;neat;fresh;deep;bright;busy
+o3-mini,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,year,long;old;good;clear;true;deep;fresh;bright;new;warm
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,anger,intense;boiling;seething;deep;raging;hidden;explosive;bitter;smoldering;fierce
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,courage,brave;bold;inspiring;remarkable;daring;unyielding;steadfast;resilient;noble;valiant
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,fear,paralyzing;overwhelming;deep;chilling;irrational;frightening;sudden;palpable;unknown;haunting
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,freedom,absolute;pure;vital;cherished;enviable;open;boundless;sacred;inherent;genuine
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,happiness,pure;bright;joyful;warm;lasting;shared;simple;infectious;golden;sincere
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,hate,deep;bitter;cold;seething;destructive;intense;extreme;poisonous;burning;relentless
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,honesty,genuine;sincere;frank;open;pure;clear;steadfast;ethical;truthful;reliable
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,justice,fair;equal;balanced;true;objective;impartial;rightful;sound;firm;ideal
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,knowledge,vast;deep;broad;comprehensive;acquired;valuable;practical;timeless;clear;growing
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,love,deep;passionate;tender;true;unconditional;warm;gentle;pure;lasting;abiding
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,peace,calm;quiet;serene;lasting;gentle;true;deep;tranquil;genuine;harmonious
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,wisdom,ancient;deep;profound;timeless;practical;true;lasting;quiet;reflective;essential
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,bell,heavy;old;clear;loud;resonant;simple;metallic;sonorous;antique;sturdy
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,candle,small;bright;soft;flickering;scented;pure;delicate;warm;melting;ancient
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;woven;patterned;luxurious;faded;clean;durable;antique
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,coin,small;round;shiny;ancient;metallic;rare;valuable;embossed;smooth;collectible
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,crown,royal;ornate;golden;shining;jeweled;ancient;noble;regal;heavy;symbolic
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,flag,vibrant;bold;flying;national;striped;visible;proud;waving;colorful;symbolic
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,mask,hidden;mysterious;ornate;scary;crafted;painted;strange;symbolic;decorated;cultural
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,necklace,elegant;delicate;beaded;golden;silver;charming;refined;stylish;radiant;sentimental
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,painting,vivid;colorful;detailed;creative;classic;modern;inspiring;expressive;original;beautiful
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,ring,circular;precious;shining;elegant;small;golden;jeweled;unique;symbolic;polished
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,statue,tall;ancient;carved;detailed;solid;majestic;elegant;lifelike;historic;monumental
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,vase,fragile;beautiful;painted;ceramic;elegant;ancient;smooth;rounded;classic;delicate
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,cloud,fluffy;white;soft;drifting;light;grey;scattered;billowy;transient;airy
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,earthquake,powerful;sudden;massive;unpredictable;deep;destructive;fierce;tremulous;shocking;intense
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,fog,thick;eerie;dense;low;misty;silent;heavy;damp;obscure;lingering
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;electric;powerful;quick;dazzling;fierce;striking;vivid;blazing
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,rain,heavy;soft;steady;cold;gentle;frequent;pouring;fresh;cool;drenching
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,rainbow,bright;colorful;vivid;arched;rare;beautiful;clear;soft;luminous;magical
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,snow,white;soft;cold;powdery;silent;sparkling;gentle;pure;fresh;icy
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,storm,raging;violent;dark;heavy;tumultuous;sudden;fierce;wild;ominous;powerful
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rolling;sudden;resonant;rumbling;heavy;powerful;startling
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,tide,rising;falling;strong;rhythmic;constant;mighty;natural;deep;shifting;calm
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,volcano,active;fiery;dangerous;ancient;eruptive;towering;rugged;molten;explosive;ominous
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,wind,strong;cold;gentle;fierce;brisk;wild;fresh;soft;howling;steady
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,apple,red;fresh;juicy;crisp;sweet;ripe;green;tart;firm;delicious
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;fresh;curved;tropical;appealing;smooth;fragrant
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,beef,raw;red;tender;juicy;fresh;hearty;lean;savory;flavorful;marbled
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,bread,fresh;soft;warm;crusty;baked;old-fashioned;hearty;delicious;simple;fragrant
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,broccoli,green;fresh;crisp;healthy;raw;tender;vibrant;small;nutritious;edible
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,cheese,creamy;aged;soft;tasty;sharp;fresh;mild;rich;smooth;tangy
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,chicken,tender;juicy;cooked;fresh;golden;healthy;lean;seasoned;flavorful;roasted
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,egg,fresh;whole;raw;beaten;small;oval;cooked;firm;simple;nutritious
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,fish,fresh;small;slippery;tasty;raw;clean;flaky;lean;oceanic;delicate
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,pasta,cooked;soft;warm;tender;Italian;thin;firm;saucy;delicious;versatile
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,rice,white;steamed;hot;fluffy;soft;tiny;plain;simple;nutritious;aromatic
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,soup,hot;warm;thick;savory;hearty;fresh;clear;tasty;simple;spiced
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,artist,creative;passionate;talented;thoughtful;innovative;skilled;unique;dynamic;inspiring;expressive
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,athlete,strong;fast;agile;determined;competitive;active;skilled;fit;focused;resilient
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,chef,creative;skilled;professional;talented;precise;innovative;experienced;dedicated;resourceful;passionate
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,doctor,caring;skilled;knowledgeable;experienced;compassionate;diligent;professional;reliable;friendly;attentive
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,engineer,smart;innovative;practical;skilled;methodical;creative;resourceful;analytical;technical;experienced
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,farmer,hardworking;dedicated;rural;honest;skillful;resilient;caring;traditional;patient;experienced
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,lawyer,sharp;logical;articulate;knowledgeable;persuasive;experienced;ethical;professional;analytical;diligent
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,musician,talented;creative;passionate;rhythmic;expressive;skilled;innovative;melodic;soulful;inspiring
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,scientist,smart;curious;innovative;methodical;careful;skilled;analytical;diligent;practical;dedicated
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,soldier,brave;disciplined;strong;loyal;dedicated;resilient;skilled;determined;courageous;honorable
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,teacher,caring;knowledgeable;patient;creative;inspiring;dedicated;friendly;experienced;clear;supportive
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,writer,creative;thoughtful;imaginative;skilled;eloquent;expressive;original;focused;reflective;unique
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,book,old;thick;interesting;classic;colorful;informative;timeless;bound;printed;engaging
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,bridge,strong;long;historic;sturdy;modern;elegant;arched;wide;safe;impressive
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;percussive;deep;resonant;boisterous;synced;dynamic;vibrant;energetic
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,earth,vast;green;ancient;fertile;diverse;blue;round;shared;rich;natural
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,flute,wooden;slender;melodic;graceful;simple;clear;bright;soft;delicate;airy
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,key,small;metal;old;shiny;heavy;functional;ornate;unique;precise;simple
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,knife,sharp;shiny;small;sturdy;practical;elegant;precise;reliable;versatile;pointed
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,lock,secure;old;metal;strong;small;complex;durable;reliable;sturdy;intricate
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,moon,bright;pale;full;silent;distant;ancient;round;glowing;serene;mysterious
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,pen,small;blue;smooth;quick;reliable;elegant;long;clear;simple;flowing
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,sun,bright;warm;golden;fierce;radiant;powerful;ancient;glowing;vibrant;shining
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,sword,sharp;ancient;shiny;deadly;long;strong;gleaming;sturdy;crafted;decorated
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,cat,soft;playful;agile;curious;graceful;smart;sleek;gentle;quiet;independent
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,dog,loyal;friendly;active;playful;brave;loving;smart;alert;gentle;reliable
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,dolphin,smart;playful;agile;friendly;graceful;sleek;gentle;quick;curious;lively
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,elephant,large;gentle;massive;strong;wise;old;gray;sturdy;impressive;calm
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,hamster,small;cute;furry;active;playful;tiny;gentle;soft;rapid;charming
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,monkey,agile;playful;clever;quick;curious;lively;smart;funny;fuzzy;active
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,mouse,small;shy;quick;timid;soft;gentle;furry;tiny;curious;quiet
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,peacock,colorful;bright;elegant;graceful;regal;vibrant;shiny;stunning;proud;exotic
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,rabbit,soft;quick;small;gentle;fuzzy;lively;timid;cute;nimble;delicate
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,shark,fierce;large;dangerous;swift;powerful;sleek;silent;ruthless;agile;relentless
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,snake,long;slippery;dangerous;silent;swift;scaled;sly;venomous;cunning;agile
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,whale,huge;giant;gentle;massive;deep;ancient;slow;graceful;calm;powerful
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,city,big;busy;modern;crowded;vibrant;historic;lively;vast;diverse;dynamic
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,desert,dry;hot;vast;barren;sandy;empty;arid;lonely;harsh;endless
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,forest,green;dense;wild;quiet;ancient;lush;deep;mysterious;shady;vibrant
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,island,small;tropical;remote;peaceful;green;sunny;sandy;quiet;charming;isolated
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,lake,calm;deep;clear;vast;serene;fresh;still;blue;quiet;reflective
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,mountain,tall;steep;rocky;high;massive;rugged;majestic;ancient;snowy;grand
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,ocean,deep;vast;blue;wild;salty;endless;powerful;mysterious;roaring;beautiful
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,plain,flat;wide;open;green;vast;simple;quiet;barren;arid;natural
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,plateau,high;flat;elevated;vast;dry;rugged;open;quiet;expansive;stable
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,river,flowing;long;winding;deep;clear;swift;calm;fresh;curved;continuous
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,valley,deep;green;wide;secluded;quiet;fertile;low;peaceful;hidden;scenic
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Places,village,small;quaint;quiet;old;rural;friendly;charming;peaceful;traditional;simple
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,cactus,spiky;green;prickly;dry;sturdy;barren;rugged;small;wild;sunny
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,eggplant,purple;shiny;firm;smooth;glossy;fresh;tasty;ripe;soft;vibrant
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,flower,colorful;fresh;fragrant;delicate;pretty;vibrant;small;natural;beautiful;blooming
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,grass,green;soft;lush;fresh;tiny;wild;short;broad;natural;growing
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,lettuce,fresh;green;crisp;leafy;soft;delicate;healthy;tender;pale;crunchy
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,mushroom,small;brown;fresh;soft;wild;earthy;delicate;firm;edible;tasty
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,onion,pungent;fresh;strong;raw;layered;brown;white;firm;spicy;flavorful
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,pepper,red;spicy;fresh;hot;vibrant;ripe;strong;tangy;sharp;zesty
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,potato,starchy;brown;fresh;firm;hearty;rustic;simple;warm;soft;earthy
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,rose,red;fragrant;delicate;soft;beautiful;blooming;fresh;vibrant;elegant;romantic
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,tomato,ripe;red;juicy;fresh;soft;round;sweet;tender;vibrant;lush
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Plants,tree,tall;green;old;strong;leafy;broad;sturdy;ancient;natural;majestic
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,ally,loyal;supportive;true;reliable;friendly;honest;trusted;strong;committed;steadfast
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,brother,close;loving;supportive;caring;dear;reliable;kind;strong;friendly;constant
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,enemy,fierce;hostile;dangerous;bitter;relentless;cruel;unyielding;strong;cunning;venomous
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,father,caring;strong;wise;supportive;loving;protective;kind;patient;reliable;gentle
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,follower,loyal;eager;supportive;attentive;dedicated;true;humble;steady;respectful;constant
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,friend,kind;loyal;caring;honest;supportive;fun;true;warm;constant;reliable
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,leader,strong;wise;brave;inspiring;decisive;visionary;trusted;fair;confident;respected
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,mother,caring;loving;warm;gentle;kind;strong;wise;supportive;patient;nurturing
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,partner,loyal;supportive;true;caring;honest;friendly;loving;steady;kind;committed
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,rival,fierce;strong;challenging;determined;competitive;bold;cunning;relentless;aggressive;formidable
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,sister,kind;loving;supportive;caring;friendly;warm;close;honest;gentle;reliable
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,stranger,unknown;distant;unfamiliar;mysterious;quiet;reserved;cautious;random;vague;remote
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,above,high;superior;elevated;upper;distant;lofty;clear;prominent;visible;skyward
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,back,supportive;strong;sturdy;broad;muscular;firm;hidden;steady;reliable;flexible
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,below,lower;deep;hidden;secret;distant;remote;subtle;unnoticed;quiet;minor
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,east,rising;bright;golden;sunny;warm;welcoming;early;clear;vibrant;promising
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,front,clear;open;visible;bright;lively;direct;bold;prominent;neat;organized
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,inside,hidden;quiet;warm;secret;calm;deep;private;cozy;secure;intimate
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,left,remaining;extra;forgotten;idle;residual;spare;overlooked;separate;unclaimed;abandoned
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,north,cold;frosty;high;windy;distant;clear;icy;strong;vast;rugged
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,outside,open;fresh;clear;wild;bright;spacious;natural;free;airy;vibrant
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,right,correct;true;proper;fair;justified;legitimate;accurate;valid;certain;acceptable
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,south,warm;sunny;mild;clear;bright;open;friendly;vast;inviting;gentle
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,west,western;golden;dusty;vast;wild;rugged;ancient;open;calm;quiet
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,century,long;historic;significant;notable;vast;remarkable;enduring;ancient;distant;momentous
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,day,bright;long;warm;short;sunny;busy;lively;clear;fresh;vibrant
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,evening,calm;cool;dim;quiet;lovely;peaceful;gentle;soft;relaxing;fading
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,hour,short;long;busy;quick;fleeting;steady;clear;calm;measured;tedious
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,minute,tiny;brief;small;quick;measured;transient;subtle;distinct;concise;rapid
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,month,long;short;busy;full;clear;quiet;cyclic;memorable;special;finite
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,morning,bright;early;fresh;calm;peaceful;crisp;radiant;lively;gentle;hopeful
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,night,dark;quiet;calm;deep;cool;silent;starry;peaceful;long;mysterious
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,season,mild;varied;rich;changing;beautiful;cool;hot;distinct;balanced;pleasant
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,second,brief;short;tiny;fleeting;quick;rapid;fast;passing;minimal;instant
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,week,busy;long;short;eventful;productive;balanced;steady;regular;fruitful;active
+o3-mini,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,year,long;short;eventful;memorable;busy;happy;challenging;fruitful;cyclic;remarkable
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,anger,intense;fiery;seething;explosive;burning;raw;palpable;overwhelming;fierce;uncontrollable
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,courage,brave;steadfast;heroic;resolute;valiant;bold;determined;fearless;noble;gallant
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,fear,paralyzing;overwhelming;chilling;acute;deep;haunting;intense;irrational;gripping;persistent
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,freedom,liberating;boundless;unrestricted;independent;open;unbridled;sovereign;spontaneous;essential;priceless
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,happiness,joyful;radiant;euphoric;blissful;cheerful;content;exuberant;uplifting;pleasant;serene
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,hate,bitter;deep;venomous;intense;seething;extreme;hostile;corrosive;destructive;relentless
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,honesty,truthful;sincere;candid;genuine;frank;transparent;reliable;upright;honorable;principled
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,justice,fair;impartial;equitable;righteous;steadfast;unbiased;strict;diligent;enduring;relentless
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,knowledge,profound;vast;insightful;comprehensive;extensive;deep;critical;intellectual;valuable;timeless
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,love,unconditional;deep;passionate;endless;tender;genuine;warm;enduring;affectionate;sincere
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,peace,serene;calm;harmonious;tranquil;soothing;gentle;restful;stable;pure;lasting
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,wisdom,profound;timeless;deep;sagacious;discerning;enlightened;insightful;practical;measured;balanced
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,bell,resonant;metallic;clear;sonorous;delicate;ancient;ornate;vibrant;lingering;rhythmic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,candle,flickering;gentle;glowing;soft;warm;aromatic;delicate;diminutive;modest;ethereal
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,carpet,plush;patterned;woven;colorful;soft;opulent;durable;textured;elegant;inviting
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,coin,metallic;ancient;small;valuable;commemorative;shiny;rare;embossed;circular;collectible
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,crown,regal;ornate;majestic;jeweled;imperial;golden;symbolic;splendid;intricate;distinguished
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,flag,vibrant;symbolic;flowing;bold;proud;bright;patterned;striking;national;colorful
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,mask,mysterious;ornate;theatrical;protective;eerie;decorative;symbolic;crafted;enigmatic;startling
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,necklace,elegant;delicate;sparkling;ornate;stylish;charming;refined;timeless;graceful;intricate
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,painting,vivid;expressive;colorful;detailed;imaginative;beautiful;captivating;artistic;dynamic;timeless
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,ring,circular;elegant;sparkling;slender;precious;ornate;timeless;delicate;symbolic;refined
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,statue,majestic;carved;timeless;imposing;detailed;classical;monumental;elegant;historic;revered
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,vase,fragile;decorative;elegant;handcrafted;ornate;delicate;timeless;glossy;vibrant;intricate
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,cloud,fluffy;drifting;soft;billowy;ethereal;immense;white;ever-changing;translucent;whimsical
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,earthquake,seismic;violent;sudden;destructive;massive;turbulent;unexpected;intense;ground-shaking;catastrophic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,fog,dense;eerie;thick;lingering;moist;mystic;obscure;ghostly;heavy;enveloping
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,lightning,dazzling;bright;sudden;electrifying;brilliant;fierce;rapid;intense;striking;luminous
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,rain,gentle;steady;refreshing;soft;cleansing;rhythmic;persistent;cool;soothing;constant
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,rainbow,colorful;radiant;vibrant;arching;rare;luminous;enchanting;ethereal;brilliant;splendid
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,snow,pristine;soft;cold;powdery;fluffy;silent;pure;glistening;gentle;crystalline
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,storm,turbulent;raging;fierce;violent;relentless;dramatic;tempestuous;mighty;dark;chaotic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,thunder,booming;resonant;deep;rolling;mighty;powerful;rumbling;echoing;dramatic;overwhelming
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,tide,rhythmic;rising;receding;steady;powerful;natural;constant;ebbing;surging;relentless
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,volcano,active;fiery;explosive;towering;molten;dangerous;rumbling;ancient;rugged;destructive
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,wind,brisk;gentle;strong;wild;relentless;cold;soothing;whispering;turbulent;refreshing
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,apple,crisp;juicy;red;fresh;ripe;sweet;tangy;aromatic;delicious;colorful
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,banana,ripe;sweet;soft;yellow;fresh;tropical;flavorful;fragrant;nutritious;appealing
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,beef,tender;juicy;savory;rich;hearty;flavorful;lean;succulent;spicy;well-cooked
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,bread,fresh;soft;crusty;warm;fluffy;wholesome;hearty;fragrant;golden;artisanal
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,broccoli,fresh;green;crunchy;vibrant;nutritious;crisp;healthy;tender;flavorful;organic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,cheese,creamy;sharp;aged;tangy;rich;smooth;flavorful;soft;savory;delightful
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,chicken,tender;juicy;savory;succulent;flavorful;lean;grilled;roasted;aromatic;delicious
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,egg,fresh;delicate;nutritious;small;soft;boiled;versatile;golden;rich;satisfying
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,fish,fresh;flaky;tender;aromatic;succulent;mild;savory;vibrant;lean;delicate
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,pasta,al dente;flavorful;tender;hearty;savory;delightful;soft;smooth;warm;traditional
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,rice,fluffy;steamed;tender;aromatic;delicate;plain;nutritious;soft;white;versatile
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,soup,warm;savory;hearty;delicious;comforting;flavorful;rich;steamy;fragrant;nourishing
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,artist,creative;imaginative;skilled;innovative;expressive;talented;passionate;insightful;dedicated;versatile
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,athlete,strong;agile;competitive;fit;determined;energetic;resilient;focused;spirited;dedicated
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,chef,creative;skilled;talented;innovative;meticulous;resourceful;passionate;experienced;dynamic;precise
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,doctor,knowledgeable;caring;dedicated;experienced;compassionate;professional;skilled;diligent;reliable;empathetic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,engineer,analytical;innovative;practical;technical;resourceful;logical;precise;dedicated;skilled;inventive
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,farmer,hardworking;resilient;diligent;resourceful;dedicated;robust;nurturing;patient;experienced;grounded
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,lawyer,articulate;dedicated;knowledgeable;persuasive;analytical;honest;logical;professional;diplomatic;ethical
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,musician,creative;talented;passionate;expressive;rhythmic;soulful;innovative;skilled;inspiring;dynamic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,scientist,analytical;curious;innovative;methodical;precise;diligent;knowledgeable;experimental;rigorous;pioneering
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,soldier,brave;disciplined;courageous;resilient;steadfast;determined;honorable;vigilant;strong;loyal
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,teacher,dedicated;patient;knowledgeable;inspiring;empathetic;encouraging;innovative;supportive;skilled;passionate
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,writer,creative;imaginative;articulate;descriptive;expressive;thoughtful;eloquent;prolific;insightful;original
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,book,informative;engaging;captivating;insightful;timeless;well-crafted;compelling;detailed;imaginative;classic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,bridge,sturdy;elegant;historic;expansive;architectural;reliable;impressive;graceful;engineered;timeless
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,drums,rhythmic;powerful;resonant;vibrant;dynamic;booming;energetic;lively;percussive;captivating
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,earth,fertile;vast;vibrant;blue;resilient;nurturing;diverse;ancient;bountiful;life-giving
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,flute,melodic;delicate;smooth;airy;enchanting;refined;graceful;clear;resonant;soulful
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,key,small;intricate;metallic;essential;unique;crafted;shaped;old;delicate;sturdy
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,knife,sharp;sleek;sturdy;precise;versatile;durable;elegant;balanced;reliable;efficient
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,lock,secure;sturdy;intricate;reliable;metallic;robust;classic;dependable;resistant;steadfast
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,moon,luminous;serene;radiant;enchanting;silvery;celestial;distant;mysterious;glowing;tranquil
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,pen,smooth;sleek;precise;inked;elegant;compact;efficient;reliable;practical;timeless
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,sun,radiant;blazing;brilliant;warm;luminous;golden;intense;vibrant;life-giving;fiery
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,sword,sharp;gleaming;ancient;legendary;polished;mighty;elegant;ornate;formidable;valiant
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,cat,agile;curious;graceful;playful;independent;stealthy;affectionate;clever;sleek;nimble
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,dog,loyal;friendly;playful;obedient;affectionate;energetic;reliable;devoted;spirited;gentle
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;graceful;agile;friendly;curious;swift;lively;joyful;social
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,elephant,massive;majestic;gentle;wise;enormous;sturdy;graceful;revered;ancient;mighty
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,hamster,small;playful;curious;furry;lively;agile;adorable;timid;energetic;charming
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,monkey,mischievous;agile;curious;playful;clever;lively;expressive;energetic;social;fun
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,mouse,tiny;timid;quick;agile;subtle;cautious;delicate;furry;quiet;gentle
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,peacock,vibrant;colorful;majestic;striking;elegant;dazzling;resplendent;ornate;flamboyant;graceful
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,rabbit,soft;agile;gentle;quick;timid;furry;charming;delicate;playful;endearing
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,shark,fierce;menacing;sleek;powerful;predatory;swift;relentless;formidable;agile;intimidating
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,snake,slithering;venomous;stealthy;slick;sinuous;mysterious;agile;silent;dangerous;cunning
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,whale,massive;gentle;majestic;enormous;graceful;ancient;mighty;peaceful;colossal;reflective
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,city,bustling;vibrant;sprawling;dynamic;modern;historic;crowded;lively;diverse;innovative
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,desert,arid;vast;barren;scorching;lonely;endless;harsh;sunlit;remote;rugged
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,forest,dense;lush;ancient;vibrant;green;wild;peaceful;mysterious;enchanting;thriving
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,island,isolated;tropical;serene;secluded;lush;scenic;pristine;vibrant;charming;remote
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,lake,tranquil;serene;clear;reflective;picturesque;calm;deep;pristine;vast;inviting
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,mountain,towering;majestic;rugged;formidable;snow-capped;steep;ancient;breathtaking;enduring;wild
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,ocean,vast;deep;turbulent;boundless;majestic;endless;mysterious;powerful;serene;immersive
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,plain,expansive;flat;open;grassy;serene;quiet;endless;fertile;simple;windswept
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,plateau,elevated;flat;vast;rugged;barren;expansive;ancient;arid;scenic;remote
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,river,flowing;winding;clear;swift;meandering;serene;vibrant;deep;refreshing;endless
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,valley,lush;secluded;fertile;scenic;peaceful;green;rolling;hidden;expansive;quiet
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Places,village,quaint;peaceful;small;charming;traditional;cozy;historic;rustic;friendly;simple
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,cactus,spiky;resilient;arid;green;prickly;hardy;rugged;succulent;weathered;enduring
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,eggplant,purple;glossy;smooth;fresh;vibrant;tender;juicy;versatile;rich;cultivated
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,flower,delicate;vibrant;fragrant;colorful;blooming;fresh;graceful;radiant;soft;alluring
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,grass,green;lush;soft;vibrant;gentle;abundant;fresh;natural;tender;thriving
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,lettuce,crisp;fresh;green;leafy;tender;crunchy;vibrant;nutritious;mild;wholesome
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,mushroom,earthy;delicate;flavorful;fresh;wild;tender;aromatic;unique;meaty;nutritious
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,onion,pungent;strong;crisp;layered;fresh;flavorful;raw;zesty;aromatic;vibrant
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,pepper,spicy;vibrant;hot;pungent;zesty;fresh;colorful;aromatic;bold;piquant
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,potato,starchy;earthy;hearty;tender;golden;fresh;versatile;robust;creamy;rustic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,rose,fragrant;delicate;vibrant;thorny;blooming;romantic;elegant;timeless;soft;captivating
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,tomato,ripe;juicy;red;fresh;tangy;vibrant;luscious;succulent;flavorful;aromatic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Plants,tree,towering;ancient;leafy;sturdy;majestic;robust;sprawling;green;life-giving;enduring
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,ally,supportive;trustworthy;loyal;dependable;steadfast;reliable;collaborative;empathetic;committed;resourceful
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,brother,caring;supportive;protective;loving;reliable;close;steadfast;kind;dedicated;genuine
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,enemy,hostile;formidable;dangerous;relentless;bitter;adversarial;ruthless;aggressive;cunning;menacing
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,father,caring;supportive;wise;strong;loving;dependable;nurturing;protective;guiding;honorable
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,follower,loyal;attentive;dedicated;reliable;supportive;respectful;earnest;consistent;modest;fervent
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,friend,amiable;caring;loyal;supportive;kind;generous;trusted;sincere;jovial;dependable
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,leader,visionary;decisive;inspiring;influential;charismatic;strategic;assertive;determined;competent;bold
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,mother,nurturing;caring;loving;supportive;gentle;devoted;kind;selfless;warm;patient
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,partner,reliable;supportive;committed;understanding;affectionate;loyal;cooperative;caring;dedicated;respectful
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,rival,competitive;formidable;challenging;determined;relentless;ambitious;strategic;fierce;persistent;tough
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,sister,caring;supportive;loving;kind;affectionate;reliable;close;genuine;nurturing;friendly
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,stranger,unknown;unfamiliar;distant;cautious;curious;mysterious;transient;remote;intriguing;unpredictable
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,above,overhead;upper;elevated;lofty;skyward;high;supreme;transcendent;celestial;majestic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,back,toned;strong;broad;muscular;flexible;structured;sturdy;supported;healthy;resilient
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,below,low;inferior;hidden;subordinate;underlying;deep;lower;secret;minimal;shadowed
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,east,oriental;rising;bright;ancient;warm;familiar;radiant;gentle;promising;sunlit
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,front,leading;prominent;visible;open;bold;forward;primary;advanced;direct;striking
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,inside,inner;enclosed;secret;private;sheltered;hidden;cozy;undivided;secure;central
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,left,remaining;residual;departing;abandoned;unclaimed;other;supplementary;surplus;neglected;extra
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,north,northern;chilly;polar;frosty;remote;crisp;brisk;wintry;rugged;icy
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,outside,external;open;exposed;outdoor;broad;vast;natural;unconfined;clear;airy
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,right,correct;proper;suitable;apt;justified;valid;accurate;decent;moral;orthodox
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,south,southern;warm;tropical;mild;inviting;lush;vibrant;breezy;radiant;gentle
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,west,western;rustic;adventurous;golden;pioneering;expansive;bold;free;rugged;historic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,century,long;historic;remarkable;significant;memorable;distant;evolving;influential;enduring;varied
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,day,bright;sunny;clear;busy;vibrant;lively;pleasant;warm;eventful;cheerful
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,evening,quiet;serene;cool;gentle;relaxing;peaceful;calm;mellow;lingering;dim
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,hour,brief;fleeting;short;precious;significant;measured;timely;exact;momentary;passing
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,minute,tiny;brief;fleeting;precise;short;meticulous;insignificant;small;exact;nominal
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,month,monthly;changing;varied;memorable;transitional;significant;fleeting;notable;diverse;rhythmic
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,morning,fresh;bright;early;radiant;lively;crisp;promising;gentle;invigorating;dewy
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,night,dark;quiet;starry;serene;mysterious;calm;peaceful;deep;tranquil;enchanting
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,season,changing;varied;vibrant;distinct;mild;refreshing;beautiful;transitional;predictable;memorable
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,second,brief;fleeting;rapid;tiny;critical;passing;swift;transient;minor;instantaneous
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,week,busy;productive;eventful;short;long;structured;varied;routine;challenging;balanced
+o3-mini,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,year,long;eventful;remarkable;historic;challenging;prosperous;memorable;transformative;dynamic;successive
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,anger,intense;burning;seething;deep;sudden;wild;explosive;fierce;uncontrollable;simmering
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,courage,brave;steadfast;undaunted;valiant;bold;fearless;gallant;heroic;resolute;noble
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,fear,deep;paralyzing;cold;overwhelming;hidden;sudden;unseen;intense;persistent;raw
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,freedom,precious;absolute;liberating;boundless;unrestricted;independent;sacred;true;pristine;unbridled
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,happiness,pure;radiant;abundant;joyful;profound;content;vibrant;genuine;unbridled;blissful
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,hate,bitter;intense;venomous;deep;unrelenting;deadly;fierce;cold;poisonous;smoldering
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,honesty,genuine;unwavering;truthful;transparent;sincere;steadfast;pure;noble;candid;reliable
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,justice,fair;impartial;righteous;steadfast;balanced;unbiased;just;equitable;moral;true
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,knowledge,vast;profound;extensive;deep;valuable;practical;essential;rich;comprehensive;timeless
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,love,passionate;unconditional;enduring;gentle;profound;warm;true;sweet;radiant;pure
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,peace,serene;calm;quiet;tranquil;absolute;deep;lasting;blessed;gentle;restful
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,wisdom,ancient;profound;timeless;enlightened;deep;sagacious;prudent;astute;wise;insightful
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,bell,golden;loud;resonant;ancient;silent;ornate;brassy;small;hollow;tinkling
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,candle,flickering;small;melting;scented;bright;warm;tapered;soft;glowing;rustic
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,carpet,plush;colorful;woven;soft;ornate;luxurious;patterned;thick;tangled;vibrant
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,coin,shiny;old;small;ancient;rare;silver;bronze;golden;round;collectible
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,crown,regal;golden;ornate;jeweled;majestic;ancient;glittering;proud;noble;stately
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,flag,bright;striped;bold;proud;vibrant;elegant;national;colorful;waving;historic
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,mask,mysterious;ancient;intricate;dark;colorful;haunting;sturdy;ornate;veiled;enigmatic
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,necklace,sparkling;delicate;elegant;ornate;beautiful;fine;vintage;shimmering;classic;striking
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,painting,vivid;colorful;classic;expressive;detailed;bold;beautiful;timeless;mysterious;intricate
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,ring,shiny;golden;elegant;precious;ornate;timeless;simple;delicate;intricate;polished
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,statue,majestic;ancient;mighty;stone;graceful;detailed;classic;elegant;monumental;timeless
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,vase,delicate;classic;ornate;ceramic;beautiful;antique;elegant;fragile;vibrant;stylish
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;white;wispy;dark;grey;light;scattered;billowing;ethereal;floating
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,earthquake,massive;violent;powerful;sudden;devastating;rare;unexpected;intense;trembling;groundshaking
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,fog,dense;thick;mysterious;light;misty;murky;ethereal;cold;ominous;shadowy
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;electric;rapid;flashy;powerful;fiery;dazzling;stunning;mighty
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,rain,steady;gentle;persistent;heavy;soft;cool;refreshing;sudden;driving;mellow
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;vibrant;bright;arched;radiant;magical;luminous;glorious;spectral;shimmering
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,snow,cold;fresh;white;light;powdery;soft;silent;sparkling;gentle;fluffy
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,storm,violent;wild;fierce;sudden;roaring;intense;severe;dark;tempestuous;powerful
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,thunder,loud;deep;rolling;rumbling;powerful;distant;echoing;grim;booming;resounding
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,tide,rising;powerful;steady;strong;vast;ebbing;increasing;dominant;turbulent;predictable
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,volcano,active;explosive;smoldering;dormant;massive;fiery;mighty;ancient;ominous;thundering
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,wind,breezy;strong;cold;gentle;gusty;wild;refreshing;silent;whirling;invisible
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,apple,red;fresh;juicy;crisp;ripe;sweet;green;tasty;vibrant;shiny
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,banana,ripe;yellow;fresh;sweet;soft;curved;mellow;tasty;nutritious;fragrant
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,beef,tender;juicy;savory;rich;flavorful;prime;hearty;fresh;succulent;seasoned
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,bread,fresh;crusty;soft;warm;buttery;fluffy;golden;toasted;wholesome;aromatic
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,broccoli,fresh;green;crunchy;healthy;vibrant;nutritious;tender;floretted;vital;organic
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,cheese,creamy;aged;savory;delicious;rich;smooth;fresh;mild;sharp;soft
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,chicken,tender;juicy;flavorful;roasted;grilled;fresh;hearty;delicious;savory;crispy
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,egg,fresh;boiled;raw;scrambled;poached;sunny;organic;delicate;rich;nutritious
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,fish,fresh;flaky;tasty;grilled;smoked;savory;light;oily;firm;delicate
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,pasta,al dente;fresh;creamy;tasty;hearty;traditional;savory;delicious;soft;versatile
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,rice,steamed;fluffy;white;aromatic;tasty;basmati;simmered;perfect;soft;light
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,soup,hot;warm;hearty;rich;savory;creamy;flavorful;comforting;steaming;delicious
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,artist,creative;talented;passionate;innovative;inspired;skilled;vivid;expressive;imaginative;dedicated
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,athlete,strong;agile;fit;competitive;swift;powerful;enduring;graceful;determined;sturdy
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,chef,skilled;creative;talented;enthusiastic;passionate;innovative;experienced;dedicated;precise;resourceful
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,doctor,knowledgeable;caring;skilled;dedicated;attentive;compassionate;professional;competent;experienced;trustworthy
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,engineer,innovative;practical;skilled;resourceful;creative;analytical;efficient;dedicated;precise;knowledgeable
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,farmer,hardworking;dedicated;practical;resilient;resourceful;seasonal;traditional;tireless;experienced;wise
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,lawyer,skilled;articulate;dedicated;logical;strategic;professional;courageous;persuasive;experienced;ethical
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,musician,talented;creative;inspired;passionate;vibrant;skilled;expressive;dynamic;proficient;artistic
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,scientist,analytical;innovative;curious;detailed;methodical;intelligent;dedicated;logical;observant;passionate
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,soldier,brave;determined;resolute;strong;disciplined;loyal;courageous;steadfast;valiant;fearless
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,teacher,dedicated;knowledgeable;patient;caring;inspiring;creative;understanding;skilled;compassionate;motivated
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,writer,creative;thoughtful;imaginative;expressive;articulate;inspired;observant;eloquent;prolific;dedicated
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,book,interesting;classic;engaging;informative;timeless;captivating;well-written;fascinating;detailed;mysterious
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,bridge,sturdy;historic;long;spanning;majestic;ancient;arched;robust;elegant;strong
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,drums,rhythmic;loud;vibrant;powerful;deep;resonant;energetic;dynamic;percussive;pulsating
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,earth,vast;green;rich;ancient;diverse;fertile;wild;nurturing;vibrant;enduring
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,flute,melodic;soothing;sweet;light;airy;delicate;elegant;harmonic;refined;soft
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,key,small;rusty;old;ancient;shiny;silver;mysterious;ornate;unique;vital
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,knife,sharp;rusty;gleaming;polished;small;deadly;efficient;balanced;sturdy;sleek
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,lock,sturdy;old;rusty;secure;intricate;heavy;metallic;ancient;complex;reliable
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,moon,luminous;bright;silent;ancient;mysterious;full;shining;glowing;distant;ethereal
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,pen,smooth;sleek;tiny;blue;refined;efficient;classic;reliable;portable;lightweight
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,sun,radiant;bright;warm;fiery;powerful;glowing;golden;dazzling;eternal;vibrant
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,sword,sharp;gleaming;ancient;mighty;legendary;swift;balanced;polished;deadly;ornate
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,cat,playful;curious;sleek;graceful;soft;furry;agile;independent;alert;mischievous
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;playful;energetic;faithful;gentle;brave;lively;intelligent;adorable
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;graceful;swift;friendly;curious;elegant;sociable;lively;bright
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,elephant,massive;majestic;gentle;wise;strong;graceful;ancient;tender;powerful;stately
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,hamster,small;furry;active;cute;tiny;playful;curious;quick;energetic;adorable
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,monkey,playful;mischievous;curious;agile;clever;lively;active;funny;smart;nimble
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,mouse,small;timid;quick;furry;quiet;alert;tiny;nimble;cautious;shy
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,peacock,vibrant;colorful;majestic;graceful;elegant;proud;dazzling;stunning;ornate;regal
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,rabbit,soft;quick;cute;fluffy;timid;small;gentle;playful;nimble;delicate
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,shark,fierce;dangerous;sleek;powerful;swift;formidable;hungry;ruthless;ominous;predatory
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,snake,slithering;venomous;silent;sly;dangerous;smooth;hidden;long;coiled;stealthy
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,whale,massive;gentle;majestic;powerful;enormous;graceful;mighty;serene;deep;ancient
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,city,bustling;vibrant;modern;ancient;sprawling;crowded;busy;lively;historic;dynamic
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,desert,vast;barren;hot;arid;endless;sandy;harsh;dry;empty;scorching
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,forest,dense;lush;green;mysterious;old;wild;quiet;vibrant;shadowy;enchanting
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,island,isolated;tropical;remote;lush;small;serene;picturesque;sunny;peaceful;hidden
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,lake,calm;tranquil;clear;vast;serene;blue;still;reflective;deep;pristine
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,mountain,majestic;rocky;towering;steep;ancient;snowy;rugged;mighty;grand;elevated
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,ocean,vast;deep;mysterious;blue;wild;endless;powerful;salty;roaring;majestic
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,plain,flat;open;vast;fertile;grassy;endless;simple;spacious;quiet;broad
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,plateau,high;vast;elevated;rocky;barren;open;expansive;sturdy;rugged;remote
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,river,flowing;winding;deep;swift;clear;long;crisp;quiet;mighty;meandering
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,valley,lush;green;narrow;deep;serene;hidden;rolling;fertile;quiet;picturesque
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,village,small;peaceful;quaint;rustic;charming;close-knit;lovely;traditional;cozy;serene
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,cactus,spiky;dry;green;thorny;resilient;arid;sturdy;prickly;desert;rugged
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,eggplant,purple;fresh;glossy;plump;ripe;smooth;vibrant;shiny;delicious;tender
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,flower,fragrant;beautiful;vibrant;delicate;colorful;fresh;radiant;lovely;blooming;soft
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,grass,green;lush;soft;fresh;tender;vibrant;thick;gentle;vivid;mellow
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,lettuce,crisp;fresh;green;leafy;tender;vibrant;healthy;cool;juicy;crunchy
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,mushroom,earthy;fresh;tiny;spongy;wild;flavorful;delicate;nutty;small;rich
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,onion,pungent;sharp;fresh;crisp;layered;white;red;mild;robust;savory
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,pepper,spicy;hot;fresh;zesty;vibrant;ripe;crisp;aromatic;flavorful;fiery
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,potato,starchy;fresh;brown;fluffy;tender;earthy;rough;golden;hearty;robust
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,rose,fragrant;beautiful;red;delicate;velvety;lovely;pristine;elegant;romantic;vibrant
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,tomato,ripe;red;juicy;fresh;vibrant;tender;sweet;tasty;lush;sunny
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,tree,tall;majestic;ancient;green;sturdy;leafy;graceful;towering;robust;spreading
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,ally,supportive;loyal;trustworthy;devoted;reliable;steadfast;faithful;dedicated;courageous;friendly
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,brother,loving;caring;supportive;kind;close;warm;protective;loyal;dedicated;devoted
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,enemy,ruthless;hostile;vengeful;formidable;aggressive;dangerous;cunning;sinister;relentless;feared
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,father,caring;loving;wise;strong;supportive;kind;protective;experienced;steadfast;gentle
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,follower,loyal;devoted;faithful;supportive;dedicated;reliable;obedient;active;trusting;eager
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,friend,kind;loyal;caring;supportive;gentle;trustworthy;funny;warm;reliable;friendly
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,leader,strong;inspiring;wise;decisive;charismatic;firm;strategic;visionary;bold;resolute
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;gentle;kind;supportive;warm;wise;devoted;compassionate
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,partner,supportive;loyal;trustworthy;passionate;dedicated;caring;reliable;loving;committed;understanding
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,rival,formidable;competitive;challenging;intense;relentless;fierce;determined;strong;cunning;daunting
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,sister,loving;caring;supportive;kind;gentle;close;warm;loyal;friendly;affectionate
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,stranger,unknown;mysterious;unfamiliar;distant;secretive;elusive;quiet;reserved;curious;enigmatic
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,above,higher;elevated;lofty;prevailing;upper;soaring;distant;vast;visible;clear
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,back,sturdy;strong;supportive;steady;robust;broad;firm;reliable;resilient;solid
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,below,lower;hidden;subdued;quiet;deep;distant;shadowed;uneven;modest;understated
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,east,oriental;rising;sunny;dawn;mystic;warm;ancient;vibrant;radiant;bright
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,front,leading;prominent;exposed;clear;open;visible;advancing;bold;bright;striking
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,inside,inner;cozy;warm;quiet;hidden;enclosed;private;secure;intimate;sealed
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,left,remaining;extra;available;alternative;surplus;distinct;minor;residual;orphaned;next
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,north,northern;icy;cold;grim;distant;ancient;frozen;blustery;stern;sharp
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,outside,open;exposed;fresh;vast;external;clear;breezy;sunlit;wild;airy
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,right,correct;accurate;proper;exact;precise;suitable;just;true;reliable;solid
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,south,southern;warm;sunny;mild;relaxed;inviting;vibrant;lively;breezy;gentle
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,west,western;dusk;sunset;expansive;open;bold;mysterious;rugged;ancient;vibrant
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,century,long;historic;significant;enduring;memorable;remarkable;influential;noted;celebrated;ancient
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,day,bright;sunny;long;busy;vibrant;clear;warm;lively;productive;joyful
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,evening,tranquil;soft;gentle;quiet;cool;dusky;peaceful;serene;calm;romantic
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,hour,brief;short;precise;fleeting;busy;long;notable;timely;significant;productive
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,minute,tiny;brief;precise;short;fleeting;small;rapid;measurable;significant;limited
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,month,long;short;busy;quiet;eventful;changing;melodic;sunny;rainy;vibrant
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,morning,fresh;bright;early;calm;serene;vibrant;peaceful;quiet;golden;soft
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,night,dark;quiet;silent;starry;mysterious;tranquil;lonely;calm;deep;still
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,season,changing;distinct;vibrant;unique;mild;harsh;beautiful;memorable;dynamic;predictable
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,second,brief;rapid;fleeting;short;instant;precise;tiny;swift;minor;momentary
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,week,busy;long;short;eventful;productive;relaxing;challenging;memorable;demanding;active
+o3-mini,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,year,long;memorable;eventful;changing;prosperous;challenging;productive;remarkable;dynamic;historic

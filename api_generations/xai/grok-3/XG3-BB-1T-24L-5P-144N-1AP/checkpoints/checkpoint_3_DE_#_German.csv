@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,anger,strong;deep;hot;wild;dark;heavy;sudden;bitter;fierce;raw
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,courage,great;true;bold;brave;real;big;pure;high;firm;steady
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,fear,deep;strong;dark;cold;sharp;hidden;sudden;terrible;intense;quiet
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,freedom,true;full;new;real;great;pure;sweet;hard;bright;long
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,happiness,true;great;big;warm;bright;pure;simple;deep;real;soft
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,hate,strong;deep;dark;bitter;cold;heavy;fierce;wild;pure;hidden
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,honesty,true;clear;pure;real;strong;simple;bright;full;open;fair
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,justice,true;fair;strong;real;pure;clear;hard;high;equal;right
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,knowledge,deep;wide;great;strong;clear;useful;new;rich;full;true
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,love,true;deep;warm;strong;pure;sweet;real;soft;bright;endless
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,peace,true;calm;quiet;deep;real;pure;soft;long;bright;sweet
+grok-3,basic,1.0,DE # German,B1,most frequent,Abstract Concepts,wisdom,deep;great;true;clear;strong;old;pure;high;rich;quiet
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,bell,loud;clear;small;old;shiny;heavy;golden;bright;sweet;simple
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,candle,bright;small;warm;soft;white;tall;red;old;glowing;quiet
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,carpet,soft;thick;red;old;big;warm;colorful;heavy;clean;nice
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,coin,old;shiny;small;round;heavy;silver;golden;rare;dirty;worn
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,crown,golden;heavy;shiny;old;big;royal;rich;bright;beautiful;strong
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,flag,bright;colorful;big;old;national;red;proud;high;strong;waving
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,mask,dark;strange;old;scary;black;funny;heavy;hidden;weird;painted
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,necklace,shiny;beautiful;long;silver;golden;expensive;small;delicate;bright;lovely
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;big;famous;dark;bright;lovely;unique;detailed
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,ring,shiny;small;golden;silver;beautiful;expensive;round;bright;simple;old
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,statue,old;tall;big;heavy;white;famous;beautiful;cold;strong;ancient
+grok-3,basic,1.0,DE # German,B1,most frequent,Cultural Artifacts,vase,old;beautiful;tall;small;delicate;colorful;heavy;bright;expensive;simple
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,cloud,white;big;dark;soft;high;grey;fluffy;heavy;low;moving
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,earthquake,strong;terrible;sudden;dangerous;big;scary;violent;deep;destructive;shocking
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,fog,thick;white;cold;heavy;grey;dark;wet;silent;strange;dense
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,lightning,bright;fast;strong;loud;dangerous;sharp;sudden;wild;powerful;scary
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;wet;soft;strong;dark;endless;quiet;sudden
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;big;clear;lovely;rare;magical;happy;vivid
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;thick;beautiful;quiet;light;deep;fresh
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,storm,strong;loud;dark;wild;heavy;dangerous;scary;sudden;violent;big
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,thunder,loud;strong;deep;scary;sudden;powerful;heavy;dark;wild;booming
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,tide,high;strong;low;fast;powerful;dangerous;sudden;big;cold;rough
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,volcano,hot;dangerous;big;active;dark;powerful;scary;tall;red;explosive
+grok-3,basic,1.0,DE # German,B1,most frequent,Environmental Phenomena,wind,strong;cold;fast;loud;warm;light;wild;heavy;soft;sharp
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,apple,red;sweet;fresh;green;small;round;juicy;hard;crisp;tasty
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,banana,yellow;sweet;long;soft;fresh;ripe;small;tasty;healthy;curved
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,beef,red;fresh;tender;juicy;expensive;thick;cooked;soft;tasty;raw
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,bread,fresh;soft;warm;brown;white;thick;tasty;hard;old;crusty
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,broccoli,green;fresh;healthy;small;tender;raw;cooked;tasty;soft;crisp
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;tasty;strong;old;creamy;fresh;melted
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,chicken,fresh;tender;juicy;cooked;white;tasty;small;roasted;soft;grilled
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,egg,white;small;fresh;hard;soft;boiled;raw;yellow;round;fragile
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,fish,fresh;small;silver;tasty;raw;cooked;white;big;wet;slippery
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,pasta,soft;fresh;tasty;long;yellow;cooked;hot;simple;thick;Italian
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,rice,white;soft;sticky;fresh;tasty;small;cooked;brown;hot;plain
+grok-3,basic,1.0,DE # German,B1,most frequent,Food Items,soup,hot;tasty;warm;thick;fresh;clear;creamy;light;healthy;salty
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,artist,creative;famous;talented;young;old;poor;rich;unique;skilled;passionate
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,athlete,strong;fast;young;fit;talented;famous;hard-working;skilled;active;determined
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,chef,skilled;famous;creative;busy;talented;friendly;old;young;passionate;professional
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,doctor,kind;smart;busy;helpful;friendly;old;young;patient;skilled;caring
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,engineer,smart;skilled;creative;busy;young;talented;professional;hard-working;clever;focused
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,farmer,hard-working;kind;old;strong;friendly;busy;simple;poor;honest;patient
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,lawyer,smart;busy;strict;expensive;famous;young;old;clever;serious;professional
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,musician,talented;famous;creative;young;passionate;skilled;old;unique;friendly;gifted
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,scientist,smart;clever;curious;busy;famous;old;young;creative;serious;focused
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,soldier,brave;strong;young;tough;loyal;proud;serious;disciplined;fearless;dedicated
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,teacher,kind;patient;smart;friendly;strict;helpful;old;young;wise;caring
+grok-3,basic,1.0,DE # German,B1,most frequent,Human Roles,writer,creative;famous;talented;quiet;old;young;passionate;unique;clever;focused
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,book,old;thick;new;big;small;interesting;heavy;colorful;expensive;boring
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,bridge,long;old;strong;high;big;narrow;beautiful;wooden;modern;dangerous
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,drums,loud;big;heavy;old;round;strong;noisy;wooden;bright;powerful
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,earth,big;round;green;blue;old;beautiful;warm;rich;vast;alive
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,flute,small;shiny;silver;old;beautiful;light;wooden;clear;sweet;delicate
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,key,small;old;shiny;silver;golden;heavy;important;rusty;tiny;useful
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,knife,sharp;small;heavy;old;shiny;dangerous;silver;long;useful;pointed
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,lock,old;heavy;strong;small;rusty;shiny;broken;secure;big;tight
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,moon,bright;full;white;round;big;pale;beautiful;quiet;high;magical
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,pen,small;black;blue;old;cheap;shiny;useful;red;light;broken
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,sun,bright;hot;big;warm;yellow;high;beautiful;golden;strong;shining
+grok-3,basic,1.0,DE # German,B1,most frequent,Inanimate Objects,sword,sharp;long;old;heavy;shiny;dangerous;silver;strong;ancient;powerful
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,cat,small;soft;black;white;cute;lazy;quiet;furry;friendly;playful
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,dog,big;friendly;loyal;brown;black;cute;active;loud;strong;happy
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,dolphin,smart;friendly;blue;fast;cute;playful;wild;beautiful;strong;graceful
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,elephant,big;grey;strong;slow;heavy;tall;gentle;wild;old;wise
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,hamster,small;cute;soft;brown;tiny;active;furry;quiet;sweet;playful
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,monkey,small;funny;brown;active;wild;clever;fast;noisy;cute;playful
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,mouse,small;grey;tiny;fast;quiet;cute;brown;shy;sneaky;soft
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,peacock,colorful;beautiful;big;proud;bright;rare;lovely;tall;unique;elegant
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,rabbit,small;white;soft;cute;fast;brown;quiet;furry;shy;sweet
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,shark,big;dangerous;grey;fast;scary;strong;wild;sharp;cold;fierce
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,snake,long;dangerous;green;fast;scary;thin;wild;quiet;cold;poisonous
+grok-3,basic,1.0,DE # German,B1,most frequent,Neutral Animals,whale,big;blue;huge;gentle;deep;strong;wild;heavy;beautiful;rare
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,city,big;busy;loud;modern;old;crowded;noisy;bright;dirty;exciting
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,desert,hot;dry;big;empty;sandy;quiet;dangerous;yellow;vast;lonely
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,forest,green;big;dark;quiet;thick;old;beautiful;wild;deep;dense
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,island,small;beautiful;quiet;green;remote;tropical;lonely;blue;warm;peaceful
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,lake,blue;calm;big;clear;cold;deep;quiet;beautiful;still;fresh
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,mountain,tall;high;big;cold;rocky;beautiful;steep;snowy;strong;green
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,ocean,big;blue;deep;wild;vast;cold;beautiful;dangerous;dark;endless
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,plain,flat;wide;big;green;empty;quiet;vast;dry;open;simple
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,plateau,high;flat;wide;dry;rocky;big;quiet;open;cold;vast
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,river,long;wide;blue;fast;clear;deep;cold;beautiful;calm;winding
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,valley,green;deep;quiet;beautiful;narrow;long;wide;peaceful;lush;hidden
+grok-3,basic,1.0,DE # German,B1,most frequent,Places,village,small;quiet;old;peaceful;friendly;green;simple;remote;poor;lovely
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,cactus,green;tall;sharp;dry;small;tough;prickly;old;hard;desert
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,eggplant,purple;fresh;soft;big;shiny;tasty;healthy;round;dark;smooth
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,flower,beautiful;colorful;small;bright;red;yellow;soft;fresh;lovely;sweet
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,grass,green;soft;thick;tall;fresh;wet;short;wild;bright;lush
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,lettuce,green;fresh;soft;crisp;healthy;light;raw;tender;wet;cool
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,mushroom,small;brown;soft;white;fresh;tasty;round;wild;strange;earthy
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,onion,white;strong;small;round;fresh;sharp;raw;yellow;tasty;smelly
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,pepper,red;green;hot;fresh;small;spicy;tasty;bright;sharp;juicy
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,potato,brown;fresh;small;round;hard;tasty;soft;yellow;cheap;cooked
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,rose,red;beautiful;soft;bright;small;lovely;fresh;sweet;delicate;thorny
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,tomato,red;fresh;juicy;small;round;tasty;soft;ripe;healthy;bright
+grok-3,basic,1.0,DE # German,B1,most frequent,Plants,tree,tall;old;green;big;strong;thick;beautiful;leafy;brown;ancient
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,ally,loyal;true;helpful;strong;kind;friendly;reliable;close;honest;supportive
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,brother,kind;strong;funny;young;older;helpful;close;friendly;protective;annoying
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,enemy,dangerous;strong;cold;bitter;dark;cruel;hidden;fierce;bad;sneaky
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,father,kind;strong;old;wise;loving;strict;helpful;protective;funny;caring
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,follower,loyal;young;quiet;eager;true;dedicated;shy;supportive;active;faithful
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,friend,kind;funny;close;loyal;helpful;nice;true;sweet;honest;dear
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,leader,strong;wise;brave;smart;kind;strict;confident;fair;powerful;inspiring
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,mother,loving;kind;warm;caring;strict;gentle;strong;sweet;helpful;wise
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,partner,loyal;kind;funny;close;helpful;loving;honest;strong;sweet;supportive
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,rival,strong;smart;tough;bitter;close;dangerous;fierce;competitive;sneaky;bold
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,sister,kind;funny;young;older;sweet;close;helpful;annoying;loving;caring
+grok-3,basic,1.0,DE # German,B1,most frequent,Social Relationships,stranger,unknown;quiet;strange;cold;shy;weird;distant;dark;mysterious;silent
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,above,high;clear;far;bright;open;wide;blue;distant;empty;visible
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,back,strong;wide;straight;sore;hidden;lower;upper;bare;broad;curved
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,below,low;deep;dark;hidden;close;cold;quiet;empty;silent;narrow
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,east,far;warm;bright;distant;early;open;wide;beautiful;rising;calm
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,front,clear;wide;open;straight;close;bright;visible;bold;strong;forward
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,inside,warm;dark;quiet;small;hidden;safe;cozy;tight;soft;deep
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,left,close;near;sharp;quick;open;wide;empty;quiet;hidden;narrow
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,north,cold;far;dark;distant;quiet;snowy;wild;strong;high;remote
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,outside,cold;bright;open;wide;fresh;loud;busy;clear;wet;wild
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,right,close;near;sharp;quick;open;wide;empty;quiet;hidden;straight
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,south,warm;far;bright;distant;sunny;open;wide;beautiful;hot;calm
+grok-3,basic,1.0,DE # German,B1,most frequent,Spatial Concepts,west,far;warm;bright;distant;late;open;wide;beautiful;setting;calm
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,century,old;long;past;new;important;famous;ancient;early;late;historic
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,day,long;short;bright;warm;cold;busy;quiet;rainy;sunny;happy
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,evening,quiet;cool;dark;long;calm;beautiful;late;peaceful;soft;relaxing
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;fast;slow;important;precious
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,minute,short;fast;quick;long;busy;quiet;important;final;slow;precious
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,month,long;short;cold;warm;busy;quiet;rainy;sunny;dark;bright
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,morning,early;bright;cold;quiet;fresh;calm;beautiful;sunny;cool;peaceful
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,night,dark;long;cold;quiet;late;beautiful;silent;starry;deep;scary
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,season,cold;warm;wet;dry;long;short;beautiful;busy;quiet;favorite
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,second,short;fast;quick;important;final;long;busy;quiet;precious;fleeting
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,week,long;short;busy;quiet;fast;slow;hard;easy;happy;tiring
+grok-3,basic,1.0,DE # German,B1,most frequent,Time Concepts,year,long;short;busy;happy;hard;new;old;important;fast;memorable
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,anger,strong;intense;fierce;burning;hot;deep;wild;quick;bitter;uncontrollable
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,courage,great;bold;fearless;brave;strong;amazing;true;real;powerful;inspiring
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,fear,dark;cold;heavy;sudden;deep;terrible;awful;paralyzing;constant;hidden
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,freedom,pure;complete;total;sweet;hard-won;precious;beautiful;full;new;desired
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,happiness,bright;warm;joyful;endless;simple;genuine;shared;deep;lasting;true
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,hate,strong;blind;fierce;cold;dark;bitter;deep;burning;hidden;dangerous
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,honesty,pure;clear;true;strong;rare;important;real;complete;absolute;brave
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,justice,fair;strict;true;equal;strong;necessary;moral;right;clear;honest
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,knowledge,deep;wide;useful;great;basic;new;old;hidden;practical;important
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,love,true;deep;sweet;warm;endless;pure;strong;gentle;passionate;caring
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,peace,calm;quiet;lasting;true;inner;beautiful;sweet;global;fragile;desired
+grok-3,basic,1.0,DE # German,B2,most frequent,Abstract Concepts,wisdom,great;deep;ancient;true;clear;quiet;strong;timeless;practical;valuable
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,bell,loud;clear;small;old;shiny;golden;heavy;bright;beautiful;ringing
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,candle,small;white;burning;soft;warm;bright;scented;old;flickering;delicate
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,carpet,soft;thick;red;old;expensive;beautiful;warm;patterned;clean;large
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,coin,old;shiny;small;rare;golden;silver;heavy;valuable;ancient;worn
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,crown,golden;heavy;royal;beautiful;old;shiny;precious;ornate;powerful;majestic
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;old;bright;large;torn;historic;symbolic
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,mask,scary;funny;black;mysterious;old;wooden;colorful;hidden;strange;painted
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,necklace,beautiful;shiny;long;expensive;golden;silver;delicate;elegant;old;precious
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;famous;large;detailed;expensive;modern;classic;bright
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,ring,golden;silver;small;shiny;expensive;beautiful;old;simple;elegant;precious
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,statue,tall;old;stone;beautiful;ancient;heavy;famous;detailed;grand;impressive
+grok-3,basic,1.0,DE # German,B2,most frequent,Cultural Artifacts,vase,delicate;old;beautiful;glass;tall;expensive;painted;small;elegant;broken
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,cloud,white;dark;fluffy;heavy;gray;soft;high;thick;moving;stormy
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,earthquake,strong;sudden;dangerous;terrible;powerful;destructive;scary;rare;violent;unexpected
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,fog,thick;cold;white;heavy;dense;mysterious;dark;early;silent;wet
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,lightning,bright;fast;loud;dangerous;powerful;scary;sudden;electric;sharp;striking
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;soft;wet;endless;sudden;warm;gentle;refreshing
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,rainbow,colorful;beautiful;bright;rare;magical;clear;wide;amazing;lovely;natural
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;thick;fresh;beautiful;falling;icy
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,storm,strong;loud;dark;dangerous;wild;heavy;sudden;violent;scary;powerful
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,thunder,loud;deep;scary;strong;sudden;powerful;rolling;distant;heavy;frightening
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,tide,high;low;strong;fast;dangerous;powerful;changing;rough;calm;steady
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,volcano,active;dangerous;hot;huge;old;sleeping;powerful;fiery;destructive;tall
+grok-3,basic,1.0,DE # German,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;fast;gentle;wild;loud;soft;fresh;blowing
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,apple,red;green;sweet;fresh;juicy;small;round;crisp;ripe;healthy
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,banana,yellow;sweet;soft;long;ripe;fresh;healthy;tasty;curved;tropical
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,beef,red;fresh;tender;juicy;raw;cooked;expensive;tough;lean;grilled
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,bread,fresh;warm;soft;hard;white;brown;crusty;tasty;sliced;homemade
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,broccoli,green;fresh;healthy;small;raw;cooked;bitter;tender;crisp;nutritious
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;smelly;tasty;creamy;melted;fresh;old
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,chicken,fresh;cooked;juicy;tender;roasted;grilled;spicy;white;tasty;raw
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,egg,white;brown;fresh;boiled;fried;raw;small;large;cracked;hard
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,fish,fresh;raw;cooked;small;big;silver;tasty;smelly;grilled;salty
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,pasta,long;short;soft;cooked;fresh;tasty;yellow;hot;simple;Italian
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,rice,white;brown;sticky;soft;cooked;fresh;plain;hot;tasty;healthy
+grok-3,basic,1.0,DE # German,B2,most frequent,Food Items,soup,hot;warm;tasty;thick;thin;creamy;spicy;fresh;homemade;comforting
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,artist,creative;talented;famous;young;old;modern;classic;skilled;passionate;unique
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,athlete,strong;fast;young;fit;talented;dedicated;powerful;famous;active;competitive
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,chef,skilled;famous;creative;busy;talented;friendly;strict;experienced;passionate;professional
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,doctor,kind;busy;smart;helpful;friendly;strict;experienced;young;old;caring
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,engineer,smart;skilled;creative;busy;young;experienced;technical;innovative;hard-working;talented
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,farmer,hard-working;kind;old;young;strong;busy;friendly;simple;dedicated;tough
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,lawyer,smart;strict;busy;expensive;famous;young;experienced;tough;confident;serious
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,musician,talented;famous;young;passionate;creative;skilled;loud;unique;modern;classic
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,scientist,smart;curious;dedicated;busy;young;old;famous;creative;serious;innovative
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,soldier,brave;strong;young;tough;dedicated;strict;serious;proud;disciplined;fearless
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,teacher,kind;strict;patient;smart;friendly;helpful;young;old;experienced;caring
+grok-3,basic,1.0,DE # German,B2,most frequent,Human Roles,writer,creative;famous;talented;young;old;passionate;quiet;imaginative;successful;unique
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;long;short;heavy;colorful
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,bridge,old;long;high;strong;wooden;stone;modern;beautiful;narrow;wide
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,drums,loud;big;heavy;wooden;round;shiny;old;new;powerful;rhythmic
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,earth,round;big;green;blue;old;beautiful;rich;warm;alive;vast
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,flute,small;wooden;silver;shiny;old;beautiful;soft;clear;light;delicate
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,key,small;old;shiny;heavy;golden;silver;rusty;important;lost;useful
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,knife,sharp;long;short;heavy;old;new;dangerous;rusty;useful;silver
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,lock,old;heavy;rusty;strong;small;broken;shiny;secure;tight;metal
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,moon,bright;full;round;white;beautiful;pale;mysterious;distant;cold;glowing
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,pen,black;blue;small;old;new;cheap;expensive;sharp;smooth;plastic
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,sun,bright;hot;warm;yellow;big;powerful;shining;beautiful;golden;burning
+grok-3,basic,1.0,DE # German,B2,most frequent,Inanimate Objects,sword,sharp;long;heavy;old;shiny;dangerous;silver;rusty;powerful;ancient
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,cat,small;cute;black;white;fluffy;lazy;fast;playful;quiet;friendly
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,dog,big;small;friendly;loyal;brown;black;active;loud;cute;strong
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,dolphin,friendly;smart;fast;blue;gray;playful;beautiful;sleek;social;amazing
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,elephant,big;gray;strong;slow;gentle;old;heavy;tall;wise;powerful
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,hamster,small;cute;fluffy;brown;active;tiny;soft;shy;fast;playful
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,monkey,funny;fast;brown;small;clever;active;loud;wild;curious;naughty
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,mouse,small;gray;fast;tiny;shy;quiet;cute;quick;sneaky;little
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;loud;big;shiny;elegant;rare;stunning;bright
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,rabbit,white;soft;small;cute;fast;fluffy;shy;brown;gentle;quick
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,shark,big;dangerous;fast;gray;scary;strong;sharp;wild;hungry;fierce
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,snake,long;dangerous;green;black;scary;fast;quiet;cold;poisonous;sneaky
+grok-3,basic,1.0,DE # German,B2,most frequent,Neutral Animals,whale,huge;blue;big;gentle;slow;deep;heavy;amazing;rare;powerful
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,city,big;busy;noisy;modern;old;crowded;dirty;clean;beautiful;exciting
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,desert,hot;dry;sandy;empty;vast;quiet;dangerous;lonely;wide;harsh
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,forest,green;dark;deep;quiet;old;thick;beautiful;wild;mysterious;dense
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,island,small;beautiful;tropical;lonely;remote;green;quiet;sunny;rocky;hidden
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,lake,blue;clear;calm;deep;cold;beautiful;quiet;large;still;fresh
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,mountain,high;tall;rocky;snowy;steep;beautiful;old;green;cold;dangerous
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,ocean,blue;deep;vast;wide;cold;wild;beautiful;salty;powerful;endless
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,plain,flat;wide;green;open;empty;vast;quiet;dry;simple;grassy
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,plateau,high;flat;wide;dry;rocky;open;cold;vast;empty;remote
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,river,long;wide;blue;fast;calm;deep;clear;cold;beautiful;winding
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,valley,deep;green;narrow;quiet;beautiful;wide;steep;hidden;peaceful;fertile
+grok-3,basic,1.0,DE # German,B2,most frequent,Places,village,small;quiet;old;friendly;beautiful;remote;simple;peaceful;green;traditional
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,cactus,green;spiky;tall;dry;tough;small;sharp;hardy;desert;prickly
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,eggplant,purple;long;soft;fresh;tasty;cooked;raw;healthy;smooth;shiny
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,flower,colorful;beautiful;small;fragrant;delicate;bright;soft;fresh;lovely;tiny
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,grass,green;soft;tall;short;fresh;wet;dry;thick;thin;lush
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,lettuce,green;fresh;crisp;light;healthy;raw;soft;leafy;cool;tender
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,mushroom,brown;white;small;soft;fresh;tasty;wild;raw;cooked;earthy
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,onion,white;yellow;strong;raw;cooked;round;fresh;sharp;smelly;small
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,pepper,red;green;hot;spicy;fresh;small;raw;cooked;bright;sweet
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,potato,brown;fresh;raw;cooked;soft;hard;small;big;tasty;plain
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;bright;soft;lovely;elegant;fresh
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,tomato,red;fresh;juicy;round;ripe;sweet;small;tasty;soft;healthy
+grok-3,basic,1.0,DE # German,B2,most frequent,Plants,tree,tall;old;green;big;strong;thick;beautiful;bare;leafy;ancient
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,ally,loyal;helpful;strong;trusted;close;reliable;supportive;kind;friendly;true
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,brother,older;younger;kind;funny;strong;protective;close;loving;annoying;caring
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,enemy,dangerous;strong;cruel;bitter;hidden;old;new;fierce;tricky;hated
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,father,kind;strict;loving;strong;old;wise;protective;funny;caring;supportive
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,follower,loyal;dedicated;young;eager;quiet;faithful;supportive;close;active;trusting
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,friend,close;best;old;new;kind;funny;loyal;helpful;caring;trusted
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,leader,strong;wise;confident;strict;kind;powerful;brave;smart;fair;inspiring
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,mother,loving;kind;strict;caring;gentle;strong;wise;warm;protective;sweet
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,partner,close;loyal;trusted;kind;supportive;funny;loving;strong;reliable;helpful
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,rival,strong;tough;bitter;competitive;dangerous;clever;close;hated;tricky;fierce
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,sister,older;younger;kind;funny;loving;close;annoying;caring;sweet;protective
+grok-3,basic,1.0,DE # German,B2,most frequent,Social Relationships,stranger,unknown;mysterious;quiet;strange;cold;distant;friendly;scary;new;curious
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,above,high;clear;bright;open;wide;distant;far;blue;empty;visible
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,back,strong;straight;sore;wide;broad;hidden;lower;upper;tired;tense
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,below,low;deep;dark;hidden;close;cold;narrow;quiet;invisible;secret
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,east,far;distant;warm;bright;sunny;early;open;wide;beautiful;remote
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,front,clear;open;wide;visible;bright;close;straight;important;busy;main
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,inside,warm;dark;quiet;small;cozy;hidden;safe;tight;crowded;comfortable
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,left,close;near;sharp;quick;narrow;hidden;wrong;open;side;remaining
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,north,cold;far;distant;dark;wild;snowy;harsh;remote;quiet;open
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,outside,cold;warm;bright;dark;open;wide;noisy;quiet;fresh;beautiful
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,right,correct;near;close;sharp;straight;proper;main;side;quick;perfect
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,south,warm;far;sunny;hot;distant;bright;open;beautiful;tropical;remote
+grok-3,basic,1.0,DE # German,B2,most frequent,Spatial Concepts,west,far;distant;sunny;warm;open;wild;remote;beautiful;late;vast
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,century,old;new;past;long;short;important;historic;modern;early;late
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;quiet;hot;cold;bright;dark
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,evening,quiet;cool;dark;long;short;calm;beautiful;warm;late;peaceful
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;fast;slow;important;final
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,minute,quick;short;fast;long;busy;quiet;important;last;slow;exact
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,month,long;short;busy;quiet;cold;hot;rainy;sunny;important;next
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,morning,early;bright;cold;warm;quiet;busy;fresh;clear;beautiful;calm
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,night,dark;long;short;quiet;cold;warm;late;silent;scary;peaceful
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,season,hot;cold;wet;dry;long;short;beautiful;busy;favorite;changing
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,second,quick;short;fast;last;important;exact;slow;passing;critical;final
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,week,long;short;busy;quiet;hard;easy;fast;slow;important;next
+grok-3,basic,1.0,DE # German,B2,most frequent,Time Concepts,year,long;short;busy;quiet;hard;good;bad;new;old;important
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,anger,intense;fierce;burning;deep;uncontrollable;sudden;bitter;raw;powerful;consuming
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,courage,great;bold;fearless;strong;heroic;unwavering;remarkable;inspiring;brave;exceptional
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;constant;hidden;genuine;intense;chilling;persistent
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,freedom,complete;true;hard-won;precious;personal;absolute;cherished;newfound;lasting;essential
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,happiness,pure;boundless;genuine;infectious;lasting;simple;deep;radiant;overwhelming;sincere
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,hate,intense;bitter;deep;consuming;blind;fierce;unrelenting;toxic;passionate;destructive
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,honesty,brutal;complete;refreshing;absolute;unwavering;genuine;rare;admirable;strict;essential
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,justice,fair;equal;swift;true;impartial;hard-fought;overdue;moral;righteous;deserved
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,knowledge,vast;deep;profound;essential;practical;valuable;extensive;specialized;useful;fundamental
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,love,unconditional;passionate;true;deep;romantic;enduring;selfless;pure;tender;everlasting
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,peace,lasting;inner;quiet;global;fragile;serene;harmonious;hard-won;eternal;calm
+grok-3,basic,1.0,DE # German,C1,most frequent,Abstract Concepts,wisdom,profound;ancient;timeless;practical;deep;insightful;valuable;hard-earned;genuine;shared
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,bell,loud;clear;ringing;small;heavy;golden;antique;bright;melodic;old
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,candle,flickering;scented;small;warm;glowing;white;tall;delicate;soft;burning
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;expensive;old;worn;patterned;plush;large;traditional
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,coin,old;shiny;rare;small;golden;silver;valuable;ancient;worn;collectible
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,crown,golden;jeweled;heavy;royal;ancient;ornate;majestic;symbolic;glittering;ceremonial
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;symbolic;torn;bright;historic;official;bold
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,mask,mysterious;colorful;wooden;creepy;decorative;traditional;hidden;painted;scary;ceremonial
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,necklace,elegant;golden;delicate;expensive;silver;beaded;long;beautiful;simple;intricate
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,painting,beautiful;old;famous;colorful;detailed;abstract;realistic;large;impressive;historic
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,ring,golden;silver;shiny;expensive;small;elegant;simple;engraved;precious;diamond
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,statue,tall;ancient;marble;impressive;detailed;bronze;historic;beautiful;iconic;grand
+grok-3,basic,1.0,DE # German,C1,most frequent,Cultural Artifacts,vase,delicate;old;ceramic;colorful;tall;elegant;ornate;fragile;painted;antique
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;low;thick;grey;soft;drifting;stormy
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,earthquake,powerful;destructive;sudden;terrifying;massive;violent;unexpected;strong;deadly;catastrophic
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;grey;cold;heavy;silent;eerie;damp;obscuring
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;dangerous;striking;vivid;electric;intense;flashing;dramatic
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,rain,heavy;light;cold;gentle;steady;sudden;refreshing;torrential;warm;constant
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;vivid;magical;fleeting;arched;stunning;clear
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,snow,soft;white;cold;heavy;fresh;thick;powdery;silent;falling;deep
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,storm,violent;powerful;dark;dangerous;sudden;fierce;raging;loud;destructive;intense
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,thunder,loud;deep;rumbling;distant;powerful;startling;booming;rolling;ominous;strong
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;dangerous;steady;rising;rough
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;fiery;powerful;ancient;destructive;smoking;towering
+grok-3,basic,1.0,DE # German,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fierce;howling;gusty;constant;refreshing;wild
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,apple,red;green;juicy;sweet;crisp;fresh;ripe;small;tart;shiny
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;healthy;peeled
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,beef,tender;juicy;fresh;lean;grilled;raw;red;tasty;cooked;seasoned
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,bread,fresh;warm;crusty;soft;white;brown;homemade;sliced;stale;whole
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,broccoli,green;fresh;healthy;crisp;raw;steamed;small;tender;nutritious;bright
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,cheese,creamy;sharp;soft;hard;yellow;white;aged;melted;tangy;mild
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,chicken,tender;juicy;grilled;roasted;fresh;spicy;cooked;raw;lean;flavorful
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,egg,fresh;boiled;fried;white;brown;small;raw;cracked;soft;hard
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,fish,fresh;raw;cooked;salty;grilled;small;large;white;oily;tender
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,pasta,fresh;soft;cooked;homemade;long;short;creamy;spicy;warm;al dente
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,rice,white;brown;sticky;fluffy;cooked;plain;steamed;warm;long-grain;short-grain
+grok-3,basic,1.0,DE # German,C1,most frequent,Food Items,soup,hot;creamy;hearty;clear;spicy;warm;homemade;thick;savory;light
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,artist,talented;creative;famous;young;struggling;innovative;skilled;passionate;visionary;dedicated
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,athlete,strong;fast;dedicated;talented;fit;competitive;young;skilled;determined;successful
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,chef,skilled;creative;famous;passionate;experienced;innovative;busy;professional;talented;strict
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,doctor,kind;experienced;skilled;dedicated;busy;caring;professional;wise;trusted;patient
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,engineer,skilled;innovative;smart;creative;experienced;technical;dedicated;precise;talented;hardworking
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,farmer,hardworking;dedicated;experienced;humble;early-rising;tough;rural;kind;patient;strong
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,lawyer,smart;tough;experienced;successful;strict;dedicated;persuasive;confident;professional;sharp
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,musician,talented;passionate;creative;famous;skilled;young;dedicated;inspiring;versatile;gifted
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;smart;patient;precise;analytical;experienced;focused
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,soldier,brave;strong;dedicated;tough;loyal;disciplined;young;heroic;trained;fearless
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,teacher,kind;patient;strict;inspiring;dedicated;knowledgeable;caring;wise;experienced;supportive
+grok-3,basic,1.0,DE # German,C1,most frequent,Human Roles,writer,creative;talented;famous;passionate;imaginative;dedicated;prolific;insightful;young;skilled
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,book,old;thick;interesting;new;heavy;worn;exciting;famous;short;valuable
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,bridge,old;long;high;narrow;sturdy;wooden;modern;iconic;busy;beautiful
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,drums,loud;heavy;rhythmic;large;powerful;wooden;beaten;tribal;shiny;traditional
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,earth,vast;blue;beautiful;ancient;fragile;green;rich;living;round;precious
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,flute,delicate;wooden;silver;small;melodic;soft;ancient;beautiful;shiny;clear
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,key,small;old;rusty;golden;heavy;important;shiny;lost;spare;metal
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,knife,sharp;small;dangerous;rusty;heavy;kitchen;folding;long;pointed;used
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,lock,heavy;old;rusty;secure;small;broken;tight;metal;strong;ancient
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,moon,full;bright;pale;distant;round;mysterious;silver;glowing;beautiful;quiet
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,pen,black;blue;small;expensive;old;cheap;leaking;smooth;plastic;elegant
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,sun,bright;hot;warm;golden;shining;large;distant;yellow;burning;powerful
+grok-3,basic,1.0,DE # German,C1,most frequent,Inanimate Objects,sword,sharp;heavy;old;ancient;long;dangerous;shiny;rusty;powerful;legendary
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,cat,cute;small;fluffy;black;white;playful;lazy;curious;independent;soft
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,dog,loyal;friendly;big;small;playful;brown;protective;energetic;cute;trained
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,dolphin,intelligent;friendly;playful;sleek;fast;blue;curious;graceful;social;wild
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,elephant,large;grey;strong;gentle;wise;heavy;wild;majestic;slow;powerful
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,hamster,small;cute;furry;tiny;active;brown;shy;playful;soft;nocturnal
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,monkey,playful;curious;small;clever;brown;wild;funny;agile;social;noisy
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,mouse,small;tiny;grey;quick;shy;quiet;sneaky;brown;cute;timid
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;large;bright;elegant;stunning;vibrant;exotic;majestic
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,rabbit,soft;white;small;cute;fluffy;fast;shy;brown;timid;hopping
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,shark,dangerous;large;fast;grey;deadly;powerful;scary;sleek;wild;hungry
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,snake,long;dangerous;green;slippery;venomous;silent;scary;coiled;wild;thin
+grok-3,basic,1.0,DE # German,C1,most frequent,Neutral Animals,whale,huge;blue;gentle;massive;deep;slow;powerful;majestic;rare;mysterious
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,city,big;busy;noisy;modern;crowded;beautiful;historic;vibrant;polluted;lively
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,desert,hot;dry;vast;sandy;empty;harsh;endless;quiet;arid;barren
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,forest,dense;green;dark;quiet;vast;ancient;wild;mysterious;lush;deep
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,island,small;tropical;remote;beautiful;isolated;green;sandy;quiet;rocky;exotic
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,lake,calm;clear;deep;blue;large;quiet;cold;beautiful;still;reflective
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,mountain,high;tall;rocky;snowy;steep;rugged;beautiful;ancient;majestic;remote
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,ocean,vast;deep;blue;powerful;wild;calm;endless;dangerous;mysterious;salty
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,plain,flat;wide;open;green;vast;empty;quiet;fertile;endless;grassy
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,plateau,high;flat;rocky;vast;remote;barren;dry;elevated;wide;rugged
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,river,long;wide;deep;flowing;calm;clear;muddy;fast;beautiful;winding
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,valley,deep;green;narrow;quiet;beautiful;hidden;fertile;steep;lush;peaceful
+grok-3,basic,1.0,DE # German,C1,most frequent,Places,village,small;quiet;rural;old;peaceful;friendly;remote;simple;traditional;charming
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,cactus,green;spiky;tall;dry;tough;desert;sharp;small;hardy;prickly
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,eggplant,purple;shiny;fresh;smooth;long;healthy;raw;firm;dark;ripe
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,flower,beautiful;colorful;small;fragrant;delicate;bright;fresh;soft;blooming;lovely
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,grass,green;soft;tall;fresh;thick;wet;short;lush;dry;wild
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,lettuce,green;fresh;crisp;healthy;raw;light;tender;leafy;cool;clean
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,mushroom,small;brown;white;edible;wild;soft;earthy;fresh;round;poisonous
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,onion,strong;white;raw;sharp;fresh;small;yellow;spicy;peeled;pungent
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,pepper,spicy;red;green;hot;fresh;small;sweet;raw;colorful;mild
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,potato,brown;fresh;raw;small;large;starchy;peeled;cooked;hard;earthy
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;pink;soft;blooming;elegant;romantic
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,tomato,red;ripe;juicy;fresh;small;round;soft;sweet;raw;bright
+grok-3,basic,1.0,DE # German,C1,most frequent,Plants,tree,tall;old;green;strong;thick;leafy;ancient;sturdy;bare;shady
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,ally,loyal;trusted;close;reliable;supportive;helpful;strong;faithful;friendly;dependable
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,brother,older;younger;loving;protective;close;annoying;supportive;kind;funny;caring
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,enemy,dangerous;fierce;hated;powerful;cunning;ruthless;bitter;persistent;strong;hostile
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,father,loving;strict;caring;strong;wise;supportive;protective;kind;hardworking;gentle
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,follower,loyal;dedicated;eager;supportive;young;faithful;enthusiastic;obedient;trusting;active
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,friend,close;best;loyal;kind;funny;supportive;trusted;old;caring;reliable
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,leader,strong;wise;confident;inspiring;powerful;charismatic;strict;fair;bold;decisive
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,mother,loving;caring;strict;gentle;supportive;kind;protective;warm;wise;nurturing
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,partner,loving;supportive;reliable;close;trusted;equal;loyal;caring;honest;understanding
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,rival,tough;competitive;strong;bitter;persistent;challenging;fierce;cunning;determined;hostile
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,sister,older;younger;loving;annoying;close;supportive;kind;funny;caring;protective
+grok-3,basic,1.0,DE # German,C1,most frequent,Social Relationships,stranger,mysterious;unknown;quiet;distant;suspicious;friendly;curious;unexpected;odd;unfamiliar
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,above,high;clear;visible;distant;bright;open;spacious;elevated;overhead;superior
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,back,rear;hidden;strong;broad;straight;painful;exposed;lower;upper;bare
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,below,low;hidden;deep;dark;close;underneath;silent;obscure;inferior;submerged
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,east,distant;warm;rising;ancient;exotic;far;bright;cultural;remote;oriental
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,front,forward;open;clear;main;visible;leading;exposed;central;prominent;first
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,inside,warm;hidden;safe;dark;cozy;quiet;secret;close;confined;sheltered
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,left,remaining;opposite;western;hidden;forgotten;spare;unused;lower;awkward;odd
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,north,cold;distant;remote;harsh;wild;icy;dark;rugged;northern;far
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,outside,cold;open;free;exposed;wild;fresh;distant;noisy;bright;vast
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,right,correct;proper;eastern;just;fair;immediate;dominant;suitable;precise;accurate
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,south,warm;sunny;distant;tropical;far;hot;vibrant;lush;southern;exotic
+grok-3,basic,1.0,DE # German,C1,most frequent,Spatial Concepts,west,far;distant;wild;modern;setting;open;rugged;western;remote;frontier
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,century,past;new;old;current;long;historic;turning;specific;ancient;remarkable
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;cold;hot;special;normal;tiring
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,evening,quiet;cool;late;dark;peaceful;pleasant;long;relaxing;calm;beautiful
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;final;crucial;passing;specific
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,minute,quick;last;short;fleeting;precious;exact;tense;critical;passing;urgent
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,month,long;short;cold;warm;busy;quiet;current;past;next;rainy
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,morning,early;cold;sunny;quiet;fresh;busy;bright;cool;peaceful;late
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,night,dark;long;cold;quiet;late;starry;sleepless;peaceful;mysterious;still
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,season,warm;cold;rainy;dry;long;short;favorite;current;changing;festive
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,second,quick;last;short;crucial;fleeting;precise;passing;tense;critical;final
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,week,long;short;busy;quiet;stressful;exciting;current;past;next;tiring
+grok-3,basic,1.0,DE # German,C1,most frequent,Time Concepts,year,long;short;busy;successful;past;current;new;difficult;memorable;exciting
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,anger,intense;burning;fierce;deep;raw;uncontrolled;bitter;sudden;overwhelming;suppressed
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,courage,bold;fearless;brave;daring;heroic;steadfast;unwavering;valiant;gutsy;determined
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,fear,paralyzing;deep-seated;irrational;constant;chilling;overwhelming;primal;lingering;sudden;intense
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,freedom,absolute;hard-won;cherished;personal;political;true;boundless;precious;liberating;essential
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,happiness,genuine;pure;lasting;infectious;boundless;simple;radiant;deep;overwhelming;fleeting
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,hate,intense;bitter;deep;blind;burning;irrational;consuming;relentless;fierce;unspoken
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,honesty,brutal;raw;sincere;unwavering;absolute;refreshing;admirable;rare;complete;fearless
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,justice,fair;impartial;swift;blind;hard-fought;true;divine;equal;overdue;restorative
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;practical;theoretical;hidden;valuable;ancient;specialized
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,love,unconditional;passionate;true;deep;romantic;selfless;enduring;pure;intense;tender
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,peace,lasting;inner;fragile;serene;global;quiet;harmonious;eternal;hard-won;calm
+grok-3,basic,1.0,DE # German,C2,most frequent,Abstract Concepts,wisdom,profound;timeless;practical;ancient;deep;insightful;earned;quiet;guiding;invaluable
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,bell,loud;clear;resonant;tiny;brass;golden;ancient;melodic;heavy;ornate
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,candle,flickering;scented;tall;melted;bright;white;warm;delicate;decorative;glowing
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;worn;plush;oriental;expensive;patterned;woolen;dusty
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;silver;gold;worn;small;valuable;ancient;commemorative
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,crown,golden;jeweled;heavy;royal;ancient;ornate;symbolic;glittering;majestic;ceremonial
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,flag,national;colorful;waving;torn;proud;symbolic;historic;bold;bright;tattered
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,mask,mysterious;painted;wooden;creepy;decorative;ceremonial;hidden;intricate;dark;eerie
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,necklace,delicate;golden;silver;beaded;elegant;expensive;simple;long;ornate;cherished
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,painting,beautiful;abstract;realistic;old;famous;colorful;detailed;vibrant;expressive;framed
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,ring,golden;silver;diamond;simple;elegant;antique;engraved;precious;wedding;ornate
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,statue,tall;marble;ancient;majestic;bronze;imposing;detailed;weathered;iconic;solemn
+grok-3,basic,1.0,DE # German,C2,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;ornate;ancient;floral;fragile;elegant;painted;cracked
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;low;drifting;stormy;thin;ominous;soft
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,earthquake,powerful;destructive;sudden;violent;terrifying;massive;unexpected;catastrophic;minor;deadly
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,fog,thick;dense;eerie;cold;mysterious;heavy;creeping;gray;blinding;silent
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;jagged;fierce;dangerous;powerful;blinding;dramatic;electric;vivid
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;sudden;cold;warm;gentle;torrential;refreshing;persistent
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;bright;rare;beautiful;arched;faint;magical;double;fleeting
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,snow,soft;white;heavy;light;fresh;powdery;cold;melting;thick;silent
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,storm,violent;fierce;powerful;dark;raging;sudden;dangerous;wild;intense;destructive
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rolling;distant;sudden;ominous;powerful;echoing;startling
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;relentless;powerful;calm;dangerous;shifting
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;fiery;ancient;erupting;towering;destructive;smoky
+grok-3,basic,1.0,DE # German,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;gusty;howling;fierce;constant;brisk;biting
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;ripe;fresh;tart;shiny;round
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;curved;fresh;peeled;tropical;mushy;bruised
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,beef,tender;juicy;grilled;raw;lean;fatty;fresh;cooked;rare;seasoned
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,bread,fresh;warm;crusty;soft;white;brown;stale;sliced;homemade;toasted
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,broccoli,green;fresh;tender;steamed;raw;healthy;crisp;small;large;organic
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,cheese,creamy;sharp;melted;aged;soft;hard;yellow;white;pungent;mild
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,chicken,grilled;roasted;tender;juicy;fried;raw;spicy;lean;fresh;cooked
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,egg,boiled;fried;fresh;white;brown;scrambled;raw;soft;hard;cracked
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,fish,fresh;grilled;raw;smoked;oily;white;flaky;frozen;cooked;salted
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,pasta,al dente;soft;fresh;dry;long;short;creamy;spicy;homemade;boiled
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;cooked;raw;long-grain;short-grain;seasoned
+grok-3,basic,1.0,DE # German,C2,most frequent,Food Items,soup,hot;creamy;clear;thick;hearty;spicy;cold;homemade;savory;light
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,artist,talented;creative;innovative;famous;struggling;passionate;visionary;eccentric;skilled;inspired
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,athlete,strong;fast;dedicated;skilled;competitive;disciplined;fit;talented;determined;agile
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,chef,skilled;creative;famous;passionate;innovative;meticulous;experienced;busy;professional;talented
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,doctor,caring;skilled;experienced;dedicated;compassionate;busy;knowledgeable;trusted;patient;professional
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,engineer,innovative;skilled;brilliant;practical;creative;experienced;technical;precise;dedicated;analytical
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,farmer,hardworking;dedicated;experienced;rural;tough;skilled;patient;practical;independent;resourceful
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,lawyer,sharp;experienced;successful;cunning;dedicated;persuasive;tough;ethical;busy;knowledgeable
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,musician,talented;passionate;skilled;creative;famous;dedicated;versatile;expressive;gifted;inspired
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;knowledgeable;meticulous;pioneering;focused;intelligent
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,soldier,brave;disciplined;loyal;tough;dedicated;trained;courageous;resilient;strong;honorable
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,teacher,patient;inspiring;dedicated;knowledgeable;kind;strict;supportive;experienced;caring;passionate
+grok-3,basic,1.0,DE # German,C2,most frequent,Human Roles,writer,creative;talented;prolific;insightful;famous;dedicated;imaginative;skilled;thoughtful;expressive
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,book,old;new;thick;thin;heavy;worn;interesting;engaging;leather-bound;paperback
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,bridge,old;sturdy;wooden;stone;long;narrow;modern;iconic;suspended;arched
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;large;small;tight;worn;powerful;tribal;polished;resonant
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,earth,vast;ancient;fertile;blue;green;sacred;fragile;rotating;rich;living
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,flute,delicate;silver;wooden;clear;melodic;small;ornate;ancient;soft;elegant
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,key,old;rusty;shiny;small;golden;heavy;intricate;vital;spare;brass
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,knife,sharp;dull;long;short;rusty;shiny;serrated;heavy;dangerous;useful
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,lock,sturdy;old;rusty;secure;broken;heavy;brass;small;intricate;reliable
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,moon,bright;full;crescent;pale;mysterious;distant;glowing;silver;round;serene
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,pen,black;blue;fine;cheap;elegant;leaking;old;smooth;heavy;plastic
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,sun,bright;hot;golden;blazing;warm;radiant;distant;setting;rising;powerful
+grok-3,basic,1.0,DE # German,C2,most frequent,Inanimate Objects,sword,sharp;heavy;ancient;rusty;ornate;deadly;legendary;polished;long;ceremonial
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,cat,fluffy;sleek;playful;lazy;curious;black;white;shy;affectionate;independent
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,dog,loyal;friendly;energetic;big;small;protective;playful;obedient;furry;loud
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;sleek;friendly;fast;graceful;curious;social;beautiful;wild
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,elephant,massive;gentle;gray;strong;wise;slow;majestic;powerful;wild;endangered
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,hamster,tiny;fluffy;cute;active;shy;small;furry;playful;nocturnal;cuddly
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,monkey,playful;clever;curious;small;agile;wild;noisy;social;mischievous;brown
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,mouse,tiny;quick;small;gray;shy;sneaky;quiet;cute;timid;fast
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,peacock,colorful;proud;beautiful;majestic;vibrant;ornate;striking;elegant;loud;exotic
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,rabbit,soft;cute;fast;white;fluffy;shy;small;timid;playful;hopping
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,shark,dangerous;sleek;powerful;fast;gray;deadly;fearsome;silent;predatory;massive
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,snake,slithery;dangerous;long;venomous;silent;green;coiled;creepy;thin;deadly
+grok-3,basic,1.0,DE # German,C2,most frequent,Neutral Animals,whale,massive;gentle;blue;huge;deep;migrating;powerful;majestic;endangered;slow
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,city,busy;large;modern;crowded;noisy;vibrant;historic;sprawling;urban;lively
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,desert,vast;dry;hot;sandy;empty;harsh;barren;remote;endless;arid
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,forest,dense;dark;green;ancient;quiet;mysterious;lush;vast;wild;thick
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,island,small;tropical;remote;beautiful;deserted;rocky;green;isolated;sandy;volcanic
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,lake,calm;deep;blue;clear;large;still;cold;serene;shimmering;peaceful
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,mountain,tall;steep;rocky;snow-capped;majestic;rugged;ancient;high;vast;imposing
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,ocean,vast;deep;blue;wild;endless;powerful;calm;mysterious;salty;turbulent
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,plain,vast;flat;open;grassy;wide;empty;barren;endless;fertile;quiet
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,plateau,high;flat;rocky;wide;barren;elevated;vast;remote;dry;rugged
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,river,long;wide;deep;flowing;calm;muddy;clear;winding;powerful;serene
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,valley,green;deep;narrow;fertile;quiet;beautiful;hidden;wide;lush;peaceful
+grok-3,basic,1.0,DE # German,C2,most frequent,Places,village,small;quiet;remote;charming;rural;friendly;traditional;peaceful;tiny;quaint
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,cactus,spiky;green;tall;small;dry;tough;prickly;desert;sturdy;resilient
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;large;small;firm;soft;bitter;ripe
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;small;large;blooming;wild;fresh
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,grass,green;soft;tall;short;wet;dry;lush;thick;fresh;dewy
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,lettuce,green;crisp;fresh;leafy;tender;raw;healthy;light;organic;crunchy
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,mushroom,small;brown;white;edible;poisonous;soft;wild;earthy;fresh;round
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,onion,sharp;pungent;white;red;raw;cooked;small;large;strong;sweet
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,pepper,spicy;red;green;hot;sweet;fresh;small;large;mild;roasted
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,potato,brown;starchy;large;small;raw;cooked;fresh;mashed;baked;firm
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,rose,red;pink;fragrant;beautiful;delicate;thorny;elegant;blooming;classic;vibrant
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,tomato,red;ripe;juicy;fresh;small;large;sweet;acidic;round;firm
+grok-3,basic,1.0,DE # German,C2,most frequent,Plants,tree,tall;old;green;sturdy;ancient;leafy;bare;thick;majestic;sprawling
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,ally,loyal;trusted;reliable;supportive;close;strong;valuable;dependable;friendly;strategic
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,brother,loving;protective;annoying;supportive;close;older;younger;loyal;funny;caring
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,enemy,dangerous;fierce;bitter;powerful;cunning;relentless;hidden;hated;formidable;sworn
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,father,caring;strict;loving;protective;wise;strong;supportive;kind;hardworking;patient
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,follower,loyal;dedicated;eager;supportive;faithful;enthusiastic;obedient;devoted;admiring;trusting
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,friend,close;loyal;funny;kind;supportive;trusted;old;new;dear;reliable
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,leader,strong;charismatic;wise;confident;inspiring;decisive;powerful;respected;visionary;bold
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,mother,loving;caring;strict;supportive;kind;nurturing;patient;strong;gentle;protective
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,partner,loving;supportive;reliable;equal;trusted;close;compatible;loyal;understanding;committed
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,rival,tough;fierce;competitive;strong;bitter;challenging;determined;formidable;cunning;persistent
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,sister,loving;annoying;supportive;close;protective;funny;caring;older;younger;sweet
+grok-3,basic,1.0,DE # German,C2,most frequent,Social Relationships,stranger,mysterious;unknown;friendly;suspicious;distant;quiet;odd;unfamiliar;curious;wary
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,above,high;lofty;elevated;superior;towering;overhead;distant;clear;bright;prominent
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,back,rear;hidden;distant;remote;behind;lower;unseen;supportive;strong;broad
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,below,lower;beneath;under;hidden;deep;inferior;submerged;underground;unseen;minor
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,east,distant;rising;far;oriental;remote;sunny;ancient;cultural;exotic;mystic
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,front,leading;forward;main;primary;visible;prominent;open;bold;central;exposed
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,inside,inner;hidden;private;secure;confined;cozy;secret;warm;enclosed;personal
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,left,remaining;abandoned;western;awkward;odd;spare;unused;lateral;opposite;stray
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,north,cold;distant;remote;upper;polar;harsh;wild;rugged;icy;northern
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,outside,external;open;exposed;outer;public;free;wild;distant;visible;fresh
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,right,correct;proper;eastern;just;fitting;accurate;moral;precise;suitable;lawful
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,south,warm;distant;lower;tropical;sunny;remote;southern;exotic;hot;vibrant
+grok-3,basic,1.0,DE # German,C2,most frequent,Spatial Concepts,west,far;setting;distant;wild;modern;western;remote;open;pioneering;progressive
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,century,past;new;old;specific;turning;historic;long;bygone;modern;memorable
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;cold;warm;memorable;ordinary;tiring
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,evening,quiet;cool;dark;peaceful;late;calm;romantic;pleasant;relaxing;serene
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;crucial;fleeting;precious;final
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,minute,quick;short;last;crucial;fleeting;precious;exact;tense;hurried;spare
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,month,long;short;cold;warm;busy;quiet;rainy;sunny;specific;memorable
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,morning,early;bright;cool;quiet;fresh;sunny;busy;calm;peaceful;misty
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,night,dark;long;quiet;late;cold;starry;peaceful;restless;silent;eerie
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,season,warm;cold;wet;dry;long;short;favorite;changing;festive;harsh
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,second,quick;brief;fleeting;crucial;last;spare;exact;precious;short;tense
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,week,long;short;busy;quiet;hectic;relaxing;memorable;stressful;ordinary;productive
+grok-3,basic,1.0,DE # German,C2,most frequent,Time Concepts,year,long;short;memorable;busy;successful;challenging;past;new;important;difficult
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,anger,intense;burning;fierce;uncontrollable;deep;raw;bitter;sudden;raging;suppressed
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,courage,brave;bold;fearless;heroic;daring;strong;resolute;admirable;unwavering;inspiring
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;chilling;constant;hidden;primal;intense;genuine
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,freedom,absolute;cherished;hard-won;personal;political;true;boundless;precious;liberating;essential
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,happiness,pure;genuine;lasting;immense;radiant;simple;unexpected;infectious;heartfelt;profound
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,hate,intense;bitter;deep;consuming;irrational;vicious;blind;unspoken;toxic;relentless
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,honesty,brutal;complete;refreshing;rare;admirable;strict;unwavering;sincere;absolute;consistent
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,justice,fair;impartial;swift;true;hard-fought;blind;necessary;moral;equal;deserved
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;practical;theoretical;hidden;valuable;ancient;specialized
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,love,unconditional;passionate;enduring;true;selfless;romantic;deep;tender;eternal;genuine
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,peace,lasting;inner;fragile;serene;quiet;global;hard-earned;calming;harmonious;precious
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Abstract Concepts,wisdom,timeless;profound;practical;ancient;insightful;hard-earned;deep;thoughtful;philosophical;invaluable
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;ringing;small;golden;antique;melodic;heavy;silver;ceremonial
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,candle,flickering;scented;tall;thin;white;melting;decorative;warm;soft;glowing
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;patterned;expensive;worn;plush;oriental;cozy;large
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;silver;gold;small;commemorative;valuable;ancient;worn
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ancient;ornate;ceremonial;majestic;symbolic;glittering
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;torn;historical;official;bold;iconic;bright
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,mask,mysterious;colorful;frightening;wooden;elaborate;tribal;hidden;painted;ceremonial;eerie
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,necklace,elegant;delicate;golden;beaded;expensive;simple;vintage;sparkling;long;intricate
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,painting,beautiful;abstract;realistic;old;famous;colorful;detailed;expressive;modern;vibrant
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,ring,golden;silver;diamond;simple;elegant;antique;engagement;precious;ornate;small
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,statue,tall;ancient;marble;bronze;imposing;detailed;historic;weathered;majestic;lifelike
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;ornate;antique;floral;fragile;colorful;elegant;slender
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;drifting;thick;ominous;light;gray;towering
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;terrifying;strong;destructive;unexpected;violent;massive;catastrophic
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;eerie;mysterious;cold;gray;heavy;obscuring;silent;creeping
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;fierce;dangerous;spectacular;jagged;powerful;electric;blinding;intense
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;gentle;torrential;cold;refreshing;constant;drizzling;warm
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,rainbow,vibrant;beautiful;colorful;fleeting;bright;magical;stunning;arched;rare;vivid
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,snow,soft;white;heavy;light;fluffy;cold;fresh;glistening;thick;powdery
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,storm,fierce;violent;powerful;raging;dark;dangerous;sudden;intense;destructive;ominous
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rumbling;distant;startling;powerful;menacing;rolling;deafening
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;relentless;calm;rising;unpredictable
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;majestic;dangerous;fiery;ancient;massive;smoking;towering
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;howling;fierce;gusty;constant;refreshing;biting
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;fresh;tart;shiny;small;firm
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;mushy;healthy
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,beef,tender;juicy;grilled;rare;lean;flavorful;tough;marinated;fresh;savory
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,bread,fresh;crusty;soft;warm;stale;wholegrain;sliced;homemade;white;toasted
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,broccoli,green;fresh;tender;healthy;steamed;crisp;raw;organic;vibrant;nutritious
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,cheese,creamy;sharp;aged;soft;hard;melted;tangy;mild;stinky;grated
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,chicken,roasted;grilled;tender;juicy;spicy;fried;lean;succulent;marinated;flavorful
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;raw;white;brown;large;organic;cracked
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,fish,fresh;grilled;raw;smoked;oily;flaky;tender;saltwater;freshwater;seasoned
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,pasta,al dente;fresh;homemade;creamy;spicy;cheesy;soft;long;short;savory
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;fragrant;long-grain;short-grain;seasoned;plain
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Food Items,soup,hot;creamy;hearty;clear;spicy;savory;homemade;thick;comforting;light
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,artist,talented;creative;famous;struggling;innovative;eccentric;visionary;skilled;contemporary;passionate
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,athlete,strong;fast;dedicated;competitive;skilled;muscular;agile;determined;disciplined;talented
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,chef,skilled;creative;famous;innovative;passionate;experienced;meticulous;gourmet;professional;talented
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,doctor,kind;skilled;experienced;dedicated;compassionate;knowledgeable;patient;trusted;busy;caring
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,engineer,innovative;skilled;brilliant;experienced;technical;creative;analytical;precise;dedicated;talented
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,farmer,hardworking;dedicated;experienced;rural;humble;skilled;patient;tough;traditional;resilient
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,lawyer,sharp;experienced;successful;aggressive;knowledgeable;persuasive;ethical;expensive;clever;dedicated
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,musician,talented;passionate;famous;skilled;creative;versatile;dedicated;charismatic;innovative;gifted
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;meticulous;knowledgeable;pioneering;focused;visionary
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;courageous;dedicated;tough;heroic;trained;resilient
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,teacher,kind;patient;inspiring;knowledgeable;dedicated;strict;supportive;caring;passionate;experienced
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Human Roles,writer,creative;talented;famous;prolific;insightful;imaginative;skilled;eloquent;passionate;dedicated
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;famous;hardcover;paperback;engaging
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,bridge,old;long;sturdy;wooden;steel;narrow;high;iconic;suspension;arched
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;deep;powerful;tribal;beaten;resonant;large;small;energetic
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,earth,vast;ancient;fertile;blue;fragile;living;rich;solid;sacred;bountiful
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,flute,delicate;wooden;silver;melodic;small;ancient;clear;soft;shrill;elegant
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,key,old;rusty;small;golden;silver;important;hidden;duplicate;heavy;ornate
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,knife,sharp;dull;long;short;rusty;dangerous;kitchen;pocket;serrated;steel
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,lock,secure;old;rusty;heavy;broken;strong;combination;small;intricate;antique
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,moon,full;crescent;bright;pale;distant;mysterious;glowing;silver;enchanting;serene
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,pen,black;blue;elegant;cheap;expensive;fountain;ballpoint;smooth;old;reliable
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,sun,bright;warm;golden;blazing;hot;radiant;shining;distant;powerful;life-giving
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;long;short;rusty;legendary;ceremonial;deadly;ornate
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,cat,fluffy;black;white;playful;lazy;curious;sleek;independent;friendly;cuddly
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;energetic;big;small;playful;protective;trained;furry;affectionate
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,dolphin,intelligent;friendly;sleek;playful;graceful;fast;social;curious;gentle;acrobatic
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,elephant,massive;gentle;gray;wise;strong;majestic;slow;intelligent;wrinkled;enormous
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,hamster,small;cute;fluffy;tiny;active;shy;cuddly;furry;nocturnal;playful
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,monkey,playful;curious;agile;clever;mischievous;social;wild;small;loud;energetic
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,mouse,small;tiny;gray;quick;shy;sneaky;cute;timid;quiet;fast
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;vibrant;majestic;stunning;ornate;exotic;elegant;flashy
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,rabbit,fluffy;white;small;cute;timid;fast;soft;playful;gentle;hopping
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,shark,dangerous;fierce;powerful;sleek;predatory;large;deadly;fast;gray;fearsome
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,snake,slithery;venomous;long;dangerous;silent;coiled;colorful;deadly;creepy;scaly
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Neutral Animals,whale,enormous;gentle;blue;massive;majestic;powerful;graceful;deep;migratory;singing
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,city,busy;crowded;modern;old;noisy;vibrant;large;industrial;cultural;bustling
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,desert,hot;dry;vast;arid;empty;sandy;harsh;lonely;barren;endless
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,forest,dense;green;dark;ancient;thick;quiet;mysterious;lush;wild;serene
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,island,small;tropical;remote;beautiful;isolated;rocky;green;sandy;exotic;uninhabited
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,lake,calm;clear;deep;blue;serene;cold;still;vast;reflective;freshwater
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,mountain,tall;snowy;rugged;majestic;steep;high;rocky;imposing;ancient;breathtaking
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,ocean,vast;deep;blue;endless;powerful;stormy;calm;mysterious;wild;salty
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,plain,flat;vast;open;grassy;wide;empty;barren;fertile;endless;quiet
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,plateau,high;flat;wide;barren;rocky;elevated;vast;remote;dry;expansive
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,river,long;wide;calm;rushing;deep;clear;winding;powerful;muddy;serene
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,valley,deep;green;narrow;wide;fertile;quiet;scenic;hidden;lush;peaceful
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Places,village,small;quiet;remote;charming;traditional;rural;peaceful;friendly;old;quaint
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,cactus,spiky;green;tall;desert;prickly;tough;dry;hardy;thorny;resilient
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,eggplant,purple;shiny;smooth;long;fresh;firm;tender;ripe;organic;healthy
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;small;vibrant;blooming;fresh;lovely
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,grass,green;soft;tall;short;lush;dry;fresh;thick;wild;dewy
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,lettuce,green;crisp;fresh;leafy;tender;healthy;light;organic;raw;crunchy
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,mushroom,small;brown;white;edible;poisonous;soft;earthy;wild;fresh;delicate
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,onion,strong;pungent;white;yellow;raw;sweet;sharp;fresh;small;peeled
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,pepper,spicy;hot;red;green;mild;fresh;dried;sweet;bold;fiery
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,potato,brown;starchy;firm;soft;large;small;fresh;baked;raw;versatile
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,rose,red;pink;fragrant;beautiful;delicate;thorny;elegant;romantic;blooming;soft
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;sweet;tangy;firm;soft;organic
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Plants,tree,tall;old;green;sturdy;leafy;ancient;bare;thick;towering;majestic
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,ally,loyal;trusted;reliable;supportive;close;dependable;strong;valuable;strategic;helpful
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,brother,loving;protective;annoying;supportive;close;older;younger;funny;loyal;caring
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,enemy,dangerous;fierce;bitter;hated;powerful;cunning;relentless;hostile;formidable;ruthless
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,father,loving;strict;supportive;caring;wise;protective;kind;strong;hardworking;patient
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;eager;supportive;obedient;enthusiastic;trusting;committed;faithful;devoted
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,friend,close;best;loyal;kind;funny;supportive;trustworthy;caring;reliable;old
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,leader,strong;inspiring;charismatic;decisive;confident;wise;bold;visionary;respected;authoritative
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;strict;protective;kind;patient;warm;selfless;supportive
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,partner,loving;supportive;reliable;equal;trusted;close;romantic;loyal;dependable;understanding
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,rival,fierce;competitive;tough;strong;determined;challenging;bitter;formidable;relentless;persistent
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,sister,loving;annoying;supportive;close;older;younger;funny;caring;protective;kind
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Social Relationships,stranger,unknown;mysterious;suspicious;friendly;distant;odd;unfamiliar;curious;quiet;unexpected
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,above,high;elevated;overhead;upper;lofty;superior;towering;aerial;raised;prominent
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,back,rear;hind;behind;posterior;reverse;distant;hidden;lower;trailing;secondary
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,below,lower;under;beneath;underneath;inferior;bottom;subterranean;deep;hidden;submerged
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,east,oriental;sunrise;far;distant;eastern;Asian;remote;cultural;exotic;ancient
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,front,forward;leading;first;anterior;primary;main;ahead;prominent;visible;central
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;private;deep;interior;central;confined;secret
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,left,west;opposite;remaining;spare;liberal;progressive;radical;sideways;lateral;port
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,north,cold;polar;upper;distant;arctic;remote;chilly;northern;wintry;frosty
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,outside,external;outer;exterior;public;open;distant;far;visible;surrounding;exposed
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,right,correct;east;proper;accurate;just;true;conservative;precise;starboard;fitting
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,south,warm;tropical;lower;southern;sunny;hot;exotic;distant;balmy;meridional
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Spatial Concepts,west,western;sunset;far;distant;modern;cowboy;remote;frontier;coastal;progressive
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,century,past;new;old;current;ancient;modern;long;significant;historical;memorable
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,day,sunny;rainy;long;short;busy;lazy;cold;warm;bright;gloomy
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,evening,quiet;cool;dark;late;peaceful;calm;relaxing;romantic;still;pleasant
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,hour,long;short;busy;quiet;late;early;precious;fleeting;critical;intense
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,minute,quick;short;fleeting;brief;precious;exact;crucial;tense;rushed;passing
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,month,long;short;busy;quiet;cold;warm;rainy;dry;significant;memorable
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,morning,early;bright;fresh;cool;quiet;sunny;calm;peaceful;crisp;dewy
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,night,dark;late;quiet;cold;starry;long;peaceful;silent;eerie;sleepless
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,season,rainy;dry;cold;hot;long;short;festive;harsh;mild;transitional
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,second,quick;brief;fleeting;short;critical;precise;fast;passing;instant;momentary
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,week,busy;long;short;quiet;hectic;productive;stressful;relaxing;eventful;memorable
+grok-3,basic,1.0,DE # German,Perfect,most frequent,Time Concepts,year,long;short;busy;eventful;memorable;successful;challenging;significant;past;new

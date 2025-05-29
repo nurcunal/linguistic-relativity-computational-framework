@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,anger,strong;big;bad;hot;quick;sudden;deep;great;blind;cold
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,courage,brave;true;great;big;small;new;old;quiet;personal;strong
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,fear,big;strong;great;sudden;deep;bad;cold;dark;real;intense
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,freedom,great;true;new;big;personal;strong;full;real;simple;open
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,happiness,great;big;true;real;simple;deep;strong;quick;personal;warm
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,hate,strong;deep;big;cold;blind;great;pure;old;new;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,honesty,true;full;simple;great;real;strong;pure;deep;personal;basic
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,justice,true;fair;great;strong;quick;blind;real;full;simple;basic
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,knowledge,great;deep;new;real;simple;strong;full;basic;personal;wide
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,love,great;true;deep;strong;pure;big;real;warm;new;blind
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,peace,great;true;quiet;deep;full;real;simple;strong;warm;new
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,wisdom,great;deep;true;old;simple;real;strong;full;basic;quiet
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;soft;metal;round;simple;golden
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,candle,small;big;white;red;old;new;soft;warm;simple;long
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;soft;red;blue;clean;dirty;thick
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,coin,small;old;new;gold;silver;shiny;round;metal;dirty;heavy
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,crown,big;gold;old;new;royal;heavy;shiny;simple;beautiful;metal
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,flag,big;small;national;old;new;red;blue;green;simple;clean
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,mask,small;big;old;new;black;white;simple;funny;scary;protective
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,necklace,small;big;gold;silver;old;new;simple;beautiful;shiny;long
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,painting,big;small;old;new;beautiful;simple;colorful;dark;bright;famous
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,ring,small;big;gold;silver;old;new;simple;shiny;beautiful;heavy
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;metal;beautiful;tall;simple;famous
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;glass;beautiful;simple;colorful;tall;heavy
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,cloud,big;small;white;dark;fluffy;low;high;fast;slow;wet
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,earthquake,big;strong;sudden;dangerous;deep;bad;long;quick;rare;local
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,fog,thick;thin;cold;wet;heavy;light;low;dark;morning;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,lightning,fast;bright;strong;dangerous;sudden;white;quick;loud;rare;wild
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;quick;bad;fresh;morning;evening
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;rare;clear;full;simple;natural
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,snow,white;cold;deep;light;fresh;wet;soft;heavy;pure;beautiful
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,storm,strong;big;wild;dangerous;sudden;dark;loud;fast;cold;wet
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;scary;long;quick;bad;natural;wild
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,tide,high;low;strong;fast;calm;big;small;wet;daily;natural
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,volcano,big;active;dangerous;hot;old;new;tall;deep;rare;wild
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;fast;slow;fresh;dry;wet;steady
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,apple,red;green;big;small;fresh;sweet;juicy;ripe;hard;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,banana,yellow;big;small;ripe;sweet;fresh;soft;long;bad;green
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,beef,fresh;cooked;red;big;tough;tender;hot;cold;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,bread,fresh;soft;hard;white;brown;big;small;warm;hot;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,broccoli,green;fresh;big;small;healthy;cooked;raw;soft;hard;good
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;strong;mild;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,chicken,fresh;cooked;white;big;small;tender;juicy;hot;cold;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,egg,fresh;big;small;white;brown;hard;soft;boiled;raw;good
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,fish,fresh;big;small;silver;cooked;raw;tasty;cold;wet;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,pasta,hot;cold;cooked;fresh;dry;soft;long;short;tasty;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,rice,white;cooked;dry;soft;hot;cold;fresh;long;short;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,soup,hot;cold;fresh;thick;thin;tasty;simple;vegetable;chicken;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,artist,great;young;old;talented;creative;famous;good;bad;local;new
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,athlete,strong;fast;young;old;good;bad;professional;famous;skilled;big
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,chef,great;young;old;skilled;famous;good;bad;creative;busy;local
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,doctor,good;bad;young;old;skilled;busy;local;professional;kind;experienced
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,engineer,skilled;young;old;good;bad;professional;creative;busy;local;smart
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,farmer,hard-working;young;old;local;good;bad;simple;busy;strong;experienced
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,lawyer,good;bad;young;old;skilled;professional;busy;famous;smart;local
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,musician,great;young;old;talented;famous;good;bad;creative;skilled;local
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,scientist,smart;young;old;good;bad;professional;creative;famous;skilled;busy
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,soldier,strong;brave;young;old;good;bad;trained;professional;local
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,teacher,good;bad;young;old;kind;experienced;professional;local;creative;patient
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,writer,great;young;old;famous;good;bad;creative;skilled;local;talented
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,book,big;small;old;new;interesting;boring;thick;thin;colorful;good
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,bridge,big;old;new;strong;high;long;metal;wooden;simple;beautiful
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,drums,big;small;loud;soft;old;new;wooden;metal;simple;good
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,earth,big;round;green;blue;old;beautiful;warm;cold;dry;wet
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,flute,small;long;wooden;metal;old;new;simple;sweet;loud;soft
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,key,small;metal;old;new;simple;shiny;broken;good;bad;spare
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,knife,sharp;dull;small;big;metal;old;new;simple;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,lock,small;big;old;new;metal;strong;simple;broken;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,moon,big;small;bright;full;dark;beautiful;cold;old;new;round
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,pen,small;black;blue;red;old;new;simple;good;bad;cheap
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,sun,big;bright;hot;yellow;warm;beautiful;strong;old;new;daily
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,sword,sharp;big;small;old;new;metal;strong;simple;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,cat,small;big;black;white;wild;tame;friendly;lazy;fast;good
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,dog,big;small;friendly;wild;fast;slow;loyal;good;bad;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,dolphin,big;small;smart;fast;wild;friendly;beautiful;good;rare;playful
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,elephant,big;gray;strong;wild;tame;slow;friendly;old;young;good
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,hamster,small;cute;fast;friendly;wild;tame;brown;white;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,monkey,small;big;smart;fast;wild;friendly;noisy;playful;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,mouse,small;gray;fast;wild;tame;quiet;smart;good;bad;common
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,peacock,big;beautiful;colorful;wild;tame;noisy;proud;good;rare;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,rabbit,small;white;fast;wild;tame;cute;friendly;good;bad;young
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,shark,big;dangerous;fast;wild;gray;strong;scary;good;bad;rare
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,snake,long;small;dangerous;wild;tame;green;black;fast;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,whale,big;huge;wild;friendly;gray;fast;slow;good;rare;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,city,big;small;busy;old;new;beautiful;dirty;clean;modern;historic
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,desert,big;dry;hot;sandy;empty;wild;beautiful;harsh;vast;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,forest,big;green;dense;wild;beautiful;dark;quiet;old;new;wet
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,island,small;big;beautiful;tropical;wild;empty;green;old;new;remote
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,lake,big;small;blue;deep;calm;wild;beautiful;cold;fresh;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,mountain,big;high;tall;green;snowy;beautiful;old;wild;steep;rocky
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,ocean,big;deep;blue;wild;beautiful;cold;warm;vast;salty;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,plain,flat;big;green;dry;wild;beautiful;empty;vast;simple;open
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,plateau,high;flat;big;rocky;dry;wild;beautiful;vast;simple;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,river,big;small;long;deep;clean;dirty;wild;beautiful;fast;slow
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,valley,deep;green;beautiful;wide;narrow;wild;quiet;old;simple;fertile
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,village,small;old;quiet;beautiful;simple;rural;green;clean;friendly;historic
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,cactus,big;small;green;spiky;wild;dry;simple;old;new;tough
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,eggplant,purple;big;small;fresh;soft;raw;cooked;good;bad;shiny
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,flower,beautiful;small;big;red;yellow;fresh;wild;simple;good;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,grass,green;long;short;fresh;dry;soft;wild;simple;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,lettuce,green;fresh;big;small;crisp;raw;healthy;good;bad;wet
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;cooked;raw;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,onion,big;small;white;red;fresh;strong;raw;cooked;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,pepper,red;green;big;small;fresh;hot;sweet;raw;cooked;good
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,potato,big;small;brown;fresh;cooked;raw;soft;hard;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,rose,red;beautiful;fresh;big;small;wild;simple;good;old;sweet
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,tomato,red;green;big;small;fresh;juicy;raw;cooked;good;bad
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,tree,big;small;green;old;new;tall;strong;wild;simple;beautiful
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,ally,strong;true;good;bad;close;new;old;reliable;helpful;faithful
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,brother,young;old;good;bad;strong;smart;helpful;funny;kind;reliable
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,enemy,strong;bad;dangerous;old;new;powerful;sneaky;fierce;hidden;real
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,father,old;young;good;bad;strong;kind;smart;busy;loving;reliable
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,follower,loyal;good;bad;strong;new;old;faithful;dedicated;helpful;active
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,friend,good;bad;close;new;old;loyal;helpful;funny;kind;reliable
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,leader,strong;good;bad;smart;new;old;powerful;fair;active;dedicated
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,mother,loving;old;young;good;bad;kind;busy;strong;caring;reliable
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,partner,good;bad;strong;reliable;new;old;helpful;active;close;loyal
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,rival,strong;tough;new;old;fierce;smart;dangerous;good;bad;competitive
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,sister,young;old;good;bad;kind;funny;smart;helpful;loyal;caring
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,stranger,unknown;new;old;dangerous;friendly;mysterious;odd;quiet;tall;short
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,above,high;clear;bright;blue;open;full;simple;strong;fast;quiet
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,back,strong;weak;straight;bent;old;new;clean;dirty;big;small
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,below,low;dark;deep;hidden;simple;quiet;cold;wet;empty;narrow
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,east,distant;sunny;warm;old;new;big;small;quiet;busy;green
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,front,big;small;clean;dirty;open;closed;simple;strong;new;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,inside,warm;cold;dark;bright;empty;full;safe;simple;clean;dirty
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,left,open;closed;empty;full;clean;dirty;simple;strong;new;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,north,cold;distant;wild;green;big;small;quiet;busy;old;new
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,outside,cold;warm;wet;dry;open;empty;full;simple;clean;dirty
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,right,correct;wrong;strong;weak;open;closed;simple;new;old;clean
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,south,warm;sunny;green;big;small;busy;quiet;old;new;distant
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,west,wild;distant;golden;big;small;quiet;busy;old;new;sunny
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,century,long;short;old;new;great;dark;golden;simple;full;important
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;quiet;good;bad;hot;cold
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,evening,quiet;long;short;cool;dark;beautiful;busy;simple;warm;cold
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;important;simple;early;late;full;empty
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,minute,short;long;quick;slow;important;simple;last;first;full;empty
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;new;old;full;simple
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,morning,early;fresh;cool;bright;busy;quiet;simple;good;bad;new
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,night,dark;long;short;quiet;cold;beautiful;busy;simple;warm;full
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;good;bad;simple;full
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,second,short;quick;last;first;important;simple;full;empty;new;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,week,long;short;busy;quiet;good;bad;full;simple;new;old
+grok-3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,year,long;short;good;bad;new;old;busy;quiet;full;simple
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;hot;raw;boiling;furious;bitter;controlled
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,courage,brave;strong;heroic;bold;great;inner;quiet;true;firm;daring
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,fear,deep;sudden;great;cold;dark;constant;hidden;sharp;real;growing
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,freedom,true;great;full;new;personal;basic;hard-won;simple;clear;total
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,happiness,true;great;simple;pure;lasting;inner;sudden;quiet;warm;shared
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,hate,deep;strong;blind;bitter;intense;cold;growing;pure;fierce;hidden
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,honesty,true;full;simple;clear;pure;basic;direct;natural;open;rare
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,justice,fair;true;blind;equal;quick;strong;basic;clear;natural;final
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,knowledge,deep;wide;basic;true;simple;useful;new;old;clear;hidden
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,love,true;deep;strong;pure;simple;warm;blind;lasting;sudden;shared
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,peace,true;deep;quiet;lasting;simple;inner;full;warm;clear;strong
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,wisdom,great;deep;old;true;simple;clear;inner;natural;rare;growing
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,bell,big;small;loud;old;new;metal;broken;shiny;ringing;antique
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,candle,small;big;lit;unlit;wax;scented;old;new;colorful;simple
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,carpet,soft;thick;old;new;colorful;woolen;dirty;clean;large;small
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,coin,old;new;shiny;dirty;small;rare;gold;silver;heavy;light
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,crown,golden;royal;heavy;old;new;simple;decorated;large;shining;broken
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,flag,national;old;new;colorful;torn;waving;small;large;red;blue
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,mask,funny;scary;old;new;colorful;wooden;plastic;simple;hidden;protective
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,necklace,beautiful;old;new;shiny;gold;silver;simple;colorful;heavy;light
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,painting,beautiful;old;new;colorful;large;small;famous;simple;detailed;abstract
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,ring,gold;silver;old;new;shiny;simple;decorated;small;large;broken
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,statue,large;small;old;new;stone;metal;broken;famous;simple;detailed
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,vase,beautiful;old;new;glass;ceramic;large;small;colorful;broken;simple
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;fluffy;fast-moving;rainy;high;low;gray
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,earthquake,strong;weak;sudden;destructive;deep;rare;dangerous;minor;major;shaking
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,fog,thick;thin;cold;wet;early;dense;light;morning;evening;gray
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,lightning,bright;fast;dangerous;sudden;powerful;forked;distant;close;white;blue
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;sudden;soft;hard;summer;winter
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,rainbow,beautiful;colorful;bright;rare;full;partial;clear;fading;high;low
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,snow,white;soft;heavy;light;cold;fresh;old;deep;falling;melting
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,storm,strong;weak;violent;sudden;rainy;windy;dark;fierce;long;short
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,thunder,loud;soft;sudden;distant;close;rolling;frightening;powerful;deep;long
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,tide,high;low;strong;weak;fast;slow;incoming;outgoing;dangerous;calm
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,volcano,active;dormant;big;small;dangerous;smoking;fiery;old;new;remote
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;fast;gentle;blowing;northern;southern;dry
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,apple,red;green;sweet;sour;fresh;ripe;unripe;big;small;juicy
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,banana,yellow;green;ripe;unripe;sweet;long;short;fresh;soft;firm
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,beef,fresh;cooked;raw;tender;tough;lean;fatty;red;ground;sliced
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,bread,fresh;old;soft;hard;white;brown;sliced;warm;toasted;plain
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;crisp;soft;big;small;organic;frozen
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;creamy;sharp;mild;sliced
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,chicken,fresh;cooked;raw;grilled;fried;roasted;white;dark;tender;tough
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,egg,fresh;old;white;brown;boiled;fried;raw;large;small;cracked
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,fish,fresh;cooked;raw;salty;fresh-water;sea;big;small;silver;colorful
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,pasta,cooked;raw;hot;cold;soft;firm;plain;seasoned;long;short
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;sticky;fluffy;plain;seasoned
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,soup,hot;cold;thick;thin;tasty;simple;vegetable;meat;creamy;clear
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,artist,talented;creative;young;old;famous;unknown;skilled;passionate;local;international
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,athlete,strong;fast;skilled;young;old;professional;amateur;dedicated;fit;competitive
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,chef,skilled;creative;young;old;famous;local;professional;passionate;quick;talented
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,doctor,skilled;caring;young;old;experienced;new;busy;helpful;professional;dedicated
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,engineer,skilled;creative;young;old;experienced;new;practical;innovative;professional;dedicated
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,farmer,hard-working;local;young;old;experienced;simple;dedicated;busy;skilled;traditional
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,lawyer,smart;experienced;young;old;professional;busy;helpful;strict;local;famous
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,musician,talented;creative;young;old;famous;skilled;passionate;local;professional;dedicated
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,scientist,smart;creative;young;old;experienced;dedicated;professional;innovative;curious;skilled
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,soldier,brave;strong;young;old;trained;dedicated;professional;loyal;experienced;heroic
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,teacher,good;patient;young;old;experienced;new;dedicated;helpful;strict;creative
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,writer,talented;creative;young;old;famous;skilled;passionate;local;dedicated;imaginative
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;colorful;simple;popular;educational
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,bridge,old;new;long;short;strong;weak;high;low;wooden;metal
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,drums,loud;big;small;wooden;metal;old;new;rhythmic;simple;colorful
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,earth,green;blue;round;big;old;fertile;dry;wet;warm;cold
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,flute,wooden;metal;old;new;small;simple;shiny;musical;light;sweet-sounding
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,key,small;big;metal;old;new;shiny;rusty;simple;locked;spare
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,knife,sharp;dull;small;big;metal;wooden;old;new;clean;dirty
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,lock,strong;weak;old;new;metal;simple;complex;broken;secure;rusty
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,moon,bright;full;new;old;round;distant;silver;beautiful;cold;mysterious
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,pen,black;blue;red;old;new;simple;fancy;working;broken;plastic
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,sun,bright;hot;yellow;big;warm;rising;setting;daily;powerful;distant
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,sword,sharp;old;new;metal;long;short;heavy;light;decorated;simple
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,cat,black;white;gray;small;big;wild;tame;friendly;lazy;active
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,dog,big;small;friendly;wild;loyal;active;lazy;trained;young;old
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,dolphin,smart;fast;playful;big;small;wild;friendly;gray;aquatic;jumping
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,elephant,big;gray;strong;wild;tame;old;young;gentle;heavy;intelligent
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,hamster,small;furry;cute;fast;active;wild;tame;brown;gray;playful
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,monkey,small;big;furry;wild;tame;clever;playful;active;brown;noisy
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,mouse,small;gray;fast;wild;tame;quiet;active;clever;furry;scared
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,peacock,colorful;beautiful;wild;tame;large;proud;noisy;bright;exotic;elegant
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,rabbit,white;brown;small;fast;wild;tame;furry;cute;active;quiet
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,shark,big;dangerous;fast;wild;gray;sharp-toothed;aquatic;powerful;scary;hungry
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,snake,long;short;dangerous;harmless;wild;tame;green;brown;slimy;quick
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,whale,big;huge;wild;gray;aquatic;singing;gentle;powerful;deep-diving;ancient
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,city,big;small;busy;quiet;modern;old;crowded;clean;dirty;beautiful
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,desert,dry;hot;vast;sandy;empty;remote;yellow;rocky;harsh;beautiful
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,forest,green;dense;wild;quiet;dark;old;fresh;large;wet;mysterious
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,island,small;big;tropical;remote;beautiful;green;sandy;isolated;volcanic;sunny
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,lake,blue;deep;shallow;calm;wild;fresh;large;small;clear;dirty
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,mountain,high;low;steep;green;snowy;rocky;beautiful;old;tall;dangerous
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;wide;cold;warm;mysterious
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,plain,flat;wide;green;dry;empty;open;vast;simple;fertile;windy
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,plateau,high;flat;rocky;wide;dry;green;remote;beautiful;old;steep
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,river,long;short;wide;narrow;deep;shallow;fast;slow;clean;dirty
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,valley,green;deep;narrow;wide;beautiful;fertile;remote;quiet;sunny;shady
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,village,small;quiet;old;new;rural;simple;friendly;remote;green;traditional
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,cactus,green;spiky;tall;short;dry;wild;hardy;simple;desert;flowering
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,eggplant,purple;green;fresh;cooked;round;long;soft;firm;tasty;raw
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,flower,beautiful;colorful;fresh;wild;tame;small;big;sweet-smelling;red;yellow
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,grass,green;fresh;dry;short;tall;soft;wild;wet;thick;thin
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,lettuce,green;fresh;crisp;raw;cooked;leafy;big;small;organic;wet
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,mushroom,small;big;white;brown;fresh;cooked;wild;tame;edible;poisonous
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,onion,white;red;yellow;fresh;cooked;strong-smelling;big;small;raw;sliced
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,pepper,red;green;hot;sweet;fresh;cooked;small;big;crunchy;spicy
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,potato,brown;white;fresh;cooked;big;small;raw;baked;mashed;firm
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,rose,red;white;beautiful;fresh;wild;tame;thorny;sweet-smelling;full;simple
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,tomato,red;green;fresh;ripe;unripe;juicy;small;big;raw;cooked
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,tree,tall;short;green;old;young;strong;weak;leafy;fruit-bearing;shady
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,ally,strong;faithful;reliable;new;old;helpful;close;distant;true;strategic
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,brother,young;old;caring;strict;funny;serious;helpful;loyal;smart;playful
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,enemy,dangerous;strong;weak;old;new;bitter;hidden;open;foreign;powerful
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,father,loving;strict;wise;young;old;caring;busy;helpful;strong;patient
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,follower,loyal;dedicated;faithful;new;old;active;quiet;strong;weak;passionate
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,friend,true;close;old;new;loyal;helpful;funny;smart;kind;reliable
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,leader,strong;wise;brave;young;old;respected;effective;popular;fair;inspiring
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,mother,loving;caring;strict;young;old;busy;helpful;wise;kind;patient
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,partner,reliable;supportive;new;old;helpful;loyal;smart;creative;strong;equal
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,rival,strong;weak;tough;smart;old;new;bitter;fair;hidden;open
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,sister,young;old;caring;funny;serious;helpful;loyal;smart;playful;kind
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,stranger,unknown;mysterious;friendly;dangerous;new;old;quiet;talkative;foreign;helpful
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,above,high;clear;bright;open;free;distant;safe;warm;cool;empty
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,back,strong;weak;straight;curved;injured;healthy;broad;narrow;sore;flexible
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,below,low;dark;hidden;deep;cool;wet;quiet;dangerous;empty;full
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,east,sunny;distant;rising;warm;coastal;rural;urban;flat;hilly;foreign
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,front,clear;open;busy;quiet;wide;narrow;clean;dirty;safe;exposed
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,inside,warm;cool;safe;hidden;dark;bright;empty;full;quiet;noisy
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,left,free;open;empty;full;dark;bright;high;low;clean;dirty
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,north,cold;windy;distant;wild;quiet;remote;green;snowy;flat;hilly
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,outside,cold;warm;wet;dry;open;free;noisy;quiet;bright;dark
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,right,correct;wrong;straight;curved;clear;open;full;empty;high;low
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,south,warm;sunny;distant;coastal;rural;urban;flat;green;dry;foreign
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,west,wild;distant;setting;cool;coastal;rural;urban;flat;hilly;foreign
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,century,long;short;past;future;golden;dark;important;forgotten;modern;ancient
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;quiet;warm;cold;clear;dark
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,evening,calm;cool;quiet;long;short;beautiful;dark;warm;relaxing;busy
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;golden;dark;final;first
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,minute,short;long;quick;slow;final;first;busy;quiet;important;simple
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;rainy;sunny;final;first
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,morning,fresh;early;bright;cool;quiet;busy;clear;foggy;warm;cold
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,night,dark;quiet;long;short;starry;stormy;cold;warm;peaceful;scary
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,season,long;short;warm;cold;rainy;sunny;beautiful;hard;green;dry
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,second,short;quick;final;first;important;simple;busy;quiet;last;next
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,week,long;short;busy;quiet;final;first;relaxing;tiring;full;empty
+grok-3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,year,long;short;good;bad;busy;quiet;new;old;final;starting
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;controlled;raw;simmering;explosive;righteous;suppressed
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,courage,brave;fearless;heroic;bold;strong;unwavering;quiet;inspiring;moral;steadfast
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,fear,overwhelming;sudden;deep;irrational;constant;hidden;primal;gripping;subtle;paralyzing
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,freedom,complete;true;absolute;personal;hard-won;basic;limitless;precious;fragile;new
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;sudden;inner;shared;fleeting;deep;everyday
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,hate,bitter;intense;deep;blind;growing;mutual;violent;silent;irrational;enduring
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,honesty,complete;straightforward;pure;rare;brutal;simple;unwavering;heartfelt;basic;refreshing
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,justice,fair;swift;blind;true;social;equal;harsh;moral;balanced;ultimate
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,knowledge,vast;deep;practical;secret;basic;ancient;useful;shared;limited;essential
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,love,true;deep;unconditional;passionate;pure;lasting;simple;forbidden;gentle;mutual
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,peace,lasting;quiet;inner;fragile;global;perfect;simple;deep;temporary;warm
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;rare;inner;timeless;simple;hard-earned;clear;universal
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,bell,loud;small;ringing;old;shiny;clear;metal;antique;simple;decorative
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,candle,lit;small;scented;tall;waxen;flickering;warm;decorative;simple;colorful
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,carpet,soft;large;patterned;thick;old;woolen;colorful;clean;warm;simple
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,coin,old;shiny;rare;small;metal;valuable;foreign;fake;ancient;heavy
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,crown,golden;royal;heavy;jeweled;ancient;symbolic;large;shining;ornate;simple
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,flag,national;waving;colorful;old;symbolic;large;torn;proud;simple;foreign
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,mask,mysterious;colorful;protective;old;decorative;simple;scary;traditional;shiny;small
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,necklace,shiny;gold;long;decorative;simple;beaded;elegant;old;colorful;light
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,painting,beautiful;old;large;colorful;abstract;famous;simple;modern;detailed;artistic
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,ring,shiny;gold;small;decorative;simple;ancient;valuable;engraved;heavy;elegant
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,statue,tall;stone;ancient;impressive;simple;bronze;detailed;old;symbolic;large
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;decorative;simple;colorful;old;elegant;glass;narrow
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,cloud,fluffy;white;dark;high;drifting;stormy;light;fast-moving;low;thick
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,earthquake,strong;sudden;destructive;minor;deep;violent;rare;local;powerful;shaking
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,fog,thick;dense;morning;chilly;mysterious;light;rolling;damp;early;persistent
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,lightning,bright;fast;striking;dangerous;forked;sudden;powerful;distant;electrical;dramatic
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;warm;pouring;gentle;seasonal;sudden;refreshing
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;fleeting;double;vivid;arched;clear;rare;magical
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,snow,white;fresh;deep;light;fluffy;cold;falling;wet;powdery;heavy
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,storm,violent;fierce;sudden;brewing;wild;massive;tropical;noisy;strong;dark
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;crashing;sudden;powerful;echoing;deep;frightening;rolling
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,tide,high;low;rising;strong;incoming;outgoing;calm;rough;daily;powerful
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;explosive;ancient;smoking;fiery;tall;threatening
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;northern;southern;light
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,apple,red;fresh;juicy;ripe;sweet;green;crisp;small;sour;organic
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,banana,yellow;ripe;fresh;long;sweet;green;soft;peeled;tropical;firm
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,beef,fresh;tender;grilled;lean;cooked;raw;ground;juicy;spicy;organic
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,bread,fresh;warm;soft;sliced;whole-grain;crusty;toasted;white;homemade;sweet
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,broccoli,fresh;green;crisp;steamed;raw;organic;tender;frozen;healthy;boiled
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,cheese,soft;sharp;creamy;aged;melted;hard;grated;mild;sliced;fresh
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,chicken,grilled;fresh;roasted;fried;tender;organic;raw;spiced;boneless;juicy
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,egg,fresh;boiled;fried;raw;large;brown;cracked;organic;scrambled;soft
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,fish,fresh;grilled;fried;wild;salted;smoked;small;big;caught;tasty
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,pasta,cooked;hot;sauced;dry;fresh;Italian;soft;twisted;colorful;simple
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,rice,cooked;white;steamed;brown;hot;fluffy;sticky;dry;organic;spiced
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,soup,hot;creamy;vegetable;thick;clear;spicy;homemade;cold;hearty;simple
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,artist,talented;creative;famous;young;skilled;inspired;dedicated;modern;passionate;original
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,athlete,strong;fast;skilled;professional;young;dedicated;competitive;fit;energetic;successful
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,chef,skilled;creative;famous;busy;talented;professional;innovative;experienced;passionate;young
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,doctor,skilled;experienced;caring;busy;professional;young;dedicated;respected;knowledgeable;reliable
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,engineer,skilled;innovative;experienced;creative;professional;young;dedicated;practical;talented;reliable
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,farmer,hardworking;experienced;local;dedicated;skilled;rural;young;practical;knowledgeable;independent
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,lawyer,skilled;experienced;professional;busy;respected;dedicated;sharp;young;knowledgeable;successful
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,musician,talented;skilled;famous;young;passionate;creative;dedicated;professional;energetic;original
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,scientist,brilliant;dedicated;experienced;innovative;young;knowledgeable;creative;professional;curious;successful
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,soldier,brave;trained;strong;dedicated;young;experienced;disciplined;loyal;skilled;courageous
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,teacher,dedicated;experienced;patient;skilled;young;inspiring;knowledgeable;professional;caring;creative
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,writer,talented;creative;famous;dedicated;young;skilled;imaginative;professional;passionate;original
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,book,old;new;thick;interesting;colorful;popular;fictional;educational;hardback;short
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,bridge,long;old;strong;wooden;modern;high;simple;metal;busy;ancient
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,drums,loud;wooden;rhythmic;large;small;traditional;modern;shiny;beating;simple
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,earth,green;vast;fertile;dry;spinning;ancient;blue;solid;flat;rich
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,flute,wooden;sweet-sounding;small;ancient;shiny;simple;modern;melodic;light;traditional
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,key,small;metal;old;shiny;rusty;simple;locked;modern;spare;heavy
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,knife,sharp;metal;old;small;useful;rusty;clean;simple;kitchen;dangerous
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,lock,strong;metal;old;simple;electronic;secure;broken;modern;small;rusty
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,moon,bright;full;crescent;distant;glowing;silver;dark;visible;nightly;mysterious
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,pen,black;smooth;old;cheap;fine;colorful;simple;modern;writing;broken
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;warm;daily;powerful;summer;distant
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;shiny;long;metal;decorative;simple;deadly;royal
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,cat,black;fluffy;playful;wild;small;lazy;cute;fast;domestic;mysterious
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,dog,loyal;big;small;friendly;wild;playful;trained;cute;fast;barking
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;fast;graceful;marine;social;large;jumping;curious
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,elephant,large;gray;wild;strong;gentle;intelligent;heavy;ancient;roaming;majestic
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,hamster,small;furry;playful;cute;fast;domestic;active;tiny;nocturnal;friendly
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,monkey,playful;wild;clever;small;noisy;fast;tree-dwelling;curious;brown;social
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,mouse,small;gray;fast;shy;wild;domestic;quiet;tiny;clever;nocturnal
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,peacock,colorful;proud;wild;large;beautiful;showy;exotic;graceful;feathered;royal
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,rabbit,white;fast;fluffy;wild;small;cute;jumping;domestic;brown;active
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,shark,dangerous;large;fast;wild;gray;predatory;deep-sea;powerful;sharp-toothed;solitary
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,snake,long;poisonous;wild;slippery;colorful;small;dangerous;coiled;fast-moving;silent
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,whale,massive;blue;wild;gentle;deep-diving;singing;endangered;graceful;ancient;ocean-dwelling
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,city,busy;large;modern;old;crowded;clean;historic;noisy;beautiful;industrial
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,desert,dry;vast;sandy;hot;empty;remote;golden;harsh;windy;silent
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,forest,dense;green;ancient;dark;wild;quiet;vast;cool;leafy;mysterious
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,island,tropical;small;remote;beautiful;sandy;volcanic;green;deserted;rocky;sunny
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,lake,deep;clear;frozen;large;calm;blue;fresh;hidden;scenic;peaceful
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,mountain,tall;snowy;rugged;high;green;ancient;steep;rocky;majestic;distant
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;cold;mysterious;powerful
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,plain,flat;vast;green;dry;open;fertile;windy;empty;grassy;rolling
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,plateau,high;flat;rocky;vast;dry;elevated;green;ancient;remote;scenic
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,river,wide;deep;flowing;clean;muddy;fast;winding;ancient;blue;peaceful
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,valley,deep;green;narrow;fertile;scenic;hidden;dry;beautiful;winding;peaceful
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,village,small;quiet;rural;ancient;simple;peaceful;traditional;green;remote;charming
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,cactus,spiky;tall;green;desert;hardy;small;flowering;dry;wild;prickly
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,eggplant,purple;fresh;large;ripe;smooth;organic;cooked;shiny;bitter;firm
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,flower,beautiful;colorful;fresh;wild;small;blooming;fragrant;red;delicate;garden
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,grass,green;soft;tall;wet;dry;wild;short;fresh;thick;lawn
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,lettuce,fresh;green;crisp;leafy;organic;raw;salad;tender;washed;crunchy
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,mushroom,wild;fresh;small;edible;poisonous;brown;organic;dried;soft;forest
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,onion,fresh;white;strong-smelling;raw;sliced;organic;large;sweet;dried;crunchy
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,pepper,red;fresh;spicy;green;hot;sliced;organic;sweet;dried;crunchy
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,potato,fresh;large;baked;raw;organic;small;boiled;peeled;sweet;firm
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,rose,red;beautiful;fragrant;wild;fresh;thorny;blooming;garden;white;delicate
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,tomato,red;fresh;ripe;juicy;organic;raw;sliced;small;sweet;firm
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,tree,tall;green;old;fruit-bearing;shady;ancient;young;leafy;strong;bare
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,ally,strong;loyal;reliable;helpful;close;strategic;faithful;trusted;supportive;important
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,brother,older;younger;loving;protective;playful;caring;supportive;funny;strong;close
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,enemy,dangerous;powerful;bitter;sworn;hidden;foreign;fierce;old;relentless;threatening
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,father,loving;strict;wise;hardworking;supportive;proud;kind;strong;caring;absent
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,follower,loyal;devoted;faithful;dedicated;blind;enthusiastic;strong;simple;committed;active
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,friend,true;close;loyal;fun;helpful;old;new;trustworthy;caring;reliable
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,leader,strong;wise;charismatic;effective;inspiring;bold;respected;young;experienced;decisive
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,mother,loving;caring;protective;busy;wise;supportive;kind;strong;dedicated;gentle
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,partner,reliable;equal;supportive;business;life;trusted;close;creative;committed;loyal
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,rival,fierce;strong;competitive;bitter;equal;skilled;old;new;challenging;dangerous
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,sister,younger;older;loving;playful;caring;supportive;funny;close;strong;protective
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,stranger,mysterious;unknown;dangerous;friendly;passing;foreign;odd;helpful;suspicious;wandering
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,above,high;clear;distant;bright;visible;open;safe;empty;vast;blue
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,back,hidden;rear;strong;old;dark;quiet;secret;simple;covered;low
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,below,deep;hidden;dark;low;submerged;quiet;cold;secret;vast;underground
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,east,distant;rising;sunny;far;ancient;coastal;windy;mysterious;flat;green
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,front,open;clear;busy;wide;main;visible;clean;simple;facing;strong
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,inside,warm;hidden;safe;dark;quiet;cozy;empty;bright;secret;protected
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,left,free;open;weak;hidden;simple;dark;quiet;unused;small;side
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,north,cold;distant;windy;frozen;remote;wild;high;ancient;green;vast
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,outside,fresh;open;cold;bright;empty;noisy;wet;dark;safe;vast
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,right,correct;strong;direct;clear;proper;immediate;absolute;straightforward;true;just
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,south,warm;sunny;distant;coastal;flat;green;humid;ancient;windy;fertile
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,west,wild;distant;sunset;dry;rugged;ancient;golden;windy;remote;vast
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,century,past;recent;long;golden;dark;modern;ancient;peaceful;turbulent;progressive
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,day,long;sunny;busy;short;clear;rainy;ordinary;special;warm;cold
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,evening,calm;cool;quiet;long;dark;relaxing;beautiful;early;late;peaceful
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;golden;dark;final;waiting
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,minute,short;final;waiting;quick;long;precise;exact;passing;silent;tense
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;festive;dry;rainy;final
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,morning,fresh;early;bright;cool;quiet;busy;foggy;sunny;crisp;new
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;mysterious;peaceful;late;windy;endless
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,season,warm;cold;wet;dry;festive;harsh;mild;long;short;changing
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,second,short;final;quick;last;precise;waiting;tense;passing;simple;exact
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,week,long;short;busy;quiet;final;starting;ending;productive;relaxing;full
+grok-3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,year,long;short;busy;productive;new;past;final;challenging;successful;quiet
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;simmering;explosive;quiet;righteous;suppressed
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,courage,brave;bold;heroic;unwavering;moral;physical;foolish;innate;tested;admirable
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,fear,overwhelming;primal;irrational;creeping;sudden;paralyzing;hidden;deep-seated;instinctive;chilling
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,freedom,absolute;limited;hard-won;personal;political;total;fleeting;precious;unrestricted;basic
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,happiness,pure;lasting;fleeting;genuine;overwhelming;quiet;shared;simple;radiant;inner
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,hate,bitter;intense;blind;deep-rooted;irrational;simmering;violent;personal;cold;destructive
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,honesty,brutal;refreshing;absolute;rare;straightforward;painful;genuine;unwavering;simple;heartfelt
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,justice,blind;swift;delayed;fair;harsh;poetic;social;ultimate;restorative;unequal
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,knowledge,vast;practical;theoretical;ancient;hidden;shared;basic;profound;useful;forbidden
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,love,unconditional;passionate;enduring;fleeting;deep;romantic;parental;selfless;youthful;platonic
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,peace,lasting;fragile;inner;global;temporary;quiet;hard-earned;spiritual;perfect;uneasy
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,wisdom,ancient;practical;profound;timeless;intuitive;hard-gained;simple;spiritual;everyday;shared
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,bell,loud;soft;ringing;ancient;shiny;broken;small;large;decorative;clear
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,candle,flickering;scented;tall;short;waxen;colorful;melted;warm;simple;elegant
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,carpet,soft;woven;colorful;thick;old;patterned;clean;dirty;large;oriental
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,coin,shiny;old;rare;gold;silver;fake;small;heavy;ancient;foreign
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ancient;simple;symbolic;ornate;broken;ceremonial
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,flag,national;colorful;waving;tattered;proud;symbolic;large;small;foreign;faded
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,mask,mysterious;protective;decorative;frightening;simple;elaborate;wooden;plastic;facial;hidden
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,necklace,shiny;pearl;gold;simple;elegant;heavy;antique;beaded;long;short
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,painting,beautiful;abstract;detailed;colorful;old;modern;realistic;framed;large;inspiring
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,ring,golden;diamond;simple;engraved;tight;loose;antique;wedding;signet;shiny
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,statue,grand;stone;bronze;ancient;lifelike;broken;tall;decorative;historical;imposing
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,vase,ornate;fragile;floral;ancient;glass;ceramic;tall;simple;decorative;colorful
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;drifting;white;stormy;high;low;thin;thick;wispy
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,earthquake,devastating;sudden;massive;minor;underground;destructive;rare;powerful;shallow;deep
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,fog,thick;mysterious;dense;morning;rolling;cold;damp;light;eerie;persistent
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;distant;dangerous;spectacular;electrical;quick;intense;striking
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;gentle;cold;warm;seasonal;relentless;refreshing
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,rainbow,vibrant;arched;colorful;fleeting;double;faint;spectacular;rare;beautiful;natural
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,snow,fresh;deep;fluffy;melting;white;heavy;light;frozen;powdery;wet
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,storm,violent;approaching;fierce;mild;tropical;winter;electrical;howling;destructive;sudden
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;crashing;ominous;brief;powerful;echoing;frightening;natural
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;gentle;coastal;daily;unpredictable;swift
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;explosive;smoking;ancient;dangerous;fiery;hidden;majestic
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,wind,strong;gentle;howling;cold;warm;gusty;steady;northern;southern;refreshing
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,apple,red;green;juicy;fresh;ripe;sour;sweet;small;large;organic
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,banana,yellow;ripe;green;peeled;sweet;long;curved;fresh;soft;exotic
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,beef,tender;grilled;lean;fatty;fresh;cooked;rare;ground;organic;tasty
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,bread,fresh;baked;soft;crusty;whole-wheat;sliced;warm;stale;homemade;white
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,broccoli,fresh;green;steamed;crunchy;organic;raw;boiled;healthy;large;tender
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,cheese,sharp;creamy;soft;hard;aged;melted;flavorful;fresh;grated;mild
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,chicken,roasted;grilled;fresh;organic;tender;spicy;fried;whole;boneless;free-range
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,egg,fresh;boiled;fried;large;small;organic;brown;white;cracked;runny
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,fish,fresh;grilled;smoked;wild;farmed;large;small;salty;flaky;oily
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,pasta,cooked;al dente;homemade;dry;cheesy;spicy;long;short;Italian;fresh
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,rice,steamed;white;brown;cooked;fluffy;sticky;long-grain;short-grain;wild;aromatic
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;spicy;thick;clear;homemade;flavorful;hearty
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,artist,talented;creative;dedicated;famous;struggling;innovative;skilled;passionate;young;established
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,athlete,strong;fast;dedicated;professional;Olympic;injured;young;skilled;competitive;fit
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,chef,skilled;famous;innovative;busy;experienced;young;passionate;professional;creative;talented
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,doctor,skilled;experienced;caring;busy;young;specialist;dedicated;professional;trustworthy;emergency
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,engineer,skilled;innovative;experienced;mechanical;creative;young;dedicated;professional;reliable;technical
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,farmer,hardworking;local;experienced;organic;rural;dedicated;young;skilled;traditional;independent
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,lawyer,sharp;experienced;corporate;defense;young;dedicated;professional;ethical;successful;criminal
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,musician,talented;famous;classical;rock;young;skilled;passionate;touring;innovative;dedicated
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,scientist,brilliant;dedicated;environmental;medical;young;innovative;professional;curious;experienced;theoretical
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,soldier,brave;trained;elite;young;veteran;disciplined;combat;loyal;active;heroic
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,teacher,dedicated;experienced;inspiring;young;patient;knowledgeable;creative;professional;strict;supportive
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,writer,talented;prolific;famous;young;creative;dedicated;fictional;journalistic;skilled;insightful
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;hardcover;paperback;educational;fictional
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,bridge,old;modern;long;short;sturdy;wooden;stone;high;low;iconic
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;wooden;electronic;small;large;traditional;modern;tuned;hand-held
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,earth,green;fertile;vast;dry;rocky;spinning;ancient;living;blue;stable
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,flute,wooden;silver;melodic;ancient;modern;small;polished;simple;handmade;sweet-sounding
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,key,small;metal;rusty;shiny;old;new;spare;secret;golden;locked
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,knife,sharp;dull;kitchen;pocket;old;new;rusty;clean;wooden-handled;steel
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,lock,old;new;rusty;secure;broken;electronic;simple;heavy;small;combination
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,moon,full;crescent;bright;dark;distant;waxing;waning;mysterious;silver;glowing
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,pen,black;blue;ink;fountain;ballpoint;old;new;cheap;expensive;smooth-writing
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;midday;warm;golden;distant;powerful;life-giving
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;light;ceremonial;battle-worn;steel;jeweled;long;short
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,cat,playful;lazy;black;white;furry;wild;domestic;curious;sleek;independent
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,dog,loyal;friendly;big;small;furry;trained;wild;energetic;protective;obedient
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;graceful;wild;trained;large;sleek;marine;social;fast
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,elephant,large;gray;wild;tame;intelligent;majestic;endangered;strong;gentle;trunked
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,hamster,small;furry;playful;cute;active;pet;wild;brown;nocturnal;quick
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,monkey,playful;agile;wild;tame;intelligent;noisy;furry;small;curious;mischievous
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,mouse,small;gray;quick;timid;wild;pet;sneaky;furry;nocturnal;common
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,peacock,colorful;proud;wild;tame;large;beautiful;exotic;feathered;majestic;noisy
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,rabbit,fluffy;quick;wild;pet;white;brown;cute;fast;timid;hopping
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,shark,dangerous;large;fast;predatory;oceanic;gray;sharp-toothed;solitary;powerful;ancient
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,snake,slithery;venomous;long;short;wild;tame;colorful;green;coiled;secretive
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,whale,massive;gentle;migratory;oceanic;endangered;blue;singing;deep-diving;intelligent;graceful
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,city,bustling;modern;ancient;large;small;crowded;clean;dirty;historic;vibrant
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,desert,vast;dry;sandy;hot;barren;remote;golden;windswept;harsh;endless
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,forest,dense;green;ancient;tropical;quiet;dark;lush;wild;peaceful;vast
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,island,tropical;remote;small;large;volcanic;sandy;isolated;beautiful;deserted;green
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,lake,calm;deep;shallow;frozen;clear;murky;large;small;scenic;freshwater
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,mountain,tall;snowy;rugged;ancient;green;steep;majestic;remote;volcanic;beautiful
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;mysterious;cold;warm
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,plain,flat;vast;grassy;dry;green;open;fertile;empty;rolling;expansive
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,plateau,high;flat;rocky;vast;elevated;barren;green;remote;scenic;ancient
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,river,wide;narrow;flowing;rapid;calm;muddy;clear;long;short;winding
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,valley,deep;green;fertile;narrow;wide;scenic;hidden;rural;beautiful;peaceful
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,village,small;quaint;rural;ancient;peaceful;bustling;coastal;mountain;fishing;farming
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,cactus,spiky;green;desert;tall;short;flowering;hardy;prickly;wild;exotic
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,eggplant,purple;fresh;shiny;large;small;cooked;raw;organic;soft;vegetable
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;wild;garden;red;yellow;blooming;delicate;exotic
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,grass,green;lush;short;tall;wet;dry;soft;wild;mowed;fresh
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,lettuce,fresh;green;crisp;leafy;organic;washed;raw;salad;small;healthy
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,mushroom,wild;edible;poisonous;small;large;fresh;dried;white;brown;fungi
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,onion,fresh;red;white;strong-smelling;raw;cooked;large;small;spicy;organic
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,pepper,red;green;hot;sweet;fresh;spicy;small;large;dried;flavorful
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,potato,fresh;baked;boiled;large;small;organic;starchy;raw;cooked;yellow
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,rose,red;beautiful;thorny;fragrant;wild;garden;blooming;delicate;white;pink
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,tomato,red;fresh;juicy;ripe;small;large;organic;raw;cooked;vine-ripened
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,tree,tall;green;ancient;fruit-bearing;leafy;bare;strong;shady;old;young
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,ally,trusted;powerful;secret;loyal;strong;foreign;reliable;helpful;strategic;close
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,brother,older;younger;loving;protective;annoying;supportive;twin;distant;kind;playful
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,enemy,dangerous;sworn;bitter;hidden;powerful;foreign;ruthless;old;cunning;declared
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,father,loving;strict;absent;supportive;hardworking;proud;young;elderly;wise;caring
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;mass;cult;political;religious;faithful;dedicated
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,friend,close;old;new;trustworthy;fun;supportive;childhood;best;reliable;distant
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,leader,strong;charismatic;effective;weak;inspiring;political;military;natural;elected;visionary
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,mother,loving;caring;strict;hardworking;protective;single;young;elderly;nurturing;devoted
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,partner,business;life;reliable;equal;supportive;creative;professional;romantic;trusted;committed
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,rival,fierce;strong;competitive;business;sports;bitter;equal;longstanding;clever;dangerous
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,sister,younger;older;loving;supportive;annoying;close;twin;distant;kind;playful
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,stranger,mysterious;dangerous;helpful;unknown;foreign;friendly;odd;passing;suspicious;wandering
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,above,high;elevated;superior;overhead;uppermost;clear;distant;floating;dominant;airy
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,back,rear;hidden;supporting;straight;curved;strong;weak;distant;covered;plain
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,below,low;underground;inferior;submerged;hidden;deep;dark;lesser;basic;sunken
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,east,rising;distant;eastern;sunny;coastal;ancient;modern;far;near;trade
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,front,main;forward;visible;leading;bold;direct;open;flat;protective;clean
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,inside,inner;hidden;cozy;secure;warm;deep;private;enclosed;secret;soft
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,left,western;remaining;abandoned;free;unused;open;hidden;sharp;blunt;quiet
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,north,cold;polar;northern;remote;windy;forested;vast;upper;extreme;frozen
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,outside,external;open;cold;warm;visible;exposed;fresh;distant;rural;urban
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,right,correct;eastern;proper;accurate;straight;moral;legal;sharp;blunt;true
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,south,warm;southern;tropical;coastal;distant;rural;vast;humid;far;near
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,west,wild;western;coastal;setting;distant;frontier;modern;vast;dry;sunny
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,century,past;future;golden;dark;recent;ancient;prosperous;turbulent;enlightened;lost
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;lazy;ordinary;special;working;festive
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,evening,cool;quiet;relaxing;long;short;starry;warm;festive;peaceful;dark
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,hour,early;late;final;golden;busy;quiet;waking;sleeping;productive;idle
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,minute,short;long;final;precious;fleeting;exact;waiting;ticking;quiet;busy
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,month,long;short;busy;quiet;festive;dark;warm;cold;final;starting
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,morning,fresh;early;bright;foggy;cool;busy;quiet;sunny;productive;lazy
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,night,dark;long;short;starry;cold;warm;sleepless;peaceful;mysterious;festive
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,season,long;short;wet;dry;festive;quiet;changing;mild;harsh;blooming
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,second,brief;final;extra;ticking;precise;waiting;quiet;busy;last;first
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,week,long;short;busy;quiet;final;starting;working;holiday;productive;relaxing
+grok-3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,year,new;old;long;short;prosperous;difficult;memorable;forgotten;leap;calendar
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;suppressed;righteous;boiling;fierce;uncontrollable
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,courage,great;true;moral;physical;heroic;bold;unwavering;quiet;foolish;innate
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,fear,deep;sudden;irrational;overwhelming;primal;constant;hidden;intense;unfounded;paralyzing
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,freedom,absolute;personal;true;limited;hard-won;basic;economic;political;spiritual;total
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;fleeting;deep;shared;inner;everyday;unexpected
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,hate,intense;blind;deep;bitter;racial;irrational;enduring;strong;mutual;passionate
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,honesty,complete;brutal;simple;absolute;straightforward;rare;refreshing;unwavering;basic;heartfelt
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,justice,social;true;blind;swift;divine;equal;fair;poetic;criminal;restorative
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;practical;secret;ancient;basic;scientific;general;personal;hidden
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,love,true;deep;unconditional;romantic;pure;enduring;passionate;selfless;forbidden;gentle
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,peace,inner;lasting;global;fragile;perfect;quiet;world;eternal;mental;true
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,wisdom,great;ancient;profound;practical;timeless;deep;worldly;simple;innate;shared
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,bell,loud;small;ringing;old;golden;church;hand;silver;antique;electronic
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,candle,lit;scented;tall;wax;flickering;white;birthday;long;colored;decorative
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,carpet,soft;woolen;red;thick;Persian;old;patterned;clean;large;synthetic
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,coin,old;rare;gold;shiny;ancient;foreign;silver;valuable;modern;counterfeit
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;heavy;symbolic;king's;ceremonial;sparkling;ornate
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,flag,national;waving;colorful;old;torn;proud;foreign;blue;symbolic;standard
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,mask,protective;facial;decorative;old;scary;painted;traditional;black;surgical;wooden
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,necklace,gold;pearl;simple;elegant;long;antique;beaded;silver;diamond;colorful
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,painting,beautiful;famous;abstract;oil;modern;landscape;portrait;vibrant;old;detailed
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,ring,gold;engagement;simple;diamond;old;silver;wedding;shiny;antique;decorative
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,statue,ancient;marble;bronze;tall;famous;stone;heroic;garden;modern;impressive
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,vase,glass;antique;decorative;tall;colorful;porcelain;floral;ceramic;broken;elegant
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;stormy;high;passing;gray;thin;billowing;low
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,earthquake,strong;devastating;minor;sudden;massive;underground;destructive;rare;shallow;powerful
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;morning;light;cold;mysterious;rolling;early;damp;heavy
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,lightning,bright;fast;striking;dangerous;forked;nighttime;electrical;sudden;vivid;powerful
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;cold;warm;seasonal;gentle;torrential;refreshing
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;faint;beautiful;arched;vibrant;rare;full;magical
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,snow,fresh;deep;light;falling;white;fluffy;heavy;powdery;wet;sparkling
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,storm,violent;fierce;approaching;massive;tropical;sudden;electrical;windy;severe;dark
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;explosive;crashing;sudden;rolling;frightening;heavy;ominous
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,tide,high;low;rising;strong;incoming;outgoing;powerful;daily;ebbing;calm
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;massive;explosive;smoking;ancient;dangerous;volcanic;fiery;tall
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;northern;easterly;fresh
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,apple,red;green;fresh;ripe;juicy;tart;sweet;small;organic;crisp
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,banana,yellow;ripe;fresh;peeled;sweet;small;green;organic;soft;curved
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,beef,fresh;grilled;lean;tender;ground;rare;cooked;organic;fatty;steak
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,bread,fresh;warm;sliced;white;whole-wheat;soft;crusty;homemade;toasted;stale
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,broccoli,fresh;green;steamed;raw;crisp;organic;frozen;boiled;tender;healthy
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,cheese,sharp;soft;hard;creamy;grated;fresh;aged;melted;yellow;flavorful
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,chicken,grilled;roasted;fresh;fried;organic;boneless;tender;spicy;whole;free-range
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;hard;soft;white;brown;cracked;raw;large
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,fish,fresh;grilled;fried;fresh-caught;salty;smoked;large;small;frozen;wild
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,pasta,cooked;fresh;al dente;homemade;dry;Italian;cheesy;sauced;long;twisted
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;long-grain;wild;hot;plain
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;thick;spicy;cold;hearty;clear;flavorful
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,artist,talented;creative;famous;young;skilled;visionary;local;dedicated;modern;inspiring
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,athlete,strong;fast;professional;dedicated;skilled;young;Olympic;competitive;fit;talented
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,chef,skilled;famous;creative;professional;young;talented;passionate;expert;local;innovative
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,doctor,skilled;experienced;caring;young;dedicated;professional;local;specialist;compassionate;busy
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,engineer,skilled;innovative;experienced;mechanical;young;dedicated;electrical;professional;talented;creative
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,farmer,hardworking;local;organic;experienced;young;dedicated;rural;skilled;family;sustainable
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,lawyer,skilled;experienced;corporate;young;dedicated;professional;local;criminal;successful;ethical
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,musician,talented;famous;young;skilled;classical;rock;dedicated;professional;creative;passionate
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,scientist,brilliant;dedicated;young;experienced;innovative;biological;skilled;professional;curious;leading
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,soldier,brave;trained;young;experienced;dedicated;elite;loyal;professional;combat;heroic
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,teacher,dedicated;experienced;young;inspiring;patient;skilled;professional;creative;local;knowledgeable
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,writer,talented;famous;young;skilled;creative;dedicated;prolific;mystery;professional;imaginative
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,book,old;new;thick;popular;hardcover;fictional;educational;small;classic;colorful
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,bridge,old;long;wooden;stone;modern;high;famous;sturdy;hanging;arched
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,drums,loud;wooden;rhythmic;small;large;electronic;traditional;professional;shiny;tribal
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,earth,blue;green;fertile;vast;dry;spinning;ancient;rocky;living;round
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;small;musical;ancient;modern;sweet-sounding;professional;shiny;handmade
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,key,small;metal;old;shiny;spare;brass;modern;locked;secret;golden
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,knife,sharp;small;kitchen;old;metal;pocket;rusty;clean;Swiss;deadly
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,lock,old;secure;metal;electronic;broken;simple;modern;keyed;sturdy;combination
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,moon,full;bright;waxing;waning;crescent;silver;distant;glowing;new;dark
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,pen,black;ink;ballpoint;old;new;fountain;colorful;cheap;elegant;broken
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;golden;midday;warm;distant;summer;burning
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;metal;long;shiny;royal;ceremonial;deadly;forged;wooden
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,cat,black;fluffy;playful;old;young;stray;domestic;wild;gray;striped
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,dog,loyal;big;small;friendly;trained;old;young;stray;barking;energetic
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;gray;wild;large;friendly;marine;jumping;fast;curious
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,elephant,large;gray;wild;tame;strong;old;young;majestic;African;intelligent
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,hamster,small;furry;playful;pet;brown;young;caged;active;cute;nocturnal
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,monkey,playful;wild;small;curious;brown;young;swinging;intelligent;noisy;agile
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,mouse,small;gray;timid;wild;pet;young;fast;squeaky;brown;clever
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,peacock,colorful;proud;wild;large;beautiful;male;exotic;feathered;royal;strutting
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,rabbit,white;fluffy;wild;small;pet;fast;young;hopping;cute;brown
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,shark,large;dangerous;gray;wild;fast;predatory;marine;fierce;great;solitary
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,snake,long;poisonous;wild;green;small;coiled;slippery;fast;deadly;patterned
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,whale,large;blue;wild;marine;singing;graceful;endangered;massive;deep-diving;gentle
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,city,busy;large;modern;old;crowded;beautiful;coastal;industrial;historic;vibrant
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,desert,hot;vast;sandy;dry;barren;remote;golden;windswept;harsh;endless
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,forest,dense;green;ancient;dark;tropical;quiet;vast;rainy;peaceful;wild
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,island,tropical;small;remote;beautiful;deserted;volcanic;sandy;green;large;rocky
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,lake,deep;blue;calm;frozen;large;clear;mountain;scenic;freshwater;shallow
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,mountain,high;snow-capped;rugged;tall;green;rocky;majestic;distant;volcanic;steep
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,ocean,vast;blue;deep;stormy;calm;salty;endless;tropical;cold;mysterious
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,plain,vast;flat;grassy;dry;fertile;open;endless;green;rolling;barren
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;green;ancient;scenic;remote
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,river,wide;deep;flowing;muddy;clear;long;fast;winding;scenic;frozen
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,valley,deep;green;fertile;narrow;wide;scenic;hidden;mountain;peaceful;lush
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,village,small;quiet;rural;ancient;coastal;fishing;mountain;peaceful;traditional;charming
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,cactus,spiky;green;tall;desert;small;flowering;prickly;hardy;wild;exotic
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,eggplant,purple;fresh;large;ripe;shiny;organic;cooked;round;dark;firm
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,flower,beautiful;red;blooming;wild;fragrant;yellow;small;garden;exotic;wilted
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,grass,green;tall;wet;dry;lush;wild;short;mowed;fresh;soft
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,lettuce,fresh;green;crisp;organic;leafy;raw;salad;washed;tender;wilted
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,mushroom,wild;fresh;edible;small;large;poisonous;white;cooked;forest;dried
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,onion,fresh;red;white;large;sweet;spicy;raw;chopped;organic;pungent
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,pepper,red;hot;fresh;green;spicy;sweet;sliced;dried;organic;crunchy
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,potato,fresh;large;small;baked;boiled;organic;raw;mashed;sweet;fried
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,rose,red;beautiful;fragrant;blooming;wild;thorny;white;garden;fresh;pink
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,tomato,red;fresh;ripe;juicy;small;organic;sliced;green;cherry;firm
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,tree,tall;green;old;fruit;shady;ancient;fallen;oak;young;leafy
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,ally,strong;reliable;faithful;strategic;true;powerful;trusted;key;loyal;international
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,brother,older;younger;loving;protective;twin;caring;distant;close;funny;supportive
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,enemy,sworn;dangerous;old;powerful;bitter;foreign;deadly;hidden;ruthless;common
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,father,loving;strict;proud;young;absent;supportive;hardworking;wise;caring;distant
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;blind;faithful;enthusiastic;strong;true;passive;active;cult
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,friend,close;true;old;loyal;new;best;trustworthy;fun;reliable;distant
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,leader,strong;charismatic;effective;wise;young;natural;inspiring;elected;powerful;visionary
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,mother,loving;caring;young;strict;single;protective;hardworking;devoted;wise;nurturing
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,partner,business;romantic;reliable;equal;trusted;long-term;professional;supportive;creative;committed
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,rival,fierce;strong;corporate;old;direct;bitter;competitive;personal;worthy;relentless
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,sister,younger;older;loving;protective;twin;caring;close;funny;supportive;distant
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,stranger,mysterious;unknown;dangerous;friendly;passing;tall;foreign;helpful;odd;silent
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,above,high;overhead;upper;superior;elevated;top;clear;bright;distant;vast
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,back,rear;hidden;old;strong;injured;straight;wooden;dark;distant;lower
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,below,low;underground;deep;hidden;inferior;dark;submerged;lower;quiet;vast
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,east,far;distant;rising;coastal;ancient;sunny;foreign;wide;hidden;mysterious
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,front,main;forward;open;busy;wide;leading;clear;direct;visible;strong
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,inside,inner;hidden;warm;dark;secure;deep;quiet;empty;spacious;cozy
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,left,far;abandoned;dark;forgotten;open;wild;empty;narrow;quiet;hidden
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,north,far;cold;polar;distant;rugged;ancient;wild;vast;frozen;mysterious
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,outside,outer;cold;bright;exposed;vast;open;noisy;wet;dark;fresh
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,right,correct;proper;true;accurate;moral;straight;exact;fitting;just;lawful
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,south,far;warm;tropical;distant;coastal;ancient;sunny;vast;hidden;exotic
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,west,wild;far;coastal;distant;ancient;sunny;vast;rugged;hidden;mysterious
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,century,past;new;long;dark;golden;modern;early;Victorian;recent;ancient
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,day,long;sunny;short;busy;clear;rainy;ordinary;special;warm;cold
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,evening,quiet;long;warm;cool;peaceful;late;romantic;golden;dark;relaxing
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,hour,long;short;early;late;final;busy;quiet;golden;dark;passing
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,minute,last;final;short;long;quiet;busy;golden;dark;passing;critical
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,month,long;short;busy;quiet;final;warm;cold;festive;dry;rainy
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,morning,early;fresh;bright;cool;foggy;sunny;quiet;busy;crisp;golden
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;moonlit;endless;peaceful;stormy;warm
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,season,long;short;warm;cold;dry;wet;festive;harsh;mild;changing
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,second,last;final;short;long;quiet;busy;golden;dark;passing;critical
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;final;warm;productive;relaxing;eventful;ordinary
+grok-3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,year,long;new;past;busy;quiet;final;productive;challenging;memorable;ordinary

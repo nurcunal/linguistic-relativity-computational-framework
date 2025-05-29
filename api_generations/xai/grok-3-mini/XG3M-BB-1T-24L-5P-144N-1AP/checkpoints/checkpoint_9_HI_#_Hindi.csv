@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,anger,hot;strong;sudden;deep;blind;quick;fierce;raw;intense;uncontrolled
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,courage,brave;strong;great;true;bold;fearless;heroic;steady;quiet;personal
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,fear,great;sudden;deep;strong;cold;dark;real;hidden;old;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,freedom,great;new;true;full;personal;strong;quick;easy;simple;open
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,happiness,great;true;full;real;simple;warm;bright;quiet;deep;strong
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,hate,strong;deep;blind;bitter;old;quick;cold;fierce;real;dark
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,honesty,true;full;simple;real;strong;quiet;great;clear;direct;fair
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,justice,fair;true;strong;quick;full;blind;great;clear;simple;real
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,knowledge,great;deep;true;new;strong;wide;simple;real;clear;full
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,love,true;deep;strong;great;pure;warm;real;quiet;simple;blind
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,peace,true;full;quiet;deep;strong;simple;warm;real;great;long
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,wisdom,great;deep;true;old;simple;strong;clear;quiet;real;wide
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;metal;broken;shiny;round;heavy
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,candle,small;big;old;new;bright;soft;warm;colored;tall;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;soft;colored;thick;clean;dirty;warm
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,coin,old;new;small;big;metal;shiny;broken;rare;gold;heavy
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,crown,big;small;old;new;gold;heavy;shiny;royal;broken;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;colored;high;strong;clean;dirty;national
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,mask,big;small;old;new;colored;scary;funny;soft;hard;broken
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,necklace,big;small;old;new;shiny;gold;colored;heavy;simple;broken
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,painting,big;small;old;new;colored;beautiful;simple;bright;dark;clean
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,ring,big;small;old;new;gold;shiny;heavy;simple;broken;colored
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;tall;broken;clean;dirty;strong
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;colored;broken;tall;simple;clean;glass
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,cloud,big;small;white;dark;high;soft;moving;thick;light;gray
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,earthquake,strong;big;sudden;deep;dangerous;real;old;quick;violent;rare
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,fog,thick;white;cold;heavy;deep;quiet;gray;soft;wet;dark
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,lightning,bright;fast;strong;sudden;dangerous;white;quick;real;wild;hot
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;quick;long;wet;soft;dark;steady
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,rainbow,bright;colorful;beautiful;big;high;clear;wet;rare;full;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;deep;fresh;heavy;light;wet;quiet;pure
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,storm,strong;big;wild;dark;quick;dangerous;loud;cold;wet;long
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;dangerous;real;wild;dark;quick;heavy
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,tide,high;low;strong;fast;deep;cold;wet;wild;quiet;full
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,volcano,big;old;active;dangerous;hot;deep;wild;strong;rare;tall
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,wind,strong;cold;hot;fast;light;wild;quiet;wet;dry;fresh
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,apple,red;green;big;small;fresh;sweet;juicy;hard;old;clean
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,banana,yellow;green;big;small;fresh;sweet;soft;long;ripe;clean
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,beef,fresh;cooked;red;tough;soft;big;hot;cold;dry;fatty
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,bread,fresh;old;soft;hard;white;brown;hot;cold;big;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,broccoli,green;fresh;big;small;cooked;raw;healthy;soft;hard;clean
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;tasty;cold;big;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,chicken,fresh;cooked;white;big;small;hot;cold;soft;tough;clean
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,egg,fresh;old;white;brown;big;small;cooked;raw;soft;hard
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,fish,fresh;cooked;big;small;silver;cold;tasty;wild;farmed;clean
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,pasta,cooked;dry;hot;cold;soft;long;short;simple;tasty;yellow
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,rice,white;cooked;dry;hot;cold;soft;long;short;clean;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Food Items,soup,hot;cold;tasty;thick;thin;fresh;simple;vegetable;meat;clear
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,artist,creative;young;old;talented;famous;quiet;busy;skilled;simple;happy
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,athlete,strong;fast;young;old;fit;skilled;famous;active;tall;quick
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,chef,great;young;old;skilled;busy;creative;famous;quick;clean;happy
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,doctor,good;young;old;skilled;busy;kind;famous;careful;smart;helpful
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,engineer,skilled;young;old;busy;creative;smart;careful;famous;strong;quick
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,farmer,hard-working;young;old;busy;strong;simple;kind;poor;rich;helpful
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,lawyer,smart;young;old;busy;skilled;careful;famous;honest;strong;quick
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,musician,talented;young;old;famous;busy;creative;happy;skilled;quiet;good
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,scientist,smart;young;old;busy;creative;careful;famous;skilled;curious;good
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,soldier,strong;brave;young;old;trained;skilled;loyal;quick;tough
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,teacher,good;young;old;kind;busy;skilled;helpful;patient;smart;creative
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,writer,creative;young;old;famous;busy;skilled;quiet;good;smart;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,book,old;new;big;small;thick;thin;interesting;boring;colored;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,bridge,big;old;new;strong;long;high;wooden;stone;broken;safe
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,drums,big;small;loud;old;new;wooden;shiny;broken;simple;heavy
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,earth,big;old;green;blue;beautiful;round;solid;wet;dry;rich
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,flute,small;old;new;wooden;shiny;light;simple;broken;sweet;long
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,key,small;old;new;metal;shiny;broken;simple;heavy;black;silver
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,knife,sharp;old;new;big;small;metal;shiny;broken;simple;clean
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,lock,old;new;big;small;metal;strong;broken;simple;shiny;heavy
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,moon,big;bright;old;full;new;white;round;cold;quiet;beautiful
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,pen,small;old;new;black;blue;cheap;expensive;broken;simple;shiny
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,sun,big;bright;hot;yellow;warm;strong;old;clear;beautiful;high
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,sword,sharp;old;new;big;small;metal;heavy;shiny;broken;strong
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,cat,small;black;white;wild;tame;old;young;lazy;fast;cute
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,dog,big;small;old;young;friendly;wild;fast;strong;loyal;smart
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,dolphin,big;small;smart;fast;wild;friendly;gray;playful;strong;deep
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,elephant,big;gray;strong;wild;tame;old;young;heavy;smart;slow
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,hamster,small;cute;fast;wild;tame;brown;white;young;old;active
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,monkey,small;wild;tame;smart;fast;brown;playful;young;old;noisy
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,mouse,small;gray;fast;wild;tame;quiet;young;old;smart;clean
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,peacock,big;colorful;wild;beautiful;proud;old;young;noisy;strong;fast
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,rabbit,small;white;fast;wild;tame;cute;young;old;soft;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,shark,big;gray;fast;wild;dangerous;strong;sharp;old;young;deep
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,snake,long;green;wild;dangerous;fast;quiet;old;young;smooth;strong
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,whale,big;gray;wild;strong;deep;old;young;fast;smart;gentle
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,city,big;old;new;busy;clean;dirty;beautiful;noisy;rich;poor
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,desert,big;hot;dry;sandy;wild;empty;yellow;quiet;old;dangerous
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,forest,big;green;wild;dark;quiet;deep;old;beautiful;wet;dry
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,island,small;big;green;beautiful;wild;quiet;old;sunny;wet;empty
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,lake,big;small;blue;deep;clear;quiet;cold;beautiful;wet;full
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,mountain,big;high;old;green;rocky;beautiful;cold;wild;strong;steep
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,ocean,big;deep;blue;cold;wild;beautiful;wet;strong;quiet;full
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,plain,big;flat;green;dry;empty;wild;beautiful;quiet;open;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,plateau,high;flat;big;rocky;dry;wild;beautiful;quiet;old;green
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,river,long;deep;blue;fast;quiet;beautiful;wet;wild;full;clean
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,valley,deep;green;beautiful;quiet;wild;wide;old;sunny;wet;empty
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Places,village,small;old;quiet;simple;green;beautiful;poor;rich;clean;dirty
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,cactus,big;small;green;spiky;dry;wild;old;strong;simple;tall
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,eggplant,big;small;purple;green;fresh;soft;hard;raw;cooked;shiny
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,flower,big;small;colorful;beautiful;fresh;wild;old;soft;sweet;red
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,grass,green;tall;short;wet;dry;soft;wild;fresh;thick;clean
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,lettuce,green;fresh;big;small;soft;raw;cooked;wet;clean;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,mushroom,small;big;white;brown;fresh;soft;wild;cooked;raw;wet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,onion,big;small;white;red;fresh;strong;raw;cooked;dry;clean
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,pepper,red;green;big;small;fresh;hot;sweet;raw;cooked;shiny
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,potato,big;small;brown;fresh;soft;hard;raw;cooked;clean;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,rose,red;big;small;beautiful;fresh;wild;soft;sweet;old;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,tomato,red;green;big;small;fresh;soft;hard;raw;cooked;juicy
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Plants,tree,big;small;green;old;tall;strong;wild;beautiful;dry;full
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,ally,strong;true;good;faithful;helpful;old;new;loyal;smart;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,brother,young;old;good;strong;helpful;kind;smart;loyal;funny;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,enemy,strong;bad;dangerous;old;new;smart;quick;fierce;hidden;real
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,father,old;young;strong;kind;smart;helpful;good;busy;loyal;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,follower,loyal;strong;faithful;young;old;quiet;helpful;smart;good;quick
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,friend,good;true;old;new;loyal;kind;funny;helpful;smart;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,leader,strong;good;smart;old;young;loyal;quick;helpful;famous;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,mother,kind;old;young;loving;helpful;smart;good;busy;loyal;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,partner,good;strong;loyal;smart;helpful;old;new;quick;faithful;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,rival,strong;smart;tough;old;new;quick;fierce;bad;real;hidden
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,sister,young;old;kind;smart;helpful;funny;loyal;good;quiet;busy
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,stranger,unknown;strange;new;quiet;dangerous;old;young;smart;helpful;real
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,above,high;bright;clear;blue;open;free;safe;warm;full;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,back,old;new;strong;weak;straight;curved;wide;narrow;clean;dirty
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,below,deep;dark;hidden;low;cold;quiet;wet;full;simple;real
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,east,far;sunny;warm;open;free;big;old;new;quiet;beautiful
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,front,big;small;open;clear;strong;new;old;clean;dirty;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,inside,warm;dark;quiet;safe;full;clean;dirty;big;small;hidden
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,left,free;open;strong;weak;big;small;clear;dark;quiet;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,north,cold;far;wild;open;free;big;old;new;quiet;beautiful
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,outside,cold;hot;open;free;dirty;clean;big;small;wild;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,right,true;strong;clear;big;small;free;open;quick;simple;good
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,south,warm;sunny;far;open;free;big;old;new;quiet;beautiful
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,west,far;wild;open;free;big;old;new;quiet;beautiful;sunny
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,century,long;old;new;great;full;quiet;simple;real;strong;clear
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,day,long;short;bright;dark;hot;cold;busy;quiet;full;simple
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,evening,long;short;dark;quiet;cool;beautiful;full;simple;warm;clear
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,hour,long;short;full;quiet;busy;simple;real;clear;strong;new
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,minute,short;long;quick;full;simple;real;clear;strong;new;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,month,long;short;full;busy;quiet;simple;real;clear;strong;new
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,morning,early;fresh;bright;cool;quiet;beautiful;full;simple;warm;clear
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,night,dark;long;quiet;cold;beautiful;full;simple;warm;clear;deep
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;full;simple;real;clear
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,second,short;quick;full;simple;real;clear;strong;new;quiet;fast
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,week,long;short;busy;quiet;full;simple;real;clear;strong;new
+grok-3-mini,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,year,long;short;new;old;full;busy;quiet;simple;real;clear
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,anger,strong;deep;sudden;intense;blind;hot;quick;raw;bitter;uncontrolled
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,courage,great;true;brave;strong;quiet;sudden;moral;inner;bold;rare
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,fear,great;deep;sudden;strong;dark;cold;real;hidden;basic;natural
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,freedom,full;true;great;personal;basic;total;open;new;hard;quick
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,happiness,great;pure;true;simple;deep;lasting;sudden;real;inner;common
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,hate,strong;deep;blind;pure;bitter;intense;cold;true;dark;quick
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,honesty,full;true;simple;basic;clear;deep;pure;real;direct;strong
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,justice,true;fair;social;quick;full;blind;natural;basic;strong;clear
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,knowledge,great;deep;basic;simple;true;wide;real;useful;new;common
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,love,true;deep;pure;strong;blind;great;simple;real;sudden;warm
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,peace,true;full;deep;quiet;inner;world;simple;lasting;real;warm
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,wisdom,great;deep;true;simple;ancient;inner;clear;natural;pure;common
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;soft;golden;silver;broken;clear
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,candle,small;big;old;new;lit;unlit;white;red;melted;simple
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,carpet,big;small;old;new;soft;hard;red;blue;dirty;clean
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;rare;common;shiny;dirty
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,crown,golden;royal;big;small;old;new;heavy;light;shiny;simple
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,flag,national;big;small;old;new;red;blue;torn;clean;proud
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,mask,black;white;old;new;simple;scary;full;half;plastic;wooden
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,necklace,gold;silver;big;small;old;new;shiny;broken;simple;beautiful
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,painting,big;small;old;new;beautiful;simple;colorful;dark;modern;famous
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,ring,gold;silver;small;big;old;new;shiny;broken;simple;valuable
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;metal;broken;tall;simple;famous
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;glass;ceramic;broken;colorful;simple;beautiful
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;fluffy;heavy;low;high;fast;slow
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,earthquake,strong;weak;sudden;major;minor;deep;shallow;dangerous;rare;common
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,fog,thick;thin;heavy;light;cold;wet;morning;evening;dense;soft
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,lightning,bright;fast;sudden;strong;weak;dangerous;rare;common;white;blue
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;sudden;long;short;fresh;wet
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,rainbow,bright;colorful;beautiful;full;short;wide;rare;common;natural;simple
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,snow,white;deep;light;heavy;cold;fresh;old;soft;hard;wet
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,storm,strong;weak;big;small;sudden;long;dangerous;wild;cold;warm
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,thunder,loud;soft;sudden;strong;weak;distant;close;scary;rare;common
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,tide,high;low;strong;weak;fast;slow;cold;warm;daily;natural
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,volcano,active;dead;big;small;dangerous;rare;common;hot;old;new
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;fast;slow;steady;gusty;dry;wet
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,apple,red;green;big;small;fresh;sweet;sour;ripe;unripe;juicy
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,banana,yellow;green;big;small;fresh;ripe;unripe;sweet;soft;hard
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,beef,fresh;cooked;raw;tender;tough;lean;fatty;red;hot;cold
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,bread,fresh;old;soft;hard;white;brown;hot;cold;simple;tasty
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;big;small;healthy;soft;hard;organic
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;tasty;strong;mild;creamy
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,chicken,fresh;cooked;raw;white;dark;tender;juicy;hot;cold;organic
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,egg,fresh;old;white;brown;small;big;cooked;raw;soft;hard
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,fish,fresh;cooked;raw;big;small;silver;colorful;wild;farmed;tasty
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,pasta,cooked;raw;hot;cold;soft;hard;simple;tasty;white;colored
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;fresh;sticky
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Food Items,soup,hot;cold;tasty;simple;thick;thin;fresh;old;red;white
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,artist,great;young;old;famous;talented;creative;skilled;poor;rich;local
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,athlete,great;young;old;fast;strong;skilled;famous;professional;amateur;fit
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,chef,great;young;old;skilled;famous;creative;busy;top;local;talented
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,doctor,good;bad;young;old;skilled;busy;local;hospital;family;specialist
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,engineer,skilled;young;old;good;bad;local;professional;creative;busy;top
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,farmer,hard-working;old;young;local;poor;rich;skilled;simple;organic;traditional
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,lawyer,good;bad;young;old;skilled;famous;busy;corporate;local;honest
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,musician,great;young;old;talented;famous;skilled;local;professional;creative;popular
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,scientist,great;young;old;skilled;famous;creative;local;professional;busy;top
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,soldier,brave;strong;young;old;trained;professional;local;skilled;loyal
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,teacher,good;bad;young;old;skilled;patient;local;school;famous;helpful
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,writer,great;young;old;famous;skilled;creative;local;popular;talented;busy
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,book,old;new;big;small;interesting;boring;thick;thin;hard;soft
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,bridge,old;new;big;small;strong;weak;high;low;wooden;metal
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,drums,big;small;old;new;loud;soft;wooden;metal;simple;broken
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,earth,big;round;green;blue;old;new;solid;liquid;hot;cold
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,flute,small;big;old;new;wooden;metal;simple;broken;clear;soft
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,key,small;big;old;new;metal;wooden;broken;simple;safe;main
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,knife,sharp;dull;small;big;old;new;metal;wooden;clean;dirty
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,lock,old;new;small;big;broken;strong;weak;metal;simple;safe
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,moon,full;new;bright;dark;big;small;white;yellow;distant;close
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,pen,small;big;old;new;black;blue;broken;simple;cheap;expensive
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,sun,bright;hot;big;small;yellow;red;distant;daily;strong;weak
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,sword,sharp;dull;old;new;big;small;metal;wooden;broken;strong
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,cat,black;white;small;big;wild;tame;lazy;active;young;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,dog,big;small;black;white;wild;tame;friendly;aggressive;young;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,dolphin,big;small;gray;black;wild;tame;fast;smart;playful;young
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,elephant,big;small;gray;wild;tame;strong;smart;old;young;rare
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,hamster,small;big;brown;white;wild;tame;active;lazy;young;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,monkey,small;big;brown;wild;tame;smart;playful;noisy;young;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,mouse,small;big;gray;white;wild;tame;fast;shy;young;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,peacock,big;small;colorful;wild;tame;beautiful;noisy;rare;young;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,rabbit,small;big;white;brown;wild;tame;fast;cute;young;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,shark,big;small;gray;dangerous;wild;fast;strong;rare;common;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,snake,long;short;green;black;wild;tame;dangerous;harmless;young;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,whale,big;small;gray;wild;huge;fast;rare;common;deep;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,city,big;small;old;new;busy;quiet;modern;ancient;clean;dirty
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,desert,hot;cold;big;small;dry;sandy;empty;vast;barren;wild
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,forest,green;big;small;dense;wild;quiet;dark;old;new;fresh
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,island,small;big;tropical;remote;beautiful;wild;green;sandy;rocky;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,lake,big;small;deep;shallow;blue;green;fresh;clean;wild;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,mountain,high;low;big;small;rocky;snowy;green;old;new;steep
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,ocean,big;deep;blue;green;wild;calm;cold;warm;vast;salty
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,plain,flat;big;small;green;dry;wild;quiet;open;vast;empty
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,plateau,high;flat;big;small;rocky;green;wild;dry;old;new
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,river,long;short;deep;shallow;fast;slow;clean;dirty;wild;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,valley,deep;wide;green;dry;beautiful;wild;quiet;narrow;long;short
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Places,village,small;big;old;new;quiet;busy;rural;simple;clean;dirty
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,cactus,green;spiky;big;small;wild;tame;dry;rare;common;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,eggplant,purple;green;big;small;fresh;cooked;soft;hard;tasty;healthy
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,flower,beautiful;colorful;big;small;wild;tame;fresh;old;red;white
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,grass,green;long;short;wild;tame;fresh;dry;soft;hard;thick
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,lettuce,green;fresh;big;small;crisp;soft;healthy;raw;cooked;organic
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,mushroom,small;big;white;brown;fresh;old;soft;hard;tasty;wild
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,onion,big;small;white;red;fresh;old;strong;mild;raw;cooked
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,pepper,red;green;big;small;fresh;hot;mild;raw;cooked;spicy
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,potato,big;small;white;brown;fresh;old;soft;hard;raw;cooked
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,rose,red;white;beautiful;big;small;fresh;old;wild;tame;thorny
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,tomato,red;green;big;small;fresh;ripe;unripe;juicy;raw;cooked
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Plants,tree,big;small;old;new;green;tall;short;wild;tame;strong
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,ally,strong;faithful;good;bad;old;new;true;false;close;distant
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,brother,young;old;good;bad;caring;selfish;big;small;true;false
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,enemy,strong;weak;old;new;dangerous;harmless;true;false;big;small
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,father,old;young;good;bad;caring;strict;wise;kind;busy;loving
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,follower,loyal;faithful;strong;weak;young;old;active;passive;true;false
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,friend,good;bad;true;false;old;new;close;distant;loyal;kind
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,leader,strong;weak;good;bad;wise;foolish;young;old;popular;unpopular
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,mother,loving;caring;young;old;good;bad;busy;kind;strict;wise
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,partner,good;bad;true;false;strong;weak;old;new;loyal;reliable
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,rival,strong;weak;old;new;dangerous;harmless;true;false;big;small
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,sister,young;old;good;bad;caring;selfish;big;small;true;kind
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,stranger,unknown;known;dangerous;harmless;old;young;friendly;unfriendly;tall;short
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,above,high;low;clear;dark;bright;simple;complex;direct;indirect;basic
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,back,old;new;strong;weak;straight;curved;clean;dirty;big;small
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,below,low;high;deep;shallow;dark;light;simple;complex;hidden;visible
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,east,far;near;sunny;windy;hot;cold;open;closed;big;small
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,front,big;small;clean;dirty;straight;curved;open;closed;new;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,inside,warm;cold;dark;light;safe;dangerous;simple;complex;empty;full
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,left,free;busy;strong;weak;open;closed;big;small;new;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,north,far;near;cold;warm;wild;tame;big;small;open;closed
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,outside,cold;warm;wet;dry;dark;light;safe;dangerous;empty;full
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,right,correct;wrong;strong;weak;free;busy;big;small;new;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,south,far;near;hot;cold;sunny;rainy;big;small;open;closed
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,west,far;near;windy;calm;dry;wet;big;small;open;closed
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,century,long;short;old;new;great;dark;golden;simple;complex;full
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,day,long;short;bright;dark;hot;cold;busy;quiet;new;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,evening,cool;warm;dark;light;quiet;busy;long;short;peaceful;active
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;full;empty;fast;slow
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,minute,short;long;quick;slow;last;first;full;empty;busy;quiet
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;full;empty;new;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,morning,fresh;early;bright;dark;cool;warm;busy;quiet;clear;foggy
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,night,dark;light;long;short;cold;warm;quiet;noisy;clear;stormy
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;full;empty;new;old
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,second,short;long;fast;slow;last;first;full;empty;quick;late
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,week,long;short;busy;quiet;full;empty;new;old;fast;slow
+grok-3-mini,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,year,long;short;good;bad;busy;quiet;full;empty;new;old
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,anger,intense;sudden;deep;hot;blind;explosive;simmering;righteous;petty;suppressed
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,courage,brave;bold;fearless;heroic;strong;unwavering;quiet;moral;physical;innate
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,fear,great;sudden;deep;irrational;overwhelming;constant;hidden;primal;intense;chilling
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,freedom,absolute;limited;true;personal;political;hard-won;basic;sudden;complete;fragile
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,happiness,pure;lasting;simple;deep;sudden;shared;quiet;overwhelming;genuine;fleeting
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,hate,intense;blind;deep;irrational;bitter;growing;mutual;passionate;silent;destructive
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,honesty,complete;brutal;simple;rare;straightforward;absolute;painful;natural;quiet;consistent
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,justice,fair;swift;blind;social;true;legal;moral;perfect;delayed;equal
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,knowledge,vast;deep;basic;practical;secret;ancient;useful;broad;limited;shared
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,love,true;deep;unconditional;passionate;eternal;pure;gentle;forbidden;simple;blind
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,peace,lasting;fragile;inner;global;quiet;sudden;true;perfect;temporary;deep
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,wisdom,great;ancient;practical;deep;simple;hard-earned;quiet;natural;timeless;rare
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,bell,loud;small;ringing;old;golden;clear;antique;broken;large;shiny
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,candle,lit;small;scented;tall;melting;red;flickering;waxen;old;soft
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,carpet,soft;thick;old;colorful;woven;dirty;large;patterned;clean;expensive
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,coin,old;shiny;gold;small;rare;fake;heavy;ancient;silver;foreign
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,crown,royal;golden;heavy;ancient;jeweled;simple;broken;large;ceremonial;fake
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,flag,national;waving;old;colorful;torn;large;official;small;red;symbolic
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,mask,scary;colorful;wooden;protective;old;tight;black;decorative;simple;hidden
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,necklace,golden;long;shiny;simple;antique;heavy;beaded;broken;elegant;cheap
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;large;abstract;realistic;famous;small;faded;modern
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,ring,golden;shiny;small;antique;diamond;broken;simple;heavy;engraved;fake
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,statue,tall;stone;ancient;broken;beautiful;large;metal;famous;small;detailed
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,vase,tall;glass;broken;colorful;old;decorative;simple;large;fragile;painted
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;low;fast-moving;high;stormy;thin;grey;drifting
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,earthquake,strong;sudden;destructive;minor;deep;violent;rare;massive;local;shaking
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,fog,thick;dense;morning;cold;mysterious;light;damp;early;grey;lingering
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,lightning,bright;fast;striking;dangerous;sudden;electric;powerful;forked;distant;scary
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;warm;pouring;gentle;sudden;endless;refreshing
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;full;faint;double;arched;vivid;magical
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,snow,white;fresh;deep;soft;falling;heavy;cold;pure;wet;drifting
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,storm,violent;strong;sudden;fierce;rainy;windy;massive;tropical;dark;approaching
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;sudden;frightening;deep;constant;booming;electric;powerful
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;calm;rough;incoming;outgoing;daily
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;smoking;ancient;explosive;tall;fiery;quiet
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;blowing;steady;gusty;northern;eastern;howling
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,apple,red;green;fresh;juicy;ripe;sweet;small;sour;rotten;crisp
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,banana,yellow;ripe;green;sweet;soft;long;fresh;peeled;spotted;small
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,beef,fresh;cooked;lean;tough;juicy;rare;grilled;fatty;cheap;tender
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,bread,fresh;soft;warm;sliced;white;whole-wheat;stale;crusty;sweet;toasted
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,broccoli,fresh;green;steamed;raw;crisp;boiled;healthy;small;frozen;organic
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,cheese,sharp;soft;hard;melted;yellow;creamy;aged;mild;grated;fresh
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,chicken,grilled;roasted;fresh;cooked;tender;spicy;raw;fried;small;organic
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,egg,fresh;boiled;fried;raw;large;broken;white;brown;soft;cracked
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,fish,fresh;grilled;fresh-caught;salty;fried;large;small;frozen;oily;cooked
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,pasta,cooked;hot;al dente;cheesy;spicy;simple;dried;fresh;long;twisted
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,rice,cooked;white;brown;steamed;hot;sticky;dry;flavored;long-grain;fresh
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Food Items,soup,hot;thick;creamy;vegetable;spicy;clear;cold;homemade;tasty;simple
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,artist,talented;creative;famous;young;skilled;dedicated;struggling;modern;local;inspired
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,athlete,fast;strong;skilled;professional;young;dedicated;injured;fit;competitive;famous
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,chef,skilled;famous;creative;busy;talented;young;experienced;professional;passionate;local
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,doctor,skilled;experienced;kind;busy;young;famous;dedicated;local;senior;caring
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,engineer,skilled;creative;busy;young;experienced;professional;innovative;local;dedicated;smart
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,farmer,hardworking;local;experienced;young;dedicated;poor;rich;skilled;organic;busy
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,lawyer,skilled;experienced;busy;young;professional;famous;honest;dedicated;local;sharp
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,musician,talented;famous;young;skilled;creative;dedicated;local;passionate;professional;struggling
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,scientist,brilliant;dedicated;young;experienced;famous;creative;local;skilled;innovative;busy
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,soldier,brave;trained;young;experienced;dedicated;strong;loyal;skilled;heroic;tired
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,teacher,dedicated;experienced;young;kind;skilled;local;passionate;strict;creative;helpful
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,writer,talented;famous;young;creative;dedicated;experienced;local;passionate;skilled;struggling
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,book,old;new;thick;interesting;boring;colorful;popular;rare;small;educational
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,bridge,old;long;strong;wooden;modern;high;broken;stone;narrow;wide
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,drums,loud;wooden;large;small;rhythmic;old;shiny;electronic;simple;tuned
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,earth,round;blue;vast;green;old;fertile;dry;warm;spinning;beautiful
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,flute,wooden;small;silver;old;shiny;sweet-sounding;simple;broken;long;tuned
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,key,small;metal;old;rusty;shiny;spare;broken;simple;golden;locked
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,knife,sharp;old;metal;small;rusty;clean;dull;wooden-handled;long;cheap
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,lock,old;metal;broken;secure;simple;rusty;electronic;small;modern;strong
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,moon,full;bright;crescent;distant;silver;old;glowing;dark;large;mysterious
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,pen,black;old;cheap;smooth;broken;fancy;simple;ink-filled;metal;colorful
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;huge;warm;burning;daily;golden
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,sword,sharp;old;metal;long;rusty;heavy;decorative;broken;simple;ancient
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,cat,black;small;playful;lazy;wild;tame;fluffy;old;young;clever
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,dog,big;small;loyal;playful;old;young;wild;trained;friendly;fierce
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,dolphin,smart;fast;playful;large;wild;friendly;graceful;young;old;aquatic
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,elephant,large;grey;strong;wild;tame;old;young;gentle;heavy;intelligent
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,hamster,small;furry;playful;quick;young;old;tame;wild;cute;active
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,monkey,playful;small;wild;clever;young;old;noisy;agile;furry;curious
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,mouse,small;grey;quick;wild;tame;young;old;shy;noisy;scared
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,peacock,colorful;proud;wild;large;beautiful;young;old;noisy;graceful;exotic
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,rabbit,white;small;quick;wild;tame;young;old;fluffy;shy;playful
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,shark,large;dangerous;fast;wild;grey;young;old;aggressive;scary;powerful
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,snake,long;poisonous;wild;small;tame;green;old;young;slippery;dangerous
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,whale,huge;gentle;wild;old;young;blue;fast;deep-sea;majestic;singing
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,city,busy;large;modern;old;crowded;clean;dirty;beautiful;noisy;historic
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,desert,hot;dry;vast;sandy;empty;harsh;beautiful;remote;yellow;windy
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,forest,dense;green;dark;ancient;wild;quiet;beautiful;large;rainy;cool
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,island,small;tropical;remote;beautiful;rocky;green;deserted;large;sunny;volcanic
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,lake,deep;blue;calm;frozen;large;small;clear;muddy;fresh;scenic
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,mountain,high;snowy;steep;green;rocky;tall;ancient;beautiful;rugged;cold
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,ocean,vast;deep;blue;stormy;calm;cold;warm;endless;wild;mysterious
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,plain,flat;vast;green;dry;fertile;empty;wide;open;grassy;simple
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,plateau,high;flat;rocky;vast;green;dry;ancient;wide;elevated;barren
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,river,wide;deep;fast-flowing;calm;dirty;clean;long;frozen;winding;fresh
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,valley,deep;green;narrow;wide;fertile;hidden;beautiful;rocky;sunny;quiet
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Places,village,small;quiet;old;rural;simple;peaceful;busy;green;poor;charming
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,cactus,spiky;green;tall;small;dry;wild;hardy;old;flowering;strange
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,eggplant,purple;fresh;large;small;ripe;cooked;shiny;soft;raw;organic
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,flower,beautiful;red;yellow;wild;fresh;wilted;small;fragrant;blooming;delicate
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,grass,green;tall;short;wet;dry;fresh;wild;soft;thick;growing
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,lettuce,fresh;green;crisp;raw;wilted;organic;small;leafy;washed;salad
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,mushroom,small;wild;fresh;cooked;poisonous;edible;brown;large;damp;tasty
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,onion,fresh;red;white;small;large;spicy;raw;cooked;peeled;strong
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,pepper,red;green;hot;fresh;spicy;small;dried;raw;sweet;crushed
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,potato,large;small;fresh;cooked;boiled;raw;organic;brown;soft;baked
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,rose,red;beautiful;fresh;thorny;blooming;wild;fragrant;small;white;delicate
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,tomato,red;fresh;ripe;small;juicy;raw;cooked;organic;green;soft
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Plants,tree,tall;green;old;young;leafy;fruit-bearing;shady;dead;strong;ancient
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,ally,strong;reliable;faithful;powerful;close;secret;foreign;true;helpful;strategic
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,brother,older;younger;loving;protective;funny;strict;caring;brave;smart;distant
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,enemy,dangerous;powerful;sworn;bitter;old;foreign;fierce;hidden;strong;ruthless
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,father,loving;strict;wise;busy;kind;absent;strong;supportive;older;proud
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,follower,loyal;dedicated;blind;faithful;enthusiastic;young;strong;willing;quiet;active
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,friend,true;close;old;new;loyal;fun;helpful;reliable;kind;distant
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,leader,strong;wise;charismatic;effective;young;old;inspiring;strict;powerful;visionary
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,mother,loving;caring;busy;strict;kind;supportive;wise;young;old;protective
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,partner,reliable;business;romantic;equal;supportive;strong;faithful;new;old;creative
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,rival,tough;strong;fierce;old;new;bitter;competitive;smart;dangerous;skilled
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,sister,younger;older;loving;caring;funny;smart;protective;distant;kind;adventurous
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,stranger,mysterious;unknown;dangerous;friendly;tall;quiet;foreign;odd;helpful;suspicious
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,above,high;clear;bright;distant;open;vast;blue;floating;shining;empty
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,back,straight;strong;broad;weak;injured;smooth;curved;hidden;old;wide
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,below,deep;dark;hidden;low;cold;wet;mysterious;quiet;underground;forgotten
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,east,rising;distant;sunny;warm;ancient;foreign;coastal;flat;green;open
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,front,wide;clear;open;busy;clean;hidden;strong;narrow;modern;old
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,inside,warm;dark;safe;hidden;quiet;comfortable;empty;full;secret;cozy
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,left,free;open;empty;dark;quiet;hidden;clear;narrow;busy;green
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,north,cold;windy;distant;vast;snowy;ancient;remote;dark;green;flat
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,outside,bright;cold;wet;open;noisy;empty;dark;fresh;wild;free
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,right,correct;strong;clear;free;bright;narrow;busy;hidden;open;direct
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,south,warm;sunny;distant;coastal;flat;green;tropical;ancient;busy;open
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,west,wild;distant;setting;open;dry;vast;golden;remote;windy;beautiful
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,century,past;future;long;short;golden;dark;revolutionary;peaceful;turbulent;modern
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;lazy;clear;dark;warm;cold
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,evening,quiet;cool;long;short;peaceful;dark;warm;busy;golden;relaxing
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,hour,long;short;busy;quiet;late;early;dark;bright;waiting;passing
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,minute,quick;long;waiting;short;final;early;late;quiet;busy;passing
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;final;early;rainy;sunny
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,morning,fresh;early;bright;cool;quiet;busy;foggy;sunny;cold;peaceful
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;warm;endless;short;mysterious;peaceful
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,season,long;short;warm;cold;rainy;dry;festive;quiet;changing;beautiful
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,second,quick;last;final;short;waiting;passing;early;late;critical;simple
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,week,long;short;busy;quiet;final;starting;ending;rainy;sunny;relaxing
+grok-3-mini,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,year,long;short;busy;quiet;new;old;successful;difficult;happy;changing
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;simmering;explosive;quiet;repressed;justified
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,courage,brave;true;moral;physical;quiet;heroic;unwavering;foolish;innate;displayed
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,fear,deep;sudden;irrational;intense;primal;overwhelming;hidden;constant;paralyzing;instinctive
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,freedom,true;absolute;personal;political;hard-won;limited;basic;universal;precious;fleeting
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,happiness,pure;genuine;lasting;simple;overwhelming;quiet;shared;fleeting;inner;radiant
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,hate,intense;blind;deep;irrational;bitter;growing;mutual;hidden;violent;enduring
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,honesty,complete;brutal;refreshing;simple;unwavering;rare;straightforward;absolute;heartfelt;painful
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,justice,true;social;blind;swift;equal;poetic;divine;rough;delayed;impartial
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,knowledge,deep;practical;vast;secret;basic;ancient;modern;shared;forbidden;useful
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,love,true;unconditional;passionate;enduring;pure;blind;deep;fleeting;mutual;forbidden
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,peace,inner;lasting;fragile;global;quiet;temporary;absolute;spiritual;uneasy;profound
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,wisdom,ancient;practical;profound;simple;gained;shared;innate;worldly;quiet;enduring
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,bell,loud;small;ancient;ringing;golden;clear;decorative;cracked;electronic;ornate
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,candle,lit;scented;tall;waxen;flickering;colored;small;melted;decorative;aromatic
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,carpet,soft;woolen;colorful;thick;old;patterned;clean;large;woven;dirty
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;metal;small;fake;ancient;valuable;gold;foreign
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;heavy;ancient;symbolic;ornate;simple;ceremonial;stolen
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,flag,national;colorful;waving;torn;symbolic;old;foreign;printed;large;faded
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,mask,protective;decorative;facial;scary;simple;colorful;ancient;disposable;theatrical;hidden
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,necklace,gold;pearl;simple;expensive;long;broken;decorative;antique;shiny;elegant
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,painting,beautiful;old;abstract;colorful;famous;detailed;modern;large;realistic;damaged
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,ring,golden;small;engagement;broken;valuable;simple;antique;shiny;magical;finger
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,statue,tall;stone;ancient;bronze;damaged;famous;decorative;modern;large;heroic
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,vase,ceramic;tall;broken;decorative;antique;colorful;simple;glass;floral;elegant
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;stormy;drifting;low;high;gray;cumulus;thin
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,earthquake,strong;devastating;minor;sudden;seismic;destructive;rare;deep;violent;predicted
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,fog,thick;dense;morning;cold;mysterious;rolling;light;coastal;damp;eerie
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;dangerous;electrical;fast;striking;distant;powerful;nighttime
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;cold;warm;seasonal;gentle;acidic;monsoon
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;faint;beautiful;arched;rare;vivid;natural;full
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,snow,white;fresh;heavy;light;falling;deep;powdery;melting;wet;fluffy
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,storm,violent;fierce;approaching;powerful;tropical;sudden;electrical;windy;severe;passing
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;crashing;sudden;ominous;powerful;echoing;nighttime;frightening
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;coastal;daily;powerful;incoming;outgoing
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;smoking;ancient;dangerous;volcanic;tall;erupting
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;eastern;northern;seasonal
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,apple,red;fresh;juicy;green;ripe;sweet;sour;organic;small;rotten
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,banana,yellow;ripe;fresh;long;green;sweet;peeled;organic;spotted;small
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,beef,fresh;lean;grilled;tender;fatty;raw;organic;cooked;ground;tough
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,bread,fresh;soft;white;whole-wheat;toasted;warm;stale;sliced;homemade;crusty
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;crispy;frozen;tender;boiled;healthy
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,cheese,sharp;soft;hard;melted;creamy;aged;grated;mild;flavored;fresh
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,chicken,roasted;fresh;grilled;fried;organic;boneless;raw;tender;spicy;frozen
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,egg,fresh;boiled;fried;raw;large;organic;cracked;hard;soft;brown
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,fish,fresh;grilled;fried;smoked;raw;salty;big;small;wild;farmed
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;cheesy;spicy;Italian;long;short;homemade
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;raw;basmati;fried;organic
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;spicy;thick;cold;flavorful;homemade;clear
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,artist,talented;creative;famous;struggling;dedicated;young;skilled;innovative;passionate;established
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,athlete,strong;fast;dedicated;professional;young;skilled;injured;competitive;fit;Olympic
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,chef,skilled;famous;creative;professional;young;experienced;talented;busy;innovative;passionate
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,doctor,skilled;experienced;young;dedicated;busy;specialist;caring;qualified;senior;reliable
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,engineer,skilled;creative;experienced;young;innovative;mechanical;electrical;dedicated;qualified;practical
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,farmer,hardworking;local;experienced;organic;rural;dedicated;elderly;young;skilled;independent
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,lawyer,experienced;successful;corporate;dedicated;young;ethical;skilled;criminal;busy;qualified
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,musician,talented;famous;young;skilled;passionate;classical;rock;dedicated;innovative;struggling
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,scientist,brilliant;dedicated;experienced;young;innovative;environmental;medical;skilled;curious;qualified
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,soldier,brave;trained;experienced;young;dedicated;elite;injured;patriotic;disciplined;heroic
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,teacher,dedicated;experienced;young;passionate;skilled;strict;caring;qualified;inspiring;effective
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,writer,talented;famous;young;experienced;creative;prolific;dedicated;struggling;skilled;imaginative
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,book,old;new;thick;interesting;popular;fictional;educational;hardcover;paperback;rare
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,bridge,old;long;wooden;stone;modern;high;broken;famous;suspension;narrow
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,drums,loud;wooden;rhythmic;electronic;small;large;tribal;professional;tuned;broken
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,earth,blue;green;fertile;dry;vast;ancient;flat;round;spinning;living
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,flute,wooden;silver;sweet-sounding;small;ancient;modern;tuned;professional;simple;decorative
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,key,small;metal;rusty;spare;golden;modern;locked;electronic;old;simple
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,knife,sharp;small;rusty;kitchen;pocket;old;clean;dull;metal;decorative
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,lock,old;secure;electronic;broken;metal;simple;modern;rusty;combination;padlock
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,moon,full;bright;crescent;distant;glowing;waxing;waning;ancient;mysterious;silver
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,pen,black;ink;smooth;cheap;expensive;ballpoint;fountain;old;new;ergonomic
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;warm;distant;powerful;ancient;shining
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,sword,sharp;ancient;metal;long;decorative;magical;broken;ceremonial;heavy;shiny
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,cat,black;fluffy;wild;domestic;playful;lazy;old;young;stray;friendly
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,dog,loyal;big;small;friendly;wild;trained;old;young;stray;energetic
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;friendly;large;gray;marine;fast;social;endangered
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,elephant,large;gray;wild;gentle;endangered;African;Asian;old;young;majestic
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,hamster,small;furry;playful;domestic;fast;young;old;cute;wild;nocturnal
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,monkey,playful;wild;small;intelligent;furry;young;old;agile;curious;mischievous
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,mouse,small;gray;wild;domestic;fast;timid;young;old;furry;nocturnal
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,peacock,colorful;wild;beautiful;large;proud;exotic;male;female;decorative;endangered
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,rabbit,white;fluffy;wild;domestic;fast;young;old;cute;timid;furry
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,shark,dangerous;large;gray;wild;fast;marine;predatory;endangered;small;aggressive
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,snake,long;poisonous;wild;colorful;small;large;slithery;domestic;venomous;harmless
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,whale,massive;blue;wild;endangered;marine;intelligent;migrating;old;young;gentle
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,city,busy;large;modern;ancient;crowded;clean;dirty;coastal;industrial;beautiful
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,desert,dry;vast;sandy;hot;barren;remote;beautiful;ancient;windy;golden
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,forest,dense;green;ancient;wild;tropical;quiet;dark;rainy;vast;protected
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,island,tropical;small;remote;beautiful;volcanic;sandy;deserted;large;coastal;green
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,lake,deep;blue;frozen;calm;large;small;freshwater;scenic;polluted;crystal-clear
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,mountain,tall;snowy;rugged;high;ancient;green;volcanic;steep;majestic;remote
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,ocean,vast;blue;deep;stormy;calm;saltwater;endless;mysterious;warm;cold
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,plain,flat;vast;grassy;dry;fertile;open;endless;green;barren;rural
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;ancient;scenic;remote;green
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,river,wide;deep;flowing;muddy;clear;ancient;fast;slow;polluted;scenic
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,valley,deep;green;fertile;narrow;wide;scenic;hidden;remote;beautiful;rocky
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Places,village,small;rural;peaceful;ancient;quiet;coastal;mountain;traditional;modern;friendly
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,cactus,spiky;green;desert;tall;small;flowering;wild;hardy;decorative;thorny
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,eggplant,purple;fresh;large;small;ripe;cooked;organic;shiny;raw;bitter
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,flower,beautiful;colorful;fresh;wild;fragrant;small;large;blooming;wilted;red
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,grass,green;fresh;tall;short;wild;mowed;dry;wet;soft;thick
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,lettuce,fresh;green;crisp;organic;raw;wilted;leafy;small;large;sweet
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,mushroom,fresh;wild;edible;poisonous;small;large;brown;white;cooked;raw
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,onion,fresh;red;white;yellow;small;large;pungent;raw;cooked;organic
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,pepper,red;green;hot;sweet;fresh;small;large;spicy;raw;cooked
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,potato,fresh;large;small;baked;boiled;organic;raw;yellow;sweet;peeled
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,rose,red;beautiful;fragrant;thorny;fresh;wild;blooming;white;pink;decorative
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,tomato,red;fresh;ripe;small;large;juicy;organic;raw;cooked;sweet
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Plants,tree,tall;green;old;young;leafy;fruit-bearing;ancient;shady;bare;sturdy
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,ally,strong;faithful;secret;powerful;reliable;strategic;helpful;loyal;foreign;true
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,brother,elder;younger;loving;protective;distant;supportive;annoying;close;biological;step
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,enemy,sworn;powerful;dangerous;bitter;old;foreign;hidden;ruthless;declared;common
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,father,loving;strict;absent;supportive;elderly;young;biological;step;hardworking;wise
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;faithful;dedicated;passive;active;misguided;strong
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,friend,close;true;old;new;loyal;helpful;trustworthy;childhood;reliable;distant
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,leader,strong;charismatic;wise;effective;democratic;authoritarian;inspirational;young;experienced;visionary
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,mother,loving;caring;strict;supportive;elderly;young;biological;step;hardworking;protective
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,partner,reliable;business;romantic;equal;supportive;professional;loyal;trusted;junior;senior
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,rival,fierce;strong;bitter;corporate;athletic;historical;direct;indirect;skilled;dangerous
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,sister,younger;elder;loving;protective;distant;supportive;annoying;close;biological;step
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,stranger,unknown;mysterious;dangerous;helpful;foreign;wandering;friendly;suspicious;passing;odd
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,above,high;overhanging;superior;elevated;upper;aerial;celestial;prominent;dominant;top
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,back,rear;hidden;supportive;spinal;old;distant;secondary;behind;posterior;weaker
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,below,low;underground;inferior;submerged;lower;hidden;deep;subordinate;bottom;unseen
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,east,far;rising;eastern;sunny;coastal;ancient;modern;distant;warm;vast
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,front,main;forward;visible;leading;bold;exterior;primary;obvious;direct;prominent
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,inside,inner;hidden;secure;warm;private;enclosed;secret;deep;comfortable;core
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,left,liberal;abandoned;wrong;remaining;port;neglected;southern;hidden;unused;solitary
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,north,far;cold;polar;northern;vast;ancient;modern;distant;frozen;wild
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,outside,external;cold;open;visible;public;rough;distant;free;exposed;wild
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,right,correct;proper;conservative;lawful;straight;immediate;accurate;dominant;moral;exact
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,south,far;warm;southern;tropical;vast;ancient;modern;distant;coastal;humid
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,west,far;wild;western;sunny;coastal;ancient;modern;distant;rugged;expansive
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,century,past;future;golden;dark;twentieth;nineteenth;modern;ancient;prosperous;turbulent
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;lazy;ordinary;special;working;festive
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,evening,quiet;cool;long;warm;peaceful;romantic;busy;early;late;golden
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,hour,long;short;golden;final;early;late;working;idle;peak;quiet
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,minute,brief;last;final;early;late;crucial;quiet;hectic;passing;exact
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,month,long;short;busy;quiet;final;early;festive;cold;warm;rainy
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,morning,fresh;early;bright;foggy;quiet;busy;cool;late;sunny;crisp
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;warm;sleepless;festive;mysterious;short
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,season,long;short;rainy;dry;festive;cold;warm;peak;off;changing
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,second,brief;final;last;crucial;short;long;exact;passing;golden;quiet
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,week,long;short;busy;quiet;final;early;working;festive;relaxing;productive
+grok-3-mini,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,year,long;short;busy;productive;final;early;festive;memorable;quiet;challenging
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;suppressed;explosive;quiet;simmering;righteous
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,courage,brave;bold;heroic;unwavering;quiet;moral;physical;intellectual;sudden;innate
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,fear,intense;sudden;deep;overwhelming;irrational;primal;hidden;paralyzing;creeping;instinctive
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,freedom,absolute;limited;personal;political;hard-won;true;basic;newfound;precious;universal
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;fleeting;deep;shared;quiet;overwhelming;radiant
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,hate,intense;blind;deep;irrational;bitter;festering;mutual;hidden;passionate;longstanding
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,honesty,brutal;complete;refreshing;straightforward;rare;absolute;painful;unwavering;simple;genuine
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,justice,blind;swift;fair;poetic;delayed;social;true;rough;absolute;moral
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;practical;theoretical;ancient;hidden;shared;basic;scientific;innate
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,love,true;deep;unconditional;passionate;forbidden;eternal;pure;fleeting;romantic;familial
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,peace,inner;lasting;fragile;global;quiet;true;temporary;profound;absolute;uneasy
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;innate;hard-earned;simple;deep;shared;moral
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,bell,loud;small;golden;ringing;ancient;clear;brass;decorative;handheld;church
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,candle,scented;tall;flickering;white;beeswax;decorative;melted;aromatic;long;colored
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,carpet,soft;woolen;patterned;thick;colorful;antique;oriental;large;woven;dirty
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;gold;silver;ancient;foreign;valuable;small;counterfeit
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;ceremonial;heavy;ornate;simple;fake;imperial
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,flag,national;waving;colorful;torn;proud;symbolic;old;large;faded;foreign
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,mask,protective;decorative;facial;ancient;colorful;creepy;surgical;tribal;plastic;hidden
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,necklace,golden;beaded;elegant;simple;antique;pearl;sparkling;long;cheap;heirloom
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,painting,beautiful;abstract;colorful;old;famous;detailed;modern;framed;landscape;portrait
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,ring,golden;engagement;simple;antique;diamond;cheap;large;decorative;silver;magical
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,statue,tall;ancient;bronze;marble;impressive;modern;broken;heroic;decorative;stone
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,vase,tall;ceramic;antique;decorative;glass;colorful;broken;floral;simple;porcelain
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;drifting;stormy;high;thin;billowing;gray;cumulus
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,earthquake,violent;sudden;massive;shallow;destructive;minor;tectonic;widespread;rare;strong
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;morning;mysterious;rolling;light;coastal;persistent;chilly;enveloping
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;intense;distant;electrical;fast;dramatic;silent;powerful
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;gentle;cold;tropical;seasonal;drizzling;relentless
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;arching;double;faint;beautiful;rare;full;natural;post-rain
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,snow,fresh;deep;fluffy;melting;heavy;powdery;wet;seasonal;white;drifting
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,storm,fierce;violent;approaching;mild;tropical;electrical;windy;sudden;destructive;raging
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;booming;sudden;ominous;faint;crashing;electrical;prolonged
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,tide,high;low;rising;ebbing;strong;gentle;coastal;daily;turbulent;incoming
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;massive;explosive;fiery;ancient;smoking;dangerous;volcanic;tall
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;howling;cold;warm;gusty;steady;northern;breezy;seasonal
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,apple,red;green;juicy;ripe;sweet;fresh;tart;crisp;organic;small
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,banana,yellow;ripe;green;sweet;fresh;peeled;curved;soft;organic;large
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,beef,tender;lean;grilled;fresh;ground;fatty;rare;cooked;organic;juicy
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,bread,fresh;soft;crusty;warm;whole-wheat;sliced;stale;homemade;toasted;sweet
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,broccoli,fresh;green;steamed;crisp;organic;raw;frozen;tender;boiled;leafy
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,cheese,sharp;soft;hard;creamy;aged;fresh;melted;mild;grated;flavorful
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,chicken,grilled;fresh;roasted;tender;organic;fried;boneless;spiced;raw;juicy
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;large;organic;cracked;white;scrambled;brown;runny
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,fish,fresh;grilled;oily;smoked;wild;caught;frozen;flaky;saltwater;tasty
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;homemade;spicy;cheesy;long;short;Italian
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;wild;raw;basmati;spiced
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;spicy;thick;clear;homemade;flavorful;cold
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,artist,talented;creative;famous;struggling;visionary;dedicated;modern;skilled;inspired;eccentric
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,athlete,fast;strong;dedicated;professional;young;fit;competitive;skilled;injured;Olympic
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,chef,skilled;famous;creative;professional;busy;talented;experienced;innovative;French;dedicated
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,doctor,skilled;caring;busy;experienced;young;specialist;dedicated;hospital;trustworthy;senior
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,engineer,skilled;innovative;mechanical;electrical;dedicated;young;experienced;creative;practical;senior
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,farmer,hardworking;local;organic;experienced;small-scale;dedicated;rural;young;traditional;successful
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,lawyer,sharp;experienced;corporate;defense;dedicated;young;successful;ethical;busy;criminal
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,musician,talented;famous;classical;rock;dedicated;young;skilled;innovative;jazz;performing
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,scientist,brilliant;dedicated;research;innovative;young;experienced;biological;theoretical;curious;senior
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,soldier,brave;trained;experienced;young;dedicated;elite;wounded;heroic;disciplined;combat
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,teacher,dedicated;experienced;patient;inspiring;young;effective;math;creative;senior;supportive
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,writer,talented;famous;creative;prolific;young;experienced;novelist;poetic;dedicated;freelance
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,book,old;new;thick;interesting;fictional;educational;hardcover;popular;rare;colorful
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,bridge,long;old;wooden;steel;high;famous;modern;arched;narrow;sturdy
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;wooden;electronic;large;small;tribal;modern;tuned;percussive
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,earth,green;vast;fertile;round;ancient;living;dry;blue;solid;warming
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;ancient;modern;melodic;small;professional;bamboo;sweet-sounding;handmade
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,key,small;metal;old;rusty;modern;spare;electronic;brass;locked;golden
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,knife,sharp;small;kitchen;rusty;pocket;metal;dull;ceremonial;wooden-handled;Swiss
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,lock,old;secure;electronic;rusty;small;modern;combination;door;padlock;broken
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,moon,full;bright;crescent;distant;glowing;waxing;waning;silvery;mysterious;ancient
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,pen,black;ink;fountain;cheap;modern;colorful;ballpoint;wooden;ergonomic;leaking
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;distant;warm;midday;blazing;ancient
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;metal;ceremonial;long;magical;rusty;ornate;wooden;battle
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,cat,black;playful;stray;domestic;fluffy;wild;lazy;curious;orange;sleek
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,dog,loyal;playful;big;small;trained;stray;friendly;barking;fluffy;energetic
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,dolphin,playful;intelligent;marine;graceful;wild;friendly;large;jumping;endangered;curious
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,elephant,large;gray;wild;gentle;endangered;African;Asian;tusked;majestic;intelligent
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,hamster,small;furry;playful;caged;brown;fast;cute;nocturnal;domestic;active
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,monkey,playful;wild;small;intelligent;climbing;noisy;brown;curious;endangered;agile
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,mouse,small;gray;fast;wild;domestic;timid;furry;nocturnal;white;laboratory
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,peacock,colorful;majestic;wild;proud;large;beautiful;feathered;exotic;male;decorative
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,rabbit,white;fluffy;wild;fast;domestic;cute;hopping;brown;furry;young
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,shark,large;dangerous;marine;fast;predatory;gray;endangered;fierce;deep-sea;aggressive
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,snake,long;poisonous;slithering;wild;colorful;venomous;green;coiled;exotic;harmless
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,whale,massive;marine;endangered;blue;singing;graceful;deep-diving;migratory;intelligent;ancient
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,city,busy;modern;large;historic;crowded;coastal;industrial;vibrant;ancient;clean
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,desert,vast;dry;sandy;hot;barren;remote;golden;windswept;harsh;endless
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,forest,dense;green;ancient;tropical;dark;vast;peaceful;wet;deciduous;enchanted
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,island,tropical;remote;small;volcanic;sandy;inhabited;deserted;green;coral;large
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,lake,deep;clear;frozen;large;mountain;serene;polluted;freshwater;scenic;quiet
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,mountain,tall;snowy;rugged;ancient;high;green;volcanic;majestic;steep;remote
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;tropical;cold;mysterious
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,plain,flat;vast;grassy;dry;fertile;open;green;windswept;endless;agricultural
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;green;ancient;scenic;remote
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,river,wide;deep;flowing;muddy;clear;swift;ancient;winding;polluted;frozen
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,valley,deep;green;fertile;narrow;scenic;remote;wide;mountainous;peaceful;hidden
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Places,village,small;rural;quaint;peaceful;ancient;coastal;fishing;mountain;modern;isolated
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,cactus,spiky;desert;green;tall;flowering;hardy;small;prickly;exotic;drought-resistant
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,eggplant,purple;fresh;large;shiny;raw;cooked;organic;soft;bitter;vegetable
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;wild;blooming;red;small;exotic;wilted;garden
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,grass,green;tall;wet;dry;lush;wild;mowed;soft;yellowed;thick
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,lettuce,fresh;green;crisp;leafy;organic;raw;wilted;salad;hydroponic;sweet
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,mushroom,wild;edible;small;poisonous;fresh;dried;white;fungi;organic;button
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,onion,fresh;raw;sweet;dried;large;spicy;organic;chopped;white;pungent
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,pepper,spicy;red;green;fresh;sweet;dried;hot;organic;bell;ground
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,potato,fresh;baked;raw;large;organic;mashed;sweet;small;fried;starchy
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,rose,red;beautiful;thorny;fragrant;wild;blooming;white;garden;exotic;delicate
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,tomato,red;fresh;ripe;juicy;organic;raw;small;cherry;sliced;vine-ripened
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,tree,tall;green;ancient;leafy;fruit-bearing;shaded;oak;fallen;evergreen;blooming
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,ally,strong;reliable;faithful;strategic;close;trusted;foreign;powerful;loyal;helpful
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,brother,older;younger;loving;protective;twin;distant;caring;mischievous;supportive;estranged
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,enemy,sworn;powerful;dangerous;hidden;foreign;bitter;old;ruthless;defeated;common
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,father,loving;strict;absent;proud;hardworking;wise;young;supportive;distant;biological
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;faithful;dedicated;religious;political;active;passive
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,friend,close;true;old;reliable;new;trustworthy;supportive;funny;distant;childhood
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,leader,strong;charismatic;effective;visionary;democratic;authoritarian;inspirational;young;experienced;corrupt
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,mother,loving;caring;strict;single;proud;nurturing;busy;absent;supportive;biological
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,partner,reliable;business;romantic;equal;supportive;long-term;trusted;professional;creative;distant
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,rival,fierce;old;business;athletic;bitter;strong;respected;defeated;corporate;competitive
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,sister,younger;older;loving;protective;twin;distant;caring;mischievous;supportive;estranged
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,stranger,mysterious;unknown;friendly;dangerous;passing;foreign;helpful;suspicious;tall;quiet
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,above,high;overhead;superior;elevated;upper;floating;clear;bright;distant;vast
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,back,rear;hidden;straight;sore;covered;wide;strong;old;arched;injured
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,below,low;underground;inferior;submerged;deep;hidden;dark;cold;quiet;vast
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,east,rising;distant;coastal;sunny;ancient;foreign;western-edge;flat;hilly;trade
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,front,main;forward;visible;busy;open;decorative;wide;strong;clean;battle
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,inside,cozy;hidden;warm;dark;spacious;secret;quiet;cool;empty;lively
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,left,unused;abandoned;free;dominant;weak;turned;clear;open;hidden;straight
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,north,cold;distant;polar;windy;ancient;southern-edge;flat;forested;trade;rugged
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,outside,bright;cold;open;wet;vast;secure;noisy;quiet;green;exposed
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,right,correct;dominant;straight;strong;free;turned;clear;open;hidden;legal
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,south,warm;distant;tropical;windy;ancient;northern-edge;flat;coastal;trade;humid
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,west,wild;distant;sunny;ancient;eastern-edge;flat;coastal;trade;rugged;golden
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,century,past;recent;dark;golden;modern;ancient;enlightened;turbulent;prosperous;forgotten
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;lazy;clear;dark;ordinary;special
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,evening,quiet;cool;long;romantic;peaceful;busy;golden;dark;relaxing;festive
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,hour,long;short;late;early;golden;dark;busy;quiet;final;endless
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,minute,short;final;last;quick;slow;precious;ticking;silent;intense;fleeting
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,month,long;short;busy;festive;cold;warm;final;starting;rainy;dry
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,morning,fresh;early;bright;foggy;quiet;busy;cold;warm;sunny;crisp
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;warm;endless;festive;stormy;peaceful
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,season,long;short;wet;dry;festive;cold;warm;busy;quiet;changing
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,second,last;final;quick;slow;precious;ticking;silent;intense;fleeting;crucial
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,week,long;short;busy;relaxing;final;starting;rainy;dry;festive;ordinary
+grok-3-mini,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,year,long;short;busy;prosperous;final;starting;rainy;dry;festive;memorable

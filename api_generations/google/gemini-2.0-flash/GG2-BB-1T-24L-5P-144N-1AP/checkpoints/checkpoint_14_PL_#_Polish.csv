@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,anger,big;bad;hot;hard;long;new;real;strong;true;young
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,courage,big;good;great;hard;little;more;much;real;strong;true
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,fear,big;bad;deep;great;hard;little;more;much;real;strong
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,freedom,big;good;great;hard;important;little;more;much;real;strong
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,happiness,big;good;great;hard;little;more;much;real;strong;true
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,hate,big;bad;deep;great;hard;little;more;much;real;strong
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,honesty,big;good;great;hard;little;more;much;real;strong;true
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,justice,big;good;great;hard;important;little;more;much;real;strong
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,knowledge,big;good;great;hard;important;little;more;much;real;strong
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,love,big;good;great;hard;little;more;much;real;strong;true
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,peace,big;good;great;hard;little;more;much;real;strong;true
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Abstract Concepts,wisdom,big;good;great;hard;little;more;much;real;strong;true
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,bell,big;old;good;little;new;small;loud;church;metal;nice
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,candle,big;new;old;good;little;white;red;nice;small;long
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,carpet,big;old;new;good;red;blue;nice;small;long;soft
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,coin,old;new;gold;silver;small;big;good;little;round;foreign
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,crown,gold;big;old;new;good;little;nice;small;beautiful;royal
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,flag,big;old;new;good;little;red;blue;white;small;national
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,mask,big;old;new;good;little;black;white;small;scary;strange
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,necklace,gold;silver;new;good;little;nice;small;beautiful;long;simple
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,painting,big;old;new;good;little;nice;small;beautiful;long;abstract
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,ring,gold;silver;new;good;little;nice;small;beautiful;round;simple
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,statue,big;old;new;good;little;nice;small;beautiful;white;stone
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Cultural Artifacts,vase,big;old;new;good;little;nice;small;beautiful;white;glass
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,cloud,big;white;grey;dark;small;nice;bad;good;heavy;rain
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,earthquake,big;bad;strong;long;new;old;good;little;more;much
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,fog,big;thick;grey;white;small;bad;good;heavy;cold;dark
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,lightning,big;bright;fast;strong;good;little;scary;dangerous;loud;close
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,rain,big;hard;long;small;heavy;good;bad;cold;warm;nice
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,rainbow,big;nice;beautiful;colorful;bright;good;little;high;long;new
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,snow,big;white;cold;new;little;good;soft;nice;wet;heavy
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,storm,big;bad;strong;long;new;old;good;little;hard;heavy
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,thunder,big;loud;strong;good;little;scary;dangerous;close;far;long
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,tide,big;high;low;new;old;good;little;strong;weak;fast
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,volcano,big;old;new;good;little;nice;small;dangerous;active;hot
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Environmental Phenomena,wind,big;strong;cold;hot;good;little;nice;soft;hard;fast
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,apple,red;green;good;big;small;new;old;sweet;nice;fresh
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,banana,yellow;good;big;small;new;old;sweet;nice;soft;ripe
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,beef,good;big;small;new;old;red;nice;cheap;expensive;fresh
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,bread,good;big;small;new;old;white;brown;fresh;nice;hard
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,broccoli,green;good;big;small;new;old;fresh;nice;cheap;healthy
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,cheese,good;big;small;new;old;white;yellow;hard;soft;tasty
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,chicken,good;big;small;new;old;fresh;nice;cheap;white;roast
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,egg,good;big;small;new;old;white;brown;fresh;hard;soft
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,fish,good;big;small;new;old;fresh;nice;cheap;white;blue
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,pasta,good;big;small;new;old;white;yellow;fresh;nice;hard
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,rice,good;big;small;new;old;white;brown;fresh;nice;cheap
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Food Items,soup,good;hot;big;small;new;old;fresh;nice;cheap;tasty
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,artist,good;big;small;new;old;famous;nice;young;talented;great
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,athlete,good;big;small;new;old;fast;nice;young;strong;great
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,chef,good;big;small;new;old;famous;nice;young;great;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,doctor,good;big;small;new;old;nice;young;great;important;happy
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,engineer,good;big;small;new;old;nice;young;great;important;smart
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,farmer,good;big;small;new;old;nice;young;hard;strong;poor
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,lawyer,good;big;small;new;old;nice;young;great;important;smart
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,musician,good;big;small;new;old;famous;nice;young;great;talented
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,scientist,good;big;small;new;old;nice;young;great;important;smart
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,soldier,good;big;small;new;old;nice;young;strong;brave;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,teacher,good;big;small;new;old;nice;young;great;important;happy
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Human Roles,writer,good;big;small;new;old;famous;nice;young;great;talented
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,book,good;big;small;new;old;interesting;nice;long;short;hard
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,bridge,big;old;new;long;small;nice;great;important;strong;safe
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,drums,big;old;new;loud;small;nice;hard;soft;good;bad
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,earth,big;old;new;good;small;green;blue;nice;round;hard
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,flute,old;new;good;small;nice;long;short;beautiful;silver;wooden
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,key,old;new;good;small;nice;big;metal;important;house;car
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,knife,old;new;good;small;nice;big;sharp;dangerous;metal;kitchen
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,lock,old;new;good;small;nice;big;strong;important;metal;hard
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,moon,big;new;old;good;small;nice;bright;dark;full;round
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,pen,old;new;good;small;nice;big;blue;black;red;cheap
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,sun,big;hot;good;small;nice;bright;yellow;strong;far;near
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Inanimate Objects,sword,old;new;good;small;nice;big;sharp;dangerous;metal;long
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,cat,big;small;old;new;good;black;white;nice;cute;bad
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,dog,big;small;old;new;good;black;white;nice;cute;bad
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,dolphin,big;small;old;new;good;nice;cute;blue;smart;free
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,elephant,big;old;new;good;nice;grey;strong;heavy;smart;African
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,hamster,small;old;new;good;nice;cute;brown;white;little;fast
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,monkey,big;small;old;new;good;nice;cute;brown;funny;smart
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,mouse,small;old;new;good;nice;cute;grey;white;little;fast
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,peacock,big;old;new;good;nice;beautiful;colorful;proud;long;small
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,rabbit,big;small;old;new;good;nice;cute;white;brown;fast
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,shark,big;old;new;bad;grey;dangerous;fast;strong;small;hungry
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,snake,big;small;old;new;bad;green;dangerous;long;fast;scary
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Neutral Animals,whale,big;old;new;good;blue;grey;strong;heavy;small;little
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,city,big;old;new;good;nice;small;important;beautiful;clean;dirty
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,desert,big;hot;dry;old;new;small;nice;empty;sandy;far
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,forest,big;old;new;good;nice;green;dark;small;beautiful
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,island,big;small;old;new;good;nice;beautiful;green;lonely;far
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,lake,big;small;old;new;good;nice;beautiful;deep;blue;clean
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,mountain,big;old;new;good;nice;high;small;beautiful;green;snowy
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,ocean,big;old;new;good;nice;blue;deep;small;cold;salty
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,plain,big;old;new;good;nice;green;flat;small;wide;empty
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,plateau,big;old;new;good;nice;high;flat;small;rocky;dry
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,river,big;small;old;new;good;nice;long;deep;blue;clean
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,valley,big;small;old;new;good;nice;green;deep;beautiful;long
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Places,village,big;small;old;new;good;nice;quiet;beautiful;clean;poor
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,cactus,big;small;old;new;green;spiky;dry;hot;desert;tall
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,eggplant,big;small;old;new;purple;good;nice;fresh;long;round
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,flower,big;small;old;new;good;nice;beautiful;colorful;fresh;sweet
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,grass,big;small;old;new;good;nice;green;long;short;wet
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,lettuce,big;small;old;new;green;good;nice;fresh;round;healthy
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,mushroom,big;small;old;new;good;nice;white;brown;fresh;poisonous
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,onion,big;small;old;new;white;good;nice;fresh;round;strong
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,pepper,big;small;old;new;red;good;nice;fresh;hot;black
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,potato,big;small;old;new;brown;good;nice;fresh;round;cheap
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,rose,big;small;old;new;red;good;nice;beautiful;fresh;thorny
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,tomato,big;small;old;new;red;good;nice;fresh;round;juicy
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Plants,tree,big;small;old;new;good;nice;green;tall;strong;wooden
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,ally,good;big;small;new;old;strong;nice;important;great;true
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,brother,big;small;old;new;good;nice;young;little;great
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,enemy,big;small;old;new;bad;strong;hard;real;little;great
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,father,big;small;old;new;good;nice;young;little;great
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,follower,good;big;small;new;old;loyal;nice;young;little;many
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,friend,good;big;small;old;new;nice;young;little;best
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,leader,good;big;small;new;old;strong;nice;important;great;real
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,mother,good;big;small;old;new;nice;young;little;great
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,partner,good;big;small;new;old;nice;young;little;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,rival,big;small;old;new;hard;strong;little;great;good;bad
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,sister,big;small;old;new;good;nice;young;little;great
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Social Relationships,stranger,big;small;old;new;nice;young;good;bad;dangerous;scary
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,above,big;small;new;old;good;high;far;near;little;great
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,back,big;small;new;old;good;nice;hard;soft;long;short
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,below,big;small;new;old;good;low;far;near;little;great
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,east,big;small;new;old;good;far;near;cold;hot;warm
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,front,big;small;new;old;good;nice;long;short;clean;dirty
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,inside,big;small;new;old;good;nice;dark;light;warm;cold
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,left,big;small;new;old;good;bad;nice;right;wrong;far
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,north,big;small;new;old;good;far;near;cold;strong;weak
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,outside,big;small;new;old;good;nice;dark;light;warm;cold
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,right,big;small;new;old;good;bad;nice;left;wrong;far
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,south,big;small;new;old;good;far;near;hot;strong;weak
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Spatial Concepts,west,big;small;new;old;good;far;near;cold;hot;warm
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,century,big;old;new;long;short;past;next;good;bad;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,day,big;small;new;old;good;bad;long;short;nice;sunny
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,evening,big;small;new;old;good;bad;long;short;nice;dark
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,hour,big;small;new;old;long;short;good;bad;early;late
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,minute,big;small;new;old;long;short;good;bad;early;late
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,month,big;small;new;old;long;short;good;bad;early;late
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,morning,big;small;new;old;good;bad;long;short;nice;early
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,night,big;small;new;old;good;bad;long;short;nice;dark
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,season,big;small;new;old;long;short;good;bad;warm;cold
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,second,big;small;new;old;long;short;good;bad;early;late
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,week,big;small;new;old;long;short;good;bad;early;late
+gemini-2.0-flash,basic,1.0,PL # Polish,B1,most frequent,Time Concepts,year,big;small;new;old;long;short;good;bad;early;late
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,anger,big;bad;strong;hot;real;blind;cold;silent;public;little
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,courage,big;great;true;strong;brave;much;little;more;pure;quiet
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,fear,big;great;real;strong;little;deep;much;public;sudden;dark
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,freedom,big;great;real;much;new;political;economic;little;more;personal
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,happiness,big;great;true;real;much;more;little;simple;pure;quiet
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,hate,big;strong;deep;great;much;little;real;more;open;public
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,honesty,great;true;real;much;more;little;full;simple;open;pure
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,justice,big;great;social;true;real;economic;much;little;more;fair
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,knowledge,big;great;true;good;much;little;more;important;public;new
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,love,big;great;true;real;deep;much;little;more;first;pure
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,peace,big;great;real;much;little;more;new;international;simple;world
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Abstract Concepts,wisdom,great;true;much;more;little;old;real;quiet;simple;deep
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,bell,big;small;loud;quiet;church;school;hand;electric;old;new
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,candle,big;small;white;red;long;short;new;old;wax;burning
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,carpet,big;small;new;old;red;green;soft;wool;Persian;nice
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,coin,big;small;old;new;gold;silver;metal;round;rare;foreign
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,crown,big;gold;royal;silver;small;new;old;important;heavy;light
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,flag,big;small;new;old;national;red;white;blue;important;waving
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,mask,big;small;new;old;white;black;strange;funny;beautiful;scary
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,necklace,big;small;gold;silver;new;old;long;short;pearl;beautiful
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,painting,big;small;new;old;beautiful;good;famous;important;oil;wall
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,ring,big;small;gold;silver;new;old;diamond;wedding;simple;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,statue,big;small;new;old;gold;silver;stone;bronze;famous;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Cultural Artifacts,vase,big;small;new;old;glass;ceramic;beautiful;flower;empty;full
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,cloud,big;small;white;grey;dark;black;rain;storm;heavy;light
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,earthquake,big;strong;small;new;old;major;minor;real;bad;sudden
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,fog,big;thick;heavy;white;grey;dark;dense;sea;morning;cold
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,lightning,big;strong;bright;sudden;real;electric;dangerous;far;near;silent
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,rain,big;heavy;light;hard;soft;cold;warm;long;new;acid
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,rainbow,big;beautiful;bright;colorful;new;small;high;double;rare;summer
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,snow,big;heavy;light;soft;cold;white;new;fresh;deep;wet
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,storm,big;strong;bad;heavy;real;electric;summer;winter;rain;wind
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,thunder,big;loud;strong;real;heavy;far;near;sudden;deep;rolling
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,tide,big;high;low;new;full;strong;fast;slow;real;sea
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,volcano,big;active;dormant;new;old;high;dangerous;important;real;strong
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Environmental Phenomena,wind,big;strong;cold;hot;dry;wet;new;fast;slow;hard
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,apple,big;small;red;green;yellow;new;fresh;sweet;sour;good
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,banana,big;small;yellow;green;ripe;sweet;new;good;fresh;soft
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,beef,big;new;good;fresh;raw;cooked;rare;expensive;cheap;red
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,bread,big;small;new;fresh;white;brown;whole;wheat;good;hard
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,broccoli,big;new;green;fresh;good;raw;cooked;steamed;little;more
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,cheese,big;small;new;old;white;yellow;hard;soft;good;strong
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,chicken,big;small;new;good;fresh;raw;cooked;fried;grilled;roasted
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,egg,big;small;new;fresh;white;brown;hard;soft;boiled;fried
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,fish,big;small;new;fresh;raw;cooked;fried;grilled;expensive;cheap
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,pasta,big;small;new;fresh;white;yellow;cooked;dry;long;short
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,rice,big;small;new;white;brown;cooked;dry;long;short;good
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Food Items,soup,big;hot;cold;good;new;fresh;thick;thin;chicken;tomato
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,artist,big;great;famous;good;new;young;old;important;real;talented
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,athlete,big;strong;good;young;old;fast;professional;talented;famous;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,chef,big;famous;good;new;young;old;professional;talented;important;head
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,doctor,big;good;young;old;important;new;real;famous;experienced;family
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,engineer,big;good;new;young;old;important;civil;mechanical;electrical;real
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,farmer,big;small;new;young;old;good;hard;local;important;family
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,lawyer,big;good;new;young;old;important;famous;experienced;family;real
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,musician,big;good;new;young;old;famous;talented;important;professional;real
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,scientist,big;good;new;young;old;important;famous;real;leading;great
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,soldier,big;young;old;brave;good;strong;important;new;real;professional
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,teacher,big;good;new;young;old;important;hard;experienced;best;local
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Human Roles,writer,big;good;new;young;old;famous;important;talented;real;best
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,book,big;small;new;old;good;important;interesting;long;short;hard
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,bridge,big;small;new;old;long;high;important;famous;stone;metal
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,drums,big;small;new;old;loud;quiet;electronic;real;musical;african
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,earth,big;small;new;old;round;flat;dry;wet;hot;cold
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,flute,big;small;new;old;silver;wooden;long;short;musical;nice
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,key,big;small;new;old;gold;silver;important;metal;house;car
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,knife,big;small;new;old;sharp;blunt;kitchen;pocket;dangerous;safe
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,lock,big;small;new;old;gold;silver;strong;important;safe;hard
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,moon,big;small;new;old;full;bright;dark;round;crescent;far
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,pen,big;small;new;old;black;blue;red;good;cheap;expensive
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,sun,big;hot;bright;new;old;yellow;far;near;summer;winter
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Inanimate Objects,sword,big;small;new;old;long;sharp;metal;steel;dangerous;strong
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,cat,big;small;new;old;black;white;grey;good;cute;funny
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,dog,big;small;new;old;black;white;brown;good;cute;friendly
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,dolphin,big;small;new;young;old;grey;good;smart;playful;wild
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,elephant,big;grey;old;young;african;indian;good;wild;strong;heavy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,hamster,small;new;young;old;brown;white;cute;good;funny;little
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,monkey,big;small;new;young;old;brown;good;smart;funny;wild
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,mouse,small;new;young;old;grey;white;cute;little;wild;house
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,peacock,big;beautiful;colorful;new;young;old;blue;green;exotic;royal
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,rabbit,big;small;new;young;old;white;brown;cute;good;funny
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,shark,big;small;new;young;old;grey;white;dangerous;strong;fast
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,snake,big;small;new;young;old;green;brown;dangerous;long;thin
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Neutral Animals,whale,big;new;young;old;grey;blue;good;wild;strong;heavy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,city,big;small;new;old;important;famous;beautiful;modern;historic;industrial
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,desert,big;small;new;old;hot;dry;sandy;empty;beautiful;dangerous
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,forest,big;small;new;old;green;dark;dense;beautiful;wild;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,island,big;small;new;old;green;beautiful;tropical;important;deserted;volcanic
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,lake,big;small;new;old;blue;deep;beautiful;clean;dirty;cold
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,mountain,big;high;new;old;green;snowy;rocky;beautiful;dangerous;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,ocean,big;deep;blue;new;old;important;dangerous;cold;warm;clean
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,plain,big;small;new;old;green;flat;empty;open;beautiful;boring
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,plateau,big;high;flat;new;old;green;rocky;beautiful;dry;windy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,river,big;small;new;old;long;fast;slow;deep;clean;dirty
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,valley,big;small;new;old;green;deep;beautiful;wide;narrow;fertile
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Places,village,big;small;new;old;green;quiet;beautiful;peaceful;traditional;rural
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,cactus,big;small;new;old;green;spiky;desert;dry;tall;short
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,eggplant,big;small;new;fresh;purple;long;round;good;raw;cooked
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,flower,big;small;new;fresh;beautiful;colorful;red;white;yellow;fragrant
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,grass,big;small;new;green;fresh;long;short;dry;wet;soft
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,lettuce,big;small;new;fresh;green;crispy;good;raw;little;healthy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,mushroom,big;small;new;fresh;brown;white;wild;good;dangerous;edible
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,onion,big;small;new;fresh;white;yellow;strong;good;raw;cooked
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,pepper,big;small;new;fresh;red;green;black;hot;sweet;spicy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,potato,big;small;new;old;brown;white;good;cheap;boiled;fried
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,rose,big;small;new;fresh;red;white;pink;beautiful;fragrant;thorny
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,tomato,big;small;new;fresh;red;green;good;raw;cooked;juicy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Plants,tree,big;small;new;old;green;tall;short;strong;important;beautiful
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,ally,big;small;new;old;good;strong;important;political;military;close
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,brother,big;small;new;old;young;good;bad;older;younger
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,enemy,big;strong;bad;old;new;dangerous;important;political;military;personal
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,father,big;good;new;old;young;strong;important;real;adoptive;step
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,follower,big;small;new;young;old;good;bad;loyal;important;many
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,friend,big;good;new;old;young;best;close;real;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,leader,big;good;new;old;young;strong;important;political;military;great
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,mother,big;good;new;old;young;strong;important;real;adoptive;step
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,partner,big;good;new;old;young;business;life;important;close;strong
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,rival,big;strong;bad;new;old;important;business;political;personal;sport
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,sister,big;small;new;old;young;good;bad;older;younger
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Social Relationships,stranger,big;small;new;young;old;good;bad;dangerous;familiar;real
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,above,big;small;new;old;high;low;important;good;average;normal
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,back,big;small;new;old;good;bad;strong;weak;main;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,below,big;small;new;old;low;high;important;good;average;normal
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,east,big;small;new;old;far;near;important;good;easten;western
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,front,big;small;new;old;good;bad;important;main;front;back
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,inside,big;small;new;old;good;bad;important;warm;cold;dark
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,left,big;small;new;old;good;bad;left;right;important;political
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,north,big;small;new;old;far;near;important;cold;northern;southern
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,outside,big;small;new;old;good;bad;important;warm;cold;sunny
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,right,big;small;new;old;good;bad;right;left;important;political
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,south,big;small;new;old;far;near;important;hot;southern;northern
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Spatial Concepts,west,big;small;new;old;far;near;important;western;easten;good
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,century,big;small;new;old;good;bad;important;20th;21st;last
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,day,big;small;new;old;good;bad;long;short;sunny;rainy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,evening,big;small;new;old;good;bad;long;short;nice;quiet
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,hour,big;small;new;old;good;bad;long;short;important;busy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,minute,big;small;new;old;good;bad;long;short;important;busy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,month,big;small;new;old;good;bad;long;short;important;busy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,morning,big;small;new;old;good;bad;long;short;nice;busy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,night,big;small;new;old;good;bad;long;short;dark;quiet
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,season,big;new;old;good;bad;long;short;summer;winter;spring
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,second,big;small;new;old;good;bad;long;short;important;busy
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,week,big;small;new;old;good;bad;long;short;busy;important
+gemini-2.0-flash,basic,1.0,PL # Polish,B2,most frequent,Time Concepts,year,big;small;new;old;good;bad;long;short;important;busy
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,anger,deep;great;sudden;real;controlled;silent;righteous;bitter;cold;burning
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,courage,great;real;inner;moral;true;physical;blind;amazing;quiet;displayed
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,fear,great;real;deep;irrational;common;growing;hidden;paralyzing;primal;overwhelming
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,freedom,real;great;limited;individual;political;economic;personal;full;basic;national
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,happiness,real;great;true;pure;simple;general;everyday;inner;sudden;total
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,hate,great;real;deep;pure;blind;consuming;irrational;intense;bitter;racial
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,honesty,real;great;true;complete;brutal;refreshing;basic;simple;painful;public
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,justice,real;social;economic;basic;environmental;equal;fair;rough;blind;true
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,knowledge,great;real;deep;true;basic;practical;expert;scientific;common;secret
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,love,great;real;true;deep;unconditional;passionate;romantic;simple;blind;platonic
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,peace,real;great;lasting;world;inner;fragile;uneasy;simple;true;temporary
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Abstract Concepts,wisdom,great;real;true;practical;ancient;inner;common;acquired;simple;collective
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,bell,loud;big;small;church;warning;school;front;dinner;bicycle;doorbell
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,candle,small;big;wax;scented;burning;white;red;christmas;tallow;long
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,carpet,big;small;red;oriental;wool;thick;persian;new;old;colorful
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,coin,gold;silver;small;big;rare;old;valuable;foreign;lucky;ancient
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,crown,gold;silver;royal;big;small;jeweled;imperial;simple;diamond;heavy
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,flag,national;big;small;red;white;blue;green;waving;american;new
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,mask,big;small;scary;protective;simple;black;white;theatrical;paper;surgical
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;long;short;simple;beaded;beautiful;expensive
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,painting,big;small;beautiful;old;famous;abstract;impressionist;oil;watercolor;original
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;small;big;simple;magic;valuable
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,statue,big;small;bronze;stone;marble;famous;ancient;tall;public;liberty
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Cultural Artifacts,vase,glass;ceramic;big;small;flower;valuable;antique;simple;blue;tall
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,cloud,white;big;dark;grey;rain;fluffy;low;heavy;storm;thunder
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;major;recent;devastating;powerful;deadly;unexpected;aftershock
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,fog,thick;dense;heavy;white;morning;sea;ground;light;rolling;freezing
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;fork;strong;dangerous;near;distant;silent;summer;winter
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;gentle;cold;warm;steady;acid;summer
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,rainbow,bright;beautiful;double;colorful;faint;full;complete;large;small;distant
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,snow,heavy;light;white;fresh;deep;falling;wet;dry;early;first
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,storm,big;heavy;strong;bad;winter;summer;rain;wind;thunder;electrical
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,thunder,loud;big;distant;near;heavy;rolling;echoing;sudden;deep;booming
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;spring;neap;incoming;outgoing;rising;falling
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;small;dangerous;live;volcanic;erupting;smoking
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;north;south;east;west;gusty
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,apple,red;green;big;small;sweet;sour;fresh;ripe;juicy;delicious
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,banana,yellow;ripe;green;sweet;fresh;big;small;organic;long;curved
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,beef,raw;cooked;ground;roast;tender;tough;lean;fatty;prime;grilled
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,bread,white;brown;whole;fresh;stale;sliced;toasted;hard;soft;wheat
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,broccoli,green;fresh;raw;cooked;steamed;organic;frozen;boiled;healthy;chopped
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,cheese,hard;soft;strong;mild;cheddar;swiss;blue;fresh;grated;melted
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,chicken,raw;cooked;fried;grilled;roasted;baked;boneless;skinless;organic;tender
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,egg,raw;cooked;fried;boiled;scrambled;hard;soft;fresh;organic;white
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,fish,fresh;raw;cooked;fried;grilled;baked;saltwater;freshwater;whole;small
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,pasta,cooked;dry;fresh;long;short;italian;whole;durum;wheat;elbow
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,rice,white;brown;cooked;fried;long;short;basmati;jasmine;wild;boiled
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Food Items,soup,hot;cold;chicken;vegetable;tomato;creamy;thick;thin;homemade;hearty
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,artist,great;famous;young;old;talented;unknown;local;starving;modern;abstract
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,athlete,great;young;professional;amateur;olympic;famous;talented;injured;local;college
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,chef,famous;good;great;french;italian;local;pastry;head;sous;talented
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,doctor,good;young;old;family;local;general;specialist;experienced;head;senior
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,engineer,young;old;civil;mechanical;electrical;software;structural;experienced;chief;junior
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,farmer,young;old;local;family;small;big;organic;dairy;hard-working;rich
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,lawyer,good;young;old;experienced;corporate;criminal;family;local;successful;senior
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,musician,young;old;talented;famous;local;professional;amateur;street;touring;classical
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,scientist,young;old;famous;leading;brilliant;research;data;local;senior;junior
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,soldier,young;brave;experienced;trained;injured;fallen;active;retired;local;foreign
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,teacher,young;old;experienced;good;great;local;primary;secondary;high school;dedicated
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Human Roles,writer,young;old;famous;great;talented;local;unknown;freelance;professional;published
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,book,good;old;new;big;small;interesting;important;long;short;popular
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,bridge,big;long;old;new;stone;steel;suspension;wooden;famous;local
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,drums,loud;big;small;snare;bass;electronic;acoustic;african;steel;marching
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,earth,big;round;small;flat;blue;green;dry;wet;fertile;barren
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,flute,silver;wooden;long;short;high;low;simple;orchestral;pan;bamboo
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,key,big;small;gold;silver;iron;important;master;spare;house;car
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,knife,sharp;dull;big;small;kitchen;pocket;hunting;butter;steak;carving
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,lock,big;small;strong;weak;broken;simple;combination;key;secure;padlock
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,moon,full;new;bright;dark;silver;crescent;half;waxing;waning;giant
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,pen,blue;black;red;ballpoint;fountain;new;old;expensive;cheap;broken
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,sun,bright;hot;warm;strong;setting;rising;morning;afternoon;summer;winter
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Inanimate Objects,sword,long;sharp;old;new;steel;iron;samurai;medieval;heavy;light
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,cat,small;big;black;white;grey;cute;fluffy;stray;domestic;wild
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,dog,big;small;black;white;brown;cute;friendly;stray;domestic;wild
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,dolphin,small;big;grey;friendly;intelligent;wild;bottlenose;trained;playful;fast
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,elephant,big;grey;african;indian;wild;zoo;old;young;strong;large
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,hamster,small;cute;brown;white;pet;fluffy;golden;dwarf;syrian;russian
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,monkey,small;cute;brown;funny;wild;zoo;playful;clever;intelligent;naughty
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,mouse,small;cute;grey;white;wild;pet;house;field;squeaky;fast
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,peacock,big;colorful;beautiful;male;indian;zoo;proud;loud;exotic;elegant
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,rabbit,small;cute;white;brown;wild;pet;fluffy;long-eared;fast;domestic
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,shark,big;dangerous;white;grey;great;small;hammerhead;tiger;blue;fast
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,snake,long;green;black;brown;dangerous;poisonous;wild;small;big;thin
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Neutral Animals,whale,big;blue;grey;humpback;orca;small;wild;marine;endangered;migrating
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,city,big;small;old;new;modern;ancient;capital;industrial;coastal;historic
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,desert,big;hot;dry;sandy;barren;vast;empty;rocky;cold;silent
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,forest,big;green;dark;old;dense;tropical;temperate;pine;oak;silent
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,island,small;big;tropical;desert;volcanic;inhabited;uninhabited;remote;beautiful;green
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,lake,big;small;blue;deep;clear;fresh;salt;frozen;peaceful;scenic
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,mountain,big;high;snow-capped;rocky;green;steep;dangerous;beautiful;distant;majestic
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,ocean,big;blue;deep;vast;cold;warm;salty;pacific;atlantic;arctic
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,plain,big;flat;open;green;grassy;empty;vast;treeless;fertile;wide
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,plateau,high;flat;large;arid;rocky;elevated;barren;wind-swept;mesa;vast
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,river,big;long;small;short;deep;wide;flowing;muddy;clean;winding
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,valley,green;long;wide;deep;narrow;scenic;fertile;peaceful;beautiful;hidden
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Places,village,small;quiet;old;rural;traditional;peaceful;remote;isolated;picturesque;friendly
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,cactus,green;big;small;prickly;desert;tall;short;flowering;saguaro;barrel
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,eggplant,purple;big;small;long;fresh;cooked;grilled;fried;roasted;stuffed
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,flower,beautiful;colorful;small;big;red;white;yellow;fragrant;fresh;wild
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,grass,green;long;short;wet;dry;fresh;artificial;lawn;tall;wild
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,lettuce,green;fresh;crisp;romaine;iceberg;small;big;leafy;organic;chopped
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,mushroom,big;small;brown;white;wild;poisonous;edible;fresh;dried;cooked
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,onion,white;yellow;red;big;small;raw;cooked;fried;chopped;sweet
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,pepper,black;white;red;green;hot;sweet;spicy;small;big;ground
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,potato,white;red;yellow;big;small;baked;fried;mashed;boiled;roasted
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fragrant;long-stemmed;thorny;fresh;dried
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,tomato,red;green;big;small;ripe;fresh;cooked;sliced;cherry;juicy
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Plants,tree,big;tall;green;old;young;small;leafy;deciduous;evergreen;bare
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,ally,strong;good;close;important;key;reliable;valuable;political;natural;old
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,brother,older;younger;big;little;close;step;half;adopted;favorite;black
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,enemy,great;bitter;mortal;old;dangerous;political;secret;sworn;fierce;personal
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,father,old;young;good;bad;step;adoptive;biological;single;loving;strict
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,follower,loyal;devoted;faithful;blind;active;passive;online;social media;political;fanatical
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,friend,good;old;close;best;new;true;loyal;childhood;casual;online
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,leader,strong;good;great;new;young;old;political;effective;charismatic;popular
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,mother,old;young;good;bad;step;adoptive;biological;single;loving;strict
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,partner,business;life;long-term;short-term;close;working;senior;junior;main;dance
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,rival,fierce;old;main;strong;bitter;political;sporting;business;academic;friendly
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,sister,older;younger;big;little;close;step;half;adopted;favorite;twin
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Social Relationships,stranger,complete;total;strange;unknown;dangerous;helpful;friendly;silent;mysterious;tall
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,above,far;high;directly;slightly;just;clearly;always;usually;simply;generally
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,back,far;long;straight;strong;broad;upper;lower;curved;aching;healthy
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,below,far;deep;directly;slightly;just;clearly;always;usually;simply;generally
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,east,far;middle;wild;near;south;north;central
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,front,far;long;straight;big;main;upper;lower;right;left;open
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,inside,far;deep;warm;dry;safe;clean;dark;right;left;open
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,left,far;hard;right;upper;lower;main;front;back;open;closed
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,north,far;east;south;west;cold;wild;upper;central;lower;near
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,outside,far;cold;wet;dark;safe;clean;big;right;left;open
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,right,far;hard;left;main;upper;lower;front;back;open;closed
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,south,far;east;north;west;warm;wild;upper;central;lower;near
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Spatial Concepts,west,far;middle;wild;near;south;north;central
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,century,long;short;20th;21st;19th;past;present;future;new;old
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,day,good;long;short;sunny;rainy;hot;cold;first;last;next
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,evening,good;long;short;warm;cold;nice;quiet;busy;dark;late
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;last;next;golden;waking
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,minute,long;short;few;last;next;crucial;wasted;saved;important;final
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,month,long;short;first;last;next;past;present;future;spring;summer
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,morning,good;early;late;sunny;cold;warm;busy;quiet;first;lazy
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,night,good;long;short;dark;warm;cold;quiet;busy;first;last
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,season,spring;summer;autumn;winter;long;short;dry;wet;rainy;cold
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,second,long;short;last;next;crucial;wasted;saved;important;final;split
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,week,long;short;next;last;busy;quiet;first;whole;full;working
+gemini-2.0-flash,basic,1.0,PL # Polish,C1,most frequent,Time Concepts,year,good;bad;new;old;long;short;last;next;leap;coming
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,anger,blind;sudden;deep;suppressed;intense;righteous;cold;impotent;volcanic;uncontrollable
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,courage,true;unwavering;quiet;moral;fierce;boundless;reckless;remarkable;inspiring;amazing
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,fear,deep-seated;irrational;crippling;paralyzing;overwhelming;primal;underlying;constant;lurking;consuming
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,freedom,fundamental;individual;basic;hard-won;limited;political;economic;personal;illusory;conditional
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,happiness,pure;genuine;simple;fleeting;contagious;inner;profound;childlike;relative;unexpected
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,hate,blind;irrational;consuming;bitter;deep-seated;visceral;corrosive;intense;mutual;abiding
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,honesty,brutal;refreshing;absolute;unwavering;complete;questionable;fundamental;simple;rare;commendable
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,justice,blind;social;fair;equal;impartial;rough;restorative;retributive;swift;delayed
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,knowledge,vast;extensive;in-depth;practical;theoretical;tacit;specialized;acquired;common;esoteric
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,love,unconditional;true;passionate;enduring;selfless;requited;unrequited;forbidden;maternal;brotherly
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,peace,fragile;lasting;uneasy;inner;global;temporary;negotiated;hard-won;relative;elusive
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Abstract Concepts,wisdom,practical;ancient;accumulated;conventional;spiritual;profound;innate;collective;acquired;traditional
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,bell,loud;church;clear;brass;silver;small;school;distant;warning;antique
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,candle,burning;wax;scented;tall;short;white;colorful;flickering;stubby;votive
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,carpet,oriental;Persian;wool;thick;red;patterned;old;worn;handmade;shag
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,coin,silver;gold;rare;old;ancient;valuable;commemorative;foreign;lucky;worn
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;silver;ceremonial;heavy;ornate;simple;ancient;inherited
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,flag,national;waving;red;white;blue;tattered;colorful;historical;international;symbolic
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,mask,Venetian;theatrical;surgical;protective;creepy;Halloween;tribal;oxygen;gas;decorative
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;beaded;long;short;antique;delicate;chunky
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,painting,oil;watercolor;abstract;modern;impressionist;realistic;large;small;famous;valuable
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;simple;ornate;antique;valuable;costume
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,statue,bronze;marble;stone;tall;imposing;ancient;historical;religious;commemorative;lifelike
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Cultural Artifacts,vase,glass;ceramic;porcelain;tall;short;antique;decorative;colorful;simple;ornate
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,cloud,dark;grey;white;fluffy;rain;thunder;gathering;scattered;towering;distant
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,earthquake,strong;powerful;devastating;major;minor;unexpected;recent;local;felt;tremor
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,fog,thick;dense;heavy;morning;sea;pea-soup;mysterious;swirling;lifting;eerie
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;sheet;distant;dangerous;spectacular;silent;frequent;rare
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,rain,heavy;light;constant;torrential;acid;gentle;refreshing;warm;cold;intermittent
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;faint;arched;vibrant;fleeting;magical;elusive;partial
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,snow,heavy;light;falling;deep;fresh;powdery;wet;driven;drifting;melting
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,storm,severe;violent;electrical;thunder;rain;snow;approaching;passing;tropical;brewing
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;echoing;crashing;booming;ominous;heavy;continuous;sporadic
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,tide,high;low;spring;neap;incoming;outgoing;strong;gentle;rising;falling
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;volcanic;erupting;smoking;threatening;nearby;remote;ancient
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;gusty;prevailing;light;whistling;howling;easterly
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,apple,red;green;crisp;juicy;sweet;sour;ripe;unripe;organic;Granny Smith
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,banana,yellow;ripe;unripe;sweet;soft;mushy;organic;Cavendish;small;large
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,beef,raw;cooked;tender;tough;lean;ground;prime;aged;grass-fed;organic
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,bread,white;brown;wholemeal;fresh;stale;sourdough;crusty;sliced;toasted;rye
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;steamed;organic;frozen;tender;florets;healthy
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,cheese,cheddar;swiss;hard;soft;blue;strong;mild;grated;melted;processed
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,chicken,roasted;fried;grilled;raw;cooked;boneless;skinless;organic;free-range;tender
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,egg,fried;boiled;scrambled;raw;fresh;organic;hard-boiled;soft-boiled;cracked;runny
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,fish,fresh;cooked;fried;grilled;smoked;raw;saltwater;freshwater;bony;flaky
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,pasta,spaghetti;penne;fresh;dried;cooked;al dente;filled;whole-wheat;durum;imported
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,rice,white;brown;basmati;long-grain;short-grain;cooked;boiled;steamed;sticky;wild
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Food Items,soup,hot;cold;vegetable;chicken;tomato;creamy;thick;thin;homemade;canned
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,artist,famous;talented;struggling;contemporary;modern;abstract;local;aspiring;unknown;established
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,athlete,professional;amateur;talented;dedicated;competitive;young;experienced;injured;successful;Olympic
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,chef,famous;talented;experienced;head;sous;celebrity;executive;pastry;line;Michelin-starred
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,doctor,experienced;general;specialist;local;family;young;senior;qualified;caring;respected
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;experienced;qualified;chief;design;structural;consulting
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,farmer,local;organic;family;small;large;experienced;young;struggling;successful;independent
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,lawyer,experienced;successful;corporate;criminal;defense;prosecuting;young;senior;qualified;reputable
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,musician,talented;professional;amateur;local;young;experienced;famous;struggling;jazz;classical
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,scientist,leading;renowned;brilliant;young;experienced;research;senior;qualified;dedicated;respected
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,soldier,brave;young;experienced;veteran;injured;trained;loyal;dedicated;fallen;active-duty
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,teacher,dedicated;experienced;qualified;inspiring;young;old;strict;kind;effective;enthusiastic
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Human Roles,writer,famous;talented;aspiring;published;unpublished;young;experienced;local;successful;struggling
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,book,interesting;long;short;old;new;paperback;hardcover;used;rare;educational
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,bridge,long;suspension;stone;old;new;wooden;steel;narrow;wide;pedestrian
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,drums,loud;percussion;snare;bass;acoustic;electronic;tribal;marching;steel;tuned
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,earth,round;brown;green;flat;dry;wet;barren;fertile;cultivated;arable
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,flute,silver;wooden;high;low;piccolo;concert;baroque;simple;ornate;pan
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,key,metal;small;important;spare;lost;found;house;car;master;skeleton
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,knife,sharp;blunt;kitchen;carving;hunting;pocket;butter;serrated;paring;steak
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,lock,secure;strong;combination;padlock;door;window;simple;complex;rusty;modern
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,moon,full;bright;new;crescent;waning;waxing;distant;silvery;yellow;gibbous
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,pen,blue;black;red;ballpoint;fountain;expensive;cheap;disposable;fine;felt-tip
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,sun,bright;hot;warm;shining;setting;rising;yellow;distant;pale;intense
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Inanimate Objects,sword,sharp;long;short;steel;ceremonial;antique;samurai;broad;double-edged;medieval
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,cat,black;white;fluffy;ginger;stray;domestic;wild;small;big;playful
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,dog,loyal;friendly;big;small;stray;domestic;wild;black;brown;playful
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,dolphin,playful;intelligent;friendly;grey;bottle-nosed;wild;trained;small;big;aquatic
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,elephant,big;grey;African;Asian;wild;trained;old;young;strong;gentle
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,hamster,small;furry;brown;golden;pet;cute;tiny;active;sleepy;playful
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,monkey,small;playful;intelligent;wild;trained;brown;funny;noisy;mischievous;cute
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,mouse,small;grey;wild;domestic;white;brown;field;house;squeaky;tiny
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;large;iridescent;exotic;male;displaying;vibrant;elegant
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,rabbit,white;brown;small;fluffy;wild;domestic;pet;cute;long-eared;hopping
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,shark,big;dangerous;great white;hammerhead;small;grey;predatory;aquatic;fierce;toothy
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,snake,long;thin;poisonous;venomous;green;brown;black;garden;wild;pet
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Neutral Animals,whale,big;blue;grey;humpback;killer;aquatic;marine;endangered;majestic;singing
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,city,big;large;modern;ancient;bustling;crowded;historical;industrial;coastal;metropolitan
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,desert,hot;arid;sandy;barren;vast;dry;remote;desolate;rocky;unexplored
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,forest,dense;green;dark;old-growth;tropical;temperate;ancient;vast;protected;wild
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,island,tropical;small;remote;volcanic;deserted;beautiful;populated;large;pacific;Caribbean
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,lake,large;deep;clear;still;blue;freshwater;glacial;scenic;peaceful;beautiful
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,mountain,high;tall;snow-capped;rocky;rugged;majestic;distant;volcanic;steep;forested
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,ocean,vast;deep;blue;salty;cold;warm;turbulent;pacific;Atlantic;Indian
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,plain,flat;open;vast;grassy;treeless;fertile;agricultural;empty;windy;rolling
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,plateau,high;flat;arid;elevated;rocky;treeless;vast;wind-swept;exposed;isolated
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,river,long;wide;deep;fast-flowing;slow-flowing;navigable;muddy;clear;scenic;winding
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,valley,green;fertile;narrow;wide;deep;shallow;scenic;river;mountain;peaceful
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Places,village,small;quiet;rural;traditional;remote;picturesque;friendly;historic;charming;peaceful
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,cactus,prickly;desert;tall;short;green;flowering;thorny;spiny;succulent;water-storing
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,eggplant,purple;large;small;ripe;raw;cooked;grilled;roasted;stuffed;fresh
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;blooming;fresh;wilting;wild;garden;delicate;exotic
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,grass,green;lush;short;long;dry;wet;overgrown;freshly-cut;artificial;thick
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,lettuce,green;fresh;crisp;leafy;raw;salad;iceberg;romaine;butter;organic
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,mushroom,edible;poisonous;wild;cultivated;brown;white;small;large;fresh;dried
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,onion,white;yellow;red;raw;cooked;fried;sweet;strong;pungent;chopped
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,pepper,red;green;black;spicy;hot;sweet;bell;chili;ground;whole
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,potato,white;red;baked;fried;mashed;roasted;small;large;new;old
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,rose,red;pink;white;fragrant;beautiful;thorny;blooming;fresh;wilting;long-stemmed
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,tomato,red;ripe;green;fresh;raw;cooked;juicy;small;large;organic
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Plants,tree,tall;green;old;big;deciduous;evergreen;strong;leafy;shady;bare
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,ally,strong;reliable;close;loyal;important;political;military;strategic;valuable;trusted
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,brother,older;younger;close;loving;protective;estranged;half;step;adoptive;little
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,enemy,bitter;dangerous;sworn;powerful;formidable;common;mortal;political;personal;ruthless
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,father,loving;caring;strict;biological;adoptive;absent;older;young;protective;supportive
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,follower,loyal;devoted;enthusiastic;blind;faithful;numerous;online;social media;active;passive
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,friend,close;loyal;true;old;best;childhood;new;supportive;casual;online
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,leader,strong;charismatic;effective;decisive;political;elected;appointed;inspirational;powerful;corrupt
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,mother,loving;caring;biological;adoptive;strict;young;old;working;stay-at-home;single
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,partner,business;life;romantic;legal;trusted;equal;senior;junior;founding;managing
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,rival,fierce;main;sporting;political;business;academic;long-time;bitter;friendly;worthy
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,sister,older;younger;close;loving;protective;estranged;half;step;adoptive;little
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Social Relationships,stranger,unknown;mysterious;dangerous;friendly;helpful;total;complete;passing;odd;familiar
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,above,high;clear;far;directly;always;usually;often;frequently;sometimes;rarely
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,back,strong;lower;upper;painful;aching;injured;straight;curved;broad;narrow
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,below,far;directly;always;usually;often;frequently;sometimes;rarely;much;significantly
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,east,far;central;south;north;west;near;always;often;frequently;rarely
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,front,main;directly;far;near;always;often;frequently;usually;clear
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,inside,far;deep;always;often;frequently;usually;clear;the;near;dark
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,left,far;always;often;frequently;usually;near;clear;directly;political
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,north,far;central;south;east;west;near;always;often;frequently;rarely
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,outside,always;often;frequently;usually;far;near;beautiful;clear;the;cold
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,right,always;often;frequently;usually;far;clear;near;political;directly;completely
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,south,far;central;north;east;west;near;always;often;frequently;rarely
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Spatial Concepts,west,far;central;south;north;east;near;always;often;frequently;rarely
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,century,21st;20th;past;present;future;long;short;modern;bygone;turning
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,day,sunny;rainy;long;short;busy;good;bad;hard;easy;typical
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,evening,pleasant;warm;cool;dark;quiet;busy;relaxing;long;short;typical
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,hour,long;short;late;early;golden;crucial;lost;wasted;free;busy
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,minute,long;short;crucial;wasted;last;first;fleeting;precious;spare;agonizing
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,month,long;short;past;next;coming;current;spring;summer;autumn;winter
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,morning,early;late;sunny;crisp;foggy;busy;productive;quiet;typical;beautiful
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,night,dark;long;short;starry;clear;cold;warm;quiet;sleepless;peaceful
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,season,spring;summer;autumn;winter;dry;wet;long;short;tourist;holiday
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,second,split;fleeting;crucial;wasted;last;first;spare;precious;agonizing;defining
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,week,long;short;busy;past;next;coming;current;holiday;work;school
+gemini-2.0-flash,basic,1.0,PL # Polish,C2,most frequent,Time Concepts,year,long;short;past;next;coming;current;election;academic;financial;record
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,anger,great;sudden;deep;blind;cold;righteous;suppressed;burning;controlled;impotent
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,courage,great;true;moral;quiet;unexpected;inner;steadfast;fierce;selfless;remarkable
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,fear,great;deep;irrational;overwhelming;mortal;primal;lingering;paralyzing;nameless;constant
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,freedom,great;true;political;economic;personal;religious;national;individual;limited;hard-won
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,happiness,great;true;simple;unexpected;pure;childish;quiet;fleeting;lasting;genuine
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,hate,great;deep;abiding;blind;irrational;consuming;bitter;intense;ingrained;simmering
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,honesty,great;true;brutal;complete;refreshing;rare;simple;unquestionable;painful;unwavering
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,justice,great;true;social;economic;equal;blind;swift;fair;impartial;rough
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,knowledge,great;true;deep;practical;scientific;specialized;tacit;theoretical;vast;useful
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,love,great;true;unconditional;maternal;paternal;romantic;brotherly;platonic;forbidden;enduring
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,peace,great;true;lasting;uneasy;fragile;international;domestic;inner;hard-won;temporary
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Abstract Concepts,wisdom,great;true;ancient;practical;acquired;inherent;quiet;intuitive;profound;collective
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;church;warning;school;brass;bronze;silver;dinner;hand
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,candle,burning;wax;scented;white;tall;short;stubby;votive;paraffin;dripping
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,carpet,oriental;Persian;thick;thin;wool;worn;expensive;rolled;red;shaggy
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,coin,gold;silver;old;rare;foreign;lucky;counterfeit;collectible;shiny;valuable
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,crown,gold;silver;royal;jeweled;heavy;ceremonial;symbolic;ancient;ornate;precious
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,flag,national;waving;red;white;blue;tattered;flown;half-mast;proud;patriotic
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,mask,scary;plastic;paper;Venetian;protective;surgical;elaborate;carnival;painted;white
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;beaded;long;short;delicate;statement;chunky
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,painting,old;famous;beautiful;abstract;modern;impressionist;oil;watercolor;framed;large
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;simple;ornate;signet;valuable;precious
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,statue,bronze;marble;stone;tall;old;famous;historical;public;commemorative;neoclassical
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Cultural Artifacts,vase,glass;ceramic;porcelain;tall;short;antique;flower;painted;decorative;crystal
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,cloud,white;gray;dark;fluffy;rain;storm;thunder;gathering;low;passing
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,earthquake,strong;devastating;major;minor;recent;unexpected;sudden;powerful;terrifying;violent
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;heavy;pea-soup;morning;lifting;creeping;white;coastal;mysterious
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;sheet;summer;distant;dangerous;powerful;electrifying;unexpected
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;hard;gentle;cold;warm;spring;summer;torrential
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;faint;beautiful;arched;fleeting;complete;vibrant;partial
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,snow,heavy;light;falling;fresh;white;deep;powdery;wet;drifting;blowing
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,storm,heavy;severe;powerful;winter;summer;approaching;brewing;passing;electrical;destructive
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,thunder,loud;deep;rumbling;distant;crashing;echoing;rolling;ominous;sudden;heavy
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,tide,high;low;incoming;outgoing;spring;neap;strong;rising;falling;powerful
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;erupting;volcanic;tall;majestic;dangerous;smoky;looming
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;whistling;howling;gusty;prevailing;shifting;stiff
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,apple,red;green;crisp;juicy;sweet;sour;ripe;rotten;shiny;delicious
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,banana,yellow;ripe;green;sweet;soft;overripe;peeled;curved;tropical;Cavendish
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,beef,raw;cooked;tender;tough;ground;roast;grilled;prime;aged;marbled
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,bread,white;wheat;whole;fresh;stale;crusty;sliced;toasted;warm;homemade
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,broccoli,green;fresh;raw;cooked;steamed;chopped;organic;healthy;florets;tender
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,cheese,hard;soft;sharp;mild;aged;blue;cheddar;Swiss;grated;sliced
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,chicken,fried;grilled;roasted;raw;cooked;tender;juicy;boneless;whole;seasoned
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,egg,raw;cooked;fried;scrambled;hard-boiled;soft-boiled;fresh;cracked;white;brown
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,fish,fresh;saltwater;freshwater;fried;grilled;baked;smoked;raw;bony;filleted
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,pasta,cooked;dry;long;short;whole-wheat;fresh;homemade;Italian;stuffed;al dente
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,rice,white;brown;cooked;sticky;fried;basmati;long-grain;short-grain;steamed;wild
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Food Items,soup,hot;cold;creamy;hearty;vegetable;chicken;tomato;homemade;thick;thin
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,artist,famous;talented;struggling;young;old;local;abstract;modern;classical;unknown
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,athlete,professional;amateur;young;talented;Olympic;strong;fast;injured;dedicated;competitive
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,chef,famous;talented;head;sous;executive;pastry;line;experienced;creative;demanding
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,doctor,young;old;experienced;caring;family;general;specialist;attending;on-call;dedicated
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;experienced;young;talented;chief;project;structural
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,farmer,local;small;family;organic;hardworking;independent;old;young;experienced;struggling
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,lawyer,experienced;young;corporate;criminal;defense;prosecuting;successful;senior;junior;sharp
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,musician,talented;famous;young;old;classical;jazz;rock;session;street;touring
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,scientist,young;old;research;leading;prominent;theoretical;experimental;dedicated;brilliant;curious
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,soldier,young;brave;experienced;decorated;injured;active;retired;veteran;fallen;loyal
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,teacher,experienced;young;dedicated;passionate;patient;strict;favorite;new;old;inspiring
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Human Roles,writer,famous;talented;young;old;established;struggling;freelance;published;aspiring;creative
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,book,old;new;interesting;popular;long;short;hard;paperback;leather-bound;fictional
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,bridge,old;new;long;short;suspension;stone;wooden;steel;covered;famous
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,drums,loud;big;small;snare;bass;acoustic;electronic;set;used;new
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,earth,round;blue;green;flat;fertile;barren;dusty;dry;wet;warm
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;concert;piccolo;transverse;simple;baroque;modern;expensive;delicate
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,key,metal;small;spare;lost;house;car;important;rusty;master;golden
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,knife,sharp;dull;kitchen;pocket;hunting;steak;butter;serrated;carving;paring
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,lock,metal;strong;secure;combination;key;broken;rusty;simple;complicated;padlock
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,moon,full;half;new;bright;dark;crescent;rising;setting;gibbous;waning
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,pen,black;blue;red;ballpoint;fountain;felt-tip;cheap;expensive;old;new
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,sun,bright;hot;warm;shining;setting;rising;morning;afternoon;summer;winter
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Inanimate Objects,sword,sharp;long;steel;old;antique;ceremonial;double-edged;single-edged;rusty;dull
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,cat,black;white;grey;small;big;fluffy;stray;domestic;young;old
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;brown;friendly;stray;loyal;young;old
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,dolphin,grey;playful;intelligent;friendly;wild;bottlenose;trained;young;injured;captive
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,elephant,big;grey;african;asian;wild;domesticated;young;old;injured;gentle
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,hamster,small;brown;cute;fluffy;pet;golden;Syrian;dwarf;energetic;sleepy
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,monkey,small;playful;intelligent;wild;trained;cute;baby;brown;curious;mischievous
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,mouse,small;grey;brown;wild;domestic;pet;house;field;white;scared
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,peacock,colorful;beautiful;large;male;Indian;crested;strutting;elegant;proud;stunning
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,rabbit,small;white;brown;wild;domestic;pet;fluffy;long-eared;cute;baby
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,shark,big;dangerous;white;grey;predatory;fierce;great;tiger;hammerhead;swimming
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,snake,long;green;venomous;poisonous;constricting;harmless;garden;grass;black;brown
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Neutral Animals,whale,big;blue;grey;humpback;baleen;toothed;migrating;singing;majestic;endangered
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,city,big;modern;old;historical;beautiful;crowded;busy;industrial;coastal;capital
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,desert,hot;dry;sandy;barren;vast;empty;arid;rocky;silent;unforgiving
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,forest,green;dense;old;ancient;dark;wild;vast;silent;protected;national
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,island,small;tropical;volcanic;desert;inhabited;uninhabited;remote;beautiful;large;rocky
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,lake,big;small;deep;shallow;clear;blue;freshwater;saltwater;frozen;calm
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,mountain,high;tall;snow-capped;rocky;green;steep;majestic;volcanic;distant;looming
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,ocean,big;deep;blue;vast;salty;cold;warm;stormy;pacific;atlantic
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,plain,flat;open;vast;grassy;treeless;endless;fertile;barren;windy;rolling
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,plateau,high;flat;rocky;arid;vast;elevated;windswept;barren;remote;tableland
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,river,long;wide;fast;slow;deep;shallow;clear;muddy;winding;mighty
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,valley,green;wide;narrow;deep;beautiful;fertile;hidden;peaceful;shaded;rolling
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Places,village,small;quiet;old;traditional;rural;remote;picturesque;peaceful;farming;historic
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,cactus,green;prickly;tall;short;desert;flowering;thorny;barrel;saguaro;prickly-pear
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,eggplant,purple;long;round;raw;cooked;grilled;fried;stuffed;roasted;tender
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;fresh;wild;blooming;exotic;delicate;simple;rare
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,grass,green;short;long;dry;wet;thick;thin;fresh;artificial;wild
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,lettuce,green;fresh;crisp;leafy;romaine;iceberg;butter;organic;chopped;mixed
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,mushroom,wild;edible;poisonous;brown;white;fresh;dried;cooked;sautéed;grilled
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,onion,white;yellow;red;raw;cooked;fried;chopped;sliced;sweet;strong
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,pepper,black;white;red;green;hot;sweet;bell;chili;ground;crushed
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,potato,white;red;russet;cooked;fried;mashed;baked;roasted;boiled;new
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,rose,red;pink;white;yellow;beautiful;fragrant;thorny;blooming;hybrid;long-stemmed
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,tomato,red;ripe;green;raw;cooked;sliced;chopped;cherry;plum;juicy
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Plants,tree,tall;green;old;big;deciduous;evergreen;leafy;strong;oak;maple
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,ally,strong;trusted;loyal;reliable;political;military;close;key;natural;unlikely
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,brother,older;younger;little;big;step;half;close;dear;loving;protective
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,enemy,bitter;sworn;mortal;dangerous;powerful;implacable;political;secret;hidden;unexpected
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,father,loving;caring;strict;old;young;step;adoptive;single;biological;late
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,follower,loyal;devoted;faithful;ardent;blind;online;social;numerous;potential;enthusiastic
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,friend,good;best;close;old;new;true;loyal;dear;casual;mutual
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,leader,strong;good;effective;charismatic;political;elected;appointed;natural;influential;decisive
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,mother,loving;caring;dear;old;young;step;adoptive;single;biological;late
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,partner,business;life;working;equal;silent;senior;junior;trusted;romantic;strategic
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,rival,bitter;fierce;strong;old;main;key;political;business;sporting;academic
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,sister,older;younger;little;big;step;half;close;dear;loving;protective
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Social Relationships,stranger,strange;unknown;mysterious;silent;passing;friendly;unfriendly;curious;helpful;wary
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,above,high;far;directly;immediately;just;slightly;well;clearly;conveniently;always
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,back,good;bad;sore;strong;weak;lower;upper;injured;broad;straight
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,below,far;deep;directly;immediately;just;slightly;well;clearly;conveniently;always
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,east,far;middle;wild;near;central;southeast;northeast;eastern;true;due
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,front,good;bad;near;far;immediate;forward;direct;main;open;exposed
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,inside,warm;cold;dark;light;dry;safe;secure;comfortable;dirty;clean
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,left,far;hard;soft;strong;weak;easy;clear;sharp;immediate;straight
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,north,far;near;middle;central;northern;true;northeast;northwest;cold;harsh
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,outside,warm;cold;dark;light;wet;dry;safe;dangerous;noisy;quiet
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,right,far;hard;easy;clear;sharp;immediate;straight;legal;moral;human
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,south,far;near;middle;central;southern;true;southeast;southwest;warm;humid
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Spatial Concepts,west,far;near;middle;central;western;true;southwest;northwest;wild;developed
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,century,past;present;future;twentieth;twenty-first;early;late;long;turbulent;significant
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,day,good;bad;long;short;sunny;cloudy;rainy;busy;free;special
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,evening,good;nice;long;short;cool;warm;pleasant;quiet;busy;special
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,hour,long;short;late;early;working;happy;golden;final;precious;quiet
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,minute,long;short;precious;last;final;exact;critical;fleeting;tense;crucial
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,month,last;next;current;first;second;third;fourth;fifth;sixth;seventh
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,morning,good;nice;early;late;bright;sunny;cloudy;quiet;busy;special
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,night,good;bad;long;short;dark;clear;starry;quiet;sleepless;peaceful
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,season,spring;summer;autumn;winter;dry;wet;rainy;growing;tourist;peak
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,second,last;next;first;final;fleeting;split;crucial;long;short;precious
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,week,last;next;this;long;short;busy;quiet;working;school;holiday
+gemini-2.0-flash,basic,1.0,PL # Polish,Perfect,most frequent,Time Concepts,year,last;next;this;good;bad;long;short;past;future;leap

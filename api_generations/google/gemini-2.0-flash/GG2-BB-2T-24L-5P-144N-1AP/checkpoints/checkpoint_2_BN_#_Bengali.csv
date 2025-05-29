@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,anger,big;hot;bad;strong;red;hard;quick;silent;long;new
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,courage,big;good;strong;new;true;important;first;real;little;happy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,fear,big;bad;dark;new;real;cold;strong;first;little;silent
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,freedom,big;new;good;real;true;first;important;small;happy;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,happiness,big;good;true;real;new;happy;small;important;different;nice
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,hate,big;bad;strong;new;true;real;old;first;little;cold
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,honesty,big;good;true;important;new;first;real;old;small;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,justice,big;good;true;important;new;real;strong;fair;hard;equal
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,knowledge,big;good;important;new;real;true;much;first;little;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,love,big;good;true;new;strong;happy;real;first;little;important
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,peace,big;good;new;true;real;long;first;happy;small;important
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Abstract Concepts,wisdom,big;good;important;old;true;real;much;first;little;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,bell,big;small;new;old;loud;good;different;long;beautiful;metal
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,candle,big;small;white;new;old;good;hot;different;long;wax
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,carpet,big;small;new;old;red;blue;good;long;soft;nice
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,coin,big;small;gold;silver;new;old;metal;good;round;first
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,crown,big;gold;new;old;good;beautiful;important;small;different;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,flag,big;small;new;red;white;blue;good;long;old;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,mask,big;small;new;white;black;good;different;old;paper;plastic
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,necklace,big;small;gold;new;old;good;beautiful;silver;long;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,painting,big;small;new;old;good;beautiful;different;first;nice;red
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,ring,big;small;gold;silver;new;old;good;beautiful;different;round
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,statue,big;small;new;old;good;white;beautiful;stone;metal;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Cultural Artifacts,vase,big;small;new;old;glass;good;beautiful;different;white;blue
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,cloud,big;small;white;black;new;old;good;grey;dark;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,earthquake,big;strong;bad;new;old;first;real;small;important;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,fog,big;thick;cold;white;new;old;good;grey;dark;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,lightning,big;fast;bright;strong;new;bad;different;hot;good;white
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,rain,big;small;cold;hard;new;old;good;long;heavy;much
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,rainbow,big;new;good;beautiful;colorful;first;bright;long;small;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,snow,big;small;white;cold;new;old;good;first;heavy;soft
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,storm,big;bad;strong;new;old;good;first;long;heavy;hard
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,thunder,big;loud;strong;new;old;bad;first;long;important;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,tide,big;high;low;new;good;old;first;long;strong;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,volcano,big;high;new;old;hot;good;strong;first;real;important
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Environmental Phenomena,wind,big;strong;cold;hot;new;old;good;fast;bad;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,apple,big;small;red;green;new;good;sweet;different;fresh;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,banana,big;small;yellow;new;good;sweet;different;fresh;ripe;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,beef,big;good;new;old;red;fresh;raw;cooked;different;much
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,bread,big;small;new;old;white;brown;good;different;fresh;hard
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,broccoli,big;small;green;new;good;fresh;raw;cooked;different;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,cheese,big;small;yellow;white;new;old;good;hard;soft;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,chicken,big;small;new;old;good;cooked;raw;fried;different;fresh
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,egg,big;small;white;brown;new;old;good;cooked;raw;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,fish,big;small;new;old;good;fresh;salt;sea;different;cooked
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,pasta,big;small;new;old;good;long;white;yellow;different;cooked
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,rice,big;small;new;old;good;white;brown;cooked;different;much
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Food Items,soup,big;hot;new;old;good;chicken;tomato;vegetable;different;tasty
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,artist,big;small;new;old;good;famous;different;young;first;important
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,athlete,big;small;new;old;good;strong;fast;different;famous;young
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,chef,big;new;old;good;famous;different;french;first;italian;happy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,doctor,big;new;old;good;important;different;young;first;famous;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,engineer,big;new;old;good;important;different;young;first;civil
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,farmer,big;new;old;good;hard;different;small;first;happy;poor
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,lawyer,big;new;old;good;important;different;young;first;famous;bad
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,musician,big;new;old;good;famous;different;young;first;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,scientist,big;new;old;good;important;different;young;first;famous;smart
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,soldier,big;new;old;good;strong;different;young;first;brave;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,teacher,big;new;old;good;important;different;young;first;little;nice
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Human Roles,writer,big;new;old;good;famous;different;young;first;important
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,book,big;small;new;old;good;important;long;different;first;happy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,bridge,big;long;new;old;good;strong;small;wooden;steel;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,drums,big;small;new;old;loud;good;different;first;long;hard
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,earth,big;round;new;old;good;important;first;different;green;blue
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,flute,big;small;new;old;good;beautiful;long;different;wooden;first
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,key,big;small;new;old;good;important;first;different;metal;silver
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,knife,big;small;new;old;good;sharp;different;first;metal;silver
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,lock,big;small;new;old;good;metal;strong;different;first;hard
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,moon,big;small;new;old;good;white;round;full;bright;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,pen,big;small;new;old;good;black;blue;different;red;cheap
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,sun,big;hot;new;old;good;bright;yellow;first;strong;important
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Inanimate Objects,sword,big;small;new;old;good;sharp;strong;different;long;metal
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,cat,big;small;new;old;good;black;white;different;long;first
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,dog,big;small;new;old;good;black;white;different;long;first
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,dolphin,big;small;new;old;good;grey;fast;smart;different;sea
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,elephant,big;new;old;good;grey;strong;different;long;african;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,hamster,small;new;old;good;brown;cute;different;little;white;short
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,monkey,big;small;new;old;good;brown;funny;different;smart;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,mouse,small;new;old;good;grey;cute;different;white;little;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,peacock,big;small;new;old;good;beautiful;colorful;different;long;first
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,rabbit,big;small;new;old;good;white;brown;cute;different;fast
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,shark,big;small;new;old;good;grey;strong;dangerous;different;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,snake,big;small;new;old;good;green;long;different;dangerous;fast
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Neutral Animals,whale,big;new;old;good;blue;grey;sea;different;long;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,city,big;small;new;old;good;important;different;first;long;busy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,desert,big;hot;dry;new;old;good;small;sandy;different;first
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,forest,big;small;new;old;good;green;dark;different;first;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,island,big;small;new;old;good;green;beautiful;different;first;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,lake,big;small;new;old;good;blue;deep;different;first;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,mountain,big;high;new;old;good;green;beautiful;different;first;rocky
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,ocean,big;deep;blue;new;old;good;salt;important;different;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,plain,big;flat;new;old;good;green;small;different;first;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,plateau,big;high;new;old;good;flat;different;small;first;rocky
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,river,big;small;long;new;old;good;blue;deep;different;first
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,valley,big;small;long;new;old;good;green;deep;beautiful;different
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Places,village,big;small;new;old;good;peaceful;quiet;different;beautiful;first
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,cactus,big;small;new;old;green;sharp;different;first;long;hot
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,eggplant,big;small;new;old;good;purple;different;first;long;short
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,flower,big;small;new;old;good;beautiful;colorful;different;first;fresh
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,grass,big;small;green;new;old;good;short;different;soft;first
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,lettuce,big;small;new;old;green;good;fresh;different;long;soft
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,mushroom,big;small;new;old;good;white;brown;different;wild;poisonous
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,onion,big;small;new;old;good;white;different;yellow;strong;fresh
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,pepper,big;small;new;old;good;red;green;hot;different;black
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,potato,big;small;new;old;good;brown;different;long;sweet;first
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,rose,big;small;new;old;good;beautiful;red;different;long;pink
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,tomato,big;small;new;old;good;red;fresh;different;long;tasty
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Plants,tree,big;small;new;old;good;green;tall;different;long;wooden
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,ally,big;good;new;old;important;strong;true;different;first;happy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,brother,big;small;new;old;good;important;strong;different;first;happy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,enemy,big;bad;new;old;strong;different;hard;first;little;true
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,father,big;small;new;old;good;important;strong;different;first;happy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,follower,big;small;new;old;good;important;strong;different;first;many
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,friend,big;good;new;old;important;strong;true;different;first;happy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,leader,big;new;old;good;important;strong;different;first;young;happy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,mother,big;small;new;old;good;important;strong;different;first;happy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,partner,big;new;old;good;important;strong;different;first;happy;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,rival,big;new;old;good;strong;hard;different;small;bad;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,sister,big;small;new;old;good;important;strong;different;first;happy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Social Relationships,stranger,big;small;new;old;different;first;long;scary;funny;nice
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,above,big;small;new;old;good;different;far;close;important;real
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,back,big;small;new;old;good;important;different;first;long;bad
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,below,big;small;new;old;good;different;far;close;important;real
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,east,big;new;old;good;important;different;first;long;far;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,front,big;small;new;old;good;important;different;first;long;short
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,inside,big;small;new;old;good;important;different;first;warm;cold
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,left,big;small;new;old;good;different;first;far;right;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,north,big;new;old;good;important;different;first;far;cold;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,outside,big;small;new;old;good;different;first;warm;cold;hot
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,right,big;small;new;old;good;different;first;left;fair;true
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,south,big;new;old;good;important;different;first;warm;hot;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Spatial Concepts,west,big;new;old;good;important;different;first;far;small;cool
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,century,big;long;new;old;good;important;different;first;small;last
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,day,big;long;new;old;good;important;happy;different;first;last
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,evening,big;good;new;old;quiet;long;dark;cool;different;beautiful
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,hour,big;long;new;old;good;important;different;first;last;happy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,minute,small;new;old;good;important;different;first;last;quick;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,month,big;long;new;old;good;important;different;first;last;short
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,morning,big;good;new;old;happy;bright;cool;different;first;beautiful
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,night,big;dark;new;old;good;quiet;long;cold;different;beautiful
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,season,big;new;old;good;different;first;last;long;cold;hot
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,second,small;new;old;good;important;different;first;last;quick;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,week,big;long;new;old;good;different;first;last;happy;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,B1,most frequent,Time Concepts,year,big;long;new;old;good;happy;important;different;first;last
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,anger,big;bad;strong;real;cold;sudden;slow;deep;hot;dark
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,courage,great;true;big;needed;inner;quiet;moral;real;simple;born
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,fear,big;dark;real;new;cold;little;public;high;basic;main
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,freedom,much;political;economic;real;religious;individual;personal;new;social;great
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,happiness,real;great;much;true;simple;pure;long;child;big;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,hate,big;real;much;cold;true;blind;new;personal;strong;deep
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,honesty,real;true;great;deep;simple;full;careful;personal;public;basic
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,justice,real;social;economic;true;great;long;basic;new;environmental;fair
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,knowledge,much;great;new;important;basic;real;true;general;scientific;political
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,love,true;big;real;first;deep;much;simple;family;personal;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,peace,great;long;real;world;true;little;inner;social;much;careful
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Abstract Concepts,wisdom,great;true;real;deep;simple;inner;much;old;little;common
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,bell,big;small;loud;school;church;silver;electric;clear;warning;front
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,candle,white;small;big;long;new;wax;birthday;short;burning;pretty
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,carpet,red;big;new;old;Persian;beautiful;clean;thick;nice;woolen
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,coin,small;gold;silver;new;old;fake;rare;valuable;euro;lucky
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,crown,gold;big;silver;royal;new;old;small;diamond;beautiful;precious
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,flag,national;big;red;white;new;small;country;blue;American;state
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,mask,black;white;face;new;small;scary;plastic;big;paper;strange
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,necklace,gold;silver;long;new;pretty;small;diamond;beautiful;pearl;cheap
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,painting,beautiful;big;old;famous;new;oil;abstract;great;watercolor;nice
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,ring,gold;silver;big;small;new;old;wedding;diamond;key;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,statue,big;tall;new;old;bronze;stone;famous;small;marble;gold
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Cultural Artifacts,vase,flower;glass;big;small;new;pretty;old;blue;red;ceramic
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,cloud,white;big;grey;dark;small;black;low;heavy;rainy;sky
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,earthquake,big;strong;small;recent;bad;new;powerful;major;slight;terrible
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,fog,thick;heavy;dense;dark;early;cold;morning;sea;winter;white
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;fork;real;quick;dangerous;summer;blue;loud
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,rain,heavy;hard;light;much;big;strong;cold;long;little;acid
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,rainbow,colorful;beautiful;pretty;double;bright;real;big;small;amazing;early
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,snow,white;heavy;deep;soft;cold;fresh;big;first;little;much
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,storm,big;bad;strong;heavy;thunder;electric;snow;summer;winter;sudden
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,thunder,loud;big;strong;rolling;distant;summer;early;long;sudden;close
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,tide,high;low;big;new;sea;strong;little;early;spring;ocean
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,volcano,active;big;new;dead;hot;near;volcanic;important;large
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Environmental Phenomena,wind,strong;cold;much;new;hard;little;north;high;summer;warm
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,apple,red;green;big;sweet;fresh;little;sour;healthy;new;juicy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,banana,yellow;sweet;fresh;long;green;small;soft;good;ripe;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,beef,good;fresh;tender;raw;cooked;bad;expensive;ground;frozen;grilled
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,bread,white;brown;fresh;whole;good;new;daily;French;toast;soft
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;healthy;frozen;steamed;boiled;good;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,cheese,white;hard;soft;fresh;strong;new;yellow;good;blue;grated
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,chicken,fried;cooked;grilled;roast;fresh;new;whole;small;raw;big
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,egg,white;brown;boiled;fried;new;fresh;small;big;raw;cracked
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,fish,fresh;salt;sea;little;big;new;small;white;cooked;raw
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,pasta,fresh;dry;white;long;Italian;good;small;new;whole;cooked
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,rice,white;brown;long;short;new;cooked;boiled;good;much;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Food Items,soup,hot;cold;chicken;vegetable;tomato;new;creamy;mushroom;good;thick
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,artist,famous;young;new;good;talented;great;local;street;popular;real
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,athlete,young;good;famous;new;great;strong;fast;local;professional;amateur
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,chef,good;famous;young;head;new;French;professional;local;talented;Italian
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,doctor,good;new;young;local;best;family;hospital;female;old;private
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,engineer,good;new;young;civil;software;mechanical;electrical;senior;junior;chemical
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,farmer,young;local;small;family;big;good;old;new;poor;independent
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,lawyer,good;new;young;real;family;big;best;smart;famous;expensive
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,musician,good;new;young;local;famous;talented;great;street;jazz;classical
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,scientist,new;young;great;famous;good;old;research;political;leading;main
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,soldier,young;new;brave;good;army;dead;wounded;front;royal;injured
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,teacher,good;new;young;best;school;favorite;nice;class;student;principal
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Human Roles,writer,good;young;new;famous;best;local;book;great;important;independent
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,book,new;old;good;big;small;red;important;long;interesting;story
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,bridge,big;old;new;road;stone;high;small;iron;wooden;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,drums,loud;big;new;old;African;small;hard;wooden;band;electronic
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,earth,new;big;round;old;small;real;dark;good;flat;bad
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,flute,wooden;new;old;small;silver;long;bamboo;nice;student;real
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,key,new;old;small;big;metal;front;house;spare;secret;master
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,knife,new;sharp;big;kitchen;small;old;hunting;pocket;steel;good
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,lock,new;old;small;big;strong;key;door;combination;good;metal
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,moon,new;full;big;round;bright;dark;small;crescent;blue;far
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,pen,new;blue;black;red;old;ball;good;cheap;expensive;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,sun,new;hot;big;bright;yellow;small;strong;real;warm;summer
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Inanimate Objects,sword,new;old;long;big;sharp;small;steel;wooden;heavy;short
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,cat,small;black;white;new;old;little;cute;big;fat;grey
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,dog,big;small;black;white;new;old;good;bad;little;family
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,dolphin,new;small;big;sea;grey;blue;clever;wild;black;free
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,elephant,big;grey;new;old;wild;small;African;Indian;zoo;strong
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,hamster,small;cute;new;little;brown;pet;white;nice;fat;baby
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,monkey,small;big;new;wild;cute;old;brown;funny;baby;black
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,mouse,small;grey;little;new;white;wild;house;brown;big;scared
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,peacock,beautiful;new;blue;green;big;small;Indian;colorful;zoo;nice
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,rabbit,white;small;cute;new;brown;little;big;wild;baby;pet
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,shark,big;new;sea;small;white;dangerous;grey;bad;sharp;great
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,snake,long;green;small;new;big;dangerous;poisonous;black;brown;scary
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Neutral Animals,whale,big;new;sea;blue;small;white;grey;little;old;north
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,city,big;new;old;large;major;important;historic;capital;small;modern
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,desert,big;hot;dry;sandy;empty;new;small;cold;great;vast
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,forest,big;green;new;old;dark;deep;small;great;dense;thick
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,island,big;new;small;tropical;deserted;green;old;volcanic;great;near
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,lake,big;deep;new;blue;small;clear;great;near;cold;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,mountain,big;high;new;snow;old;green;small;rocky;top;hard
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,ocean,big;new;deep;blue;old;salt;great;south;arctic;Atlantic
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,plain,big;open;flat;new;green;wide;empty;small;great;simple
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,plateau,big;high;new;old;small;dry;great;cold;long;wind
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,river,big;long;new;small;great;cold;wide;old;danube;amazone
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,valley,green;deep;long;new;big;small;old;wide;beautiful;rocky
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Places,village,small;new;old;quiet;poor;rural;great;big;local;near
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,cactus,green;big;new;small;desert;sharp;long;prickly;flowering;dry
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,eggplant,big;purple;fresh;cooked;small;new;organic;long;Italian;raw
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,flower,beautiful;new;colorful;red;fresh;small;white;yellow;spring;big
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,grass,green;long;new;short;small;fresh;cut;dry;good;garden
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,lettuce,green;fresh;new;small;organic;big;red;crispy;good;butter
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,mushroom,new;small;fresh;wild;big;white;brown;edible;good;bad
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,onion,white;small;fresh;red;new;big;chopped;raw;spring;cooked
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,pepper,black;red;small;green;new;hot;white;big;sweet;spicy
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,potato,white;big;new;small;fresh;boiled;mashed;fried;sweet;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,rose,red;new;beautiful;pink;small;big;long;white;yellow;tea
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,tomato,red;fresh;new;big;small;green;raw;Italian;cherry;plum
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Plants,tree,big;green;new;old;tall;small;large;dead;pine;fruit
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,ally,good;new;old;strong;great;little;true;close;important;faithful
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,brother,big;little;young;new;older;true;step;small;younger;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,enemy,big;bad;real;new;old;strong;little;dangerous;main;true
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,father,good;big;little;new;young;older;step;old;dead;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,follower,new;faithful;big;true;good;bad;small;political;strong;main
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,friend,good;new;best;old;true;close;real;great;small;young
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,leader,new;good;strong;great;big;political;old;real;local;bad
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,mother,good;big;little;new;young;older;step;small;old;dead
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,partner,good;new;old;small;business;real;strong;young;true;dance
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,rival,big;new;small;main;true;political;real;hard;long;great
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,sister,big;little;new;young;older;true;step;small;half;best
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Social Relationships,stranger,new;big;small;bad;dangerous;kind;old;young;near;real
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,above,high;new;little;far;old;clear;black;much;top;only
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,back,new;small;old;big;low;main;much;real;far;school
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,below,low;new;little;much;clear;big;only;good;small;bad
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,east,far;new;old;little;near;west;north;small;much;cold
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,front,new;small;old;big;good;back;car;house;open;closed
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,inside,new;small;big;cold;dry;old;clean;far;good;dark
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,left,new;small;right;old;front;hand;school;big;much;side
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,north,new;old;big;small;east;south;real;little;far;canada
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,outside,new;big;small;cold;warm;sunny;good;bad;free;light
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,right,new;small;old;good;much;great;people;wrong;true;left
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,south,new;small;old;big;good;real;great;florida;america;brazil
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Spatial Concepts,west,new;big;small;california;america;true;old;texas;near;little
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,century,new;21st;old;long;20th;great;small;only;last;golden
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,day,new;good;big;long;old;small;bad;sunny;next;today
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,evening,good;new;small;long;old;quiet;big;beautiful;today;only
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,hour,new;small;long;one;big;half;good;open;early;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,minute,new;small;long;few;only;little;big;fast;second;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,month,new;small;next;big;last;little;first;long;short;great
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,morning,good;new;small;big;quiet;old;beautiful;next;sunday;every
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,night,good;new;dark;long;big;old;small;last;every;quiet
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,season,new;good;small;long;best;last;spring;every;change;great
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,second,new;small;every;big;only;good;real;last;split;next
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,week,new;small;last;next;long;great;every;only;few;open
+gemini-2.0-flash,basic,2.0,BN # Bengali,B2,most frequent,Time Concepts,year,new;last;next;big;small;great;good;bad;only;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,anger,deep;strong;sudden;blind;cold;righteous;uncontrolled;futile;suppressed;growing
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,courage,great;true;moral;quiet;inner;amazing;unusual;fierce;sudden;reckless
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,fear,great;irrational;abject;constant;real;growing;lingering;paralyzing;primal;sudden
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,freedom,political;economic;personal;fundamental;basic;limited;conditional;complete;lasting;relative
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,happiness,simple;real;great;infectious;pure;inner;lasting;ephemeral;childish;shared
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,hate,bitter;deep;blind;abiding;irrational;simmering;unconcealed;visceral;mutual;passionate
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,honesty,brutal;simple;essential;unquestionable;basic;perceived;naive;relative;complete;admirable
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,justice,social;criminal;economic;rough;restorative;blind;poetic;fair;true;swift
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,knowledge,practical;theoretical;basic;scientific;esoteric;specialized;detailed;extensive;tacit;incomplete
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,love,true;deep;passionate;unconditional;selfless;brotherly;parental;innocent;newfound;unrequited
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,peace,lasting;fragile;uneasy;relative;temporary;inner;global;complete;apparent;negotiated
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Abstract Concepts,wisdom,great;ancient;inner;practical;simple;true;divine;acquired;intuitive;accumulated
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,bell,church;school;brass;old;heavy;ringing;loud;clear;small;antique
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,candle,white;scented;beeswax;burning;small;tall;new;old;votive;thick
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,carpet,persian;wool;thick;red;oriental;new;old;colorful;large;rolled
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,coin,gold;silver;rare;ancient;new;old;lucky;round;small;collectible
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;heavy;silver;old;new;symbolic;shining;ceremonial
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,flag,national;red;white;blue;waving;small;big;new;old;torn
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,mask,theatrical;protective;painted;scary;medical;carnival;plain;simple;decorative;beautiful
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;beautiful;long;short;simple;new;antique
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,painting,beautiful;famous;old;modern;oil;watercolor;landscape;portrait;impressionist;abstract
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;simple;ornate;signet;ancient;new;precious
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,statue,bronze;stone;marble;tall;beautiful;old;famous;commemorative;public;large
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Cultural Artifacts,vase,glass;ceramic;tall;beautiful;colorful;old;flower;empty;simple;decorative
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,cloud,dark;gray;white;fluffy;rain;thunder;big;small;high;low
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,earthquake,strong;major;minor;devastating;recent;unexpected;sudden;powerful;shallow;deep
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,fog,thick;dense;heavy;white;patchy;early;morning;sudden;lingering;creeping
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;distant;sheet;intense;unexpected;dangerous;summer;winter
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,rain,heavy;light;gentle;constant;sudden;warm;cold;acid;torrential;refreshing
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,rainbow,beautiful;colorful;double;faint;bright;full;high;low;distant;after
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,snow,heavy;light;white;fresh;falling;wet;deep;early;late;beautiful
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,storm,heavy;severe;winter;summer;approaching;brewing;raging;passing;electrical;unexpected
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,thunder,loud;deep;rumbling;distant;close;sudden;rolling;booming;heavy;crashing
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,tide,high;low;spring;neap;strong;incoming;outgoing;full;ebb;flood
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;erupting;volcanic;dangerous;tall;high;steaming;cone-shaped
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;easterly;northerly;prevailing;gusty;offshore
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,apple,red;green;ripe;juicy;sweet;tart;crisp;fresh;small;big
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,banana,yellow;ripe;sweet;green;small;big;cavendish;fresh;organic;long
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,beef,lean;ground;raw;cooked;tender;juicy;fresh;aged;organic;prime
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,bread,white;wheat;whole;fresh;toasted;rye;sourdough;brown;sliced;stale
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,broccoli,green;fresh;cooked;steamed;raw;organic;healthy;chopped;small;large
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,cheese,cheddar;swiss;blue;hard;soft;fresh;aged;parmesan;strong;mild
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,chicken,fried;roasted;grilled;raw;cooked;whole;boneless;organic;fresh;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,egg,fresh;raw;cooked;scrambled;fried;hard-boiled;soft-boiled;chicken;duck;white
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,fish,fresh;cooked;grilled;fried;raw;whole;small;large;saltwater;freshwater
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,pasta,cooked;fresh;dried;spaghetti;penne;whole-wheat;long;short;filled;italian
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,rice,white;brown;cooked;basmati;jasmine;long-grain;short-grain;sticky;fried;wild
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Food Items,soup,hot;cold;chicken;vegetable;creamy;thick;clear;tomato;hearty;homemade
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,artist,famous;talented;young;old;struggling;visual;modern;contemporary;abstract;local
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,athlete,professional;young;talented;famous;Olympic;college;amateur;experienced;strong;dedicated
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,chef,famous;head;experienced;young;talented;executive;sous;pastry;celebrity;master
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,doctor,general;family;young;experienced;specialist;medical;good;helpful;skilled;qualified
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;experienced;young;talented;structural;chemical;senior
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,farmer,local;family;organic;small;large;hard-working;young;old;dairy;independent
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,lawyer,good;experienced;corporate;criminal;young;talented;defense;prosecuting;family;real-estate
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,musician,talented;young;famous;professional;classical;jazz;rock;pop;folk;independent
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,scientist,research;young;experienced;leading;talented;senior;independent;respected;brilliant;experimental
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,soldier,brave;young;experienced;regular;professional;injured;fallen;conscripted;dedicated;armed
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,teacher,good;experienced;dedicated;young;old;elementary;high-school;college;private;caring
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Human Roles,writer,young;famous;talented;experienced;freelance;aspiring;published;local;great;good
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,book,good;interesting;old;new;long;short;popular;best-selling;hard;paper
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,bridge,long;tall;suspension;stone;wooden;new;old;covered;narrow;wide
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,drums,loud;big;small;snare;bass;acoustic;electronic;new;old;african
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,earth,big;round;dry;wet;green;polluted;fertile;arable;brown;rocky
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,flute,silver;wooden;old;new;long;short;concert;simple;student;beautiful
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,key,important;small;golden;new;old;front-door;house;spare;ignition;car
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,knife,sharp;new;old;kitchen;small;big;hunting;pocket;dull;carving
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,lock,strong;secure;new;old;combination;key;heavy;padlock;small;simple
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,moon,full;new;bright;half;waxing;waning;big;small;high;low
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,pen,blue;black;ballpoint;new;old;fountain;expensive;cheap;broken;smooth
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,sun,bright;hot;warm;strong;setting;rising;big;yellow;red;distant
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Inanimate Objects,sword,long;sharp;old;new;samurai;medieval;ceremonial;steel;heavy;light
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,cat,black;white;small;big;stray;fluffy;young;old;fat;skinny
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,dog,big;small;stray;black;white;loyal;friendly;young;old;trained
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,dolphin,intelligent;playful;friendly;small;big;gray;wild;trained;captive;injured
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,elephant,big;gray;wild;african;asian;young;old;captive;trained;strong
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,hamster,small;brown;golden;cute;fluffy;young;old;pet;furry;active
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,monkey,small;wild;brown;playful;intelligent;young;old;cute;captive;curious
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,mouse,small;brown;gray;wild;house;young;old;cute;frightened;tiny
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,peacock,beautiful;colorful;male;female;indian;large;wild;captive;exotic;young
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,rabbit,small;white;brown;wild;tame;cute;young;old;pet;fluffy
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,shark,big;dangerous;great-white;hammerhead;small;gray;blue;predatory;ocean;deep
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,snake,long;green;black;poisonous;venomous;wild;small;big;grass;constrictor
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Neutral Animals,whale,big;blue;gray;humpback;small;baleen;toothed;migrating;ocean;deep
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,city,big;modern;ancient;capital;historic;coastal;bustling;polluted;small;safe
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,desert,dry;hot;sandy;barren;vast;arid;rocky;empty;remote;unexplored
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,forest,dense;green;dark;old-growth;national;wild;large;small;enchanted;coniferous
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,island,small;tropical;volcanic;remote;deserted;inhabited;beautiful;green;large;caribbean
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,lake,deep;blue;large;small;clear;fresh;cold;warm;scenic;polluted
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,mountain,high;snow-capped;rocky;green;tall;big;small;active;dormant;volcanic
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,ocean,blue;deep;vast;salty;cold;warm;stormy;calm;polluted;unexplored
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,plain,flat;wide;open;grassy;dry;barren;fertile;vast;rolling;cultivated
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,plateau,high;flat;large;rocky;arid;dry;barren;windswept;cold;scenic
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,river,long;wide;deep;strong;slow;clear;muddy;polluted;meandering;scenic
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,valley,green;deep;wide;narrow;scenic;fertile;hidden;beautiful;misty;populated
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Places,village,small;rural;quiet;traditional;remote;peaceful;farming;close-knit;beautiful;historic
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,cactus,green;prickly;tall;short;flowering;desert;thorny;spiky;small;large
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,eggplant,purple;large;small;long;round;fresh;cooked;roasted;fried;grilled
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,flower,beautiful;colorful;fragrant;small;big;wild;cultivated;fresh;dried;artificial
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,grass,green;long;short;fresh;dry;wet;thick;thin;wild;cultivated
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,lettuce,green;fresh;crisp;small;big;leafy;romaine;iceberg;butter;healthy
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,mushroom,edible;poisonous;wild;small;big;fresh;cooked;dried;brown;white
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,onion,white;yellow;red;small;big;raw;cooked;sweet;strong;fried
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,pepper,black;white;red;green;hot;spicy;sweet;small;big;chili
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,potato,white;red;small;big;baked;fried;mashed;roasted;sweet;new
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,rose,red;pink;white;yellow;beautiful;fragrant;thorny;small;big;blooming
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,tomato,red;ripe;small;big;fresh;cooked;juicy;sliced;whole;cherry
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Plants,tree,tall;green;old;big;small;deciduous;coniferous;strong;shady;young
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,ally,strong;close;loyal;reliable;trusted;important;political;strategic;military;unexpected
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,brother,older;younger;little;big;close;dear;half;step;beloved
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,enemy,bitter;sworn;political;formidable;dangerous;personal;relentless;longtime;unknown;powerful
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,father,loving;strict;caring;good;young;old;step;foster;adoptive;biological
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,follower,loyal;devoted;enthusiastic;active;passive;blind;strong;influential;political;social
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,friend,good;close;best;true;old;new;helpful;loyal;mutual;longtime
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,leader,strong;political;good;influential;popular;elected;charismatic;effective;autocratic;democratic
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,mother,loving;caring;young;old;good;biological;adoptive;step;foster;single
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,partner,business;life;close;legal;romantic;senior;junior;equal;strategic;key
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,rival,fierce;close;main;friendly;political;business;longtime;unexpected;determined;equal
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,sister,older;younger;little;big;close;dear;half;step;beloved;twin
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Social Relationships,stranger,strange;total;complete;unknown;friendly;helpful;kind;cautious;wary;menacing
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,above,far;high;just;directly;clearly;generally;well;slightly;easily;often
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,back,far;right;good;same;immediate;straight;simple;little;small;strong
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,below,far;well;clearly;generally;just;immediately;directly;sea;freezing;poverty
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,east,far;middle;central;southeast;northeast;due;wild;near;eastern
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,front,right;left;far;immediate;forward;little;new;near;old;false
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,inside,right;deep;safe;same;warm;alone;dark;clear;light;good
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,left,right;far;immediate;little;same;good;only;top;best;political
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,north,far;northwest;northeast;central;extreme;due;high;bitter;cold;wild
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,outside,dark;warm;light;near;far;little;only;long;still;clearly
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,right,left;very;all;good;straight;there;same;full;now;next
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,south,far;southeast;southwest;extreme;due;down;high;central;southern;bitter
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Spatial Concepts,west,far;wild;middle;old;near;southwest;northwest;gone;due;eastern
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,century,long;new;old;twentieth;twenty-first;entire;last;past;present;coming
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,day,good;long;short;sunny;rainy;bad;new;old;every;each
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,evening,good;beautiful;quiet;long;cold;warm;dark;early;late;same
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,hour,long;short;late;early;another;last;first;golden;peak;working
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,minute,short;long;every;just;first;last;same;little;quick;final
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,month,last;next;coming;long;short;first;current;entire;past;whole
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,morning,good;early;late;cold;warm;bright;sunny;fresh;busy;quiet
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,night,good;long;dark;late;quiet;warm;cold;short;every;each
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,season,long;short;current;past;next;last;new;early;late;rainy
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,second,short;long;another;split;just;only;first;fast;quick;right
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,week,last;next;long;short;whole;every;new;first;working;school
+gemini-2.0-flash,basic,2.0,BN # Bengali,C1,most frequent,Time Concepts,year,last;next;good;new;old;every;past;coming;previous;whole
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,anger,deep;great;hot;intense;sudden;real;cold;righteous;controlled;blind
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,courage,great;true;moral;quiet;displayed;inner;unfailing;remarkable;amazing;personal
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,fear,great;deep;real;growing;irrational;terrible;constant;unfounded;nagging;primal
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,freedom,great;basic;individual;complete;political;economic;intellectual;limited;guaranteed;restricted
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,happiness,great;simple;real;infectious;lasting;pure;unexpected;fleeting;true;genuine
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,hate,deep;bitter;intense;abiding;irrational;passionate;cold;burning;real;virulent
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,honesty,complete;total;brutal;absolute;simple;great;fundamental;refreshing;rare;political
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,justice,great;blind;social;equal;fair;true;rough;criminal;restorative;swift
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,knowledge,great;vast;deep;wide;useful;specialized;practical;common;scientific;tacit
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,love,great;true;unconditional;selfless;undying;passionate;innocent;puppy;sisterly;brotherly
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,peace,great;lasting;fragile;negotiated;hard-won;complete;global;international;inner;uneasy
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Abstract Concepts,wisdom,great;inner;profound;ancient;acquired;practical;intuitive;common;political;accumulated
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,bell,loud;small;church;school;warning;door;dinner;big;brass;bronze
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,candle,small;white;burning;lit;scented;wax;tall;dripping;short;beeswax
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,carpet,oriental;red;Persian;wool;thick;shag;rolled;worn;area;beautiful
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,coin,gold;silver;old;valuable;rare;ancient;fake;bronze;foreign;lucky
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,crown,gold;jeweled;royal;heavy;ceremonial;silver;bejeweled;iron;laurel;papal
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,flag,national;red;white;blue;waving;flown;battle;confederate;rebel;torn
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,mask,plastic;scary;surgical;halloween;gas;carnival;protective;ritual;masquerade;anonymity
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;beaded;long;charm;costume;expensive;fragile
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,painting,oil;beautiful;famous;landscape;portrait;abstract;impressionist;watercolour;renaissance;large
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,ring,gold;silver;wedding;diamond;engagement;promise;brass;valuable;vintage;ruby
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,statue,bronze;marble;stone;tall;old;grand;ancient;public;imposing;famous
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Cultural Artifacts,vase,glass;flower;ceramic;tall;porcelain;blue;decorative;beautiful;antique;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,cloud,dark;gray;white;rain;fluffy;thunder;passing;ominous;black;low
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,earthquake,major;strong;devastating;sudden;unexpected;minor;recent;historic;terrible;local
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,fog,thick;dense;heavy;patchy;morning;sea;swirling;white;pea-soup;creeping
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,lightning,bright;forked;sudden;intense;distant;sheet;jagged;summer;powerful;frequent
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,rain,heavy;light;torrential;steady;gentle;persistent;afternoon;summer;acid;pouring
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,rainbow,colourful;bright;beautiful;arched;double;faint;partial;hazy;rare;delicate
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,snow,heavy;light;fresh;deep;falling;soft;white;drifting;wet;powdery
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,storm,heavy;severe;violent;electrical;winter;approaching;brewing;tropical;dust;snow
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;crashing;deep;echoing;ominous;heavy;continuous;booming
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;spring;neap;tidal;sea;coastal
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,volcano,active;dormant;volcanic;erupting;massive;threatening;nearby;ash;smoldering;famous
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;prevailing;gusty;high;offshore;light;summer
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,apple,red;green;fresh;ripe;juicy;crisp;sweet;golden;Granny;Macintosh
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,banana,yellow;ripe;green;sweet;Cavendish;small;overripe;organic;peeled;split
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,beef,tender;lean;ground;roast;prime;steak;cheap;expensive;aged;quality
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,bread,fresh;white;whole;wheat;stale;brown;crusty;rye;toasted;sourdough
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,broccoli,fresh;green;raw;steamed;cooked;frozen;healthy;organic;chopped;wilted
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,cheese,cheddar;swiss;hard;soft;strong;mild;processed;creamy;blue;stinky
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,chicken,fried;roasted;grilled;cooked;raw;fresh;frozen;boneless;tender;juicy
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,egg,hard;boiled;fried;scrambled;raw;fresh;white;brown;organic;cracked
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,fish,fresh;salt;water;dried;cooked;frozen;oily;bony;local;sustainable
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,pasta,dry;cooked;fresh;Italian;long;short;whole-wheat;gluten-free;stuffed;filled
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,rice,white;brown;long;short;grain;wild;basmati;sticky;boiled;fried
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Food Items,soup,hot;cold;creamy;thick;thin;chicken;tomato;vegetable;clear;homemade
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,artist,famous;great;talented;local;contemporary;unknown;struggling;starving;visual;modern
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,athlete,professional;amateur;great;skilled;dedicated;olympic;elite;injured;competitive;famous
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,chef,head;famous;talented;sous;experienced;gourmet;pastry;short-order;innovative
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,doctor,good;medical;family;local;skilled;specialist;young;old;competent;experienced
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,engineer,civil;mechanical;electrical;structural;qualified;professional;experienced;design;software;senior
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,farmer,local;small;scale;organic;struggling;large;dairy;family;truck;efficient
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,lawyer,good;defense;criminal;corporate;experienced;senior;junior;talented;trial;expensive
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,musician,great;talented;local;struggling;unknown;famous;young;old;established;skilled
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,scientist,leading;eminent;respected;brilliant;young;experienced;qualified;senior;renowned;research
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,soldier,brave;young;trained;experienced;armed;decorated;injured;veteran;fallen;conscripted
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,teacher,good;experienced;dedicated;strict;popular;passionate;primary;secondary;senior;junior
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Human Roles,writer,famous;great;published;aspiring;struggling;talented;prolific;unknown;experienced;influential
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,book,good;great;old;new;interesting;popular;academic;historical;long;paperback
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,bridge,long;old;stone;suspension;covered;narrow;modern;traffic;wooden;metal
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,drums,loud;big;marching;bass;steel;electronic;acoustic;jazz;snare;hand
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,earth,good;round;flat;fertile;dry;wet;bare;frozen;rich;green
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,flute,silver;wooden;high;pitched;small;simple;bamboo;indian;pan;concert
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,key,small;silver;gold;master;spare;lost;important;safe;door;front
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,knife,sharp;kitchen;hunting;butter;pocket;folding;steak;dull;carving;paring
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,lock,secure;strong;new;old;simple;complicated;combination;safe;bike;padlock
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,moon,full;bright;new;crescent;waxing;waning;sliver;harvest;blue;gibbous
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,pen,blue;black;ballpoint;fountain;new;old;fancy;expensive;felt;marking
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,sun,bright;hot;warm;rising;setting;shining;fierce;summer;morning;midday
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Inanimate Objects,sword,sharp;long;old;samurai;broad;double-edged;medieval;rusty;steel;short
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,cat,black;white;stray;cute;fat;fluffy;ginger;calico;siamese;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,dog,big;small;black;white;stray;cute;friendly;golden;german;shepherd
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,dolphin,bottlenose;playful;friendly;intelligent;gray;marine;common;small;jumping;injured
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,elephant,big;gray;african;asian;wild;old;indian;captive;orphaned;jumbo
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,hamster,small;golden;cute;furry;caged;brown;white;syrian;dwarf;pet
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,monkey,small;brown;playful;cute;spider;chimpanzee;mischievous;wild;furry;tree
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,mouse,small;gray;brown;white;field;house;squeaky;scared;wild;pet
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,peacock,beautiful;colorful;iridescent;proud;displaying;peahen;albino;captive;strutting;graceful
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,rabbit,white;brown;small;fluffy;wild;pet;caged;Easter;scared;long-eared
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,shark,great;white;hammerhead;dangerous;predatory;tiger;blue;coastal;swimming;juvenile
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,snake,poisonous;venomous;long;green;brown;garden;black;harmless;scared;grass
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Neutral Animals,whale,large;blue;gray;humpback;orca;baleen;sperm;coastal;migrating;breaching
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,city,big;large;major;metropolitan;urban;modern;ancient;industrial;bustling;coastal
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,desert,hot;dry;arid;sandy;barren;vast;scorching;desolate;remote;inhospitable
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,forest,dark;dense;green;old;primeval;vast;national;protected;amazon;wild
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,island,small;tropical;desert;caribbean;volcanic;pacific;inhabited;remote;uninhabited;beautiful
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,lake,big;small;deep;clear;frozen;beautiful;calm;large;glacial;pristine
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,mountain,high;tall;snow;covered;majestic;rocky;dormant;volcanic;distant;himalayan
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,ocean,vast;blue;deep;open;atlantic;pacific;indian;arctic;southern;cold
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,plain,wide;open;flat;grassy;empty;barren;fertile;coastal;extensive;rolling
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,plateau,high;flat;arid;vast;tibetan;colorado;expansive;rocky;barren;eroded
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,river,long;wide;narrow;winding;fast;flowing;great;muddy;mississippi;frozen
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,valley,green;wide;narrow;deep;scenic;rural;sheltered;hidden;river;great
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Places,village,small;quiet;rural;peaceful;remote;traditional;picturesque;idyllic;local;ancient
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,cactus,prickly;thorny;desert;green;tall;short;flowering;succulent;spiny;hardy
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,eggplant,purple;large;raw;cooked;grilled;roasted;fried;italian;asian;ripe
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;wild;small;spring;delicate;red;yellow;blooming
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,grass,green;short;tall;thick;wet;dry;long;soft;cut;fresh
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,lettuce,green;fresh;crisp;leafy;raw;iceberg;romaine;salad;wilted;chopped
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,mushroom,edible;poisonous;wild;white;brown;fresh;dried;large;small;sautéed
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,onion,white;yellow;red;raw;cooked;sliced;chopped;sautéed;sweet;strong
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,pepper,black;white;red;bell;hot;chili;green;sweet;ground;crushed
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,potato,white;red;sweet;baked;mashed;fried;roasted;small;large;new
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,rose,red;white;pink;beautiful;fragrant;thorn;blooming;garden;long-stemmed;delicate
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,tomato,red;ripe;green;fresh;canned;raw;cooked;sliced;italian;beefsteak
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Plants,tree,tall;green;big;old;oak;pine;shady;leafy;bare;dead
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,ally,strong;close;key;staunch;trusted;political;strategic;faithful;reliable;important
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,brother,older;younger;little;big;half;step;foster;blood;close;protective
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,enemy,great;bitter;old;sworn;implacable;deadly;mortal;ruthless;powerful;secret
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,father,loving;caring;strict;good;biological;foster;adoptive;single;absent;ageing
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,follower,loyal;devoted;blind;ardent;fanatical;enthusiastic;dedicated;steadfast;numerous;staunch
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,friend,good;close;best;old;loyal;true;casual;new;mutual;childhood
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,leader,strong;good;effective;political;great;charismatic;democratic;decisive;influential;visionary
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,mother,loving;caring;single;working;young;old;biological;adoptive;foster;deceased
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,partner,business;life;legal;silent;senior;junior;founding;married;financial;key
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,rival,fierce;main;tough;bitter;academic;sporting;professional;long-term;serious;political
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,sister,older;younger;little;big;half;step;blood;close;annoying;protective
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Social Relationships,stranger,strange;unknown;foreign;wary;suspicious;unfamiliar;total;chance;polite;inquisitive
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,above,clear;cloudy;bright;blue;green;tree-lined;populated;sea-level;knee;specified
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,back,good;bad;sore;aching;strong;healthy;lower;upper;right;broad
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,below,knee;average;specified;par;deck;street;poverty-line;radar;freezing;expectations
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,east,far;middle;near;wild;developing;russian;european;central;southeast;western
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,front,right;wrong;strong;common;civil;public;shop;western;easterm;business
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,inside,dry;warm;safe;comfortable;wet;closed;public;available;hidden;legal
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,left,far;right;front;social;extreme;dominant;economic;wing;progressive;radical
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,north,far;south;eastern;western;central;northern;populated;korean;american;sea
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,outside,dry;hot;safe;cold;wet;open;clear;right;legal;corporate
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,right,wrong;social;economic;basic;human;voting;corporate;legal;given;established
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,south,far;north;eastern;western;deep;carolina;african;american;china;pole
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Spatial Concepts,west,far;mid;near;wild;developing;virginian;european;american;bank;central
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,century,20th;21st;19th;previous;current;next;entire;golden;first;past
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,day,good;bad;long;short;sunny;rainy;warm;cold;busy;weekday
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,evening,good;nice;beautiful;warm;cool;long;summer;pleasant;autumn;dark
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,hour,late;early;long;short;precious;full;business;happy;spare;last
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,minute,brief;fleeting;short;spare;free;extra;few;final;every;crucial
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,month,long;short;first;last;next;previous;past;entire;full;best
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,morning,good;beautiful;early;sunny;bright;foggy;crisp;busy;lazy;clear
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,night,good;bad;long;short;dark;stormy;peaceful;quiet;late;summer
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,season,dry;wet;peak;winter;summer;holiday;football;cricket;off;rainy
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,second,brief;quick;long;every;spare;split;last;crucial;additional;exact
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,week,long;short;last;next;previous;entire;whole;busy;past;coming
+gemini-2.0-flash,basic,2.0,BN # Bengali,C2,most frequent,Time Concepts,year,good;bad;long;short;next;previous;coming;academic;past;entire
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,anger,great;intense;burning;righteous;blind;suppressed;bitter;cold;seething;sudden
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,courage,great;quiet;blind;moral;true;indomitable;unexpected;calm;cool;rising
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,fear,great;crippling;primal;irrational;constant;abject;cold;sudden;intense;lingering
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,freedom,great;hard-won;precious;cherished;basic;personal;economic;political;illusory;limited
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,happiness,great;simple;pure;unexpected;infectious;quiet;momentary;perfect;true;genuine
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,hate,great;blind;intense;abiding;burning;visceral;corrosive;pure;righteous;irrational
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,honesty,great;brutal;complete;fundamental;refreshing;absolute;unwavering;scrupulous;painful;selective
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,justice,great;blind;social;rough;poetic;criminal;environmental;restorative;economic;political
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,knowledge,great;deep;practical;vast;specialized;esoteric;tacit;useful;powerful;imperfect
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,love,great;unconditional;blind;pure;passionate;requited;unrequited;enduring;maternal;romantic
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,peace,great;lasting;fragile;uneasy;relative;internal;temporary;negotiated;sustainable;elusive
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Abstract Concepts,wisdom,great;acquired;practical;collective;conventional;inherent;ancient;spiritual;intuitive;demonstrable
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,bell,loud;small;church;school;clear;silver;brass;dinner;hand;electronic
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,candle,wax;burning;small;white;scented;tall;short;thick;thin;dripping
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,carpet,persian;oriental;red;thick;wool;patterned;expensive;rolled;new;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,coin,gold;silver;rare;ancient;valuable;counterfeit;lucky;bronze;euro;foreign
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,crown,gold;jeweled;royal;heavy;symbolic;silver;ceremonial;floral;ancient;papal
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;waving;torn;black;battle;striped;flown
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,mask,theatrical;medical;scary;white;ceremonial;black;tribal;protective;anonymous;plastic
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;beaded;long;short;thin;antique;heavy
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,painting,oil;watercolor;famous;beautiful;abstract;modern;framed;old;priceless;impressionist
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,ring,gold;wedding;diamond;silver;engagement;simple;precious;antique;signet;promise
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,statue,bronze;marble;tall;old;public;religious;stone;impressive;ancient;damaged
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Cultural Artifacts,vase,glass;ceramic;tall;fragile;beautiful;decorative;antique;painted;porcelain;empty
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,cloud,white;gray;dark;rain;fluffy;passing;thunder;gathering;low;dense
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,earthquake,major;strong;devastating;unexpected;recent;minor;powerful;early;trembling;foreshock
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;heavy;early;rolling;freezing;lifting;ground;patchy;lingering
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,lightning,bright;forked;sudden;dangerous;silent;sheet;distant;unexpected;ball;summer
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;hard;steady;gentle;pouring;torrential;constant;acid;expected
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,rainbow,bright;double;arched;faint;partial;full;unexpected;beautiful;vibrant;clear
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,snow,heavy;light;falling;fresh;deep;soft;white;blowing;early;drifting
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,storm,severe;heavy;thunder;electrical;snow;winter;summer;brewing;approaching;dangerous
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,thunder,loud;distant;rolling;crashing;booming;sudden;echoing;close;prolonged;deep
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,tide,high;low;incoming;outgoing;strong;spring;neap;daily;ebb;rising
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;large;nearby;erupting;volcanic;threatening;simmering;distant
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;prevailing;gentle;warm;gusty;offshore;onshore;whistling;biting
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,apple,red;green;ripe;crisp;juicy;sweet;sour;organic;delicious;golden
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,banana,yellow;ripe;sweet;Cavendish;green;unripe;brown;soft;overripe;organic
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,beef,ground;prime;raw;cooked;tender;tough;lean;marbled;aged;roasted
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,bread,white;brown;whole;fresh;stale;toasted;sourdough;rye;sliced;moldy
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,broccoli,fresh;green;cooked;steamed;raw;frozen;organic;chopped;healthy;florets
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,cheese,hard;soft;cheddar;swiss;grated;blue;stinky;aged;sliced;creamy
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,chicken,fried;roasted;grilled;raw;cooked;frozen;whole;boneless;organic;seasoned
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,egg,hard;boiled;scrambled;fried;raw;poached;cracked;deviled;runny;broken
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,fish,fresh;raw;cooked;grilled;fried;salted;canned;whole;boneless;dried
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,pasta,spaghetti;cooked;dried;fresh;Italian;long;short;angel;filled;boiled
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,rice,white;brown;basmati;cooked;steamed;fried;sticky;long;short;jasmine
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Food Items,soup,hot;cold;chicken;vegetable;creamy;thick;thin;homemade;canned;chunky
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,artist,talented;famous;local;young;starving;prolific;struggling;influential;upcoming;established
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,athlete,professional;olympic;young;talented;amateur;disciplined;seasoned;successful;injured;famous
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,chef,head;experienced;executive;famous;skilled;celebrity;sous;pastry;talented;renowned
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,doctor,good;family;young;experienced;qualified;head;respected;trusted;general;caring
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;experienced;structural;young;qualified;lead;senior
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,farmer,local;small;family;young;old;independent;organic;hard-working;dairy;struggling
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,lawyer,good;experienced;young;criminal;corporate;defense;real;estate;successful;family
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,musician,talented;young;local;professional;experienced;session;famous;jazz;classical;rock
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,scientist,leading;young;research;famous;principal;senior;environmental;political;independent;climate
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,soldier,young;brave;experienced;decorated;fallen;active;reserve;injured;seasoned;patriotic
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,teacher,good;experienced;young;old;dedicated;elementary;high;school;passionate;caring
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Human Roles,writer,prolific;young;famous;published;struggling;successful;talented;freelance;ghost;seasoned
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,book,good;old;new;long;short;interesting;important;popular;used;hardcover
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,bridge,old;long;high;narrow;covered;wooden;stone;suspension;metal;ancient
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,drums,loud;heavy;snare;bass;african;steel;electronic;orchestral;marching;hand
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,earth,good;old;round;flat;big;brown;fertile;rocky;frozen;damaged
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;simple;long;classical;bamboo;pan;orchestral;piccolo;alto
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,key,lost;spare;front;house;car;master;digital;skeleton;main;access
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,knife,sharp;kitchen;pocket;butter;hunting;serrated;folding;blunt;old;stainless
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,lock,strong;old;new;digital;combination;rusty;simple;secure;padlock;bike
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,moon,full;new;bright;silver;dark;gibbous;waxing;waning;crescent;harvest
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,pen,blue;black;ballpoint;fountain;expensive;cheap;red;broken;refillable;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,sun,bright;hot;warm;setting;rising;morning;afternoon;winter;summer;shining
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Inanimate Objects,sword,long;sharp;ancient;steel;double-edged;silver;broad;ceremonial;broken;gleaming
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,cat,black;white;small;stray;cute;furry;playful;young;domestic;feral
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,dog,good;big;small;loyal;friendly;stray;barking;trained;domestic;old
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,dolphin,playful;intelligent;gray;small;bottle-nosed;wild;trained;swimming;friendly;agile
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,elephant,big;gray;african;asian;wild;captive;trained;young;old;massive
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,hamster,small;furry;golden;cute;pet;playful;quiet;sleepy;fat;friendly
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,monkey,playful;small;brown;cute;wild;captive;trained;curious;chimpanzee;baboon
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,mouse,small;gray;wild;house;field;shy;quiet;brown;scared;white
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,peacock,colorful;beautiful;large;majestic;blue;green;Indian;proud;extravagant;exotic
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,rabbit,small;white;furry;cute;wild;pet;young;domestic;brown;cottontail
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,shark,great;white;dangerous;large;predatory;swimming;scary;hammerhead;small;tiger
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,snake,long;dangerous;venomous;green;black;small;wild;scary;slithering;brown
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Neutral Animals,whale,large;blue;gray;humpback;massive;baleen;singing;ocean;endangered;dead
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,city,big;large;modern;ancient;capital;historic;sprawling;busy;bustling;clean
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,desert,hot;dry;sandy;barren;vast;empty;rocky;desolate;arid;scorching
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,forest,dark;dense;green;old;large;tall;quiet;thick;national;protected
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,island,small;tropical;remote;deserted;volcanic;caribbean;pacific;beautiful;large;green
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,lake,big;deep;clear;small;blue;freshwater;peaceful;calm;murky;large
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,mountain,high;snow;rocky;green;tall;steep;large;small;beautiful;majestic
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,ocean,blue;deep;vast;cold;warm;pacific;atlantic;indian;arctic;rough
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,plain,flat;wide;grassy;open;vast;treeless;dry;fertile;great;rolling
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,plateau,high;flat;vast;arid;dry;elevated;scenic;mesa;western;grassy
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,river,long;wide;flowing;slow;winding;fast;muddy;clear;deep;shallow
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,valley,green;wide;deep;narrow;scenic;hidden;fertile;river;mountainous;steep
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Places,village,small;quiet;rural;old;remote;picturesque;friendly;peaceful;traditional;farming
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,cactus,green;tall;prickly;desert;large;small;flowering;spiny;drought-resistant;succulent
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,eggplant,purple;long;fresh;ripe;fried;stuffed;grilled;cooked;sliced;small
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,flower,beautiful;colorful;fresh;fragrant;wild;blooming;red;white;yellow;delicate
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,grass,green;long;short;thick;wet;dry;freshly-cut;lawn;wild;lush
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,lettuce,fresh;green;crisp;leafy;organic;romaine;head;salad;washed;butter
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,mushroom,edible;wild;poisonous;fresh;cooked;large;small;brown;white;dried
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,onion,raw;cooked;white;yellow;red;sliced;fried;chopped;caramelized;pungent
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,pepper,hot;black;red;green;bell;ground;spicy;chili;crushed;dried
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,potato,white;red;baked;fried;mashed;boiled;sweet;roasted;small;new
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,rose,red;beautiful;fragrant;long-stemmed;pink;yellow;white;thorny;blooming;fresh
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,tomato,red;ripe;fresh;juicy;organic;sliced;cherry;diced;cooked;green
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Plants,tree,tall;green;old;big;leafy;strong;young;oak;pine;apple
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,ally,strong;reliable;political;strategic;key;important;long-term;unexpected;steadfast;crucial
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,brother,older;younger;little;big;dear;step;half;beloved
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,enemy,bitter;sworn;mortal;political;dangerous;personal;old;common;powerful;unexpected
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,father,loving;caring;strict;old;young;adoptive;step;single;biological;surrogate
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,follower,loyal;faithful;devoted;dedicated;blind;numerous;active;online;unwitting;potential
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,friend,good;best;close;old;true;dear;lifelong;trusted;supportive;new
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,leader,strong;good;great;political;charismatic;inspirational;elected;influential;military;corrupt
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,mother,loving;caring;dear;biological;adoptive;step;single;young;old;working
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,partner,business;romantic;legal;life;working;senior;junior;key;trusted;unexpected
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,rival,bitter;fierce;long-time;political;main;worthy;friendly;competitive;athletic;academic
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,sister,older;younger;little;big;dear;step;half;beloved
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Social Relationships,stranger,strange;unknown;mysterious;helpful;dangerous;total;approaching;observing;polite;suspicious
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,above,high;mentioned;cited;usual;stated;average;normal;sea-level;ground;deck
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,back,strong;aching;sore;rear;lumbar;spinal;muscle;curved;upper;straight
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,below,sea-level;average;mentioned;freezing;normal;stated;standard;poverty;deck;radar
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,east,far;wild;middle;near;south;north;coastal;european;west;asia
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,front,main;new;store;first;war;right;left;north;south;weather
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,inside,dark;safe;dry;warm;locked;the-box;prison;back;car;my
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,left,political;wing;right;main;far;my;open;hand;field;opposite
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,north,cold;far;pole;east;south;west;carolina;america;star;dakota
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,outside,warm;cold;bright;safe;dark;beautiful;wet;house;city;prison
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,right,political;wing;good;wrong;legal;main;far;human;fundamental;opposite
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,south,far;pole;america;korea;african;california;east;north;west;vietnam
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Spatial Concepts,west,far;wild;coast;south;north;east;africa;europe;bengal;virginia
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,century,last;next;past;present;early;late;21st;twentieth;coming;new
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,day,good;bad;long;short;sunny;rainy;whole;beautiful;hard;perfect
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,evening,good;nice;quiet;long;cool;warm;summer;pleasant;cold;late
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,hour,long;short;late;early;peak;quiet;waiting;scheduled;final;first
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,minute,short;long;waiting;crucial;final;last;first;few;precious;exact
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,month,last;next;whole;past;first;summer;winter;early;late;upcoming
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,morning,good;beautiful;early;quiet;long;sunny;fresh;crisp;bright;cold
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,night,good;long;dark;late;quiet;cold;clear;starry;stormy;sleepless
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,season,summer;winter;fall;spring;whole;current;wet;dry;next;festive
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,second,long;short;fleeting;crucial;split;final;exact;single;first;waiting
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,week,next;last;whole;coming;full;following;previous;past;first;work
+gemini-2.0-flash,basic,2.0,BN # Bengali,Perfect,most frequent,Time Concepts,year,new;last;next;whole;coming;past;first;leap;previous;fiscal

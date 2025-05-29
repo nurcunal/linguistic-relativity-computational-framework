@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,anger,strong;deep;hot;bad;wild;quick;pure;raw;high;fierce
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,courage,strong;brave;true;bold;firm;clear;great;pure;real;full
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,fear,strong;deep;cold;high;bad;pure;raw;quick;wild;dark
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,freedom,true;pure;big;great;full;clear;open;wide;high;safe
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,happiness,true;deep;warm;full;bright;good;pure;big;clear;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,hate,strong;deep;bad;pure;wild;cold;quick;raw;high;hard
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,honesty,true;pure;open;clear;good;deep;solid;firm;right;full
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,justice,true;good;fair;right;pure;clear;strong;deep;full;big
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,knowledge,deep;true;good;clear;big;pure;real;full;vast;wide
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,love,true;deep;pure;strong;warm;good;full;kind;real;big
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,peace,true;deep;calm;pure;clear;good;full;wide;quiet;safe
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,wisdom,old;deep;true;pure;good;clear;real;full;soft;kind
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,bell,small;round;loud;clear;old;bright;pure;high;deep;soft
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,candle,small;bright;warm;soft;old;clear;pure;good;deep;long
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,carpet,soft;thick;warm;bright;full;deep;clear;good;big;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,coin,small;round;old;hard;shiny;pure;clear;good;bright;smooth
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,crown,gold;rich;high;old;bright;clear;pure;good;big;bold
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,flag,red;blue;bright;clear;old;true;pure;neat;strong;bold
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,mask,old;big;dark;clear;pure;good;deep;soft;hard;full
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,necklace,gold;bright;pure;clear;pretty;old;deep;good;true;small
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,painting,old;bright;clear;true;deep;good;pure;full;soft;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,ring,small;round;pure;bright;clear;old;good;deep;true;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,statue,old;big;strong;clear;pure;good;high;deep;round;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,vase,small;thin;clear;pure;good;bright;old;deep;round;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,cloud,white;soft;big;high;dark;light;clear;slow;pure;calm
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,earthquake,big;strong;deep;hard;wild;loud;fast;high;pure;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,fog,thick;heavy;dark;pale;soft;deep;clear;pure;low;slow
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,lightning,bright;fast;strong;clear;pure;wild;high;deep;sharp;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,rain,wet;cold;soft;heavy;clear;pure;good;deep;full;quick
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,rainbow,bright;colorful;clear;pure;soft;good;full;true;pretty;big
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;light;pure;deep;clear;good;small;bright
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,storm,big;strong;dark;wild;fast;loud;cold;deep;pure;clear
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,thunder,loud;strong;deep;fast;clear;wild;big;cold;pure;high
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,tide,high;low;strong;deep;clear;soft;good;wild;full;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,volcano,big;hot;deep;strong;wild;old;clear;full;pure;rough
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,wind,strong;cold;fast;wild;soft;good;deep;clear;high;pure
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,apple,red;green;big;small;sweet;good;fresh;bright;pure;crisp
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,banana,yellow;big;small;sweet;good;ripe;fresh;soft;pure;curved
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,beef,red;fresh;good;raw;hot;soft;strong;firm;pure;tasty
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,bread,fresh;soft;good;warm;old;brown;clear;pure;thick;tasty
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,broccoli,green;fresh;good;raw;pure;soft;small;bright;clear;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,cheese,yellow;white;fresh;good;soft;hard;pure;clear;strong;tasty
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,chicken,fresh;good;hot;soft;raw;white;clear;pure;strong;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,egg,small;round;white;fresh;good;hard;soft;pure;clear;light
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,fish,fresh;good;wild;pure;soft;small;hard;clear;raw;big
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,pasta,long;soft;good;fresh;hot;white;pure;clear;nice;thin
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,rice,white;good;small;pure;clear;soft;fresh;neat;tasty;light
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,soup,hot;warm;good;clear;soft;fresh;thick;pure;deep;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,artist,good;strong;true;kind;deep;bright;smart;neat;pure;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,athlete,strong;fast;good;brave;true;neat;pure;hard;quick;bold
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,chef,good;neat;skilled;strong;kind;fresh;smart;true;bright;pure
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,doctor,good;kind;smart;neat;true;strong;brave;pure;clear;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,engineer,good;smart;strong;neat;true;clear;pure;deep;kind;brave
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,farmer,good;strong;true;kind;neat;fresh;brave;old;pure;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,lawyer,good;smart;true;strong;kind;neat;clear;brave;pure;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,musician,good;smart;true;neat;deep;kind;bright;pure;strong;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,scientist,good;smart;true;deep;neat;strong;bright;pure;kind;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,soldier,strong;brave;good;true;neat;bold;pure;quick;hard;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,teacher,good;kind;smart;true;neat;deep;strong;pure;clear;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,writer,good;smart;true;neat;kind;deep;bright;pure;strong;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,book,old;good;thick;clear;deep;bright;neat;pure;small;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,bridge,big;strong;long;old;good;clear;neat;pure;high;deep
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,drums,big;loud;strong;deep;good;clear;quick;pure;neat;wild
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,earth,big;round;old;deep;good;pure;clear;strong;bright;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,flute,small;clear;soft;bright;good;pure;neat;old;deep;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,key,small;old;good;clear;neat;pure;bright;strong;deep;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,knife,sharp;small;good;old;strong;pure;clear;neat;deep;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,lock,small;strong;old;good;clear;neat;pure;deep;tight;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,moon,big;bright;round;clear;old;pure;nice;full;deep;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,pen,small;good;neat;clear;blue;black;sharp;pure;old;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,sun,big;bright;hot;clear;strong;good;pure;high;round;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,sword,sharp;strong;old;bright;clear;good;pure;deep;quick;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,cat,small;cute;good;quick;soft;neat;bright;pure;kind;smart
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,dog,good;kind;fast;small;big;neat;strong;pure;bright;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,dolphin,smart;good;fast;kind;neat;pure;bright;strong;soft;quick
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,elephant,big;strong;old;good;kind;neat;pure;slow;deep;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,hamster,small;cute;fast;good;neat;soft;kind;pure;bright;quick
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,monkey,small;smart;quick;good;kind;neat;pure;bright;funny;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,mouse,small;quick;neat;good;soft;kind;pure;bright;timid;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,peacock,bright;beautiful;good;neat;pure;bold;true;big;clear;smart
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,rabbit,small;cute;fast;good;soft;neat;pure;kind;quick;bright
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,shark,big;strong;fast;good;pure;neat;deep;sharp;wild;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,snake,small;long;fast;good;pure;neat;clear;dark;deep;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,whale,big;strong;slow;good;pure;deep;clear;neat;old;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,city,big;old;busy;good;clear;neat;high;loud;pure;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,desert,hot;dry;big;old;clear;pure;good;neat;deep;wide
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,forest,big;green;old;deep;good;pure;neat;dark;clear;wild
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,island,small;green;old;good;pure;neat;clear;deep;true;quiet
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,lake,big;clear;deep;calm;pure;good;old;smooth;neat;cold
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,mountain,big;high;old;strong;deep;good;pure;clear;tall;wide
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,ocean,big;deep;blue;strong;wild;clear;pure;old;calm;wide
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,plain,big;flat;green;clear;pure;good;old;neat;wide;calm
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,plateau,high;flat;old;good;pure;clear;deep;neat;wide;strong
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,river,long;deep;clear;fast;pure;good;wild;strong;cold;smooth
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,valley,deep;wide;green;old;calm;good;pure;neat;clear;low
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Places,village,small;old;neat;good;pure;clear;quiet;deep;warm;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,cactus,green;small;sharp;old;good;pure;neat;dry;clear;thick
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,eggplant,purple;fresh;good;soft;small;neat;pure;clear;big;raw
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,flower,small;bright;red;pure;good;soft;neat;clear;fresh;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,grass,green;soft;small;good;pure;neat;clear;fresh;tall;wide
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,lettuce,green;fresh;good;small;pure;neat;clear;soft;tasty;raw
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,mushroom,small;brown;good;fresh;pure;neat;clear;soft;nice;dark
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,onion,small;white;good;fresh;raw;pure;neat;clear;strong;sharp
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,pepper,red;green;small;good;fresh;pure;neat;clear;hot;raw
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,potato,big;brown;good;fresh;soft;pure;neat;clear;small;raw
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,rose,red;pink;small;bright;good;pure;neat;clear;soft;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,tomato,red;round;small;good;fresh;pure;neat;clear;bright;sweet
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Plants,tree,big;old;green;tall;strong;pure;clear;deep;good;wide
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,ally,good;true;kind;brave;neat;strong;pure;clear;real;smart
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,brother,good;kind;strong;true;neat;deep;pure;young;old;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,enemy,bad;cruel;strong;dark;true;wild;fierce;neat;pure;deep
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,father,old;strong;good;kind;true;neat;deep;pure;tall;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,follower,good;true;kind;neat;strong;pure;clear;quick;deep;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,friend,good;kind;true;neat;strong;pure;clear;deep;real;warm
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,leader,strong;good;brave;true;neat;kind;pure;clear;deep;bold
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,mother,old;kind;good;strong;true;neat;pure;deep;warm;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,partner,good;kind;true;neat;strong;pure;clear;deep;real;brave
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,rival,strong;bad;cruel;dark;neat;true;wild;pure;deep;fast
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,sister,good;kind;true;neat;strong;pure;deep;warm;young;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,stranger,new;odd;good;kind;neat;pure;clear;deep;true;cold
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,above,high;bright;clear;strong;good;pure;neat;deep;true;wide
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,back,strong;old;good;clear;deep;true;neat;pure;high;wide
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,below,low;deep;clear;good;pure;neat;true;dark;small;quiet
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,east,bright;clear;old;good;pure;neat;strong;high;true;warm
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,front,strong;clear;good;neat;true;bright;pure;deep;high;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,inside,deep;clear;pure;good;neat;small;warm;true;bright;quiet
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,left,small;neat;clear;good;pure;deep;true;strong;fast;old
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,north,cold;clear;good;strong;pure;neat;high;deep;true;bright
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,outside,big;open;clear;good;pure;neat;deep;true;bright;wild
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,right,good;true;neat;clear;pure;deep;strong;bold;bright;real
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,south,warm;clear;good;pure;neat;bright;true;deep;strong;nice
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,west,old;clear;good;pure;neat;deep;true;strong;high;bright
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,century,long;old;big;clear;true;good;deep;pure;neat;strong
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,day,bright;long;good;clear;pure;neat;warm;true;high;full
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,evening,calm;dark;cool;good;clear;pure;neat;deep;soft;quiet
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,hour,short;long;good;clear;deep;pure;neat;true;fast;calm
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,minute,short;small;good;clear;neat;pure;deep;true;quick;calm
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,month,long;good;clear;pure;neat;true;deep;big;old;warm
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,morning,bright;early;good;clear;pure;neat;warm;soft;true;calm
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,night,dark;quiet;calm;good;deep;pure;neat;clear;cool;true
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,season,long;good;clear;pure;neat;true;deep;old;warm;fresh
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,second,short;quick;good;clear;neat;pure;deep;true;fast;small
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,week,long;good;clear;pure;neat;true;deep;old;full;fast
+o3-mini,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,year,long;old;good;clear;pure;neat;true;big;full;deep
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,anger,intense;boiling;red;fierce;sharp;wild;sudden;deep;uncontrolled;bitter
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,courage,bold;brave;strong;true;steady;firm;noble;clear;inspiring;heroic
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,fear,intense;deep;raw;sudden;silent;cold;heavy;gripping;dark;unknown
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,freedom,pure;true;wide;clear;bright;open;absolute;safe;fresh;noble
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,happiness,joyful;bright;warm;deep;clear;pure;full;soft;gentle;kind
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,hate,strong;deep;bitter;raw;dark;fierce;pure;harsh;old;cold
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,honesty,pure;clear;true;open;sincere;real;frank;blunt;simple;complete
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,justice,fair;strong;clear;true;pure;firm;even;strict;complete;proper
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,knowledge,deep;broad;clear;vast;true;solid;real;rich;wide;firm
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,love,deep;pure;warm;true;sweet;kind;soft;strong;real;gentle
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,peace,deep;true;calm;pure;quiet;soft;bright;steady;warm;safe
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,wisdom,deep;great;pure;old;true;calm;solid;rich;sound;steady
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,bell,loud;clear;old;small;round;bright;heavy;simple;smooth;neat
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,candle,small;bright;thin;old;soft;warm;fragile;simple;plain;smooth
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,carpet,soft;thick;old;bright;warm;rich;neat;smooth;small;real
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,coin,small;round;old;shiny;bright;clear;cold;hard;neat;rare
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,crown,royal;bright;old;pure;fine;rich;bold;heavy;clear;unique
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,flag,bright;bold;proud;clear;true;red;vivid;strong;old;simple
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,mask,dark;old;clear;plain;false;rich;smooth;deep;worn;soft
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,necklace,pretty;small;bright;old;rich;true;fine;neat;soft;clear
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,painting,bright;old;clear;deep;true;neat;bold;rich;fine;real
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,ring,small;round;bright;clear;true;fine;rich;neat;old;bold
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,statue,tall;old;strong;clear;pure;neat;rich;deep;solid;true
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,vase,pretty;old;clear;deep;bright;neat;rich;fine;small;true
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,cloud,white;soft;deep;high;light;dark;big;floating;swift;thin
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,earthquake,strong;big;deep;sharp;loud;sudden;hard;violent;old;rough
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,fog,thick;deep;soft;dark;cold;light;white;slow;heavy;blank
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,lightning,bright;fast;clear;pure;sharp;sudden;strong;deep;wild;quick
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,rain,soft;heavy;cold;clear;wet;deep;pure;quick;fine;dark
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,rainbow,bright;clear;rich;full;vivid;deep;pure;fine;soft;neat
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,snow,white;deep;soft;cold;pure;light;fresh;thick;real;bright
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,storm,strong;wild;deep;dark;loud;fast;heavy;rough;fierce;true
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,thunder,loud;deep;strong;clear;fast;sharp;rough;wild;intense;heavy
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,tide,high;low;strong;deep;clear;pure;fast;true;wide;rough
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,volcano,hot;deep;strong;old;active;dark;bright;rough;wild;real
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,wind,strong;cold;soft;deep;fast;clear;wild;fresh;true;light
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,apple,red;sweet;fresh;small;round;crisp;bright;true;neat;ripe
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,banana,yellow;sweet;soft;fresh;ripe;small;full;bright;true;smooth
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,beef,red;raw;fresh;rich;strong;thick;pure;hot;fine;real
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,bread,fresh;soft;warm;fine;thick;old;true;neat;rich;pure
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,broccoli,green;fresh;crisp;small;rich;pure;neat;clean;bright;true
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,cheese,soft;rich;sharp;fine;old;ripe;pure;true;smooth;fresh
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,chicken,fresh;hot;rich;soft;true;neat;fine;pure;small;tender
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,egg,small;fresh;white;rich;true;neat;pure;soft;fine;clear
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,fish,fresh;soft;rich;small;true;blue;neat;bold;clear;wild
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,pasta,soft;rich;fresh;fine;neat;small;true;plain;thick;smooth
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,rice,white;fine;small;soft;clear;true;pure;neat;fresh;light
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,soup,hot;warm;clear;fresh;rich;deep;soft;true;thick;light
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,artist,creative;kind;true;bold;rich;neat;fresh;smart;clear;brave
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,athlete,strong;fast;true;bold;neat;rich;brave;solid;keen;firm
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,chef,smart;neat;fresh;bold;true;rich;kind;strong;clear;fine
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,doctor,kind;smart;true;warm;brave;neat;fresh;clear;fine;firm
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,engineer,smart;strong;true;keen;neat;fresh;bold;clear;rich;wise
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,farmer,hard;true;neat;rich;bold;fresh;kind;plain;strong;old
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,lawyer,smart;clear;strong;bold;true;neat;keen;fair;pure;wise
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,musician,creative;bold;rich;clear;kind;neat;true;brave;soft;fun
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,scientist,smart;keen;clear;true;rich;kind;bold;deep;neat;fair
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,soldier,strong;brave;true;bold;neat;firm;deep;rich;loyal;solid
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,teacher,kind;smart;clear;true;neat;rich;brave;deep;firm;warm
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,writer,creative;smart;true;clear;neat;deep;bold;rich;warm;kind
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,book,old;thick;clear;rich;neat;deep;true;plain;small;bright
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,bridge,strong;long;old;clear;neat;solid;deep;true;wide;high
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,drums,loud;deep;strong;bold;fast;rich;clear;neat;hard;sharp
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,earth,big;round;old;deep;rich;true;pure;strong;clear;bright
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,flute,soft;clear;small;bright;neat;pure;deep;fine;sweet;calm
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,key,small;old;bright;clear;fine;true;round;rich;plain;neat
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,knife,sharp;cold;clear;bright;strong;true;fine;hard;neat;old
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,lock,strong;old;clear;neat;bold;true;solid;tight;firm;pure
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,moon,bright;full;round;clear;deep;pure;old;calm;soft;high
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,pen,small;thin;bright;neat;clear;true;fine;sharp;rich;plain
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,sun,bright;hot;big;clear;strong;deep;true;rich;pure;warm
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,sword,sharp;long;true;strong;old;clear;bright;firm;bold;hard
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,cat,cute;small;soft;quick;sly;neat;pure;calm;rich;kind
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,dog,loyal;brave;true;neat;kind;bold;quick;soft;strong;dear
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,dolphin,smart;kind;quick;true;soft;neat;brave;calm;rich;clear
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,elephant,large;big;strong;old;kind;true;rich;neat;calm;solid
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,hamster,small;cute;soft;quick;neat;rich;kind;pure;calm;bright
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,monkey,quick;smart;bold;true;neat;rich;kind;funny;lively;agile
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,mouse,small;quiet;quick;soft;neat;pure;true;calm;shy;light
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,peacock,bright;rich;bold;true;neat;fine;rare;soft;proud;clear
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,rabbit,small;soft;quick;neat;cute;rich;pure;calm;bright;true
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,shark,sharp;big;strong;fierce;mean;true;deep;dark;fast;wild
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,snake,long;slick;smooth;silent;dark;true;quick;cold;rich;sharp
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,whale,big;huge;deep;slow;clear;true;calm;rich;old;strong
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,city,big;busy;bright;old;true;rich;neat;clear;loud;wide
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,desert,hot;dry;bare;deep;vast;pure;old;clear;rough;wide
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,forest,green;deep;quiet;old;rich;pure;calm;thick;clear;dark
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,island,small;sunny;green;quiet;rich;deep;old;clear;safe;bright
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,lake,blue;deep;clear;still;pure;calm;fresh;true;rich;quiet
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,mountain,high;tall;deep;old;strong;rich;long;clear;bold;vast
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,ocean,deep;blue;wide;strong;vast;pure;rich;clear;calm;true
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,plain,wide;flat;deep;clear;simple;true;dry;open;rich;bare
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,plateau,high;flat;wide;old;clear;true;deep;rich;bold;quiet
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,river,long;deep;clear;fast;wide;true;pure;rich;cool;smooth
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,valley,deep;green;wide;low;quiet;clear;pure;rich;true;calm
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Places,village,small;quiet;old;neat;true;rich;clear;warm;kind;safe
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,cactus,green;sharp;small;rich;true;neat;dry;hard;old;thick
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,eggplant,purple;deep;rich;soft;fresh;neat;pure;bright;small;bold
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,flower,bright;small;fresh;pure;deep;soft;sweet;neat;true;rich
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,grass,green;soft;fresh;neat;pure;deep;short;small;true;rich
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,lettuce,green;fresh;crisp;neat;pure;deep;soft;small;true;rich
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,mushroom,small;rich;soft;deep;true;neat;old;brown;clear;firm
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,onion,strong;sharp;rich;deep;raw;fresh;neat;pure;firm;bold
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,pepper,hot;red;fresh;strong;deep;pure;neat;bold;true;rich
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,potato,brown;round;soft;deep;rich;neat;old;true;fresh;warm
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,rose,red;beautiful;soft;deep;sweet;pure;true;bright;rich;neat
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,tomato,red;fresh;round;true;rich;soft;bright;neat;deep;pure
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Plants,tree,tall;green;old;deep;broad;neat;strong;clear;rich;true
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,ally,true;loyal;kind;strong;brave;neat;bold;firm;rich;clear
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,brother,close;kind;true;strong;neat;warm;rich;bold;brave;dear
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,enemy,fierce;strong;dark;cold;deep;true;bold;harsh;rough;mean
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,father,kind;strong;true;old;warm;brave;neat;rich;firm;deep
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,follower,loyal;kind;true;neat;brave;rich;firm;steady;clear;pure
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,friend,kind;true;close;warm;neat;rich;brave;strong;fair;pure
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,leader,strong;true;brave;kind;bold;neat;rich;clear;firm;smart
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,mother,kind;warm;true;strong;neat;rich;pure;deep;brave;close
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,partner,true;kind;close;neat;strong;bold;rich;clear;firm;good
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,rival,strong;bold;fierce;true;deep;neat;rich;harsh;clear;tough
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,sister,kind;close;true;neat;warm;brave;rich;soft;deep;dear
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,stranger,unknown;distant;quiet;cold;deep;pure;neat;bold;true;clear
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,above,high;clear;bright;open;true;vast;deep;bold;pure;wide
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,back,strong;deep;clear;true;neat;firm;old;bold;rich;safe
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,below,deep;low;dark;true;clear;pure;firm;rich;cold;small
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,east,bright;warm;clear;true;rich;open;bold;deep;neat;safe
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,front,clear;bright;strong;neat;true;bold;open;rich;deep;fair
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,inside,deep;small;quiet;true;neat;clear;warm;rich;safe;close
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,left,true;neat;deep;clear;bold;rich;firm;kind;open;small
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,north,cold;clear;true;deep;bright;open;rich;strong;neat;pure
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,outside,open;clear;bright;wide;strong;true;neat;rich;deep;bold
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,right,true;clear;neat;strong;bold;deep;pure;kind;fair;rich
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,south,warm;bright;deep;true;clear;rich;open;neat;safe;kind
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,west,rich;true;clear;bright;deep;open;neat;strong;bold;warm
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,century,long;old;deep;rich;clear;true;strong;wide;bold;bright
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,day,bright;warm;clear;true;long;rich;neat;open;fresh;bold
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,evening,calm;deep;cool;clear;rich;soft;true;neat;quiet;dark
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,hour,short;long;clear;true;deep;bright;neat;small;pure;quick
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,minute,small;short;clear;true;neat;quick;deep;rich;fine;light
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,month,long;old;true;rich;deep;clear;bright;neat;full;warm
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,morning,bright;fresh;clear;warm;true;neat;rich;early;calm;deep
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,night,dark;deep;quiet;rich;clear;true;calm;cool;neat;soft
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,season,long;rich;clear;true;deep;neat;bright;cool;warm;fresh
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,second,short;quick;clear;true;neat;fast;deep;rich;small;brief
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,week,long;true;clear;neat;rich;deep;strong;bright;calm;fresh
+o3-mini,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,year,long;old;rich;clear;deep;true;bright;neat;full;strong
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,anger,intense;burning;fierce;sudden;uncontrolled;deep;explosive;raw;overwhelming;smoldering
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,courage,brave;bold;strong;admirable;steadfast;resolute;determined;valiant;noble;fearless
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,fear,deep;overwhelming;paralyzing;irrational;intense;raw;sudden;gripping;crippling;persistent
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,freedom,absolute;pure;clear;genuine;open;vital;cherished;pristine;democratic;unbounded
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,happiness,pure;deep;joyful;overwhelming;simple;contagious;genuine;lasting;bright;sincere
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,hate,intense;bitter;deep;destructive;overwhelming;strong;raw;burning;fierce;hostile
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,honesty,true;sincere;complete;frank;blunt;open;respectful;reliable;simple;direct
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,justice,fair;strong;balanced;clear;true;strict;impartial;righteous;even;ultimate
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,knowledge,deep;vast;essential;clear;true;practical;focused;timeless;broad;reliable
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,love,deep;true;passionate;genuine;abiding;pure;warm;intense;unconditional;heartfelt
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,peace,tranquil;deep;lasting;genuine;quiet;serene;calm;pure;simple;sincere
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,wisdom,profound;deep;ancient;timeless;valuable;clear;practical;open;steady;balanced
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,bell,loud;clear;fading;rhythmic;resonant;metallic;bright;small;antique;ringing
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,candle,flickering;small;bright;warm;gentle;delicate;soft;glowing;scented;burning
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,carpet,plush;soft;colorful;old;patterned;thick;woven;delicate;elegant;comfortable
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,coin,small;round;shiny;old;rare;metallic;valuable;unique;embossed;antique
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,crown,golden;royal;shining;ornate;heavy;jeweled;ancient;majestic;valuable;splendid
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,flag,bright;bold;colorful;waving;national;symbolic;proud;strong;resilient;crisp
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,mask,mysterious;decorative;painted;strange;old;intricate;hidden;artistic;scary;crafted
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,necklace,delicate;elegant;shiny;sparkling;colorful;unique;antique;graceful;fine;charming
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,painting,vivid;colorful;old;modern;lively;detailed;beautiful;historic;creative;expressive
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,ring,shiny;elegant;small;golden;precious;intricate;circular;classic;timeless;valuable
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,statue,majestic;ancient;detailed;strong;solid;lifelike;historic;graceful;imposing;carved
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,vase,fragile;elegant;tall;antique;colorful;delicate;rounded;artistic;classic;ornamental
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,cloud,fluffy;white;dark;heavy;drifting;soft;vast;gray;scattered;high
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,earthquake,massive;sudden;powerful;destructive;strong;violent;deep;seismic;unexpected;turbulent
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,fog,dense;thick;heavy;low;eerie;soft;mystic;lingering;obscure;creeping
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;fierce;quick;dazzling;intense;electrifying;brilliant;sharp
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,rain,gentle;heavy;soft;constant;light;sudden;cold;warm;refreshing;steady
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,rainbow,bright;colorful;vivid;rare;beautiful;arching;magical;clear;joyful;radiant
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,snow,white;deep;cold;soft;heavy;fresh;powdery;bright;quiet;pure
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,storm,fierce;violent;heavy;dark;raging;sudden;powerful;turbulent;loud;intense
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,thunder,loud;deep;rolling;powerful;sudden;booming;echoing;fierce;distant;resounding
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,tide,steady;rising;falling;strong;high;low;rhythmic;gentle;powerful;uncertain
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,volcano,active;dangerous;fiery;erupting;massive;ancient;smoky;high;unpredictable;rumbling
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,wind,strong;cold;gentle;brisk;wild;steady;chilly;fierce;blowing;soft
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,apple,red;green;ripe;fresh;sweet;crisp;juicy;small;tart;delicious
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,banana,yellow;ripe;sweet;fresh;soft;long;curved;healthy;nutritious;tropical
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,beef,tender;juicy;fresh;lean;hearty;flavorful;savory;cooked;seasoned;rich
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,bread,fresh;warm;soft;crusty;delicious;hearty;tasty;golden;homemade;aromatic
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,broccoli,fresh;green;healthy;crunchy;tender;steamed;crisp;raw;vibrant;organic
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,cheese,creamy;soft;aged;sharp;delicious;fresh;mild;tangy;rich;smooth
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,chicken,tender;juicy;fresh;cooked;savory;lean;warm;flavorful;golden;seasoned
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,egg,fresh;small;brown;white;raw;natural;fragile;oval;simple;nutritious
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,fish,fresh;clean;tasty;slippery;small;large;colorful;wild;succulent;delicate
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,pasta,cooked;tender;soft;fresh;hot;simple;delicious;warm;tasty;aromatic
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,rice,cooked;steamed;white;brown;fluffy;hot;plain;tender;clean;fragrant
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,soup,hot;warm;rich;savory;flavorful;hearty;fresh;creamy;delicious;comforting
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,artist,creative;passionate;skilled;talented;innovative;unique;thoughtful;inspiring;dedicated;imaginative
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,athlete,strong;fast;competitive;agile;determined;fit;focused;energetic;skilled;powerful
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,chef,talented;creative;skilled;passionate;innovative;experienced;professional;dedicated;warm;meticulous
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,doctor,skilled;knowledgeable;compassionate;dedicated;experienced;professional;caring;reliable;respected;thoughtful
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,engineer,skilled;innovative;logical;dedicated;experienced;creative;precise;reliable;technical;smart
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,farmer,hardworking;dedicated;experienced;resilient;honest;resourceful;skilled;patient;diligent;local
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,lawyer,skilled;knowledgeable;experienced;ethical;dedicated;professional;smart;logical;persuasive;rigorous
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,musician,talented;creative;skilled;passionate;expressive;innovative;dedicated;rhythmic;vibrant;soulful
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,scientist,intelligent;curious;dedicated;innovative;logical;thorough;careful;precise;insightful;skilled
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,soldier,brave;disciplined;strong;dedicated;resilient;courageous;heroic;skilled;loyal;steadfast
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,teacher,dedicated;patient;knowledgeable;kind;experienced;caring;friendly;inspiring;supportive;skilled
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,writer,creative;thoughtful;skilled;imaginative;articulate;expressive;dedicated;reflective;original;insightful
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,book,interesting;old;thick;long;classic;popular;heavy;new;engaging;well-known
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,bridge,long;strong;durable;wide;sturdy;graceful;historic;modern;impressive;safe
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;deep;vibrant;dynamic;energetic;resonant;fast;bold
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,earth,large;vast;beautiful;ancient;blue;green;fertile;diverse;natural;living
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,flute,delicate;soft;clear;sweet;graceful;elegant;airy;melodic;compact;smooth
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,key,small;sharp;metal;tiny;old;rusty;new;simple;unique;sturdy
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,knife,sharp;dull;heavy;small;metallic;precise;reliable;sturdy;clean;pointed
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,lock,secure;old;metal;sturdy;strong;reliable;intricate;simple;complex;rusted
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,moon,bright;full;glowing;round;silent;distant;soft;magical;serene;pale
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,pen,small;blue;smooth;reliable;sharp;inked;durable;clear;neat;fine
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,sun,bright;hot;fierce;golden;yellow;radiant;blazing;powerful;warm;mighty
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,sword,sharp;long;shining;ancient;heavy;polished;lethal;fine;sturdy;elegant
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,cat,curious;agile;playful;soft;graceful;quiet;sly;independent;friendly;clever
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,dog,loyal;friendly;playful;obedient;brave;active;loving;smart;gentle;lively
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,dolphin,intelligent;playful;graceful;friendly;agile;sleek;smart;lively;curious;charming
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,elephant,large;strong;gentle;majestic;ancient;wise;massive;elegant;calm;impressive
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,hamster,small;cute;furry;active;playful;tiny;lively;soft;curious;agile
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,monkey,playful;intelligent;agile;curious;lively;mischievous;clever;noisy;fast;energetic
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,mouse,small;timid;quick;silent;cute;furry;clever;tiny;soft;agile
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;grand;elegant;vibrant;majestic;dazzling;striking;unique;proud
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,rabbit,soft;quick;small;cuddly;gentle;furry;timid;lively;charming;agile
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,shark,fierce;dangerous;large;swift;powerful;sleek;aggressive;ruthless;dark;relentless
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,snake,slippery;dangerous;long;venomous;silent;quick;scaled;sly;mysterious;agile
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,whale,massive;gentle;enormous;deep;ancient;slow;majestic;large;graceful;powerful
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,city,big;busy;modern;vibrant;diverse;crowded;historic;lively;urban;sprawling
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,desert,vast;hot;dry;empty;sandy;harsh;barren;remote;silent;endless
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,forest,dense;green;wild;ancient;quiet;deep;mysterious;lush;vast;vibrant
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,island,small;remote;tropical;peaceful;green;sunny;beautiful;quiet;isolated;charming
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,lake,calm;deep;clear;large;peaceful;still;blue;reflective;quiet;fresh
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,mountain,high;steep;tall;rocky;ancient;majestic;rugged;vast;snowy;imposing
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,ocean,vast;deep;blue;wild;endless;roaring;powerful;salty;mysterious;calm
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,plain,vast;open;flat;green;barren;simple;windy;quiet;endless;arid
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,plateau,flat;high;open;vast;dry;barren;elevated;remote;endless;rugged
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,river,long;winding;fast;deep;clear;flowing;calm;wide;cold;fresh
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,valley,green;deep;fertile;quiet;narrow;low;beautiful;lush;wide;hidden
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Places,village,small;quiet;charming;old;peaceful;remote;friendly;rural;cozy;historic
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,cactus,spiky;green;sharp;dry;desert;prickly;hardy;rugged;tough;resilient
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,eggplant,purple;large;fresh;soft;ripe;glossy;shiny;firm;smooth;healthy
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,flower,beautiful;colorful;fresh;delicate;fragrant;vibrant;soft;bright;lovely;blooming
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,grass,green;soft;short;fresh;wild;thick;dense;healthy;vibrant;lush
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,lettuce,fresh;green;crisp;leafy;tender;ripe;juicy;pure;mild;vibrant
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,mushroom,small;brown;fresh;earthy;wild;soft;delicate;unique;tasty;natural
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,onion,strong;sharp;pungent;fresh;layered;raw;spicy;robust;edible;firm
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,pepper,spicy;hot;red;green;fresh;strong;bold;vibrant;ripe;flavorful
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,potato,starchy;large;brown;fresh;soft;versatile;hearty;cooked;simple;tasty
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,rose,red;fragrant;beautiful;delicate;soft;lovely;vibrant;classic;elegant;blooming
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,tomato,red;ripe;fresh;juicy;round;soft;sweet;plump;healthy;vibrant
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Plants,tree,tall;old;green;large;strong;leafy;sturdy;vast;ancient;beautiful
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,ally,loyal;trusted;close;reliable;supportive;steadfast;friendly;devoted;true;strong
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,brother,loving;close;caring;supportive;kind;protective;trustworthy;warm;genuine;reliable
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,enemy,hostile;fierce;cruel;dangerous;bitter;ruthless;active;determined;relentless;unfriendly
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,father,loving;caring;supportive;strong;kind;wise;protective;patient;reliable;respected
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,follower,loyal;eager;active;supportive;dedicated;faithful;committed;true;reliable;constant
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,friend,loyal;kind;supportive;honest;caring;true;fun;reliable;warm;trustworthy
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,leader,strong;decisive;brave;respected;smart;inspiring;strategic;authoritative;confident;visionary
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,mother,loving;caring;kind;supportive;gentle;patient;warm;strong;dedicated;nurturing
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,partner,loving;supportive;reliable;caring;close;honest;committed;strong;genuine;devoted
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,rival,strong;fierce;determined;competitive;challenging;aggressive;tough;relentless;skilled;formidable
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,sister,loving;kind;supportive;warm;close;caring;friendly;genuine;reliable;nurturing
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,stranger,unknown;distant;unfamiliar;mysterious;cautious;curious;quiet;polite;reserved;unapproachable
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,above,high;upper;elevated;lofty;clear;distant;bright;visible;prominent;over
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,back,strong;steady;supportive;firm;broad;reliable;straight;muscular;flexible;tired
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,below,low;deep;hidden;slight;minor;dark;distant;subtle;small;shallow
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,east,eastern;bright;rising;warm;early;sunny;tranquil;promising;gentle;subtle
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,front,leading;open;clear;visible;advanced;bright;strong;direct;steady;promising
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,inside,inner;enclosed;warm;comfortable;hidden;safe;private;quiet;calm;secure
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,left,remaining;extra;old;abandoned;forgotten;unused;solitary;quiet;hidden;alternative
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,north,northern;cold;crisp;icy;clear;brisk;early;quiet;snowy;bright
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,outside,open;fresh;clear;visible;bright;natural;wild;free;vast;sunny
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,right,correct;true;proper;direct;clear;immediate;fair;neat;clean;genuine
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,south,southern;warm;mild;bright;inviting;sunny;relaxed;open;gentle;friendly
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,west,western;rugged;bold;warm;vivid;bright;dry;vast;open;timeless
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,century,historic;long;notable;significant;memorable;ancient;modern;evolving;vast;celebrated
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,day,bright;long;sunny;short;busy;clear;calm;warm;peaceful;lively
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,evening,quiet;calm;cool;pleasant;relaxing;gentle;soft;warm;lovely;peaceful
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,hour,short;long;busy;precious;brief;transient;vital;steady;recurring;significant
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,minute,small;brief;exact;tiny;precise;limited;careful;subtle;detailed;fleeting
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,month,short;long;busy;new;changing;average;notable;clear;active;typical
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,morning,fresh;bright;early;calm;cool;peaceful;sunny;gentle;crisp;lively
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,night,dark;quiet;calm;cold;long;peaceful;starry;silent;deep;mysterious
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,season,warm;cold;rainy;windy;bright;short;long;changing;crisp;notable
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,second,brief;short;tiny;quick;fast;small;fleeting;instant;swift;sudden
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,week,busy;long;short;restful;full;tiring;hectic;active;pleasant;challenging
+o3-mini,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,year,long;busy;short;prosperous;changing;memorable;historic;vibrant;challenging;full
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,anger,intense;fierce;explosive;seething;burning;raw;volatile;palpable;uncontrollable;smoldering
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,courage,bold;brave;valiant;resolute;steadfast;heroic;determined;fearless;unwavering;spirited
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,fear,deep;paralyzing;crippling;overwhelming;haunting;instinctual;irrational;persistent;chilling;suffocating
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,freedom,absolute;genuine;expansive;liberating;priceless;unbounded;cherished;invigorating;independent;profound
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,happiness,joyful;radiant;blissful;cheerful;exuberant;uplifting;contagious;serene;sparkling;delightful
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,hate,bitter;intense;seething;relentless;corrosive;vehement;hostile;burning;deep-rooted;unyielding
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,honesty,sincere;genuine;candid;upright;frank;transparent;forthright;reliable;commendable;unpretentious
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,justice,impartial;fair;balanced;righteous;objective;equitable;steadfast;unbiased;lawful;principled
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,knowledge,vast;deep;abundant;comprehensive;scholarly;evolving;practical;profound;timeless;expansive
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,love,unconditional;deep;passionate;tender;affectionate;warm;enduring;pure;devoted;caring
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,peace,serene;calm;quiet;harmonious;gentle;tranquil;restorative;soothing;untroubled;blissful
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,wisdom,profound;enduring;ancient;insightful;reflective;enlightened;measured;deep;thoughtful;balanced
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,bell,resonant;clear;metallic;sonorous;vibrant;rhythmic;piercing;bright;timeless;tuneful
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,candle,flickering;soft;warm;scented;glowing;modest;rustic;calm;intimate;gentle
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,carpet,soft;woven;colorful;plush;durable;patterned;intricate;textured;elegant;cozy
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,coin,shiny;ancient;minted;silver;golden;rare;circular;collectible;embossed;valuable
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,crown,ornate;regal;jeweled;majestic;splendid;golden;exquisite;timeless;ceremonial;illustrious
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,flag,vibrant;national;colorful;fluttering;symbolic;historic;bold;iconic;proud;recognizable
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,mask,mysterious;decorative;eerie;elaborate;unique;expressive;concealed;theatrical;painted;traditional
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,necklace,elegant;intricate;sparkling;precious;delicate;radiant;charming;ornate;timeless;refined
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,painting,vivid;expressive;realistic;abstract;captivating;colorful;detailed;creative;iconic;inspiring
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,ring,circular;elegant;jeweled;slender;classic;delicate;precious;ornate;timeless;symbolic
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,statue,monumental;lifelike;carved;ancient;graceful;historic;imposing;detailed;dignified;symbolic
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,vase,ceramic;decorative;elegant;ancient;ornate;fragile;vibrant;handcrafted;timeless;refined
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,cloud,fluffy;white;billowy;distant;ominous;ethereal;shifting;airy;soft;transient
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,earthquake,strong;devastating;sudden;intense;massive;tremulous;unpredictable;seismic;forceful;catastrophic
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,fog,thick;eerie;misty;enveloping;dense;gloomy;silent;heavy;cold;drifting
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;intense;striking;electric;dazzling;rapid;fleeting;dangerous;powerful
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,rain,gentle;steady;soothing;relentless;refreshing;soft;drenching;cold;light;persistent
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,rainbow,colorful;vibrant;radiant;majestic;enchanting;luminous;fleeting;arching;brilliant;surreal
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,snow,white;chilly;delicate;powdery;sparkling;silent;pure;soft;pristine;vast
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,storm,violent;fierce;raging;turbulent;sudden;powerful;relentless;ominous;chaotic;destructive
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,thunder,roaring;deep;echoing;booming;resounding;powerful;startling;heavy;intense;continuous
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,tide,rising;falling;rhythmic;powerful;steady;natural;surging;predictable;dynamic;constant
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,volcano,active;fiery;dangerous;eruptive;molten;dormant;towering;rumbling;destructive;volatile
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,wind,brisk;strong;gentle;cold;swirling;whistling;persistent;refreshing;howling;wild
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,apple,red;juicy;crisp;sweet;fresh;ripe;tart;fragrant;healthy;delicious
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,banana,ripe;yellow;sweet;soft;fresh;curved;tropical;appealing;smooth;vibrant
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,beef,tender;savory;juicy;hearty;succulent;fresh;flavorful;rich;meaty;satisfying
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,bread,fresh;warm;soft;crusty;wholesome;aromatic;golden;fluffy;nutritious;homemade
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,broccoli,fresh;green;crisp;healthy;tender;nutritious;vibrant;organic;edible;robust
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,cheese,creamy;aged;savory;soft;rich;flavorful;sharp;delicate;golden;artisanal
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,chicken,tender;juicy;grilled;seasoned;crispy;succulent;flavorful;fresh;aromatic;spiced
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,egg,fresh;raw;boiled;baked;organic;small;white;brown;rich;delicate
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,fish,fresh;slimy;aquatic;flaky;tender;briny;flavorful;wild;delicate;nutritious
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,pasta,cooked;al dente;hearty;fresh;soft;rich;delicious;satisfying;versatile;aromatic
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,rice,steamed;fluffy;sticky;aromatic;white;brown;nutritious;tender;plain;versatile
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,soup,hot;hearty;flavorful;warming;savory;rich;comforting;thick;spicy;nourishing
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,artist,creative;talented;original;imaginative;expressive;innovative;brilliant;insightful;passionate;dedicated
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,athlete,strong;agile;competitive;resilient;dedicated;fit;determined;spirited;active;swift
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,chef,skilled;creative;dedicated;experienced;inventive;precise;talented;professional;innovative;meticulous
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,doctor,experienced;caring;knowledgeable;professional;skilled;compassionate;reliable;dedicated;precise;empathetic
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,engineer,innovative;analytical;skilled;practical;methodical;creative;efficient;reliable;technical;problem-solving
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,farmer,hardworking;diligent;seasoned;resilient;resourceful;dedicated;knowledgeable;practical;rugged;committed
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,lawyer,knowledgeable;articulate;persuasive;diligent;professional;experienced;analytical;ethical;strategic;competent
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,musician,talented;creative;passionate;skilled;expressive;rhythmic;innovative;soulful;versatile;inspiring
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,scientist,curious;analytical;innovative;meticulous;dedicated;brilliant;methodical;insightful;experimental;logical
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,soldier,brave;disciplined;resilient;skilled;steadfast;honorable;reliable;courageous;dutiful;valiant
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,teacher,dedicated;patient;knowledgeable;inspiring;caring;creative;insightful;supportive;encouraging;diligent
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,writer,creative;articulate;imaginative;skilled;expressive;thoughtful;prolific;insightful;original;eloquent
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,book,engaging;informative;lengthy;timeless;captivating;classic;riveting;well-written;detailed;popular
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,bridge,sturdy;historic;elegant;long;arched;impressive;modern;reliable;spacious;majestic
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,drums,rhythmic;booming;powerful;resonant;vibrant;energetic;deep;percussive;dynamic;pulsating
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,earth,fertile;vast;ancient;vibrant;nurturing;natural;robust;diverse;sustaining;wild
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,flute,melodious;delicate;soothing;airy;slender;elegant;refined;bright;enchanting;lyrical
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,key,small;metallic;unique;old;sturdy;simple;ornamental;intricate;functional;reliable
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,knife,sharp;sturdy;sleek;durable;precise;cutting;balanced;reliable;compact;versatile
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,lock,secure;heavy;intricate;sturdy;reliable;robust;complex;metallic;traditional;modern
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,moon,luminous;radiant;silvery;full;bright;crescent;mystical;distant;serene;enchanting
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,pen,smooth;sleek;compact;classy;functional;handy;elegant;refined;reliable;modern
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,sun,bright;fiery;warm;dazzling;radiant;golden;scorching;powerful;vibrant;colossal
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,sword,sharp;gleaming;ancient;lethal;polished;storied;valiant;elegant;formidable;historic
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,cat,agile;graceful;curious;playful;sleek;independent;soft;clever;charming;mischievous
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,dog,loyal;friendly;energetic;faithful;playful;loving;devoted;obedient;cheerful;brave
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,dolphin,intelligent;graceful;playful;swift;agile;gentle;sociable;lively;sleek;amiable
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,elephant,massive;majestic;gentle;enormous;wise;robust;powerful;gray;imposing;noble
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,hamster,tiny;furry;lively;cute;curious;small;nimble;active;playful;adorable
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,monkey,nimble;clever;playful;mischievous;lively;curious;agile;smart;spirited;inventive
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,mouse,small;timid;quick;furry;delicate;agile;sneaky;tiny;cautious;quiet
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,peacock,colorful;resplendent;elegant;majestic;vibrant;iridescent;flamboyant;striking;graceful;proud
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,rabbit,soft;furry;timid;quick;gentle;adorable;small;nimble;fluffy;curious
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,shark,fierce;dangerous;predatory;swift;agile;large;relentless;sleek;powerful;menacing
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,snake,slithering;venomous;stealthy;mysterious;agile;slick;sinuous;dangerous;cold-blooded;elusive
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,whale,enormous;graceful;majestic;gentle;powerful;immense;ancient;peaceful;colossal;deep
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,city,bustling;vibrant;crowded;modern;historic;sprawling;lively;dynamic;diverse;urban
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,desert,vast;arid;barren;scorching;endless;harsh;silent;sandy;rugged;sunbaked
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,forest,dense;lush;ancient;serene;wild;vibrant;mysterious;tranquil;expansive;green
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,island,remote;tropical;serene;small;isolated;peaceful;sunny;lush;inviting;charming
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,lake,tranquil;clear;vast;reflective;pristine;serene;deep;calm;sparkling;fresh
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,mountain,towering;rugged;majestic;high;steep;massive;ancient;formidable;scenic;imposing
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,ocean,vast;deep;boundless;roaring;salty;turbulent;mysterious;endless;blue;powerful
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,plain,flat;expansive;fertile;open;green;quiet;serene;vast;humble;soothing
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,plateau,elevated;flat;arid;vast;rugged;ancient;open;expansive;windswept;remote
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,river,winding;fast;meandering;deep;clear;vibrant;tranquil;powerful;abundant;flowing
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,valley,deep;lush;fertile;secluded;picturesque;quiet;expansive;green;broad;sheltered
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Places,village,small;quaint;peaceful;charming;historic;rustic;friendly;tight-knit;rural;scenic
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,cactus,spiky;resilient;green;prickly;arid;hardy;rugged;unique;sunbaked;durable
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,eggplant,glossy;purple;fresh;tender;ripe;smooth;vibrant;firm;edible;luscious
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,flower,fragrant;vibrant;delicate;colorful;blooming;fresh;radiant;beautiful;soft;natural
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,grass,green;lush;soft;fresh;thick;abundant;vibrant;natural;healthy;low
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,lettuce,crisp;fresh;green;tender;leafy;vibrant;succulent;delicate;organic;nutritious
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,mushroom,earthy;fresh;wild;small;delicate;organic;edible;fragrant;textured;moist
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,onion,pungent;layered;fresh;sharp;crisp;raw;hearty;robust;aromatic;versatile
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,pepper,spicy;hot;vibrant;fresh;pungent;zesty;red;green;aromatic;flavorful
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,potato,starchy;tender;versatile;fluffy;hearty;earthy;fresh;robust;creamy;soft
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,rose,red;fragrant;delicate;blooming;thorny;vibrant;elegant;fresh;romantic;classic
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,tomato,ripe;juicy;red;fresh;tangy;vibrant;soft;sweet;plump;seasonal
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Plants,tree,tall;leafy;ancient;sturdy;green;majestic;sprawling;strong;vibrant;fruitful
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,ally,loyal;supportive;steadfast;trustworthy;reliable;committed;understanding;sincere;collaborative;devoted
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,brother,loving;supportive;caring;loyal;trustworthy;dependable;kind;warm;protective;familiar
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,enemy,hostile;bitter;relentless;dangerous;formidable;harsh;cunning;ruthless;adversarial;venomous
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,father,caring;supportive;wise;strong;reliable;loving;protective;patient;kind;devoted
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,follower,loyal;devoted;attentive;supportive;eager;active;sincere;respectful;engaged;steadfast
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,friend,kind;loyal;supportive;caring;cheerful;honest;trustworthy;warm;reliable;encouraging
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,leader,inspiring;decisive;visionary;courageous;charismatic;strategic;strong;innovative;influential;determined
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,mother,caring;nurturing;loving;supportive;wise;gentle;patient;kind;protective;devoted
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,partner,reliable;supportive;understanding;committed;trustworthy;loving;caring;devoted;collaborative;harmonious
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,rival,competitive;determined;relentless;formidable;cunning;persistent;ambitious;aggressive;strong;intimidating
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,sister,caring;supportive;loving;kind;loyal;friendly;dependable;affectionate;warm;understanding
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,stranger,unknown;distant;peculiar;unfamiliar;mysterious;curious;intriguing;random;cautious;fleeting
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,above,elevated;superior;lofty;higher;eminent;towering;exalted;upper;dominant;ascendant
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,back,upper;lower;broad;muscular;straight;tense;strong;flexible;steady;supportive
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,below,lower;hidden;deep;modest;underground;base;underlying;secluded;reserved;quiet
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,east,oriental;eastern;rising;sunny;vibrant;promising;warm;familiar;mystical;timeless
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,front,leading;visible;prominent;clear;open;bold;impressive;striking;radiant;commanding
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,inside,internal;hidden;secret;enclosed;protected;private;secure;confined;sheltered;intimate
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,left,unused;spare;remaining;residual;distinct;minor;extra;overlooked;secondary;abandoned
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,north,northern;chilly;remote;rugged;vast;icy;bleak;isolated;frosty;wild
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,outside,external;open;airy;exposed;bright;expansive;vast;lively;clear;unfenced
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,right,correct;proper;appropriate;valid;accurate;justified;exact;flawless;certain;ideal
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,south,southern;warm;sunny;vibrant;gentle;inviting;relaxed;friendly;pleasant;lively
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,west,western;rugged;vast;wild;historic;ancient;expansive;serene;remote;mysterious
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,century,long;historic;bygone;remarkable;significant;distant;memorable;enduring;notable;exceptional
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,day,bright;sunny;long;busy;vibrant;cheerful;warm;pleasant;eventful;lively
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,evening,calm;peaceful;cool;serene;relaxing;quiet;gentle;pleasant;soft;dim
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,hour,brief;fleeting;crucial;exact;short;measured;ticking;limited;passing;precious
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,minute,tiny;brief;small;precise;exact;fleeting;marginal;delicate;subtle;negligible
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,month,long;eventful;transitional;vibrant;busy;short;predictable;seasonal;dynamic;calm
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,morning,fresh;early;bright;crisp;peaceful;gentle;cool;promising;dewy;vibrant
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,night,dark;quiet;silent;starry;peaceful;deep;mysterious;calm;soothing;serene
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,season,changing;distinct;mild;vibrant;cool;warm;colorful;lively;brisk;transitional
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,second,brief;fleeting;tiny;quick;precise;exact;short;momentary;rapid;insignificant
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,week,busy;long;short;eventful;hectic;restful;active;vibrant;structured;varied
+o3-mini,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,year,long;challenging;prosperous;memorable;eventful;successful;promising;fruitful;dynamic;enduring
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,anger,intense;fiery;explosive;bitter;hot;uncontrolled;seething;passionate;burning;sharp
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,courage,brave;bold;strong;fearless;resolute;daring;steadfast;valiant;gallant;determined
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,fear,deep;paralyzing;intense;looming;sudden;alarming;shadowy;overwhelming;crippling;pervasive
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,freedom,absolute;cherished;liberating;unconditional;complete;essential;prized;valued;unbounded;innate
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,happiness,deep;joyful;lasting;contagious;sunny;blissful;radiant;exuberant;solid;full
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,hate,bitter;deep;intense;overwhelming;seething;enduring;silent;profound;raw;corrosive
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,honesty,pure;sincere;genuine;candid;blunt;forthright;unwavering;open;straightforward;truthful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,justice,fair;unbiased;balanced;equitable;consistent;righteous;unwavering;objective;legitimate;principled
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;critical;practical;valuable;systematic;profound;accumulated;extensive;timeless
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,love,deep;true;passionate;unconditional;enduring;tender;warm;selfless;sincere;gentle
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,peace,calm;serene;lasting;quiet;gentle;harmonious;soothing;tranquil;stable;peaceful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,wisdom,profound;ancient;deep;timeless;practical;sage;discerning;thoughtful;learned;insightful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,bell,metallic;loud;clear;resonant;ringing;shiny;classic;small;heavy;decorative
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,candle,small;flickering;soft;glowing;scented;melted;bright;delicate;warm;simple
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,carpet,colorful;soft;woven;patterned;thick;plush;durable;cozy;antique;clean
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,coin,metallic;small;shiny;rare;ancient;circular;valuable;minted;collectible;historic
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;ornate;magnificent;ceremonial;stately;grand;ancient;revered
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,flag,striped;colorful;national;symbolic;vibrant;flying;proud;waving;historic;patterned
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,mask,mysterious;decorative;eerie;ancient;theatrical;ornate;cultural;unique;painted;traditional
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,necklace,elegant;delicate;shiny;ornate;beautiful;precious;charming;stylish;timeless;costly
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,painting,vivid;beautiful;abstract;classic;colorful;detailed;expressive;realistic;modern;enchanting
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,ring,golden;circular;elegant;precious;shiny;small;intricate;timeless;coveted;symbolic
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,statue,majestic;ancient;carved;lifelike;monumental;graceful;detailed;impressive;solid;revered
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,vase,delicate;ceramic;antique;ornate;elegant;beautiful;colorful;fragile;artistic;smooth
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;white;soft;billowy;dark;moving;cottony;high;scattered;ominous
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,earthquake,powerful;sudden;devastating;severe;massive;destructive;shaking;seismic;violent;unpredictable
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,fog,dense;thick;eerie;gloomy;heavy;murky;pale;drifting;mysterious;silent
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;fierce;electric;dazzling;powerful;swift;jagged;transient;striking
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,rain,heavy;gentle;cold;steady;soft;drenching;frequent;refreshing;pounding;consistent
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;bright;vivid;arching;rare;beautiful;dazzling;prismatic;ephemeral;enchanting
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,snow,white;cold;soft;powdery;heavy;gentle;silent;sparkling;fresh;frosty
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,storm,violent;raging;intense;severe;turbulent;heavy;dark;wild;sudden;fierce
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rolling;powerful;resonant;sudden;echoing;mighty;alarming
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,tide,rising;falling;high;low;powerful;rhythmic;relentless;steady;ebbing;flowing
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,volcano,active;fiery;erupting;dangerous;towering;molten;explosive;volatile;ancient;dormant
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;gentle;fierce;brisk;howling;relentless;wild;soft;unpredictable
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,apple,red;juicy;sweet;crisp;fresh;ripe;shiny;delicious;tender;tart
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,banana,ripe;yellow;sweet;soft;fresh;curved;creamy;edible;nutritious;fragrant
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,beef,tender;juicy;savory;lean;cooked;fresh;rich;flavorful;hearty;spiced
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,bread,fresh;soft;crusty;warm;delicious;baked;wholesome;golden;aromatic;dense
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,broccoli,green;fresh;crisp;healthy;vibrant;raw;steamed;nutritious;tender;flavorful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,cheese,creamy;aged;sharp;mild;soft;rich;savory;delicious;tangy;melted
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,chicken,tender;juicy;grilled;succulent;roasted;fresh;flavorful;golden;spiced;lean
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,egg,fresh;raw;boiled;scrambled;small;edible;nutritious;white;brown;rich
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,fish,fresh;oily;flaky;tender;wild;deep-sea;flavorful;grilled;frozen;marinated
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,pasta,cooked;boiled;soft;delicious;al-dente;warm;hearty;fresh;tasty;saucy
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,rice,steamed;white;fluffy;cooked;aromatic;soft;golden;plain;tender;nutritious
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,soup,hot;warm;hearty;savory;creamy;spicy;fresh;delicious;piping;flavorful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,artist,creative;talented;visionary;innovative;expressive;skilled;passionate;dedicated;imaginative;renowned
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,athlete,strong;agile;fit;determined;competitive;swift;powerful;energetic;skilled;resilient
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,chef,talented;creative;skilled;innovative;experienced;passionate;meticulous;resourceful;renowned;dedicated
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,doctor,caring;experienced;knowledgeable;skilled;compassionate;dedicated;reliable;professional;diligent;wise
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,engineer,innovative;skilled;technical;precise;creative;dedicated;experienced;logical;proficient;methodical
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,farmer,hardworking;diligent;honest;resilient;resourceful;experienced;patient;skilled;rural;dedicated
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,lawyer,skilled;knowledgeable;experienced;articulate;persuasive;diligent;ethical;reputable;professional;astute
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,musician,talented;creative;passionate;skilled;rhythmic;expressive;innovative;dedicated;versatile;soulful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,scientist,curious;innovative;methodical;knowledgeable;analytical;dedicated;experimental;brilliant;logical;precise
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,soldier,brave;disciplined;resilient;courageous;dedicated;valiant;rigorous;steadfast;honorable;tough
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,teacher,dedicated;knowledgeable;patient;inspiring;creative;experienced;caring;skilled;thoughtful;passionate
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,writer,creative;articulate;imaginative;thoughtful;skilled;prolific;innovative;expressive;insightful;dedicated
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,book,interesting;informative;engaging;classic;insightful;detailed;well-written;popular;enduring;colorful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,bridge,strong;sturdy;ancient;modern;elegant;long;architectural;well-built;historic;remarkable
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,drums,rhythmic;loud;vibrant;resonant;energetic;percussive;powerful;dynamic;booming;catchy
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,earth,vast;blue;fertile;diverse;ancient;dynamic;vibrant;living;nurturing;beautiful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,flute,melodic;wooden;delicate;enchanting;airy;slender;graceful;bright;soulful;refined
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,key,small;shiny;intricate;ancient;metal;decorative;forged;unique;heavy;ornate
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,knife,sharp;stainless;pointed;gleaming;sleek;durable;robust;balanced;efficient;deadly
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,lock,sturdy;secure;intricate;old;reliable;heavy;metallic;complex;decorative;robust
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,moon,bright;full;luminous;silver;pale;serene;distant;radiant;ancient;mystical
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,pen,smooth;blue;sleek;thin;elegant;reliable;fine;durable;small;creative
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,sun,bright;blazing;radiant;warm;glowing;golden;fierce;powerful;dazzling;fiery
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,sword,sharp;gleaming;ancient;mighty;elegant;deadly;forged;balanced;ornate;lethal
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,cat,curious;agile;playful;sleek;independent;graceful;soft;clever;attentive;nimble
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;playful;faithful;brave;caring;energetic;affectionate;reliable;loving
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,dolphin,intelligent;graceful;playful;agile;friendly;sleek;curious;smart;swift;charming
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,elephant,massive;gentle;intelligent;enormous;gray;mighty;ancient;sturdy;majestic;friendly
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,hamster,small;fluffy;cute;active;curious;playful;tiny;furry;lively;gentle
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,monkey,playful;agile;clever;curious;lively;mischievous;active;smart;nimble;inquisitive
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,mouse,small;timid;quick;furry;delicate;agile;silent;tiny;swift;alert
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,peacock,vibrant;colorful;elegant;majestic;striking;iridescent;proud;graceful;ornate;splendid
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,rabbit,soft;quick;timid;furry;agile;gentle;cute;lively;small;delicate
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,shark,fierce;dangerous;sleek;powerful;fast;predatory;deadly;agile;menacing;relentless
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,snake,slithering;venomous;sleek;mysterious;agile;silent;dangerous;cunning;sinuous;cold
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,whale,massive;gentle;enormous;majestic;aquatic;ancient;powerful;calm;deep;graceful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,city,bustling;vibrant;crowded;modern;historic;lively;sprawling;urban;dynamic;diverse
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,desert,arid;vast;barren;scorching;sandy;harsh;desolate;dry;empty;relentless
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,forest,dense;green;lush;ancient;wild;mysterious;vibrant;quiet;sprawling;serene
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,island,tropical;remote;scenic;small;peaceful;lush;sunny;isolated;charming;serene
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,lake,tranquil;clear;vast;reflective;deep;serene;still;fresh;sparkling;calm
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,mountain,towering;majestic;rugged;lofty;ancient;steep;grand;vast;massive;rocky
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,ocean,vast;deep;turbulent;blue;endless;powerful;mysterious;salty;roaring;expansive
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,plain,expansive;flat;barren;open;wide;grassy;homogeneous;arid;quiet;rolling
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,plateau,elevated;flat;broad;rugged;ancient;arid;remote;quiet;expansive;stable
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,river,winding;flowing;deep;clear;swift;broad;tranquil;meandering;fresh;powerful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,valley,lush;deep;fertile;quiet;scenic;narrow;expansive;green;secluded;gentle
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,village,small;quiet;charming;rustic;peaceful;quaint;close-knit;friendly;rural;historic
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,cactus,spiky;green;resilient;prickly;desert;rugged;dry;unique;thorny;sturdy
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,eggplant,purple;shiny;fresh;firm;glossy;tender;ripe;unique;vibrant;smooth
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,flower,fragrant;colorful;delicate;fresh;vibrant;blooming;lovely;soft;elegant;pretty
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,grass,green;lush;soft;fresh;abundant;vibrant;fine;wild;healthy;delicate
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,lettuce,crisp;fresh;green;tender;leafy;vibrant;mild;juicy;cool;refreshing
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,mushroom,earthy;fresh;small;wild;delicate;meaty;flavorful;soft;spongy;textured
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,onion,spicy;pungent;fresh;layered;strong;crisp;aromatic;raw;sharp;savory
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,pepper,spicy;hot;fresh;green;red;bold;zesty;vibrant;pungent;sharp
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,potato,starchy;earthy;fresh;hearty;firm;boiled;roasted;golden;simple;versatile
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,rose,fragrant;red;delicate;beautiful;blooming;soft;elegant;velvety;romantic;classic
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,tomato,ripe;red;juicy;fresh;plump;tangy;sweet;firm;edible;vibrant
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,tree,tall;sturdy;ancient;leafy;green;majestic;broad;towering;vibrant;robust
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,ally,supportive;loyal;trusted;committed;reliable;dedicated;honest;steadfast;cooperative;sincere
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,brother,caring;loving;supportive;close;dependable;kind;friendly;warm;protective;loyal
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,enemy,hostile;bitter;dangerous;determined;relentless;formidable;cruel;vicious;cunning;ruthless
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,father,caring;strong;wise;supportive;loving;dependable;kind;gentle;protective;honorable
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,follower,loyal;devoted;eager;attentive;faithful;supportive;active;committed;reliable;engaged
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,friend,warm;kind;supportive;caring;loyal;honest;trustworthy;reliable;cheerful;genuine
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,leader,charismatic;decisive;visionary;inspiring;bold;strong;influential;respected;determined;assertive
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,mother,caring;loving;nurturing;gentle;supportive;kind;warm;devoted;compassionate;patient
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,partner,loyal;supportive;affectionate;committed;loving;reliable;respectful;generous;caring;understanding
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,rival,competitive;fierce;determined;formidable;challenging;aggressive;persistent;daring;ambitious;strategic
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,sister,loving;caring;supportive;kind;close;warm;reliable;nurturing;dependable;cheerful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,stranger,unknown;mysterious;unfamiliar;curious;random;distant;unexpected;odd;peculiar;enigmatic
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,above,higher;upper;elevated;superior;lofty;over;top;aerial;raised;supreme
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,back,supportive;strong;reliable;sturdy;hidden;stable;firm;broad;muscular;flexible
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,below,lower;underneath;deep;hidden;underlying;inferior;submerged;minimal;subtle;minor
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,east,oriental;rising;sunny;morning;constant;gentle;hopeful;vibrant;emerging;bright
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,front,leading;clear;visible;open;prominent;forward;observable;striking;direct;obvious
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,inside,inner;enclosed;hidden;warm;comfortable;secret;private;safe;sheltered;confined
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,left,remaining;residual;unused;surplus;extra;reserved;leftover;final;lingering;unspent
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,north,northern;chilly;cold;remote;high;frosty;bleak;icy;expansive;rugged
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,outside,external;open;airy;vast;clear;bright;exposed;wild;free;unconfined
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,right,correct;proper;true;exact;precise;appropriate;fair;valid;accurate;justified
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,south,southern;warm;sunny;humid;mild;breezy;vibrant;festive;gentle;inviting
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,west,western;dry;rugged;vast;open;wild;expansive;dusty;remote;ancient
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,century,historic;long;notable;memorable;significant;recent;distant;enduring;remarkable;defining
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,day,bright;sunny;long;busy;lively;clear;warm;pleasant;eventful;cheerful
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,evening,calm;cool;serene;relaxing;soft;gentle;peaceful;quiet;fading;dusky
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,hour,short;long;fleeting;precious;measured;busy;timely;counted;marked;notable
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,minute,tiny;brief;fleeting;precise;small;quick;measured;subtle;exact;passing
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,month,short;long;busy;changing;regular;memorable;active;eventful;recent;lively
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,morning,fresh;bright;early;peaceful;crisp;warm;hopeful;gentle;lively;radiant
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,night,dark;quiet;calm;silent;deep;serene;starry;peaceful;mysterious;cool
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,season,distinct;changing;varied;cool;warm;vibrant;mild;transitional;pleasant;typical
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,second,brief;fleeting;short;rapid;quick;swift;transient;passing;instant;momentary
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,week,busy;long;short;eventful;productive;challenging;restful;hectic;pleasant;routine
+o3-mini,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,year,long;fruitful;eventful;memorable;challenging;successful;busy;remarkable;prosperous;historic

@@ -1,0 +1,294 @@
+{
+  "task_1_color_naming_reverse": {
+    "palette": {
+      "red": { "hex_range": ["#8B0000", "#FF6666"], "average": "#FF0000" },
+      "orange": { "hex_range": ["#FF6A00", "#FFB347"], "average": "#FF7F00" },
+      "yellow": { "hex_range": ["#CCCC00", "#FFFF66"], "average": "#FFFF00" },
+      "green": { "hex_range": ["#006400", "#66FF66"], "average": "#00FF00" },
+      "blue": { "hex_range": ["#00008B", "#6699FF"], "average": "#0000FF" },
+      "indigo": { "hex_range": ["#4B0082", "#7B68EE"], "average": "#4B0082" },
+      "violet": { "hex_range": ["#8A2BE2", "#DDA0DD"], "average": "#8A2BE2" },
+      "white": { "hex_range": ["#F5F5F5", "#FFFFFF"], "average": "#FFFFFF" }
+    },
+    "stimuli": [
+      {
+        "id": "T1_CLASSIFY_RED",
+        "type": "classification",
+        "prompt": "Here is the hex code `#FF0000`. Which one of the eight basic colors (red, orange, yellow, green, blue, indigo, violet, white) does it belong to? Respond with a single color name.",
+        "correct_answer": "red"
+      },
+      {
+        "id": "T1_IDENTIFY_IMAGE_RED",
+        "type": "image_to_hex",
+        "image_png_base64_placeholder": "(base64 for a solid red 32x32 png - e.g., iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAL0lEQVR4nO3BMQEAAADCoPdPbQ43oAAAAAAAAAAAAPDn1wAAAZ17l9sAAAAASUVORK5CYII=)",
+        "prompt": "The PNG image provided encodes a single solid color. What is its exact 6-digit hex value (e.g., #1A2B3C)? Respond with just the hex.",
+        "correct_answer": "#ff0000"
+      },
+      {
+        "id": "T1_RANGE_RED",
+        "type": "name_to_range",
+        "prompt": "The color name is **red**. Provide a plausible inclusive hex range for this basic color in the format [min_hex,max_hex]."
+      },
+      {
+        "id": "T1_CLASSIFY_ORANGE",
+        "type": "classification",
+        "prompt": "Here is the hex code `#FF7F00`. Which one of the eight basic colors (red, orange, yellow, green, blue, indigo, violet, white) does it belong to? Respond with a single color name."
+      },
+      {
+        "id": "T1_IDENTIFY_IMAGE_ORANGE",
+        "type": "image_to_hex",
+        "image_png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAL0lEQVR4nO3BMQEAAADCoPdPbQ43oAAAAAAAAAAAAPDn1wAAAZ17l9sAAAAASUVORK5CYII=",
+        "prompt": "The PNG above encodes a single solid color. What is its exact 6-digit hex value (e.g., #1A2B3C)? Respond with just the hex."
+      },
+      {
+        "id": "T1_RANGE_ORANGE",
+        "type": "name_to_range",
+        "prompt": "The color name is **orange**. Provide a plausible inclusive hex range for this basic color in the format [min_hex,max_hex]."
+      },
+      {
+        "id": "T1_CLASSIFY_YELLOW",
+        "type": "classification",
+        "prompt": "Here is the hex code `#FFFF00`. Which one of the eight basic colors (red, orange, yellow, green, blue, indigo, violet, white) does it belong to? Respond with a single color name."
+      },
+      {
+        "id": "T1_IDENTIFY_IMAGE_YELLOW",
+        "type": "image_to_hex",
+        "image_png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAL0lEQVR4nO3BMQEAAADCoPdPbQ43oAAAAAAAAAAAAPDn1wAAAZ17l9sAAAAASUVORK5CYII=",
+        "prompt": "The PNG above encodes a single solid color. What is its exact 6-digit hex value (e.g., #1A2B3C)? Respond with just the hex."
+      },
+      {
+        "id": "T1_RANGE_YELLOW",
+        "type": "name_to_range",
+        "prompt": "The color name is **yellow**. Provide a plausible inclusive hex range for this basic color in the format [min_hex,max_hex]."
+      },
+      {
+        "id": "T1_CLASSIFY_GREEN",
+        "type": "classification",
+        "prompt": "Here is the hex code `#00FF00`. Which one of the eight basic colors (red, orange, yellow, green, blue, indigo, violet, white) does it belong to? Respond with a single color name."
+      },
+      {
+        "id": "T1_IDENTIFY_IMAGE_GREEN",
+        "type": "image_to_hex",
+        "image_png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAL0lEQVR4nO3BMQEAAADCoPdPbQ43oAAAAAAAAAAAAPDn1wAAAZ17l9sAAAAASUVORK5CYII=",
+        "prompt": "The PNG above encodes a single solid color. What is its exact 6-digit hex value (e.g., #1A2B3C)? Respond with just the hex."
+      },
+      {
+        "id": "T1_RANGE_GREEN",
+        "type": "name_to_range",
+        "prompt": "The color name is **green**. Provide a plausible inclusive hex range for this basic color in the format [min_hex,max_hex]."
+      },
+      {
+        "id": "T1_CLASSIFY_BLUE",
+        "type": "classification",
+        "prompt": "Here is the hex code `#0000FF`. Which one of the eight basic colors (red, orange, yellow, green, blue, indigo, violet, white) does it belong to? Respond with a single color name."
+      },
+      {
+        "id": "T1_IDENTIFY_IMAGE_BLUE",
+        "type": "image_to_hex",
+        "image_png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAL0lEQVR4nO3BMQEAAADCoPdPbQ43oAAAAAAAAAAAAPDn1wAAAZ17l9sAAAAASUVORK5CYII=",
+        "prompt": "The PNG above encodes a single solid color. What is its exact 6-digit hex value (e.g., #1A2B3C)? Respond with just the hex."
+      },
+      {
+        "id": "T1_RANGE_BLUE",
+        "type": "name_to_range",
+        "prompt": "The color name is **blue**. Provide a plausible inclusive hex range for this basic color in the format [min_hex,max_hex]."
+      },
+      {
+        "id": "T1_CLASSIFY_INDIGO",
+        "type": "classification",
+        "prompt": "Here is the hex code `#4B0082`. Which one of the eight basic colors (red, orange, yellow, green, blue, indigo, violet, white) does it belong to? Respond with a single color name."
+      },
+      {
+        "id": "T1_IDENTIFY_IMAGE_INDIGO",
+        "type": "image_to_hex",
+        "image_png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAL0lEQVR4nO3BMQEAAADCoPdPbQ43oAAAAAAAAAAAAPDn1wAAAZ17l9sAAAAASUVORK5CYII=",
+        "prompt": "The PNG above encodes a single solid color. What is its exact 6-digit hex value (e.g., #1A2B3C)? Respond with just the hex."
+      },
+      {
+        "id": "T1_RANGE_INDIGO",
+        "type": "name_to_range",
+        "prompt": "The color name is **indigo**. Provide a plausible inclusive hex range for this basic color in the format [min_hex,max_hex]."
+      },
+      {
+        "id": "T1_CLASSIFY_VIOLET",
+        "type": "classification",
+        "prompt": "Here is the hex code `#8A2BE2`. Which one of the eight basic colors (red, orange, yellow, green, blue, indigo, violet, white) does it belong to? Respond with a single color name."
+      },
+      {
+        "id": "T1_IDENTIFY_IMAGE_VIOLET",
+        "type": "image_to_hex",
+        "image_png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAL0lEQVR4nO3BMQEAAADCoPdPbQ43oAAAAAAAAAAAAPDn1wAAAZ17l9sAAAAASUVORK5CYII=",
+        "prompt": "The PNG above encodes a single solid color. What is its exact 6-digit hex value (e.g., #1A2B3C)? Respond with just the hex."
+      },
+      {
+        "id": "T1_RANGE_VIOLET",
+        "type": "name_to_range",
+        "prompt": "The color name is **violet**. Provide a plausible inclusive hex range for this basic color in the format [min_hex,max_hex]."
+      },
+      {
+        "id": "T1_CLASSIFY_WHITE",
+        "type": "classification",
+        "prompt": "Here is the hex code `#FFFFFF`. Which one of the eight basic colors (red, orange, yellow, green, blue, indigo, violet, white) does it belong to? Respond with a single color name."
+      },
+      {
+        "id": "T1_IDENTIFY_IMAGE_WHITE",
+        "type": "image_to_hex",
+        "image_png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAL0lEQVR4nO3BMQEAAADCoPdPbQ43oAAAAAAAAAAAAPDn1wAAAZ17l9sAAAAASUVORK5CYII=",
+        "prompt": "The PNG above encodes a single solid color. What is its exact 6-digit hex value (e.g., #1A2B3C)? Respond with just the hex."
+      },
+      {
+        "id": "T1_RANGE_WHITE",
+        "type": "name_to_range",
+        "prompt": "The color name is **white**. Provide a plausible inclusive hex range for this basic color in the format [min_hex,max_hex]."
+      }
+    ]
+  },
+  "task_2_emotion_color_association": {
+    "palette": ["red", "orange", "yellow", "green", "blue", "indigo", "violet", "white"],
+    "emotions": ["calm", "happy", "sad", "angry", "fearful", "disgust", "surprise", "neutral"],
+    "stimuli": [
+      {
+        "id": "T2_COLOR_TO_EMOTION_RED",
+        "type": "color_to_emotion",
+        "prompt": "When you see the color **red**, which of these eight emotions does it most strongly evoke: calm, happy, sad, angry, fearful, disgust, surprise, neutral? Respond with one emotion."
+      },
+      {
+        "id": "T2_COLOR_TO_EMOTION_ORANGE",
+        "type": "color_to_emotion",
+        "prompt": "When you see the color **orange**, which of these eight emotions does it most strongly evoke: calm, happy, sad, angry, fearful, disgust, surprise, neutral? Respond with one emotion."
+      },
+      {
+        "id": "T2_COLOR_TO_EMOTION_YELLOW",
+        "type": "color_to_emotion",
+        "prompt": "When you see the color **yellow**, which of these eight emotions does it most strongly evoke: calm, happy, sad, angry, fearful, disgust, surprise, neutral? Respond with one emotion."
+      },
+      {
+        "id": "T2_COLOR_TO_EMOTION_GREEN",
+        "type": "color_to_emotion",
+        "prompt": "When you see the color **green**, which of these eight emotions does it most strongly evoke: calm, happy, sad, angry, fearful, disgust, surprise, neutral? Respond with one emotion."
+      },
+      {
+        "id": "T2_COLOR_TO_EMOTION_BLUE",
+        "type": "color_to_emotion",
+        "prompt": "When you see the color **blue**, which of these eight emotions does it most strongly evoke: calm, happy, sad, angry, fearful, disgust, surprise, neutral? Respond with one emotion."
+      },
+      {
+        "id": "T2_COLOR_TO_EMOTION_INDIGO",
+        "type": "color_to_emotion",
+        "prompt": "When you see the color **indigo**, which of these eight emotions does it most strongly evoke: calm, happy, sad, angry, fearful, disgust, surprise, neutral? Respond with one emotion."
+      },
+      {
+        "id": "T2_COLOR_TO_EMOTION_VIOLET",
+        "type": "color_to_emotion",
+        "prompt": "When you see the color **violet**, which of these eight emotions does it most strongly evoke: calm, happy, sad, angry, fearful, disgust, surprise, neutral? Respond with one emotion."
+      },
+      {
+        "id": "T2_COLOR_TO_EMOTION_WHITE",
+        "type": "color_to_emotion",
+        "prompt": "When you see the color **white**, which of these eight emotions does it most strongly evoke: calm, happy, sad, angry, fearful, disgust, surprise, neutral? Respond with one emotion."
+      },
+      {
+        "id": "T2_EMOTION_TO_COLOR_CALM",
+        "type": "emotion_to_color",
+        "prompt": "Which single basic color (red, orange, yellow, green, blue, indigo, violet, white) best matches the emotion **calm**? Respond with one color."
+      },
+      {
+        "id": "T2_EMOTION_TO_COLOR_HAPPY",
+        "type": "emotion_to_color",
+        "prompt": "Which single basic color (red, orange, yellow, green, blue, indigo, violet, white) best matches the emotion **happy**? Respond with one color."
+      },
+      {
+        "id": "T2_EMOTION_TO_COLOR_SAD",
+        "type": "emotion_to_color",
+        "prompt": "Which single basic color (red, orange, yellow, green, blue, indigo, violet, white) best matches the emotion **sad**? Respond with one color."
+      },
+      {
+        "id": "T2_EMOTION_TO_COLOR_ANGRY",
+        "type": "emotion_to_color",
+        "prompt": "Which single basic color (red, orange, yellow, green, blue, indigo, violet, white) best matches the emotion **angry**? Respond with one color."
+      },
+      {
+        "id": "T2_EMOTION_TO_COLOR_FEARFUL",
+        "type": "emotion_to_color",
+        "prompt": "Which single basic color (red, orange, yellow, green, blue, indigo, violet, white) best matches the emotion **fearful**? Respond with one color."
+      },
+      {
+        "id": "T2_EMOTION_TO_COLOR_DISGUST",
+        "type": "emotion_to_color",
+        "prompt": "Which single basic color (red, orange, yellow, green, blue, indigo, violet, white) best matches the emotion **disgust**? Respond with one color."
+      },
+      {
+        "id": "T2_EMOTION_TO_COLOR_SURPRISE",
+        "type": "emotion_to_color",
+        "prompt": "Which single basic color (red, orange, yellow, green, blue, indigo, violet, white) best matches the emotion **surprise**? Respond with one color."
+      },
+      {
+        "id": "T2_EMOTION_TO_COLOR_NEUTRAL",
+        "type": "emotion_to_color",
+        "prompt": "Which single basic color (red, orange, yellow, green, blue, indigo, violet, white) best matches the emotion **neutral**? Respond with one color."
+      }
+    ]
+  },
+  "task_3_scenario_color_choice": {
+    "palette": [
+      "red",
+      "orange",
+      "yellow",
+      "green",
+      "blue",
+      "indigo",
+      "violet",
+      "white"
+    ],
+    "stimuli": [
+      {
+        "id": "T3_SCENARIO_1",
+        "type": "scenario_to_color",
+        "scenario": "You are a guest at a traditional wedding and want your outfit to match the joyful celebration.",
+        "prompt": "At a wedding, which basic color (red, orange, yellow, green, blue, indigo, violet, white) best suits your outfit? Respond with one color."
+      },
+      {
+        "id": "T3_SCENARIO_2",
+        "type": "scenario_to_color",
+        "scenario": "You are attending a funeral and wish to show respect while keeping to cultural norms.",
+        "prompt": "At a funeral, which basic color (red, orange, yellow, green, blue, indigo, violet, white) best suits your outfit? Respond with one color."
+      },
+      {
+        "id": "T3_SCENARIO_3",
+        "type": "scenario_to_color",
+        "scenario": "You are painting a baby's nursery and want a calm, soothing wall color for better sleep.",
+        "prompt": "For a baby's nursery, which basic color (red, orange, yellow, green, blue, indigo, violet, white) is most calming? Respond with one color."
+      },
+      {
+        "id": "T3_SCENARIO_4",
+        "type": "scenario_to_color",
+        "scenario": "You are creating slides for a job-interview presentation and need an accent color that signals trust and professionalism.",
+        "prompt": "For a job-interview slide deck, which basic color (red, orange, yellow, green, blue, indigo, violet, white) conveys trust and professionalism? Respond with one color."
+      },
+      {
+        "id": "T3_SCENARIO_5",
+        "type": "scenario_to_color",
+        "scenario": "You are hosting a child's birthday party and want balloon colors that spark excitement.",
+        "prompt": "For balloons at a child's birthday party, which basic color (red, orange, yellow, green, blue, indigo, violet, white) is the most exciting? Respond with one color."
+      },
+      {
+        "id": "T3_SCENARIO_6",
+        "type": "scenario_to_color",
+        "scenario": "You are buying a reusable water bottle and want a color that motivates daily hydration.",
+        "prompt": "For a water bottle, which basic color (red, orange, yellow, green, blue, indigo, violet, white) best motivates daily hydration? Respond with one color."
+      },
+      {
+        "id": "T3_SCENARIO_7",
+        "type": "scenario_to_color",
+        "scenario": "You just bought a house and are choosing a front-door paint color to feel welcoming to guests.",
+        "prompt": "For a welcoming front door, which basic color (red, orange, yellow, green, blue, indigo, violet, white) is best? Respond with one color."
+      },
+      {
+        "id": "T3_SCENARIO_8",
+        "type": "scenario_to_color",
+        "scenario": "You are selecting a phone case color that helps you feel relaxed during daily use.",
+        "prompt": "For a relaxing phone case, which basic color (red, orange, yellow, green, blue, indigo, violet, white) is the most soothing? Respond with one color."
+      }
+    ]
+  }
+}

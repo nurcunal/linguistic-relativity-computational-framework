@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,anger,strong;deep;hot;quick;wild;bitter;fierce;dark;heavy;sudden
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,courage,great;bold;true;brave;big;amazing;real;strong;quiet;inner
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,fear,deep;cold;dark;big;sudden;strong;hidden;sharp;heavy;constant
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,freedom,true;full;new;sweet;hard;pure;wide;bright;happy;complete
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,happiness,pure;simple;true;warm;bright;deep;real;sweet;light;endless
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,hate,strong;deep;dark;bitter;cold;fierce;heavy;blind;wild;hidden
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,honesty,pure;true;clear;real;strong;simple;open;brave;fair;bright
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,justice,fair;true;strong;clear;right;hard;pure;honest;bold;final
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,knowledge,deep;wide;great;useful;clear;new;strong;rich;basic;important
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,love,true;deep;warm;sweet;strong;pure;endless;real;gentle;kind
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,peace,quiet;calm;true;sweet;deep;pure;soft;bright;lasting;inner
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,wisdom,deep;great;true;quiet;old;clear;strong;pure;rare;practical
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,bell,loud;clear;small;shiny;old;heavy;bright;golden;sweet;tiny
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,candle,small;warm;bright;soft;white;old;thin;red;glowing;simple
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,carpet,soft;thick;red;old;big;warm;clean;colorful;heavy;nice
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,coin,old;shiny;small;silver;gold;rare;round;heavy;dirty;valuable
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,crown,golden;heavy;shiny;royal;old;beautiful;big;rich;bright;grand
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,flag,bright;colorful;big;old;national;proud;red;white;blue;waving
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,mask,dark;scary;funny;colorful;old;strange;small;wooden;black;hidden
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,necklace,shiny;beautiful;long;silver;gold;expensive;pretty;delicate;old;elegant
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;big;famous;dark;bright;small;strange;lovely
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,ring,shiny;small;gold;silver;beautiful;expensive;round;old;pretty;simple
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,statue,tall;old;stone;big;beautiful;white;heavy;famous;grand;ancient
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,vase,small;delicate;old;beautiful;glass;colorful;tall;expensive;thin;pretty
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,cloud,white;fluffy;big;dark;soft;high;grey;heavy;moving;thick
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,earthquake,strong;scary;sudden;big;dangerous;powerful;deep;terrible;wild;destructive
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,fog,thick;white;cold;heavy;dark;soft;quiet;wet;grey;mysterious
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,lightning,bright;fast;sharp;loud;dangerous;white;strong;sudden;scary;wild
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;wet;soft;sudden;dark;strong;long;quiet
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;big;happy;clear;pretty;magic;lovely
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;thick;quiet;beautiful;wet;fresh
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,storm,strong;dark;loud;scary;wild;heavy;sudden;dangerous;big;fierce
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,thunder,loud;deep;scary;strong;sudden;dark;heavy;wild;powerful;sharp
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,tide,high;low;strong;fast;dangerous;big;sudden;wild;powerful;moving
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,volcano,big;hot;dangerous;active;tall;dark;powerful;scary;red;ancient
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,wind,strong;cold;fast;soft;warm;loud;sharp;wild;light;gentle
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,apple,red;sweet;fresh;juicy;green;small;round;hard;tasty;ripe
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,banana,yellow;sweet;soft;long;fresh;ripe;tasty;healthy;small;curved
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,beef,fresh;red;tasty;soft;hard;cooked;raw;expensive;juicy;thick
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,bread,fresh;soft;white;brown;warm;tasty;hard;old;thick;small
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,broccoli,green;fresh;healthy;small;hard;tasty;raw;cooked;bitter;thick
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,cheese,yellow;soft;hard;tasty;smelly;white;creamy;fresh;old;strong
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,chicken,fresh;tasty;soft;cooked;raw;white;juicy;small;hot;tender
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,egg,white;small;fresh;hard;soft;round;yellow;tasty;boiled;raw
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,fish,fresh;tasty;small;big;silver;raw;cooked;smelly;juicy;healthy
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,pasta,tasty;soft;long;yellow;fresh;hot;cooked;simple;Italian;yummy
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,rice,white;soft;tasty;hot;sticky;fresh;small;simple;healthy;plain
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Food Items,soup,hot;tasty;warm;thick;thin;fresh;salty;creamy;clear;healthy
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,artist,creative;talented;famous;young;old;poor;rich;strange;happy;quiet
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,athlete,strong;fast;young;fit;tall;powerful;famous;hard-working;active;brave
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,chef,skilled;famous;busy;creative;kind;strict;talented;friendly;old;young
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,doctor,kind;smart;busy;helpful;old;young;friendly;strict;patient;wise
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,engineer,smart;creative;busy;young;skilled;talented;careful;hard-working;serious;clever
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,farmer,hard-working;kind;old;strong;simple;busy;friendly;tough;happy;patient
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,lawyer,smart;strict;busy;famous;rich;serious;clever;tough;young;old
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,musician,talented;creative;famous;young;passionate;skilled;happy;quiet;loud;cool
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,scientist,smart;curious;serious;busy;clever;old;young;patient;famous;wise
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,soldier,brave;strong;tough;young;loyal;serious;tall;bold;hard-working;proud
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,teacher,kind;strict;patient;smart;friendly;wise;old;young;helpful;funny
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Human Roles,writer,creative;quiet;talented;famous;young;old;serious;happy;strange;clever
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,book,old;thick;interesting;new;small;big;heavy;funny;sad;colorful
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,bridge,long;old;strong;high;big;narrow;beautiful;wooden;stone;modern
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,drums,loud;big;heavy;old;round;noisy;colorful;strong;cool;wooden
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,earth,big;round;blue;green;old;beautiful;wide;rich;warm;alive
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,flute,small;shiny;silver;old;sweet;light;wooden;beautiful;thin;delicate
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,key,small;old;shiny;silver;gold;heavy;important;rusty;tiny;useful
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,knife,sharp;small;shiny;heavy;dangerous;old;rusty;long;silver;useful
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,lock,heavy;old;rusty;strong;small;shiny;black;silver;hard;secure
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,moon,bright;round;white;big;beautiful;pale;quiet;high;silver;mysterious
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,pen,small;black;blue;shiny;old;cheap;expensive;thin;useful;plastic
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;warm;high;golden;beautiful;strong;shining
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,sword,sharp;long;heavy;old;shiny;silver;dangerous;strong;beautiful;ancient
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,cat,small;cute;soft;black;white;lazy;fast;quiet;friendly;playful
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,dog,big;friendly;loyal;brown;black;fast;loud;cute;strong;happy
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,dolphin,smart;friendly;fast;blue;cute;playful;big;smooth;happy;gentle
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,elephant,big;grey;strong;slow;heavy;tall;gentle;old;kind;amazing
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,hamster,small;cute;soft;tiny;brown;fast;funny;fluffy;sweet;playful
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,monkey,funny;fast;small;brown;smart;naughty;loud;active;cute;wild
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,mouse,small;grey;fast;tiny;quiet;cute;sneaky;soft;brown;shy
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,peacock,beautiful;colorful;big;proud;rare;bright;blue;green;loud;amazing
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,rabbit,cute;small;white;soft;fast;fluffy;shy;brown;sweet;quiet
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,shark,big;dangerous;fast;grey;scary;strong;wild;sharp;dark;fierce
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,snake,long;dangerous;green;scary;fast;thin;black;quiet;wild;slippery
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,whale,big;blue;huge;gentle;slow;heavy;deep;beautiful;rare;amazing
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,city,big;busy;noisy;modern;old;crowded;bright;dirty;tall;beautiful
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,desert,hot;dry;big;sandy;empty;yellow;dangerous;quiet;wide;harsh
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,forest,green;big;dark;quiet;thick;old;beautiful;wild;deep;scary
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,island,small;beautiful;green;quiet;far;tropical;blue;lonely;warm;peaceful
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,lake,blue;calm;big;deep;clear;cold;quiet;beautiful;still;wide
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,mountain,tall;high;big;cold;rocky;beautiful;green;steep;white;old
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,ocean,big;blue;deep;wide;cold;wild;beautiful;dark;salty;endless
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,plain,wide;flat;green;empty;big;quiet;open;yellow;dry;simple
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,plateau,high;flat;wide;dry;big;rocky;cold;empty;brown;old
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,river,long;blue;deep;wide;fast;clear;cold;beautiful;calm;winding
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,valley,green;deep;narrow;quiet;beautiful;wide;long;peaceful;steep;hidden
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Places,village,small;quiet;old;peaceful;friendly;green;simple;beautiful;remote;cozy
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,cactus,green;sharp;tall;dry;small;tough;spiky;hard;strange;desert
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,eggplant,purple;shiny;long;fresh;soft;tasty;small;healthy;raw;smooth
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,flower,beautiful;colorful;small;red;yellow;sweet;fresh;delicate;bright;pretty
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,grass,green;soft;thick;tall;fresh;wet;short;bright;wild;cool
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,lettuce,green;fresh;soft;light;healthy;crispy;small;tasty;raw;cool
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,mushroom,small;brown;soft;white;tasty;strange;round;wild;fresh;earthy
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,onion,white;strong;small;round;fresh;tasty;sharp;raw;yellow;smelly
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,pepper,red;green;hot;small;fresh;spicy;tasty;round;yellow;juicy
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,potato,brown;hard;small;fresh;tasty;round;dirty;soft;yellow;cheap
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,rose,red;beautiful;sweet;small;delicate;bright;lovely;thorny;pink;fresh
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,tomato,red;juicy;fresh;round;small;tasty;soft;ripe;healthy;sweet
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Plants,tree,tall;green;old;big;strong;beautiful;thick;wide;shady;brown
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,ally,loyal;kind;helpful;close;strong;trusted;friendly;good;reliable;supportive
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,brother,kind;strong;close;funny;tall;young;old;helpful;protective;annoying
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,enemy,dangerous;strong;bad;cruel;dark;cold;fierce;tricky;hated;sneaky
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,father,kind;strong;tall;old;wise;strict;loving;funny;busy;protective
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,follower,loyal;young;quiet;eager;supportive;close;faithful;active;dedicated;trusting
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,friend,kind;funny;close;loyal;nice;happy;helpful;sweet;honest;best
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,leader,strong;wise;brave;smart;kind;strict;confident;tall;bold;respected
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,mother,kind;loving;warm;strict;wise;busy;gentle;strong;sweet;caring
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,partner,close;kind;loyal;funny;helpful;strong;trusted;sweet;supportive;honest
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,rival,strong;tough;smart;dangerous;close;fierce;tricky;competitive;bold;annoying
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,sister,kind;funny;close;sweet;young;old;helpful;annoying;loving;pretty
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,stranger,unknown;quiet;strange;tall;dark;shy;friendly;cold;weird;mysterious
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,above,high;clear;bright;far;wide;open;blue;distant;empty;visible
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,back,strong;wide;straight;sore;hidden;lower;upper;broad;tired;injured
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,below,low;deep;dark;cold;hidden;close;quiet;narrow;small;silent
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,east,far;bright;warm;new;beautiful;distant;open;sunny;exotic;ancient
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,front,close;open;wide;clear;straight;visible;main;bright;busy;important
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,inside,warm;dark;small;cozy;quiet;hidden;safe;tight;comfortable;private
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,left,close;nearby;small;hidden;wrong;opposite;sharp;quick;open;remaining
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,north,cold;far;high;dark;snowy;quiet;wild;distant;beautiful;harsh
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,outside,cold;bright;open;wide;noisy;fresh;big;sunny;wet;beautiful
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,right,correct;close;straight;nearby;good;opposite;quick;sharp;open;proper
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,south,warm;far;sunny;bright;hot;beautiful;open;distant;green;exotic
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,west,far;beautiful;sunny;open;distant;warm;wild;bright;exotic;new
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,century,old;long;past;new;important;great;famous;ancient;dark;golden
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,day,long;short;busy;hot;cold;bright;rainy;happy;sad;sunny
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,evening,quiet;cool;dark;long;beautiful;calm;warm;peaceful;late;relaxing
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,hour,long;short;busy;late;early;quiet;fast;important;happy;sad
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,minute,quick;short;long;fast;busy;important;final;quiet;last;exact
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,month,long;short;busy;cold;hot;rainy;sunny;happy;sad;important
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,morning,early;bright;cool;quiet;fresh;sunny;cold;busy;happy;peaceful
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,night,dark;long;quiet;cold;late;beautiful;scary;silent;black;starry
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,season,hot;cold;wet;dry;long;short;beautiful;rainy;sunny;favorite
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,second,quick;short;fast;last;important;final;exact;small;brief;passing
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,week,long;short;busy;happy;sad;hard;easy;fast;important;tiring
+grok-3,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,year,long;short;busy;happy;sad;new;old;hard;important;special
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,anger,strong;intense;deep;burning;fierce;wild;hot;sudden;bitter;uncontrollable
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,courage,great;bold;brave;amazing;true;powerful;heroic;fearless;incredible;inspiring
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,fear,dark;cold;heavy;terrible;awful;silent;hidden;constant;sharp;overwhelming
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,freedom,pure;complete;real;precious;sweet;hard;new;open;beautiful;endless
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,happiness,bright;warm;joyful;simple;genuine;deep;full;lasting;sweet;perfect
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,hate,strong;dark;cold;bitter;deep;harsh;blind;cruel;fierce;endless
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,honesty,true;clear;pure;strong;real;brave;simple;direct;fair;open
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,justice,fair;strong;true;equal;right;strict;moral;clear;pure;necessary
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,knowledge,deep;wide;great;useful;important;basic;new;rich;powerful;essential
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,love,warm;true;sweet;deep;strong;pure;gentle;endless;beautiful;passionate
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,peace,calm;quiet;sweet;deep;lasting;true;gentle;beautiful;soft;perfect
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,wisdom,deep;great;true;old;clear;practical;strong;quiet;valuable;rare
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,bell,loud;clear;small;golden;heavy;old;shiny;beautiful;round;bright
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,candle,small;warm;bright;soft;white;burning;tiny;scented;old;delicate
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,carpet,soft;thick;red;old;warm;big;colorful;expensive;dirty;patterned
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,coin,old;shiny;small;silver;gold;rare;heavy;round;valuable;ancient
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,crown,golden;heavy;shiny;royal;beautiful;old;precious;grand;tall;jeweled
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,flag,bright;colorful;national;waving;big;old;proud;torn;bold;symbolic
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,mask,dark;scary;mysterious;colorful;old;wooden;hidden;strange;funny;painted
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,necklace,beautiful;shiny;silver;gold;long;delicate;expensive;elegant;simple;precious
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;famous;large;detailed;realistic;abstract;expensive;unique
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,ring,shiny;gold;silver;small;beautiful;expensive;round;simple;elegant;precious
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,statue,tall;old;stone;bronze;beautiful;grand;ancient;heavy;famous;detailed
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,vase,delicate;old;beautiful;ceramic;tall;colorful;expensive;fragile;simple;decorative
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,cloud,white;soft;big;dark;fluffy;gray;high;moving;thick;light
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,earthquake,strong;terrible;sudden;dangerous;powerful;scary;destructive;violent;quick;awful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,fog,thick;cold;gray;heavy;mysterious;silent;wet;dark;dense;quiet
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,lightning,bright;quick;sharp;loud;dangerous;powerful;white;sudden;scary;electric
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;soft;sudden;warm;gentle;endless;gray;wet
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;magical;clear;vivid;wide;amazing;cheerful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,snow,white;cold;soft;thick;heavy;light;quiet;beautiful;icy;fresh
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,storm,strong;dark;loud;dangerous;wild;heavy;sudden;scary;violent;powerful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,thunder,loud;deep;scary;powerful;sudden;strong;dark;rolling;heavy;frightening
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,tide,high;low;strong;fast;dangerous;calm;steady;powerful;regular;changing
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,volcano,active;dangerous;hot;tall;powerful;dark;fiery;ancient;huge;destructive
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;fast;gentle;loud;wild;soft;blowing
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,apple,red;green;sweet;fresh;round;juicy;hard;small;ripe;crisp
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,banana,yellow;sweet;soft;long;fresh;ripe;healthy;curved;tropical;tasty
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,beef,red;fresh;tender;juicy;expensive;raw;cooked;tough;lean;grilled
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,bread,fresh;soft;warm;brown;white;hard;tasty;crusty;sliced;homemade
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,broccoli,green;fresh;healthy;small;hard;raw;cooked;bitter;tender;nutritious
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;creamy;sharp;smelly;tasty;melted;strong
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,chicken,white;tender;juicy;fresh;cooked;raw;grilled;fried;spicy;roasted
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,egg,white;brown;fresh;small;hard;soft;boiled;fried;raw;nutritious
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,fish,fresh;raw;cooked;small;big;salty;silver;tasty;grilled;oily
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,pasta,soft;long;short;tasty;fresh;hot;creamy;spicy;simple;boiled
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,rice,white;brown;sticky;soft;hard;fresh;hot;plain;tasty;steamed
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Food Items,soup,hot;warm;tasty;thick;thin;creamy;spicy;clear;fresh;hearty
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,artist,creative;talented;famous;young;old;passionate;skilled;unique;inspired;successful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,athlete,strong;fast;fit;young;talented;hardworking;competitive;skilled;famous;determined
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,chef,skilled;creative;famous;busy;talented;passionate;friendly;experienced;professional;innovative
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,doctor,kind;smart;busy;helpful;skilled;patient;experienced;caring;professional;trusted
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,engineer,smart;skilled;creative;hardworking;innovative;technical;experienced;practical;clever;dedicated
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,farmer,hardworking;kind;strong;patient;simple;early;busy;tough;friendly;experienced
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,lawyer,smart;strict;busy;skilled;confident;professional;tough;expensive;clever;serious
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,musician,talented;creative;passionate;famous;young;skilled;emotional;unique;inspired;successful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,scientist,smart;curious;patient;dedicated;innovative;serious;clever;hardworking;brilliant;focused
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,soldier,brave;strong;loyal;tough;young;disciplined;heroic;proud;fearless;dedicated
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,teacher,kind;patient;smart;strict;helpful;friendly;experienced;caring;wise;supportive
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Human Roles,writer,creative;talented;famous;passionate;quiet;inspired;unique;clever;hardworking;imaginative
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,book,thick;thin;old;new;interesting;boring;heavy;short;long;colorful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,bridge,long;high;old;strong;wooden;metal;narrow;wide;beautiful;famous
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,drums,loud;big;heavy;round;shiny;powerful;fast;rhythmic;colorful;strong
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,earth,big;round;beautiful;green;blue;old;vast;warm;rich;alive
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,flute,small;silver;light;soft;beautiful;wooden;clear;delicate;high;musical
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,key,small;shiny;silver;old;heavy;important;golden;tiny;rusty;useful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,knife,sharp;small;big;heavy;dangerous;silver;shiny;useful;old;rusty
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,lock,strong;heavy;old;small;shiny;rusty;secure;broken;tight;metal
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,moon,bright;round;pale;white;big;beautiful;quiet;mysterious;silver;distant
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,pen,black;blue;small;cheap;expensive;shiny;useful;light;plastic;smooth
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;warm;golden;powerful;beautiful;shining;distant
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,sword,sharp;heavy;long;old;shiny;dangerous;silver;strong;ancient;powerful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,cat,small;soft;black;white;cute;lazy;quiet;fast;furry;playful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,dog,big;small;loyal;friendly;brown;black;cute;active;loud;protective
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,dolphin,smart;friendly;fast;blue;playful;smooth;beautiful;wild;happy;gentle
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,elephant,big;heavy;gray;strong;slow;gentle;tall;wild;wise;powerful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,hamster,small;cute;soft;brown;tiny;fast;quiet;fluffy;playful;shy
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,monkey,funny;fast;small;brown;clever;noisy;active;wild;curious;playful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,mouse,small;gray;fast;tiny;quiet;shy;sneaky;cute;soft;quick
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,peacock,colorful;beautiful;big;proud;bright;elegant;rare;loud;stunning;unique
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,rabbit,small;white;soft;fast;cute;shy;fluffy;brown;quiet;gentle
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,shark,big;dangerous;fast;gray;scary;strong;wild;sharp;fierce;deadly
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,snake,long;dangerous;green;black;scary;quiet;smooth;poisonous;wild;thin
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,whale,huge;blue;big;gentle;deep;heavy;slow;amazing;rare;powerful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,city,big;busy;noisy;modern;old;crowded;bright;dirty;beautiful;large
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,desert,hot;dry;vast;empty;sandy;quiet;harsh;wide;lonely;dangerous
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,forest,green;dark;big;thick;quiet;wild;deep;beautiful;old;dense
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,island,small;beautiful;tropical;quiet;remote;green;sunny;sandy;peaceful;lonely
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,lake,blue;clear;calm;big;deep;quiet;beautiful;cold;still;fresh
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,mountain,high;tall;big;snowy;rocky;steep;beautiful;cold;strong;majestic
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,ocean,blue;deep;vast;wide;powerful;calm;wild;salty;beautiful;endless
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,plain,wide;flat;green;vast;empty;quiet;open;simple;dry;peaceful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,plateau,high;flat;wide;dry;rocky;cold;vast;remote;open;barren
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,river,long;wide;blue;clear;fast;slow;deep;beautiful;calm;winding
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,valley,green;deep;narrow;beautiful;quiet;wide;long;fertile;peaceful;hidden
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Places,village,small;quiet;old;peaceful;simple;friendly;rural;beautiful;remote;tiny
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,cactus,green;spiky;tall;dry;tough;small;sharp;desert;hard;unique
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,eggplant,purple;shiny;smooth;long;fresh;soft;bitter;small;healthy;ripe
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,flower,beautiful;colorful;small;bright;soft;delicate;fragrant;fresh;pretty;tiny
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,grass,green;soft;tall;short;wet;dry;thick;fresh;wild;smooth
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,lettuce,green;fresh;crisp;light;healthy;soft;raw;cool;tender;leafy
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,mushroom,small;brown;white;soft;wild;tasty;poisonous;round;strange;earthy
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,onion,white;yellow;strong;sharp;small;raw;fresh;spicy;round;smelly
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,pepper,red;green;spicy;hot;small;fresh;sharp;colorful;sweet;raw
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,potato,brown;small;hard;fresh;soft;tasty;round;cheap;boiled;baked
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,rose,red;beautiful;soft;delicate;fragrant;thorny;bright;pink;romantic;lovely
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,tomato,red;round;juicy;fresh;ripe;small;sweet;soft;healthy;tasty
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Plants,tree,tall;green;old;big;strong;thick;beautiful;leafy;shady;ancient
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,ally,loyal;helpful;strong;close;friendly;trusted;reliable;supportive;kind;true
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,brother,older;younger;kind;funny;strong;close;caring;annoying;protective;friendly
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,enemy,strong;dangerous;cruel;fierce;bitter;cold;hateful;powerful;tricky;ruthless
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,father,kind;strict;strong;loving;old;wise;caring;protective;hard;supportive
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,follower,loyal;young;eager;quiet;supportive;dedicated;true;active;trusting;obedient
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,friend,close;kind;funny;loyal;helpful;sweet;true;best;old;caring
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,leader,strong;wise;brave;confident;smart;strict;powerful;kind;fair;inspiring
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,mother,loving;kind;warm;strict;caring;gentle;strong;sweet;patient;protective
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,partner,close;loyal;helpful;kind;strong;supportive;funny;caring;loving;trusted
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,rival,strong;tough;competitive;smart;fierce;close;dangerous;jealous;tricky;bold
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,sister,older;younger;sweet;kind;funny;close;caring;annoying;loving;supportive
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,stranger,unknown;quiet;strange;distant;cold;polite;curious;shy;friendly;mysterious
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,above,high;clear;bright;open;wide;far;blue;distant;empty;lofty
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,back,strong;straight;sore;broad;wide;hidden;painful;flat;curved;tired
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,below,low;deep;dark;cold;hidden;quiet;close;wet;still;underground
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,east,far;bright;warm;distant;open;new;early;sunny;beautiful;exotic
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,front,clear;wide;open;straight;big;bold;close;bright;strong;visible
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,inside,warm;dark;quiet;small;cozy;hidden;safe;tight;soft;secret
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,left,close;near;open;free;wide;empty;first;sharp;sudden;unexpected
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,north,cold;far;dark;distant;snowy;wild;quiet;harsh;remote;icy
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,outside,cold;bright;open;wide;fresh;noisy;big;free;beautiful;sunny
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,right,close;near;correct;proper;straight;clear;sharp;quick;strong;safe
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,south,warm;sunny;far;bright;hot;open;tropical;distant;green;beautiful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,west,far;distant;open;wild;sunny;warm;beautiful;new;quiet;golden
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,century,long;old;past;new;great;important;historic;early;late;modern
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,day,long;short;warm;cold;busy;sunny;rainy;happy;hard;bright
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,evening,quiet;cool;dark;late;calm;beautiful;peaceful;soft;relaxing;clear
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;fast;slow;hard;important
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,minute,quick;short;fast;long;important;last;quiet;busy;final;precious
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,month,long;short;cold;warm;busy;quiet;rainy;sunny;hard;special
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,morning,early;bright;fresh;cool;quiet;busy;sunny;cold;clear;beautiful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,night,dark;long;cold;quiet;late;black;silent;scary;beautiful;peaceful
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,season,warm;cold;wet;dry;long;short;beautiful;rainy;sunny;harsh
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,second,quick;fast;short;last;important;brief;final;sudden;tiny;precious
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,week,long;short;busy;hard;fast;slow;quiet;important;stressful;exciting
+grok-3,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,year,long;short;busy;hard;new;old;good;bad;fast;important
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,anger,intense;fierce;burning;uncontrollable;deep;raw;bitter;sudden;suppressed;explosive
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,courage,brave;bold;fearless;daring;strong;heroic;valiant;determined;unwavering;inspiring
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,fear,intense;overwhelming;paralyzing;deep;irrational;constant;hidden;chilling;growing;dark
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,freedom,complete;true;hard-won;precious;absolute;personal;boundless;cherished;newfound;lasting
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,happiness,pure;genuine;immense;radiant;boundless;simple;lasting;unexpected;warm;infectious
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,hate,intense;bitter;deep-seated;fierce;burning;irrational;toxic;hidden;destructive;passionate
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,honesty,complete;brutal;refreshing;unwavering;absolute;sincere;raw;admirable;rare;essential
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,justice,fair;true;impartial;swift;deserved;moral;strict;blind;long-awaited;poetic
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;valuable;practical;ancient;specialized;shared;hidden
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,love,unconditional;passionate;true;deep;romantic;eternal;selfless;tender;fierce;enduring
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,peace,inner;lasting;serene;fragile;quiet;global;harmonious;calm;spiritual;elusive
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,wisdom,profound;timeless;practical;deep;ancient;hard-earned;quiet;insightful;shared;guiding
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,bell,loud;clear;ringing;small;heavy;golden;old;melodic;brass;ceremonial
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,candle,flickering;small;warm;scented;tall;white;melting;soft;decorative;calming
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,carpet,soft;thick;red;patterned;old;luxurious;worn;colorful;plush;Persian
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,coin,old;shiny;small;rare;gold;silver;worn;collectible;ancient;valuable
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,crown,golden;royal;heavy;jeweled;ancient;ceremonial;glittering;ornate;symbolic;majestic
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;torn;historical;bright;symbolic;official;fluttering
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,mask,mysterious;colorful;creepy;wooden;tribal;decorative;hidden;painted;carnival;scary
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,necklace,delicate;gold;silver;elegant;long;beaded;expensive;simple;vintage;sparkling
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,painting,beautiful;old;famous;abstract;colorful;detailed;realistic;modern;expressive;framed
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,ring,gold;silver;diamond;simple;elegant;wedding;antique;shiny;small;engraved
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,statue,tall;ancient;marble;bronze;imposing;detailed;historical;beautiful;weathered;grand
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;ornate;antique;floral;cracked;elegant;simple;painted
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;floating;thick;gray;soft;high;ominous
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;violent;terrifying;destructive;massive;unexpected;deadly;strong
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,fog,thick;dense;eerie;mysterious;cold;gray;heavy;silent;creeping;blinding
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;jagged;dangerous;striking;intense;electric;blinding;dramatic
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;gentle;torrential;sudden;warm;persistent;refreshing
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;vivid;rare;magical;arched;fleeting;stunning;natural
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,snow,white;soft;heavy;cold;fresh;thick;falling;light;powdery;silent
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,storm,violent;fierce;powerful;dark;raging;sudden;dangerous;loud;destructive;intense
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,thunder,loud;deep;rumbling;powerful;sudden;distant;rolling;deafening;ominous;startling
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;rising;calm;dangerous;steady
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;fiery;erupting;ancient;powerful;smoking;towering
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fierce;howling;gusty;brisk;wild;constant
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,apple,red;green;sweet;juicy;crisp;fresh;ripe;small;tart;shiny
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;spotted;healthy
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,beef,tender;juicy;grilled;lean;fresh;savory;cooked;red;marinated;rare
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,bread,fresh;warm;soft;crusty;white;brown;sliced;homemade;toasted;stale
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,broccoli,green;fresh;healthy;crisp;steamed;raw;tender;small;organic;bitter
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,cheese,creamy;sharp;soft;hard;melted;yellow;aged;tangy;sliced;grated
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,chicken,grilled;roasted;fried;tender;juicy;spicy;cooked;fresh;white;savory
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,egg,boiled;fried;fresh;white;brown;scrambled;raw;cracked;soft;hard
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,fish,fresh;grilled;raw;salty;white;oily;cooked;smoked;flaky;tender
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,pasta,cooked;soft;al dente;fresh;Italian;creamy;spicy;hot;cheesy;saucy
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,rice,white;brown;sticky;fluffy;cooked;steamed;plain;seasoned;long-grain;aromatic
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Food Items,soup,hot;creamy;clear;savory;hearty;warm;spicy;homemade;thick;comforting
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,artist,talented;creative;famous;struggling;young;visionary;innovative;passionate;skilled;eccentric
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,athlete,strong;fast;dedicated;talented;fit;competitive;skilled;young;determined;powerful
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,chef,skilled;creative;famous;professional;passionate;experienced;innovative;busy;talented;meticulous
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,doctor,kind;skilled;experienced;caring;busy;dedicated;professional;patient;wise;trusted
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,engineer,skilled;innovative;smart;creative;technical;experienced;dedicated;precise;analytical;brilliant
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,farmer,hardworking;dedicated;rural;patient;experienced;tough;honest;humble;traditional;caring
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,lawyer,smart;sharp;experienced;tough;dedicated;persuasive;professional;busy;confident;successful
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,musician,talented;passionate;creative;famous;young;skilled;dedicated;expressive;gifted;versatile
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;smart;patient;meticulous;knowledgeable;pioneering
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,soldier,brave;strong;dedicated;loyal;tough;disciplined;heroic;young;determined;fearless
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,teacher,kind;patient;dedicated;inspiring;knowledgeable;strict;caring;experienced;supportive;wise
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Human Roles,writer,creative;talented;famous;passionate;imaginative;prolific;young;insightful;dedicated;expressive
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;famous;heavy;paperback;hardcover
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,bridge,old;long;high;wooden;steel;narrow;wide;iconic;sturdy;suspended
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;big;small;tribal;powerful;beaten;wooden;tight;resonant
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,earth,vast;green;blue;ancient;fertile;fragile;rich;living;rotating;precious
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,flute,small;wooden;silver;delicate;melodic;high-pitched;ancient;beautiful;light;clear
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,key,small;old;rusty;golden;silver;heavy;important;lost;shiny;spare
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,knife,sharp;small;big;rusty;dangerous;kitchen;pocket;blunt;steel;serrated
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,lock,old;rusty;strong;small;heavy;secure;broken;metal;tight;ancient
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,moon,full;bright;pale;crescent;mysterious;distant;glowing;silver;beautiful;round
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,pen,black;blue;old;new;cheap;expensive;smooth;leaky;thin;heavy
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,sun,bright;hot;golden;warm;blazing;distant;rising;setting;powerful;radiant
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,sword,sharp;heavy;ancient;long;silver;deadly;rusty;ornate;legendary;powerful
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,cat,fluffy;small;black;white;playful;lazy;curious;soft;cute;independent
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,dog,loyal;friendly;big;small;playful;energetic;brown;protective;cute;barking
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,dolphin,smart;playful;friendly;sleek;gray;fast;social;curious;graceful;intelligent
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,elephant,large;gray;strong;gentle;wise;massive;wild;friendly;slow;majestic
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,hamster,small;cute;fluffy;active;tiny;brown;cuddly;shy;energetic;soft
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,monkey,playful;curious;small;clever;wild;brown;noisy;agile;funny;social
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,mouse,small;tiny;gray;quick;shy;quiet;sneaky;cute;timid;fast
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;vibrant;elegant;striking;majestic;rare;ornate;stunning
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,rabbit,soft;small;white;cute;fast;shy;fluffy;timid;hopping;gentle
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,shark,dangerous;powerful;big;gray;fast;scary;deadly;sleek;wild;aggressive
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,snake,long;dangerous;slimy;green;venomous;silent;coiled;scary;thin;deadly
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,whale,huge;gentle;blue;massive;deep;majestic;slow;powerful;mysterious;endangered
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,city,big;busy;crowded;modern;noisy;vibrant;old;sprawling;lively;urban
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,desert,hot;dry;vast;sandy;empty;harsh;endless;barren;quiet;scorching
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,forest,dense;green;dark;ancient;quiet;lush;wild;thick;mysterious;vast
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,island,small;tropical;remote;beautiful;isolated;green;sandy;quiet;exotic;rocky
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,lake,calm;clear;deep;blue;quiet;still;cold;large;serene;reflective
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,mountain,tall;high;rocky;snowy;steep;majestic;rugged;ancient;green;imposing
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,ocean,vast;deep;blue;wild;endless;powerful;calm;mysterious;salty;turbulent
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,plain,flat;vast;wide;green;open;empty;quiet;endless;grassy;barren
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,plateau,high;flat;wide;dry;rocky;elevated;vast;remote;barren;rugged
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,river,long;wide;deep;calm;fast;clear;muddy;winding;blue;powerful
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,valley,green;deep;narrow;quiet;beautiful;fertile;hidden;wide;lush;peaceful
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Places,village,small;quiet;rural;old;peaceful;friendly;simple;remote;traditional;cozy
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,cactus,green;spiky;tall;small;dry;tough;desert;prickly;hardy;sharp
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;large;small;bitter;soft;healthy;oval
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,flower,colorful;beautiful;fragrant;small;delicate;bright;fresh;pretty;blooming;soft
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,grass,green;soft;tall;short;fresh;wet;thick;dry;lush;wild
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,lettuce,green;fresh;crisp;leafy;light;healthy;raw;tender;organic;cool
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,mushroom,small;brown;white;edible;wild;soft;earthy;round;fresh;poisonous
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,onion,white;yellow;sharp;strong;raw;fresh;round;pungent;peeled;sweet
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,pepper,red;green;spicy;hot;fresh;sweet;small;colorful;crisp;mild
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,potato,brown;small;large;fresh;raw;cooked;starchy;round;peeled;earthy
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;pink;blooming;soft;elegant;romantic
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;small;sweet;soft;acidic;plump
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Plants,tree,tall;old;green;big;sturdy;leafy;ancient;strong;bare;fruitful
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,ally,loyal;trusted;supportive;close;reliable;helpful;strong;friendly;valuable;dependable
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,brother,older;younger;loving;annoying;protective;funny;close;caring;supportive;loyal
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,enemy,dangerous;bitter;fierce;hated;powerful;cunning;relentless;hostile;cruel;sneaky
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,father,loving;strict;caring;supportive;strong;wise;protective;kind;hardworking;gentle
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,follower,loyal;dedicated;eager;supportive;young;quiet;faithful;enthusiastic;trusting;obedient
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,friend,close;best;old;new;loyal;funny;kind;supportive;trustworthy;dear
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,leader,strong;wise;confident;inspiring;powerful;fair;charismatic;bold;decisive;respected
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,mother,loving;caring;gentle;strict;supportive;kind;nurturing;warm;protective;wise
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,partner,loyal;supportive;loving;trusted;equal;close;reliable;caring;understanding;committed
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,rival,strong;competitive;tough;bitter;challenging;fierce;determined;skilled;persistent;aggressive
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,sister,older;younger;loving;annoying;supportive;funny;close;caring;kind;protective
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,stranger,unknown;mysterious;quiet;distant;unfamiliar;odd;suspicious;friendly;shy;unexpected
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,above,high;elevated;overhead;upper;distant;towering;soaring;clear;bright;vast
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,back,rear;hind;behind;hidden;lower;distant;remote;secondary;past;trailing
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,below,lower;beneath;under;deep;hidden;underground;inferior;submerged;bottom;lesser
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,east,distant;far;oriental;rising;early;warm;ancient;exotic;cultural;remote
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,front,forward;leading;first;main;open;visible;primary;central;bold;exposed
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,inside,inner;hidden;internal;private;deep;enclosed;secret;confined;warm;safe
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,left,remaining;westward;opposite;liberal;past;abandoned;forgotten;stray;unused;odd
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,north,cold;distant;upper;far;remote;polar;icy;wild;rugged;northern
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,outside,external;outer;open;exposed;distant;foreign;public;wild;far;unfamiliar
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,right,correct;proper;eastward;moral;just;immediate;conservative;direct;fitting;true
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,south,warm;distant;lower;far;tropical;sunny;remote;southern;exotic;humid
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,west,far;distant;setting;modern;wild;open;pioneering;western;remote;expansive
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,century,past;new;old;long;significant;modern;ancient;historical;turning;memorable
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;cold;hot;quiet;special;ordinary
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,evening,quiet;cool;late;dark;peaceful;calm;romantic;long;beautiful;relaxing
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;critical;final;precious;fleeting
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,minute,quick;short;brief;last;precious;exact;fleeting;critical;rushed;spare
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,month,long;short;busy;cold;hot;rainy;quiet;special;current;past
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,morning,early;bright;cool;quiet;fresh;sunny;busy;peaceful;crisp;new
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,night,dark;long;quiet;late;cold;starry;peaceful;silent;deep;endless
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,season,cold;hot;rainy;dry;long;short;busy;festive;changing;favorite
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,second,quick;brief;last;critical;fleeting;precise;spare;rushed;exact;short
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,week,long;short;busy;quiet;stressful;relaxing;productive;exciting;ordinary;hectic
+grok-3,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,year,long;short;busy;memorable;successful;challenging;past;new;happy;difficult
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,anger,intense;fierce;burning;uncontrollable;bitter;deep;raw;fiery;explosive;suppressed
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,courage,brave;bold;fearless;daring;heroic;strong;resolute;valiant;gallant;unwavering
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,fear,intense;paralyzing;deep;irrational;overwhelming;constant;hidden;primal;chilling;gripping
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,freedom,absolute;true;hard-won;precious;liberating;boundless;personal;cherished;democratic;newfound
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,happiness,pure;genuine;boundless;infectious;radiant;lasting;simple;profound;heartfelt;blissful
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,hate,deep;bitter;intense;vicious;blind;consuming;fierce;relentless;toxic;unspoken
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,honesty,brutal;raw;unwavering;sincere;complete;refreshing;rare;admirable;steadfast;transparent
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,justice,fair;impartial;righteous;blind;swift;hard-fought;overdue;moral;divine;equal
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;practical;valuable;ancient;specialized;theoretical;essential
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,love,unconditional;passionate;true;deep;eternal;selfless;romantic;enduring;tender;fierce
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,peace,lasting;inner;serene;quiet;fragile;hard-earned;global;spiritual;harmonious;calming
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,wisdom,ancient;profound;timeless;deep;practical;insightful;hard-earned;spiritual;worldly;guiding
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,bell,loud;clear;resonant;melodic;brass;ancient;small;tinkling;ornate;ceremonial
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,candle,flickering;warm;scented;tall;white;glowing;delicate;romantic;melting;handmade
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,carpet,soft;plush;colorful;patterned;thick;oriental;worn;luxurious;woven;cozy
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;silver;gold;small;commemorative;ancient;valuable;tarnished
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ornate;ancient;ceremonial;majestic;glittering;symbolic
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;tattered;symbolic;historic;official;bright;bold
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,mask,mysterious;intricate;colorful;traditional;eerie;painted;ceremonial;hidden;elaborate;frightening
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,necklace,delicate;elegant;gold;silver;beaded;antique;sparkling;long;simple;cherished
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,painting,beautiful;abstract;realistic;old;vibrant;famous;detailed;expressive;colorful;classic
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;simple;elegant;antique;wedding;ornate;small;precious
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,statue,tall;ancient;marble;bronze;imposing;detailed;historic;grand;weathered;iconic
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,vase,delicate;ceramic;ornate;tall;antique;fragile;painted;elegant;floral;classic
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;wispy;gray;towering;soft;moving;ominous
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,earthquake,powerful;destructive;sudden;violent;terrifying;major;minor;catastrophic;unexpected;seismic
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,fog,thick;dense;eerie;mysterious;cold;heavy;gray;obscuring;silent;creeping
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;jagged;dangerous;spectacular;blinding;electric;fierce;striking
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,rain,heavy;light;gentle;torrential;steady;cold;warm;refreshing;persistent;drizzling
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;bright;beautiful;rare;magical;fleeting;arched;vivid;stunning
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,snow,soft;white;heavy;powdery;cold;fresh;thick;falling;melting;pristine
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,storm,fierce;violent;raging;powerful;dark;sudden;intense;dangerous;thunderous;destructive
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,thunder,loud;booming;rumbling;deep;startling;powerful;distant;rolling;ominous;echoing
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;dangerous;calm;rising;relentless
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;dangerous;ancient;fiery;smoking;majestic;destructive
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;gusty;howling;brisk;relentless;wild;refreshing
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;fresh;tart;ripe;shiny;small
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;bruised;peeled
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,beef,tender;juicy;grilled;rare;well-done;savory;lean;marbled;fresh;seasoned
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,bread,fresh;warm;crusty;soft;white;brown;homemade;stale;sliced;toasted
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,broccoli,green;fresh;steamed;crisp;healthy;raw;tender;organic;small;bright
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,cheese,sharp;creamy;melted;aged;soft;hard;yellow;white;tangy;rich
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,chicken,grilled;roasted;fried;tender;juicy;spicy;seasoned;fresh;boneless;succulent
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,egg,boiled;fried;scrambled;fresh;white;brown;soft;hard;cracked;organic
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,fish,fresh;grilled;fried;raw;flaky;oily;white;smoked;tender;salty
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,pasta,al dente;creamy;spicy;fresh;homemade;cheesy;soft;saucy;hot;savory
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;fragrant;long-grain;short-grain;hot;plain
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Food Items,soup,hot;creamy;hearty;clear;savory;spicy;homemade;thick;warm;comforting
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,artist,talented;creative;famous;struggling;visionary;innovative;eccentric;skilled;passionate;inspired
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,athlete,strong;fast;skilled;dedicated;competitive;fit;determined;powerful;agile;disciplined
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,chef,skilled;creative;famous;passionate;innovative;experienced;professional;talented;meticulous;renowned
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,doctor,skilled;compassionate;dedicated;experienced;caring;knowledgeable;trusted;professional;patient;busy
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,engineer,innovative;skilled;brilliant;creative;practical;dedicated;technical;experienced;meticulous;analytical
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,farmer,hardworking;dedicated;rural;experienced;tough;traditional;patient;resilient;practical;resourceful
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,lawyer,sharp;experienced;successful;persuasive;dedicated;knowledgeable;aggressive;ethical;cunning;professional
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,musician,talented;passionate;famous;creative;skilled;dedicated;versatile;expressive;gifted;innovative
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;knowledgeable;meticulous;groundbreaking;focused;respected
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;heroic;dedicated;tough;fearless;trained;committed
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,teacher,patient;inspiring;dedicated;knowledgeable;kind;strict;supportive;passionate;experienced;wise
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Human Roles,writer,creative;talented;famous;prolific;insightful;imaginative;skilled;passionate;dedicated;expressive
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;famous;hardcover;worn;engaging
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,bridge,old;modern;long;high;sturdy;wooden;steel;iconic;narrow;suspension
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;deep;traditional;electric;small;large;beaten;resonant
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,earth,vast;ancient;blue;fertile;fragile;living;green;spinning;beautiful;sacred
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,flute,delicate;melodic;wooden;silver;small;ancient;clear;soft;ornate;traditional
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,key,old;rusty;small;golden;shiny;important;spare;lost;heavy;antique
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,knife,sharp;small;large;rusty;shiny;dangerous;kitchen;pocket;serrated;blunt
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,lock,sturdy;old;rusty;secure;broken;heavy;small;brass;digital;ancient
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,moon,full;crescent;bright;pale;mysterious;distant;glowing;silvery;beautiful;haunting
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,pen,black;blue;old;new;expensive;cheap;smooth;leaky;elegant;simple
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,sun,bright;hot;golden;warm;blazing;rising;setting;radiant;powerful;blinding
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;rusty;ornate;deadly;legendary;gleaming;long;ceremonial
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,cat,cute;fluffy;playful;lazy;curious;black;white;small;independent;affectionate
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,dog,loyal;friendly;big;small;energetic;obedient;protective;playful;brown;furry
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,dolphin,intelligent;friendly;sleek;playful;graceful;curious;fast;social;beautiful;acrobatic
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,elephant,massive;gentle;gray;majestic;powerful;wise;slow;endangered;trunked;impressive
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,hamster,tiny;cute;fluffy;active;small;playful;curious;furry;nocturnal;adorable
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,monkey,playful;curious;agile;clever;small;wild;mischievous;social;brown;lively
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,mouse,tiny;small;quick;gray;sneaky;cute;timid;quiet;fast;delicate
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;vibrant;majestic;ornate;striking;elegant;exotic;stunning
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,rabbit,cute;fluffy;fast;small;white;timid;playful;soft;hopping;adorable
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,shark,dangerous;powerful;sleek;predatory;fast;scary;gray;massive;deadly;feared
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,snake,slithery;venomous;long;dangerous;colorful;silent;coiled;creepy;scaly;deadly
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,whale,massive;gentle;blue;enormous;majestic;powerful;graceful;deep-sea;singing;endangered
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,city,busy;crowded;modern;big;noisy;vibrant;historic;sprawling;urban;lively
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,desert,hot;dry;vast;sandy;barren;harsh;endless;quiet;arid;scorching
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,forest,dense;green;dark;ancient;lush;quiet;mysterious;vast;wild;thick
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,island,small;tropical;remote;beautiful;isolated;rocky;green;sandy;uninhabited;paradise
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,lake,calm;clear;deep;blue;serene;still;cold;vast;peaceful;reflective
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,mountain,tall;snowy;rugged;majestic;high;steep;rocky;beautiful;ancient;imposing
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,ocean,vast;deep;blue;wild;endless;powerful;calm;mysterious;dark;turbulent
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,plain,flat;vast;open;grassy;wide;barren;endless;quiet;fertile;expansive
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,plateau,high;flat;vast;rocky;dry;elevated;wide;remote;barren;scenic
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,river,long;wide;calm;rushing;clear;muddy;deep;winding;powerful;serene
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,valley,green;deep;narrow;wide;fertile;quiet;beautiful;lush;hidden;scenic
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Places,village,small;quiet;remote;peaceful;rural;traditional;quaint;friendly;old;cozy
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,cactus,spiky;green;tall;small;desert;tough;prickly;hardy;unique;resilient
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,eggplant,purple;shiny;smooth;long;fresh;tender;soft;bitter;organic;healthy
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;small;bright;blooming;fresh;lovely;vibrant
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,grass,green;tall;short;soft;wet;dry;thick;fresh;lush;wild
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,lettuce,green;fresh;crisp;leafy;tender;raw;organic;healthy;light;crunchy
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,mushroom,small;brown;white;edible;poisonous;soft;wild;earthy;fresh;round
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,onion,sharp;raw;white;yellow;strong;small;fresh;peeled;pungent;layered
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,pepper,spicy;red;green;hot;sweet;fresh;small;colorful;crisp;fiery
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,potato,brown;starchy;fresh;small;large;baked;fried;mashed;raw;hearty
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;pink;white;blooming;elegant;romantic
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,tomato,red;ripe;juicy;fresh;small;round;sweet;acidic;soft;organic
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Plants,tree,tall;old;green;leafy;sturdy;ancient;bare;thick;flowering;massive
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,ally,loyal;trusted;supportive;close;reliable;strong;dependable;faithful;friendly;committed
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,brother,older;younger;protective;annoying;loving;supportive;close;funny;caring;loyal
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,enemy,bitter;dangerous;fierce;hated;powerful;cunning;relentless;hostile;formidable;treacherous
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,father,loving;strict;caring;protective;wise;strong;supportive;kind;hardworking;gentle
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,follower,loyal;dedicated;enthusiastic;obedient;supportive;devoted;eager;trusting;admiring;faithful
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,friend,close;best;loyal;funny;kind;supportive;trusted;dear;reliable;caring
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,leader,strong;inspiring;confident;decisive;charismatic;wise;powerful;respected;visionary;bold
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,mother,loving;caring;nurturing;strict;kind;protective;gentle;supportive;wise;selfless
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,partner,loving;supportive;equal;reliable;trusted;close;compatible;loyal;understanding;committed
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,rival,fierce;competitive;strong;challenging;bitter;determined;equal;formidable;hostile;persistent
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,sister,older;younger;loving;annoying;supportive;close;funny;caring;protective;kind
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,stranger,unknown;mysterious;distant;unfamiliar;suspicious;odd;quiet;random;curious;unexpected
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,above,high;elevated;superior;overhead;upper;towering;lofty;prominent;dominant;soaring
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,back,rear;hind;posterior;behind;hidden;lower;supportive;sturdy;protected;distant
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,below,lower;underneath;beneath;inferior;underground;submerged;hidden;deep;bottom;lesser
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,east,distant;oriental;rising;far;ancient;cultural;exotic;warm;traditional;mystical
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,front,forward;leading;anterior;first;prominent;main;visible;bold;primary;open
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,inside,inner;internal;hidden;private;enclosed;deep;personal;secure;confined;sheltered
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,left,remaining;westward;opposite;sideward;liberal;abandoned;spare;awkward;unused;odd
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,north,cold;distant;upper;polar;remote;chilly;wild;rugged;northernmost;harsh
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,outside,external;outer;exposed;public;open;distant;far;visible;surrounding;peripheral
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,right,correct;eastward;opposite;sideward;conservative;proper;just;fitting;accurate;true
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,south,warm;lower;tropical;distant;southernmost;sunny;hot;exotic;remote;vibrant
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,west,distant;sunset;far;modern;wild;pioneering;open;progressive;expansive;remote
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,century,past;new;old;current;long;specific;turning;historic;golden;forgotten
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,day,long;short;busy;quiet;sunny;rainy;special;ordinary;tiring;memorable
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,evening,quiet;cool;late;dark;peaceful;romantic;calm;relaxing;twilight;pleasant
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,hour,late;early;long;short;busy;quiet;crucial;final;fleeting;precious
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,minute,quick;short;last;brief;crucial;passing;exact;precious;fleeting;tense
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;dry;specific;current;past
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,morning,early;quiet;fresh;cool;bright;sunny;busy;calm;peaceful;refreshing
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,night,dark;late;quiet;long;short;cold;warm;starry;restless;peaceful
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,season,warm;cold;wet;dry;current;favorite;long;short;festive;harsh
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,second,quick;brief;last;fleeting;crucial;short;passing;precise;tense;vital
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,week,long;short;busy;quiet;stressful;relaxing;productive;hectic;memorable;ordinary
+grok-3,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,year,past;new;current;long;short;memorable;difficult;successful;challenging;happy
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,anger,intense;burning;fierce;uncontrollable;deep;raw;sudden;bitter;suppressed;violent
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,courage,bold;fearless;brave;heroic;daring;steadfast;resolute;valiant;unflinching;audacious
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;chilling;haunting;persistent;primal;gripping;unsettling
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,freedom,absolute;cherished;hard-won;precious;liberating;boundless;true;personal;political;spiritual
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,happiness,pure;boundless;infectious;genuine;fleeting;radiant;deep;simple;lasting;overwhelming
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,hate,intense;bitter;deep;irrational;consuming;vicious;blind;toxic;relentless;unspoken
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,honesty,brutal;unwavering;sincere;raw;refreshing;admirable;complete;fearless;transparent;steadfast
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,justice,fair;impartial;righteous;strict;overdue;blind;divine;equal;moral;deserved
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,knowledge,vast;profound;deep;extensive;practical;theoretical;specialized;hidden;ancient;valuable
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,love,unconditional;passionate;tender;deep;eternal;selfless;romantic;enduring;genuine;pure
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,peace,inner;lasting;serene;fragile;global;quiet;harmonious;calming;elusive;sacred
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,wisdom,timeless;profound;practical;ancient;hard-earned;insightful;quiet;guiding;deep;enduring
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;resonant;small;golden;antique;melodic;heavy;silver;decorative
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,candle,flickering;scented;tall;white;warm;delicate;decorative;glowing;melting;romantic
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;woven;Persian;plush;old;elegant;stained;intricate
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;small;golden;silver;worn;collectible;ancient;valuable
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ornate;ancient;majestic;ceremonial;glittering;symbolic
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;tattered;symbolic;historic;bold;vibrant;iconic
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,mask,mysterious;colorful;eerie;traditional;painted;ceremonial;creepy;ornate;hidden;theatrical
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,necklace,delicate;golden;silver;beaded;elegant;precious;long;antique;dazzling;simple
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,painting,beautiful;abstract;realistic;old;vibrant;famous;detailed;expressive;colorful;timeless
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,ring,golden;silver;diamond;simple;elegant;antique;engraved;precious;ornate;wedding
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,statue,tall;ancient;marble;bronze;majestic;imposing;detailed;weathered;historic;iconic
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,vase,delicate;ceramic;antique;tall;ornate;colorful;fragile;elegant;painted;decorative
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;gray;wispy;stormy;floating;thick;ominous
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;violent;destructive;terrifying;massive;unexpected;catastrophic;deadly
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;eerie;mysterious;cold;gray;heavy;blinding;silent;lingering
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;jagged;powerful;dangerous;striking;vivid;electric;fierce;blinding
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;gentle;cold;refreshing;torrential;drizzling;persistent;warm
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;vivid;fleeting;magical;arched;stunning;rare;vibrant
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,snow,soft;white;heavy;light;fluffy;cold;powdery;fresh;melting;glistening
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,storm,fierce;violent;raging;dark;powerful;sudden;dangerous;intense;loud;destructive
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,thunder,loud;rumbling;deep;booming;distant;powerful;startling;rolling;ominous;resonant
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;gentle;incoming;outgoing;powerful;relentless;calm;steady
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;massive;fiery;dangerous;ancient;explosive;majestic;destructive;towering
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,wind,strong;gusty;cold;warm;gentle;fierce;howling;brisk;relentless;refreshing
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;ripe;fresh;tart;shiny;round
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;tropical;fresh;mushy;spotted
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,beef,tender;juicy;grilled;rare;medium;well-done;savory;lean;fresh;seasoned
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,bread,fresh;crusty;soft;warm;white;whole-grain;sliced;homemade;toasted;fluffy
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,broccoli,green;fresh;crunchy;healthy;steamed;raw;tender;bitter;vibrant;nutritious
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,cheese,creamy;sharp;aged;melted;soft;hard;tangy;rich;yellow;grated
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,chicken,grilled;roasted;fried;tender;juicy;spicy;savory;boneless;seasoned;fresh
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;soft;hard;raw;organic
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,fish,fresh;grilled;fried;raw;flaky;salty;oily;white;smoked;tender
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,pasta,al dente;creamy;cheesy;spicy;fresh;homemade;soft;saucy;Italian;hearty
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;fragrant;long-grain;short-grain;seasoned;warm
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,soup,hot;creamy;hearty;savory;spicy;clear;thick;homemade;comforting;light
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,artist,creative;talented;passionate;visionary;innovative;skilled;expressive;unique;eccentric;dedicated
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,athlete,strong;fast;agile;dedicated;competitive;skilled;fit;determined;disciplined;powerful
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,chef,skilled;creative;talented;passionate;innovative;experienced;meticulous;professional;busy;renowned
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,doctor,caring;skilled;knowledgeable;compassionate;dedicated;experienced;busy;trusted;professional;wise
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,engineer,innovative;skilled;analytical;creative;technical;smart;precise;dedicated;experienced;resourceful
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,farmer,hardworking;dedicated;patient;knowledgeable;rugged;early-rising;resourceful;practical;strong;caring
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,lawyer,sharp;persuasive;knowledgeable;confident;experienced;assertive;professional;dedicated;eloquent;strategic
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,musician,talented;passionate;creative;skilled;expressive;dedicated;gifted;versatile;charismatic;inspired
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,scientist,curious;analytical;brilliant;dedicated;innovative;meticulous;knowledgeable;persistent;logical;experimental
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,soldier,brave;disciplined;strong;loyal;courageous;dedicated;tough;honorable;resilient;determined
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,teacher,patient;inspiring;knowledgeable;caring;dedicated;wise;supportive;strict;encouraging;passionate
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,writer,creative;imaginative;talented;eloquent;thoughtful;prolific;insightful;dedicated;passionate;expressive
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,book,thick;old;new;engaging;informative;captivating;worn;hardcover;classic;inspiring
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,bridge,long;sturdy;old;narrow;modern;suspension;iconic;wooden;arched;historic
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;deep;resonant;tribal;energetic;beaten;dynamic;traditional
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,earth,vast;ancient;blue;fertile;fragile;beautiful;green;rotating;precious;diverse
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,flute,delicate;melodic;silver;wooden;soft;clear;high-pitched;ancient;elegant;haunting
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,key,small;metal;rusty;golden;old;important;shiny;lost;antique;spare
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,knife,sharp;dangerous;small;serrated;rusty;kitchen;pocket;dull;steel;heavy
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,lock,sturdy;old;rusty;secure;broken;heavy;small;brass;tight;ancient
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,moon,full;crescent;bright;pale;mysterious;distant;glowing;silvery;haunting;beautiful
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,pen,black;blue;elegant;cheap;old;fountain;ballpoint;smooth;broken;expensive
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,sun,bright;hot;golden;radiant;warm;blinding;setting;rising;fiery;powerful
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;deadly;ornate;legendary;rusty;silver;long;ceremonial
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,cat,fluffy;curious;independent;playful;sleek;lazy;agile;soft;cunning;affectionate
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;energetic;protective;playful;obedient;furry;smart;loving;cheerful
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;friendly;sleek;fast;social;graceful;curious;agile;charming
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,elephant,massive;gentle;strong;gray;majestic;wise;slow;powerful;enormous;protective
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,hamster,small;cute;furry;active;tiny;fluffy;curious;playful;timid;cuddly
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,monkey,playful;curious;agile;clever;mischievous;social;energetic;wild;loud;funny
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,mouse,small;tiny;quick;shy;gray;sneaky;quiet;timid;cute;delicate
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,peacock,colorful;majestic;proud;beautiful;vibrant;striking;elegant;ornate;exotic;dazzling
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,rabbit,fluffy;cute;fast;timid;soft;white;hopping;small;gentle;alert
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,shark,dangerous;powerful;sleek;deadly;fast;predatory;fearsome;large;gray;aggressive
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,snake,slithery;dangerous;venomous;long;silent;scaly;deadly;cold;sneaky;coiled
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,whale,massive;gentle;enormous;majestic;deep;slow;powerful;mysterious;blue;graceful
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,city,busy;crowded;modern;noisy;vibrant;sprawling;historic;urban;lively;chaotic
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,desert,vast;hot;dry;barren;sandy;endless;harsh;lonely;arid;quiet
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,forest,dense;green;dark;ancient;lush;quiet;mysterious;thick;wild;enchanting
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,island,small;tropical;remote;beautiful;isolated;sandy;green;exotic;serene;rocky
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,lake,calm;clear;deep;blue;serene;still;cold;reflective;peaceful;vast
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,mountain,tall;majestic;snowy;rugged;steep;ancient;imposing;rocky;breathtaking;remote
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,ocean,vast;deep;blue;wild;endless;powerful;mysterious;calm;stormy;immense
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,plain,vast;flat;wide;open;grassy;barren;endless;quiet;fertile;expansive
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,plateau,high;flat;vast;rocky;barren;elevated;remote;wide;rugged;windswept
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,river,long;winding;calm;rushing;wide;deep;clear;muddy;powerful;serene
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,valley,deep;green;narrow;lush;quiet;hidden;fertile;scenic;peaceful;sheltered
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Places,village,small;quiet;remote;quaint;peaceful;rural;friendly;traditional;cozy;simple
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,cactus,prickly;green;tall;desert;tough;spiky;hardy;dry;unique;resilient
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;firm;oblong;bitter;tender;healthy;versatile
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;blooming;small;vibrant;soft;elegant
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,grass,green;soft;thick;tall;fresh;lush;wet;short;wild;dewy
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,lettuce,fresh;crisp;green;leafy;light;healthy;tender;raw;cool;crunchy
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,mushroom,small;brown;edible;wild;soft;earthy;delicate;white;toxic;fresh
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,onion,strong;pungent;raw;white;yellow;sharp;sweet;fresh;sliced;juicy
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,pepper,spicy;hot;red;green;fresh;sweet;sharp;fiery;crunchy;bold
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,potato,brown;starchy;fresh;raw;baked;mashed;firm;round;earthy;hearty
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,rose,red;fragrant;beautiful;delicate;thorny;romantic;pink;elegant;blooming;soft
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;sweet;firm;tangy;plump;vibrant
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Plants,tree,tall;old;green;sturdy;leafy;ancient;thick;bare;majestic;sprawling
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,ally,loyal;trusted;reliable;supportive;close;helpful;faithful;strong;dependable;valuable
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,brother,loving;protective;annoying;close;supportive;funny;older;younger;caring;loyal
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,enemy,dangerous;hostile;bitter;fierce;cunning;ruthless;relentless;hated;powerful;deceptive
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,father,loving;strict;protective;wise;caring;strong;supportive;kind;hardworking;patient
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;eager;faithful;supportive;obedient;enthusiastic;committed;trusting;admiring
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,friend,close;loyal;funny;kind;supportive;trusted;caring;reliable;dear;lifelong
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,leader,strong;inspiring;confident;decisive;visionary;charismatic;wise;bold;respected;determined
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;protective;kind;gentle;strong;patient;selfless;wise
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,partner,supportive;loving;loyal;reliable;understanding;close;trusted;equal;committed;caring
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,rival,fierce;competitive;challenging;strong;determined;tough;relentless;formidable;bitter;ambitious
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,sister,loving;annoying;supportive;close;caring;funny;protective;older;younger;loyal
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,stranger,mysterious;unknown;unfamiliar;distant;curious;quiet;suspicious;polite;odd;unexpected
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,above,high;elevated;overhead;upper;distant;soaring;towering;lofty;superior;clear
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,back,rear;hind;behind;posterior;distant;hidden;lower;remote;past;trailing
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,below,lower;beneath;under;inferior;hidden;deep;underneath;submerged;lesser;underground
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,east,oriental;far;distant;sunrise;Asian;remote;cultural;historical;exotic;traditional
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,front,forward;leading;foremost;anterior;first;primary;initial;main;ahead;prominent
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;deep;private;secret;confined;central;sheltered
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,left,western;remaining;past;liberal;opposite;unused;abandoned;spare;lateral;forgotten
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,north,cold;polar;upper;distant;chilly;remote;northernmost;arctic;frosty;rugged
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,outside,external;outer;exterior;distant;open;public;exposed;far;peripheral;visible
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,right,correct;proper;eastern;conservative;just;accurate;fitting;moral;appropriate;precise
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,south,warm;tropical;lower;distant;sunny;southernmost;hot;humid;exotic;coastal
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,west,far;sunset;distant;occidental;modern;frontier;wild;remote;cultural;progressive
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,century,past;new;old;modern;ancient;specific;turning;significant;historic;memorable
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;special;quiet;ordinary;hectic;memorable
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,evening,quiet;cool;dark;peaceful;late;calm;relaxing;romantic;still;pleasant
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;crucial;golden;fleeting;exact
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,minute,quick;brief;short;fleeting;precise;exact;crucial;passing;last;rushed
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;special;quiet;current;past
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,morning,early;fresh;quiet;cool;sunny;bright;peaceful;busy;crisp;new
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,night,dark;quiet;long;late;cold;peaceful;starry;silent;restless;mysterious
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,season,warm;cold;rainy;dry;favorite;changing;long;short;festive;harsh
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,second,quick;brief;fleeting;short;crucial;precise;passing;exact;vital;instant
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;hectic;eventful;ordinary;stressful;exciting;productive
+grok-3,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,year,long;short;memorable;tough;successful;past;new;eventful;challenging;significant

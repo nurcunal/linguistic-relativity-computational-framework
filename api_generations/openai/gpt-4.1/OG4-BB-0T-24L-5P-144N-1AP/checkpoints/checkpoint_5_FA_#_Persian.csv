@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;hot;quick;silent;cold;open
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,courage,great;real;true;strong;big;quiet;silent;open;new;fresh
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;big;cold;silent;open;quick
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,freedom,real;true;great;full;new;open;big;fresh;complete;total
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,happiness,great;real;true;full;deep;big;open;fresh;new;simple
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,hate,deep;strong;real;great;cold;open;sudden;big;silent;quick
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,honesty,real;true;great;full;open;simple;big;deep;complete;total
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,justice,real;true;great;full;open;simple;big;complete;fair;equal
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,knowledge,great;real;true;deep;full;big;open;new;fresh;complete
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,love,true;real;great;deep;strong;big;open;new;fresh;simple
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,peace,real;true;great;full;deep;open;new;big;complete;total
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Abstract Concepts,wisdom,great;real;true;deep;full;big;open;new;fresh;simple
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;golden;silver;round;heavy;clear
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,candle,small;big;white;red;yellow;old;new;long;short;thin
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;green;soft;thick;thin
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;shiny;thin
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,crown,gold;silver;big;small;old;new;heavy;light;rich;royal
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;red;blue;green;white;national;simple
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,mask,big;small;old;new;white;black;red;funny;scary;simple
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,necklace,gold;silver;big;small;old;new;long;short;pretty;simple
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,painting,old;new;big;small;famous;pretty;simple;modern;classic;bright
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,ring,gold;silver;big;small;old;new;round;pretty;simple;thin
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;gold;silver;famous;tall;short
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;red;pretty;simple;round
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,cloud,white;big;small;dark;light;gray;soft;high;low;thick
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;quick;bad;heavy;deep
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,fog,thick;thin;white;gray;heavy;light;cold;low;early;soft
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,lightning,bright;quick;strong;sudden;white;big;loud;real;sharp;fast
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,rain,heavy;light;big;small;cold;warm;soft;hard;quick;fresh
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,rainbow,big;small;bright;beautiful;colorful;clear;new;rare;high;full
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;fresh;deep;thick;new;clean
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,storm,big;strong;heavy;bad;sudden;quick;cold;loud;real;dark
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,thunder,loud;big;strong;sudden;quick;real;deep;heavy;bad;sharp
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,tide,high;low;big;strong;quick;sudden;real;deep;fast;new
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;quiet;strong;high;hot;real
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;big;soft;quick;fresh;sudden;real
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;juicy;ripe;soft
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,banana,yellow;big;small;ripe;sweet;fresh;soft;long;new;old
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,beef,fresh;raw;cooked;red;soft;hard;big;small;new;old
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,bread,fresh;white;brown;soft;hard;big;small;new;old;warm
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,broccoli,green;fresh;big;small;soft;hard;new;old;cooked;raw
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;big;small;new;round
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,chicken,cooked;raw;fresh;big;small;white;soft;hard;new;old
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,egg,big;small;white;brown;fresh;raw;cooked;round;new;old
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,fish,fresh;big;small;raw;cooked;white;soft;hard;new;old
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,pasta,hot;cold;soft;hard;fresh;big;small;new;old;simple
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,rice,white;brown;cooked;raw;soft;hard;fresh;big;small;new
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Food Items,soup,hot;cold;fresh;big;small;new;old;simple;thick;thin
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,artist,famous;young;old;new;good;great;real;true;big;modern
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,athlete,strong;young;old;new;good;great;fast;big;real;true
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,chef,good;great;young;old;new;famous;real;true;big;modern
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,doctor,good;great;young;old;new;real;true;big;kind;famous
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,engineer,good;great;young;old;new;real;true;big;smart;modern
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,farmer,good;old;young;new;hard;real;true;big;strong;simple
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,lawyer,good;great;young;old;new;real;true;big;smart;famous
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,musician,good;great;young;old;new;famous;real;true;big;modern
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,scientist,good;great;young;old;new;real;true;big;smart;famous
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,soldier,strong;brave;young;old;new;good;real;true;big;great
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,teacher,good;great;young;old;new;real;true;big;kind;smart
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Human Roles,writer,good;great;young;old;new;real;true;big;famous;modern
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,book,big;small;old;new;good;great;famous;simple;long;short
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;wide
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,drums,big;small;old;new;loud;soft;round;simple;hard;fast
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;warm;cold;real;rich
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,flute,small;long;short;old;new;silver;simple;soft;thin;light
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,key,small;big;old;new;silver;gold;simple;round;long;short
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;simple;thin
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;simple;silver;gold;round;hard
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,moon,full;new;big;small;round;white;bright;clear;high;cold
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;long;short
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;strong;high;warm;clear;new
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Inanimate Objects,sword,sharp;long;short;big;small;old;new;silver;strong;thin
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,cat,small;big;black;white;gray;young;old;soft;cute;quick
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;strong;friendly;quick
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,dolphin,big;small;gray;blue;smart;quick;friendly;young;old;soft
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,elephant,big;small;gray;old;young;strong;heavy;smart;friendly;wild
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,hamster,small;big;brown;white;gray;cute;young;old;soft;quick
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,monkey,small;big;brown;gray;young;old;quick;smart;funny;wild
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,mouse,small;big;gray;white;brown;quick;cute;young;old;soft
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,peacock,big;small;blue;green;colorful;pretty;young;old;bright;long
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,rabbit,small;big;white;gray;brown;cute;quick;young;old;soft
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,shark,big;small;gray;white;strong;quick;wild;young;old;sharp
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,snake,long;short;big;small;green;black;quick;wild;young;old
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Neutral Animals,whale,big;small;blue;gray;strong;young;old;wild;friendly;soft
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,city,big;small;old;new;busy;modern;quiet;rich;poor;famous
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,desert,big;small;hot;dry;old;new;empty;open;wide;sandy
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,forest,big;small;green;dark;old;new;deep;thick;quiet;wild
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,island,big;small;green;new;old;quiet;open;empty;far;close
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,lake,big;small;deep;blue;clear;old;new;quiet;fresh;round
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,mountain,big;small;high;low;old;new;green;white;cold;strong
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,ocean,big;small;deep;blue;green;old;new;open;wide;strong
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,plain,big;small;green;open;wide;flat;old;new;empty;quiet
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,plateau,big;small;high;flat;old;new;open;wide;empty;quiet
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,river,big;small;long;short;deep;wide;clear;blue;old;new
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,valley,big;small;deep;green;old;new;quiet;wide;open;long
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Places,village,small;big;old;new;quiet;simple;poor;rich;green;friendly
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,cactus,green;big;small;tall;short;old;new;thick;sharp;dry
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,eggplant,purple;big;small;fresh;new;old;soft;long;round;thick
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;pink;fresh;new;pretty
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,grass,green;long;short;soft;thick;fresh;new;old;dry;wet
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;round;thick;crisp
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,mushroom,small;big;white;brown;fresh;new;old;soft;round;wild
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,onion,big;small;white;red;yellow;fresh;new;old;round;strong
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,potato,big;small;brown;white;fresh;new;old;round;soft;hard
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;new;old;big;small
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,tomato,red;big;small;fresh;new;old;round;soft;ripe;juicy
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Plants,tree,big;small;green;old;new;tall;short;thick;strong;young
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,ally,good;strong;true;real;old;new;big;close;friendly;loyal
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,brother,big;small;young;old;good;true;real;strong;close;kind
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,enemy,strong;big;small;old;new;real;true;bad;open;close
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,father,good;old;young;strong;kind;true;real;big;close;new
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,follower,good;true;real;strong;young;old;new;close;loyal;big
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,friend,good;true;real;close;old;new;best;kind;big;young
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,leader,strong;good;true;real;big;old;new;young;great;kind
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,mother,good;kind;old;young;true;real;big;close;strong;new
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,partner,good;true;real;close;old;new;strong;big;kind;loyal
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,rival,strong;big;small;old;new;real;true;close;open;young
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,sister,big;small;young;old;good;true;real;close;kind;strong
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Social Relationships,stranger,new;real;true;old;young;big;small;close;open;quiet
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,above,high;open;clear;new;real;true;big;close;far;bright
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,back,big;small;strong;old;new;real;true;close;open;hard
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,below,low;deep;open;new;real;true;close;far;dark;quiet
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,east,far;open;new;real;true;big;close;bright;clear;warm
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,front,big;small;open;new;real;true;close;clear;high;wide
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,inside,close;open;new;real;true;big;small;quiet;warm;dark
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,left,open;close;new;real;true;big;small;quiet;far;clear
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,north,cold;far;open;new;real;true;big;close;clear;high
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,outside,open;close;new;real;true;big;small;quiet;far;fresh
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,right,open;close;new;real;true;big;small;clear;far;quiet
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,south,warm;far;open;new;real;true;big;close;clear;bright
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Spatial Concepts,west,far;open;new;real;true;big;close;clear;warm;bright
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,century,new;old;long;short;big;small;real;true;great;modern
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,day,new;old;long;short;good;bad;big;small;bright;clear
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,evening,quiet;long;short;new;old;dark;cool;warm;soft;clear
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,hour,long;short;new;old;big;small;real;true;quiet;late
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,minute,long;short;new;old;big;small;real;true;quick;late
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,month,new;old;long;short;big;small;real;true;last;next
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,morning,early;new;quiet;long;short;bright;cool;warm;clear;soft
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,night,dark;long;short;quiet;new;old;cold;late;clear;soft
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,season,new;old;long;short;big;small;real;true;warm;cold
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,second,long;short;new;old;big;small;real;true;quick;late
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,week,new;old;long;short;big;small;real;true;last;next
+gpt-4.1,basic,0.0,FA # Persian,B1,most frequent,Time Concepts,year,new;old;long;short;big;small;real;true;last;next
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;silent;cold;open;wild;burning
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,courage,great;true;real;strong;quiet;moral;personal;physical;much;inner
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;constant;cold;silent;open;wild
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,freedom,complete;full;real;personal;political;total;true;great;much;individual
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,happiness,great;real;true;complete;much;deep;simple;pure;personal;full
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,hate,deep;great;real;strong;open;cold;much;silent;wild;true
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,honesty,complete;true;real;great;much;simple;open;personal;full;moral
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,justice,true;real;social;great;complete;much;moral;equal;fair;legal
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,knowledge,great;deep;real;much;true;personal;full;complete;wide;general
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,love,true;real;great;deep;much;strong;pure;first;open;simple
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,peace,real;true;complete;much;great;deep;long;full;inner;lasting
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Abstract Concepts,wisdom,great;true;real;much;deep;old;simple;full;personal;moral
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;heavy;church;round
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,candle,small;big;white;red;long;short;old;new;burning;simple
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;green;soft;thick;beautiful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;ancient;shiny
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,crown,golden;big;small;old;new;beautiful;royal;heavy;silver;rich
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,flag,national;big;small;old;new;red;white;blue;green;colorful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,mask,white;black;red;big;small;old;new;simple;scary;colorful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;long;short;old;new;small;big;colorful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,painting,beautiful;old;new;big;small;famous;colorful;simple;modern;classic
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,ring,gold;silver;small;big;old;new;beautiful;round;simple;shiny
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;famous;beautiful;white;golden
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;beautiful;simple;round;colorful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;black;gray;heavy;light;high;low
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;terrible;natural;recent
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,fog,thick;heavy;light;white;gray;cold;morning;early;low;dense
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;loud;big;fast;real;wild
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,rain,heavy;light;strong;cold;warm;hard;soft;sudden;real;much
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,rainbow,beautiful;big;small;bright;colorful;real;full;clear;high;rare
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,snow,white;heavy;light;soft;cold;deep;fresh;new;thick;clean
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;real;great;wild;cold;terrible;hard
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,thunder,loud;strong;big;sudden;real;heavy;wild;deep;hard;great
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,tide,high;low;strong;big;small;real;sudden;great;fast;slow
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,volcano,active;big;small;old;new;real;strong;dangerous;high;famous
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;soft;hard;sudden;real;big;wild
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;ripe;round;juicy;yellow
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,banana,yellow;ripe;big;small;sweet;fresh;long;soft;green;curved
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,beef,fresh;cooked;raw;red;cold;hot;soft;hard;good;tasty
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,bread,fresh;white;brown;soft;hard;hot;warm;old;new;round
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;healthy;tasty
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;new;big;small;tasty
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,chicken,cooked;raw;fresh;hot;cold;big;small;white;tasty;soft
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,egg,boiled;fried;raw;fresh;big;small;white;brown;hard;soft
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;red;tasty;soft;cold
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,pasta,cooked;hot;cold;soft;hard;fresh;tasty;long;short;white
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;fresh;long
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Food Items,soup,hot;cold;fresh;tasty;thick;thin;good;simple;clear;warm
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,artist,famous;young;old;great;good;new;modern;talented;creative;popular
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,athlete,strong;young;old;good;great;famous;fast;new;talented;popular
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,chef,good;great;famous;young;old;new;talented;popular;creative;skilled
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,doctor,good;great;young;old;famous;new;skilled;kind;popular;busy
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,engineer,good;great;young;old;new;skilled;talented;famous;busy;smart
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,farmer,old;young;good;hard-working;poor;rich;local;small;big;simple
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,lawyer,good;great;young;old;famous;new;skilled;busy;smart;popular
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,musician,famous;young;old;good;great;new;talented;popular;creative;skilled
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,scientist,famous;young;old;great;good;new;smart;talented;popular;busy
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,soldier,brave;young;old;strong;good;great;new;famous;loyal;skilled
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,teacher,good;great;young;old;new;kind;famous;popular;busy;smart
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Human Roles,writer,famous;young;old;good;great;new;popular;creative;talented;busy
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,book,new;old;big;small;good;great;famous;interesting;long;short
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;famous;wide
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,drums,big;small;loud;new;old;red;white;black;famous;round
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;beautiful;rich;dry;wet
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,flute,small;long;short;old;new;silver;wooden;white;beautiful;simple
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;simple;important;main;round
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;simple;dangerous
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,lock,small;big;old;new;strong;simple;silver;golden;round;hard
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,moon,full;new;big;small;white;round;bright;clear;beautiful;high
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;long;short
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;strong;high;warm;clear;beautiful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Inanimate Objects,sword,sharp;long;short;big;small;old;new;silver;golden;strong
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,cat,small;big;black;white;gray;cute;young;old;soft;lazy
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;strong
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;gray;fast;young;old;playful;strong
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;wild;friendly;smart;heavy
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,hamster,small;cute;young;old;brown;white;soft;friendly;fast;round
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,monkey,small;big;young;old;smart;funny;wild;brown;fast;friendly
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,mouse,small;gray;white;cute;young;old;fast;quiet;soft;brown
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,peacock,beautiful;big;small;colorful;young;old;green;blue;bright;proud
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,rabbit,small;white;cute;young;old;soft;fast;brown;gray;friendly
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,shark,big;small;strong;fast;wild;dangerous;gray;white;young;old
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,snake,long;short;big;small;green;black;dangerous;wild;fast;young
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Neutral Animals,whale,big;small;blue;gray;strong;young;old;wild;friendly;heavy
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,city,big;small;old;new;modern;busy;famous;beautiful;large;rich
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,desert,big;small;hot;dry;old;new;wide;empty;sandy;open
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,forest,big;small;green;dark;old;new;deep;thick;wild;beautiful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,island,small;big;beautiful;green;new;old;famous;quiet;tropical;lonely
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,lake,big;small;deep;blue;clear;beautiful;old;new;quiet;round
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,mountain,high;big;small;old;new;tall;green;white;famous;beautiful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,ocean,big;deep;blue;wide;open;beautiful;old;new;strong;wild
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,plain,big;small;wide;open;green;flat;dry;empty;long;quiet
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,plateau,high;big;small;wide;flat;dry;green;old;new;open
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,river,big;small;long;short;deep;wide;clear;blue;fast;slow
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,valley,deep;big;small;green;wide;long;beautiful;quiet;old;new
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Places,village,small;big;old;new;quiet;beautiful;poor;rich;simple;local
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,cactus,green;small;big;tall;short;old;new;dry;round;wild
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,eggplant,purple;big;small;fresh;long;short;new;old;round;soft
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;blue;fresh;new;colorful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,grass,green;long;short;soft;fresh;dry;thick;new;old;wild
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;round;crisp;healthy
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;new;old;soft;round
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;strong;sweet
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,pepper,red;green;yellow;hot;sweet;big;small;fresh;new;old
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,potato,big;small;white;brown;fresh;new;old;round;soft;hard
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,rose,red;white;yellow;pink;beautiful;fresh;new;old;big;small
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,tomato,red;big;small;fresh;new;old;round;soft;ripe;juicy
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Plants,tree,big;small;old;new;green;tall;short;young;strong;beautiful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,ally,good;strong;true;real;old;new;loyal;close;important;trusted
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,brother,big;small;young;old;good;real;true;close;strong;kind
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,enemy,strong;real;true;old;new;big;small;dangerous;main;powerful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,father,good;old;young;real;true;strong;kind;big;loving;wise
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,follower,loyal;true;real;good;strong;old;new;close;important;faithful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,friend,good;true;real;old;new;close;best;loyal;kind
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,leader,strong;good;great;true;real;old;new;important;wise;popular
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,mother,good;old;young;real;true;kind;loving;strong;big;wise
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,partner,good;true;real;old;new;close;strong;important;loyal;trusted
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,rival,strong;real;true;old;new;main;big;small;dangerous;powerful
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,sister,big;small;young;old;good;real;true;close;kind;loving
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Social Relationships,stranger,real;true;new;old;big;small;quiet;silent;unknown;different
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,above,high;open;clear;bright;blue;wide;empty;far;sunny;free
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,back,strong;big;small;old;new;straight;broad;weak;hard;soft
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,below,low;dark;deep;cold;quiet;silent;empty;wet;soft;hidden
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,east,far;near;big;small;open;new;old;bright;sunny;warm
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,front,big;small;open;new;old;main;wide;clear;strong;bright
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,inside,warm;quiet;dark;small;big;safe;soft;new;old;close
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,left,open;free;empty;quiet;dark;near;far;small;big;main
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,north,far;cold;big;small;open;new;old;high;snowy;wild
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,outside,open;free;big;small;wide;quiet;cold;warm;new;old
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,right,open;free;main;big;small;near;far;clear;bright;strong
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,south,warm;far;near;big;small;open;new;old;sunny;green
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Spatial Concepts,west,far;near;big;small;open;new;old;bright;warm;sunny
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,century,new;old;last;next;past;great;long;short;important;modern
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,day,new;old;long;short;good;bad;sunny;rainy;busy;clear
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,evening,quiet;long;short;good;bad;dark;warm;cold;late;early
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,hour,long;short;late;early;busy;free;good;bad;last;next
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,minute,long;short;last;next;early;late;free;busy;good;bad
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,month,new;old;last;next;long;short;good;bad;busy;free
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,morning,early;late;quiet;good;bad;cold;warm;new;busy;clear
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;clear;good
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;good;bad
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,second,long;short;last;next;early;late;free;busy;good;bad
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,week,new;old;last;next;long;short;good;bad;busy;free
+gpt-4.1,basic,0.0,FA # Persian,B2,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;free
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;silent;open;cold;burning;wild
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,courage,great;true;real;moral;quiet;personal;physical;inner;enough;much
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;constant;growing;natural;open;silent
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,freedom,complete;full;personal;political;real;total;true;religious;economic;individual
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,happiness,great;real;true;complete;perfect;much;deep;simple;pure;lasting
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,hate,deep;strong;real;open;great;cold;silent;burning;personal;pure
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,honesty,complete;true;real;great;personal;simple;open;full;perfect;much
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,justice,social;true;real;complete;equal;fair;natural;perfect;legal;moral
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,knowledge,deep;great;real;true;much;personal;full;complete;wide;basic
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,love,true;real;deep;great;pure;strong;first;perfect;much;simple
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,peace,complete;real;true;lasting;long;inner;perfect;much;great;deep
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Abstract Concepts,wisdom,great;true;real;deep;much;old;ancient;simple;personal;natural
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;church;heavy;round;metal
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,candle,small;white;red;big;long;short;thin;burning;old;new
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;green;soft;thick;beautiful
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,coin,old;new;gold;silver;small;big;round;rare;ancient;valuable
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,crown,golden;royal;old;new;big;small;beautiful;heavy;silver;rich
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,flag,national;red;white;blue;green;big;small;old;new;colorful
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,mask,white;black;red;old;new;big;small;golden;silver;scary
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;old;new;long;short;big;small;colorful
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,painting,beautiful;old;new;big;small;famous;colorful;modern;classic;original
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,ring,gold;silver;beautiful;old;new;big;small;round;wedding;simple
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,statue,big;small;old;new;golden;silver;beautiful;famous;stone;bronze
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Cultural Artifacts,vase,big;small;old;new;beautiful;white;blue;red;glass;broken
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,cloud,white;dark;big;small;black;gray;heavy;light;thick;high
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;powerful;sudden;great;terrible;deadly;recent;natural
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,fog,thick;heavy;white;gray;cold;morning;light;dense;low;wet
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;blue;powerful;loud;natural;dangerous
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;hard;soft;strong;sudden;constant;gentle
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;full;clear;perfect;rare;lovely
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,snow,white;heavy;light;cold;soft;deep;fresh;new;thick;clean
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;great;terrible;powerful;cold;wild;dark
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;big;heavy;deep;powerful;distant;close;real
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,tide,high;low;strong;big;small;rising;falling;daily;natural;regular
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,volcano,active;old;big;small;dangerous;dead;high;famous;powerful;natural
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;soft;heavy;sudden;gentle;fresh;wild
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;juicy;round;ripe;delicious
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,banana,yellow;ripe;big;small;sweet;fresh;long;soft;green;delicious
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,beef,fresh;raw;cooked;red;tender;lean;ground;grilled;juicy;tasty
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;new;old;round;sliced
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,broccoli,green;fresh;raw;cooked;small;big;healthy;soft;hard;tasty
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,cheese,soft;hard;white;yellow;fresh;old;strong;mild;tasty;creamy
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,chicken,fried;grilled;cooked;raw;fresh;roasted;baked;spicy;tender;tasty
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,egg,boiled;fried;raw;fresh;big;small;white;brown;cooked;hard
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,fish,fresh;raw;cooked;fried;grilled;big;small;white;tasty;salty
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,pasta,cooked;fresh;hot;cold;soft;long;short;tasty;Italian;simple
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,rice,white;brown;cooked;raw;soft;hard;long;short;fresh;sticky
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Food Items,soup,hot;warm;cold;fresh;thick;thin;tasty;simple;clear;homemade
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,artist,famous;young;old;great;modern;talented;creative;new;popular;local
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,athlete,young;strong;great;famous;professional;talented;fast;new;old;top
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,chef,great;famous;young;old;talented;new;professional;creative;top;local
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,doctor,good;young;old;great;famous;local;new;professional;kind;skilled
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,engineer,good;young;old;great;skilled;professional;new;talented;local;smart
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,farmer,local;old;young;good;small;big;hard-working;poor;rich;skilled
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,lawyer,good;young;old;great;famous;local;new;professional;skilled;smart
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,musician,famous;young;old;great;talented;new;popular;local;creative;professional
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,scientist,great;famous;young;old;new;smart;talented;top;local;creative
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,soldier,brave;young;old;strong;good;great;new;professional;loyal;skilled
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,teacher,good;young;old;great;new;local;kind;smart;skilled;popular
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Human Roles,writer,famous;young;old;great;new;popular;talented;local;creative;modern
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,book,new;old;big;small;good;famous;interesting;popular;thick;thin
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;high;low;strong;famous
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;metal;round;heavy;simple
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;beautiful;rich;dry;wet
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,flute,wooden;silver;small;long;short;old;new;simple;beautiful;metal
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;metal;main;important;simple
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;metal;dangerous
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;metal;silver;golden;simple;broken
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,moon,full;new;bright;big;small;round;white;beautiful;clear;high
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;new;old;simple;long;short
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;strong;high;warm;clear;shining
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;silver;golden;big;small;strong
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;lazy;wild;friendly
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;wild
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;young;old;wild;fast;playful;gray
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,elephant,big;small;old;young;wild;gray;strong;friendly;smart;heavy
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,hamster,small;cute;young;old;brown;white;friendly;soft;fast;playful
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,monkey,small;big;young;old;wild;smart;funny;friendly;fast;brown
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,mouse,small;gray;white;cute;young;old;fast;wild;quiet;soft
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;wild;young;old;bright;blue;green
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,rabbit,small;white;cute;young;old;wild;soft;fast;brown;friendly
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,shark,big;small;dangerous;wild;fast;strong;gray;white;young;old
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,snake,long;short;big;small;dangerous;wild;green;black;fast;young
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Neutral Animals,whale,big;small;blue;gray;wild;young;old;strong;fast;friendly
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,city,big;small;old;new;modern;large;busy;beautiful;famous;rich
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,desert,hot;dry;big;small;wide;empty;sandy;open;wild;cold
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,forest,big;small;green;dark;deep;old;wild;thick;beautiful;quiet
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,island,small;big;beautiful;green;wild;quiet;new;old;famous;lonely
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,lake,big;small;deep;blue;clear;beautiful;quiet;old;new;round
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,mountain,high;big;small;old;new;green;tall;famous;snowy;rocky
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,ocean,big;deep;blue;wide;open;wild;beautiful;clear;strong;great
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,plain,big;small;wide;open;green;flat;dry;empty;long;quiet
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,plateau,high;big;small;wide;flat;dry;open;green;rocky;long
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,river,big;small;long;short;deep;wide;narrow;clear;fast;slow
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,valley,deep;wide;green;big;small;long;narrow;beautiful;quiet;open
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Places,village,small;big;old;new;quiet;peaceful;local;poor;rich;beautiful
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,cactus,green;big;small;tall;short;wild;old;new;dry;sharp
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,eggplant,purple;big;small;fresh;long;short;round;new;old;soft
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,flower,beautiful;red;white;yellow;blue;pink;small;big;fresh;wild
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,grass,green;long;short;fresh;dry;soft;thick;wild;new;old
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;crisp;round;healthy
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,mushroom,white;brown;small;big;fresh;wild;soft;new;old;round
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,onion,red;white;yellow;big;small;fresh;new;old;round;strong
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,pepper,red;green;yellow;hot;sweet;big;small;fresh;new;old
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,potato,big;small;white;brown;fresh;new;old;round;soft;hard
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,rose,red;white;yellow;pink;beautiful;fresh;wild;small;big;lovely
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,tomato,red;big;small;fresh;ripe;round;new;old;soft;juicy
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Plants,tree,big;small;old;new;green;tall;short;thick;wild;young
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,ally,close;strong;good;old;new;loyal;true;trusted;important;powerful
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,brother,big;small;older;younger;good;close;real;true;dear;loving
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,enemy,old;new;strong;powerful;real;true;great;main;open;dangerous
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,father,good;old;young;loving;kind;strong;real;true;dear;great
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,follower,loyal;true;close;strong;good;new;old;faithful;important;active
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,friend,good;close;best;old;new;true;dear;real;loyal;trusted
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,leader,strong;good;great;new;old;true;real;powerful;important;main
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,mother,good;old;young;loving;kind;real;true;dear;great;caring
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,partner,good;close;new;old;true;real;strong;important;trusted;loyal
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,rival,strong;main;old;new;real;true;great;powerful;close;important
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,sister,big;small;older;younger;good;close;real;true;dear;loving
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Social Relationships,stranger,complete;total;real;true;new;old;perfect;unknown;quiet;silent
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,above,high;open;clear;bright;blue;wide;empty;free;sunny;quiet
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,back,strong;big;small;old;new;straight;broad;weak;hard;soft
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,below,low;dark;deep;cold;quiet;empty;open;wet;soft;silent
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,east,far;near;open;bright;sunny;warm;new;old;main;important
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,front,open;main;big;small;new;old;strong;wide;clear;important
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,inside,warm;quiet;dark;soft;small;big;safe;new;old;private
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,left,open;free;main;important;big;small;new;old;quiet;empty
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,north,far;cold;open;wild;big;small;new;old;main;important
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,outside,open;free;wide;big;small;new;old;quiet;empty;public
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,right,open;free;main;important;big;small;new;old;quiet;empty
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,south,far;warm;open;big;small;new;old;main;important;quiet
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Spatial Concepts,west,far;open;big;small;new;old;main;important;quiet;free
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,century,new;old;last;past;present;next;great;long;short;important
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,day,new;old;long;short;good;bad;sunny;rainy;busy;quiet
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,evening,late;early;long;short;quiet;warm;cold;dark;busy;beautiful
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;new;old;last;next
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,minute,long;short;last;next;new;old;quiet;busy;early;late
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,month,new;old;last;next;long;short;busy;quiet;cold;warm
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,morning,early;late;new;old;quiet;busy;cold;warm;long;short
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;new;old
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,season,new;old;last;next;long;short;cold;warm;dry;wet
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,second,long;short;last;next;new;old;quick;slow;early;late
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,week,new;old;last;next;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,FA # Persian,C1,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;growing;bitter;cold;open;hidden
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,courage,great;true;quiet;moral;physical;personal;inner;remarkable;extraordinary;steady
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,fear,deep;great;sudden;constant;irrational;real;growing;silent;intense;hidden
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,freedom,complete;total;personal;political;religious;economic;true;full;individual;absolute
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,happiness,true;great;real;pure;simple;lasting;deep;complete;perfect;genuine
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,hate,deep;blind;pure;open;cold;strong;bitter;growing;silent;intense
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,honesty,complete;true;total;personal;absolute;simple;real;open;moral;perfect
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,justice,true;social;real;equal;complete;perfect;moral;legal;fair;absolute
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,knowledge,deep;great;true;complete;personal;scientific;practical;general;wide;basic
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,love,true;deep;great;pure;real;first;young;strong;perfect;romantic
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,peace,true;lasting;complete;perfect;real;inner;world;long;deep;political
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Abstract Concepts,wisdom,great;true;deep;ancient;practical;real;personal;common;moral;spiritual
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;church;heavy;broken;round
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,candle,white;small;big;red;scented;burning;long;short;thin;wax
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;Persian;thick;soft;beautiful;clean
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,coin,old;new;gold;silver;small;rare;ancient;round;valuable;shiny
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;heavy;silver;ancient;big;jeweled;famous
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,flag,national;red;white;blue;big;small;old;new;green;official
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,mask,white;black;old;new;wooden;golden;silver;painted;scary;beautiful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;long;short;old;new;pearl;diamond;simple
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,painting,old;new;beautiful;famous;big;small;modern;classic;oil;original
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;old;new;big;small;simple;beautiful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,statue,big;small;old;new;bronze;marble;famous;ancient;golden;beautiful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Cultural Artifacts,vase,big;small;old;new;blue;white;beautiful;broken;glass;ceramic
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;black;gray;heavy;light;thick;fluffy
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,earthquake,big;small;strong;powerful;deadly;recent;sudden;major;minor;destructive
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,fog,thick;heavy;white;gray;morning;cold;dense;light;low;wet
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;white;blue;dangerous;loud;sharp
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;hard;soft;constant;sudden;gentle
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;rare;double;full;clear;perfect
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,snow,white;heavy;light;fresh;deep;soft;cold;thick;new;clean
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;violent;powerful;bad;dangerous;loud;dark
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;distant;heavy;rolling;powerful;sharp;constant
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;powerful;regular;fast;slow
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;small;dangerous;famous;old;new;powerful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;soft;hard;steady;sudden;powerful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;juicy;ripe;round;crisp
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,banana,yellow;ripe;green;big;small;sweet;fresh;long;soft;curved
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,beef,fresh;raw;cooked;grilled;roasted;tender;lean;ground;juicy;spicy
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;homemade;sliced;sweet;round
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,broccoli,fresh;green;cooked;raw;steamed;healthy;small;big;soft;tender
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,cheese,hard;soft;white;yellow;fresh;old;strong;mild;creamy;sliced
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;fresh;spicy;tender;whole;baked
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;white;brown;cooked;large
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;small;big;white;oily;smoked
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,pasta,cooked;fresh;hot;cold;Italian;homemade;long;short;soft;creamy
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,rice,white;brown;cooked;raw;steamed;fried;long;short;soft;sticky
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Food Items,soup,hot;cold;thick;thin;fresh;homemade;spicy;clear;creamy;warm
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,artist,famous;young;old;great;talented;modern;creative;local;new;popular
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,athlete,young;strong;famous;great;professional;talented;fast;top;new;successful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,chef,famous;great;young;old;talented;professional;French;Italian;creative;skilled
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,doctor,good;young;old;famous;great;skilled;local;new;experienced;professional
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,engineer,good;young;old;skilled;experienced;professional;talented;new;great;senior
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,farmer,local;small;big;old;young;poor;rich;hard-working;experienced;successful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,lawyer,good;young;old;famous;great;skilled;experienced;professional;local;successful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,musician,famous;young;old;great;talented;local;new;popular;skilled;creative
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,scientist,famous;young;old;great;talented;leading;top;new;local;successful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,soldier,brave;young;old;strong;good;experienced;professional;loyal;new;skilled
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,teacher,good;young;old;great;experienced;new;local;popular;skilled;kind
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Human Roles,writer,famous;young;old;great;talented;new;popular;local;creative;successful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,book,old;new;big;small;famous;interesting;good;thick;thin;popular
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;famous;strong;wooden;stone
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,drums,big;small;loud;old;new;wooden;African;metal;round;traditional
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,earth,round;big;small;blue;green;old;beautiful;living;rich;warm
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,flute,wooden;silver;small;long;old;new;beautiful;metal;traditional;simple
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,key,small;big;old;new;golden;silver;metal;main;important;lost
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;dangerous
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,lock,old;new;big;small;strong;broken;metal;golden;silver;heavy
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,moon,full;new;bright;round;big;small;white;clear;beautiful;shining
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,pen,blue;black;red;old;new;small;big;broken;simple;cheap
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,sun,bright;hot;big;small;yellow;red;shining;warm;golden;strong
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;golden;silver;big;small;famous
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;lazy;wild;friendly
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;wild
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;young;old;wild;playful;fast;gray
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,elephant,big;small;young;old;wild;African;Asian;gray;strong;friendly
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,hamster,small;cute;young;old;brown;white;friendly;wild;soft;active
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,monkey,small;big;young;old;wild;funny;smart;brown;active;playful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,mouse,small;gray;white;black;young;old;wild;cute;fast;quiet
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;wild;young;old;blue;green;proud
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,rabbit,small;white;black;brown;cute;wild;young;old;soft;fast
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,shark,big;small;dangerous;wild;white;gray;fast;young;old;strong
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,snake,long;short;big;small;dangerous;wild;green;black;poisonous;fast
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Neutral Animals,whale,big;small;blue;white;gray;wild;young;old;strong;huge
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,city,big;small;old;new;modern;ancient;busy;famous;beautiful;crowded
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,desert,big;small;hot;dry;cold;empty;sandy;wide;open;wild
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,forest,big;small;dark;deep;green;old;thick;wild;beautiful;dense
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,island,small;big;beautiful;tropical;remote;wild;green;famous;quiet;private
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,lake,big;small;deep;blue;clear;beautiful;quiet;fresh;round;natural
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,mountain,high;tall;big;small;old;new;rocky;green;famous;snowy
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,ocean,big;deep;blue;wide;open;wild;beautiful;calm;rough;warm
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,plain,wide;open;flat;big;small;green;dry;grassy;empty;long
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,plateau,high;flat;big;small;wide;dry;rocky;green;old;open
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,river,big;small;long;short;deep;wide;narrow;fast;slow;clear
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,valley,deep;wide;green;small;big;narrow;beautiful;long;open;quiet
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Places,village,small;big;old;new;quiet;peaceful;local;poor;rich;beautiful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,cactus,green;big;small;tall;short;wild;old;new;dry;round
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,eggplant,purple;big;small;fresh;cooked;raw;long;round;soft;ripe
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;pink;blue
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,grass,green;long;short;fresh;wild;dry;soft;thick;tall;wet
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,lettuce,green;fresh;big;small;crisp;soft;round;wild;new;clean
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,mushroom,white;brown;small;big;wild;fresh;cooked;raw;soft;round
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,onion,white;red;yellow;big;small;fresh;raw;cooked;sweet;round
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,pepper,red;green;yellow;hot;sweet;small;big;fresh;spicy;black
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,potato,big;small;white;brown;fresh;cooked;raw;round;soft;sweet
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,rose,red;white;yellow;pink;beautiful;fresh;wild;big;small;sweet
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,tomato,red;green;big;small;fresh;ripe;round;sweet;soft;juicy
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Plants,tree,big;small;old;new;green;tall;short;young;wild;thick
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,ally,close;strong;loyal;old;new;powerful;trusted;important;main;good
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,brother,older;younger;big;small;real;close;dear;loving;strong;good
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,enemy,old;new;strong;powerful;main;real;dangerous;bitter;open;deadly
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,father,old;young;loving;good;strong;real;kind;caring;wise;strict
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,follower,loyal;true;close;strong;new;old;faithful;active;main;good
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,friend,close;good;best;old;new;true;dear;loyal;real;trusted
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,leader,strong;good;great;new;old;true;powerful;main;wise;popular
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,mother,loving;good;kind;old;young;caring;real;strong;wise;dear
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,partner,close;good;new;old;strong;true;loyal;trusted;main;important
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,rival,strong;main;old;new;powerful;real;close;dangerous;bitter;serious
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,sister,older;younger;big;small;close;dear;loving;good;real;kind
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Social Relationships,stranger,complete;total;real;new;old;perfect;silent;quiet;unknown;sudden
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,above,high;far;close;near;open;clear;bright;empty;wide;blue
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,back,lower;upper;strong;weak;straight;broad;flat;wide;narrow;soft
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,below,low;deep;far;close;near;dark;cold;quiet;hidden;silent
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,east,far;near;close;distant;bright;open;new;old;main;important
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,front,main;open;wide;big;small;new;old;clear;strong;important
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,inside,dark;warm;quiet;safe;small;big;close;private;hidden;secret
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,left,far;near;close;main;open;new;old;important;strong;weak
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,north,far;near;close;cold;main;open;new;old;important;distant
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,outside,open;wide;big;small;cold;warm;bright;clear;public;free
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,right,far;near;close;main;open;new;old;important;strong;weak
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,south,far;near;close;warm;main;open;new;old;important;distant
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Spatial Concepts,west,far;near;close;main;open;new;old;important;distant;bright
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,century,last;new;old;past;present;next;early;late;great;modern
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,day,new;old;long;short;good;bad;sunny;rainy;busy;bright
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,evening,early;late;long;short;quiet;warm;cool;dark;beautiful;peaceful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;last;next;full;free
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,minute,last;next;long;short;early;late;free;busy;quiet;final
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,month,last;next;new;old;first;final;early;late;long;short
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,morning,early;late;new;quiet;cold;warm;bright;fresh;busy;beautiful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;beautiful;peaceful
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,season,new;old;last;next;long;short;dry;wet;cold;warm
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,second,last;next;long;short;early;late;final;free;busy;quick
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,week,last;next;new;old;first;final;long;short;busy;free
+gpt-4.1,basic,0.0,FA # Persian,C2,most frequent,Time Concepts,year,last;next;new;old;first;final;long;short;good;bad
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;burning;bitter;cold;violent;hidden
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,courage,great;true;quiet;moral;physical;inner;remarkable;extraordinary;personal;steadfast
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,fear,deep;great;sudden;constant;irrational;real;intense;overwhelming;silent;paralyzing
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,freedom,complete;personal;political;true;total;individual;economic;religious;absolute;full
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,happiness,true;great;real;pure;simple;lasting;deep;complete;perfect;genuine
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,hate,deep;blind;pure;open;cold;burning;bitter;strong;intense;violent
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,honesty,complete;true;absolute;personal;total;simple;perfect;real;open;moral
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,justice,true;social;real;equal;complete;perfect;moral;legal;fair;absolute
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,knowledge,deep;great;true;complete;perfect;personal;scientific;practical;general;wide
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,love,true;deep;great;pure;real;perfect;first;romantic;strong;unconditional
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,peace,true;lasting;complete;perfect;inner;real;long;political;world;personal
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Abstract Concepts,wisdom,great;true;deep;ancient;practical;real;perfect;personal;moral;spiritual
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;church;heavy;broken;round
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,candle,small;white;red;tall;thin;scented;burning;wax;new;old
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;Persian;thick;soft;beautiful;colorful
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,coin,old;new;gold;silver;small;rare;ancient;round;valuable;shiny
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;old;new;beautiful;heavy;jeweled;silver;ancient;ornate
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;old;new;big;small;colorful;official
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,mask,white;black;old;new;wooden;golden;silver;painted;scary;colorful
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;old;new;long;short;pearl;diamond;colorful
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,painting,old;new;beautiful;famous;big;small;modern;classic;colorful;original
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;old;new;beautiful;small;big;wedding;simple
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,statue,big;small;old;new;bronze;marble;stone;golden;famous;ancient
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Cultural Artifacts,vase,big;small;old;new;beautiful;blue;white;glass;ceramic;broken
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;heavy;light;thick;fluffy;black
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,earthquake,big;small;strong;powerful;sudden;deadly;recent;major;minor;destructive
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,fog,thick;heavy;white;gray;morning;cold;dense;light;low;wet
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;white;blue;silent;dangerous;sharp
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;constant;gentle;hard;sudden;soft
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;double;full;clear;rare;perfect
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,snow,white;heavy;light;fresh;deep;soft;cold;new;thick;pure
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,storm,big;strong;powerful;heavy;sudden;violent;dangerous;dark;cold;tropical
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;distant;heavy;rolling;powerful;sharp;constant
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;powerful;regular;ocean;spring
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;small;dangerous;old;new;powerful;famous
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;steady;powerful;sudden;soft;fresh
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,apple,red;green;fresh;sweet;big;small;juicy;ripe;crisp;round
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,banana,yellow;ripe;green;fresh;sweet;big;small;long;soft;curved
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,beef,fresh;raw;cooked;tender;lean;ground;grilled;roasted;juicy;spicy
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;homemade;sliced;sweet;crusty
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,broccoli,fresh;green;cooked;raw;steamed;healthy;small;big;tender;organic
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,cheese,hard;soft;fresh;aged;white;yellow;creamy;strong;mild;blue
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;fresh;spicy;tender;baked;whole
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;scrambled;large;small;white
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;small;big;white;oily;smoked
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,pasta,cooked;fresh;hot;cold;Italian;homemade;long;short;creamy;spicy
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,rice,white;brown;cooked;steamed;fried;long;short;sticky;fresh;plain
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Food Items,soup,hot;cold;thick;thin;fresh;homemade;spicy;clear;creamy;vegetable
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,artist,famous;young;old;talented;great;modern;creative;local;new;skilled
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,athlete,young;strong;great;famous;professional;talented;fast;skilled;top;successful
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,chef,famous;great;young;talented;professional;skilled;creative;French;Italian;local
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,doctor,good;young;old;famous;skilled;experienced;local;great;professional;caring
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,engineer,skilled;young;old;experienced;talented;professional;good;great;civil;electrical
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,farmer,local;small;old;young;hardworking;poor;rich;successful;experienced;skilled
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,lawyer,good;young;old;famous;skilled;experienced;local;great;professional;successful
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,musician,famous;young;old;talented;great;skilled;local;professional;classical;modern
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,scientist,famous;young;old;great;talented;skilled;modern;leading;top;brilliant
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,soldier,brave;young;old;strong;good;experienced;loyal;skilled;professional;wounded
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,teacher,good;young;old;great;experienced;skilled;local;new;caring;patient
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Human Roles,writer,famous;young;old;great;talented;skilled;local;modern;new;creative
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,book,old;new;big;small;famous;interesting;good;thick;thin;classic
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;wooden;stone;famous;strong
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;metal;African;electric;traditional
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,earth,round;big;small;old;green;blue;beautiful;living;rich;fertile
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;small;big;old;new;beautiful;long;short;metal
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,key,small;big;old;new;golden;silver;metal;spare;main;lost
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;pocket
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,lock,old;new;big;small;strong;broken;metal;golden;silver;main
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,moon,full;new;bright;round;big;small;white;clear;beautiful;half
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;broken;cheap;expensive
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,sun,bright;hot;big;small;red;yellow;golden;rising;setting;shining
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;golden;silver;big;small;heavy
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;wild;stray;domestic
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;stray
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,dolphin,smart;friendly;playful;big;small;wild;young;old;fast;gray
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,elephant,big;small;old;young;wild;African;Asian;gray;strong;gentle
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;pet;furry;active;friendly
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,monkey,small;big;young;old;wild;playful;smart;brown;noisy;active
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;brown;young;old;wild;pet;quiet;quick
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;wild;male;female;young;old;rare
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,rabbit,small;white;brown;cute;wild;pet;young;old;soft;quick
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,shark,big;small;white;gray;dangerous;wild;young;old;fast;hungry
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,snake,long;short;big;small;green;poisonous;wild;young;old;dangerous
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Neutral Animals,whale,big;small;blue;white;gray;wild;young;old;huge;gentle
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,city,big;small;old;new;modern;ancient;busy;crowded;beautiful;famous
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,desert,hot;dry;big;small;sandy;empty;wide;cold;open;vast
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,forest,big;small;dark;green;thick;deep;old;wild;dense;beautiful
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,island,small;big;tropical;beautiful;remote;lonely;private;green;rocky;sandy
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,lake,big;small;deep;shallow;clear;blue;beautiful;fresh;natural;round
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,mountain,high;tall;big;small;rocky;snow-capped;green;steep;old;famous
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,ocean,big;small;deep;blue;wide;open;vast;wild;beautiful;stormy
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,plain,wide;open;flat;green;big;small;dry;grassy;empty;fertile
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,plateau,high;flat;big;small;dry;wide;rocky;green;open;old
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,river,big;small;long;short;deep;wide;narrow;fast;slow;clear
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,valley,deep;wide;green;narrow;small;big;beautiful;long;open;fertile
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Places,village,small;big;old;new;quiet;peaceful;remote;rural;poor;beautiful
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,cactus,green;tall;small;big;round;wild;desert;spiny;dry;thick
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,eggplant,purple;big;small;fresh;long;round;cooked;raw;soft;ripe
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,flower,beautiful;red;white;yellow;pink;blue;fresh;wild;small;big
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,grass,green;tall;short;dry;fresh;wild;thick;soft;long;wet
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,lettuce,green;fresh;crisp;big;small;round;leafy;raw;soft;organic
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,mushroom,white;brown;small;big;wild;fresh;cooked;raw;edible;soft
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,onion,red;white;yellow;big;small;fresh;raw;cooked;sweet;strong
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,pepper,red;green;yellow;hot;sweet;small;big;fresh;spicy;black
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,potato,big;small;white;red;brown;fresh;cooked;raw;baked;fried
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;small;big;fragrant
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,tomato,red;ripe;green;small;big;fresh;round;juicy;sweet;soft
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Plants,tree,big;small;old;young;green;tall;thick;fruit;dead;strong
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,ally,strong;loyal;close;good;powerful;trusted;important;main;old;new
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,brother,older;younger;big;small;real;close;dear;loving;strong;lost
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,enemy,old;new;strong;powerful;main;real;dangerous;bitter;deadly;open
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,father,old;young;loving;caring;strong;good;real;wise;strict;proud
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,follower,loyal;faithful;close;true;strong;new;old;main;active;silent
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,friend,good;close;best;old;new;true;dear;loyal;real;trusted
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,leader,strong;great;good;new;old;powerful;true;wise;main;famous
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,mother,loving;caring;good;old;young;real;strong;kind;proud;wise
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,partner,good;close;strong;new;old;true;loyal;trusted;main;important
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,rival,strong;main;old;new;powerful;real;bitter;close;dangerous;tough
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,sister,older;younger;big;small;real;close;dear;loving;strong;lost
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Social Relationships,stranger,complete;total;perfect;real;new;old;silent;quiet;unknown;foreign
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,above,high;far;close;near;open;clear;empty;bright;blue;wide
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,back,lower;upper;strong;weak;straight;broad;narrow;flat;sore;stiff
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,below,deep;far;close;near;dark;cold;hidden;quiet;silent;empty
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,east,far;near;distant;close;bright;open;new;old;rising;golden
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,front,main;open;wide;big;small;new;old;clear;bright;strong
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,inside,dark;warm;quiet;safe;small;big;empty;full;private;hidden
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,left,far;near;close;main;open;empty;quiet;silent;lower;upper
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,north,far;near;distant;close;cold;open;high;wild;snowy;strong
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,outside,open;wide;big;small;empty;quiet;dark;cold;bright;public
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,right,far;near;close;main;open;empty;quiet;silent;lower;upper
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,south,far;near;distant;close;warm;open;high;wild;sunny;strong
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Spatial Concepts,west,far;near;distant;close;bright;open;new;old;setting;golden
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,century,new;old;last;next;past;present;early;late;modern;golden
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,day,new;old;long;short;hot;cold;sunny;rainy;busy;bright
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,evening,early;late;quiet;long;short;warm;cool;dark;peaceful;beautiful
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;last;next;full;free
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,minute,last;next;long;short;early;late;free;busy;quiet;final
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,month,last;next;new;old;first;final;early;late;busy;quiet
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,morning,early;late;quiet;long;short;cold;warm;busy;fresh;bright
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;peaceful;silent
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,season,new;old;last;next;long;short;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,second,last;next;long;short;early;late;final;free;busy;quick
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,week,last;next;new;old;first;final;busy;quiet;long;short
+gpt-4.1,basic,0.0,FA # Persian,Perfect,most frequent,Time Concepts,year,new;old;last;next;first;final;early;late;busy;quiet

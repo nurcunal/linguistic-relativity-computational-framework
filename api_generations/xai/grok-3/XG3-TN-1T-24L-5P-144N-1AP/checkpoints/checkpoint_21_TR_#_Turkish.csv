@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,anger,strong;deep;intense;burning;sudden;hot;wild;bitter;fierce;uncontrollable
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,courage,great;brave;bold;amazing;true;powerful;incredible;fearless;strong;heroic
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,fear,dark;real;cold;terrible;hidden;deep;sudden;strong;awful;overwhelming
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,freedom,complete;true;sweet;precious;total;beautiful;important;new;hard;pure
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,happiness,pure;real;warm;big;bright;endless;simple;sweet;genuine;joyful
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,hate,strong;deep;bitter;dark;cold;fierce;blind;intense;cruel;endless
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,honesty,true;pure;clear;real;strong;simple;open;genuine;complete;fair
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,justice,fair;true;equal;strong;right;clear;important;honest;pure;necessary
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,knowledge,deep;wide;great;useful;important;new;basic;clear;rich;powerful
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,love,true;deep;warm;sweet;pure;strong;endless;beautiful;real;passionate
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,peace,calm;quiet;sweet;deep;true;lasting;beautiful;inner;gentle;perfect
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Abstract Concepts,wisdom,deep;great;true;old;clear;powerful;quiet;strong;real;ancient
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,bell,loud;clear;small;golden;old;shiny;heavy;beautiful;silver;bright
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,candle,bright;small;warm;soft;white;glowing;long;beautiful;red;scented
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,carpet,soft;colorful;thick;old;beautiful;expensive;large;red;patterned;warm
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,coin,old;shiny;small;silver;golden;rare;heavy;round;valuable;ancient
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,crown,golden;heavy;royal;beautiful;shiny;old;expensive;grand;jeweled;powerful
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,flag,national;colorful;proud;high;big;red;white;old;waving;bright
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,mask,scary;funny;black;colorful;strange;old;wooden;beautiful;mysterious;white
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,necklace,beautiful;shiny;long;silver;golden;expensive;elegant;simple;delicate;colorful
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;famous;large;amazing;expensive;detailed;unique;classic
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,ring,golden;silver;shiny;small;beautiful;expensive;simple;elegant;round;precious
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,statue,tall;old;stone;beautiful;famous;grand;heavy;ancient;white;impressive
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Cultural Artifacts,vase,delicate;old;beautiful;tall;glass;colorful;expensive;ceramic;small;elegant
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;big;gray;soft;high;heavy;thick;moving
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,earthquake,strong;terrible;sudden;dangerous;powerful;scary;destructive;big;violent;awful
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,fog,thick;white;cold;heavy;mysterious;dark;gray;wet;dense;early
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,lightning,bright;fast;dangerous;loud;scary;sudden;powerful;white;strong;electric
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;soft;wet;sudden;strong;warm;gentle;endless
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,rainbow,colorful;beautiful;bright;magical;rare;amazing;clear;wide;lovely;vivid
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;beautiful;thick;wet;fresh;pure
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,storm,strong;dark;loud;dangerous;wild;heavy;scary;sudden;violent;powerful
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,thunder,loud;deep;scary;strong;sudden;powerful;dark;heavy;frightening;booming
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,tide,high;low;strong;dangerous;fast;powerful;wild;sudden;cold;rough
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,volcano,active;dangerous;hot;powerful;huge;scary;red;tall;deadly;ancient
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Environmental Phenomena,wind,strong;cold;warm;fast;light;wild;heavy;soft;cool;gentle
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,apple,red;green;sweet;fresh;juicy;round;small;crisp;tasty;healthy
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,banana,yellow;sweet;long;soft;fresh;ripe;healthy;small;tasty;curved
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,beef,fresh;red;tasty;tender;expensive;cooked;raw;juicy;thick;soft
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,bread,fresh;soft;warm;white;brown;tasty;crispy;homemade;thick;delicious
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,broccoli,green;fresh;healthy;small;raw;cooked;tasty;bitter;hard;nutritious
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;tasty;creamy;smelly;fresh;melted;salty
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,chicken,cooked;fresh;tasty;tender;juicy;roasted;grilled;white;soft;delicious
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,egg,white;brown;small;fresh;boiled;fried;raw;tasty;soft;hard
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,fish,fresh;tasty;small;big;raw;cooked;silver;salty;white;delicious
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,pasta,soft;tasty;long;short;yellow;cooked;fresh;hot;simple;delicious
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,rice,white;soft;tasty;hot;sticky;long;short;fresh;simple;healthy
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Food Items,soup,hot;tasty;warm;thick;thin;creamy;salty;fresh;homemade;delicious
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,artist,creative;talented;famous;young;old;passionate;skilled;unique;successful;inspired
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,athlete,strong;fast;fit;young;talented;energetic;skilled;competitive;famous;powerful
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,chef,skilled;creative;famous;busy;talented;experienced;friendly;professional;young;passionate
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,doctor,kind;smart;helpful;busy;experienced;friendly;caring;professional;young;patient
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,engineer,smart;skilled;creative;busy;talented;young;professional;experienced;innovative;hardworking
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,farmer,hardworking;kind;old;busy;strong;friendly;simple;experienced;tired;dedicated
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,lawyer,smart;busy;professional;strict;experienced;young;successful;confident;serious;helpful
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,musician,talented;passionate;famous;creative;young;skilled;energetic;unique;successful;inspired
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,scientist,smart;curious;talented;busy;experienced;young;innovative;serious;dedicated;brilliant
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,soldier,brave;strong;young
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,teacher,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Human Roles,writer,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,book,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,bridge,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,drums,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,earth,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,flute,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,key,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,knife,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,lock,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,moon,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,pen,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,sun,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Inanimate Objects,sword,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,cat,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,dog,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,dolphin,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,elephant,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,hamster,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,monkey,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,mouse,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,peacock,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,rabbit,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,shark,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,snake,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Neutral Animals,whale,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,city,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,desert,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,forest,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,island,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,lake,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,mountain,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,ocean,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,plain,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,plateau,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,river,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,valley,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Places,village,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,cactus,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,eggplant,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,flower,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,grass,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,lettuce,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,mushroom,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,onion,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,pepper,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,potato,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,rose,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,tomato,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Plants,tree,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,ally,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,brother,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,enemy,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,father,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,follower,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,friend,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,leader,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,mother,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,partner,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,rival,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,sister,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Social Relationships,stranger,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,above,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,back,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,below,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,east,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,front,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,inside,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,left,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,north,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,outside,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,right,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,south,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Spatial Concepts,west,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,century,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,day,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,evening,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,hour,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,minute,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,month,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,morning,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,night,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,season,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,second,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,week,
+grok-3,think-in-native,1.0,TR # Turkish,B1,most frequent,Time Concepts,year,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,anger,intense;burning;fierce;strong;wild;deep;hot;bitter;sudden;uncontrollable
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,courage,great;brave;bold;fearless;strong;heroic;amazing;true;powerful;incredible
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,fear,dark;cold;heavy;real;deep;constant;hidden;terrible;overwhelming;silent
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,freedom,complete;pure;sweet;true;hard-earned;precious;beautiful;endless;personal;desired
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,happiness,bright;warm;genuine;simple;pure;endless;real;joyful;deep;shared
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,hate,strong;bitter;cold;deep;blind;cruel;dark;fierce;hidden;painful
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,honesty,pure;clear;true;simple;brave;rare;admirable;strong;open;valuable
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,justice,fair;true;strict;equal;honest;necessary;important;moral;right;powerful
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,knowledge,deep;vast;useful;broad;valuable;essential;amazing;practical;shared;growing
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,love,true;deep;warm;endless;pure;strong;sweet;unconditional;beautiful;passionate
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,peace,calm;quiet;gentle;lasting;true;inner;sweet;precious;global;desired
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Abstract Concepts,wisdom,deep;ancient;true;practical;valuable;calm;quiet;thoughtful;rare;powerful
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,bell,loud;clear;small;golden;old;shiny;heavy;beautiful;ringing;classic
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,candle,bright;warm;small;soft;scented;burning;white;decorative;flickering;romantic
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,carpet,soft;colorful;thick;expensive;old;beautiful;warm;patterned;clean;large
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,coin,old;shiny;small;valuable;silver;golden;rare;ancient;round;heavy
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,crown,golden;heavy;royal;shiny;beautiful;ancient;expensive;powerful;majestic;jeweled
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,flag,national;colorful;proud;waving;bright;symbolic;historic;red;white;bold
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,mask,mysterious;colorful;scary;funny;traditional;black;white;handmade;strange;decorative
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,necklace,beautiful;expensive;silver;golden;long;delicate;shiny;elegant;precious;simple
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;famous;large;realistic;abstract;expensive;detailed;impressive
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,ring,golden;silver;small;shiny;expensive;beautiful;simple;elegant;precious;round
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,statue,tall;ancient;beautiful;stone;bronze;impressive;historic;large;detailed;famous
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Cultural Artifacts,vase,delicate;beautiful;old;glass;ceramic;tall;decorative;expensive;colorful;elegant
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;heavy;soft;gray;big;moving;light;stormy
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,earthquake,strong;scary;sudden;destructive;powerful;terrible;dangerous;massive;unexpected;violent
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,fog,thick;cold;gray;heavy;mysterious;dense;silent;wet;early;covering
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;dangerous;sharp;white;electric;scary;quick;striking
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;soft;warm;steady;sudden;refreshing;gentle;endless
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,rainbow,colorful;beautiful;bright;rare;magical;clear;vivid;arched;amazing;natural
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;beautiful;silent;thick;falling;pure
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,storm,strong;dark;loud;dangerous;heavy;wild;sudden;scary;powerful;violent
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,thunder,loud;deep;scary;strong;sudden;rolling;powerful;distant;booming;frightening
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,tide,high;low;strong;calm;rising;falling;powerful;steady;dangerous;natural
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,volcano,active;dangerous;huge;hot;explosive;ancient;smoking;powerful;fiery;dark
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;wild;fast;soft;blowing;cool;sharp
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,apple,red;green;sweet;fresh;juicy;round;small;crunchy;ripe;tasty
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,banana,yellow;sweet;soft;long;fresh;ripe;healthy;tropical;curved;delicious
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,beef,fresh;red;tender;juicy;expensive;cooked;grilled;soft;tasty;lean
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,bread,fresh;warm;soft;white;brown;crusty;homemade;sliced;tasty;daily
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,broccoli,green;fresh;healthy;small;cooked;raw;tasty;bitter;steamed;nutritious
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;creamy;tasty;smelly;melted;fresh;expensive
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,chicken,fresh;tender;juicy;cooked;grilled;roasted;white;tasty;soft;spicy
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,egg,white;brown;fresh;boiled;fried;small;raw;tasty;healthy;fragile
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,fish,fresh;raw;cooked;silver;small;big;tasty;grilled;white;salty
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,pasta,soft;hot;tasty;fresh;long;short;creamy;spicy;homemade;boiled
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,rice,white;brown;soft;sticky;hot;plain;tasty;healthy;steamed;fluffy
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Food Items,soup,hot;tasty;creamy;clear;warm;fresh;spicy;healthy;light;homemade
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,artist,creative;talented;famous;young;old;passionate;skilled;unique;modern;successful
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,athlete,strong;fast;young;talented;fit;energetic;determined;famous;competitive;skilled
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,chef,skilled;creative;famous;busy;talented;professional;passionate;experienced;friendly;innovative
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,doctor,kind;smart;busy;helpful;experienced;friendly;caring;young;old;professional
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,engineer,smart;skilled;creative;young;experienced;busy;technical;innovative;successful;hardworking
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,farmer,hardworking;kind;old;young;tired;strong;friendly;patient;dedicated;rural
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,lawyer,smart;strict;busy;successful;experienced;serious;professional;confident;expensive;helpful
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,musician,talented;young;famous;creative;passionate;skilled;energetic;unique;successful;inspiring
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,scientist,smart;curious;patient;young;old;dedicated;innovative;serious;brilliant;hardworking
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,soldier,brave;strong;young;loyal;disciplined;heroic;serious;tough;dedicated;proud
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,teacher,kind;patient;smart;friendly;strict;helpful;experienced;young;old;inspiring
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Human Roles,writer,creative;talented;young;famous;passionate;skilled;unique;successful;thoughtful;imaginative
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;heavy;small;famous;colorful
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,bridge,long;old;strong;high;beautiful;wooden;modern;narrow;wide;famous
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,drums,loud;big;heavy;shiny;round;wooden;noisy;powerful;rhythmic;traditional
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,earth,big;round;green;blue;beautiful;old;vast;living;precious;natural
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,flute,small;wooden;silver;shiny;light;beautiful;soft;delicate;old;musical
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,key,small;silver;golden;old;shiny;heavy;important;tiny;rusty;useful
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,knife,sharp;small;big;silver;dangerous;useful;shiny;heavy;old;kitchen
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,lock,old;rusty;heavy;strong;small;silver;secure;broken;tiny;golden
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,moon,bright;full;white;round;beautiful;mysterious;pale;distant;magical;silver
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,pen,black;blue;small;cheap;expensive;shiny;useful;light;plastic;elegant
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,sun,bright;hot;yellow;big;warm;powerful;golden;shining;beautiful;vital
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Inanimate Objects,sword,sharp;long;heavy;old;silver;dangerous;shiny;ancient;strong;powerful
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,cat,small;cute;black;white;soft;lazy;playful;furry;quiet;friendly
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,dog,big;small;loyal;friendly;brown;black;playful;loud;cute;strong
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,dolphin,smart;friendly;blue;fast;cute;playful;wild;beautiful;gentle;amazing
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,elephant,big;gray;strong;heavy;gentle;wild;old;tall;powerful;amazing
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,hamster,small;cute;soft;brown;tiny;fluffy;active;quiet;playful;sweet
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,monkey,funny;small;brown;wild;active;smart;noisy;playful;curious;fast
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,mouse,small;gray;tiny;quick;quiet;cute;fast;shy;little;sneaky
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;big;rare;elegant;bright;amazing;exotic;stunning
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,rabbit,small;white;soft;cute;fast;fluffy;shy;brown;sweet;gentle
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,shark,big;dangerous;gray;fast;scary;wild;strong;fierce;powerful;deadly
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,snake,long;dangerous;green;black;scary;quiet;fast;wild;slippery;venomous
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Neutral Animals,whale,huge;blue;gentle;big;heavy;amazing;wild;rare;deep;powerful
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,city,big;busy;noisy;modern;old;crowded;beautiful;large;bright;lively
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,desert,hot;dry;vast;empty;sandy;quiet;harsh;wide;lonely;golden
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,forest,green;dark;dense;big;quiet;wild;beautiful;thick;old;mysterious
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,island,small;beautiful;remote;green;tropical;quiet;lonely;sunny;sandy;peaceful
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,lake,blue;calm;clear;deep;beautiful;quiet;cold;large;still;natural
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,mountain,high;tall;snowy;rocky;big;beautiful;steep;cold;strong;majestic
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,ocean,blue;vast;deep;wild;powerful;endless;salty;beautiful;dark;dangerous
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,plain,wide;green;flat;open;vast;quiet;empty;beautiful;simple;natural
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,plateau,high;flat;wide;dry;rocky;vast;empty;quiet;cold;natural
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,river,long;blue;clear;deep;fast;calm;wide;beautiful;cold;flowing
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,valley,green;deep;narrow;beautiful;quiet;long;wide;fertile;peaceful;hidden
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Places,village,small;quiet;old;peaceful;green;friendly;simple;traditional;remote;beautiful
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,cactus,green;spiky;tall;dry;tough;small;desert;sharp;strong;unique
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,eggplant,purple;fresh;soft;big;small;tasty;healthy;cooked;raw;smooth
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,flower,beautiful;colorful;small;fresh;sweet;bright;delicate;pretty;soft;fragrant
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,grass,green;soft;tall;short;fresh;wet;thick;wild;bright;natural
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,lettuce,green;fresh;crisp;light;healthy;soft;raw;tasty;cool;leafy
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,mushroom,small;brown;white;soft;tasty;wild;fresh;round;earthy;delicate
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,onion,white;yellow;strong;fresh;raw;small;big;spicy;sharp;tasty
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,pepper,red;green;spicy;hot;fresh;small;colorful;tasty;raw;sharp
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,potato,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,rose,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,tomato,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Plants,tree,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,ally,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,brother,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,enemy,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,father,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,follower,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,friend,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,leader,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,mother,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,partner,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,rival,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,sister,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Social Relationships,stranger,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,above,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,back,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,below,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,east,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,front,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,inside,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,left,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,north,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,outside,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,right,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,south,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Spatial Concepts,west,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,century,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,day,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,evening,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,hour,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,minute,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,month,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,morning,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,night,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,season,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,second,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,week,
+grok-3,think-in-native,1.0,TR # Turkish,B2,most frequent,Time Concepts,year,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,anger,intense;fierce;burning;uncontrollable;deep;sudden;violent;bitter;suppressed;overwhelming
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,courage,remarkable;fearless;bold;heroic;brave;daring;steadfast;inspiring;unyielding;admirable
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,fear,paralyzing;irrational;deep-seated;overwhelming;constant;hidden;gripping;intense;primal;lingering
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,freedom,true;absolute;precious;hard-won;cherished;complete;liberating;essential;undeniable;boundless
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,happiness,pure;genuine;immense;lasting;infectious;heartfelt;radiant;simple;profound;unexpected
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,hate,deep;intense;bitter;consuming;blind;unrelenting;fierce;hidden;destructive;passionate
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,honesty,brutal;complete;unwavering;sincere;absolute;refreshing;rare;admirable;essential;unquestionable
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,justice,fair;impartial;swift;deserved;blind;strict;moral;true;righteous;long-awaited
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;valuable;practical;ancient;specialized;essential;limitless
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,love,unconditional;passionate;eternal;selfless;true;deep;romantic;enduring;sincere;powerful
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,peace,inner;lasting;serene;fragile;quiet;harmonious;global;profound;calming;elusive
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Abstract Concepts,wisdom,ancient;timeless;profound;practical;deep;insightful;hard-earned;invaluable;guiding;enlightened
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,bell,loud;clear;ringing;old;small;golden;silver;decorative;church;melodic
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,candle,flickering;scented;bright;small;white;warm;melting;decorative;romantic;soft
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;expensive;old;patterned;woven;plush;traditional;elegant
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,coin,old;rare;shiny;small;valuable;ancient;golden;silver;worn;collectible
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ancient;ornate;majestic;symbolic;glittering;ceremonial
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;torn;historic;symbolic;bold;fluttering;iconic
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,mask,mysterious;colorful;scary;traditional;decorative;hidden;tribal;creepy;painted;ceremonial
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,necklace,delicate;elegant;expensive;golden;silver;beaded;long;beautiful;vintage;ornate
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,painting,beautiful;abstract;classic;colorful;famous;detailed;realistic;modern;expressive;stunning
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,ring,golden;silver;shiny;expensive;simple;elegant;diamond;wedding;antique;engraved
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,statue,ancient;tall;marble;bronze;majestic;historic;detailed;imposing;iconic;weathered
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;ornate;ancient;colorful;fragile;decorative;elegant;floral
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,cloud,fluffy;white;dark;heavy;floating;stormy;light;thick;gray;scattered
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,earthquake,powerful;destructive;sudden;terrifying;massive;devastating;violent;unexpected;catastrophic;strong
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;heavy;cold;eerie;gray;blinding;morning;silent
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;dangerous;striking;intense;electric;vivid;jagged;terrifying
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,rain,heavy;light;gentle;steady;cold;refreshing;sudden;endless;torrential;drizzling
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;vivid;magical;rare;stunning;fleeting;arched;vibrant
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,snow,white;soft;heavy;cold;fluffy;falling;fresh;thick;sparkling;silent
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,storm,violent;fierce;powerful;raging;dark;sudden;dangerous;intense;thunderous;destructive
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rolling;distant;startling;powerful;echoing;menacing;deafening
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;steady;dangerous;rising;receding
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;erupting;fiery;ancient;towering;destructive;smoky
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fierce;howling;brisk;gusty;steady;biting
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,apple,red;green;sweet;crisp;juicy;fresh;ripe;sour;shiny;small
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;mushy;spotted
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,beef,tender;juicy;fresh;lean;grilled;cooked;raw;red;savory;marbled
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,bread,fresh;warm;soft;crusty;white;brown;sliced;homemade;stale;toasted
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,broccoli,green;fresh;healthy;steamed;raw;tender;crunchy;small;organic;vibrant
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,cheese,creamy;sharp;melted;yellow;white;aged;soft;hard;tangy;mild
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,chicken,grilled;roasted;tender;juicy;fried;spicy;fresh;cooked;raw;savory
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;raw;soft;hard;small
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,fish,fresh;grilled;fried;raw;salty;tender;flaky;smoked;small;large
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,pasta,soft;al dente;fresh;homemade;creamy;spicy;hot;cold;cheesy;saucy
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;cooked;plain;fragrant;long-grain;short-grain
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Food Items,soup,hot;creamy;hearty;light;savory;spicy;homemade;clear;thick;comforting
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,artist,talented;creative;famous;struggling;innovative;passionate;skilled;visionary;modern;eccentric
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,athlete,strong;fast;dedicated;talented;competitive;fit;disciplined;skilled;determined;successful
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,chef,skilled;creative;professional;famous;innovative;experienced;passionate;busy;meticulous;talented
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,doctor,caring;skilled;experienced;dedicated;kind;busy;knowledgeable;trusted;compassionate;professional
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,engineer,innovative;skilled;clever;dedicated;technical;experienced;creative;precise;intelligent;hardworking
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,farmer,hardworking;dedicated;rural;experienced;tough;patient;early-rising;traditional;independent;resilient
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,lawyer,sharp;experienced;successful;persuasive;professional;tough;dedicated;knowledgeable;confident;strategic
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,musician,talented;passionate;skilled;famous;creative;dedicated;expressive;gifted;versatile;inspired
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;knowledgeable;analytical;precise;pioneering;focused;intelligent
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;dedicated;tough;heroic;trained;fearless;committed
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,teacher,patient;inspiring;dedicated;knowledgeable;kind;strict;supportive;experienced;caring;enthusiastic
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Human Roles,writer,creative;talented;famous;passionate;imaginative;skilled;prolific;thoughtful;expressive;dedicated
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,book,old;thick;interesting;new;heavy;paperback;hardcover;engaging;boring;classic
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,bridge,long;old;strong;narrow;high;wooden;stone;modern;iconic;suspended
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;large;small;tribal;electric;traditional;powerful;beaten;resonant
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,earth,vast;beautiful;ancient;green;fertile;fragile;blue;diverse;living;precious
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,flute,melodic;wooden;silver;small;delicate;ancient;clear;soft;traditional;enchanting
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,key,old;small;rusty;golden;silver;important;heavy;shiny;lost;spare
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,knife,sharp;small;dangerous;rusty;kitchen;folding;heavy;pointed;serrated;utility
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,lock,old;rusty;strong;small;broken;secure;heavy;brass;modern;tight
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,moon,bright;full;crescent;pale;distant;mysterious;beautiful;silver;glowing;serene
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,pen,black;blue;old;expensive;cheap;fountain;ballpoint;broken;smooth;elegant
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,sun,bright;warm;hot;golden;blazing;shining;distant;powerful;radiant;setting
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;shiny;long;deadly;rusty;ornate;legendary;curved
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,cat,cute;fluffy;small;black;white;lazy;playful;curious;independent;friendly
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,dog,loyal;friendly;big;small;energetic;protective;cute;brown;barking;obedient
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,dolphin,intelligent;friendly;playful;graceful;fast;sleek;curious;social;beautiful;wild
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,elephant,huge;gray
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,hamster,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,monkey,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,mouse,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,peacock,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,rabbit,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,shark,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,snake,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Neutral Animals,whale,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,city,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,desert,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,forest,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,island,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,lake,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,mountain,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,ocean,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,plain,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,plateau,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,river,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,valley,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Places,village,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,cactus,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,eggplant,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,flower,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,grass,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,lettuce,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,mushroom,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,onion,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,pepper,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,potato,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,rose,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,tomato,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Plants,tree,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,ally,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,brother,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,enemy,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,father,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,follower,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,friend,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,leader,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,mother,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,partner,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,rival,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,sister,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Social Relationships,stranger,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,above,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,back,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,below,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,east,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,front,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,inside,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,left,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,north,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,outside,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,right,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,south,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Spatial Concepts,west,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,century,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,day,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,evening,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,hour,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,minute,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,month,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,morning,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,night,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,season,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,second,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,week,
+grok-3,think-in-native,1.0,TR # Turkish,C1,most frequent,Time Concepts,year,
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,anger,intense;burning;fierce;uncontrollable;deep;suppressed;sudden;bitter;fiery;raw
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,courage,remarkable;bold;fearless;heroic;admirable;unwavering;strong;brave;determined;inspiring
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;lingering;sudden;intense;haunting;primal;unspoken
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,freedom,absolute;precious;hard-won;cherished;boundless;liberating;fundamental;true;deserved;empowering
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,happiness,pure;genuine;boundless;infectious;radiant;lasting;simple;profound;unexpected;blissful
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,hate,intense;deep;bitter;unrelenting;toxic;consuming;blind;fierce;irrational;destructive
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,honesty,brutal;refreshing;unwavering;absolute;sincere;admirable;rare;fearless;consistent;transparent
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,justice,fair;impartial;long-awaited;deserved;strict;blind;moral;divine;swift;restorative
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,knowledge,vast;profound;deep;extensive;practical;valuable;specialized;ancient;shared;fundamental
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,love,unconditional;passionate;tender;eternal;selfless;deep;true;romantic;enduring;pure
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,peace,inner;lasting;fragile;serene;profound;hard-earned;calm;global;quiet;spiritual
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Abstract Concepts,wisdom,timeless;profound;practical;ancient;deep;invaluable;quiet;hard-earned;insightful;shared
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,bell,loud;clear;resonant;small;golden;ancient;melodic;heavy;ornate;warning
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,candle,flickering;warm;scented;small;white;burning;decorative;soft;romantic;delicate
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;woven;expensive;traditional;warm;patterned;luxurious;old
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;valuable;small;silver;ancient;worn;commemorative;golden
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,crown,golden;royal;heavy;ornate;ancient;symbolic;jeweled;majestic;ceremonial;powerful
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,flag,national;proud;waving;colorful;symbolic;tattered;bold;historic;official;bright
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,mask,mysterious;colorful;eerie;traditional;decorative;frightening;hidden;intricate;theatrical;protective
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,necklace,elegant;delicate;golden;beaded;expensive;simple;long;sparkling;vintage;cherished
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,painting,beautiful;abstract;realistic;famous;old;colorful;detailed;expressive;large;framed
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,ring,golden;silver;engagement;simple;ornate;ancient;shiny;precious;small;diamond
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,statue,ancient;tall;marble;majestic;detailed;bronze;iconic;weathered;commemorative;imposing
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Cultural Artifacts,vase,delicate;ceramic;ornate;tall;antique;floral;fragile;elegant;painted;narrow
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;thick;floating;gray;stormy;soft;scattered
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,earthquake,devastating;powerful;sudden;terrifying;destructive;major;violent;unexpected;catastrophic;intense
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,fog,thick;dense;eerie;mysterious;cold;heavy;lingering;gray;silent;enveloping
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;striking;dangerous;vivid;electric;intense;jagged;blinding
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,rain,heavy;light;gentle;torrential;steady;cold;refreshing;sudden;endless;drizzling
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;vibrant;fleeting;magical;arched;vivid;stunning;rare
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,snow,soft;white;heavy;fresh;powdery;cold;thick;silent;falling;pristine
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,storm,violent;powerful;fierce;dark;raging;sudden;intense;destructive;ominous;loud
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rolling;distant;sudden;powerful;startling;echoing;menacing
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;powerful;relentless;calm;steady;incoming;dangerous
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;fiery;smoking;ancient;explosive;towering;deadly
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;gusty;steady;fierce;breezy;wild
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;fresh;ripe;shiny;round;tart
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,banana,yellow;ripe;soft;sweet;long;curved;fresh;tropical;mushy;healthy
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,beef,tender;juicy;fresh;lean;grilled;raw;savory;tough;marinated;seasoned
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,bread,fresh;warm;crusty;soft;white;wholegrain;stale;homemade;sliced;toasted
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,broccoli,green;fresh;crisp;healthy;tender;steamed;raw;bitter;nutritious;vibrant
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,cheese,creamy;sharp;soft;hard;melted;aged;tangy;mild;grated;savory
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,chicken,grilled;roasted;tender;juicy;fried;raw;spicy;seasoned;boneless;succulent
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;raw;white;brown;soft;hard;organic
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,fish,fresh;grilled;raw;smoked;tender;flaky;salty;frozen;oily;cooked
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,pasta,al dente;soft;fresh;creamy;spicy;cheesy;homemade;boiled;saucy;plain
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,rice,white;brown;fluffy;sticky;steamed;boiled;seasoned;plain;aromatic;cooked
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Food Items,soup,hot;creamy;hearty;clear;savory;spicy;homemade;thick;warm;comforting
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,artist,talented;creative;innovative;passionate;famous;struggling;visionary;eccentric;skilled;inspired
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,athlete,strong;dedicated;fast;agile;competitive;disciplined;talented;determined;muscular;focused
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,chef,skilled;creative;professional;passionate;innovative;experienced;famous;busy;meticulous;talented
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,doctor,compassionate;skilled;experienced;dedicated;kind;professional;busy;trusted;knowledgeable;caring
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,engineer,innovative;skilled;practical;brilliant;technical;experienced;creative;analytical;dedicated;precise
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,farmer,hardworking;dedicated;rural;experienced;tough;patient;traditional;skilled;humble;resilient
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,lawyer,sharp;experienced;persuasive;professional;cunning;dedicated;knowledgeable;articulate;aggressive;ethical
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,musician,talented;passionate;creative;skilled;famous;dedicated;versatile;emotional;innovative;charismatic
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;knowledgeable;precise;patient;groundbreaking;focused
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;courageous;dedicated;tough;trained;heroic;determined
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,teacher,patient;inspiring;knowledgeable;dedicated;kind;strict;supportive;experienced;creative;caring
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Human Roles,writer,creative;talented;prolific;imaginative;insightful;passionate;famous;dedicated;eloquent;thoughtful
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,book,thick;old;new;interesting;engaging;heavy;worn;colorful;hardcover;fascinating
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,bridge,long;old;sturdy;narrow;high;wooden;modern;iconic;suspension;arched
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;deep;large;tribal;electronic;traditional;resonant;beaten
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,earth,vast;blue;fragile;ancient;fertile;beautiful;living;rotating;precious;green
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,flute,delicate;melodic;wooden;silver;small;ancient;soft;clear;beautiful;elegant
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,key,old;rusty;small;golden;shiny;important;lost;spare;heavy;mysterious
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,knife,sharp;dangerous;small;rusty;kitchen;serrated;pocket;heavy;shiny;deadly
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,lock,secure;heavy;old;rusty;broken;small;sturdy;digital;ancient;tight
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,moon,full;crescent;bright;pale;mysterious;distant;glowing;beautiful;silver;haunting
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,pen,black;blue;expensive;cheap;old;leaky;smooth;elegant;simple;reliable
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,sun,bright;warm;golden;blazing;hot;radiant;setting;rising;powerful;blinding
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;deadly;ornate;rusty;long;legendary;ceremonial;wielded
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,cat,fluffy;playful;curious;independent;sleek;lazy;affectionate;small;mischievous;elegant
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,dog,loyal;friendly;energetic;protective;big;small;playful;obedient;furry;loving
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;friendly;sleek;fast;social;graceful;curious;beautiful;acrobatic
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,elephant,massive;gentle;wise;gray;powerful;majestic;slow;endangered;strong;intelligent
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,hamster,tiny;cute;fluffy;active;small;furry;shy;playful;nocturnal;curious
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,monkey,playful;curious;agile;mischievous;social;intelligent;small;wild;funny;energetic
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,mouse,tiny;small;quick;shy;quiet;sneaky;gray;cute;timid;fast
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,peacock,colorful;proud;beautiful;vibrant;majestic;elegant;striking;ornate;showy;rare
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,rabbit,soft;fluffy;fast;cute;small;shy;white;timid;playful;hopping
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,shark,dangerous;powerful;sleek;fast;predatory;fearsome;deadly;large;gray;aggressive
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,snake,slithery;venomous;long;dangerous;silent;coiled;colorful;deadly;sneaky;scaly
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Neutral Animals,whale,massive;gentle;deep;mysterious;enormous;majestic;slow;powerful;endangered;migrating
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,city,busy;crowded;modern;noisy;large;vibrant;historic;sprawling;chaotic;urban
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,desert,vast;dry;hot;barren;sandy;endless;harsh;silent;arid;remote
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,forest,dense;green;dark;ancient;lush;mysterious;thick;quiet;wild;vast
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,island,small;tropical;remote;beautiful;isolated;sandy;green;volcanic;deserted;exotic
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,lake,calm;clear;deep;blue;serene;cold;still;large;tranquil;reflective
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,mountain,tall;majestic;rocky;steep;snowy;rugged;high;ancient;imposing;beautiful
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,ocean,vast;deep;blue;powerful;endless;mysterious;turbulent;calm;wild;salty
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,plain,flat;vast;open;barren;grassy;wide;empty;fertile;endless;quiet
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,plateau,high;flat;vast;rugged;elevated;barren;rocky;remote;wide;ancient
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,river,long;winding;calm;rapid;wide;deep;flowing;clear;muddy;powerful
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,valley,deep;green;narrow;fertile;beautiful;secluded;quiet;lush;steep;hidden
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Places,village,small;quiet;rural;peaceful;traditional;remote;friendly;old;quaint;simple
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,cactus,spiky;green;tall;desert;tough;prickly;hardy;small;blooming;resilient
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;long;tender;raw;cooked;bitter;healthy
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;blooming;small;wild;fresh;vibrant
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,grass,green;soft;thick;tall;fresh;wet;dry;lush;short;wild
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,lettuce,green;crisp;fresh;leafy;tender;raw;healthy;light;crunchy;vibrant
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,mushroom,small;brown;white;edible;wild;soft;earthy;fresh;poisonous;tasty
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,onion,strong;pungent;raw;white;yellow;fresh;sliced;sharp;tearful;savory
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,pepper,spicy;red;green;hot;fresh;raw;mild;colorful;crunchy;sweet
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,potato,brown;starchy;raw;cooked;large;small;fresh;peeled;baked;mashed
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;blooming;pink;elegant;romantic;vibrant
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;sweet;raw;cooked;plump;tangy
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Plants,tree,tall;old;green;sturdy;ancient;leafy;bare;strong;thick;majestic
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,ally,trusted;loyal;reliable;supportive;close;helpful;faithful;valuable;strong;dependable
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,brother,loving;protective;close;annoying;supportive;older;younger;caring;loyal;funny
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,enemy,dangerous;bitter;hostile;fierce;cunning;relentless;powerful;hated;formidable;deceptive
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,father,loving;strict;supportive;wise;caring;protective;strong;hardworking;kind;authoritative
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,follower,loyal;dedicated;supportive;eager;faithful;enthusiastic;obedient;trusting;admiring;committed
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,friend,close;loyal;trusted;kind;funny;supportive;reliable;caring;honest;lifelong
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,leader,strong;charismatic;inspiring;decisive;confident;wise;visionary;powerful;respected;determined
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,mother,loving;caring;nurturing;protective;kind;patient;strong;supportive;warm;selfless
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,partner,loving;supportive;trusted;equal;loyal;reliable;caring;understanding;committed;close
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,rival,competitive;challenging;strong;fierce;tough;ambitious;determined;aggressive;formidable;persistent
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,sister,loving;caring;close;supportive;annoying;protective;funny;loyal;kind;understanding
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Social Relationships,stranger,unknown;mysterious;unfamiliar;distant;suspicious;quiet;unexpected;odd;foreign;aloof
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,above,high;elevated;overhead;upper;superior;towering;lofty;dominant;prominent;soaring
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,back,rear;hind;posterior;behind;hidden;last;remote;distant;trailing;supportive
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,below,lower;beneath;underneath;inferior;bottom;submerged;hidden;lesser;underground;downgraded
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,east,eastern;oriental;rising;distant;cultural;ancient;exotic;warm;historical;faraway
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,front,forward;leading;foremost;anterior;primary;visible;prominent;main;initial;facing
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;private;deep;concealed;intimate;central;sheltered
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,left,western;remaining;abandoned;liberal;awkward;opposite;stray;leftover;sidelined;neglected
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,north,cold;upper;polar;distant;remote;chilly;northern;rugged;isolated;harsh
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,outside,external;outer;exterior;public;open;distant;exposed;foreign;peripheral;detached
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,right,correct;proper;eastern;conservative;justified;accurate;fitting;moral;appropriate;suitable
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,south,warm;southern;tropical;lower;sunny;exotic;distant;vibrant;humid;relaxed
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Spatial Concepts,west,western;modern;setting;distant;progressive;open;pioneering;cultural;innovative;expansive
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,century,past;previous;current;ancient;new;modern;long;significant;historic;turning
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,day,sunny;rainy;long;short;busy;lazy;cold;warm;bright;gloomy
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,evening,quiet;cool;peaceful;dark;late;romantic;calm;relaxing;twilight;pleasant
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;rushed;precious;critical;fleeting
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,minute,quick;brief;short;fleeting;last;crucial;exact;precise;rushed;passing
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,month,long;short;busy;quiet;cold;warm;rainy;dry;festive;productive
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,morning,early;fresh;cool;quiet;sunny;busy;bright;foggy;peaceful;crisp
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,night,dark;quiet;long;cold;starry;late;peaceful;restless;silent;mysterious
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,season,warm;cold;wet;dry;festive;harsh;mild;changing;rainy;sunny
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,second,quick;brief;fleeting;short;critical;last;instant;precise;passing;decisive
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,week,busy;long;short;hectic;quiet;productive;stressful;relaxing;eventful;tiring
+grok-3,think-in-native,1.0,TR # Turkish,C2,most frequent,Time Concepts,year,long;short;busy;memorable;successful;challenging;productive;difficult;exciting;transformative
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,anger,intense;fierce;burning;uncontrollable;deep;sudden;suppressed;righteous;bitter;explosive
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,courage,bold;fearless;brave;heroic;daring;unwavering;strong;admirable;inspiring;resolute
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;constant;hidden;genuine;primal;chilling;haunting
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,freedom,absolute;precious;hard-won;liberating;cherished;true;boundless;essential;fragile;empowering
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,happiness,pure;immense;lasting;genuine;radiant;infectious;simple;profound;unexpected;blissful
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,hate,intense;bitter;deep;destructive;blind;fierce;consuming;irrational;relentless;toxic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,honesty,brutal;raw;unwavering;absolute;sincere;refreshing;admirable;rare;essential;courageous
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,justice,fair;impartial;swift;blind;deserved;divine;moral;strict;true;restorative
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;profound;invaluable;practical;ancient;specialized;theoretical;essential;limitless
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,love,unconditional;passionate;enduring;tender;selfless;romantic;eternal;deep;genuine;protective
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,peace,lasting;inner;serene;fragile;hard-earned;calm;universal;quiet;harmonious;precious
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Abstract Concepts,wisdom,profound;timeless;ancient;practical;deep;insightful;invaluable;hard-earned;enlightened;thoughtful
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;resonant;small;golden;antique;melodic;heavy;traditional;ceremonial
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,candle,flickering;scented;tall;thin;white;decorative;warm;delicate;glowing;calming
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,carpet,soft;colorful;thick;expensive;handmade;ornate;worn;plush;traditional;cozy
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;valuable;small;commemorative;golden;ancient;worn;collectible
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ancient;ornate;majestic;symbolic;glittering;regal
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,flag,national;colorful;proud;waving;torn;historic;symbolic;bold;vibrant;iconic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,mask,mysterious;decorative;scary;traditional;painted;eerie;ceremonial;hidden;intricate;theatrical
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,necklace,elegant;delicate;expensive;silver;beaded;long;vintage;sparkling;personal;cherished
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,painting,beautiful;abstract;classic;vivid;detailed;famous;expressive;colorful;inspiring;old
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;simple;elegant;engraved;vintage;precious;wedding;ornamental
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,statue,tall;ancient;bronze;marble;imposing;detailed;iconic;weathered;commemorative;majestic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Cultural Artifacts,vase,delicate;ceramic;antique;ornate;tall;colorful;fragile;elegant;floral;decorative
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;drifting;ominous;light;thick;stormy;scattered
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,earthquake,devastating;powerful;sudden;terrifying;destructive;massive;unexpected;violent;catastrophic;deadly
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,fog,dense;thick;mysterious;cold;enveloping;eerie;heavy;silent;blinding;lingering
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;dangerous;striking;vivid;electric;jagged;intense;spectacular
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,rain,gentle;heavy;cold;refreshing;constant;light;drizzling;torrential;warm;soothing
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,rainbow,vibrant;beautiful;colorful;magical;rare;bright;fleeting;stunning;arched;enchanting
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;fluffy;pristine;falling;thick;powdery;silent
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,storm,violent;fierce;dark;powerful;raging;sudden;dangerous;loud;destructive;intense
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rolling;distant;startling;powerful;ominous;resonant;deafening
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;relentless;incoming;outgoing;powerful;calm;unpredictable;rhythmic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;dangerous;fiery;ancient;majestic;deadly;smoldering
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;gentle;howling;warm;brisk;relentless;gusty;soft;biting
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,apple,red;green;juicy;sweet;crisp;fresh;ripe;tart;shiny;small
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;nutritious;spotted
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,beef,tender;juicy;grilled;rare;lean;savory;fresh;marinated;smoked;hearty
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,bread,fresh;crusty;soft;warm;homemade;white;wholegrain;sliced;toasted;fluffy
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,broccoli,green;fresh;crisp;healthy;steamed;raw;tender;vibrant;nutritious;bitter
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,cheese,creamy;sharp;aged;melted;soft;hard;tangy;rich;yellow;pungent
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,chicken,grilled;roasted;tender;juicy;spicy;fried;lean;savory;fresh;marinated
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;small;soft;hard;organic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,fish,fresh;grilled;raw;oily;white;flaky;smoked;salty;tender;wild
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,pasta,al dente;fresh;creamy;spicy;homemade;long;short;savory;cheesy;soft
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;fragrant;plain;seasoned;long-grain;short-grain
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Food Items,soup,hot;creamy;hearty;spicy;clear;homemade;thick;savory;comforting;light
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,artist,talented;creative;passionate;famous;innovative;eccentric;dedicated;skilled;visionary;inspired
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,athlete,strong;fast;dedicated;competitive;skilled;determined;agile;powerful;disciplined;resilient
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,chef,skilled;creative;passionate;famous;innovative;meticulous;experienced;talented;professional;artistic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,doctor,compassionate;skilled;dedicated;experienced;knowledgeable;caring;professional;trusted;patient;wise
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,engineer,innovative;skilled;brilliant;practical;creative;analytical;experienced;dedicated;technical;resourceful
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,farmer,hardworking;dedicated;rural;skilled;patient;knowledgeable;resilient;traditional;resourceful;tough
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,lawyer,sharp;persuasive;experienced;dedicated;knowledgeable;eloquent;tough;professional;strategic;ethical
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,musician,talented;passionate;skilled;famous;creative;expressive;dedicated;gifted;versatile;inspired
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;knowledgeable;meticulous;pioneering;insightful;experimental
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;dedicated;courageous;resilient;trained;heroic;tough
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,teacher,patient;inspiring;knowledgeable;dedicated;kind;supportive;experienced;wise;encouraging;passionate
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Human Roles,writer,creative;talented;prolific;insightful;expressive;imaginative;skilled;famous;thoughtful;eloquent
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,book,old;thick;new;engaging;classic;worn;fascinating;heavy;inspiring;rare
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,bridge,long;old;sturdy;narrow;high;modern;iconic;wooden;suspended;ancient
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;large;traditional;powerful;resonant;tribal;beaten;deep;energetic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,earth,vast;ancient;rich;fertile;blue;precious;living;fragile;diverse;bountiful
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,flute,delicate;melodic;wooden;silver;small;ancient;clear;soft;haunting;elegant
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,key,old;rusty;small;golden;important;hidden;spare;intricate;vital;antique
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,knife,sharp;small;dangerous;rusty;heavy;kitchen;folding;sleek;deadly;utility
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,lock,secure;old;heavy;rusty;small;broken;strong;intricate;reliable;antique
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,moon,bright;full;pale;crescent;mysterious;distant;glowing;silvery;beautiful;haunting
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,pen,black;blue;elegant;cheap;old;fountain;smooth;leaky;stylish;simple
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,sun,bright;warm;blazing;golden;hot;rising;setting;radiant;powerful;blinding
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;deadly;ornate;legendary;rusty;long;ceremonial;forged
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,cat,fluffy;lazy;curious;independent;playful;sleek;cute;cunning;soft;mysterious
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;energetic;playful;protective;big;small;furry;obedient;loving
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,dolphin,intelligent;friendly;playful;sleek;fast;graceful;social;curious;wild;charming
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,elephant,massive;gentle;strong;gray;wise;majestic;slow;powerful;endangered;ancient
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,hamster,small;cute;furry;active;tiny;playful;shy;soft;cuddly;nocturnal
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,monkey,playful;curious;agile;clever;mischievous;wild;small;energetic;social;funny
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,mouse,small;tiny;shy;quick;gray;sneaky;quiet;timid;delicate;harmless
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;elegant;vibrant;striking;majestic;ornate;showy;exotic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,rabbit,soft;cute;fluffy;fast;timid;small;white;wild;gentle;hopping
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,shark,dangerous;powerful;sleek;deadly;fast;predatory;gray;fearsome;wild;massive
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,snake,venomous;slippery;long;dangerous;silent;cold-blooded;scaly;deadly;stealthy;coiled
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Neutral Animals,whale,massive;gentle;blue;majestic;enormous;deep;powerful;migratory;rare;mysterious
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,city,busy;crowded;modern;noisy;vibrant;large;historic;bustling;urban;dynamic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,desert,vast;arid;hot;empty;sandy;harsh;endless;remote;barren;silent
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,forest,dense;green;ancient;dark;mysterious;lush;quiet;vast;wild;enchanted
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,island,remote;tropical;small;beautiful;isolated;deserted;rocky;lush;exotic;serene
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,lake,calm;clear;deep;blue;serene;cold;still;vast;reflective;peaceful
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,mountain,tall;majestic;snowy;rugged;steep;ancient;imposing;rocky;vast;breathtaking
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,ocean,vast;deep;blue;wild;powerful;endless;mysterious;calm;dangerous;salty
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,plain,vast;flat;open;wide;grassy;barren;endless;quiet;fertile;expansive
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,plateau,high;flat;vast;arid;rocky;remote;elevated;barren;wide;scenic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,river,long;winding;clear;fast;wide;deep;calm;muddy;powerful;serene
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,valley,deep;green;narrow;fertile;quiet;scenic;hidden;lush;peaceful;steep
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Places,village,small;quiet;rural;traditional;charming;remote;friendly;old;peaceful;cozy
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,cactus,spiky;green;tall;desert;tough;prickly;hardy;dry;unique;resilient
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;tender;bitter;oval;nutritious;grilled;soft
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;fresh;small;blooming;lovely;vibrant
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,grass,green;soft;tall;lush;fresh;thick;wet;wild;short;dewy
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,lettuce,fresh;green;crisp;leafy;light;healthy;tender;raw;cool;vibrant
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,mushroom,small;brown;edible;wild;soft;earthy;fresh;poisonous;delicate;unique
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,onion,sharp;pungent;white;yellow;raw;sweet;strong;fresh;sliced;aromatic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,pepper,spicy;hot;red;green;fresh;sweet;bold;fiery;crisp;colorful
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,potato,brown;starchy;fresh;small;large;boiled;fried;mashed;hearty;versatile
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;elegant;romantic;blooming;soft;classic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;sweet;tangy;soft;vibrant;plump
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Plants,tree,tall;old;green;sturdy;ancient;leafy;massive;shady;strong;majestic
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,ally,loyal;trusted;supportive;reliable;close;strong;dependable;faithful;strategic;valuable
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,brother,loving;protective;supportive;close;older;younger;caring;annoying;loyal;funny
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,enemy,fierce;dangerous;bitter;hostile;relentless;cunning;powerful;hated;formidable;deceptive
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,father,loving;strict;supportive;wise;protective;caring;strong;patient;hardworking;guiding
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;eager;supportive;faithful;enthusiastic;obedient;trusting;devoted;admiring
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,friend,close;loyal;trusted;supportive;funny;kind;caring;reliable;honest;lifelong
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,leader,strong;inspiring;charismatic;wise;decisive;confident;visionary;bold;respected;influential
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;protective;strong;gentle;wise;selfless;supportive;warm
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,partner,loyal;supportive;loving;reliable;equal;trusted;close;compatible;understanding;committed
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,rival,tough;competitive;strong;challenging;bitter;determined;fierce;persistent;formidable;intense
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,sister,loving;supportive;close;annoying;caring;protective;funny;loyal;younger;older
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Social Relationships,stranger,mysterious;unfamiliar;distant;suspicious;curious;unknown;random;unexpected;foreign;intriguing
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,above,high;elevated;overhead;superior;lofty;towering;upper;distant;aerial;prominent
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,back,rear;hind;posterior;distant;remote;behind;hidden;secondary;supportive;last
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,below,lower;beneath;underneath;inferior;underground;bottom;submerged;deep;hidden;lesser
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,east,distant;oriental;far;sunrise;ancient;cultural;exotic;warm;mystic;traditional
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,front,leading;forward;first;prominent;main;visible;primary;central;ahead;bold
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;private;deep;secret;confined;sheltered;intimate
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,left,remaining;opposite;western;side;secondary;spare;liberal;progressive;awkward;abandoned
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,north,cold;distant;upper;polar;remote;chilly;wild;harsh;rugged;northern
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,outside,external;outer;exposed;public;open;distant;foreign;wild;peripheral;beyond
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,right,correct;proper;eastern;side;just;accurate;moral;immediate;conservative;fitting
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,south,warm;lower;tropical;distant;sunny;southern;exotic;rural;vibrant;coastal
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Spatial Concepts,west,distant;modern;sunset;far;western;progressive;wild;pioneering;adventurous;open
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,century,past;new;old;long;significant;historic;ancient;modern;turning;memorable
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,day,long;short;busy;bright;cold;warm;rainy;sunny;quiet;memorable
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,evening,quiet;cool;dark;peaceful;late;romantic;calm;relaxing;twilight;pleasant
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;precious;critical;rushed;fleeting
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,minute,quick;short;fleeting;crucial;brief;last;precise;tense;passing;urgent
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;sunny;quiet;important;memorable
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,morning,early;bright;cool;fresh;quiet;calm;peaceful;busy;dewy;new
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,night,dark;long;quiet;cold;late;starry;peaceful;silent;mysterious;deep
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,season,warm;cold;rainy;dry;long;short;favorite;changing;festive;harsh
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,second,quick;brief;fleeting;crucial;short;precise;instant;passing;vital;tense
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;stressful;productive;exciting;uneventful;hectic;relaxing
+grok-3,think-in-native,1.0,TR # Turkish,Perfect,most frequent,Time Concepts,year,long;short;busy;memorable;successful;challenging;eventful;tough;happy;significant

@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,anger,big;bad;hot;strong;hard;red;new;other;same;different
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,courage,big;real;good;strong;new;other;right;same;different;little
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,fear,big;bad;strong;real;dark;new;other;same;different;little
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,freedom,real;big;important;new;good;same;other;right;different;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,happiness,big;real;good;new;strong;other;right;same;different;little
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,hate,big;bad;strong;real;new;other;same;different;little;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,honesty,real;big;good;new;important;other;same;different;little;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,justice,real;big;new;good;important;other;right;same;different;little
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,knowledge,big;good;important;new;other;same;different;little;right;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,love,big;good;real;new;strong;other;right;same;different;little
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,peace,big;good;real;new;important;other;same;different;little;right
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Abstract Concepts,wisdom,big;real;good;new;important;other;same;different;little;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,bell,big;small;new;old;good;other;same;different;metal;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,candle,big;small;new;old;good;other;same;different;white;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,carpet,big;small;new;old;good;red;other;same;different;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,coin,big;small;new;old;gold;other;same;different;metal;silver
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,crown,big;small;new;old;gold;other;same;different;metal;good
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,flag,big;small;new;old;red;other;same;different;good;white
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,mask,big;small;new;old;good;other;same;different;white;black
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,necklace,big;small;new;old;gold;other;same;different;silver;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,painting,big;small;new;old;good;red;other;same;different;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,ring,big;small;new;old;gold;other;same;different;silver;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,statue,big;small;new;old;good;other;same;different;white;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Cultural Artifacts,vase,big;small;new;old;good;other;same;different;nice;white
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,cloud,big;small;white;gray;dark;new;other;same;different;good
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,earthquake,big;small;strong;new;old;other;same;different;bad;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,fog,big;small;white;gray;thick;new;other;same;different;bad
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,lightning,big;strong;new;other;same;different;bright;bad;white;good
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,rain,big;small;hard;new;other;same;different;good;bad;strong
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,rainbow,big;new;other;same;different;good;nice;colored;beautiful;bright
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,snow,big;small;white;new;other;same;different;good;cold;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,storm,big;strong;new;other;same;different;bad;hard;dark;long
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,thunder,big;strong;new;other;same;different;bad;hard;loud;good
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,tide,big;small;high;low;new;other;same;different;good;bad
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,volcano,big;small;new;old;other;same;different;bad;hard;hot
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Environmental Phenomena,wind,big;small;strong;new;other;same;different;good;bad;cold
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,apple,big;small;red;green;new;old;other;same;different;good
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,banana,big;small;yellow;new;old;other;same;different;good;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,beef,big;small;new;old;good;red;other;same;different;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,bread,big;small;new;old;good;white;other;same;different;brown
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,broccoli,big;small;green;new;old;other;same;different;good;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,cheese,big;small;new;old;yellow;good;other;same;different;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,chicken,big;small;new;old;good;white;other;same;different;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,egg,big;small;new;old;white;good;other;same;different;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,fish,big;small;new;old;good;other;same;different;nice;blue
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,pasta,big;small;new;old;good;white;other;same;different;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,rice,big;small;new;old;good;white;other;same;different;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Food Items,soup,big;small;new;old;good;hot;other;same;different;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,artist,big;small;good;new;old;other;same;different;famous;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,athlete,big;small;good;new;old;other;same;different;strong;famous
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,chef,big;small;good;new;old;other;same;different;famous;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,doctor,big;small;good;new;old;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,engineer,big;small;good;new;old;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,farmer,big;small;good;new;old;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,lawyer,big;small;good;new;old;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,musician,big;small;good;new;old;other;same;different;famous;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,scientist,big;small;good;new;old;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,soldier,big;small;good;new;old;other;same;different;strong;brave
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,teacher,big;small;good;new;old;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Human Roles,writer,big;small;good;new;old;other;same;different;famous;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,book,big;small;new;old;good;other;same;different;nice;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,bridge,big;small;new;old;good;other;same;different;long;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,drums,big;small;new;old;good;other;same;different;loud;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,earth,big;new;old;good;other;same;different;nice;round;green
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,flute,big;small;new;old;good;other;same;different;nice;long
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,key,big;small;new;old;good;other;same;different;metal;silver
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,knife,big;small;new;old;good;other;same;different;sharp;silver
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,lock,big;small;new;old;good;other;same;different;metal;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,moon,big;small;new;old;good;other;same;different;white;round
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,pen,big;small;new;old;good;other;same;different;nice;black
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,sun,big;new;old;good;other;same;different;hot;yellow;bright
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Inanimate Objects,sword,big;small;new;old;good;other;same;different;sharp;metal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,cat,big;small;new;old;good;other;same;different;nice;black
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,dog,big;small;new;old;good;other;same;different;nice;black
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,dolphin,big;small;new;old;good;other;same;different;nice;blue
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,elephant,big;new;old;good;other;same;different;gray;strong;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,hamster,big;small;new;old;good;other;same;different;nice;brown
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,monkey,big;small;new;old;good;other;same;different;nice;brown
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,mouse,big;small;new;old;good;other;same;different;brown;gray
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,peacock,big;small;new;old;good;other;same;different;nice;beautiful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,rabbit,big;small;new;old;good;other;same;different;white;brown
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,shark,big;new;old;good;other;same;different;gray;dangerous;bad
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,snake,big;small;new;old;good;other;same;different;green;bad
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Neutral Animals,whale,big;new;old;good;other;same;different;blue;gray;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,city,big;small;new;old;good;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,desert,big;small;new;old;hot;other;same;different;dry;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,forest,big;small;new;old;good;other;same;different;green;dark
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,island,big;small;new;old;good;other;same;different;nice;green
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,lake,big;small;new;old;good;other;same;different;nice;blue
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,mountain,big;small;new;old;high;other;same;different;nice;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,ocean,big;new;old;good;other;same;different;blue;deep;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,plain,big;small;new;old;good;other;same;different;nice;green
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,plateau,big;small;new;old;high;other;same;different;nice;good
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,river,big;small;new;old;long;other;same;different;nice;good
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,valley,big;small;new;old;good;other;same;different;nice;green
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Places,village,big;small;new;old;good;other;same;different;nice;beautiful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,cactus,big;small;new;old;green;other;same;different;hard;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,eggplant,big;small;new;old;good;other;same;different;purple;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,flower,big;small;new;old;good;other;same;different;nice;colored
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,grass,big;small;new;old;good;other;same;different;nice;green
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,lettuce,big;small;new;old;good;other;same;different;nice;green
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,mushroom,big;small;new;old;good;other;same;different;nice;white
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,onion,big;small;new;old;good;other;same;different;nice;white
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,pepper,big;small;new;old;good;other;same;different;nice;red
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,potato,big;small;new;old;good;other;same;different;nice;brown
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,rose,big;small;new;old;good;other;same;different;nice;red
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,tomato,big;small;new;old;good;other;same;different;nice;red
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Plants,tree,big;small;new;old;good;other;same;different;nice;green
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,ally,big;small;new;old;good;other;same;different;strong;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,brother,big;small;new;old;good;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,enemy,big;small;new;old;bad;other;same;different;strong;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,father,big;small;new;old;good;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,follower,big;small;new;old;good;other;same;different;many;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,friend,big;small;new;old;good;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,leader,big;small;new;old;good;other;same;different;strong;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,mother,big;small;new;old;good;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,partner,big;small;new;old;good;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,rival,big;small;new;old;other;same;different;strong;bad;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,sister,big;small;new;old;good;other;same;different;nice;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Social Relationships,stranger,big;small;new;old;other;same;different;nice;bad;good
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,above,new;old;good;other;same;different;big;small;high;low
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,back,new;old;good;other;same;different;big;small;right;left
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,below,new;old;good;other;same;different;big;small;high;low
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,east,new;old;good;other;same;different;big;small;far;near
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,front,new;old;good;other;same;different;big;small;right;left
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,inside,new;old;good;other;same;different;big;small;right;left
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,left,new;old;good;other;same;different;big;small;right;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,north,new;old;good;other;same;different;big;small;far;near
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,outside,new;old;good;other;same;different;big;small;right;left
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,right,new;old;good;other;same;different;big;small;left;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,south,new;old;good;other;same;different;big;small;far;near
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Spatial Concepts,west,new;old;good;other;same;different;big;small;far;near
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,century,new;old;long;good;other;same;different;big;important;right
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,day,new;old;good;other;same;different;big;small;long;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,evening,new;old;good;other;same;different;big;small;long;nice
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,hour,new;old;long;good;other;same;different;big;small;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,minute,new;old;long;good;other;same;different;big;small;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,month,new;old;long;good;other;same;different;big;small;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,morning,new;old;good;other;same;different;big;small;nice;early
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,night,new;old;good;other;same;different;big;small;dark;long
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,season,new;old;good;other;same;different;big;small;nice;long
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,second,new;old;long;good;other;same;different;big;small;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,week,new;old;long;good;other;same;different;big;small;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B1,most frequent,Time Concepts,year,new;old;long;good;other;same;different;big;small;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,anger,big;strong;bad;real;hot;sudden;blind;cold;hard;true
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,courage,great;real;true;strong;brave;good;special;human;moral;pure
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,fear,big;real;strong;bad;dark;great;true;cold;sudden;human
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,freedom,real;true;great;important;new;political;human;personal;economic;basic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,happiness,great;real;true;big;good;simple;pure;deep;small;new
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,hate,big;strong;bad;real;great;true;blind;cold;deep;political
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,honesty,true;real;great;good;important;simple;basic;full;open;clear
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,justice,real;true;great;social;fair;criminal;political;equal;basic;new
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,knowledge,great;good;real;important;scientific;special;general;basic;true;new
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,love,great;true;real;big;strong;deep;pure;good;first;unconditional
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,peace,real;true;great;important;international;new;lasting;world;simple;cold
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Abstract Concepts,wisdom,great;true;real;old;good;simple;human;common;important;deep
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,bell,big;small;loud;new;old;church;school;broken;metal;special
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,candle,white;small;big;new;old;red;long;short;wax;birthday
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,carpet,big;red;new;old;soft;wool;expensive;cheap;Persian;colorful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,coin,old;new;gold;silver;small;big;rare;valuable;metal;fake
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,crown,gold;big;small;new;old;royal;important;silver;beautiful;special
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,flag,big;red;white;blue;new;old;national;small;important;political
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,mask,white;black;new;old;big;small;scary;beautiful;strange;paper
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,necklace,gold;silver;new;old;long;short;beautiful;expensive;cheap;simple
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,painting,big;small;new;old;beautiful;famous;good;abstract;landscape;oil
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,ring,gold;silver;new;old;big;small;diamond;wedding;simple;magic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,statue,big;small;new;old;stone;bronze;famous;beautiful;white;tall
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Cultural Artifacts,vase,big;small;new;old;glass;ceramic;beautiful;flower;white;blue
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,cloud,white;big;dark;small;grey;black;rain;storm;low;high
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,earthquake,big;strong;bad;real;new;sudden;small;local;terrible;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,fog,thick;white;heavy;cold;bad;real;gray;morning;light;dense
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;big;dangerous;loud;real;bad;summer;hot
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,rain,heavy;hard;light;cold;big;new;soft;warm;summer;acid
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,rainbow,beautiful;colorful;bright;new;big;small;full;double;perfect;summer
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,snow,white;heavy;big;new;soft;cold;light;deep;first;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,storm,big;strong;bad;real;new;sudden;winter;rain;thunder;wind
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,thunder,loud;big;strong;real;bad;new;sudden;far;close;deep
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,tide,high;low;big;new;strong;fast;slow;spring;summer;sea
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,volcano,big;active;new;old;dormant;dangerous;hot;ash;small;long
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Environmental Phenomena,wind,strong;cold;hot;big;new;soft;light;north;south;east
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,apple,red;green;big;small;new;sweet;sour;good;bad;fresh
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,banana,yellow;big;small;new;sweet;ripe;green;good;soft;long
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,beef,good;bad;new;old;raw;cooked;grilled;fried;cheap;expensive
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,bread,white;brown;fresh;new;old;big;small;good;hard;soft
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,broccoli,green;fresh;good;raw;cooked;big;small;organic;new;healthy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,cheese,white;yellow;hard;soft;new;old;strong;good;fresh;Swiss
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,chicken,good;bad;new;old;raw;cooked;fried;grilled;cheap;small
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,egg,white;brown;big;small;new;fresh;hard;soft;boiled;fried
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,fish,fresh;new;salt;small;big;dead;good;fried;grilled;cooked
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,pasta,long;short;dry;cooked;new;old;good;Italian;fresh;white
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,rice,white;brown;new;old;long;short;cooked;good;boiled;fried
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Food Items,soup,hot;cold;good;new;old;tomato;chicken;vegetable;fresh;thick
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,artist,good;great;new;young;old;famous;unknown;local;talented;bad
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,athlete,good;great;young;new;famous;professional;talented;strong;Olympic;local
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,chef,good;great;new;famous;young;old;talented;professional;French;Italian
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,doctor,good;new;young;old;famous;family;local;general;special;best
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,engineer,good;new;young;old;civil;electrical;mechanical;software;professional;talented
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,farmer,good;new;young;old;local;small;big;family;organic;modern
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,lawyer,good;new;young;old;famous;important;professional;family;corporate;criminal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,musician,good;new;young;old;famous;talented;professional;local;classic;jazz
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,scientist,good;new;young;old;famous;important;professional;great;social;political
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,soldier,good;new;young;old;brave;strong;professional;American;British;Russian
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,teacher,good;new;young;old;local;school;important;great;primary;high
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Human Roles,writer,good;new;young;old;famous;great;talented;professional;best;local
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,book,new;old;good;big;small;long;short;interesting;important;school
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,bridge,big;long;new;old;stone;wood;metal;famous;important;high
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,drums,loud;big;small;new;old;electric;acoustic;good;bad;broken
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,earth,big;round;flat;new;old;small;good;bad;dry;wet
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,flute,long;silver;new;old;small;big;good;bad;broken;wood
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,key,new;old;small;big;important;gold;silver;broken;spare;house
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,knife,sharp;new;old;small;big;kitchen;good;bad;metal;long
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,lock,new;old;small;big;strong;good;bad;broken;simple;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,moon,big;small;new;full;bright;dark;round;half;silver;yellow
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,pen,new;old;small;big;blue;black;red;good;cheap;expensive
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,sun,big;small;new;old;bright;hot;yellow;good;bad;dangerous
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Inanimate Objects,sword,long;sharp;new;old;small;big;metal;good;bad;broken
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,cat,small;big;black;white;new;old;good;bad;stray;wild
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,dog,big;small;black;white;new;old;good;bad;stray;wild
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,dolphin,big;small;new;old;good;bad;wild;gray;playful;intelligent
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,elephant,big;gray;new;old;good;bad;wild;African;Asian;small
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,hamster,small;new;young;old;good;bad;brown;white;pet;cute
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,monkey,small;big;new;old;good;bad;wild;brown;black;funny
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,mouse,small;new;young;old;good;bad;gray;white;wild;pet
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,peacock,beautiful;big;new;old;good;bad;wild;blue;green;colorful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,rabbit,small;new;young;old;good;bad;white;brown;wild;pet
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,shark,big;dangerous;new;old;good;bad;wild;gray;white;small
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,snake,long;thin;new;old;good;bad;wild;green;brown;dangerous
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Neutral Animals,whale,big;new;old;good;bad;wild;blue;gray;small;long
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,city,big;new;old;important;capital;small;modern;ancient;beautiful;industrial
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,desert,big;hot;dry;new;old;sandy;small;rocky;empty;beautiful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,forest,big;green;new;old;dark;deep;small;dense;beautiful;wild
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,island,big;small;new;old;tropical;desert;beautiful;green;remote;volcanic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,lake,big;small;new;old;deep;blue;clear;fresh;salt;beautiful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,mountain,big;high;new;old;snow;green;small;rocky;beautiful;dangerous
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,ocean,big;deep;blue;new;old;salt;cold;warm;small;pacific
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,plain,big;green;new;old;flat;small;empty;beautiful;fertile;grassy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,plateau,high;flat;new;old;big;small;dry;rocky;desert;grassy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,river,big;long;new;old;small;deep;blue;wide;clear;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,valley,big;green;new;old;small;deep;beautiful;narrow;wide;fertile
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Places,village,small;new;old;quiet;beautiful;peaceful;big;rural;historic;traditional
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,cactus,big;green;new;old;small;spiky;desert;tall;short;prickly
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,eggplant,big;purple;new;old;small;long;round;fresh;cooked;raw
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,flower,beautiful;new;red;white;yellow;small;big;fresh;wild;garden
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,grass,green;long;short;new;old;wet;dry;soft;hard;fresh
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,lettuce,green;new;old;fresh;good;bad;big;small;long;short
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,mushroom,big;small;new;old;good;bad;wild;fresh;cooked;raw
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,onion,white;yellow;red;new;old;small;big;fresh;cooked;raw
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,pepper,red;green;black;new;old;small;big;hot;sweet;fresh
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,potato,big;new;old;small;white;red;yellow;good;cooked;raw
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,rose,red;white;pink;new;old;beautiful;small;big;fresh;long
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,tomato,red;green;new;old;small;big;fresh;cooked;raw;good
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Plants,tree,big;new;old;small;tall;short;green;dry;dead;strong
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,ally,good;new;old;strong;important;political;military;best;loyal;powerful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,brother,big;small;new;old;young;good;bad;best;older;younger
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,enemy,big;strong;new;old;bad;political;personal;best;dangerous;common
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,father,good;new;old;young;best;real;step;adoptive;loving;strong
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,follower,new;old;young;loyal;good;bad;many;few;blind;strong
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,friend,good;new;old;young;best;real;close;true;great;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,leader,good;new;old;strong;important;political;great;young;bad;powerful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,mother,good;new;old;young;best;real;step;adoptive;loving;strong
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,partner,new;old;good;bad;business;life;important;political;strong;equal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,rival,new;old;big;strong;good;bad;important;political;business;personal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,sister,big;small;new;old;young;good;bad;best;older;younger
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Social Relationships,stranger,new;old;young;good;bad;strange;dangerous;friendly;tall;short
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,above,far;high;new;old;good;bad;low;near;level;direct
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,back,new;old;good;bad;small;big;strong;weak;far;near
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,below,far;low;new;old;good;bad;high;near;level;direct
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,east,far;new;old;good;bad;north;south;west;near;middle
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,front,new;old;good;bad;small;big;far;near;important;best
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,inside,new;old;good;bad;small;big;safe;warm;cold;dark
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,left,new;old;good;bad;far;near;right;strong;weak;direct
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,north,far;new;old;good;bad;south;east;west;cold;near
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,outside,new;old;good;bad;small;big;safe;warm;cold;dangerous
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,right,new;old;good;bad;far;near;left;strong;weak;direct
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,south,far;new;old;good;bad;north;east;west;warm;near
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Spatial Concepts,west,far;new;old;good;bad;north;south;east;near;middle
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,century,new;old;big;small;long;short;20th;21st;important;past
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,day,new;old;good;bad;big;small;long;short;sunny;rainy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,evening,new;old;good;bad;long;short;nice;cool;dark;special
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,hour,new;old;good;bad;long;short;late;early;full;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,minute,new;old;good;bad;long;short;late;early;full;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,month,new;old;good;bad;long;short;January;February;March;April
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,morning,new;old;good;bad;long;short;early;late;bright;dark
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,night,new;old;good;bad;long;short;dark;light;late;early
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,season,new;old;good;bad;long;short;summer;winter;spring;fall
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,second,new;old;good;bad;long;short;late;early;full;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,week,new;old;good;bad;long;short;last;next;full;busy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,B2,most frequent,Time Concepts,year,new;old;good;bad;long;short;last;next;full;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,anger,big;strong;real;bad;hot;cold;silent;sudden;slow;inner
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,courage,real;true;big;small;quiet;loud;moral;physical;strong;new
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,fear,big;real;strong;silent;sudden;irrational;deep;common;primal;initial
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,freedom,real;true;basic;new;political;economic;personal;national;religious;limited
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,happiness,true;real;simple;big;new;pure;lasting;great;shared;inner
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,hate,strong;real;big;bad;deep;irrational;blind;pure;silent;cold
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,honesty,true;real;big;small;brutal;complete;partial;basic;simple;rare
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,justice,true;real;social;criminal;economic;equal;fair;blind;international;restorative
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,knowledge,big;deep;wide;basic;new;old;academic;practical;common;scientific
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,love,true;real;big;strong;deep;new;first;pure;unconditional;romantic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,peace,true;real;big;new;lasting;fragile;inner;world;uneasy;negotiated
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Abstract Concepts,wisdom,true;real;great;old;inner;common;collective;ancient;practical;spiritual
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,bell,big;small;old;new;church;school;door;loud;silent;golden
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,candle,big;small;wax;white;colorful;new;old;burning;tall;short
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,carpet,big;small;new;old;red;blue;oriental;persian;thick;thin
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,coin,gold;silver;old;new;small;big;rare;common;valuable;fake
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,crown,gold;silver;royal;new;old;big;small;heavy;ceremonial;important
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,flag,big;small;new;old;national;red;white;blue;colorful;waving
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,mask,big;small;new;old;white;black;colorful;scary;protective;theatrical
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,necklace,gold;silver;long;short;new;old;beautiful;simple;beaded;delicate
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,painting,big;small;new;old;beautiful;colorful;famous;original;abstract;realistic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,ring,gold;silver;big;small;new;old;diamond;wedding;simple;beautiful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,statue,big;small;new;old;bronze;stone;marble;famous;tall;short
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Cultural Artifacts,vase,big;small;new;old;glass;ceramic;flower;beautiful;simple;colorful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,cloud,big;small;white;dark;grey;rain;storm;puffy;high;low
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;major;minor;recent;past;devastating;unexpected
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,fog,thick;thin;heavy;light;dense;white;grey;morning;evening;sea
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;dangerous;strong;powerful;close;distant;forked;sheet;ball
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,rain,big;small;heavy;light;hard;soft;cold;warm;acid;constant
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,rainbow,big;small;bright;colorful;beautiful;double;faint;complete;partial;perfect
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,snow,big;small;heavy;light;white;deep;fresh;falling;wet;dry
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,storm,big;strong;bad;heavy;violent;electrical;rain;wind;severe;passing
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,thunder,loud;strong;distant;close;rolling;booming;sudden;deep;echoing;frightening
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,tide,high;low;big;small;strong;weak;spring;neap;incoming;outgoing
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,volcano,big;small;active;dormant;extinct;dangerous;erupting;volcanic;hot;new
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Environmental Phenomena,wind,big;strong;cold;warm;light;heavy;north;south;east;west
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,apple,red;green;big;small;sweet;sour;fresh;juicy;crisp;ripe
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,banana,yellow;green;big;small;sweet;ripe;unripe;fresh;soft;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,beef,raw;cooked;big;small;tender;tough;lean;ground;roasted;grilled
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,bread,white;brown;wheat;big;small;fresh;stale;soft;hard;toasted
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,broccoli,green;fresh;raw;cooked;steamed;big;small;organic;frozen;healthy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,cheese,white;yellow;hard;soft;strong;mild;cheddar;swiss;fresh;old
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,chicken,raw;cooked;fried;grilled;roasted;big;small;whole;boneless;skinless
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,egg,white;brown;big;small;raw;cooked;boiled;fried;scrambled;poached
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,fish,fresh;salt;big;small;cooked;raw;fried;grilled;white;oily
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,pasta,white;wheat;long;short;big;small;cooked;dry;fresh;filled
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,rice,white;brown;big;small;cooked;raw;long;short;boiled;fried
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Food Items,soup,hot;cold;chicken;vegetable;tomato;big;small;creamy;thick;thin
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,artist,good;bad;famous;young;old;talented;local;modern;abstract;skilled
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,athlete,good;bad;young;old;professional;amateur;strong;fast;skilled;famous
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,chef,good;bad;famous;young;old;head;executive;skilled;talented;experienced
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,doctor,good;bad;young;old;family;general;specialist;skilled;caring;experienced
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,engineer,good;bad;young;old;civil;mechanical;electrical;skilled;experienced;professional
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,farmer,good;bad;young;old;local;small;big;family;organic;traditional
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,lawyer,good;bad;young;old;criminal;civil;corporate;skilled;experienced;professional
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,musician,good;bad;young;old;famous;talented;skilled;professional;local;classical
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,scientist,good;bad;young;old;famous;skilled;talented;experienced;leading;research
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,soldier,good;bad;young;old;brave;strong;skilled;experienced;professional;regular
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,teacher,good;bad;young;old;experienced;skilled;dedicated;patient;strict;new
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Human Roles,writer,good;bad;young;old;famous;talented;skilled;experienced;professional;new
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,book,big;small;new;old;good;bad;interesting;boring;long;short
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,bridge,big;small;new;old;long;short;strong;weak;concrete;wooden
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,drums,big;small;new;old;loud;soft;electronic;acoustic;snare;bass
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,earth,big;small;round;flat;new;old;green;blue;dry;wet
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,flute,big;small;new;old;silver;gold;wooden;loud;soft;sweet
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,key,big;small;new;old;gold;silver;metal;house;car;master
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,knife,big;small;new;old;sharp;dull;kitchen;pocket;hunting;butter
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,lock,big;small;new;old;strong;weak;metal;door;bike;combination
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,moon,big;small;new;old;full;half;bright;dark;round;crescent
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,pen,big;small;new;old;black;blue;red;ballpoint;felt;fountain
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,sun,big;small;new;old;hot;bright;yellow;warm;rising;setting
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Inanimate Objects,sword,big;small;new;old;sharp;long;short;steel;iron;double-edged
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,cat,big;small;black;white;grey;young;old;fat;thin;cute
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;playful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,dolphin,big;small;grey;intelligent;playful;young;old;wild;captive;trained
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,elephant,big;grey;african;indian;young;old;wild;captive;strong;gentle
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,hamster,small;brown;white;young;old;cute;fluffy;pet;fast;active
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,monkey,big;small;brown;black;young;old;wild;captive;playful;intelligent
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,mouse,small;grey;white;young;old;wild;domestic;fast;quiet;sneaky
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,peacock,big;colorful;beautiful;young;old;proud;fancy;male;indian;wild
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,rabbit,big;small;white;brown;young;old;wild;domestic;fluffy;cute
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,shark,big;small;grey;white;dangerous;predatory;young;old;wild;marine
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,snake,big;small;long;short;green;brown;dangerous;venomous;young;old
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Neutral Animals,whale,big;blue;grey;humpback;orca;young;old;marine;endangered;migratory
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,city,big;small;new;old;modern;ancient;capital;coastal;industrial;crowded
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,desert,big;small;hot;cold;sandy;rocky;dry;arid;empty;vast
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,forest,big;small;new;old;green;dense;dark;deep;wild;national
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,island,big;small;tropical;deserted;volcanic;caribbean;greek;pacific;populated;rocky
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,lake,big;small;deep;shallow;blue;clear;fresh;salt;frozen;scenic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,mountain,big;small;high;low;green;rocky;snow;old;new;active
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,ocean,big;small;deep;blue;cold;warm;salty;pacific;atlantic;arctic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,plain,big;small;flat;open;grassy;empty;vast;fertile;agricultural;coastal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,plateau,big;small;high;flat;dry;rocky;arid;vast;remote;isolated
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,river,big;small;long;short;deep;shallow;fast;slow;wide;narrow
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,valley,big;small;green;deep;wide;narrow;fertile;hidden;scenic;peaceful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Places,village,big;small;new;old;rural;quiet;peaceful;traditional;charming;remote
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,cactus,big;small;green;spiky;desert;tall;short;flowering;prickly;thorny
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,eggplant,big;small;purple;white;fresh;cooked;grilled;fried;roasted;stuffed
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,flower,big;small;red;white;yellow;beautiful;fragrant;fresh;blooming;colorful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,grass,big;small;green;long;short;dry;wet;fresh;artificial;lawn
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,lettuce,green;red;fresh;crisp;loose-leaf;romaine;iceberg;big;small;organic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,mushroom,big;small;white;brown;fresh;wild;cultivated;edible;poisonous;grilled
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,onion,big;small;white;yellow;red;fresh;cooked;raw;sweet;strong
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,pepper,big;small;red;green;yellow;black;hot;sweet;spicy;bell
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,potato,big;small;white;red;yellow;fresh;cooked;baked;fried;mashed
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,rose,big;small;red;white;pink;yellow;beautiful;fragrant;fresh;thorny
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,tomato,big;small;red;green;fresh;cooked;raw;ripe;juicy;organic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Plants,tree,big;small;new;old;green;tall;short;strong;weak;deciduous
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,ally,good;bad;strong;weak;true;false;reliable;important;close;distant
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,brother,big;small;young;old;older;younger;half;step;blood;close
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,enemy,big;small;strong;weak;old;new;mortal;bitter;political;personal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,father,big;small;young;old;good;bad;biological;step;foster;adoptive
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,follower,big;small;loyal;true;blind;devoted;religious;political;social;active
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,friend,big;small;good;bad;true;old;new;best;close;childhood
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,leader,big;small;good;bad;strong;weak;political;religious;military;elected
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,mother,big;small;young;old;good;bad;biological;step;foster;adoptive
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,partner,big;small;good;bad;business;romantic;life;equal;silent;senior
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,rival,big;small;strong;weak;old;new;bitter;main;fierce;sporting
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,sister,big;small;young;old;older;younger;half;step;blood;close
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Social Relationships,stranger,big;small;young;old;good;bad;friendly;dangerous;complete;casual
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,above,far;near;high;low;directly;clearly;slightly;immediately;just;right
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,back,big;small;right;left;upper;lower;strong;weak;sore;straight
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,below,far;near;high;low;directly;clearly;slightly;immediately;just;right
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,east,far;near;middle;wild;central;right;deep;west
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,front,big;small;right;left;upper;lower;strong;weak;new;straight
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,inside,big;small;right;left;upper;lower;strong;weak;dry;warm
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,left,right;far;near;upper;lower;strong;weak;hard;soft;main
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,north,far;near;middle;wild;central;right;deep;west
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,outside,big;small;right;left;upper;lower;strong;weak;dry;cold
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,right,left;far;near;upper;lower;strong;weak;hard;soft;main
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,south,far;near;middle;wild;central;right;deep;west
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Spatial Concepts,west,far;near;middle;wild;central;right;deep;east
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,century,big;small;new;old;20th;21st;19th;18th;past;future
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,day,big;small;new;old;good;bad;long;short;sunny;rainy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,evening,big;small;new;old;good;bad;long;short;warm;cold
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,hour,big;small;new;old;good;bad;long;short;busy;free
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,minute,big;small;new;old;good;bad;long;short;busy;free
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,month,big;small;new;old;good;bad;long;short;first;last
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,morning,big;small;new;old;good;bad;long;short;early;late
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,night,big;small;new;old;good;bad;long;short;dark;light
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,season,big;small;new;old;good;bad;long;short;summer;winter
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,second,big;small;new;old;good;bad;long;short;first;last
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,week,big;small;new;old;good;bad;long;short;first;last
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C1,most frequent,Time Concepts,year,big;small;new;old;good;bad;long;short;first;last
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,anger,great;deep;uncontrollable;burning;sudden;righteous;silent;cold;growing;simmering
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,courage,great;true;quiet;moral;amazing;blind;fierce;unexpected;unfailing;personal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,fear,great;deep;real;irrational;consuming;sudden;paralyzing;common;unfounded;primal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,freedom,true;real;basic;political;economic;personal;limited;hard-won;national;religious
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,happiness,great;true;real;simple;pure;contagious;lasting;unexpected;complete;fleeting
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,hate,great;deep;intense;blind;irrational;consuming;abiding;visceral;underlying;mutual
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,honesty,true;complete;brutal;simple;refreshing;personal;underlying;professional;demonstrated;unwavering
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,justice,true;social;economic;restorative;criminal;delayed;fair;equal;blind;impartial
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,knowledge,great;deep;practical;academic;common;limited;useful;expert;scientific;theoretical
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,love,great;true;deep;unconditional;blind;pure;romantic;first;lasting;selfless
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,peace,true;lasting;uneasy;fragile;global;regional;internal;personal;hard-won;temporary
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Abstract Concepts,wisdom,great;true;practical;ancient;inner;acquired;collective;conventional;spiritual;human
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,bell,loud;small;church;school;brass;bronze;hand;ringing;distant;clear
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,candle,small;tall;white;red;burning;scented;wax;dripping;flickering;votive
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,carpet,big;old;red;oriental;Persian;wool;thick;thin;patterned;rolled
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,coin,small;gold;silver;old;foreign;lucky;rare;valuable;shiny;ancient
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,crown,gold;silver;jeweled;royal;ceremonial;ancient;heavy;shining;simple;ornate
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,flag,national;red;white;blue;waving;tattered;torn;burning;historical;official
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,mask,white;black;plastic;paper;scary;painted;elaborate;simple;theatrical;surgical
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;beaded;long;short;simple;expensive;broken;antique
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,painting,old;new;beautiful;framed;abstract;landscape;portrait;watercolor;oil;famous
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;simple;expensive;cheap;engagement;antique;signet
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,statue,big;small;marble;bronze;stone;famous;ancient;tall;broken;religious
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Cultural Artifacts,vase,glass;ceramic;tall;small;blue;white;empty;full;beautiful;antique
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,cloud,white;dark;grey;big;small;fluffy;rain;thunder;passing;gathering
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,earthquake,big;strong;devastating;major;recent;minor;unexpected;sudden;powerful;local
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,fog,thick;dense;heavy;white;morning;early;ground;sea;lifting;creeping
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;distant;close;dangerous;spectacular;silent;summer;intense
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;cold;warm;constant;sudden;gentle;persistent
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,rainbow,bright;beautiful;double;faint;full;partial;distant;clear;vibrant;magical
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,snow,heavy;light;white;soft;falling;drifting;deep;fresh;wet;melting
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,storm,big;bad;strong;heavy;thunder;rain;wind;coming;passing;local
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,thunder,loud;deep;distant;rolling;crashing;echoing;sudden;close;heavy;continuous
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,tide,high;low;spring;neap;incoming;outgoing;strong;weak;rising;falling
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;large;small;volcanic;erupting;nearby;dangerous;famous
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;gusty;howling;blowing;prevailing;easterly
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,apple,red;green;ripe;sweet;juicy;crisp;fresh;small;big;organic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;peeled;fresh;big;small;organic;brown
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,beef,raw;cooked;lean;tender;tough;ground;prime;aged;fresh;frozen
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,bread,white;brown;fresh;stale;sliced;whole;toasted;hard;soft;moldy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,broccoli,fresh;green;cooked;steamed;raw;organic;chopped;frozen;healthy;boiled
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,cheese,hard;soft;white;yellow;strong;mild;fresh;aged;imported;local
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,chicken,raw;cooked;fried;roasted;grilled;fresh;frozen;whole;boneless;skinless
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,egg,white;brown;fresh;boiled;fried;scrambled;raw;cracked;broken;whole
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,fish,fresh;salt;sea;raw;cooked;fried;grilled;small;big;whole
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,pasta,dry;cooked;long;short;white;whole;fresh;Italian;stuffed;boiled
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,rice,white;brown;cooked;boiled;fried;long;short;sticky;plain;flavored
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Food Items,soup,hot;cold;thick;thin;vegetable;chicken;tomato;creamy;homemade;canned
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,artist,young;old;famous;talented;unknown;local;struggling;successful;modern;classical
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,athlete,young;old;professional;amateur;talented;famous;local;injured;successful;dedicated
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,chef,famous;head;executive;talented;young;old;local;celebrity;sous;experienced
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,doctor,young;old;good;bad;local;family;general;specialist;experienced;resident
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,engineer,young;old;civil;mechanical;electrical;software;experienced;chief;design;structural
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,farmer,young;old;local;small;big;family;organic;traditional;modern;successful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,lawyer,young;old;good;bad;corporate;criminal;family;experienced;successful;local
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,musician,young;old;famous;talented;local;classical;jazz;rock;experienced;struggling
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,scientist,young;old;famous;leading;research;local;experienced;brilliant;respected;unknown
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,soldier,young;old;brave;experienced;injured;dead;active;reserve;conscripted;veteran
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,teacher,young;old;good;bad;local;experienced;new;dedicated;strict;popular
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Human Roles,writer,young;old;famous;good;bad;local;struggling;successful;published;unknown
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,book,old;new;good;bad;long;short;hard;soft;interesting;boring
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,bridge,old;new;big;small;wooden;stone;steel;long;short;covered
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,drums,loud;big;small;old;new;electronic;acoustic;bass;snare;marching
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,earth,round;flat;green;blue;dry;wet;hot;cold;fertile;barren
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,flute,silver;wooden;small;big;long;short;old;new;simple;expensive
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,key,small;big;old;new;metal;silver;gold;house;car;spare
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,knife,sharp;dull;big;small;kitchen;pocket;hunting;butter;steak;serrated
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,lock,small;big;strong;weak;new;old;broken;secure;simple;combination
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,moon,full;new;half;bright;dark;big;small;rising;setting;crescent
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,pen,blue;black;red;ballpoint;fountain;new;old;cheap;expensive;broken
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,sun,bright;hot;warm;big;small;rising;setting;summer;winter;afternoon
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Inanimate Objects,sword,long;sharp;old;new;steel;silver;gold;heavy;light;ceremonial
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,cat,small;big;black;white;grey;young;old;stray;domestic;fluffy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;stray;domestic;friendly
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,dolphin,grey;small;big;wild;friendly;intelligent;playful;baby;bottlenose;common
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,elephant,big;grey;wild;African;Indian;young;old;baby;large;small
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,hamster,small;cute;brown;white;fluffy;young;old;pet;golden;dwarf
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,monkey,small;big;brown;black;wild;young;old;playful;intelligent;noisy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,mouse,small;grey;brown;white;wild;domestic;young;old;field;house
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,peacock,colorful;beautiful;big;small;male;female;young;old;proud;iridescent
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,rabbit,small;white;brown;black;young;old;wild;domestic;fluffy;cute
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,shark,big;small;grey;white;dangerous;great;hammerhead;tiger;baby;basking
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,snake,long;small;green;brown;black;venomous;non-venomous;wild;pet;garden
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Neutral Animals,whale,big;blue;humpback;grey;killer;small;young;old;migrating;endangered
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,city,big;small;old;new;modern;industrial;historical;capital;coastal;major
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,desert,hot;dry;sandy;large;small;barren;arid;rocky;vast;empty
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,forest,big;green;thick;dense;old;new;dark;deep;pine;tropical
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,island,small;big;tropical;deserted;inhabited;volcanic;remote;beautiful;green;rocky
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,lake,big;small;deep;shallow;blue;clear;frozen;fresh;salt;calm
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,mountain,big;tall;high;snow;green;rocky;old;young;volcanic;distant
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,ocean,big;blue;deep;vast;cold;warm;salty;turbulent;calm;pacific
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,plain,flat;green;open;wide;large;small;empty;barren;fertile;grassy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,plateau,high;flat;large;small;rocky;grassy;barren;arid;dry;windy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,river,long;wide;deep;shallow;fast;slow;clean;dirty;muddy;clear
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,valley,green;deep;wide;narrow;long;short;fertile;rocky;mountain;hidden
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Places,village,small;quiet;old;new;rural;peaceful;traditional;remote;friendly;farming
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,cactus,tall;small;green;prickly;desert;thorny;flowering;young;old;large
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,eggplant,purple;large;small;ripe;raw;cooked;fried;grilled;fresh;organic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,flower,red;white;yellow;beautiful;small;big;wild;garden;fresh;blooming
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,grass,green;long;short;wet;dry;tall;thick;thin;wild;cut
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,lettuce,green;fresh;crisp;raw;small;big;loose;head;organic;washed
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,mushroom,small;big;brown;white;wild;edible;poisonous;fresh;dried;cooked
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,onion,white;yellow;red;small;big;raw;cooked;sweet;strong;sliced
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,pepper,red;green;black;hot;sweet;small;big;ground;whole;fresh
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,potato,white;red;yellow;small;big;raw;cooked;fried;mashed;baked
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,rose,red;white;pink;beautiful;fragrant;thorny;blooming;long;short;fresh
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,tomato,red;green;ripe;small;big;raw;cooked;fresh;canned;sliced
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Plants,tree,tall;big;old;green;deciduous;evergreen;strong;weak;fruit;bare
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,ally,strong;close;reliable;important;political;military;strategic;powerful;key;unwavering
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,brother,older;younger;big;little;close;dear;half;step;blood;adopted
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,enemy,strong;bitter;sworn;dangerous;powerful;personal;political;ideological;common;mortal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,father,older;younger;good;bad;step;adoptive;strict;loving;dear;biological
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,follower,loyal;faithful;ardent;devoted;new;old;online;social;active;passive
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,friend,good;close;dear;best;old;new;true;loyal;childhood;casual
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,leader,strong;good;great;new;old;political;charismatic;effective;powerful;inspirational
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,mother,young;old;good;bad;step;adoptive;strict;loving;dear;biological
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,partner,business;legal;life;working;equal;senior;junior;silent;active;trusted
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,rival,strong;fierce;bitter;main;political;sporting;business;worthy;old;new
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,sister,older;younger;big;little;close;dear;half;step;blood;adopted
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Social Relationships,stranger,strange;unknown;mysterious;foreign;suspicious;friendly;helpful;dangerous;cautious;wary
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,above,high;far;distant;clear;directly;slightly;well;just;barely;always
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,back,far;long;sore;strong;straight;aching;injured;lower;upper;broad
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,below,far;deep;sea;ground;freezing;slightly;just;barely;always;immediately
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,east,far;middle;near;south;north;central;wild;new;old
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,front,far;near;middle;new;old;right;left;main;direct;immediate
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,inside,dark;warm;cold;dry;wet;quiet;noisy;safe;dangerous;clean
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,left,far;near;right;front;back;extreme;hard;soft;always;often
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,north,far;east;west;cold;remote;rural;industrial;extreme;deep;always
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,outside,cold;warm;dry;wet;noisy;quiet;safe;dangerous;bright;dark
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,right,far;near;left;front;back;extreme;hard;soft;always;often
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,south,far;east;west;warm;rural;new;old;deep;lower;always
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Spatial Concepts,west,far;near;east;south;north;wild;old;new;central;always
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,century,21st;20th;past;present;new;old;long;short;last;first
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,day,good;bad;long;short;hot;cold;sunny;rainy;new;old
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,evening,good;quiet;warm;cool;long;short;dark;early;late;beautiful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,hour,long;short;early;late;happy;busy;free;quiet;last;first
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,minute,long;short;last;first;free;spare;busy;quiet;tense;crucial
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,month,long;short;last;first;next;past;summer;winter;spring;autumn
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,morning,good;quiet;busy;early;late;long;short;sunny;dark;beautiful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,night,good;long;short;dark;quiet;warm;cold;early;late;sleepless
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,season,long;short;summer;winter;spring;autumn;dry;rainy;warm;cold
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,second,long;short;last;first;split;spare;busy;quiet;crucial;fleeting
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,week,long;short;last;next;past;coming;busy;free;quiet;good
+gemini-2.0-flash,basic,1.0,HE # Hebrew,C2,most frequent,Time Concepts,year,good;bad;long;short;new;old;last;next;past;coming
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,anger,great;much;deep;hot;bad;sudden;cold;real;slow;uncontrolled
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,courage,great;real;true;moral;physical;quiet;bold;sudden;cool;personal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,fear,great;big;real;true;cold;deep;dark;sudden;quiet;irrational
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,freedom,real;true;great;much;basic;personal;important;limited;political;economic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,happiness,great;real;true;simple;pure;childish;quiet;complete;total;shared
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,hate,great;real;true;much;deep;strong;personal;irrational;blind;pure
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,honesty,real;true;great;simple;total;complete;brutal;refreshing;earned;professional
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,justice,real;true;great;fair;blind;social;economic;environmental;restorative;criminal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,knowledge,great;much;true;deep;broad;specialized;common;practical;theoretical;tacit
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,love,great;real;true;deep;first;lost;pure;unconditional;lasting;parental
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,peace,great;real;true;quiet;lasting;inner;outer;fragile;uneasy;global
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Abstract Concepts,wisdom,great;true;real;deep;old;practical;spiritual;inherited;acquired;traditional
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,bell,big;small;loud;clear;church;school;warning;silver;bronze;hand
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,candle,white;tall;short;thick;thin;wax;burning;scented;colorful;decorative
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,carpet,red;blue;green;thick;thin;wool;Persian;oriental;expensive;rolled
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,coin,gold;silver;bronze;old;new;rare;foreign;valuable;lucky;ancient
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,crown,gold;silver;royal;jeweled;heavy;ornate;simple;ceremonial;symbolic;ancient
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,flag,red;white;blue;national;state;waving;flying;tattered;historical;international
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,mask,white;black;red;scary;funny;medical;theatrical;protective;elaborate;simple
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;long;short;beaded;delicate;expensive;costume
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,painting,big;small;oil;watercolor;abstract;realistic;beautiful;famous;modern;old
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;signet;precious;simple;ornate;costume
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,statue,big;small;bronze;marble;stone;ancient;modern;famous;religious;commemorative
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Cultural Artifacts,vase,tall;short;glass;ceramic;porcelain;flower;antique;simple;ornate;colorful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,cloud,white;gray;dark;big;small;fluffy;rain;storm;passing;looming
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,earthquake,big;strong;powerful;major;minor;devastating;recent;unexpected;sudden;aftershock
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;heavy;white;gray;morning;pea-soup;ground;lifting;coastal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;sheet;dangerous;close;distant;intense;atmospheric;electrical
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;steady;cold;warm;summer;spring;acid
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;full;partial;faint;vibrant;beautiful;fleeting;sky
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,snow,white;heavy;light;fresh;falling;deep;packed;drifting;melting;first
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,storm,big;strong;severe;winter;summer;electrical;rain;wind;approaching;passing
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;rolling;distant;close;heavy;crashing;echoing;ominous;atmospheric
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,tide,high;low;spring;neap;incoming;outgoing;strong;weak;rising;falling
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;small;erupting;volcanic;dangerous;ash-covered;mountain
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;dry;wet;gusty;gentle;prevailing;howling
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,apple,red;green;yellow;big;small;sweet;sour;crisp;juicy;delicious
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,banana,yellow;ripe;green;sweet;long;short;Cavendish;organic;imported;fresh
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,beef,raw;cooked;tender;tough;lean;ground;prime;roasted;grilled;aged
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,bread,white;brown;whole;wheat;fresh;stale;hard;soft;toasted;crusty
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,broccoli,green;fresh;cooked;raw;steamed;organic;healthy;frozen;chopped;florets
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,cheese,hard;soft;sharp;mild;aged;cheddar;Swiss;blue;fresh;processed
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,chicken,raw;cooked;fried;grilled;roasted;boneless;skinless;organic;free-range;whole
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,egg,white;brown;raw;cooked;fried;boiled;scrambled;organic;free-range;fresh
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,fish,fresh;salt;water;white;oily;fried;grilled;raw;cooked;smoked
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,pasta,white;wheat;dry;cooked;long;short;Italian;fresh;stuffed;boiled
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,rice,white;brown;long-grain;short-grain;cooked;boiled;fried;basmati;jasmine;sticky
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Food Items,soup,hot;cold;thick;thin;chicken;vegetable;tomato;creamy;hearty;homemade
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,artist,famous;talented;young;old;local;unknown;modern;contemporary;abstract;classical
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,athlete,young;old;professional;amateur;talented;strong;fast;skilled;injured;dedicated
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,chef,famous;talented;experienced;head;sous;pastry;local;celebrity;Michelin-starred;professional
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,doctor,young;old;good;family;medical;specialist;experienced;qualified;caring;dedicated
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;experienced;qualified;professional;structural;chemical;aerospace
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,farmer,young;old;local;organic;small;big;family;hard-working;independent;dairy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,lawyer,good;bad;corporate;criminal;experienced;qualified;successful;defending;prosecuting;young
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,musician,talented;young;old;professional;amateur;famous;classical;jazz;rock;local
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,scientist,young;old;famous;talented;experienced;research;leading;brilliant;dedicated;theoretical
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,soldier,young;brave;experienced;trained;active;veteran;injured;fallen;loyal;disciplined
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,teacher,young;old;good;experienced;qualified;dedicated;patient;strict;caring;favorite
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Human Roles,writer,young;old;famous;unknown;talented;good;published;aspiring;struggling;prolific
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,book,big;small;new;old;good;interesting;boring;fiction;non-fiction;hard
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,bridge,big;small;long;short;high;low;old;new;stone;steel
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,drums,big;small;loud;soft;acoustic;electronic;percussion;marching;snare;bass
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,earth,round;flat;old;new;green;blue;third;fragile;spinning;fertile
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,flute,silver;gold;wooden;metal;long;short;high;low;concert;simple
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,key,big;small;metal;gold;silver;important;lost;spare;master;front
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,knife,sharp;dull;big;small;kitchen;pocket;hunting;butter;steak;paring
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,lock,big;small;strong;weak;old;new;combination;key;electronic;front
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,moon,full;new;bright;dark;silver;crescent;waxing;waning;distant;Earth's
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,pen,black;blue;red;ballpoint;fountain;cheap;expensive;working;broken;new
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,sun,bright;hot;warm;rising;setting;yellow;distant;burning;life-giving;powerful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Inanimate Objects,sword,long;short;sharp;dull;steel;silver;gold;old;new;ancient
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,cat,black;white;small;big;fluffy;stray;house;wild;cute;lazy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;brown;stray;house;wild;cute;friendly
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,dolphin,gray;playful;intelligent;wild;trained;marine;bottlenose;common;striped;captive
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,elephant,big;gray;African;Indian;wild;trained;old;young;endangered;heavy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,hamster,small;cute;brown;white;fluffy;pet;golden;Syrian;dwarf;caged
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,monkey,small;big;brown;black;playful;intelligent;wild;trained;cute;social
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;house;wild;cute;squeaky;scared;laboratory;common
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;male;Indian;blue;green;iridescent;exotic;impressive
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,rabbit,small;white;brown;wild;pet;cute;fluffy;long-eared;domestic;cottontail
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,shark,big;dangerous;great;white;hammerhead;tiger;bull;oceanic;predatory;marine
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,snake,long;short;green;brown;black;venomous;poisonous;constrictor;grass;garden
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Neutral Animals,whale,big;blue;gray;humpback;orca;marine;endangered;migrating;singing;majestic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,city,big;small;old;new;modern;historical;capital;coastal;industrial;bustling
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,desert,hot;dry;sandy;barren;vast;arid;rocky;empty;silent;isolated
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,forest,big;green;dense;thick;old;new;dark;silent;mysterious;enchanted
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,island,big;small;tropical;deserted;volcanic;remote;beautiful;rocky;inhabited;uninhabited
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,lake,big;small;deep;shallow;clear;blue;fresh;salt;frozen;beautiful
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,mountain,big;high;tall;rocky;snow-capped;green;old;new;volcanic;majestic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,ocean,big;deep;blue;vast;salty;cold;warm;stormy;calm;endless
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,plain,flat;wide;open;grassy;empty;vast;rolling;agricultural;fertile;treeless
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,plateau,high;flat;large;arid;rocky;windswept;elevated;remote;isolated;barren
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,river,long;short;big;small;deep;shallow;wide;narrow;flowing;muddy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,valley,green;wide;narrow;deep;shallow;fertile;beautiful;scenic;mountain;river
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Places,village,small;quiet;old;rural;traditional;peaceful;charming;historic;isolated;friendly
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,cactus,tall;short;green;spiky;desert;thorny;flowering;prickly;succulent;water-storing
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,eggplant,purple;big;small;long;round;fresh;cooked;grilled;fried;stuffed
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,flower,red;white;yellow;beautiful;fragrant;colorful;wild;garden;fresh;blooming
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,grass,green;long;short;wet;dry;fresh;cut;wild;artificial;lawn
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,lettuce,green;fresh;crisp;leafy;iceberg;romaine;butter;salad;organic;hydroponic
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,mushroom,big;small;brown;white;wild;cultivated;poisonous;edible;fresh;dried
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,onion,white;yellow;red;big;small;raw;cooked;fried;chopped;sliced
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,pepper,red;green;black;hot;sweet;spicy;bell;chili;ground;whole
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,potato,white;red;brown;big;small;raw;cooked;fried;mashed;baked
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fragrant;thorny;blooming;fresh;dried
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,tomato,red;green;ripe;fresh;canned;sliced;diced;cooked;juicy;plum
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Plants,tree,tall;short;green;old;young;big;small;leafy;bare;strong
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,ally,strong;loyal;close;trusted;important;key;political;military;natural;potential
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,brother,big;small;older;younger;half;step;foster;dear;close;protective
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,enemy,big;small;old;new;dangerous;powerful;bitter;sworn;political;personal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,father,old;young;biological;step;foster;adoptive;loving;strict;protective;dear
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,follower,loyal;devoted;blind;new;old;active;passive;political;religious;social
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,friend,good;best;close;old;new;loyal;trusted;dear;true;childhood
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,leader,strong;good;bad;political;military;religious;charismatic;elected;appointed;effective
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,mother,young;old;biological;step;foster;adoptive;loving;strict;protective;dear
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,partner,business;life;legal;romantic;close;trusted;important;key;potential;equal
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,rival,fierce;strong;close;main;political;business;personal;friendly;potential;sporting
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,sister,big;small;older;younger;half;step;foster;dear;close;protective
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Social Relationships,stranger,total;complete;perfect;friendly;suspicious;dangerous;helpful;kind;unknown;innocent
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,above,far;high;directly;just;slightly;well;much;always;usually;immediately
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,back,far;long;straight;good;strong;hard;soft;sore;lower;upper
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,below,far;down;just;slightly;sea-level;freezing;zero;average;par;acceptable
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,east,far;middle;wild;near;north;south;southeast;northeast;eastern;central
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,front,far;near;long;short;right;left;main;new;open;busy
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,inside,far;right;left;deep;inner;personal;private;closed;safe;warm
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,left,far;right;hard;soft;new;much;little;always;often;usually
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,north,far;wild;frozen;near;south;northeast;northwest;polar;magnetic;central
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,outside,far;dry;wet;cold;warm;safe;dangerous;public;open;quiet
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,right,far;left;correct;wrong;legal;human;always;new;civil;moral
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,south,far;near;hot;warm;north;southeast;southwest;southern;central;developed
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Spatial Concepts,west,far;wild;old;near;east;southwest;northwest;western;mid-;central
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,century,21st;20th;long;short;past;present;future;new;old;modern
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,day,long;short;good;bad;sunny;rainy;busy;free;working;special
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,evening,long;short;warm;cool;quiet;busy;good;pleasant;summer;winter
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,hour,long;short;early;late;working;free;busy;quiet;golden;last
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,minute,long;short;free;busy;waiting;extra;last;final;golden;ticking
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,month,long;short;first;last;next;previous;summer;winter;early;late
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,morning,good;early;late;sunny;foggy;cold;busy;quiet;working;free
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,night,long;short;dark;bright;quiet;busy;good;bad;cold;warm
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,season,long;short;summer;winter;spring;autumn;rainy;dry;tourist;open
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,second,long;short;fast;slow;extra;last;final;split;fleeting;remaining
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,week,long;short;busy;free;last;next;working;school;holiday;first
+gemini-2.0-flash,basic,1.0,HE # Hebrew,Perfect,most frequent,Time Concepts,year,long;short;good;bad;new;old;last;next;school;leap

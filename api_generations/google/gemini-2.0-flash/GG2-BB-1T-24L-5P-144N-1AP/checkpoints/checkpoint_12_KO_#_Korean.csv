@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,anger,big;hot;bad;strong;real;much;little;long;new;sudden
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,courage,great;much;big;true;strong;little;good;more;new;real
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,fear,big;much;strong;little;real;great;more;sudden;new;bad
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,freedom,much;big;new;real;good;more;little;great;true;political
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,happiness,much;big;true;real;great;little;good;more;new;simple
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,hate,big;strong;much;real;true;more;little;bad;new;sudden
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,honesty,much;great;true;good;real;more;new;little;big;political
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,justice,much;true;great;real;good;more;new;little;big;political
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,knowledge,much;good;great;more;big;new;little;real;true;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,love,much;great;big;true;real;good;more;little;new;first
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,peace,much;great;new;real;good;more;little;big;true;long
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Abstract Concepts,wisdom,much;great;true;good;more;new;real;little;big;old
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,bell,big;small;new;old;good;loud;metal;church;school;broken
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,candle,new;small;big;white;red;good;long;short;wax;yellow
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,carpet,big;new;old;red;small;good;long;nice;cheap;clean
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,coin,new;old;gold;silver;small;big;good;many;round;cheap
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,crown,gold;big;new;old;good;real;important;small;nice;heavy
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,flag,big;new;small;red;white;blue;old;good;national;long
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,mask,new;big;small;white;black;good;red;old;strange;party
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,necklace,gold;silver;new;good;long;small;big;nice;pretty;cheap
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,painting,new;old;big;small;good;nice;pretty;red;blue;white
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,ring,gold;silver;new;old;good;big;small;nice;pretty;diamond
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,statue,big;new;old;small;good;white;stone;metal;tall;pretty
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Cultural Artifacts,vase,new;old;big;small;good;nice;glass;pretty;flower;red
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,cloud,big;white;black;grey;small;new;low;dark;many;rain
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,earthquake,big;strong;bad;new;real;small;sudden;many;long;terrible
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,fog,big;thick;new;heavy;cold;white;grey;much;real;bad
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,lightning,big;strong;bright;new;sudden;dangerous;much;loud;terrible;fast
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,rain,big;heavy;new;small;cold;much;long;light;bad;good
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,rainbow,big;nice;pretty;colorful;good;new;long;high;real;light
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,snow,big;white;new;much;cold;heavy;small;good;soft;deep
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,storm,big;strong;bad;new;terrible;much;sudden;long;dangerous;loud
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,thunder,big;loud;strong;new;much;sudden;bad;terrible;deep;close
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,tide,big;high;low;new;strong;much;good;fast;slow;bad
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,volcano,big;new;old;hot;active;dangerous;real;much;small;terrible
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Environmental Phenomena,wind,big;strong;new;cold;much;fast;little;bad;good;hot
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,apple,red;green;new;big;small;good;sweet;cheap;nice;many
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,banana,yellow;new;big;small;good;sweet;cheap;nice;many;long
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,beef,new;good;big;cheap;much;expensive;red;raw;fresh;cooked
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,bread,new;good;big;fresh;white;brown;cheap;many;hard;soft
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,broccoli,green;new;good;fresh;big;cheap;many;little;raw;cooked
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,cheese,new;good;big;cheap;white;yellow;hard;soft;many;strong
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,chicken,new;good;big;cheap;many;white;fried;cooked;raw;small
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,egg,new;good;big;white;small;cheap;many;fresh;brown;hard
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,fish,new;good;big;small;cheap;fresh;many;salt;white;fried
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,pasta,new;good;big;cheap;many;long;white;dry;cooked;hot
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,rice,new;good;big;cheap;many;white;long;cooked;raw;hot
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Food Items,soup,new;good;hot;big;small;nice;chicken;vegetable;tomato;much
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,artist,good;new;big;famous;young;old;real;great;many;nice
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,athlete,good;new;big;young;strong;famous;real;great;many;old
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,chef,good;new;big;famous;young;old;nice;great;many;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,doctor,good;new;big;young;old;nice;important;many;great;famous
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,engineer,good;new;big;young;old;important;many;great;nice;smart
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,farmer,good;new;big;old;young;small;many;hard;local;nice
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,lawyer,good;new;big;famous;young;old;important;many;great;nice
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,musician,good;new;big;young;famous;old;great;many;nice;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,scientist,good;new;big;famous;young;old;important;great;many;smart
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,soldier,good;new;big;young;strong;old;many;brave;important;real
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,teacher,good;new;big;young;old;nice;important;many;great;kind
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Human Roles,writer,good;new;big;famous;young;old;great;many;nice;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,book,new;good;big;old;small;long;nice;important;many;interesting
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,bridge,big;new;old;long;small;good;nice;important;many;stone
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,drums,big;new;old;good;loud;small;many;different;black;red
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,earth,big;round;new;old;good;green;flat;blue;small;brown
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,flute,new;old;good;small;long;nice;silver;wooden;cheap;expensive
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,key,new;old;small;big;good;metal;important;gold;silver;many
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,knife,new;old;big;small;good;sharp;metal;kitchen;dangerous;many
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,lock,new;old;big;small;good;strong;metal;important;broken;different
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,moon,big;round;new;full;small;bright;white;good;yellow;half
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,pen,new;old;good;big;small;blue;black;red;cheap;expensive
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,sun,big;bright;hot;good;new;small;strong;yellow;far;close
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Inanimate Objects,sword,new;old;big;long;sharp;good;metal;small;strong;dangerous
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,cat,new;small;big;black;white;good;old;nice;cute;fat
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,dog,new;big;small;good;old;black;white;nice;brown;cute
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,dolphin,new;big;small;good;nice;grey;smart;fast;many;cute
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,elephant,big;new;old;good;grey;strong;many;small;nice;African
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,hamster,new;small;good;cute;nice;brown;white;little;big;young
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,monkey,new;small;big;good;nice;brown;cute;fast;smart;many
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,mouse,new;small;grey;good;little;bad;fast;many;white;big
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,peacock,new;big;beautiful;colorful;nice;good;small;pretty;green;blue
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,rabbit,new;small;big;good;white;brown;cute;nice;fast;many
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,shark,big;new;dangerous;small;good;grey;bad;fast;strong;many
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,snake,new;long;small;big;dangerous;green;bad;good;fast;many
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Neutral Animals,whale,big;new;small;good;grey;blue;many;old;important;fast
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,city,big;new;old;good;small;important;many;nice;beautiful;large
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,desert,big;hot;new;old;dry;small;empty;much;far;dangerous
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,forest,big;new;old;green;small;good;many;thick;dark;deep
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,island,big;new;small;good;nice;green;many;beautiful;old;far
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,lake,big;new;small;good;nice;blue;deep;many;beautiful;large
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,mountain,big;new;old;high;small;good;green;snow;beautiful;far
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,ocean,big;new;old;deep;blue;cold;good;small;many;dangerous
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,plain,big;new;old;green;good;small;flat;long;many;empty
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,plateau,big;new;old;high;good;small;flat;green;many;dry
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,river,big;new;old;long;small;good;blue;many;clean;dirty
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,valley,big;new;old;green;good;small;long;deep;nice;many
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Places,village,new;old;small;good;nice;big;many;beautiful;quiet;green
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,cactus,big;small;green;new;old;good;sharp;many;tall;desert
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,eggplant,big;small;new;good;purple;long;many;fresh;cheap;nice
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,flower,new;big;small;good;nice;colorful;red;white;pretty;many
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,grass,new;green;big;small;good;long;short;many;dry;wet
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,lettuce,new;green;big;small;good;fresh;many;cheap;nice;raw
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,mushroom,new;big;small;good;white;brown;many;wild;cheap;fresh
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,onion,new;big;small;good;white;yellow;many;cheap;fresh;strong
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,pepper,new;big;small;good;red;green;hot;many;cheap;fresh
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,potato,new;big;small;good;white;brown;many;cheap;fresh;long
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,rose,new;big;small;good;red;white;nice;pretty;many;pink
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,tomato,new;big;small;good;red;fresh;many;cheap;nice;green
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Plants,tree,new;big;old;small;green;tall;good;many;long;short
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,ally,good;new;big;strong;important;real;great;many;small;old
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,brother,big;new;small;old;good;young;nice;bad;real;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,enemy,big;bad;new;strong;real;old;many;important;dangerous;small
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,father,big;new;small;old;good;young;nice;important;real;strong
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,follower,new;big;many;small;good;old;young;important;true;real
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,friend,good;new;big;old;small;nice;real;true;many;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,leader,good;new;big;important;strong;old;small;great;real;many
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,mother,good;new;big;old;small;nice;important;real;strong;young
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,partner,good;new;big;small;important;old;real;strong;many;nice
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,rival,big;new;small;good;strong;old;many;important;bad;real
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,sister,big;new;small;old;good;young;nice;bad;real;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Social Relationships,stranger,new;big;small;old;good;bad;strange;many;real;dangerous
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,above,new;big;small;good;high;old;far;many;important;nice
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,back,new;big;small;old;good;long;nice;important;many;strong
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,below,new;big;small;good;low;old;far;many;important;nice
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,east,new;big;small;good;far;old;many;important;nice;close
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,front,new;big;small;good;long;nice;important;many;old
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,inside,new;big;small;good;nice;long;many;important;old;dark
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,left,new;big;small;good;long;nice;important;many;old
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,north,new;big;small;good;cold;far;many;important;old;nice
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,outside,new;big;small;good;nice;many;important;old;dark;dangerous
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,right,new;big;small;good;long;nice;important;many;old
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,south,new;big;small;good;hot;far;many;important;old;nice
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Spatial Concepts,west,new;big;small;good;far;many;important;old;nice
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,century,new;big;old;long;small;good;important;many;past;future
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,day,new;big;small;good;long;short;nice;many;important;bad
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,evening,new;big;small;good;nice;long;many;important;old;dark
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,hour,new;big;small;good;long;short;many;important;old;past
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,minute,new;small;big;good;long;short;many;important;past;fast
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,month,new;big;small;good;long;short;many;important;past;next
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,morning,new;big;small;good;nice;long;early;many;important;old
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,night,new;big;small;good;dark;long;late;many;important;old
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,season,new;big;small;good;long;short;many;important;four;past
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,second,new;small;big;good;long;short;fast;many;important;quick
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,week,new;big;small;good;long;short;many;important;next;last
+gemini-2.0-flash,basic,1.0,KO # Korean,B1,most frequent,Time Concepts,year,new;big;small;good;long;short;many;important;last;next
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,anger,big;strong;hot;bad;much;real;true;sudden;quick;slow
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,courage,great;much;real;true;strong;brave;big;new;little;old
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,fear,big;real;much;great;strong;new;little;old;true;common
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,freedom,much;great;real;true;big;new;little;political;economic;personal
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,happiness,much;great;real;true;big;new;little;pure;simple;deep
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,hate,much;great;real;true;strong;big;little;deep;pure;simple
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,honesty,real;true;great;much;simple;pure;complete;little;big;total
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,justice,real;true;social;criminal;great;much;fair;legal;little;big
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,knowledge,much;great;real;true;new;little;big;important;common;good
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,love,much;great;real;true;new;little;big;deep;pure;simple
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,peace,real;true;much;great;new;little;big;world;international;lasting
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Abstract Concepts,wisdom,great;true;much;real;little;big;old;simple;new;common
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,bell,big;small;loud;old;new;church;school;hand;metal;brass
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,candle,white;small;big;wax;burning;new;old;tall;short;colorful
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,carpet,red;blue;new;old;big;small;thick;thin;wool;soft
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,coin,gold;silver;old;new;small;big;metal;rare;valuable;round
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,crown,gold;silver;royal;big;small;new;old;beautiful;heavy;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,flag,red;white;blue;national;big;small;new;old;waving;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,mask,white;black;new;old;big;small;scary;strange;colorful;paper
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;new;old;long;short;beautiful;expensive;cheap
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,painting,beautiful;old;new;big;small;famous;good;bad;colorful;abstract
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;new;old;big;small;beautiful;wedding;simple
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;famous;beautiful;tall;short
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Cultural Artifacts,vase,glass;flower;new;old;big;small;beautiful;colorful;empty;full
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;grey;heavy;rain;storm;summer;passing
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;new;recent;major;minor;damaging;terrible
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,fog,thick;heavy;dense;white;grey;cold;early;morning;sea;bad
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;quick;dangerous;close;distant;summer;night;loud
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;cold;warm;long;short;summer;spring
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;big;small;high;low;double;full;faint
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,snow,white;heavy;light;soft;cold;deep;fresh;new;falling;winter
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,storm,big;strong;heavy;bad;new;winter;summer;terrible;dangerous;loud
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,thunder,loud;strong;big;close;distant;rolling;heavy;deep;sudden;scary
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,tide,high;low;big;small;new;strong;weak;spring;neap;incoming
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,volcano,active;big;small;new;old;dormant;dangerous;high;volcanic;ash
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;high;gentle;fresh;sea;north;south
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,apple,red;green;big;small;sweet;sour;fresh;ripe;juicy;delicious
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,banana,yellow;ripe;sweet;big;small;long;short;fresh;good;soft
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,beef,fresh;good;raw;cooked;tender;tough;lean;ground;roast;grilled
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,bread,white;brown;fresh;good;big;small;whole;wheat;soft;hard
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;good;big;small;healthy;boiled;steamed
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,cheese,yellow;white;hard;soft;fresh;old;strong;mild;good;bad
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,chicken,fresh;cooked;raw;grilled;fried;roast;big;small;good;tender
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,egg,white;brown;fresh;raw;cooked;fried;boiled;big;small;good
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,fish,fresh;salt;cooked;raw;big;small;good;bad;white;fried
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,pasta,cooked;dry;long;short;big;small;fresh;good;Italian;white
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,rice,white;brown;cooked;raw;long;short;big;small;good;boiled
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Food Items,soup,hot;cold;warm;good;vegetable;chicken;tomato;big;small;thick
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,artist,famous;good;young;old;talented;great;modern;new;local;unknown
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,athlete,good;young;old;famous;professional;great;talented;strong;fast;new
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,chef,good;famous;young;old;head;great;talented;experienced;local;new
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,doctor,good;young;old;famous;experienced;local;new;great;family;specialist
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,engineer,good;young;old;experienced;civil;mechanical;electrical;new;chief;senior
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,farmer,local;young;old;small;big;new;family;hard;good;poor
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,lawyer,good;young;old;famous;experienced;new;family;criminal;civil;corporate
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,musician,good;young;old;famous;talented;great;local;new;professional;solo
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,scientist,good;young;old;famous;great;new;important;leading;main;chief
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,soldier,young;old;brave;good;new;trained;experienced;professional;main;ordinary
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,teacher,good;young;old;new;experienced;great;local;main;head;class
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Human Roles,writer,good;young;old;famous;new;great;local;unknown;professional;main
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,book,good;old;new;big;small;interesting;important;long;short;hard
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,bridge,big;long;new;old;stone;steel;wooden;high;low;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,drums,loud;big;small;new;old;electronic;acoustic;good;set;single
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,earth,big;round;new;old;flat;good;bad;whole;little;beautiful
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,flute,long;silver;wooden;new;old;small;good;simple;professional;open
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,key,small;big;new;old;metal;important;main;front;back;spare
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,knife,sharp;big;small;new;old;kitchen;pocket;hunting;good;bad
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,lock,strong;big;small;new;old;metal;important;front;back;secure
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,moon,big;full;new;bright;dark;round;half;yellow;far;near
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,pen,blue;black;new;old;small;big;good;cheap;expensive;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;new;old;far;near;good;bad
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Inanimate Objects,sword,long;sharp;big;small;new;old;metal;heavy;light;samurai
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;good;bad;fluffy
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,dog,big;small;black;white;young;old;good;bad;cute;friendly
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,dolphin,big;small;grey;new;old;good;smart;wild;trained;friendly
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,elephant,big;grey;old;new;small;good;wild;African;Asian;heavy
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;good;pet;fluffy;little
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,monkey,small;big;young;old;cute;good;bad;wild;funny;clever
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,mouse,small;grey;white;young;old;good;bad;wild;little;pet
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,peacock,colorful;beautiful;big;new;old;wild;rare;male;Indian;blue
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,rabbit,white;brown;small;big;young;old;cute;good;pet;wild
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,shark,big;dangerous;grey;white;new;old;wild;great;small;scary
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,snake,long;green;black;new;old;big;small;dangerous;wild;scary
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Neutral Animals,whale,big;blue;grey;new;old;wild;sea;baleen;killer;humpback
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,city,big;small;old;new;important;modern;historic;beautiful;large;clean
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,desert,hot;dry;big;small;sandy;new;old;empty;vast;barren
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,forest,big;small;green;new;old;dense;dark;beautiful;wild;quiet
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,island,big;small;tropical;new;old;beautiful;remote;deserted;volcanic;inhabited
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,lake,big;small;deep;new;old;blue;clear;fresh;salt;beautiful
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,mountain,big;high;new;old;snow;green;rocky;steep;beautiful;dangerous
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,ocean,big;blue;deep;new;old;salt;vast;cold;warm;beautiful;dangerous
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,plain,big;flat;open;new;old;green;empty;vast;dry;fertile
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,plateau,high;flat;big;small;new;old;dry;rocky;vast;isolated
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,river,long;big;small;new;old;wide;deep;clean;dirty;fast
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,valley,green;deep;big;small;new;old;wide;narrow;beautiful;quiet
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Places,village,small;old;new;quiet;rural;local;beautiful;traditional;peaceful;historic
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,cactus,green;big;small;tall;short;new;old;prickly;desert;sharp
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,eggplant,purple;big;small;new;old;fresh;good;cooked;fried;grilled
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,flower,red;white;yellow;beautiful;new;old;big;small;fresh;colorful
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,grass,green;long;short;new;old;dry;wet;fresh;good;thick
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,lettuce,green;fresh;crisp;new;old;big;small;good;healthy;leafy
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,mushroom,white;brown;big;small;new;old;fresh;wild;good;bad
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,onion,white;yellow;big;small;new;old;fresh;strong;raw;cooked
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,pepper,red;green;black;big;small;new;old;hot;spicy;sweet
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,potato,white;brown;big;small;new;old;fresh;good;baked;fried
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,rose,red;white;pink;beautiful;new;old;big;small;fresh;fragrant
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,tomato,red;green;big;small;new;old;fresh;good;juicy;ripe
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Plants,tree,big;tall;green;new;old;small;strong;beautiful;wooden;leafy
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,ally,strong;good;new;old;big;small;important;main;close;reliable
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,brother,young;old;big;small;good;bad;new;little;elder;younger
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,enemy,strong;big;bad;new;old;dangerous;main;important;bitter;common
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,father,old;young;good;bad;new;big;small;step;real;important
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,follower,loyal;new;old;young;big;small;good;devoted;active;passive
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,friend,good;best;new;old;young;close;true;real;important;common
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,leader,good;strong;new;old;young;big;important;main;great;effective
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,mother,good;old;young;new;big;small;step;real;important;loving
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,partner,good;new;old;big;small;business;important;main;close;equal
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,rival,strong;big;new;old;main;important;close;bitter;friendly;common
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,sister,young;old;big;small;good;bad;new;little;elder;younger
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Social Relationships,stranger,new;young;old;big;small;strange;dangerous;good;bad;nice
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,above,high;clear;new;old;far;near;small;big;average;common
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,back,big;small;new;old;long;short;good;bad;main;supporting
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,below,low;new;old;far;near;small;big;average;common;ground
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,east,far;new;old;near;small;big;average;common;close;main
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,front,big;new;old;main;important;good;bad;small;long;short
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,inside,big;small;new;old;warm;cold;good;bad;dark;safe
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,left,new;old;small;big;good;bad;main;other;right;front
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,north,far;new;old;near;small;big;average;cold;main;good
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,outside,big;small;new;old;cold;warm;good;bad;light;dark
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,right,new;old;small;big;good;bad;main;other;left;front
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,south,far;new;old;near;small;big;average;warm;main;good
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Spatial Concepts,west,far;new;old;near;small;big;average;common;close;main
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,century,new;old;big;small;20th;19th;21st;important;past;present
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,day,good;bad;long;short;new;old;sunny;rainy;important;normal
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,evening,good;new;old;long;short;warm;cold;dark;quiet;peaceful
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,hour,long;short;new;old;good;bad;important;last;next;early
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,minute,long;short;new;old;good;bad;important;last;next;early
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,month,new;old;long;short;good;bad;important;last;next;current
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,morning,good;new;old;long;short;sunny;cold;warm;early;late
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,night,good;bad;long;short;new;old;dark;quiet;peaceful;clear
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,season,new;old;good;bad;long;short;spring;summer;autumn;winter
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,second,new;old;long;short;good;bad;important;last;next;split
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,week,new;old;long;short;good;bad;important;last;next;full
+gemini-2.0-flash,basic,1.0,KO # Korean,B2,most frequent,Time Concepts,year,new;old;good;bad;long;short;important;last;next;full
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,anger,hot;deep;blind;sudden;real;great;righteous;quiet;cold;simmering
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,courage,great;true;moral;physical;quiet;inner;false;real;unexpected;amazing
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,fear,great;deep;real;irrational;crippling;overwhelming;common;hidden;primal;intense
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,freedom,true;great;real;basic;personal;national;political;limited;conditional;hard-won
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,happiness,true;great;real;simple;pure;fleeting;deep;unexpected;childish;inner
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,hate,great;deep;blind;pure;irrational;strong;real;burning;simmering;consuming
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,honesty,true;great;brutal;complete;simple;refreshing;painful;open;basic;relative
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,justice,true;great;fair;equal;social;restorative;blind;rough;basic;delayed
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,knowledge,great;deep;useful;practical;basic;common;personal;hard-won;academic;technical
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,love,true;great;deep;unconditional;pure;real;first;puppy;lasting;romantic
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,peace,true;great;lasting;fragile;uneasy;inner;world;simple;relative;false
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Abstract Concepts,wisdom,great;true;ancient;simple;practical;common;acquired;inner;book;worldly
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,bell,loud;small;big;church;school;cow;door;warning;signal;clear
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,candle,small;big;wax;white;scented;burning;tall;short;Christmas;dripping
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,carpet,red;thick;Persian;oriental;new;old;large;small;wool;colorful
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,coin,gold;silver;old;new;rare;lucky;euro;valuable;small;foreign
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,crown,gold;royal;diamond;silver;jeweled;heavy;ceremonial;old;simple;new
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,flag,national;red;white;blue;green;big;small;waving;flying;tattered
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,mask,scary;paper;white;black;Halloween;surgical;protective;oxygen;painted;Venetian
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;long;short;simple;expensive;beaded;broken
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,painting,beautiful;oil;water;abstract;large;small;famous;old;new;impressionist
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;small;big;ruby;simple;class
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,statue,stone;bronze;marble;big;small;tall;famous;old;new;religious
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Cultural Artifacts,vase,glass;ceramic;flower;beautiful;tall;short;big;small;blue;clear
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,cloud,white;gray;dark;rain;big;small;fluffy;passing;storm;thick
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;devastating;major;minor;recent;sudden;unexpected;powerful
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,fog,thick;heavy;dense;morning;sea;light;white;gray;rolling;ground
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;powerful;dangerous;close;distant;summer;sheet;blue
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;gentle;steady;sudden;cold;warm;acid
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;full;faint;beautiful;arched;high;summer;clear
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,snow,white;heavy;light;deep;falling;fresh;wet;dry;first;winter
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,storm,big;strong;heavy;thunder;lightning;rain;winter;summer;passing;brewing
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,thunder,loud;rumbling;deep;distant;close;sudden;rolling;echoing;summer;winter
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,tide,high;low;strong;spring;neap;rising;falling;morning;evening;incoming
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,volcano,active;dormant;big;small;volcanic;erupting;nearby;distant;dangerous;smoking
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Environmental Phenomena,wind,strong;cold;hot;light;gentle;north;south;east;west;howling
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,apple,red;green;big;small;sweet;sour;crisp;juicy;ripe;rotten
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,banana,yellow;ripe;green;sweet;soft;small;big;long;fresh;bruised
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,beef,raw;cooked;ground;tender;tough;lean;fatty;fresh;frozen;cheap
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,bread,white;brown;fresh;stale;whole;wheat;rye;soft;hard;toasted
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,broccoli,green;fresh;steamed;raw;cooked;chopped;frozen;organic;healthy;wilted
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,cheese,cheddar;Swiss;blue;hard;soft;strong;mild;fresh;melted;grated
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,chicken,fried;roasted;grilled;raw;cooked;whole;boneless;skinless;frozen;fresh
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,egg,white;brown;raw;cooked;fried;boiled;scrambled;broken;fresh;cracked
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,fish,fresh;salt;fried;grilled;raw;cooked;whole;small;big;frozen
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,pasta,white;wheat;cooked;dry;long;short;italian;fresh;homemade;leftover
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,rice,white;brown;long;short;cooked;steamed;boiled;fried;sticky;basmati
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Food Items,soup,hot;cold;chicken;vegetable;tomato;thick;thin;creamy;homemade;canned
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,artist,famous;young;old;talented;struggling;local;unknown;modern;classical;abstract
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,athlete,young;old;professional;amateur;talented;injured;famous;olympic;fast;strong
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,chef,famous;young;old;talented;head;sous;executive;local;michelin;good
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,doctor,young;old;good;bad;family;local;general;specialist;busy;kind
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,engineer,civil;mechanical;electrical;young;old;talented;experienced;chief;software;project
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,farmer,young;old;local;small;big;family;organic;poor;rich;hard-working
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,lawyer,young;old;good;bad;experienced;corporate;criminal;family;local;famous
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,musician,young;old;talented;famous;local;unknown;professional;amateur;classical;jazz
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,scientist,young;old;famous;local;brilliant;leading;research;theoretical;experimental;respected
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,soldier,young;old;brave;injured;dead;active;veteran;new;experienced;decorated
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,teacher,young;old;good;bad;experienced;new;local;favorite;strict;kind
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Human Roles,writer,young;old;famous;unknown;good;bad;talented;experienced;local;best-selling
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,book,old;new;big;small;long;short;interesting;boring;hard;easy
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,bridge,long;short;high;low;old;new;stone;steel;wooden;suspension
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,drums,loud;big;small;new;old;jazz;rock;snare;bass;broken
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,earth,round;flat;big;small;dry;wet;green;blue;hard;soft
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,flute,silver;wooden;long;short;new;old;jazz;classical;broken;cheap
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,key,small;big;metal;lost;new;old;spare;front;car;house
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,knife,sharp;dull;kitchen;small;big;new;old;pocket;butter;steak
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,lock,strong;weak;new;old;small;big;front;back;broken;secure
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,moon,full;new;bright;dark;big;small;crescent;half;rising;setting
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,pen,blue;black;red;new;old;cheap;expensive;ballpoint;felt;broken
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,sun,bright;hot;warm;cold;big;small;setting;rising;summer;winter
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Inanimate Objects,sword,long;sharp;old;new;steel;heavy;light;broken;rusty;ceremonial
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,cat,small;big;black;white;gray;young;old;fat;thin;stray
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,dog,small;big;black;white;brown;young;old;fat;thin;stray
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,dolphin,gray;small;big;young;old;playful;smart;wild;trained;bottlenose
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,elephant,big;gray;african;indian;young;old;wild;trained;strong;gentle
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,hamster,small;brown;white;young;old;cute;furry;playful;sleepy;fat
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,monkey,small;big;brown;black;young;old;playful;smart;wild;trained
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,mouse,small;gray;white;brown;young;old;wild;pet;cute;scared
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;young;old;male;female;proud;graceful
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,rabbit,small;white;brown;young;old;wild;pet;cute;fluffy;long-eared
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,shark,big;gray;white;great;dangerous;small;young;old;wild;hungry
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,snake,long;small;green;brown;black;poisonous;dangerous;wild;pet;garden
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Neutral Animals,whale,big;blue;gray;humpback;killer;small;young;old;wild;gentle
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,city,big;small;old;new;modern;capital;industrial;beautiful;crowded;quiet
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,desert,hot;dry;sandy;big;small;barren;vast;empty;lonely;beautiful
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,forest,green;big;small;old;new;dark;dense;thick;beautiful;quiet
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,island,small;big;tropical;deserted;volcanic;beautiful;green;rocky;remote;populated
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,lake,big;small;blue;clear;deep;shallow;fresh;salt;cold;warm
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,mountain,high;big;tall;snow;rocky;green;old;new;steep;dangerous
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,ocean,big;blue;deep;cold;warm;vast;salty;stormy;calm;peaceful
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,plain,flat;big;green;open;wide;empty;grassy;dry;fertile;rolling
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,plateau,high;flat;big;small;green;dry;rocky;windy;treeless;fertile
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,river,long;short;big;small;deep;shallow;wide;narrow;fast;slow
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,valley,green;long;wide;narrow;deep;shallow;beautiful;fertile;peaceful;hidden
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Places,village,small;quiet;old;new;peaceful;rural;traditional;beautiful;friendly;close-knit
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,cactus,tall;short;green;spiky;desert;big;small;prickly;flowering;dry
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,eggplant,purple;big;small;long;round;cooked;raw;fresh;ripe;soft
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,flower,red;white;yellow;beautiful;small;big;fresh;fragrant;wild;garden
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,grass,green;long;short;wet;dry;thick;thin;soft;hard;fresh
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,lettuce,green;fresh;crisp;small;big;head;leaf;loose;romaine;iceberg
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,mushroom,small;big;white;brown;wild;poisonous;edible;fresh;dried;sliced
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,onion,white;yellow;red;small;big;raw;cooked;chopped;sliced;sweet
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,pepper,black;white;red;green;small;big;hot;sweet;spicy;ground
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,potato,white;brown;red;small;big;raw;cooked;mashed;fried;baked
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fragrant;small;big;thorny;fresh
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,tomato,red;green;small;big;ripe;raw;cooked;fresh;juicy;sliced
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Plants,tree,tall;green;big;small;old;young;strong;weak;leafy;bare
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,ally,strong;close;reliable;faithful;important;political;military;trusted;new;old
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,brother,older;younger;big;little;half;step;close;distant;favorite;annoying
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,enemy,bitter;sworn;mortal;dangerous;strong;weak;old;new;personal;political
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,father,old;young;good;bad;step;adoptive;biological;strict;loving;absent
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,follower,loyal;faithful;dedicated;new;old;enthusiastic;blind;small;large;growing
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,friend,good;best;old;new;close;true;loyal;dear;lifelong;casual
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,leader,strong;good;bad;new;old;political;military;popular;charismatic;effective
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,mother,old;young;good;bad;step;adoptive;biological;strict;loving;absent
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,partner,business;life;close;new;old;equal;senior;junior;trusted;reliable
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,rival,bitter;fierce;main;strong;weak;old;new;business;political;sporting
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,sister,older;younger;big;little;half;step;close;distant;favorite;annoying
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Social Relationships,stranger,total;complete;perfect;friendly;dangerous;strange;passing;unknown;suspicious;helpful
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,above,far;high;clear;blue;cloudy;open;bright;dark;hidden;secret
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,back,strong;weak;lower;upper;sore;painful;broad;narrow;straight;curved
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,below,far;deep;dark;hidden;cold;wet;sea;ground;surface;freezing
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,east,far;middle;near;wild;new;rising;west;south;north;central
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,front,strong;open;clear;new;old;main;back;lower;upper;forward
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,inside,warm;cold;dark;safe;quiet;new;old;small;big;hidden
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,left,far;right;new;old;broken;strong;weak;dead;living;main
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,north,far;south;east;west;cold;wild;central;new;old;frozen
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,outside,warm;cold;sunny;rainy;big;small;new;old;green;dry
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,right,far;left;new;old;strong;weak;human;moral;wrong;legal
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,south,far;north;east;west;warm;central;new;old;sunny;humid
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Spatial Concepts,west,far;east;north;south;wild;new;old;central;rising;setting
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,century,20th;21st;19th;long;short;new;old;past;present;future
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,day,long;short;sunny;rainy;good;bad;new;old;bright;dark
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,evening,warm;cool;long;short;good;bad;quiet;noisy;busy;peaceful
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,hour,long;short;late;early;good;bad;busy;quiet;golden;last
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,minute,long;short;late;early;good;bad;busy;quiet;last;passing
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,month,long;short;warm;cold;dry;wet;good;bad;last;next
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,morning,warm;cool;good;bad;early;late;quiet;busy;bright;sunny
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,night,long;short;dark;quiet;warm;cold;good;bad;peaceful;stormy
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,season,long;short;warm;cold;dry;wet;good;bad;favorite;changing
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,second,long;short;late;early;good;bad;busy;quiet;last;fleeting
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,week,long;short;good;bad;busy;quiet;last;next;coming;past
+gemini-2.0-flash,basic,1.0,KO # Korean,C1,most frequent,Time Concepts,year,long;short;good;bad;new;old;last;next;coming;past
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,anger,intense;great;deep;sudden;blind;suppressed;righteous;cold;mounting;unreasonable
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,courage,great;true;quiet;moral;remarkable;amazing;unbelievable;physical;inner;exceptional
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,fear,great;deep;real;abiding;primal;irrational;overwhelming;common;underlying;crippling
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,freedom,true;hard-won;precious;basic;fundamental;personal;limited;political;economic;religious
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,happiness,great;simple;pure;infectious;fleeting;inner;real;complete;lasting;genuine
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,hate,great;bitter;deep;irrational;blind;intense;consuming;abiding;visceral;unadulterated
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,honesty,complete;brutal;refreshing;transparent;simple;questionable;relative;unwavering;implicit;inherent
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,justice,true;rough;social;fair;equal;blind;ultimate;restorative;legal;divine
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,knowledge,great;deep;practical;working;scientific;theoretical;specialized;expert;tacit;extensive
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,love,great;true;deep;unconditional;first;passionate;romantic;unrequited;brotherly;maternal
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,peace,lasting;fragile;inner;world;uneasy;negotiated;relative;hard-won;eternal;temporary
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Abstract Concepts,wisdom,great;true;practical;collective;accumulated;traditional;ancient;inner;divine;uncommon
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,bell,loud;church;small;big;brass;school;hand;silver;clear;warning
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,candle,small;tall;white;wax;burning;scented;votive;decorative;flickering;long
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,carpet,thick;red;oriental;Persian;wool;new;old;expensive;beautiful;soft
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,coin,gold;silver;old;rare;collectible;foreign;lucky;fake;real;ancient
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,crown,gold;royal;jeweled;silver;ornate;heavy;ceremonial;historical;symbolic;precious
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,flag,national;white;red;waving;flying;colorful;tattered;half-mast;symbolic;important
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,mask,white;black;plastic;surgical;protective;scary;Halloween;Venetian;theatrical;anonymous
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;beaded;long;short;antique;beautiful;delicate
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,painting,beautiful;oil;watercolor;abstract;famous;landscape;portrait;original;framed;expensive
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;valuable;simple;antique;jeweled;promise
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,statue,bronze;stone;marble;tall;large;famous;religious;commemorative;ancient;impressive
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Cultural Artifacts,vase,glass;ceramic;tall;short;flower;empty;beautiful;antique;fragile;decorative
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,cloud,white;dark;gray;rain;storm;thunder;fluffy;scattered;low;high
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,earthquake,big;strong;devastating;major;powerful;recent;unexpected;violent;slight;destructive
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,fog,thick;dense;heavy;morning;sea;ground;pea-soup;mysterious;rolling;white
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;intense;sheet;distant;silent;dangerous;close;powerful
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,rain,heavy;light;hard;gentle;acid;steady;summer;spring;cold;warm
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;double;faint;full;arc;partial;vibrant;ephemeral
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,snow,heavy;light;fresh;falling;deep;white;powdery;wet;soft;drifting
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,storm,big;bad;severe;electrical;rain;snow;wind;brewing;passing;tropical
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,thunder,loud;deep;rolling;distant;crashing;sudden;heavy;echoing;booming;ominous
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,tide,high;low;strong;spring;neap;incoming;outgoing;rising;falling;powerful
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;large;small;erupting;dangerous;volcanic;beautiful;impressive
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Environmental Phenomena,wind,strong;cold;hot;light;gusty;prevailing;easterly;westerly;howling;gentle
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,apple,red;green;fresh;sweet;juicy;crisp;ripe;rotten;delicious;organic
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,banana,yellow;ripe;green;sweet;overripe;fresh;organic;small;large;Cavendish
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,beef,raw;ground;tender;lean;grass-fed;prime;aged;cooked;juicy;expensive
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,bread,white;brown;fresh;stale;whole;wheat;rye;sourdough;toasted;moldy
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,broccoli,fresh;green;raw;cooked;steamed;frozen;organic;healthy;small;large
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,cheese,hard;soft;white;yellow;strong;mild;aged;fresh;creamy;expensive
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,chicken,raw;cooked;fried;grilled;roasted;organic;boneless;skinless;tender
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,egg,fresh;raw;boiled;fried;scrambled;hard-boiled;soft-boiled;organic;white;brown
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,fish,fresh;raw;cooked;fried;grilled;saltwater;freshwater;small;large;bony
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,pasta,dry;cooked;fresh;long;short;wheat;gluten-free;Italian;delicious;overcooked
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,rice,white;brown;long-grain;short-grain;cooked;raw;sticky;fried;basmati;jasmine
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Food Items,soup,hot;cold;thick;thin;chicken;vegetable;tomato;creamy;delicious;homemade
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,artist,talented;famous;unknown;young;old;struggling;local;modern;abstract;classical
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,athlete,professional;amateur;young;old;talented;dedicated;injured;famous;Olympic;college
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,chef,famous;talented;head;sous;executive;young;old;Michelin-starred;creative;experienced
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,doctor,good;young;old;experienced;family;general;specialist;famous;caring;dedicated
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;young;old;experienced;talented;structural;chemical
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,farmer,young;old;local;small;large;organic;dairy;vegetable;hardworking;traditional
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,lawyer,good;bad;young;old;experienced;corporate;criminal;family;famous;expensive
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,musician,talented;young;old;famous;local;professional;amateur;classical;jazz;rock
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,scientist,young;old;famous;brilliant;dedicated;experienced;research;leading;respected;unknown
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,soldier,young;brave;trained;experienced;injured;fallen;active;veteran;decorated;loyal
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,teacher,good;young;old;experienced;dedicated;caring;strict;helpful;inspiring;favorite
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Human Roles,writer,good;young;old;famous;unknown;talented;published;struggling;successful;aspiring
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,book,good;old;new;long;short;interesting;boring;famous;hardcover;paperback
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,bridge,long;short;old;new;wooden;stone;steel;suspension;famous;narrow
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,drums,loud;big;small;bass;snare;electronic;acoustic;jazz;rock;percussion
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,earth,round;blue;green;dry;wet;fertile;barren;rocky;frozen;spinning
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,flute,silver;wooden;long;short;high;low;clear;sweet;haunting;simple
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,key,small;big;metal;gold;silver;spare;lost;important;master;broken
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,knife,sharp;dull;kitchen;pocket;hunting;butter;steak;small;large;rusty
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,lock,strong;weak;old;new;key;combination;simple;complicated;secure;padlock
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,moon,bright;full;new;half;crescent;silver;white;dark;waxing;waning
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,pen,black;blue;red;ballpoint;fountain;cheap;expensive;new;old;working
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,sun,bright;hot;warm;yellow;setting;rising;shining;strong;weak;distant
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Inanimate Objects,sword,long;sharp;steel;old;heavy;light;ceremonial;antique;rusty;double-edged
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,cat,small;big;black;white;cute;fluffy;stray;playful;lazy;old
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,dog,small;big;black;white;cute;fluffy;stray;playful;loyal;friendly
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,dolphin,small;big;gray;playful;intelligent;wild;trained;friendly;bottlenose;common
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,elephant,big;gray;African;Asian;wild;trained;old;young;gentle;strong
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,hamster,small;cute;fluffy;brown;white;pet;playful;caged;nocturnal;furry
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,monkey,small;big;brown;playful;intelligent;wild;trained;cute;mischievous;agile
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,mouse,small;gray;white;brown;wild;pet;cute;scary;house;field
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,peacock,beautiful;colorful;large;proud;male;Indian;exotic;displaying;iridescent;stunning
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,rabbit,small;white;brown;wild;pet;cute;fluffy;long-eared;soft;quick
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,shark,big;dangerous;white;great;blue;hammerhead;aggressive;predatory;powerful;fast
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,snake,long;thin;green;brown;poisonous;non-poisonous;dangerous;garden;grass;wild
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Neutral Animals,whale,big;blue;gray;humpback;orca;singing;migrating;endangered;powerful;giant
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,city,big;large;small;modern;ancient;crowded;busy;capital;historic;industrial
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,desert,hot;dry;sandy;arid;barren;empty;vast;lonely;silent;rocky
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,forest,green;dark;dense;old;large;small;wild;deep;mysterious;ancient
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,island,small;large;tropical;desert;volcanic;remote;beautiful;inhabited;uninhabited;private
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,lake,big;small;deep;blue;clear;fresh;salt;calm;scenic;beautiful
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,mountain,high;tall;snow;rocky;green;steep;majestic;remote;volcanic;beautiful
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,ocean,big;blue;deep;vast;cold;warm;stormy;peaceful;salty;endless
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,plain,flat;open;wide;grassy;empty;vast;treeless;endless;rolling;desolate
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,plateau,high;flat;dry;rocky;barren;treeless;elevated;wide;scenic;desolate
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,river,long;wide;narrow;deep;shallow;fast;slow;muddy;clear;winding
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,valley,green;wide;narrow;deep;fertile;scenic;hidden;peaceful;populated;unpopulated
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Places,village,small;quiet;rural;old;traditional;peaceful;remote;charming;quaint;picturesque
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,cactus,tall;short;green;spiky;desert;flowering;prickly;thorny;drought-resistant;unusual
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,eggplant,purple;large;small;raw;cooked;fried;grilled;stuffed;fresh;bitter
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,flower,beautiful;colorful;red;yellow;white;fresh;fragrant;blooming;delicate;wild
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,grass,green;short;long;wet;dry;tall;thick;thin;fresh;artificial
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,lettuce,green;fresh;crisp;leafy;romaine;iceberg;butter;healthy;salad;garden
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,mushroom,small;big;brown;white;edible;poisonous;wild;cultivated;tasty;earthy
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,onion,white;yellow;red;raw;cooked;fried;grilled;chopped;sliced;strong
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,pepper,black;white;red;green;spicy;hot;sweet;bell;chili;crushed
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,potato,white;red;baked;fried;mashed;roasted;boiled;sweet;small;large
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,rose,red;pink;white;yellow;beautiful;fragrant;thorny;blooming;delicate;hybrid
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,tomato,red;green;ripe;fresh;juicy;small;large;raw;cooked;sliced
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Plants,tree,tall;big;old;green;leafy;dead;bare;strong;weak;oak
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,ally,strong;loyal;true;reliable;political;close;powerful;important;new;old
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,brother,older;younger;little;big;close;half;step;adopted;true;loving
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,enemy,bitter;sworn;powerful;dangerous;arch;old;common;secret;relentless;implacable
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,father,loving;strict;biological;step;adoptive;old;young;single;absent;good
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,follower,loyal;devoted;true;blind;enthusiastic;active;passive;new;old;online
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,friend,good;best;close;old;new;true;loyal;childhood;online;imaginary
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,leader,strong;good;bad;political;charismatic;effective;new;old;elected;appointed
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,mother,loving;biological;step;adoptive;old;young;single;working;stay-at-home;good
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,partner,business;life;romantic;equal;senior;junior;silent;active;new;old
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,rival,fierce;bitter;main;close;old;friendly;political;business;sports;academic
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,sister,older;younger;little;big;close;half;step;adopted;true;loving
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Social Relationships,stranger,strange;unknown;new;friendly;dangerous;suspicious;helpful;passing;total;complete
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,above,far;high;directly;just;slightly;well;way;clearly;immediately;conveniently
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,back,far;long;top;bottom;front;lower;upper;sharp;dull;strong
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,below,far;low;directly;just;slightly;well;way;clearly;immediately;conveniently
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,east,far;due;middle;near;southeast;northeast;old;wild;distant
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,front,far;near;top;bottom;left;right;main;best;worst;true
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,inside,dark;warm;quiet;safe;big;small;clean;dirty;dry;hidden
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,left,far;near;hard;easy;correct;wrong;sharp;right;extreme;political
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,north,far;due;middle;near;northwest;northeast;old;wild;distant
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,outside,cold;bright;sunny;large;small;busy;quiet;public;private;secure
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,right,far;near;hard;easy;correct;wrong;sharp;left;extreme;political
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,south,far;due;middle;near;southeast;southwest;old;wild;distant
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Spatial Concepts,west,far;due;middle;near;southwest;northwest;old;wild;distant
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,century,long;past;current;20th;21st;previous;next;new;old;recent
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,day,good;bad;long;short;sunny;rainy;busy;free;new;old
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,evening,good;nice;beautiful;quiet;long;short;early;late;clear;dark
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;golden;wasted;spare;valuable
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,minute,long;short;passing;valuable;spare;wasted;extra;final;last;precious
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,month,long;short;past;current;next;first;last;full;half;calendar
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,morning,good;early;late;sunny;rainy;cold;beautiful;fresh;quiet;busy
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,night,good;bad;long;short;dark;light;quiet;busy;cold;warm
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,season,long;short;summer;winter;spring;autumn;rainy;dry;mild;harsh
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,second,long;short;split;final;last;fleeting;spare;wasted;extra;golden
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,week,long;short;past;current;next;busy;quiet;first;last;whole
+gemini-2.0-flash,basic,1.0,KO # Korean,C2,most frequent,Time Concepts,year,long;short;past;current;next;new;old;good;bad;leap
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;suppressed;uncontrollable;deep-seated;righteous;burning;cold;seething;irrational
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,courage,unwavering;quiet;moral;fierce;reckless;inspired;true;surprising;amazing;remarkable
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,fear,paralyzing;irrational;primal;deep-seated;lingering;overwhelming;nameless;consuming;abject;unfounded
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,freedom,hard-won;precious;fundamental;limited;conditional;illusory;absolute;personal;economic;political
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,happiness,pure;simple;fleeting;genuine;infectious;unexpected;boundless;childlike;quiet;radiant
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,hate,bitter;irrational;consuming;pathological;visceral;intense;deep-seated;blind;unadulterated;seething
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,honesty,brutal;complete;unwavering;refreshing;painful;simple;rare;admirable;implicit;unquestionable
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,justice,blind;impartial;swift;delayed;rough;social;restorative;economic;environmental;true
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,knowledge,profound;practical;esoteric;specialized;tacit;experiential;theoretical;academic;scientific;working
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,love,unconditional;passionate;enduring;unrequited;maternal;brotherly;platonic;forbidden;romantic;selfless
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,peace,fragile;lasting;uneasy;inner;external;negotiated;hard-won;temporary;blessed;world
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Abstract Concepts,wisdom,ancient;practical;acquired;innate;collective;divine;spiritual;applied;uncommon;worldly
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;small;big;church;school;bronze;silver;brass;golden
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,candle,wax;white;tall;short;scented;small;burning;drippy;votive;stubby
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,carpet,Persian;oriental;wool;thick;thin;worn;red;colorful;patterned;handmade
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,coin,gold;silver;old;new;rare;valuable;lucky;shiny;small;large
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;silver;ceremonial;majestic;heavy;ornate;simple;antique
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,flag,national;waving;tattered;red;white;blue;colorful;striped;historical;symbolic
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,mask,scary;plastic;paper;painted;elaborate;simple;theatrical;medical;tribal;protective
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;beaded;pearl;long;short;delicate;chunky;antique;costume
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,painting,oil;watercolor;abstract;landscape;portrait;famous;original;framed;large;small
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;plain;ornate;simple;family;antique
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,statue,bronze;marble;stone;tall;short;public;famous;ancient;broken;modern
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Cultural Artifacts,vase,glass;ceramic;porcelain;tall;short;empty;full;antique;fragile;decorated
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,cloud,white;grey;dark;fluffy;rain;storm;big;small;heavy;light
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,earthquake,strong;powerful;devastating;major;minor;unexpected;recent;historical;sudden;catastrophic
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;heavy;patchy;early;morning;pea-soup;lingering;mysterious;ground
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,lightning,bright;forked;sudden;dangerous;close;distant;silent;sheet;summer;frequent
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;steady;torrential;acid;warm;cold;gentle
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,rainbow,bright;colorful;arched;double;faint;partial;complete;beautiful;elusive;unexpected
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,snow,heavy;light;falling;wet;dry;deep;fresh;powdery;drifting;melting
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,storm,severe;violent;winter;summer;electrical;approaching;passing;brewing;raging;tropical
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,thunder,loud;deep;rumbling;distant;close;rolling;sudden;booming;echoing;ominous
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,tide,high;low;incoming;outgoing;strong;weak;spring;neap;tidal;predictable
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;large;small;volcanic;erupting;smoking;cone-shaped;dangerous
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;gusty;prevailing;gentle;howling;easterly;north
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;ripe;delicious;organic;tart;small
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,banana,yellow;ripe;green;sweet;soft;overripe;organic;small;long;curved
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,beef,ground;lean;tender;tough;raw;cooked;aged;prime;grass-fed;organic
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,bread,white;wheat;whole-grain;fresh;stale;sourdough;toasted;crusty;soft;warm
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,broccoli,green;fresh;raw;cooked;steamed;organic;healthy;frozen;florets;tender
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,cheese,cheddar;swiss;hard;soft;creamy;sharp;aged;blue;processed;organic
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,chicken,fried;roasted;grilled;raw;cooked;boneless;skinless;organic;tender;juicy
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,egg,fresh;raw;boiled;fried;scrambled;hard-boiled;soft-boiled;organic;cracked;white
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,fish,fresh;saltwater;freshwater;fried;grilled;raw;cooked;bony;flaky;oily
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,pasta,spaghetti;penne;cooked;dry;fresh;whole-wheat;stuffed;long;short;al dente
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,rice,white;brown;wild;cooked;steamed;fried;long-grain;short-grain;sticky;basmati
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Food Items,soup,hot;cold;chicken;vegetable;creamy;thick;thin;homemade;canned;tomato
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,artist,talented;famous;local;aspiring;struggling;modern;classical;innovative;contemporary;unknown
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,athlete,professional;amateur;talented;skilled;competitive;injured;dedicated;young;experienced;seasoned
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,chef,famous;talented;experienced;executive;sous;head;innovative;creative;pastry;skilled
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,doctor,experienced;qualified;dedicated;caring;young;old;family;general;specialist;skilled
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;structural;experienced;talented;young;innovative;qualified
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,farmer,local;organic;small;large;experienced;hard-working;independent;sustainable;family;modern
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,lawyer,experienced;successful;corporate;criminal;defense;prosecuting;talented;young;skilled;qualified
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,musician,talented;famous;local;aspiring;professional;classical;jazz;rock;young;experienced
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,scientist,research;leading;young;brilliant;experienced;dedicated;qualified;respected;innovative;theoretical
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,soldier,brave;young;experienced;decorated;injured;fallen;active;retired;loyal;dedicated
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,teacher,experienced;dedicated;caring;patient;young;old;qualified;effective;strict;enthusiastic
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Human Roles,writer,famous;talented;aspiring;experienced;young;published;struggling;freelance;creative;insightful
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,book,interesting;long;short;old;new;popular;hard;paperback;signed;illustrated
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,bridge,long;short;old;new;wooden;stone;concrete;steel;suspension;narrow
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,drums,loud;big;small;jazz;rock;electronic;acoustic;snare;bass;marching
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,earth,round;blue;green;rocky;dry;fertile;barren;warm;cold;polluted
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;long;short;high;low;simple;ornate;classical;concert
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,key,metal;small;big;rusty;shiny;important;spare;master;lost;found
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,knife,sharp;dull;kitchen;hunting;pocket;butter;steak;serrated;folding;blunt
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,lock,strong;weak;old;new;rusty;combination;key;secure;simple;complex
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,moon,bright;full;new;crescent;waxing;waning;silver;big;small;distant
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;ballpoint;fountain;gel;fine;thick;expensive;cheap
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,sun,bright;hot;warm;setting;rising;morning;afternoon;summer;winter;golden
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Inanimate Objects,sword,sharp;long;short;steel;antique;ceremonial;rusty;dull;heavy;light
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,cat,small;black;white;grey;stray;fluffy;cute;lazy;playful;friendly
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;brown;loyal;friendly;playful;stray;trained
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;grey;small;big;wild;trained;friendly;ocean;bottlenose
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,elephant,big;grey;wild;african;asian;old;young;strong;gentle;giant
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,hamster,small;brown;cute;furry;playful;nocturnal;quiet;active;caged;tiny
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,monkey,small;brown;playful;intelligent;wild;trained;cute;furry;active;agile
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,mouse,small;grey;wild;house;cute;furry;quiet;shy;quick;tiny
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,peacock,colorful;beautiful;large;proud;male;wild;exotic;stunning;striking;showy
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,rabbit,small;white;brown;cute;fluffy;wild;pet;long-eared;hopping;shy
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,shark,big;dangerous;grey;white;ocean;great;hammerhead;predatory;fierce;powerful
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,snake,long;green;brown;poisonous;venomous;dangerous;wild;small;big;scaly
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Neutral Animals,whale,big;blue;grey;ocean;giant;baleen;toothed;migratory;endangered;majestic
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,city,big;large;busy;modern;old;historical;industrial;coastal;crowded;urban
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,desert,hot;dry;sandy;barren;vast;arid;empty;desolate;rocky;endless
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,forest,green;dense;dark;old;tall;thick;wild;peaceful;ancient;large
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,island,small;tropical;remote;deserted;volcanic;inhabited;beautiful;green;large;sandy
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,lake,large;small;deep;clear;blue;freshwater;calm;peaceful;scenic;shallow
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,mountain,high;tall;snow-capped;rocky;green;steep;majestic;dangerous;distant;rugged
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,ocean,blue;deep;vast;large;cold;warm;stormy;calm;salty;endless
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,plain,flat;open;wide;grassy;barren;endless;vast;treeless;desolate;rolling
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,plateau,high;flat;elevated;rocky;dry;barren;vast;windy;remote;table-top
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,river,long;wide;deep;narrow;fast;slow;winding;muddy;clear;navigable
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,valley,green;wide;narrow;deep;scenic;fertile;peaceful;beautiful;sheltered;hidden
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Places,village,small;quiet;peaceful;rural;traditional;old;charming;picturesque;remote;friendly
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,cactus,green;tall;thorny;prickly;desert;spiky;small;flowering;succulent
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,eggplant,purple;large;small;raw;cooked;ripe;shiny;smooth;fried;sliced
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;fresh;blooming;small;large;wild;delicate;artificial
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,grass,green;short;tall;dry;wet;long;lush;thick;thin;artificial
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,lettuce,green;crisp;fresh;leafy;raw;salad;romaine;iceberg;butter;organic
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,mushroom,wild;edible;poisonous;large;small;brown;white;fresh;dried;savory
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,onion,white;yellow;red;raw;cooked;strong;sweet;chopped;sliced;fried
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,pepper,black;white;red;green;spicy;hot;sweet;fresh;dried;ground
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,potato,white;red;brown;baked;fried;mashed;boiled;small;large;organic
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,rose,red;pink;white;yellow;fragrant;beautiful;thorny;fresh;blooming;delicate
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,tomato,red;ripe;green;fresh;juicy;raw;cooked;sliced;diced;organic
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Plants,tree,tall;green;old;big;small;deciduous;evergreen;leafy;strong;weak
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,ally,strong;loyal;dependable;reliable;powerful;important;strategic;close;unexpected;steadfast
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,brother,older;younger;little;big;close;loving;annoying;protective;supportive;half;step
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,enemy,bitter;sworn;formidable;relentless;powerful;dangerous;mortal;implacable;cunning;ruthless
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,father,loving;strict;protective;supportive;older;younger;biological;adoptive;step;caring
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,follower,loyal;devoted;faithful;ardent;enthusiastic;passive;active;blind;numerous;growing
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,friend,close;good;old;new;best;loyal;supportive;true;childhood;helpful
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,leader,strong;charismatic;effective;powerful;inspiring;respected;corrupt;decisive;popular;autocratic
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,mother,loving;caring;protective;supportive;older;younger;biological;adoptive;step;working
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,partner,business;romantic;life;legal;equal;senior;junior;reliable;trusted;new
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,rival,fierce;bitter;friendly;main;close;worthy;respected;ambitious;professional;longstanding
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,sister,older;younger;little;big;close;loving;annoying;protective;supportive;half;step
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Social Relationships,stranger,unknown;mysterious;suspicious;friendly;helpful;passing;silent;wary;threatening;curious
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,above,high;clear;blue;bright;far;up;directly;just;well;way
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,back,strong;weak;sore;lower;upper;straight;stiff;broad;aching;healthy
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,below,low;deep;far;under;directly;just;well;way;freezing;ground
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,east,far;middle;near;wild;central;western;eastern;southeastern;northeastern;true
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,front,big;small;main;open;close;near;direct;forward;immediate;facing
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,inside,warm;cold;dark;bright;safe;clean;dirty;dry;quiet;loud
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,left,far;near;straight;right;remaining;main;only;entire;other;gone
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,north,far;deep;wild;central;southern;northern;southwestern;northwestern;true;great
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,outside,cold;warm;bright;dark;wet;dry;open;closed;quiet;loud
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,right,far;near;straight;left;correct;moral;legal;human;civil;given
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,south,far;deep;wild;central;northern;southern;southwestern;southeastern;true;great
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Spatial Concepts,west,far;deep;wild;central;eastern;western;southwestern;northwestern;true;great
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,century,21st;20th;past;future;present;new;old;long;short;bygone
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,day,sunny;cloudy;long;short;good;bad;busy;free;special;ordinary
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,evening,warm;cool;dark;pleasant;quiet;busy;long;short;beautiful;peaceful
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,hour,long;short;late;early;golden;wasted;precious;scheduled;odd;eventful
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,minute,long;short;precious;wasted;crucial;vital;final;fleeting;exact;extra
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,month,January;February;long;short;warm;cold;summer;winter;early;late
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,morning,early;late;sunny;bright;cold;warm;beautiful;fresh;peaceful;busy
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,night,dark;long;short;quiet;peaceful;busy;sleepless;starry;late;early
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,season,summer;winter;spring;autumn;rainy;dry;long;short;favorite;current
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,second,split;brief;long;final;extra;important;crucial;only;winning;next
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,week,long;short;busy;good;bad;current;next;last;working;full
+gemini-2.0-flash,basic,1.0,KO # Korean,Perfect,most frequent,Time Concepts,year,new;old;good;bad;last;next;current;past;future;leap

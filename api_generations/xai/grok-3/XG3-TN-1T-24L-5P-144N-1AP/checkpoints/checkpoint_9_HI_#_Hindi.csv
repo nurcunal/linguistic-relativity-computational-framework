@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,anger,strong;deep;sudden;fierce;burning;wild;bitter;intense;hot;dark
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,courage,brave;bold;fearless;strong;great;true;amazing;heroic;powerful;real
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,fear,deep;dark;cold;big;hidden;terrible;silent;heavy;sharp;growing
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,freedom,true;pure;sweet;complete;full;happy;new;precious;bright;open
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,happiness,pure;real;bright;warm;deep;simple;sweet;true;endless;joyful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,hate,strong;deep;bitter;dark;cold;fierce;hidden;burning;wild;painful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,honesty,true;pure;clear;real;strong;simple;bright;deep;open;good
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,justice,fair;true;strong;clear;pure;right;honest;equal;firm;powerful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,knowledge,deep;wide;great;useful;true;clear;vast;important;powerful;rich
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,love,true;deep;sweet;warm;pure;strong;endless;beautiful;soft;caring
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,peace,calm;quiet;sweet;deep;true;pure;soft;gentle;lasting;serene
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,wisdom,deep;great;true;clear;old;powerful;calm;pure;bright;strong
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,bell,loud;clear;small;shiny;old;golden;heavy;sweet;bright;ringing
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,candle,small;bright;warm;soft;white;glowing;tiny;beautiful;flickering;melting
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;warm;big;old;clean;beautiful;smooth;patterned
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,coin,old;shiny;small;round;heavy;silver;golden;rare;dirty;worn
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,crown,golden;heavy;shiny;beautiful;royal;old;precious;grand;sparkling;powerful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,flag,colorful;proud;national;big;bright;waving;strong;bold;torn;flying
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,mask,scary;funny;colorful;mysterious;old;wooden;painted;strange;dark;hidden
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,necklace,beautiful;shiny;long;golden;expensive;delicate;silver;heavy;sparkling;elegant
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;famous;big;detailed;bright;amazing;unique;artistic
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,ring,small;shiny;golden;beautiful;expensive;silver;delicate;round;sparkling;precious
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,statue,tall;old;beautiful;stone;heavy;grand;ancient;white;broken;detailed
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,vase,delicate;beautiful;old;tall;colorful;fragile;expensive;ceramic;empty;painted
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,cloud,white;fluffy;big;dark;soft;high;gray;moving;thick;rainy
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,earthquake,strong;scary;sudden;powerful;dangerous;terrible;destructive;loud;deep;violent
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,fog,thick;cold;white;heavy;mysterious;dark;wet;silent;dense;creepy
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,lightning,bright;fast;loud;scary;powerful;sharp;sudden;dangerous;white;striking
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;soft;wet;fresh;continuous;dark;gentle;sudden
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,rainbow,colorful;beautiful;bright;rare;amazing;magical;clear;wide;lovely;vibrant
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;thick;beautiful;quiet;fresh;falling;icy
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,storm,strong;loud;dark;scary;violent;heavy;sudden;dangerous;wild;powerful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,thunder,loud;deep;scary;sudden;strong;heavy;rolling;powerful;dark;booming
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,tide,high;low;strong;fast;dangerous;rising;powerful;cold;moving;rough
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,volcano,hot;dangerous;active;tall;fiery;dark;powerful;red;scary;sleeping
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,wind,strong;cold;fast;gentle;warm;loud;wild;soft;blowing;sharp
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,apple,red;sweet;fresh;round;juicy;green;ripe;small;crunchy;tasty
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,banana,yellow;sweet;soft;long;ripe;fresh;healthy;tasty;curved;small
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,beef,red;fresh;tender;juicy;cooked;spicy;raw;tough;grilled;delicious
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,bread,soft;fresh;warm;white;brown;tasty;crispy;hard;sliced;homemade
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,broccoli,green;fresh;healthy;small;raw;cooked;tasty;hard;bitter;steamed
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,cheese,yellow;soft;hard;creamy;tasty;smelly;white;melted;fresh;sliced
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,chicken,tasty;juicy;cooked;grilled;spicy;fresh;tender;roasted;white;soft
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,egg,white;fresh;boiled;fried;small;raw;yellow;hard;soft;broken
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,fish,fresh;tasty;cooked;raw;small;big;silver;grilled;smelly;wet
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,pasta,soft;tasty;hot;long;yellow;cooked;spicy;creamy;fresh;boiled
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,rice,white;soft;sticky;cooked;hot;tasty;brown;plain;fluffy;steamed
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Food Items,soup,hot;tasty;creamy;spicy;warm;thick;clear;fresh;healthy;salty
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,artist,creative;talented;famous;young;old;skilled;unique;passionate;poor;inspired
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,athlete,strong;fast;fit;young;talented;powerful;active;tough;competitive;skilled
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,chef,skilled;creative;famous;busy;talented;friendly;experienced;strict;innovative;passionate
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,doctor,kind;smart;busy;helpful;experienced;friendly;strict;caring;young;wise
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,engineer,smart;skilled;creative;busy;young;talented;experienced;hardworking;innovative;technical
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,farmer,hardworking;poor;old;strong;kind;simple;busy;experienced;friendly;tough
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,lawyer,smart;strict;busy;experienced;powerful;young;clever;confident;expensive;sharp
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,musician,talented;famous;creative;young;passionate;skilled;emotional;unique;loud;inspired
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,scientist,smart;curious;busy;experienced;young;clever;innovative;quiet;dedicated;brilliant
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,soldier,brave;strong;tough;young;loyal;strict;fearless;proud;disciplined;heroic
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,teacher,kind;strict;smart;patient;friendly;helpful;experienced;young;wise;caring
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Human Roles,writer,creative;talented;famous;quiet;young;passionate;skilled;inspired;emotional;unique
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,book,old;thick;interesting;new;big;small;heavy;colorful;boring;famous
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,bridge,long;old;strong;high;beautiful;wooden;narrow;wide;broken;modern
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,drums,loud;big;heavy;shiny;old;wooden;round;noisy;powerful;rhythmic
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,earth,big;round;green;beautiful;blue;old;vast;rich;warm;alive
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,flute,small;shiny;sweet;old;wooden;silver;long;beautiful;soft;delicate
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,key,small;shiny;old;silver;heavy;golden;rusty;important;tiny;lost
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,knife,sharp;small;heavy;shiny;dangerous;old;rusty;long;useful;silver
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,lock,strong;old;heavy;small;rusty;shiny;broken;secure;golden;tight
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,moon,bright;round;white;beautiful;big;pale;quiet;mysterious;full;silver
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,pen,small;black;blue;shiny;old;cheap;expensive;smooth;broken;useful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;warm;beautiful;golden;shining;powerful;red
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,sword,sharp;heavy;old;long;shiny;dangerous;silver;strong;rusty;powerful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,cat,small;cute;soft;black;white;lazy;playful;quiet;fluffy;wild
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,dog,big;loyal;friendly;brown;black;playful;loud;cute;strong;active
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,dolphin,smart;friendly;fast;blue;cute;playful;wild;beautiful;smooth;happy
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,elephant,big;strong;gray;heavy;slow;kind;wild;tall;gentle;powerful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,hamster,small;cute;fluffy;tiny;active;soft;brown;playful;shy;sweet
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,monkey,funny;active;small;brown;wild;clever;noisy;fast;naughty;playful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,mouse,small;tiny;gray;fast;shy;quiet;cute;little;sneaky;quick
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,peacock,beautiful;colorful;proud;big;bright;rare;elegant;loud;stunning;vibrant
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,rabbit,small;cute;white;soft;fast;shy;fluffy;playful;tiny;sweet
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,shark,big;dangerous;fast;gray;scary;wild;powerful;sharp;hungry;deadly
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,snake,long;dangerous;green;scary;slippery;wild;quiet;poisonous;fast;dark
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Neutral Animals,whale,huge;big;blue;gentle;heavy;slow;powerful;deep;rare;amazing
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,city,big;busy;noisy;modern;old;crowded;bright;dirty;beautiful;large
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,desert,hot;dry;vast;sandy;empty;quiet;harsh;lonely;golden;endless
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,forest,green;thick;dark;big;quiet;wild;deep;beautiful;dense;mysterious
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,island,small;beautiful;quiet;remote;green;tropical;lonely;sandy;peaceful;hidden
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,lake,blue;calm;deep;big;clear;cold;beautiful;quiet;still;fresh
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,mountain,tall;high;big;rocky;snowy;beautiful;steep;strong;cold;green
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,ocean,vast;deep;blue;big;wild;cold;powerful;salty;dark;endless
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,plain,flat;wide;open;green;vast;empty;quiet;simple;long;dry
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,plateau,high;flat;wide;dry;rocky;vast;cold;empty;quiet;barren
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,river,long;blue;deep;fast;clear;cold;wide;beautiful;calm;flowing
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,valley,green;deep;narrow;beautiful;quiet;long;wide;hidden;fertile;peaceful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Places,village,small;quiet;old;simple;peaceful;green;friendly;poor;beautiful;remote
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,cactus,green;sharp;tall;dry;small;tough;spiky;desert;hard;prickly
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,eggplant,purple;soft;fresh;big;tasty;smooth;raw;cooked;shiny;healthy
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,flower,beautiful;colorful;small;fresh;sweet;bright;delicate;soft;pretty;fragrant
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,grass,green;soft;thick;fresh;wet;tall;short;dry;smooth;wild
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,lettuce,green;fresh;crispy;soft;healthy;light;raw;tasty;small;cool
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,mushroom,small;brown;soft;tasty;raw;poisonous;white;fresh;round;wild
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,onion,strong;white;sharp;small;raw;tasty;round;smelly;fresh;yellow
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,pepper,spicy;red;green;hot;fresh;small;tasty;sharp;raw;colorful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,potato,brown;hard;tasty;fresh;big;small;cooked;raw;soft;round
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,rose,red;beautiful;soft;fragrant;small;delicate;bright;lovely;thorny;fresh
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,tomato,red;juicy;fresh;round;tasty;small;ripe;soft;raw;healthy
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Plants,tree,tall;green;old;big;strong;thick;beautiful;shady;wide;fruitful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,ally,loyal;helpful;friendly;strong;true;supportive;kind;close;reliable;trusted
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,brother,loving;caring;strong;funny;kind;protective;close;young;helpful;friendly
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,enemy,dangerous;strong;hateful;cruel;bad;cunning;fierce;hidden;powerful;bitter
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,father,kind;strong;loving;strict;caring;old;wise;protective;supportive;hardworking
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,follower,loyal;faithful;young;eager;quiet;supportive;true;obedient;dedicated;humble
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,friend,close;kind;funny;loyal;helpful;true;sweet;caring;supportive;honest
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,leader,strong;wise;bold;confident;powerful;strict;kind;smart;brave;inspiring
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,mother,loving;caring;kind;gentle;strong;sweet;strict;supportive;warm;wise
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,partner,loyal;supportive;kind;funny;loving;helpful;close;strong;caring;trusted
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,rival,strong;tough;competitive;cunning;smart;dangerous;bold;fierce;challenging;jealous
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,sister,loving;caring;funny;kind;sweet;close;helpful;young;protective;friendly
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Social Relationships,stranger,unknown;mysterious;quiet;cold;distant;weird;suspicious;shy;new;different
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,above,high;clear;bright;open;wide;far;distant;tall;empty;blue
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,back,strong;wide;straight;sore;hidden;dark;long;heavy;bent;tired
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,below,low;deep;dark;hidden;close;cold;quiet;small;narrow;silent
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,east,far;bright;warm;distant;new;rising;open;beautiful;early;clear
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,front,clear;open;wide;straight;close;bold;strong;bright;visible;leading
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,inside,warm;dark;quiet;hidden;small;cozy;safe;deep;comfortable;private
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,left,close;near;small;wrong;hidden;quiet;lower;distant;weak;opposite
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,north,cold;far;high;distant;dark;snowy;quiet;strong;remote;wild
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,outside,cold;open;wide;bright;noisy;fresh;big;wild;free;clear
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,right,correct;close;strong;near;proper;true;good;clear;bold;perfect
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,south,warm;far;bright;distant;hot;open;green;sunny;clear;tropical
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,west,far;distant;warm;setting;quiet;open;beautiful;late;golden;remote
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,century,old;long;past;new;important;great;ancient;historic;different;significant
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;happy;sad;bright;cold;warm
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,evening,cool;quiet;dark;calm;beautiful;late;peaceful;soft;relaxing;pleasant
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;late;early;happy;sad;important;quick
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,minute,quick;short;fast;long;busy;quiet;important;slow;precious;passing
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,month,long;short;busy;cold;hot;rainy;happy;sad;important;quiet
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,morning,early;fresh;bright;cool;quiet;beautiful;calm;new;sunny;peaceful
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,night,dark;long;quiet;cold;late;silent;beautiful;scary;peaceful;deep
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,season,hot;cold;wet;dry;long;short;beautiful;harsh;favorite;changing
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,second,quick;short;fast;important;tiny;passing;brief;small;critical;fleeting
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,week,long;short;busy;quiet;happy;sad;fast;slow;tiring;exciting
+grok-3,think-in-native,1.0,HI # Hindi,B1,most frequent,Time Concepts,year,long;short;busy;happy;sad;new;old;important;fast;memorable
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,anger,strong;intense;fierce;burning;deep;hot;wild;bitter;sudden;uncontrollable
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,courage,great;bold;fearless;strong;brave;heroic;amazing;true;inner;powerful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,fear,deep;constant;real;dark;hidden;sudden;cold;terrible;growing;silent
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,freedom,true;complete;personal;sweet;hard-earned;precious;new;long-awaited;basic;eternal
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,happiness,pure;simple;endless;warm;genuine;bright;real;deep;shared;lasting
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,hate,strong;deep;bitter;blind;fierce;burning;hidden;cold;intense;endless
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,honesty,true;complete;pure;simple;open;clear;strong;moral;real;absolute
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,justice,fair;equal;true;strict;honest;right;moral;social;legal;perfect
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,knowledge,deep;vast;useful;great;wide;practical;essential;basic;new;ancient
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,love,true;deep;endless;sweet;pure;warm;unconditional;romantic;lasting;gentle
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,peace,inner;lasting;true;calm;quiet;sweet;global;spiritual;beautiful;eternal
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,wisdom,deep;great;ancient;true;practical;quiet;timeless;spiritual;vast;humble
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,bell,loud;clear;small;golden;old;shiny;heavy;ringing;silver;beautiful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,candle,bright;warm;small;white;flickering;soft;scented;red;tall;burning
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,carpet,soft;thick;red;old;beautiful;warm;patterned;expensive;colorful;large
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,coin,old;shiny;small;silver;gold;rare;heavy;round;valuable;ancient
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,crown,golden;royal;heavy;beautiful;shiny;ancient;jeweled;grand;powerful;majestic
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,flag,national;colorful;bright;waving;proud;torn;old;symbolic;large;bold
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,mask,scary;black;funny;white;mysterious;colorful;wooden;strange;hidden;painted
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,necklace,beautiful;shiny;long;golden;silver;expensive;delicate;elegant;simple;heavy
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;famous;large;detailed;realistic;abstract;unique;expensive
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,ring,golden;shiny;small;silver;beautiful;expensive;simple;elegant;round;precious
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,statue,tall;old;stone;beautiful;ancient;large;grand;marble;famous;detailed
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,vase,delicate;old;beautiful;tall;ceramic;painted;expensive;small;colorful;elegant
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;heavy;soft;high;gray;thick;floating;rainy
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,earthquake,strong;sudden;terrible;destructive;scary;powerful;dangerous;violent;massive;unexpected
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,fog,thick;cold;gray;heavy;mysterious;dense;wet;silent;morning;creepy
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,lightning,bright;sudden;sharp;dangerous;powerful;quick;electric;scary;loud;striking
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;gentle;sudden;endless;soft;refreshing;dark
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,rainbow,colorful;beautiful;bright;magical;rare;lovely;clear;vivid;amazing;arched
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;thick;fresh;falling;quiet;beautiful;icy
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,storm,strong;dark;loud;dangerous;wild;sudden;violent;scary;heavy;powerful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,thunder,loud;deep;sudden;scary;powerful;rolling;strong;dark;booming;intense
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;powerful;dangerous;calm;steady;ocean
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,volcano,active;dangerous;tall;hot;fiery;dark;powerful;ancient;explosive;massive
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fast;wild;blowing;sharp;soft;noisy
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,apple,red;green;sweet;juicy;fresh;ripe;small;crisp;round;tasty
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;fresh;healthy;tasty;curved;small
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,beef,tender;fresh;red;juicy;cooked;raw;tasty;thick;lean;grilled
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,bread,soft;fresh;warm;brown;white;crusty;tasty;sliced;homemade;stale
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,broccoli,green;fresh;healthy;small;tender;raw;cooked;bitter;crisp;nutritious
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,cheese,yellow;soft;hard;creamy;tasty;white;melted;sharp;fresh;strong
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,chicken,tender;juicy;cooked;raw;roasted;fried;white;fresh;tasty;grilled
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,egg,white;fresh;boiled;fried;small;brown;raw;soft;hard;cracked
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,fish,fresh;raw;cooked;small;large;tasty;silver;salty;grilled;fried
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,pasta,soft;cooked;tasty;long;short;yellow;fresh;hot;creamy;spicy
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,rice,white;brown;cooked;sticky;soft;long;short;tasty;hot;plain
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Food Items,soup,hot;tasty;creamy;thick;warm;clear;spicy;fresh;light;healthy
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,artist,creative;talented;famous;young;old;skilled;unique;passionate;modern;struggling
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,athlete,strong;fast;fit;young;talented;disciplined;powerful;active;dedicated;famous
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,chef,skilled;creative;famous;busy;talented;experienced;passionate;young;professional;friendly
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,doctor,kind;skilled;experienced;busy;helpful;wise;trusted;young;caring;professional
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,engineer,smart;skilled;talented;young;experienced;creative;busy;innovative;dedicated;professional
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,farmer,hardworking;simple;kind;poor;old;experienced;strong;honest;busy;humble
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,lawyer,smart;strict;experienced;famous;busy;honest;tough;young;professional;clever
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,musician,talented;famous;creative;young;passionate;skilled;unique;modern;gifted;popular
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,scientist,smart;curious;dedicated;famous;young;experienced;brilliant;innovative;serious;wise
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,soldier,brave;strong;loyal;young;disciplined;tough;fearless;proud;dedicated;heroic
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,teacher,kind;strict;wise;patient;helpful;experienced;friendly;young;caring;knowledgeable
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Human Roles,writer,creative;talented;famous;young;passionate;skilled;unique;modern;serious;thoughtful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;heavy;small;famous;colorful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,bridge,long;old;strong;high;narrow;wide;beautiful;wooden;broken;famous
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,drums,loud;big;heavy;round;shiny;wooden;noisy;small;colorful;powerful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,earth,round;vast;green;blue;beautiful;ancient;rich;fertile;warm;alive
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,flute,small;wooden;shiny;sweet;old;long;silver;delicate;beautiful;soft
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,key,small;old;shiny;silver;golden;heavy;rusty;important;lost;tiny
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,knife,sharp;small;big;heavy;shiny;dangerous;rusty;old;silver;useful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,lock,old;heavy;strong;small;rusty;shiny;broken;silver;secure;tight
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,moon,bright;full;round;white;beautiful;pale;distant;magical;silver;quiet
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,pen,blue;black;small;cheap;expensive;old;shiny;smooth;light;useful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,sun,bright;hot;warm;yellow;powerful;round;golden;shining;distant;beautiful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,sword,sharp;heavy;long;old;shiny;dangerous;silver;ancient;powerful;strong
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,cat,soft;small;cute;black;white;fluffy;lazy;playful;quiet;friendly
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,dog,loyal;big;small;brown;friendly;active;cute;loud;brave;happy
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,dolphin,smart;friendly;fast;blue;playful;beautiful;sleek;wild;gentle;amazing
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,elephant,big;strong;gray;heavy;gentle;tall;wild;wise;slow;powerful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,hamster,small;cute;soft;tiny;fluffy;active;brown;quiet;playful;sweet
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,monkey,funny;active;small;brown;clever;wild;naughty;quick;playful;curious
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,mouse,small;tiny;gray;quick;quiet;shy;cute;fast;sneaky;soft
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,peacock,beautiful;colorful;proud;tall;bright;elegant;rare;lovely;grand;stunning
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,rabbit,soft;small;white;cute;fast;fluffy;shy;playful;brown;sweet
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,shark,big;dangerous;fast;gray;scary;powerful;wild;hungry;sharp;fierce
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,snake,long;dangerous;green;black;scary;quiet;slippery;poisonous;wild;thin
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Neutral Animals,whale,huge;big;blue;gentle;heavy;deep;wild;rare;amazing;powerful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,city,big;busy;noisy;modern;old;crowded;beautiful;large;famous;bright
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,desert,hot;dry;vast;sandy;empty;lonely;harsh;golden;wide;dangerous
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,forest,green;dense;dark;big;wild;quiet;beautiful;thick;ancient;mysterious
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,island,small;beautiful;remote;green;tropical;lonely;quiet;sandy;distant;lovely
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,lake,clear;blue;calm;deep;beautiful;still;cold;large;quiet;fresh
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,mountain,tall;high;rocky;snowy;beautiful;steep;big;cold;strong;ancient
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,ocean,vast;deep;blue;wild;powerful;calm;cold;endless;beautiful;salty
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,plain,flat;wide;green;open;vast;empty;quiet;dry;simple;peaceful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,plateau,high;flat;wide;dry;rocky;vast;cold;remote;open;barren
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,river,long;wide;clear;blue;deep;fast;calm;beautiful;winding;fresh
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,valley,green;deep;narrow;beautiful;quiet;fertile;long;wide;peaceful;hidden
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Places,village,small;quiet;simple;old;beautiful;peaceful;friendly;remote;poor;traditional
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,cactus,green;spiky;tall;small;dry;tough;sharp;desert;thick;hardy
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,eggplant,purple;soft;fresh;long;small;tasty;cooked;raw;smooth;bitter
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,flower,beautiful;colorful;small;fragrant;red;yellow;soft;delicate;bright;lovely
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,grass,green;soft;thick;short;long;fresh;wet;dry;tall;smooth
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,lettuce,green;fresh;crisp;light;healthy;raw;soft;tender;leafy;cool
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,mushroom,small;brown;white;soft;tasty;wild;poisonous;fresh;round;earthy
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,onion,strong;white;yellow;small;round;raw;cooked;sharp;bitter;fresh
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,pepper,spicy;red;green;small;hot;fresh;tasty;sharp;colorful;raw
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,potato,brown;round;small;tasty;soft;cooked;raw;fresh;hard;cheap
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,rose,red;beautiful;fragrant;delicate;soft;lovely;thorny;pink;fresh;romantic
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,tomato,red;juicy;fresh;round;small;ripe;tasty;soft;raw;sweet
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Plants,tree,tall;old;green;big;strong;leafy;thick;beautiful;shady;ancient
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,ally,loyal;trusted;close;strong;helpful;reliable;friendly;true;supportive;kind
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,brother,loving;caring;older;younger;close;funny;strong;protective;kind;annoying
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,enemy,dangerous;strong;bitter;old;fierce;hidden;cruel;powerful;hated;cunning
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,father,kind;strict;loving;strong;wise;caring;old;protective;hardworking;gentle
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,follower,loyal;dedicated;young;eager;obedient;true;supportive;quiet;faithful;active
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,friend,close;best;kind;funny;loyal;true;caring;helpful;old;dear
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,leader,strong;wise;powerful;kind;strict;brave;smart;respected;confident;inspiring
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,mother,loving;caring;kind;gentle;strong;wise;sweet;protective;warm;patient
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,partner,loyal;supportive;kind;close;trusted;loving;funny;caring;reliable;understanding
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,rival,strong;tough;bitter;fierce;dangerous;smart;old;competitive;jealous;cunning
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,sister,loving;caring;older;younger;sweet;funny;close;protective;kind;annoying
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Social Relationships,stranger,unknown;quiet;mysterious;cold;distant;strange;unfriendly;curious;silent;new
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,above,high;clear;bright;far;distant;open;wide;blue;empty;visible
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,back,rear;hidden;strong;straight;broad;sore;lower;upper;old;weak
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,below,low;deep;dark;hidden;close;quiet;cold;under;near;unseen
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,east,far;warm;ancient;distant;rising;bright;beautiful;cultural;remote;exotic
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,front,open;clear;wide;main;visible;leading;bold;strong;central;forward
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,inside,warm;dark;hidden;quiet;small;safe;cozy;deep;private;comfortable
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,left,near;close;side;remaining;abandoned;forgotten;wrong;opposite;hidden;unused
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,north,cold;far;distant;high;remote;snowy;quiet;harsh;wild;dark
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,outside,cold;open;wide;bright;noisy;fresh;far;public;visible;exposed
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,right,correct;near;side;proper;true;opposite;strong;main;clear;just
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,south,warm;far;sunny;distant;hot;green;bright;tropical;remote;beautiful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,west,far;distant;modern;wild;setting;bright;open;remote;cultural;vast
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,century,old;past;long;ancient;new;modern;important;historical;specific;recent
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;happy;sad;bright;dark;tiring
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,evening,quiet;cool;dark;peaceful;long;beautiful;calm;relaxing;late;pleasant
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,hour,long;short;busy;quiet;late;early;happy;sad;fast;slow
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,minute,quick;short;fast;slow;precious;last;busy;quiet;important;fleeting
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,month,long;short;busy;cold;hot;rainy;sunny;quiet;important;past
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,morning,early;bright;cool;fresh;quiet;beautiful;busy;calm;sunny;peaceful
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,night,dark;long;quiet;cold;late;silent;scary;beautiful;peaceful;starry
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,season,hot;cold;rainy;dry;long;short;beautiful;favorite;harsh;mild
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,second,quick;short;fast;last;important;fleeting;tiny;crucial;passing;brief
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,week,long;short;busy;quiet;hard;easy;tiring;happy;sad;fast
+grok-3,think-in-native,1.0,HI # Hindi,B2,most frequent,Time Concepts,year,long;short;busy;happy;sad;important;new;old;hard;memorable
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,anger,intense;burning;fierce;uncontrollable;deep;bitter;raging;sudden;violent;suppressed
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,courage,brave;fearless;bold;daring;strong;heroic;admirable;steadfast;determined;valiant
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;constant;hidden;intense;chilling;gripping;sudden
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,freedom,absolute;true;hard-earned;precious;liberating;complete;personal;political;cherished;newfound
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,happiness,pure;genuine;boundless;radiant;infectious;lasting;simple;profound;unexpected;blissful
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,hate,bitter;intense;deep-rooted;fierce;blind;consuming;relentless;toxic;passionate;hidden
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,honesty,brutal;refreshing;absolute;unwavering;sincere;rare;admirable;transparent;fearless;pure
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,justice,fair;impartial;strict;deserved;long-awaited;swift;true;blind;moral;divine
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,knowledge,vast;deep;profound;practical;essential;ancient;theoretical;specialized;limitless;acquired
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,love,unconditional;passionate;eternal;tender;selfless;deep;romantic;true;enduring;innocent
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,peace,inner;lasting;fragile;serene;quiet;harmonious;global;temporary;spiritual;hard-won
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,wisdom,profound;timeless;practical;ancient;hard-earned;deep;insightful;philosophical;rare;guiding
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,bell,loud;clear;melodious;small;heavy;golden;old;resonant;tinkling;bronze
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,candle,flickering;warm;small;scented;white;tall;melting;decorative;dim;soft
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;expensive;patterned;old;woolen;Persian;dusty;luxurious
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,coin,old;shiny;rare;small;golden;silver;ancient;valuable;worn;commemorative
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,crown,golden;jeweled;heavy;royal;ancient;ceremonial;glittering;ornate;symbolic;majestic
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;torn;historic;bright;symbolic;bold;official
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,mask,mysterious;scary;colorful;traditional;wooden;painted;creepy;decorative;hidden;ceremonial
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,necklace,delicate;golden;silver;expensive;beautiful;long;beaded;elegant;precious;heirloom
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,painting,beautiful;old;famous;colorful;abstract;realistic;large;detailed;expensive;classic
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,ring,golden;silver;diamond;engagement;simple;ornate;antique;shiny;small;valuable
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,statue,tall;ancient;marble;bronze;majestic;detailed;historical;imposing;weathered;grand
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,vase,delicate;antique;ceramic;tall;floral;ornate;fragile;colorful;elegant;decorative
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;floating;thick;grey;ominous;soft;scattered
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;terrifying;massive;destructive;violent;unexpected;deadly;mild
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;cold;grey;heavy;eerie;morning;blinding;silent
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;dangerous;striking;vivid;electric;intense;jagged;spectacular
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,rain,heavy;light;gentle;sudden;cold;warm;endless;refreshing;steady;drizzling
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,rainbow,colorful;beautiful;bright;magical;rare;vibrant;fleeting;arched;stunning;natural
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;fluffy;fresh;falling;thick;powdery;icy
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,storm,fierce;violent;dark;sudden;raging;powerful;dangerous;loud;destructive;intense
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,thunder,loud;booming;deep;sudden;frightening;rolling;powerful;distant;rumbling;deafening
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,tide,high;low;strong;rising;powerful;calm;dangerous;incoming;outgoing;relentless
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;fiery;ancient;erupting;towering;destructive;smoky
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fierce;howling;gusty;brisk;wild;steady
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,apple,red;green;juicy;sweet;crisp;fresh;ripe;shiny;round;tart
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;healthy;peeled;spotted
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,beef,tender;juicy;grilled;fresh;lean;cooked;savory;rare;tough;seasoned
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,bread,fresh;soft;crusty;warm;white;brown;sliced;homemade;stale;toasted
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,broccoli,green;fresh;healthy;steamed;raw;tender;crisp;small;organic;bitter
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,cheese,creamy;sharp;melted;aged;yellow;soft;hard;tangy;salty;rich
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,chicken,grilled;roasted;tender;juicy;spicy;fried;lean;fresh;cooked;savory
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,egg,boiled;fried;fresh;white;brown;scrambled;soft;hard;cracked;organic
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,fish,fresh;grilled;raw;salty;oily;white;small;large;flaky;smoked
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,pasta,soft;al dente;fresh;creamy;spicy;homemade;long;short;cheesy;saucy
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;cooked;plain;fragrant;long-grain;short-grain
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Food Items,soup,hot;creamy;clear;hearty;spicy;savory;homemade;thick;warm;comforting
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,artist,talented;creative;famous;struggling;innovative;passionate;skilled;eccentric;visionary;dedicated
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,athlete,strong;fast;skilled;dedicated;competitive;fit;disciplined;talented;determined;agile
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,chef,skilled;creative;famous;passionate;experienced;innovative;busy;professional;talented;strict
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,doctor,kind;skilled;experienced;dedicated;caring;busy;knowledgeable;compassionate;trusted;strict
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,engineer,innovative;skilled;intelligent;practical;dedicated;experienced;creative;technical;analytical;hardworking
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,farmer,hardworking;dedicated;simple;experienced;tough;early-rising;rural;patient;skilled;resourceful
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,lawyer,sharp;confident;experienced;strict;intelligent;persuasive;busy;professional;ethical;aggressive
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,musician,talented;passionate;famous;creative;skilled;dedicated;expressive;versatile;gifted;inspiring
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,scientist,intelligent;curious;dedicated;innovative;analytical;brilliant;focused;patient;knowledgeable;meticulous
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,soldier,brave;disciplined;strong;loyal;courageous;dedicated;tough;heroic;trained;fearless
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,teacher,kind;patient;knowledgeable;strict;inspiring;dedicated;caring;wise;experienced;supportive
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Human Roles,writer,creative;talented;famous;imaginative;dedicated;insightful;prolific;expressive;thoughtful;skilled
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;hardcover;paperback;famous;worn
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,bridge,old;long;strong;narrow;wide;wooden;steel;historic;suspended;sturdy
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;large;small;tribal;modern;powerful;beaten;resonant;traditional
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,earth,vast;beautiful;green;blue;ancient;fragile;rich;diverse;living;fertile
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,flute,melodious;small;wooden;silver;delicate;ancient;soft;clear;traditional;enchanting
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,key,old;rusty;shiny;small;golden;silver;important;lost;spare;heavy
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,knife,sharp;small;large;rusty;shiny;dangerous;kitchen;pocket;serrated;blunt
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,lock,strong;old;rusty;secure;small;heavy;broken;new;tight;complicated
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,moon,full;bright;crescent;pale;mysterious;distant;glowing;silver;beautiful;serene
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,pen,black;blue;expensive;cheap;old;new;smooth;leaking;fine;ballpoint
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,sun,bright;hot;golden;warm;blazing;setting;rising;distant;powerful;radiant
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,sword,sharp;heavy;ancient;rusty;shiny;long;short;deadly;ceremonial;legendary
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,cat,cute;fluffy;lazy;playful;small;black;white;curious;independent;sleek
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,dog,loyal;friendly;big;small;energetic;protective;cute;playful;obedient;furry
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,dolphin,intelligent;friendly;playful;sleek;fast;beautiful;social;curious;graceful;wild
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,elephant,large;strong;gentle;grey;majestic;wise;slow;powerful;wild;endangered
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,hamster,tiny;cute;fluffy;active;small;furry;playful;shy;nocturnal;cuddly
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,monkey,naughty;playful;curious;agile;small;brown;clever;funny;wild;social
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,mouse,tiny;small;grey;quick;shy;sneaky;cute;quiet;timid;fast
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;majestic;vibrant;elegant;striking;rare;graceful;ornate
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,rabbit,cute;fluffy;small;white;fast;shy;soft;timid;playful;hopping
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,shark,dangerous;powerful;sleek;fast;deadly;large;grey;fearsome;predatory;wild
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,snake,slithery;dangerous;long;venomous;green;silent;coiled;creepy;deadly;scaly
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Neutral Animals,whale,huge;gentle;blue;massive;deep;mysterious;rare;powerful;graceful;migrating
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,city,busy;large;modern;crowded;noisy;vibrant;historic;polluted;sprawling;lively
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,desert,hot;dry;vast;barren;sandy;harsh;empty;endless;lonely;arid
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,forest,dense;green;dark;mysterious;ancient;thick;wild;silent;lush;sprawling
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,island,small;tropical;remote;beautiful;deserted;rocky;green;isolated;sandy;peaceful
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,lake,calm;clear;deep;blue;serene;still;cold;large;peaceful;reflective
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,mountain,tall;snowy;rugged;steep;majestic;rocky;high;ancient;beautiful;imposing
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,ocean,vast;deep;blue;wild;endless;powerful;mysterious;salty;rough;calm
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,plain,vast;flat;grassy;open;endless;dry;wide;barren;fertile;quiet
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,plateau,high;flat;wide;dry;rocky;elevated;vast;barren;remote;ancient
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,river,long;wide;flowing;calm;deep;clear;muddy;winding;powerful;sacred
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,valley,green;deep;narrow;beautiful;fertile;hidden;peaceful;lush;steep;quiet
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Places,village,small;quiet;remote;traditional;peaceful;friendly;simple;rural;old;quaint
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,cactus,spiky;green;tall;desert;dry;tough;small;prickly;hardy;unique
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,eggplant,purple;shiny;fresh;long;soft;cooked;healthy;raw;bitter;organic
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;small;fresh;blooming;lovely;wild
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,grass,green;soft;tall;short;fresh;wet;dry;thick;lush;trimmed
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,lettuce,green;fresh;crisp;leafy;healthy;light;raw;tender;organic;crunchy
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,mushroom,small;brown;white;edible;wild;soft;earthy;round;fresh;poisonous
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,onion,sharp;raw;white;red;strong;small;peeled;fresh;spicy;pungent
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,pepper,spicy;red;green;hot;fresh;small;mild;roasted;dried;colorful
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,potato,brown;starchy;fresh;raw;boiled;fried;small;large;organic;peeled
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;fresh;blooming;pink;elegant;romantic
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,tomato,red;juicy;fresh;ripe;round;small;large;sweet;tangy;organic
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Plants,tree,tall;old;green;strong;ancient;leafy;sturdy;bare;fruit-bearing;shady
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,ally,loyal;trusted;reliable;supportive;close;helpful;faithful;dependable;strong;true
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,brother,loving;protective;annoying;close;older;younger;caring;supportive;funny;loyal
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,enemy,fierce;dangerous;bitter;cunning;hostile;powerful;relentless;hidden;sworn;ruthless
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,father,loving;strict;caring;protective;wise;strong;supportive;kind;hardworking;gentle
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,follower,loyal;dedicated;obedient;supportive;faithful;eager;admiring;devoted;trusting;enthusiastic
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,friend,close;loyal;kind;funny;trustworthy;supportive;caring;true;old;reliable
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,leader,strong;wise;confident;inspiring;charismatic;bold;decisive;fair;visionary;powerful
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,mother,loving;caring;gentle;strict;protective;kind;nurturing;wise;strong;selfless
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,partner,supportive;loving;reliable;equal;close;trusting;understanding;compatible;loyal;committed
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,rival,strong;competitive;fierce;challenging;tough;persistent;bitter;formidable;aggressive;determined
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,sister,loving;annoying;caring;close;older;younger;supportive;funny;protective;kind
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Social Relationships,stranger,unknown;mysterious;suspicious;distant;quiet;unfamiliar;odd;polite;cold;curious
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,above,high;elevated;overhead;upper;towering;superior;lofty;skyward;aerial;raised
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,back,rear;hind;behind;posterior;distant;hidden;secondary;lower;remote;trailing
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,below,lower;beneath;under;underneath;inferior;submerged;sunken;bottom;hidden;deeper
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,east,eastern;oriental;rising;distant;far;cultural;ancient;exotic;sunny;coastal
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,front,forward;leading;ahead;foremost;primary;initial;facing;visible;prominent;first
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;deep;private;concealed;intimate;central;sheltered
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,left,western;remaining;abandoned;unused;opposite;liberal;awkward;sideways;stray;neglected
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,north,cold;upper;distant;polar;chilly;northern;remote;harsh;frosty;windy
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,outside,external;outer;open;exposed;distant;public;visible;exterior;far;surface
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,right,correct;proper;eastern;conservative;just;fitting;accurate;appropriate;precise;lawful
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,south,warm;lower;southern;tropical;sunny;coastal;hot;distant;exotic;humid
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,west,western;setting;distant;modern;far;coastal;open;pioneering;progressive;remote
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,century,past;old;new;ancient;long;modern;specific;historical;turning;defining
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,day,sunny;rainy;long;short;busy;quiet;special;ordinary;bright;cloudy
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,evening,calm;quiet;cool;dark;peaceful;late;pleasant;relaxing;dim;romantic
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;crucial;golden;fleeting;idle
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,minute,quick;short;fleeting;precious;last;brief;exact;tense;critical;passing
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,month,long;short;busy;quiet;cold;warm;rainy;dry;special;current
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,morning,early;bright;fresh;cool;quiet;busy;sunny;foggy;peaceful;dewy
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,night,dark;long;quiet;late;cold;starry;peaceful;silent;sleepless;eerie
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,season,rainy;dry;cold;hot;festive;long;short;changing;favorite;harsh
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,second,quick;brief;fleeting;instant;short;critical;last;passing;precise;vital
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,week,busy;long;short;quiet;hectic;eventful;normal;stressful;productive;relaxing
+grok-3,think-in-native,1.0,HI # Hindi,C1,most frequent,Time Concepts,year,long;short;busy;memorable;successful;challenging;past;new;important;eventful
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,anger,intense;fierce;burning;uncontrollable;deep;raw;explosive;bitter;suppressed;righteous
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,courage,brave;bold;fearless;daring;heroic;valiant;resolute;unwavering;strong;inspiring
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;chilling;haunting;constant;hidden;sudden;gripping
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,freedom,absolute;precious;hard-won;liberating;cherished;true;boundless;fragile;empowering;essential
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,happiness,pure;genuine;radiant;boundless;infectious;lasting;simple;unexpected;overwhelming;serene
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,hate,intense;bitter;deep;blind;destructive;consuming;fierce;relentless;toxic;hidden
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,honesty,brutal;unwavering;sincere;refreshing;rare;admirable;absolute;consistent;genuine;fearless
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,justice,fair;impartial;blind;swift;deserved;hard-fought;true;moral;righteous;elusive
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,knowledge,vast;deep;profound;invaluable;practical;theoretical;hidden;ancient;limitless;powerful
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,love,unconditional;passionate;eternal;true;deep;selfless;enduring;pure;romantic;unbreakable
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,peace,lasting;inner;serene;fragile;quiet;harmonious;calm;universal;hard-won;precious
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,wisdom,timeless;profound;ancient;practical;deep;insightful;earned;quiet;guiding;invaluable
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,bell,loud;clear;resonant;antique;small;golden;melodic;heavy;ornate;traditional
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,candle,flickering;warm;scented;small;delicate;melting;bright;decorative;soft;calming
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,carpet,soft;plush;colorful;thick;worn;elegant;patterned;expensive;cozy;handmade
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;valuable;small;golden;silver;historical;collectible;worn
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;majestic;ancient;ornate;symbolic;glittering;ceremonial
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,flag,national;colorful;tattered;proud;waving;symbolic;historic;bold;vibrant;iconic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,mask,mysterious;colorful;eerie;traditional;scary;intricate;hidden;decorative;ceremonial;dark
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,necklace,elegant;delicate;golden;beaded;expensive;shimmering;vintage;simple;ornate;sentimental
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,painting,beautiful;vivid;abstract;classic;detailed;expressive;colorful;old;inspiring;emotional
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,ring,golden;silver;diamond;simple;elegant;vintage;engraved;precious;small;shiny
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,statue,tall;ancient;marble;imposing;intricate;historical;majestic;weathered;bronze;iconic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,vase,delicate;ornate;antique;ceramic;tall;elegant;colorful;fragile;decorative;handcrafted
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,cloud,fluffy;white;dark;heavy;drifting;thick;light;stormy;scattered;ominous
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,earthquake,devastating;powerful;sudden;terrifying;destructive;massive;violent;unexpected;catastrophic;deadly
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,fog,thick;dense;eerie;mysterious;cold;heavy;silent;blinding;creeping;ghostly
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;jagged;powerful;dangerous;striking;electric;blinding;fierce;dramatic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,rain,heavy;light;gentle;torrential;steady;cold;refreshing;persistent;drizzling;sudden
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;beautiful;rare;magical;bright;fleeting;stunning;arched;vivid
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,snow,white;soft;heavy;fresh;cold;fluffy;silent;thick;sparkling;powdery
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,storm,violent;fierce;raging;dark;powerful;destructive;sudden;thunderous;wild;intense
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rumbling;startling;powerful;distant;echoing;menacing;rolling
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;receding;powerful;steady;dangerous;rhythmic;relentless
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;fiery;destructive;towering;ancient;erupting;dangerous;majestic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;brisk;relentless;gusty;wild;refreshing
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;fresh;tart;shiny;round;firm
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;healthy;spotted
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,beef,tender;juicy;grilled;lean;savory;fresh;marinated;rare;cooked;hearty
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,bread,fresh;warm;soft;crusty;white;brown;homemade;sliced;stale;aromatic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,broccoli,green;fresh;healthy;steamed;raw;crisp;tender;nutritious;vibrant;small
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,cheese,creamy;sharp;aged;melted;soft;hard;tangy;rich;yellow;pungent
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,chicken,grilled;roasted;tender;juicy;spicy;fried;savory;lean;fresh;seasoned
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,egg,boiled;fried;fresh;white;brown;soft;hard;scrambled;organic;small
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,fish,fresh;grilled;raw;tasty;flaky;oily;smoked;salted;frozen;delicate
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,pasta,soft;al dente;fresh;creamy;cheesy;spicy;homemade;boiled;savory;hearty
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;aromatic;plain;seasoned;long-grain;short-grain
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Food Items,soup,hot;creamy;hearty;spicy;clear;thick;savory;warm;homemade;comforting
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,artist,creative;talented;passionate;innovative;skilled;visionary;expressive;dedicated;unique;inspired
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,athlete,strong;fast;dedicated;skilled;competitive;determined;fit;agile;powerful;disciplined
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,chef,skilled;creative;experienced;innovative;passionate;talented;meticulous;professional;renowned;busy
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,doctor,compassionate;skilled;dedicated;knowledgeable;caring;experienced;trusted;busy;patient;wise
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,engineer,innovative;skilled;intelligent;creative;practical;technical;precise;dedicated;analytical;resourceful
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,farmer,hardworking;dedicated;patient;knowledgeable;rugged;humble;experienced;resilient;strong;traditional
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,lawyer,sharp;eloquent;dedicated;persuasive;experienced;cunning;professional;ethical;busy;assertive
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,musician,talented;passionate;skilled;creative;expressive;dedicated;gifted;versatile;inspired;charismatic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,scientist,curious;intelligent;dedicated;innovative;analytical;precise;knowledgeable;patient;visionary;meticulous
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,soldier,brave;disciplined;strong;loyal;courageous;dedicated;tough;fearless;patriotic;resilient
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,teacher,patient;dedicated;inspiring;knowledgeable;kind;strict;supportive;wise;caring;passionate
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Human Roles,writer,creative;imaginative;eloquent;insightful;talented;prolific;thoughtful;passionate;skilled;introspective
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,book,old;thick;new;interesting;captivating;worn;heavy;informative;engaging;classic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,bridge,old;sturdy;long;narrow;iconic;wooden;modern;suspended;arched;historic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;deep;powerful;traditional;beaten;resonant;tribal;large;energetic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,earth,vast;beautiful;green;blue;ancient;fragile;rich;living;dynamic;nurturing
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,flute,sweet;melodic;delicate;wooden;soft;high-pitched;elegant;traditional;serene;haunting
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,key,small;shiny;old;rusty;golden;important;heavy;hidden;spare;metal
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,knife,sharp;small;dangerous;rusty;kitchen;serrated;heavy;pointed;sleek;worn
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,lock,heavy;secure;old;rusty;strong;broken;small;shiny;ancient;reliable
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,moon,bright;full;crescent;pale;mysterious;distant;glowing;silver;beautiful;serene
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,pen,black;blue;elegant;cheap;expensive;smooth;old;leaking;stylish;simple
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,sun,bright;warm;golden;blazing;radiant;scorching;distant;powerful;life-giving;shining
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,sword,sharp;heavy;ancient;rusty;deadly;ceremonial;gleaming;forged;legendary;powerful
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,cat,fluffy;curious;lazy;playful;sleek;independent;soft;cunning;quiet;adorable
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,dog,loyal;friendly;energetic;protective;playful;obedient;furry;loud;loving;brave
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;friendly;sleek;fast;graceful;curious;social;gentle;aquatic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,elephant,massive;gentle;wise;strong;gray;majestic;slow;powerful;ancient;protective
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,hamster,tiny;cute;furry;active;shy;small;playful;soft;curious;delicate
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,monkey,playful;mischievous;agile;curious;loud;smart;social;wild;funny;energetic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,mouse,small;tiny;quick;shy;gray;sneaky;quiet;delicate;timid;fast
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;majestic;vibrant;elegant;stunning;ornate;striking;bold
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,rabbit,cute;fluffy;fast;shy;soft;white;timid;playful;small;hopping
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,shark,dangerous;fierce;powerful;sleek;deadly;fast;predatory;terrifying;huge;silent
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,snake,slithery;dangerous;venomous;silent;long;coiled;sneaky;scaly;creepy;deadly
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Neutral Animals,whale,massive;gentle;majestic;enormous;deep;powerful;graceful;mysterious;rare;migratory
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,city,busy;crowded;modern;noisy;vibrant;sprawling;historic;bustling;lively;urban
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,desert,vast;arid;hot;sandy;empty;harsh;barren;dry;endless;quiet
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,forest,dense;green;dark;ancient;mysterious;lush;quiet;wild;vast;enchanting
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,island,small;remote;tropical;beautiful;isolated;rocky;lush;serene;uninhabited;exotic
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,lake,calm;clear;deep;blue;still;serene;cold;vast;reflective;peaceful
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,mountain,tall;rugged;majestic;snowy;steep;ancient;imposing;rocky;grand;isolated
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,ocean,vast;deep;blue;powerful;endless;mysterious;turbulent;calm;immense;wild
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,plain,vast;flat;open;barren;wide;endless;grassy;quiet;expansive;simple
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,plateau,high;flat;rugged;remote;vast;barren;elevated;rocky;windswept;isolated
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,river,long;winding;clear;deep;swift;calm;mighty;muddy;serene;flowing
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,valley,green;deep;narrow;fertile;hidden;quiet;lush;scenic;peaceful;sheltered
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Places,village,small;quiet;remote;traditional;peaceful;charming;rural;simple;friendly;quaint
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,cactus,prickly;green;tall;desert;spiny;tough;dry;hardy;sharp;unique
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,eggplant,purple;shiny;fresh;smooth;firm;long;healthy;raw;tender;plump
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,flower,colorful;fragrant;delicate;beautiful;vibrant;soft;fresh;blooming;bright;lovely
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,grass,green;soft;lush;tall;fresh;thick;wet;dry;wild;short
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,lettuce,green;fresh;crisp;tender;leafy;light;healthy;raw;vibrant;soft
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,mushroom,small;brown;white;edible;poisonous;soft;earthy;wild;fresh;delicate
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,onion,sharp;pungent;white;red;raw;sweet;strong;fresh;layered;spicy
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,pepper,spicy;hot;red;green;fresh;mild;fiery;raw;colorful;bold
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,potato,brown;starchy;firm;raw;boiled;fresh;small;large;earthy;versatile
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,rose,red;fragrant;beautiful;delicate;thorny;elegant;vibrant;romantic;soft;blooming
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;soft;tangy;sweet;firm;plump
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Plants,tree,tall;old;green;sturdy;ancient;leafy;strong;bare;mighty;shady
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,ally,loyal;trusted;reliable;supportive;close;dependable;helpful;strong;true;steadfast
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,brother,loving;protective;annoying;close;older;younger;supportive;funny;caring;loyal
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,enemy,fierce;dangerous;cunning;hostile;relentless;bitter;powerful;sneaky;hated;formidable
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,father,strict;loving;protective;wise;caring;strong;supportive;hardworking;kind;guiding
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,follower,loyal;devoted;eager;obedient;supportive;enthusiastic;dedicated;trusting;admiring;faithful
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,friend,close;loyal;kind;funny;supportive;trusted;caring;reliable;honest;dear
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,leader,strong;inspiring;confident;visionary;decisive;bold;wise;charismatic;powerful;respected
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,mother,loving;caring;nurturing;strict;protective;kind;selfless;strong;wise;gentle
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,partner,loyal;supportive;loving;equal;trusted;reliable;close;understanding;committed
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,rival,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,sister,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Social Relationships,stranger,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,above,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,back,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,below,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,east,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,front,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,inside,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,left,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,north,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,outside,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,right,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,south,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,west,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,century,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,day,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,evening,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,hour,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,minute,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,month,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,morning,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,night,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,season,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,second,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,week,
+grok-3,think-in-native,1.0,HI # Hindi,C2,most frequent,Time Concepts,year,
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,anger,intense;fiery;burning;fierce;uncontrollable;deep;bitter;suppressed;explosive;raw
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,courage,brave;bold;fearless;daring;heroic;valiant;strong;resolute;gallant;determined
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,fear,intense;paralyzing;deep;irrational;overwhelming;constant;hidden;gripping;dark;chilling
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,freedom,absolute;cherished;hard-earned;liberating;true;precious;boundless;complete;personal;universal
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,happiness,pure;immense;genuine;radiant;boundless;infectious;lasting;simple;deep;overwhelming
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,hate,intense;bitter;deep-seated;burning;fierce;unrelenting;blind;toxic;destructive;passionate
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,honesty,complete;brutal;sincere;unwavering;pure;transparent;admirable;refreshing;rare;absolute
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,justice,fair;impartial;righteous;true;strict;overdue;blind;moral;divine;swift
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;valuable;practical;ancient;specialized;theoretical;immense
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,love,unconditional;passionate;deep;eternal;true;pure;selfless;intense;romantic;enduring
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,peace,inner;lasting;serene;calm;profound;global;fragile;quiet;harmonious;eternal
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,wisdom,ancient;profound;deep;timeless;practical;insightful;rare;divine;philosophical;earned
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;ringing;golden;small;ancient;melodic;heavy;ornate;church
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,candle,flickering;warm;soft;scented;tall;white;glowing;decorative;lit;calming
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,carpet,soft;thick;red;patterned;luxurious;worn;colorful;Persian;plush;elegant
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;silver;gold;small;ancient;valuable;worn;collectible
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ornate;ancient;majestic;ceremonial;glittering;symbolic
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;torn;historic;bright;striped;symbolic;flying
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,mask,mysterious;colorful;eerie;traditional;painted;wooden;scary;decorative;hidden;ceremonial
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,necklace,delicate;golden;silver;beaded;elegant;expensive;long;sparkling;antique;intricate
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,painting,beautiful;abstract;realistic;colorful;old;famous;detailed;vibrant;expressive;modern
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,ring,golden;silver;diamond;simple;elegant;engagement;antique;shiny;ornate;precious
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,statue,tall;marble;ancient;grand;detailed;bronze;majestic;historic;imposing;carved
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;ornate;ancient;floral;glass;decorative;elegant;fragile
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;white;dark;heavy;stormy;light;floating;gray;soft;scattered
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;violent;destructive;terrifying;massive;unexpected;deadly;seismic
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;eerie;mysterious;cold;heavy;gray;blinding;silent;morning
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;jagged;powerful;striking;dangerous;electric;blinding;fierce;dramatic
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;gentle;steady;pouring;cold;refreshing;relentless;sudden;drizzling
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;beautiful;bright;magical;rare;arched;stunning;vivid;fleeting
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,snow,white;soft;heavy;cold;fluffy;fresh;thick;powdery;falling;glistening
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,storm,violent;fierce;powerful;raging;dark;dangerous;sudden;intense;destructive;loud
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rolling;distant;powerful;startling;rumbling;ominous;echoing
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;relentless;calm;rising;receding
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;fiery;explosive;massive;dangerous;ancient;smoking;towering;destructive
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,wind,strong;gusty;cold;warm;gentle;fierce;howling;brisk;steady;chilling
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,apple,red;green;juicy;sweet;crisp;fresh;ripe;tart;small;shiny
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;healthy;peeled
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,beef,tender;juicy;grilled;rare;cooked;lean;savory;tough;fresh;marinated
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,bread,fresh;crusty;soft;warm;white;brown;sliced;homemade;toasted;stale
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,broccoli,green;fresh;steamed;raw;healthy;crisp;tender;small;organic;bitter
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,cheese,creamy;sharp;melted;aged;soft;hard;yellow;white;tangy;rich
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,chicken,grilled;fried;tender;juicy;roasted;spicy;fresh;cooked;boneless;savory
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,egg,boiled;fried;scrambled;fresh;white;brown;raw;soft;hard;cracked
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,fish,fresh;grilled;fried;raw;oily;white;flaky;smoked;salty;delicate
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,pasta,al dente;creamy;spicy;fresh;homemade;cheesy;saucy;soft;Italian;boiled
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;cooked;plain;spiced;fragrant;long-grain
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Food Items,soup,hot;creamy;hearty;spicy;clear;thick;homemade;savory;warm;comforting
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,artist,creative;talented;passionate;innovative;famous;struggling;skilled;visionary;expressive;eccentric
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,athlete,strong;fast;agile;dedicated;competitive;fit;talented;disciplined;powerful;determined
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,chef,skilled;creative;experienced;innovative;passionate;busy;professional;talented;meticulous;renowned
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,doctor,compassionate;skilled;dedicated;experienced;kind;busy;knowledgeable;caring;trusted;patient
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,engineer,innovative;skilled;technical;creative;brilliant;hardworking;precise;practical;analytical;experienced
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,farmer,hardworking;dedicated;skilled;humble;patient;experienced;tough;rural;resilient;resourceful
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,lawyer,sharp;confident;skilled;persuasive;experienced;aggressive;ethical;clever;dedicated;successful
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,musician,talented;passionate;creative;skilled;famous;dedicated;versatile;expressive;gifted;inspired
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,scientist,brilliant;curious;innovative;dedicated;analytical;knowledgeable;meticulous;visionary;experimental;focused
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;heroic;dedicated;tough;fearless;patriotic;trained
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,teacher,patient;kind;knowledgeable;inspiring;dedicated;strict;supportive;wise;experienced;caring
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Human Roles,writer,creative;talented;imaginative;prolific;passionate;insightful;expressive;famous;dedicated;thoughtful
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;hardcover;paperback;worn;engaging
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,bridge,long;sturdy;old;modern;narrow;wide;suspended;iconic;wooden;concrete
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;deep;powerful;tribal;worn;shiny;large;small;beaten
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,earth,vast;beautiful;ancient;green;blue;fragile;rich;fertile;living;dynamic
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,flute,melodic;wooden;silver;delicate;soft;ancient;small;clear;enchanting;traditional
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,key,small;golden;rusty;old;shiny;important;duplicate;hidden;metal;spare
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,knife,sharp;rusty;small;large;serrated;dangerous;kitchen;pocket;dull;shiny
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,lock,heavy;rusty;secure;broken;small;large;metal;old;new;tight
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,moon,bright;full;crescent;pale;distant;mysterious;glowing;silver;beautiful;haunting
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,pen,black;blue;expensive;cheap;fountain;ballpoint;old;new;smooth;leaky
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,sun,bright;hot;golden;warm;blazing;radiant;rising;setting;powerful;blinding
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;rusty;ceremonial;deadly;long;short;polished;legendary
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,cat,cute;furry;lazy;playful;small;black;white;independent;curious;agile
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;big;small;playful;protective;energetic;cute;obedient;furry
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;friendly;sleek;fast;social;graceful;curious;wild;gentle
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,elephant,large;majestic;strong;gentle;gray;wild;intelligent;massive;powerful;wise
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,hamster,tiny;cute;fluffy;active;small;furry;playful;shy;cuddly;nocturnal
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,monkey,playful;mischievous;agile;curious;clever;wild;small;loud;social;energetic
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,mouse,tiny;small;shy;quick;gray;quiet;sneaky;cute;timid;fast
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,peacock,beautiful;colorful;proud;majestic;vibrant;stunning;elegant;ornate;striking;graceful
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,rabbit,cute;fluffy;fast;small;white;timid;playful;soft;hopping;gentle
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,shark,dangerous;fierce;powerful;sleek;predatory;fast;deadly;large;scary;wild
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,snake,slithery;dangerous;venomous;long;thin;scary;silent;colorful;coiled;wild
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,whale,massive;gentle;majestic;large;blue;powerful;migrating;deep;mysterious;endangered
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,city,busy;crowded;modern;noisy;vibrant;large;sprawling;historic;lively;urban
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,desert,vast;hot;dry;sandy;barren;endless;harsh;quiet;desolate;arid
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,forest,dense;green;dark;mysterious;ancient;thick;wild;lush;quiet;vast
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,island,small;tropical;remote;beautiful;isolated;green;sandy;rocky;uninhabited;exotic
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,lake,calm;clear;deep;blue;serene;large;quiet;freshwater;reflective;peaceful
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,mountain,tall;majestic;rocky;steep;snowy;rugged;high;ancient;imposing;breathtaking
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,ocean,vast;deep;blue;powerful;endless;wild;calm;mysterious;stormy;immense
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,plain,vast;flat;open;grassy;wide;endless;barren;fertile;quiet;expansive
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,plateau,high;flat;vast;rocky;barren;elevated;wide;ancient;dry;remote
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,river,long;wide;flowing;calm;deep;clear;winding;mighty;blue;serene
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,valley,deep;green;narrow;fertile;beautiful;quiet;hidden;lush;scenic;peaceful
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Places,village,small;quiet;rural;peaceful;quaint;remote;friendly;traditional;simple;charming
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,cactus,prickly;green;tall;desert;spiny;tough;dry;sturdy;small;sharp
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;long;firm;bitter;ripe;organic;healthy
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;blooming;small;wild;fresh;vibrant
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,grass,green;tall;short;fresh;soft;thick;wet;dry;lush;wild
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,lettuce,green;fresh;crisp;leafy;healthy;light;raw;tender;organic;juicy
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,mushroom,small;brown;white;edible;wild;soft;earthy;fresh;poisonous;delicate
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,onion,pungent;raw;white;red;strong;fresh;peeled;sharp;layered;juicy
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,pepper,spicy;red;green;hot;fresh;sharp;small;colorful;mild;roasted
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,potato,brown;starchy;fresh;raw;boiled;fried;small;large;earthy;versatile
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;blooming;pink;romantic;elegant;fresh
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;small;sweet;tart;organic;plump
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Plants,tree,tall;old;green;sturdy;ancient;leafy;thick;fruit-bearing;shady;strong
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,ally,loyal;trusted;supportive;reliable;close;helpful;friendly;dependable;strong;true
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,brother,loving;protective;supportive;annoying;close;elder;younger;caring;playful;reliable
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,enemy,fierce;dangerous;cunning;hated;powerful;relentless;hostile;bitter;deceptive;formidable
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,father,loving;strict;supportive;caring;protective;wise;hardworking;kind;strong;responsible
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,follower,loyal;devoted;supportive;obedient;eager;dedicated;trusting;enthusiastic;humble;committed
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,friend,close;loyal;kind;trustworthy;funny;supportive;caring;honest;reliable;lifelong
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,leader,strong;confident;inspiring;decisive;visionary;charismatic;wise;bold;respected;powerful
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;protective;kind;strong;gentle;selfless;patient;wise
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,partner,loyal;supportive;loving;trusting;equal;compatible;reliable;caring;understanding;committed
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,rival,tough;competitive;challenging;fierce;strong;determined;aggressive;formidable;persistent;threatening
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,sister,loving;caring;supportive;annoying;close;elder;younger;funny;protective;sweet
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,stranger,unknown;mysterious;unfamiliar;distant;curious;quiet;suspicious;friendly;odd;unexpected
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,above,high;elevated;upper;overhead;towering;skyward;superior;aloft;topmost;soaring
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,back,rear;behind;posterior;hidden;last;secondary;distant;trailing;reverse;aft
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,below,lower;beneath;under;underneath;inferior;submerged;bottom;underground;deeper;lesser
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,east,eastern;oriental;rising;dawn;far;distant;Asian;cultural;ancient;mystic
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,front,forward;leading;ahead;primary;foremost;visible;main;first;facial;prominent
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;deep;private;secret;confined;inward;sheltered
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,left,westward;remaining;abandoned;liberal;odd;sideways;unused;past;forgotten;solitary
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,north,cold;polar;upper;chilly;distant;remote;arctic;frosty;northernmost;wintry
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,outside,external;outer;exterior;open;public;visible;distant;surrounding;exposed;peripheral
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,right,correct;proper;eastward;just;true;moral;fitting;accurate;appropriate;conservative
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,south,warm;southern;tropical;lower;sunny;balmy;hot;distant;meridional;subtropical
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,west,western;sunset;distant;frontier;modern;progressive;oceanic;evening;far;cultural
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,century,past;new;old;modern;ancient;recent;long;historic;turning;pivotal
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,day,bright;long;short;busy;lazy;sunny;rainy;tiring;special;ordinary
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,evening,calm;cool;quiet;peaceful;dark;late;relaxing;serene;pleasant;twilight
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,hour,long;short;busy;quiet;late;early;rushed;precious;fleeting;critical
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,minute,quick;brief;short;fleeting;precious;crucial;last;passing;exact;tiny
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,month,long;short;busy;quiet;cold;warm;rainy;festive;current;past
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,morning,early;fresh;bright;cool;quiet;busy;sunny;peaceful;dewy;crisp
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,night,dark;quiet;long;short;cold;warm;starry;late;silent;eerie
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,season,hot;cold;wet;dry;festive;rainy;sunny;harsh;mild;transitional
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,second,quick;brief;short;fleeting;critical;last;tiny;passing;precise;momentary
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,week,long;short
+grok-3,think-in-native,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,year,

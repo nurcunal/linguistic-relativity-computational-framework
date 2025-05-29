@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,anger,intense;blind;raw;sudden;deep;suppressed;righteous;simmering;explosive;quiet
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,courage,brave;bold;unwavering;heroic;fearless;steadfast;moral;quiet;inspiring;indomitable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,fear,intense;irrational;deep-seated;sudden;paralyzing;primal;overwhelming;creeping;unfounded;lingering
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,freedom,absolute;hard-won;personal;unrestricted;true;basic;newfound;precious;unlimited;democratic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,happiness,pure;lasting;genuine;fleeting;radiant;simple;profound;contagious;inner;joyful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,hate,intense;bitter;deep-seated;irrational;burning;blind;festering;mutual;unspoken;destructive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,honesty,brutal;unwavering;refreshing;absolute;straightforward;rare;heartfelt;painful;complete;admirable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,justice,swift;blind;social;poetic;true;equal;restorative;divine;impartial;delayed
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,knowledge,vast;practical;ancient;secret;profound;basic;specialized;shared;intuitive;empirical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,love,unconditional;passionate;enduring;pure;romantic;selfless;forbidden;deep;fleeting;platonic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,peace,inner;lasting;fragile;global;quiet;absolute;negotiated;spiritual;temporary;profound
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;innate;hard-earned;intuitive;worldly;quiet;superior
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,bell,ringing;antique;loud;small;golden;church;handheld;cracked;electronic;ornate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,candle,flickering;scented;tall;beeswax;decorative;melted;birthday;emergency;colored;aromatic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,carpet,plush;woolen;patterned;worn;oriental;thick;colorful;synthetic;rolled;antique
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,coin,shiny;ancient;rare;gold;silver;counterfeit;foreign;minted;tarnished;commemorative
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,crown,royal;jeweled;golden;ceremonial;ancient;symbolic;heavy;ornate;makeshift;imperial
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,flag,national;waving;colorful;tattered;symbolic;foreign;printed;historical;faded;patriotic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,mask,protective;decorative;theatrical;facial;mysterious;surgical;carved;festive;anonymous;elaborate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,necklace,pearl;gold;beaded;antique;simple;elegant;layered;diamond;handmade;choker
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,painting,abstract;vibrant;landscape;oil;famous;modern;detailed;portrait;faded;impressionist
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,ring,engagement;golden;silver;diamond;simple;antique;wedding;oversized;engraved;mood
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,statue,marble;towering;ancient;bronze;commemorative;lifelike;garden;damaged;heroic;modern
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,vase,ceramic;antique;floral;glass;decorative;tall;cracked;ornate;crystal;hand-painted
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,cloud,fluffy;dark;wispy;stormy;white;drifting;cumulus;low-hanging;billowing;rain-filled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,earthquake,devastating;minor;seismic;powerful;underground;sudden;destructive;shallow;tectonic;aftershock
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,fog,thick;dense;morning;eerie;coastal;rolling;light;persistent;mysterious;chilling
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,lightning,bright;forked;sudden;electrical;distant;striking;heat;nighttime;powerful;zigzag
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,rain,heavy;light;steady;torrential;gentle;seasonal;cold;refreshing;monsoon;drizzling
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,rainbow,vibrant;double;faint;colorful;arched;post-rain;full;fleeting;spectacular;natural
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,snow,fresh;powdery;heavy;melting;pristine;drifting;wet;blanket;fluffy;compacted
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,storm,violent;approaching;fierce;tropical;electrical;winter;raging;sudden;howling;distant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;crashing;ominous;rolling;sudden;echoing;faint;explosive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,tide,high;low;rising;ebbing;strong;incoming;outgoing;coastal;powerful;lunar
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,volcano,active;dormant;erupting;massive;fiery;ancient;smoking;underwater;threatening;shield
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,wind,strong;gentle;howling;gusty;cold;warm;steady;offshore;blustery;whispering
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,apple,red;crisp;juicy;green;ripe;tart;fresh;golden;spoiled;organic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,banana,yellow;ripe;peeled;green;sweet;spotted;fresh;overripe;curved;tropical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,beef,tender;lean;grilled;ground;rare;fatty;organic;aged;marbled;spiced
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,bread,fresh;sliced;whole-wheat;crusty;soft;toasted;homemade;stale;warm;rye
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,broccoli,fresh;steamed;green;crisp;organic;frozen;raw;tender;floreted;boiled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,cheese,sharp;creamy;aged;soft;grated;melted;hard;flavorful;blue;sliced
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,chicken,grilled;roasted;fried;organic;boneless;fresh;spicy;tender;free-range;marinated
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,egg,boiled;fresh;scrambled;brown;white;organic;fried;cracked;jumbo;fertilized
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,fish,fresh;grilled;smoked;wild;frozen;flaky;salted;oily;caught;filleted
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;stuffed;whole-wheat;sauced;homemade;twisted;boiled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,rice,steamed;white;brown;cooked;sticky;wild;fluffy;basmati;fried;uncooked
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Food Items,soup,hot;creamy;vegetable;hearty;spicy;clear;chilled;tomato;nourishing;instant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,artist,talented;creative;struggling;famous;visionary;dedicated;eccentric;emerging;skilled;innovative
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,athlete,professional;dedicated;fit;competitive;Olympic;injured;speedy;trained;versatile;star
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,chef,skilled;renowned;innovative;professional;passionate;celebrity;amateur;meticulous;talented;experienced
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,doctor,skilled;dedicated;specialist;emergency;compassionate;experienced;resident;surgical;primary;renowned
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,engineer,skilled;innovative;mechanical;civil;electrical;dedicated;software;creative;experienced;problem-solving
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,farmer,hardworking;organic;local;experienced;rural;dedicated;subsistence;commercial;innovative;family
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,lawyer,sharp;corporate;defense;experienced;ethical;trial;ambitious;criminal;dedicated;successful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,musician,talented;classical;rock;jazz;dedicated;emerging;virtuoso;indie;professional;passionate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,scientist,brilliant;dedicated;research;environmental;innovative;theoretical;experimental;renowned;curious;genetic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,soldier,brave;trained;elite;veteran;disciplined;combat;loyal;injured;frontline;heroic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,teacher,dedicated;inspiring;experienced;patient;elementary;passionate;strict;innovative;supportive;knowledgeable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Human Roles,writer,prolific;talented;mystery;aspiring;famous;freelance;poetic;dedicated;novelist;insightful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,book,thick;paperback;bestselling;ancient;illustrated;mystery;educational;worn;hardcover;digital
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,bridge,sturdy;ancient;suspension;wooden;modern;arched;collapsed;iconic;pedestrian;high
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,drums,rhythmic;loud;electronic;acoustic;tribal;professional;small;tuned;handmade;metal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,earth,fertile;round;blue;ancient;trembling;vast;green;molten;solid;habitable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,flute,wooden;silver;melodic;ancient;modern;handheld;tuned;bamboo;professional;sweet-sounding
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,key,small;brass;rusty;skeleton;electronic;spare;master;locked;modern;ornate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,knife,sharp;pocket;kitchen;rusty;Swiss;ceremonial;dull;folding;hunting;steel
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,lock,sturdy;electronic;rusty;combination;padlock;modern;broken;keyed;security;antique
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,moon,full;crescent;bright;waning;glowing;distant;blood;harvest;silvery;eclipsed
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,pen,black;fountain;ballpoint;erasable;antique;colorful;fine-tipped;gel;disposable;luxury
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,sun,bright;setting;rising;scorching;golden;midday;tropical;eclipsed;warm;distant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,sword,sharp;ancient;ceremonial;steel;enchanted;lightweight;decorative;medieval;curved;battle-worn
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,cat,fluffy;playful;stray;black;domestic;lazy;wild;curious;sleek;affectionate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,dog,loyal;energetic;stray;trained;small;large;barking;friendly;guard;playful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,dolphin,intelligent;playful;marine;graceful;wild;trained;leaping;sociable;sleek;endangered
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,elephant,massive;wild;gentle;African;Asian;endangered;trumpeting;intelligent;gray;charging
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,hamster,small;furry;playful;caged;nocturnal;tame;brown;active;pet;curious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,monkey,playful;agile;wild;mischievous;trained;swinging;intelligent;furry;tropical;curious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,mouse,small;timid;gray;computer;wild;electronic;scurrying;pet;wireless;mechanical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,peacock,colorful;majestic;wild;displaying;exotic;proud;feathered;garden;strutting;royal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,rabbit,fluffy;wild;pet;hopping;white;fast;burrow;cute;eastern;domesticated
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,shark,fierce;great;predatory;marine;endangered;fast;gray;hunting;deep-sea;aggressive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,snake,venomous;slithering;coiled;exotic;green;constrictor;wild;pet;dangerous;patterned
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Neutral Animals,whale,massive;migratory;blue;endangered;singing;deep-diving;graceful;marine;playful;ancient
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,city,bustling;modern;ancient;crowded;coastal;industrial;historic;sprawling;vibrant;polluted
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,desert,arid;vast;sandy;hot;barren;rocky;endless;remote;windswept;golden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,forest,dense;ancient;tropical;green;misty;enchanted;dark;vast;deciduous;protected
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,island,tropical;remote;volcanic;deserted;sandy;inhabited;coral;rugged;small;paradise
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,lake,serene;deep;frozen;crystal-clear;mountain;polluted;vast;scenic;freshwater;hidden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,mountain,towering;snowy;rugged;volcanic;majestic;remote;forested;steep;ancient;misty
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,ocean,vast;deep;stormy;blue;tropical;polluted;endless;calm;salty;mysterious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,plain,vast;grassy;flat;fertile;windswept;open;dry;rolling;endless;golden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,plateau,high;rocky;vast;elevated;flat;arid;scenic;ancient;windswept;remote
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,river,winding;mighty;polluted;clear;frozen;swift;ancient;navigable;muddy;scenic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,valley,lush;deep;narrow;fertile;hidden;scenic;mountainous;green;dry;peaceful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Places,village,quaint;rural;fishing;ancient;coastal;peaceful;remote;bustling;traditional;sleepy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,cactus,spiky;desert;tall;flowering;green;hardy;prickly;potted;wild;succulent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,eggplant,purple;fresh;glossy;roasted;organic;large;bitter;sliced;grilled;exotic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,flower,blooming;colorful;fragrant;wild;potted;wilted;exotic;delicate;garden;perennial
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,grass,green;lush;tall;dry;mowed;wild;synthetic;dew-covered;overgrown;soft
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,lettuce,crisp;fresh;green;organic;leafy;wilted;chopped;iceberg;romaine;hydroponic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,mushroom,wild;edible;poisonous;fresh;dried;button;giant;cultivated;flavorful;forest
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,onion,fresh;red;white;sliced;pungent;organic;dried;sweet;raw;caramelized
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,pepper,spicy;red;green;bell;fresh;ground;hot;sliced;sweet;dried
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,potato,baked;fresh;russet;organic;boiled;fried;small;sweet;peeled;starchy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,rose,red;blooming;thorny;fragrant;wild;white;hybrid;garden;wilted;elegant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,tomato,ripe;red;fresh;juicy;cherry;organic;sliced;vine-ripened;green;heirloom
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Plants,tree,tall;ancient;leafy;fruit-bearing;evergreen;shady;twisted;blooming;oak;dead
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,ally,reliable;strategic;faithful;powerful;secret;military;trusted;diplomatic;strong;supportive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,brother,older;younger;protective;twin;estranged;loving;mischievous;supportive;adopted;biological
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,enemy,sworn;bitter;formidable;ancient;hidden;ruthless;foreign;defeated;powerful;vengeful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,father,loving;strict;absent;biological;adoptive;proud;hardworking;distant;supportive;elderly
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;cult;social;dedicated;misguided;faithful;mass
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,friend,close;lifelong;casual;trustworthy;online;supportive;childhood;reliable;mutual;distant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,leader,charismatic;strong;visionary;democratic;authoritarian;effective;inspirational;controversial;elected;natural
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,mother,loving;nurturing;single;biological;adoptive;strict;protective;working;devoted;elderly
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,partner,business;romantic;equal;reliable;silent;professional;trusted;creative;supportive;long-term
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,rival,fierce;corporate;athletic;longstanding;bitter;competitive;professional;defeated;emerging;respected
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,sister,younger;older;protective;twin;estranged;loving;supportive;rebellious;biological;stepsister
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Social Relationships,stranger,mysterious;helpful;dangerous;passing;foreign;anonymous;wandering;suspicious;friendly;unknown
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,above,high;overhead;superior;elevated;uppermost;celestial;dominant;floating;aerial;transcendent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,back,rear;hidden;supportive;straight;aching;covered;muscular;distant;secondary;reversed
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,below,lower;underground;submerged;inferior;hidden;deep;sunken;beneath;sublevel;downward
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,east,eastern;rising;coastal;distant;sunny;ancient;directional;far;oriental;windswept
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,front,forward;main;leading;visible;battle;decorative;prominent;exterior;bold;upfront
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,inside,inner;hidden;cozy;protected;enclosed;secret;warm;internal;private;core
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,left,abandoned;western;unused;directional;overlooked;stray;forgotten;isolated;remaining;peripheral
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,north,northern;polar;cold;distant;magnetic;upper;frozen;directional;remote;arctic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,outside,external;chilly;visible;open;surrounding;exposed;distant;peripheral;fresh;boundary
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,right,correct;eastern;proper;directional;accurate;lawful;straight;justified;moral;precise
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,south,southern;warm;tropical;distant;directional;humid;lower;coastal;far;equatorial
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,west,western;setting;distant;coastal;directional;frontier;remote;golden;arid;far
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,century,past;current;upcoming;golden;dark;progressive;ancient;modern;revolutionary;forgotten
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,day,sunny;long;busy;short;rainy;ordinary;festive;working;lazy;memorable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,evening,quiet;romantic;cool;starry;relaxing;festive;late;golden;peaceful;eventful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,hour,early;late;golden;final;busy;quiet;fleeting;productive;endless;midnight
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,minute,brief;final;tense;quiet;crucial;fleeting;exact;waiting;silent;decisive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,month,busy;festive;rainy;short;long;productive;quiet;final;upcoming;memorable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,morning,fresh;foggy;bright;early;crisp;lazy;sunny;hectic;cool;routine
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,night,dark;starry;quiet;long;festive;stormy;sleepless;mysterious;chilly;endless
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,season,busy;festive;rainy;warm;cold;productive;quiet;final;upcoming;memorable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,second,final;brief;crucial;quiet;fleeting;exact;tense;decisive;waiting;silent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,week,busy;short;productive;quiet;final;upcoming;memorable;relaxing;hectic;ordinary
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B1,most frequent,Time Concepts,year,new;old;productive;challenging;memorable;quiet;final;upcoming;prosperous;eventful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,anger,intense;sudden;deep;boiling;raw;suppressed;righteous;blind;explosive;simmering
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,courage,brave;unwavering;bold;heroic;quiet;moral;steadfast;fearless;admirable;innate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,fear,intense;irrational;deep-seated;sudden;overwhelming;primal;nagging;paralyzing;instinctive;unfounded
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,freedom,absolute;personal;hard-won;unrestricted;basic;true;individual;economic;spiritual;newfound
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;fleeting;inner;radiant;everyday;profound;shared
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,hate,intense;bitter;deep-seated;irrational;blind;festering;mutual;simmering;destructive;enduring
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,honesty,brutal;unwavering;absolute;refreshing;straightforward;rare;heartfelt;complete;admirable;transparent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,justice,swift;blind;social;poetic;equal;restorative;divine;criminal;impartial;ultimate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,knowledge,vast;practical;ancient;specialized;hidden;theoretical;profound;basic;shared;cutting-edge
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,love,unconditional;passionate;enduring;pure;romantic;selfless;deep;forbidden;familial;fleeting
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,peace,inner;lasting;fragile;global;quiet;eternal;mental;negotiated;spiritual;absolute
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;innate;hard-earned;spiritual;intuitive;collective;enduring
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,bell,ringing;loud;clear;antique;golden;church;alarm;silver;handheld;electronic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,candle,flickering;scented;tall;waxen;decorative;aromatic;beeswax;emergency;colorful;slender
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,carpet,plush;woven;colorful;antique;soft;patterned;oriental;thick;rolled;synthetic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,coin,shiny;ancient;rare;gold;silver;foreign;counterfeit;minted;valuable;worn
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ceremonial;ancient;ornate;symbolic;heavy;imperial;sparkling
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,flag,national;waving;colorful;tattered;symbolic;foreign;proud;striped;historic;fluttering
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,mask,protective;decorative;facial;theatrical;anonymous;colorful;surgical;carved;festive;mysterious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,necklace,sparkling;gold;pearl;antique;beaded;elegant;silver;layered;delicate;ornate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,painting,vibrant;abstract;detailed;classic;modern;landscape;portrait;colorful;framed;masterful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,ring,golden;engagement;silver;antique;diamond;simple;etched;wedding;oversized;decorative
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,statue,towering;bronze;ancient;marble;heroic;modern;carved;monumental;lifelike;weathered
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,vase,ornate;ceramic;glass;antique;floral;decorative;tall;painted;crystal;elegant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,cloud,fluffy;dark;drifting;stormy;wispy;cumulus;high;gray;billowing;scattered
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,earthquake,devastating;minor;seismic;powerful;underground;sudden;destructive;shallow;tectonic;frequent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,fog,thick;dense;morning;mysterious;rolling;coastal;chilling;persistent;light;enveloping
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,lightning,striking;bright;forked;sudden;electrical;distant;vivid;dangerous;flashing;nighttime
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;seasonal;gentle;torrential;refreshing;misty;relentless
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,rainbow,vibrant;arched;colorful;fleeting;double;spectacular;natural;fading;bright;post-storm
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,snow,fresh;powdery;heavy;drifting;melting;pristine;fluffy;wet;accumulating;sparkling
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,storm,fierce;approaching;violent;tropical;brewing;electrical;howling;sudden;massive;coastal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,thunder,rumbling;loud;distant;crashing;ominous;echoing;sudden;rolling;explosive;nighttime
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,tide,high;low;rising;ebbing;strong;incoming;outgoing;tidal;crashing;gentle
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,volcano,active;dormant;erupting;massive;fiery;ancient;smoking;volcanic;towering;dangerous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,wind,strong;gentle;howling;brisk;gusty;chilling;steady;warm;blustery;offshore
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,apple,red;crisp;juicy;green;tart;fresh;ripe;sweet;organic;shiny
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,banana,yellow;ripe;peeled;sweet;green;curved;fresh;spotted;tropical;soft
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,beef,tender;lean;grilled;ground;rare;fatty;organic;seasoned;juicy;aged
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,bread,fresh;sliced;warm;crusty;whole-wheat;soft;toasted;homemade;yeasty;dense
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,broccoli,fresh;steamed;green;crisp;organic;floreted;raw;frozen;tender;nutritious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,cheese,sharp;creamy;aged;soft;grated;melted;hard;flavorful;mild;artisanal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,chicken,grilled;roasted;fresh;organic;boneless;fried;tender;spicy;whole;marinated
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,egg,fresh;boiled;scrambled;organic;large;cracked;fried;brown;raw;fertilized
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,fish,fresh;grilled;smoked;wild;flaky;frozen;oily;salted;caught;tender
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;stuffed;whole-wheat;sauced;homemade;twisted;colorful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,rice,steamed;white;brown;cooked;sticky;wild;fluffy;basmati;fried;aromatic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Food Items,soup,hot;creamy;vegetable;hearty;spicy;clear;chilled;flavorful;homemade;thick
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,artist,talented;creative;visionary;struggling;famous;dedicated;innovative;eccentric;skilled;emerging
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,athlete,professional;dedicated;fit;competitive;Olympic;injured;skilled;young;elite;determined
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,chef,skilled;renowned;innovative;professional;passionate;celebrity;trained;creative;meticulous;aspiring
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,doctor,skilled;experienced;caring;specialist;emergency;dedicated;young;respected;board-certified;compassionate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,engineer,skilled;innovative;mechanical;electrical;civil;experienced;creative;dedicated;software;practical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,farmer,hardworking;organic;local;experienced;rural;dedicated;sustainable;family;commercial;innovative
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,lawyer,sharp;experienced;corporate;defense;trial;ethical;ambitious;respected;young;criminal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,musician,talented;classical;rock;aspiring;famous;dedicated;jazz;skilled;indie;versatile
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,scientist,brilliant;dedicated;research;environmental;theoretical;innovative;medical;respected;young;experimental
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,soldier,brave;trained;elite;veteran;disciplined;combat;loyal;injured;young;heroic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,teacher,dedicated;experienced;inspiring;elementary;passionate;strict;creative;respected;young;effective
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Human Roles,writer,talented;prolific;aspiring;famous;creative;mystery;poetic;dedicated;freelance;insightful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,book,thick;hardcover;bestselling;ancient;paperback;illustrated;fictional;educational;worn;colorful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,bridge,sturdy;ancient;modern;suspension;wooden;arched;iconic;collapsed;high;narrow
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,drums,rhythmic;loud;electronic;acoustic;tribal;professional;handheld;tuned;vintage;booming
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,earth,fertile;dry;spinning;blue;ancient;molten;vast;green;rocky;habitable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,flute,wooden;silver;melodic;ancient;modern;handheld;tuned;orchestral;bamboo;polished
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,key,small;metal;rusty;spare;golden;electronic;skeleton;locked;decorative;modern
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,knife,sharp;kitchen;pocket;rusty;serrated;ceremonial;folding;blunt;steel;hunting
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,lock,sturdy;electronic;rusty;combination;padlock;modern;keyed;broken;secure;antique
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,moon,full;crescent;glowing;distant;waxing;waning;bright;silvery;eclipsed;mysterious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,pen,black;fountain;ballpoint;colorful;leaking;fine-tipped;antique;disposable;ergonomic;metallic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,sun,bright;setting;rising;scorching;golden;midday;distant;warm;blazing;eternal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,sword,sharp;ancient;ceremonial;steel;enchanted;heavy;decorative;medieval;gleaming;curved
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,cat,fluffy;playful;stray;black;domestic;wild;curious;sleepy;striped;affectionate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,dog,loyal;playful;stray;large;small;trained;energetic;barking;furry;protective
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,dolphin,playful;intelligent;marine;graceful;wild;bottlenose;leaping;social;endangered;swift
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,elephant,massive;gray;wild;endangered;gentle;trumpeting;African;charging;intelligent;majestic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,hamster,small;furry;playful;caged;nocturnal;pet;brown;active;fluffy;curious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,monkey,playful;agile;wild;mischievous;swinging;intelligent;tropical;furry;curious;noisy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,mouse,small;gray;timid;wild;computer;scurrying;pet;electronic;furry;quick
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,peacock,colorful;majestic;strutting;wild;feathered;exotic;proud;displaying;noisy;elegant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,rabbit,fluffy;hopping;wild;pet;white;fast;burrowing;cute;timid;furry
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,shark,fierce;great;predatory;marine;fast;endangered;gray;hunting;massive;sleek
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,snake,slithering;venomous;coiled;wild;colorful;constrictor;exotic;dangerous;sleek;pet
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Neutral Animals,whale,massive;migratory;blue;endangered;singing;graceful;deep-sea;playful;ancient;majestic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,city,bustling;modern;ancient;crowded;coastal;industrial;vibrant;historic;sprawling;polluted
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,desert,arid;vast;sandy;scorching;remote;barren;rocky;endless;windswept;golden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,forest,dense;ancient;tropical;green;misty;enchanted;vast;dark;leafy;quiet
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,island,tropical;remote;volcanic;deserted;lush;sandy;inhabited;coral;rugged;sunny
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,lake,serene;deep;frozen;crystal-clear;vast;mountain;polluted;scenic;freshwater;tranquil
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,mountain,towering;rugged;snowy;majestic;volcanic;steep;ancient;foggy;remote;green
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,ocean,vast;deep;stormy;blue;turbulent;endless;warm;frigid;wavy;mysterious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,plain,vast;flat;grassy;fertile;windswept;dry;endless;rolling;golden;barren
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,plateau,high;flat;rocky;elevated;vast;arid;scenic;ancient;windswept;rugged
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,river,winding;mighty;polluted;clear;flowing;ancient;wide;shallow;rapid;scenic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,valley,lush;narrow;fertile;deep;scenic;hidden;green;misty;remote;winding
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Places,village,quaint;rural;peaceful;ancient;coastal;mountain;sleepy;traditional;tiny;bustling
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,cactus,spiky;desert;tall;flowering;green;hardy;prickly;exotic;drought-resistant;small
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,eggplant,purple;fresh;glossy;ripe;organic;grilled;large;seeded;tender;exotic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,flower,blooming;colorful;fragrant;wild;delicate;exotic;wilted;perennial;bright;garden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,grass,green;lush;tall;dry;mowed;wild;soft;overgrown;fresh;patchy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,lettuce,crisp;fresh;green;organic;leafy;wilted;salad;raw;hydroponic;tender
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,mushroom,wild;edible;poisonous;fresh;button;dried;organic;large;flavorful;exotic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,onion,fresh;pungent;red;white;sliced;organic;raw;caramelized;mild;spicy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,pepper,spicy;red;green;fresh;bell;ground;hot;sweet;dried;colorful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,potato,fresh;baked;mashed;organic;small;large;peeled;fried;starchy;golden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,rose,red;blooming;thorny;fragrant;wild;hybrid;white;delicate;garden;elegant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,tomato,ripe;red;juicy;fresh;organic;sliced;cherry;vine-ripened;tangy;plump
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Plants,tree,tall;ancient;leafy;fruit-bearing;evergreen;shady;twisted;blooming;sturdy;bare
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,ally,reliable;strategic;faithful;powerful;secret;international;trusted;supportive;military;steadfast
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,brother,older;younger;protective;loving;estranged;twin;supportive;mischievous;caring;distant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,enemy,sworn;bitter;formidable;ancient;hidden;foreign;ruthless;declared;invisible;powerful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,father,loving;strict;absent;proud;hardworking;biological;adoptive;distant;supportive;elderly
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;cult;social;dedicated;passive;active;misguided
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,friend,close;lifelong;casual;trustworthy;online;supportive;childhood;reliable;distant;fun
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,leader,charismatic;effective;visionary;authoritarian;inspirational;elected;strong;democratic;weak;influential
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,mother,loving;nurturing;single;overprotective;biological;adoptive;working;caring;distant;strong
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,partner,business;romantic;equal;reliable;silent;professional;supportive;creative;trusted;long-term
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,rival,fierce;corporate;athletic;longstanding;bitter;competitive;secret;professional;direct;challenging
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,sister,younger;older;protective;loving;estranged;twin;supportive;mischievous;caring;distant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Social Relationships,stranger,mysterious;unknown;friendly;dangerous;passing;foreign;helpful;suspicious;wandering;anonymous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,above,high;overhead;superior;elevated;uppermost;celestial;floating;distant;airy;lofty
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,back,rear;hidden;supportive;aching;straight;covered;distant;strong;curved;exposed
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,below,underground;lower;submerged;inferior;hidden;deep;sunken;beneath;shadowy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,east,rising;distant;coastal;eastern;sunny;remote;ancient;forested;urban;misty
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,front,forward;leading;visible;main;bold;exposed;decorative;protective;wide;elegant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,inside,hidden;warm;secure;inner;cozy;enclosed;private;deep;protected;intimate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,left,abandoned;unused;western;forgotten;stray;isolated;vacant;shadowy;remote;overlooked
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,north,frozen;polar;northern;chilly;remote;forested;ancient;rugged;vast;snowy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,outside,external;cold;visible;open;exposed;distant;fresh;rural;urban;windy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,right,correct;eastern;absolute;proper;moral;straight;legal;immediate;inherent;justified
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,south,sunny;tropical;southern;warm;coastal;humid;remote;forested;vast;arid
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,west,wild;western;distant;coastal;rugged;sunset;remote;forested;vast;golden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,century,past;modern;ancient;golden;dark;progressive;turbulent;enlightened;forgotten;pivotal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,day,sunny;long;busy;short;rainy;ordinary;festive;lazy;clear;memorable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,evening,quiet;romantic;cool;starry;peaceful;late;festive;warm;relaxing;golden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,hour,late;early;golden;final;busy;quiet;fleeting;long;productive;dark
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,minute,brief;final;tense;quiet;crucial;fleeting;exact;silent;intense;passing
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,month,busy;short;long;festive;rainy;dry;memorable;quiet;productive;warm
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,morning,fresh;early;foggy;bright;crisp;lazy;sunny;chilly;productive;quiet
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,night,dark;starry;long;quiet;stormy;festive;cold;mysterious;sleepless;peaceful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,season,busy;festive;mild;harsh;rainy;dry;transitional;warm;cold;productive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,second,final;brief;crucial;fleeting;tense;quiet;exact;intense;passing;decisive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,week,busy;short;long;productive;relaxing;festive;quiet;rainy;memorable;ordinary
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,B2,most frequent,Time Concepts,year,new;old;productive;challenging;memorable;quiet;festive;busy;transitional;golden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,anger,intense;sudden;deep;boiling;blind;righteous;suppressed;explosive;simmering;uncontrolled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,courage,brave;heroic;unwavering;bold;fearless;moral;quiet;sudden;inspiring;steadfast
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,fear,intense;overwhelming;sudden;irrational;deep;paralyzing;creeping;primal;hidden;constant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,freedom,absolute;personal;hard-won;true;unlimited;basic;newfound;restricted;individual;collective
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;fleeting;overwhelming;quiet;shared;inner;radiant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,hate,intense;deep-seated;blind;irrational;burning;mutual;simmering;bitter;unfounded;enduring
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,honesty,brutal;unwavering;complete;refreshing;rare;straightforward;painful;absolute;heartfelt;transparent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,justice,swift;blind;social;poetic;true;delayed;equal;restorative;divine;impartial
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,knowledge,vast;practical;ancient;hidden;theoretical;profound;basic;specialized;shared;forbidden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,love,unconditional;passionate;enduring;pure;forbidden;mutual;fleeting;deep;romantic;selfless
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,peace,inner;lasting;fragile;global;quiet;temporary;profound;spiritual;hard-won;absolute
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;innate;hard-earned;intuitive;deep;worldly;quiet
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,bell,loud;ringing;antique;golden;small;church;alarm;decorative;broken;handheld
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,candle,flickering;scented;tall;waxen;decorative;birthday;emergency;colored;melted;aromatic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,carpet,soft;woolen;patterned;thick;antique;colorful;worn;oriental;synthetic;plush
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,coin,ancient;shiny;rare;gold;silver;counterfeit;foreign;worn;valuable;commemorative
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;ceremonial;heavy;symbolic;ornate;imperial;stolen
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,flag,national;waving;colorful;tattered;symbolic;foreign;proud;historical;striped;faded
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,mask,protective;decorative;theatrical;mysterious;facial;ancient;carnival;surgical;wooden;elaborate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,necklace,golden;pearl;antique;beaded;elegant;simple;diamond;handmade;long;valuable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,painting,vibrant;abstract;detailed;antique;modern;landscape;portrait;colorful;faded;masterful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,ring,golden;engagement;antique;simple;diamond;silver;oversized;engraved;wedding;magical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,statue,ancient;towering;bronze;marble;historical;damaged;heroic;modern;garden;lifelike
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,vase,antique;ceramic;decorative;tall;floral;glass;broken;ornate;simple;colorful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,cloud,fluffy;dark;wispy;stormy;white;drifting;low;cumulus;rainy;expansive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,earthquake,devastating;sudden;powerful;minor;seismic;destructive;underground;frequent;shallow;massive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,fog,thick;dense;misty;morning;chilling;coastal;persistent;light;eerie;rolling
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,lightning,bright;striking;forked;sudden;electrical;distant;powerful;nighttime;dangerous;vivid
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;torrential;gentle;seasonal;cold;warm;persistent;refreshing
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;double;faint;arched;post-rain;spectacular;fleeting;natural;full
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,snow,fresh;heavy;powdery;melting;deep;fluffy;wet;seasonal;pristine;drifting
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,storm,violent;approaching;fierce;tropical;sudden;electrical;howling;massive;winter;relentless
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;crashing;ominous;sudden;echoing;powerful;nighttime;rolling
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,tide,high;low;rising;ebbing;strong;coastal;incoming;outgoing;powerful;gentle
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;smoking;ancient;dangerous;fiery;underwater;towering
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,wind,strong;gentle;howling;cold;warm;gusty;steady;coastal;biting;refreshing
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,apple,red;green;crisp;juicy;fresh;ripe;tart;sweet;organic;shiny
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,banana,yellow;ripe;peeled;fresh;sweet;spotted;organic;curved;soft;tropical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,beef,tender;lean;grilled;fresh;ground;rare;fatty;organic;seasoned;juicy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,bread,fresh;warm;sliced;whole-wheat;crusty;soft;homemade;toasted;stale;artisanal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,broccoli,fresh;green;steamed;crisp;organic;frozen;raw;tender;floreted;nutritious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,cheese,sharp;creamy;aged;soft;hard;grated;melted;flavorful;imported;mild
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,chicken,grilled;roasted;fresh;organic;boneless;spicy;fried;tender;free-range;seasoned
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,egg,fresh;boiled;fried;organic;large;cracked;brown;white;runny;hard-boiled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,fish,fresh;grilled;smoked;wild-caught;flaky;salty;frozen;oily;steamed;exotic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;homemade;cheesy;sauced;twisted;colorful;Italian
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,rice,steamed;white;brown;cooked;sticky;fluffy;wild;seasoned;long-grain;aromatic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Food Items,soup,hot;creamy;vegetable;hearty;spicy;clear;homemade;chilled;flavorful;thick
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,artist,talented;creative;visionary;struggling;famous;dedicated;innovative;eccentric;skilled;passionate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,athlete,fit;dedicated;professional;Olympic;injured;speedy;strong;competitive;agile;determined
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,chef,skilled;innovative;famous;passionate;professional;creative;meticulous;trained;celebrity;talented
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,doctor,skilled;dedicated;experienced;compassionate;specialist;busy;renowned;young;caring;qualified
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,engineer,skilled;innovative;mechanical;electrical;creative;experienced;dedicated;problem-solving;talented;practical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,farmer,hardworking;local;organic;experienced;dedicated;rural;skilled;family;sustainable;independent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,lawyer,sharp;experienced;corporate;defense;ethical;ambitious;successful;trial;dedicated;reputable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,musician,talented;versatile;famous;struggling;innovative;classical;rock;dedicated;skilled;passionate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,scientist,brilliant;dedicated;innovative;theoretical;experimental;renowned;curious;skilled;environmental;medical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,soldier,brave;trained;disciplined;veteran;elite;wounded;loyal;combat-ready;heroic;dedicated
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,teacher,dedicated;inspiring;experienced;patient;creative;strict;knowledgeable;passionate;young;effective
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Human Roles,writer,talented;prolific;aspiring;famous;creative;mysterious;dedicated;fictional;journalistic;skilled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,book,thick;old;bestselling;hardcover;paperback;educational;fictional;illustrated;rare;engaging
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,bridge,old;sturdy;wooden;steel;suspension;ancient;modern;arched;damaged;iconic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;wooden;electronic;tribal;professional;small;acoustic;shiny;vintage
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,earth,fertile;round;blue;ancient;living;vast;rocky;green;spinning;mysterious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,flute,wooden;silver;melodic;ancient;shiny;handheld;professional;simple;bamboo;tuned
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,key,small;metal;rusty;golden;spare;electronic;antique;skeleton;modern;lost
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,knife,sharp;rusty;kitchen;pocket;ceremonial;dull;silver;folding;ancient;deadly
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,lock,rusty;secure;electronic;old;combination;modern;broken;padlock;keyed;sturdy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,moon,full;crescent;bright;waxing;waning;silvery;distant;mysterious;glowing;red
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,pen,black;fountain;ballpoint;cheap;elegant;leaking;colorful;antique;fine-tipped;disposable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,sun,bright;scorching;setting;rising;warm;distant;golden;midday;tropical;fading
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,sword,sharp;ancient;ceremonial;steel;magical;rusty;ornate;lightweight;deadly;jeweled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,cat,fluffy;playful;stray;black;lazy;curious;domestic;wild;sleek;affectionate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,dog,loyal;playful;stray;big;small;trained;energetic;friendly;barking;protective
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,dolphin,playful;intelligent;graceful;wild;marine;leaping;social;endangered;curious;sleek
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,elephant,massive;gray;wild;gentle;endangered;trumpeting;African;Asian;intelligent;majestic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,hamster,small;furry;playful;caged;nocturnal;cute;pet;active;brown;quick
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,monkey,playful;agile;wild;mischievous;intelligent;furry;tropical;curious;swinging;noisy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,mouse,small;gray;timid;wild;pet;quick;furry;computer;sneaky;laboratory
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,peacock,colorful;majestic;wild;proud;exotic;feathered;strutting;beautiful;noisy;royal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,rabbit,fluffy;quick;wild;pet;white;hopping;furry;timid;garden;playful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,shark,fierce;predatory;great;oceanic;dangerous;fast;gray;endangered;solitary;massive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,snake,slithery;venomous;long;wild;colorful;coiled;exotic;harmless;scaled;hidden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Neutral Animals,whale,massive;migratory;blue;endangered;graceful;deep-sea;singing;gentle;ancient;playful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,city,bustling;modern;ancient;crowded;vibrant;coastal;industrial;historic;sprawling;polluted
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,desert,vast;sandy;arid;hot;barren;remote;windswept;golden;endless;harsh
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,forest,dense;ancient;green;tropical;dark;lush;quiet;enchanted;vast;misty
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,island,tropical;remote;volcanic;sandy;deserted;lush;small;inhabited;rocky;paradise
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,lake,serene;deep;frozen;crystal-clear;large;mountain;polluted;scenic;freshwater;hidden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,mountain,towering;rugged;snowy;ancient;steep;majestic;volcanic;remote;green;foggy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;mysterious;tropical;frigid
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,plain,vast;flat;grassy;fertile;dry;endless;open;windswept;golden;barren
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,plateau,high;flat;rocky;elevated;vast;ancient;scenic;dry;windswept;remote
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,river,winding;mighty;shallow;polluted;clear;fast-flowing;ancient;scenic;frozen;muddy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,valley,lush;deep;narrow;fertile;hidden;scenic;mountainous;green;dry;peaceful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Places,village,quaint;rural;small;peaceful;ancient;coastal;isolated;bustling;traditional;charming
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,cactus,spiky;desert;tall;green;flowering;hardy;prickly;exotic;small;drought-resistant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,eggplant,purple;fresh;shiny;large;organic;grilled;bitter;ripe;smooth;vegetable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,flower,beautiful;colorful;fragrant;wild;blooming;delicate;exotic;wilted;garden;red
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,grass,green;lush;tall;dry;fresh;mowed;wild;soft;overgrown;damp
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,lettuce,fresh;crisp;green;organic;leafy;wilted;salad;raw;hydroponic;tender
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,mushroom,wild;edible;poisonous;fresh;large;button;dried;exotic;fungi;earthy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,onion,fresh;pungent;red;white;sliced;organic;raw;caramelized;spicy;bulbous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,pepper,spicy;red;green;fresh;bell;hot;ground;organic;sweet;dried
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,potato,fresh;baked;mashed;organic;small;large;peeled;fried;starchy;golden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,rose,red;fragrant;blooming;thorny;wild;beautiful;white;garden;delicate;hybrid
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,tomato,red;ripe;fresh;juicy;organic;cherry;sliced;vine-ripened;tangy;greenhouse
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Plants,tree,tall;ancient;leafy;fruit-bearing;evergreen;shady;twisted;blooming;massive;bare
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,ally,reliable;strong;faithful;strategic;trusted;powerful;loyal;helpful;steadfast;supportive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,brother,older;younger;protective;annoying;loving;twin;supportive;estranged;caring;mischievous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,enemy,sworn;bitter;formidable;hidden;powerful;ancient;ruthless;dangerous;declared;vengeful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,father,loving;strict;absent;proud;hardworking;supportive;distant;caring;biological;adoptive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;faithful;dedicated;cultish;supportive;passive;active
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,friend,close;loyal;old;new;trustworthy;fun;supportive;distant;childhood;reliable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,leader,charismatic;strong;visionary;effective;authoritarian;inspiring;weak;democratic;natural;competent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,mother,loving;caring;strict;single;protective;nurturing;absent;devoted;hardworking;supportive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,partner,reliable;business;romantic;equal;supportive;creative;trusted;professional;loyal;compatible
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,rival,fierce;longstanding;corporate;athletic;bitter;worthy;competitive;sneaky;powerful;respected
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,sister,younger;older;protective;annoying;loving;twin;supportive;estranged;caring;adventurous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Social Relationships,stranger,mysterious;dangerous;helpful;unknown;friendly;suspicious;wandering;foreign;intriguing;passing
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,above,high;overhead;superior;elevated;floating;distant;uppermost;celestial;prominent;airy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,back,rear;hidden;supportive;distant;strong;aching;covered;muscular;shadowy;reserved
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,below,low;underground;submerged;inferior;hidden;deep;sunken;beneath;shadowy;lower
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,east,rising;distant;coastal;sunny;ancient;exotic;far;eastern;mysterious;trade
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,front,forward;leading;visible;bold;main;exposed;defensive;prominent;stylish;direct
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,inside,hidden;warm;secure;inner;protected;cozy;secret;enclosed;private;internal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,left,abandoned;forgotten;western;unused;stray;isolated;remaining;overlooked;shadowy;vacant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,north,frozen;polar;distant;cold;ancient;northern;rugged;mysterious;vast;boreal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,outside,external;cold;exposed;fresh;distant;rural;open;adventurous;wild;peripheral
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,right,correct;moral;eastern;proper;accurate;lawful;dominant;justified;precise;rightful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,south,warm;tropical;distant;southern;humid;exotic;coastal;vast;sunny;arid
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,west,wild;distant;coastal;setting;western;rugged;mysterious;expansive;golden;frontier
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,century,past;future;golden;dark;modern;ancient;pivotal;transformative;prosperous;turbulent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,day,sunny;long;busy;short;rainy;ordinary;special;clear;exhausting;memorable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,evening,quiet;cool;romantic;long;peaceful;golden;relaxing;festive;dark;mild
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,hour,late;early;final;golden;busy;quiet;fleeting;endless;productive;relaxing
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,minute,brief;final;tense;quiet;crucial;fleeting;exact;silent;decisive;awkward
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,month,long;short;busy;festive;quiet;productive;rainy;sunny;final;memorable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,morning,fresh;early;foggy;bright;chilly;routine;energetic;crisp;lazy;golden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,night,dark;long;starry;quiet;restless;moonlit;cold;festive;mysterious;endless
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,season,busy;festive;quiet;rainy;sunny;transitional;mild;harsh;productive;relaxing
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,second,final;crucial;fleeting;tense;quiet;decisive;brief;exact;awkward;vital
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,week,long;short;busy;productive;relaxing;final;eventful;quiet;exhausting;memorable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C1,most frequent,Time Concepts,year,long;short;productive;challenging;memorable;final;busy;quiet;transformative;prosperous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;simmering;explosive;quiet;righteous;suppressed
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,courage,great;true;moral;physical;heroic;unwavering;bold;innate;foolish;quiet
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,fear,intense;sudden;deep;irrational;primal;overwhelming;hidden;constant;paralyzing;unfounded
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,freedom,absolute;true;personal;political;hard-won;unlimited;basic;economic;spiritual;fleeting
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;fleeting;profound;inner;shared;unexpected;radiant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,hate,intense;deep;blind;irrational;bitter;enduring;mutual;unspoken;destructive;simmering
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,honesty,brutal;complete;refreshing;rare;straightforward;unwavering;painful;absolute;heartfelt;transparent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,justice,swift;blind;social;poetic;true;equal;restorative;divine;criminal;impartial
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,knowledge,vast;deep;practical;theoretical;ancient;hidden;scientific;shared;innate;forbidden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,love,true;unconditional;passionate;enduring;forbidden;pure;romantic;selfless;fleeting;deep
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,peace,inner;lasting;fragile;global;quiet;eternal;temporary;spiritual;hard-won;absolute
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;innate;hard-earned;spiritual;quiet;universal;insightful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,bell,ringing;antique;small;large;golden;silver;church;alarm;handheld;decorative
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,candle,flickering;scented;tall;short;beeswax;colored;birthday;emergency;aromatic;melted
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,carpet,plush;woolen;patterned;oriental;worn;colorful;thick;synthetic;rolled;antique
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,coin,ancient;shiny;rare;gold;silver;foreign;counterfeit;commemorative;small;engraved
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;ceremonial;heavy;symbolic;ornate;imperial;simple
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,flag,national;waving;colorful;tattered;symbolic;foreign;printed;large;historical;striped
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,mask,protective;decorative;theatrical;facial;ancient;colorful;anonymous;surgical;ritual;eerie
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,necklace,pearl;golden;silver;beaded;antique;simple;elegant;layered;handmade;sparkling
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,painting,vibrant;abstract;landscape;portrait;modern;classic;detailed;oil;framed;colorful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,ring,golden;silver;engagement;antique;simple;engraved;diamond;wedding;oversized;plain
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,statue,marble;bronze;ancient;towering;modern;heroic;decorative;stone;lifelike;weathered
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,vase,ceramic;antique;floral;tall;decorative;glass;painted;ornate;simple;crystal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;wispy;stormy;white;drifting;low;cumulus;rainy;expansive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,earthquake,massive;sudden;destructive;shallow;deep;minor;tectonic;violent;aftershock;rumbling
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,fog,thick;dense;misty;morning;chilling;coastal;lingering;gray;enveloping;mysterious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,lightning,bright;forked;sudden;electrical;distant;striking;nighttime;powerful;flashing;ominous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;gentle;seasonal;cold;warm;tropical;relentless
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,rainbow,vibrant;double;faint;colorful;arched;post-rain;fleeting;full;spectacular;natural
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,snow,fresh;powdery;heavy;melting;deep;fluffy;wet;seasonal;pristine;drifting
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,storm,violent;brewing;tropical;electrical;fierce;approaching;winter;sudden;howling;massive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;crashing;ominous;echoing;sudden;nighttime;powerful;rolling
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,tide,high;low;rising;ebbing;strong;coastal;incoming;outgoing;tidal;gentle
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;smoking;ancient;fiery;volcanic;erupting;towering
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,wind,strong;gentle;howling;cold;warm;gusty;steady;coastal;northern;whipping
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,apple,red;green;juicy;fresh;ripe;tart;sweet;crisp;organic;shiny
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,banana,yellow;ripe;green;sweet;peeled;fresh;spotted;organic;curved;soft
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,beef,tender;lean;grilled;ground;rare;well-done;fresh;organic;fatty;marbled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,bread,fresh;warm;sliced;whole-wheat;crusty;soft;homemade;toasted;white;artisanal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,broccoli,fresh;steamed;green;crisp;organic;frozen;raw;tender;floreted;healthy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,cheese,sharp;creamy;aged;soft;hard;grated;melted;flavorful;mild;artisanal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,chicken,grilled;roasted;fresh;organic;boneless;fried;tender;spicy;whole;marinated
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,egg,fresh;boiled;fried;organic;large;brown;white;cracked;scrambled;runny
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,fish,fresh;grilled;smoked;wild;farmed;flaky;oily;frozen;salted;raw
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;whole-wheat;stuffed;sauced;homemade;twisted;colorful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,rice,steamed;white;brown;cooked;sticky;wild;fluffy;basmati;fried;aromatic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Food Items,soup,hot;creamy;vegetable;hearty;spicy;clear;chilled;homemade;thick;flavorful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,artist,talented;creative;visionary;struggling;famous;emerging;dedicated;innovative;eccentric;skilled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,athlete,professional;dedicated;fit;competitive;Olympic;injured;talented;speedy;strong;enduring
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,chef,skilled;renowned;innovative;professional;passionate;celebrity;amateur;talented;meticulous;creative
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,doctor,skilled;experienced;caring;specialist;emergency;dedicated;young;retired;compassionate;renowned
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,engineer,skilled;innovative;mechanical;electrical;dedicated;creative;experienced;junior;senior;practical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,farmer,hardworking;local;organic;experienced;rural;dedicated;family;modern;traditional;skilled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,lawyer,experienced;corporate;defense;skilled;ambitious;ethical;trial;junior;senior;dedicated
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,musician,talented;classical;rock;emerging;famous;dedicated;versatile;improvisational;skilled;passionate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,scientist,brilliant;dedicated;innovative;environmental;medical;theoretical;experimental;renowned;young;curious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,soldier,brave;trained;veteran;elite;young;disciplined;wounded;loyal;combat;honorable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,teacher,dedicated;experienced;inspiring;patient;elementary;high-school;passionate;strict;creative;knowledgeable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Human Roles,writer,talented;prolific;aspiring;famous;mystery;fiction;dedicated;poetic;journalistic;creative
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,book,old;new;hardcover;paperback;bestselling;educational;fictional;thick;illustrated;rare
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,bridge,old;modern;suspension;wooden;stone;high;narrow;iconic;collapsed;sturdy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;wooden;electronic;tribal;professional;small;large;tuned;vintage
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,earth,fertile;dry;vast;blue;spinning;ancient;living;rocky;green;molten
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,flute,wooden;silver;ancient;modern;melodic;handheld;professional;simple;tuned;ornate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,key,small;metal;rusty;golden;spare;electronic;skeleton;locked;modern;antique
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,knife,sharp;dull;kitchen;pocket;rusty;silver;ceremonial;folding;large;precise
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,lock,rusty;secure;electronic;old;modern;combination;padlock;door;broken;sturdy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,moon,full;crescent;bright;waxing;waning;distant;silvery;glowing;new;harvest
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,pen,black;ink;fountain;ballpoint;cheap;expensive;ergonomic;colorful;leaking;fine-tipped
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,sun,bright;setting;rising;scorching;warm;midday;golden;distant;summer;blazing
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,sword,sharp;ancient;ceremonial;steel;enchanted;heavy;lightweight;ornate;rusty;legendary
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,cat,black;fluffy;stray;domestic;playful;lazy;wild;orange;sleek;curious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,dog,loyal;playful;large;small;trained;stray;energetic;fluffy;guard;friendly
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,dolphin,playful;intelligent;marine;wild;captive;sleek;jumping;social;gray;curious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,elephant,large;wild;African;Asian;gentle;majestic;endangered;trained;gray;tusked
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,hamster,small;furry;pet;wild;active;nocturnal;caged;playful;brown;quick
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,monkey,playful;wild;curious;agile;trained;small;large;mischievous;tropical;intelligent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,mouse,small;gray;wild;pet;timid;quick;furry;laboratory;nocturnal;squeaky
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,peacock,colorful;majestic;wild;captive;male;female;strutting;exotic;feathered;proud
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,rabbit,fluffy;wild;pet;white;brown;fast;hopping;timid;domestic;furry
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,shark,great;white;dangerous;marine;predatory;large;swift;endangered;gray;fierce
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,snake,venomous;slithering;long;colorful;wild;pet;coiled;harmless;green;deadly
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Neutral Animals,whale,massive;blue;endangered;marine;singing;migratory;gray;playful;deep-diving;majestic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,city,bustling;modern;ancient;crowded;coastal;industrial;historic;sprawling;vibrant;polluted
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,desert,vast;arid;sandy;hot;barren;remote;rocky;endless;windswept;golden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,forest,dense;ancient;tropical;green;dark;lush;enchanted;quiet;vast;misty
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,island,tropical;remote;volcanic;deserted;green;rocky;inhabited;sandy;small;exotic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,lake,deep;clear;frozen;serene;large;mountain;polluted;freshwater;scenic;tranquil
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,mountain,tall;rugged;snowy;majestic;volcanic;remote;green;steep;ancient;foggy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;tropical;frigid;mysterious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,plain,vast;flat;grassy;fertile;dry;endless;rolling;open;windswept;golden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,plateau,high;flat;rocky;elevated;vast;arid;scenic;ancient;green;remote
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,river,wide;narrow;flowing;muddy;clear;winding;swift;ancient;frozen;scenic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,valley,deep;fertile;narrow;green;scenic;hidden;mountainous;lush;dry;peaceful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Places,village,quaint;rural;small;ancient;coastal;mountain;peaceful;isolated;bustling;traditional
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,cactus,spiky;desert;tall;flowering;green;hardy;small;prickly;exotic;drought-resistant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,eggplant,purple;fresh;ripe;glossy;organic;large;cooked;raw;firm;elongated
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,flower,beautiful;blooming;wild;colorful;fragrant;wilted;exotic;garden;red;delicate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,grass,green;lush;tall;dry;mowed;wild;soft;prickly;fresh;overgrown
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,lettuce,fresh;crisp;green;organic;leafy;wilted;raw;salad;hydroponic;tender
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,mushroom,wild;edible;poisonous;fresh;dried;large;small;button;flavorful;earthy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,onion,fresh;red;white;yellow;pungent;sliced;organic;raw;cooked;crisp
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,pepper,spicy;red;green;sweet;fresh;bell;hot;sliced;organic;crunchy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,potato,fresh;baked;boiled;organic;large;small;starchy;peeled;fried;earthy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,rose,red;blooming;thorny;fragrant;wild;garden;white;beautiful;wilted;hybrid
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,tomato,red;ripe;fresh;juicy;organic;cherry;sliced;raw;vine-ripened;plump
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Plants,tree,tall;ancient;green;leafy;fruit-bearing;shady;bare;oak;pine;flowering
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,ally,reliable;strategic;faithful;powerful;secret;international;trusted;strong;supportive;loyal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,brother,older;younger;protective;loving;estranged;twin;supportive;mischievous;caring;distant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,enemy,sworn;bitter;formidable;hidden;ancient;ruthless;foreign;powerful;declared;vengeful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,father,loving;strict;absent;proud;hardworking;biological;step;devoted;distant;supportive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;cult;social;dedicated;faithful;misguided;ardent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,friend,close;loyal;old;new;trustworthy;fun;distant;supportive;childhood;reliable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,leader,charismatic;strong;visionary;effective;authoritarian;inspirational;democratic;weak;natural;elected
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,mother,loving;caring;strict;single;devoted;biological;step;nurturing;absent;protective
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,partner,business;romantic;reliable;equal;supportive;professional;long-term;creative;trusted;committed
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,rival,fierce;corporate;athletic;bitter;longstanding;competitive;worthy;secret;professional;challenging
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,sister,older;younger;protective;loving;estranged;twin;supportive;mischievous;caring;distant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Social Relationships,stranger,mysterious;unknown;friendly;dangerous;passing;foreign;helpful;suspicious;wandering;enigmatic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,above,high;overhead;superior;elevated;upper;celestial;dominant;floating;soaring;prominent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,back,rear;hidden;supportive;distant;strong;aching;covered;muscular;shadowy;reserved
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,below,low;underground;inferior;submerged;hidden;deep;lesser;sunken;beneath;subordinate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,east,rising;distant;coastal;eastern;sunny;remote;ancient;forested;urban;mysterious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,front,forward;main;visible;leading;bold;exposed;decorative;protective;prominent;direct
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,inside,inner;hidden;cozy;secure;enclosed;private;warm;secret;internal;sheltered
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,left,abandoned;forgotten;western;unused;vacant;stray;isolated;remaining;overlooked;solitary
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,north,frozen;polar;distant;windy;forested;ancient;rugged;cold;remote;mysterious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,outside,external;cold;visible;open;exposed;fresh;distant;surrounding;public;natural
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,right,correct;eastern;proper;accurate;lawful;dominant;straight;justified;moral;precise
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,south,warm;tropical;distant;coastal;sunny;remote;humid;ancient;forested;vibrant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,west,wild;distant;coastal;sunset;rugged;ancient;dry;remote;mysterious;expansive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,century,past;future;golden;dark;modern;ancient;progressive;turbulent;enlightened;forgotten
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,day,sunny;rainy;long;short;busy;lazy;ordinary;special;clear;hectic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,evening,quiet;romantic;cool;peaceful;golden;relaxing;late;festive;dim;serene
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,hour,late;early;golden;final;busy;quiet;fleeting;long;productive;idle
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,minute,brief;final;crucial;passing;exact;stolen;quiet;tense;fleeting;precise
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,month,long;short;busy;festive;quiet;productive;rainy;sunny;final;upcoming
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,morning,fresh;early;foggy;bright;crisp;lazy;sunny;hectic;cool;peaceful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,night,dark;starry;long;quiet;stormy;festive;chilly;endless;mysterious;warm
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,season,warm;cold;festive;rainy;dry;blooming;harvest;transitional;mild;harsh
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,second,final;brief;crucial;passing;exact;stolen;tense;fleeting;precise;vital
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,week,long;short;busy;productive;relaxing;final;upcoming;quiet;eventful;ordinary
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,C2,most frequent,Time Concepts,year,new;old;productive;challenging;memorable;final;upcoming;quiet;eventful;prosperous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;hot;suppressed;righteous;explosive;simmering;uncontrolled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,courage,brave;bold;unwavering;heroic;fearless;steadfast;admirable;quiet;moral;indomitable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,fear,intense;overwhelming;primal;irrational;deep-seated;sudden;paralyzing;instinctive;nagging;unfounded
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,freedom,absolute;hard-won;personal;unlimited;true;basic;cherished;unrestricted;newfound;democratic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,happiness,pure;lasting;genuine;simple;overwhelming;quiet;infectious;fleeting;profound;radiant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,hate,intense;bitter;deep-seated;irrational;burning;blind;festering;mutual;unrelenting;poisonous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,honesty,brutal;unwavering;absolute;refreshing;straightforward;rare;heartfelt;complete;transparent;admirable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,justice,swift;blind;social;true;equal;poetic;restorative;divine;impartial;harsh
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,knowledge,vast;practical;ancient;hidden;profound;specialized;basic;shared;theoretical;invaluable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,love,unconditional;passionate;enduring;pure;romantic;selfless;deep;forbidden;platonic;tender
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,peace,inner;lasting;fragile;global;quiet;profound;temporary;spiritual;absolute;harmonious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;innate;hard-earned;intuitive;deep;worldly;enlightened
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,bell,loud;ringing;old;golden;church;alarm;silver;broken;electronic;decorative
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,candle,flickering;scented;tall;waxen;decorative;aromatic;melted;colored;slender;festive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,carpet,soft;patterned;thick;woolen;colorful;antique;plush;oriental;stained;rolled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,coin,shiny;ancient;rare;gold;silver;counterfeit;worn;foreign;valuable;engraved
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;ceremonial;heavy;ornate;symbolic;stolen;imperial
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,flag,national;waving;colorful;tattered;symbolic;foreign;proud;striped;faded;official
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,mask,decorative;protective;mysterious;facial;colorful;theatrical;surgical;carved;anonymous;festive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,necklace,sparkling;gold;pearl;antique;beaded;elegant;silver;layered;simple;ornate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,painting,vibrant;abstract;detailed;famous;landscape;oil;modern;portrait;faded;impressive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,ring,golden;diamond;engagement;antique;silver;simple;engraved;oversized;wedding;magical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,statue,towering;ancient;bronze;marble;heroic;damaged;modern;lifelike;commemorative;imposing
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,vase,ornate;ceramic;antique;glass;decorative;tall;floral;cracked;elegant;colorful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;dark;drifting;stormy;white;low-hanging;billowing;thin;cumulus;ominous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,earthquake,devastating;powerful;sudden;minor;seismic;destructive;underground;frequent;shallow;massive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;misty;rolling;early-morning;chilling;persistent;light;coastal;eerie
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,lightning,bright;jagged;sudden;electric;forked;distant;powerful;flashing;nighttime;spectacular
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;gentle;seasonal;cold;tropical;relentless;misty
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;arched;double;fleeting;spectacular;post-storm;faint;wide;magical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,snow,fresh;powdery;heavy;melting;deep;fluffy;wet;drifting;pristine;icy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,storm,violent;brewing;fierce;tropical;sudden;electrical;howling;massive;approaching;relentless
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;crashing;ominous;echoing;sudden;deep;nighttime;explosive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,tide,high;low;rising;ebbing;strong;coastal;incoming;outgoing;powerful;unpredictable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;smoking;ancient;fiery;towering;dangerous;submerged
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;howling;chilly;gusty;steady;warm;coastal;erratic;biting
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,apple,red;crisp;juicy;green;sweet;tart;fresh;ripe;organic;shiny
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,banana,yellow;ripe;peeled;sweet;green;curved;fresh;spotted;tropical;soft
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,beef,tender;grilled;lean;ground;fatty;rare;organic;seasoned;fresh;tough
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,bread,fresh;warm;sliced;whole-wheat;crusty;soft;toasted;homemade;stale;fluffy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,broccoli,fresh;green;steamed;crisp;organic;frozen;tender;raw;floreted;nutritious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,cheese,sharp;creamy;aged;soft;grated;melted;hard;flavorful;mild;imported
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,chicken,grilled;roasted;fresh;organic;boneless;fried;tender;spicy;whole;marinated
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,egg,fresh;boiled;scrambled;organic;large;fried;cracked;brown;runny;hard-boiled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,fish,fresh;grilled;smoked;wild-caught;flaky;frozen;oily;salted;raw;seasoned
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;stuffed;whole-wheat;sauced;homemade;twisted;colorful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,rice,steamed;white;brown;cooked;sticky;wild;fluffy;basmati;fried;aromatic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Food Items,soup,hot;creamy;vegetable;hearty;spicy;clear;chilled;homemade;thick;flavorful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,artist,talented;creative;visionary;struggling;famous;dedicated;innovative;eccentric;skilled;emerging
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,athlete,professional;dedicated;fit;competitive;Olympic;injured;skilled;young;elite;determined
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,chef,skilled;renowned;innovative;professional;passionate;celebrity;experienced;creative;meticulous;talented
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,doctor,skilled;dedicated;experienced;compassionate;specialist;busy;renowned;young;emergency;caring
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,engineer,skilled;innovative;mechanical;electrical;experienced;creative;dedicated;software;brilliant;practical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,farmer,hardworking;local;organic;experienced;rural;dedicated;family;skilled;sustainable;independent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,lawyer,sharp;experienced;corporate;defense;ambitious;ethical;successful;trial;dedicated;prominent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,musician,talented;professional;classical;rock;dedicated;emerging;virtuoso;indie;passionate;seasoned
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,scientist,brilliant;dedicated;research;innovative;environmental;theoretical;accomplished;young;experimental;renowned
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,soldier,brave;trained;elite;veteran;disciplined;combat;loyal;young;heroic;wounded
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,teacher,dedicated;experienced;inspiring;patient;elementary;passionate;strict;creative;knowledgeable;supportive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Human Roles,writer,talented;prolific;aspiring;famous;creative;mystery;dedicated;freelance;poetic;insightful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,book,thick;bestselling;old;hardcover;fictional;educational;tattered;colorful;popular;insightful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,bridge,sturdy;ancient;modern;suspension;wooden;arched;collapsed;iconic;long;narrow
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;wooden;electronic;tribal;professional;small;tuned;vintage;booming
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,earth,fertile;round;blue;ancient;solid;trembling;vast;green;molten;spinning
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;melodic;ancient;shiny;handheld;professional;tuned;decorative;sweet-sounding
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,key,small;metal;rusty;golden;skeleton;electronic;spare;locked;modern;ornate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,knife,sharp;kitchen;pocket;rusty;serrated;hunting;dull;silver;folding;ceremonial
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,lock,sturdy;electronic;rusty;combination;padlock;modern;broken;keyed;secure;antique
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,moon,full;crescent;bright;waning;glowing;distant;silver;new;blood;harvest
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,pen,black;fountain;ballpoint;colorful;leaky;fine-tipped;antique;disposable;elegant;erasable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,sun,bright;setting;rising;scorching;golden;midday;distant;warm;blazing;summer
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;ceremonial;steel;enchanted;heavy;decorative;medieval;curved;legendary
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,cat,fluffy;playful;black;stray;domestic;lazy;wild;curious;sleek;affectionate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,dog,loyal;playful;big;small;trained;stray;energetic;furry;protective;friendly
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;graceful;wild;bottlenose;marine;swift;social;endangered;acrobatic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,elephant,massive;gray;wild;gentle;endangered;tusked;African;intelligent;roaming;majestic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,hamster,small;furry;playful;caged;nocturnal;brown;tame;active;cute;pet
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,monkey,playful;agile;wild;mischievous;small;intelligent;tree-dwelling;curious;furry;tropical
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,mouse,small;gray;timid;wild;computer;furry;sneaky;pet;quick;laboratory
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,peacock,colorful;majestic;wild;proud;feathered;exotic;strutting;beautiful;male;garden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,rabbit,fluffy;white;wild;pet;quick;furry;hopping;brown;timid;domestic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,shark,fierce;great;predatory;ocean;fast;endangered;gray;massive;dangerous;elusive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,snake,venomous;slithering;long;wild;coiled;colorful;constrictor;dangerous;exotic;scaled
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,whale,massive;blue;migrating;endangered;graceful;deep-sea;singing;gentle;ancient;majestic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,city,bustling;modern;ancient;crowded;vibrant;coastal;industrial;historic;sprawling;polluted
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,desert,vast;arid;sandy;hot;barren;remote;windswept;golden;endless;harsh
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,forest,dense;ancient;green;tropical;dark;lush;enchanted;quiet;vast;misty
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,island,tropical;remote;volcanic;deserted;green;sandy;inhabited;rocky;exotic;small
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,lake,serene;deep;frozen;crystal-clear;vast;mountain;polluted;scenic;freshwater;hidden
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,mountain,towering;rugged;snowy;majestic;volcanic;steep;ancient;remote;green;foggy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,ocean,vast;deep;blue;stormy;calm;endless;salty;mysterious;turbulent;expansive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,plain,vast;flat;grassy;fertile;dry;endless;open;windswept;golden;rural
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,plateau,high;flat;rocky;elevated;vast;arid;scenic;ancient;windswept;remote
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,river,winding;mighty;shallow;polluted;crystal-clear;fast-flowing;ancient;wide;muddy;scenic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,valley,lush;deep;narrow;fertile;hidden;scenic;mountainous;green;dry;peaceful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Places,village,quaint;rural;small;peaceful;ancient;coastal;isolated;bustling;traditional;charming
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,cactus,spiky;desert;tall;green;flowering;hardy;prickly;exotic;small;drought-resistant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,eggplant,purple;fresh;glossy;large;organic;roasted;bitter;sliced;firm;vegetable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;wild;blooming;delicate;exotic;wilted;garden;vibrant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,grass,green;lush;tall;dry;mowed;wild;soft;overgrown;fresh;dew-covered
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,lettuce,crisp;green;fresh;leafy;organic;wilted;shredded;salad;tender;hydroponic
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,mushroom,wild;edible;poisonous;fresh;button;dried;large;flavorful;forest;cultivated
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,onion,fresh;red;white;sliced;pungent;organic;raw;caramelized;mild;bulbous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,pepper,spicy;red;green;fresh;bell;ground;hot;sweet;dried;sliced
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,potato,fresh;baked;mashed;organic;small;fried;starchy;peeled;sweet;waxy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,rose,red;fragrant;blooming;thorny;wild;beautiful;white;garden;delicate;hybrid
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,tomato,ripe;red;juicy;fresh;organic;cherry;sliced;vine-ripened;tangy;greenhouse
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Plants,tree,tall;ancient;leafy;fruit-bearing;evergreen;shady;twisted;blooming;massive;bare
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,ally,reliable;strategic;faithful;strong;trusted;international;loyal;supportive;powerful;steadfast
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,brother,older;younger;protective;caring;mischievous;supportive;twin;estranged;loving;competitive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,enemy,sworn;bitter;formidable;ancient;ruthless;hidden;powerful;declared;dangerous;vengeful
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,father,loving;strict;absent;proud;hardworking;supportive;biological;adoptive;wise;distant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;faithful;dedicated;cult;social;obedient;inspired
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,friend,close;loyal;old;new;trustworthy;fun-loving;supportive;childhood;reliable;distant
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,leader,charismatic;strong;visionary;effective;democratic;authoritarian;inspiring;competent;natural;elected
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,mother,loving;caring;strict;single;devoted;nurturing;biological;adoptive;protective;busy
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,partner,business;romantic;reliable;equal;supportive;professional;trusted;creative;long-term;ideal
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,rival,fierce;corporate;athletic;bitter;longstanding;competitive;worthy;jealous;direct;challenging
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,sister,younger;older;protective;caring;mischievous;supportive;twin;estranged;loving;competitive
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,stranger,mysterious;unknown;friendly;dangerous;passing;foreign;helpful;suspicious;wandering;anonymous
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,above,high;overhead;superior;elevated;uppermost;celestial;dominant;floating;soaring;transcendent
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,back,rear;hidden;supporting;distant;curved;strong;injured;wooden;straight;covered
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,below,lower;underground;submerged;inferior;hidden;deep;sunken;beneath;foundational;downward
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,east,rising;distant;coastal;sunny;ancient;oriental;far;directional;easternmost;windswept
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,front,forward;main;leading;visible;decorative;battle;prominent;straight;covered;welcoming
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,inside,inner;hidden;cozy;protected;enclosed;secret;warm;detailed;core;intimate
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,left,abandoned;western;directional;unused;crooked;free;isolated;shadowy;vacant;overlooked
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,north,frozen;polar;distant;windy;directional;northernmost;rugged;cold;vast;remote
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,outside,external;cold;visible;exposed;surrounding;fresh;distant;open;rainy;secure
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,right,correct;eastern;directional;proper;straight;legal;immediate;moral;accurate;justified
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,south,warm;tropical;directional;southernmost;humid;vast;coastal;sunny;remote;fertile
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,west,wild;coastal;directional;westernmost;rugged;distant;golden;arid;expansive;frontier
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,century,past;modern;golden;dark;Victorian;upcoming;enlightened;turbulent;prosperous;forgotten
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,day,sunny;long;busy;short;rainy;ordinary;festive;lazy;memorable;clear
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,evening,quiet;cool;romantic;long;starry;peaceful;golden;hazy;festive;relaxing
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,hour,late;early;golden;final;busy;quiet;fleeting;productive;dark;waiting
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,minute,brief;final;waiting;tense;precious;ticking;silent;hurried;exact;passing
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,month,long;short;busy;festive;rainy;dry;upcoming;past;memorable;quiet
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,morning,fresh;early;foggy;bright;crisp;lazy;sunny;rushed;peaceful;chilly
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,night,dark;starry;long;quiet;stormy;festive;sleepless;moonlit;chilly;mysterious
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,season,busy;festive;rainy;dry;upcoming;past;mild;harsh;transitional;memorable
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,second,final;brief;crucial;ticking;last;fleeting;precise;waiting;intense;extra
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,week,busy;short;upcoming;past;relaxing;productive;eventful;quiet;final;ordinary
+grok-3-mini,english-monolingual,0.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,year,new;past;busy;prosperous;challenging;memorable;upcoming;quiet;festive;ordinary

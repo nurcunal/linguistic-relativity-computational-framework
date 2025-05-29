@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,anger,angry;strong;big;sudden;hot;blind;deep;great;little;old
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,courage,brave;strong;big;true;great;small;new;old;quick;good
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,fear,big;strong;sudden;great;little;dark;cold;real;old;bad
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,freedom,great;big;new;true;full;little;old;good;strong;easy
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,happiness,big;great;true;full;little;new;old;good;real;warm
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,hate,strong;big;deep;great;little;old;new;bad;cold;blind
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,honesty,true;good;big;little;old;new;real;strong;simple;clear
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,justice,true;good;big;fair;strong;little;old;new;right;clear
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,knowledge,big;great;new;old;good;true;deep;little;real;strong
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,love,great;big;true;deep;little;old;new;good;strong;warm
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,peace,great;big;true;good;little;old;new;quiet;warm;real
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Abstract Concepts,wisdom,great;big;true;old;good;little;new;deep;strong;clear
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;clear;metal;round;simple;broken
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,candle,small;big;old;new;bright;warm;white;simple;long;soft
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;soft;warm;red;clean;dirty;thick
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,coin,small;old;new;metal;shiny;gold;silver;round;light;fake
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,crown,big;old;new;gold;heavy;shiny;royal;simple;broken;beautiful
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;red;blue;national;simple;torn;colorful
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,mask,small;big;old;new;black;scary;simple;funny;plastic;protective
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,necklace,small;big;old;new;gold;silver;shiny;simple;beautiful;heavy
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,painting,big;small;old;new;beautiful;colorful;simple;dark;bright;famous
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,ring,small;big;old;new;gold;shiny;simple;broken;beautiful;cheap
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;tall;simple;broken;beautiful;famous
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;glass;beautiful;broken;simple;colorful;tall
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,cloud,big;small;white;dark;high;soft;light;cold;wet;moving
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,earthquake,big;strong;sudden;bad;deep;real;old;new;dangerous;powerful
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,fog,thick;cold;white;heavy;dark;wet;bad;real;early;quiet
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,lightning,bright;fast;strong;dangerous;white;sudden;real;big;hot;wild
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;wet;steady;soft;hard;long;real;warm
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;clear;rare;wet;high;simple;full
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;deep;light;fresh;wet;hard;beautiful;quiet
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,storm,big;strong;wild;dangerous;loud;dark;wet;fast;real;sudden
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,thunder,loud;strong;deep;scary;sudden;real;big;dark;wild;long
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,tide,high;low;strong;fast;cold;wet;big;small;wild;dangerous
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,volcano,big;hot;active;dangerous;old;new;tall;deep;wild;real
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Environmental Phenomena,wind,strong;cold;fast;light;wild;hot;gentle;dry;real;big
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,apple,red;green;big;small;fresh;sweet;juicy;ripe;hard;old
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,banana,yellow;big;small;sweet;fresh;ripe;soft;long;green;curved
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,beef,fresh;cooked;red;tough;tender;hot;cold;good;bad;big
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,bread,fresh;soft;warm;white;brown;old;hard;good;simple;big
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,broccoli,green;fresh;big;small;healthy;raw;cooked;good;tough;wet
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,cheese,yellow;soft;hard;fresh;old;good;strong;simple;warm;big
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,chicken,fresh;cooked;white;big;small;hot;cold;tender;good;raw
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,egg,fresh;big;small;white;brown;hard;soft;cooked;raw;broken
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,fish,fresh;big;small;silver;cooked;raw;good;wet;fast;wild
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,pasta,hot;cooked;soft;long;short;simple;good;fresh;dry;yellow
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,rice,white;cooked;soft;dry;hot;cold;simple;good;long;small
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Food Items,soup,hot;cold;thick;thin;good;fresh;simple;tasty;red;clear
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,artist,good;young;old;famous;creative;talented;big;small;happy;busy
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,athlete,strong;fast;young;good;tall;fit;famous;skilled;big;active
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,chef,good;young;old;famous;busy;skilled;creative;big;happy;clean
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,doctor,good;young;old;busy;skilled;helpful;famous;smart;kind;tired
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,engineer,smart;young;old;good;busy;skilled;creative;big;helpful;strong
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,farmer,strong;old;young;busy;good;hard-working;simple;big;kind;poor
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,lawyer,smart;busy;good;young;old;famous;helpful;strong;kind;rich
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,musician,good;young;old;famous;talented;creative;busy;happy;skilled;big
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,scientist,smart;good;young;old;famous;busy;creative;helpful;skilled;curious
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,soldier,strong;brave;young;old;good;trained;busy;tough;loyal
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,teacher,good;young;old;helpful;busy;kind;smart;patient;famous;creative
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Human Roles,writer,good;young;old;famous;creative;busy;smart;talented;kind;quiet
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,book,big;small;old;new;good;interesting;thick;thin;red;blue
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,bridge,big;old;new;strong;long;high;metal;simple;broken;beautiful
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,drums,big;small;loud;old;new;wooden;simple;good;broken;fast
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,earth,big;round;green;blue;old;new;dry;wet;beautiful;hard
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,flute,small;long;old;new;wooden;simple;shiny;good;soft;light
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,key,small;old;new;metal;shiny;simple;broken;good;black;big
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,knife,sharp;small;big;old;new;metal;simple;good;broken;clean
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,lock,small;old;new;metal;strong;simple;broken;good;tight;shiny
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,moon,big;round;bright;full;old;new;white;cold;beautiful;high
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,pen,small;black;blue;old;new;simple;good;broken;cheap;smooth
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,sun,big;bright;hot;yellow;warm;old;new;high;beautiful;strong
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Inanimate Objects,sword,long;sharp;old;new;metal;big;simple;good;broken;strong
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,cat,small;black;white;old;young;lazy;fast;good;wild;cute
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,dog,big;small;old;young;friendly;fast;good;wild;loyal;strong
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,dolphin,big;smart;fast;wild;good;playful;gray;wet;friendly;free
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,elephant,big;gray;strong;old;wild;good;slow;heavy;friendly;smart
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,hamster,small;cute;fast;good;wild;brown;young;old;friendly;soft
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,monkey,small;fast;wild;good;smart;brown;playful;young;old;funny
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,mouse,small;gray;fast;good;wild;young;old;quiet;cute;simple
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,peacock,big;colorful;wild;good;beautiful;proud;blue;fast;old;young
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,rabbit,small;white;fast;good;wild;cute;young;old;soft;playful
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,shark,big;fast;wild;dangerous;gray;good;strong;sharp;old;young
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,snake,long;thin;wild;dangerous;green;good;fast;old;young;smooth
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Neutral Animals,whale,big;gray;wild;good;strong;fast;old;young;deep;smart
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,city,big;busy;old;new;noisy;beautiful;clean;dirty;modern;full
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,desert,big;hot;dry;sandy;empty;wild;old;beautiful;quiet;harsh
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,forest,big;green;wild;dark;beautiful;old;quiet;wet;full;deep
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,island,small;big;green;beautiful;wild;old;quiet;sunny;wet;empty
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,lake,big;small;blue;deep;beautiful;quiet;cold;wet;clean;wild
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,mountain,big;high;old;green;beautiful;cold;wild;steep;strong;snowy
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,ocean,big;deep;blue;wild;beautiful;cold;wet;full;vast;strong
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,plain,big;flat;green;dry;wild;beautiful;empty;simple;open;wide
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,plateau,high;flat;big;dry;wild;beautiful;old;green;open;quiet
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,river,big;small;blue;deep;wild;beautiful;fast;wet;clean;long
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,valley,deep;green;beautiful;wild;quiet;wide;low;full;wet;old
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Places,village,small;old;quiet;green;simple;beautiful;clean;full;poor;happy
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,cactus,small;big;green;spiky;dry;wild;old;simple;tall;strong
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,eggplant,purple;big;small;fresh;soft;good;raw;cooked;round;healthy
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,flower,beautiful;small;big;red;yellow;fresh;wild;simple;sweet;bright
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,grass,green;soft;wet;dry;wild;short;long;fresh;simple;thick
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,lettuce,green;fresh;crisp;big;small;healthy;raw;wet;good;soft
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,mushroom,small;white;fresh;wild;good;soft;raw;cooked;big;wet
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,onion,small;big;white;fresh;strong;raw;cooked;good;dry;sharp
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,pepper,red;green;small;fresh;hot;good;raw;cooked;big;spicy
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,potato,big;small;brown;fresh;good;raw;cooked;hard;soft;healthy
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,rose,red;beautiful;fresh;wild;big;small;sweet;simple;full;bright
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,tomato,red;big;small;fresh;juicy;good;raw;cooked;soft;healthy
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Plants,tree,big;old;green;tall;wild;beautiful;strong;simple;full;dead
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,ally,good;strong;true;old;new;helpful;loyal;big;smart;brave
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,brother,young;old;good;strong;smart;kind;big;small;funny;helpful
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,enemy,bad;strong;old;new;dangerous;big;smart;wild;false;evil
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,father,old;young;strong;kind;smart;good;big;busy;loving;strict
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,follower,loyal;good;young;old;strong;smart;big;simple;helpful;brave
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,friend,good;true;young;old;kind;funny;loyal;big;smart;helpful
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,leader,strong;good;smart;young;old;brave;big;helpful;loyal;famous
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,mother,kind;young;old;loving;good;busy;smart;strong;caring;strict
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,partner,good;strong;smart;young;old;loyal;helpful;big;kind;true
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,rival,strong;bad;smart;young;old;big;tough;false;dangerous;competitive
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,sister,young;old;kind;smart;good;funny;beautiful;helpful;loyal;busy
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Social Relationships,stranger,unknown;new;old;dangerous;friendly;big;small;quiet;smart;odd
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,above,high;clear;bright;simple;good;bad;new;old;big;small
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,back,strong;big;small;old;new;good;bad;straight;curved;smooth
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,below,low;dark;deep;simple;good;bad;new;old;big;small
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,east,sunny;warm;distant;simple;good;bad;new;old;big;quiet
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,front,big;small;clear;open;good;bad;new;old;bright;clean
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,inside,warm;dark;safe;simple;good;bad;new;old;big;small
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,left,free;open;simple;good;bad;new;old;big;small;clear
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,north,cold;distant;simple;good;bad;new;old;big;quiet;wild
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,outside,cold;bright;open;simple;good;bad;new;old;big;wet
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,right,correct;good;simple;new;old;big;small;clear;strong;true
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,south,warm;sunny;simple;good;bad;new;old;big;quiet;wild
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Spatial Concepts,west,distant;simple;good;bad;new;old;big;quiet;wild;sunny
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,century,long;old;new;great;simple;good;bad;big;full;short
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,day,long;short;sunny;rainy;good;bad;new;old;big;clear
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,evening,long;short;quiet;dark;cool;good;bad;new;old;beautiful
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;good;bad;new;old;big;full
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,minute,short;long;quick;slow;good;bad;new;old;big;small
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,month,long;short;busy;quiet;good;bad;new;old;big;full
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,morning,early;fresh;bright;cool;good;bad;new;old;big;quiet
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,night,dark;long;quiet;cold;good;bad;new;old;big;beautiful
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,season,long;short;warm;cold;good;bad;new;old;big;wet
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,second,short;quick;fast;simple;good;bad;new;old;big;small
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,week,long;short;busy;quiet;good;bad;new;old;big;full
+grok-3-mini,basic,1.0,FR # French,B1,most frequent,Time Concepts,year,long;short;good;bad;new;old;big;full;busy;quiet
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;great;suppressed;violent;uncontrollable;bitter
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,courage,brave;strong;quiet;true;great;sudden;bold;heroic;moral;personal
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,fear,deep;sudden;great;irrational;constant;real;hidden;intense;cold;basic
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,freedom,true;full;personal;great;basic;total;new;political;hard-won;limited
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,happiness,pure;great;simple;true;deep;sudden;lasting;personal;quiet;real
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,hate,deep;intense;blind;strong;pure;bitter;personal;racial;hidden;great
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,honesty,true;simple;full;basic;direct;real;moral;complete;open;personal
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,justice,true;fair;social;moral;basic;quick;full;blind;equal;real
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,knowledge,deep;basic;general;practical;real;great;simple;new;local;personal
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,love,true;deep;great;pure;strong;blind;sudden;romantic;lasting;simple
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,peace,true;lasting;quiet;global;inner;real;full;perfect;simple;deep
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Abstract Concepts,wisdom,great;ancient;practical;true;deep;simple;moral;common;old;clear
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,bell,old;big;small;loud;clear;broken;golden;silver;ringing;antique
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,candle,small;big;lit;old;new;white;colored;melted;simple;burning
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,carpet,old;new;soft;big;small;red;patterned;dirty;clean;woolen
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,coin,old;new;small;shiny;gold;silver;rare;foreign;dirty;metal
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,crown,gold;royal;old;big;simple;jeweled;broken;heavy;ancient;beautiful
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,flag,national;old;new;red;blue;torn;waving;small;large;colorful
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,mask,old;new;black;white;scary;simple;funny;broken;plastic;wooden
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;old;new;simple;long;short;pearl;cheap
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,painting,old;new;beautiful;large;small;colorful;famous;simple;modern;abstract
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,ring,gold;silver;old;new;simple;beautiful;broken;big;small;diamond
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,statue,old;big;small;stone;metal;famous;broken;beautiful;ancient;modern
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Cultural Artifacts,vase,old;new;big;small;broken;beautiful;glass;ceramic;simple;colored
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;fluffy;gray;low;high;rainy;fast-moving
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,earthquake,strong;weak;sudden;major;minor;destructive;local;deep;shallow;rare
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,fog,thick;light;cold;wet;morning;dense;gray;low;sudden;evening
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,lightning,bright;fast;sudden;powerful;dangerous;white;frequent;distant;storm;electric
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;sudden;soft;hard;daily;seasonal
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;rare;full;double;faint;clear;afternoon;wet
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,snow,white;deep;light;fresh;cold;wet;heavy;falling;winter;soft
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,storm,strong;violent;sudden;big;rainy;windy;dark;tropical;fierce;long
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,thunder,loud;sudden;distant;deep;rolling;powerful;frightening;constant;night;electric
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,tide,high;low;strong;weak;rising;falling;daily;coastal;fast;dangerous
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,volcano,active;sleeping;big;small;dangerous;ancient;erupting;hot;mountain;volcanic
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;blowing;steady;fast;gentle;northern;southern
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,apple,red;green;fresh;sweet;big;small;ripe;sour;juicy;organic
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,banana,yellow;ripe;green;sweet;big;small;fresh;soft;peeled;tropical
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,beef,fresh;cooked;lean;fatty;red;tender;tough;grilled;raw;cheap
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,bread,fresh;soft;hard;white;brown;warm;sliced;old;tasty;simple
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;big;small;healthy;steamed;frozen;organic
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;tasty;strong;melted;cheap
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,chicken,fresh;cooked;grilled;fried;white;brown;small;big;organic;tender
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,egg,fresh;boiled;fried;raw;white;brown;large;small;cracked;organic
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,fish,fresh;cooked;big;small;silver;colorful;wild;farmed;salty;tasty
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,pasta,cooked;dry;fresh;soft;long;short;cheap;tasty;Italian;plain
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,rice,white;brown;cooked;raw;long-grain;short-grain;sticky;dry;fresh;cheap
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Food Items,soup,hot;cold;thick;thin;tasty;fresh;vegetable;chicken;creamy;simple
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,artist,talented;young;old;famous;creative;poor;rich;local;skilled;modern
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,athlete,strong;fast;young;old;professional;amateur;skilled;fit;competitive;injured
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,chef,great;young;old;skilled;famous;busy;creative;professional;talented;French
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,doctor,good;young;old;skilled;busy;professional;local;kind;experienced;female
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,engineer,skilled;young;old;professional;creative;busy;mechanical;electrical;talented;smart
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,farmer,hard-working;old;young;local;poor;rich;skilled;rural;experienced;organic
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,lawyer,good;young;old;professional;busy;smart;successful;corporate;local;female
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,musician,talented;young;old;famous;skilled;classical;rock;professional;poor;creative
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,scientist,smart;young;old;professional;creative;famous;biological;skilled;busy;female
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,soldier,brave;strong;young;old;trained;professional;experienced;loyal;injured;heroic
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,teacher,good;young;old;experienced;patient;strict;dedicated;local;female;male
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Human Roles,writer,talented;young;old;famous;creative;published;poor;skilled;modern;female
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,book,old;new;big;small;interesting;boring;thick;thin;popular;cheap
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,bridge,old;new;big;strong;wooden;stone;broken;modern;high;local
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,drums,loud;big;small;wooden;metal;old;new;electronic;rhythmic;cheap
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,earth,green;blue;round;old;beautiful;fragile;hot;cold;living;natural
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,flute,wooden;metal;small;old;new;silver;sweet-sounding;simple;professional;cheap
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,key,small;metal;old;new;rusty;shiny;spare;front;back;simple
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,knife,sharp;dull;metal;wooden-handled;old;new;small;big;kitchen;dangerous
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,lock,old;new;broken;metal;simple;electronic;strong;weak;front;secure
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,moon,full;bright;dark;old;new;silver;distant;beautiful;crescent;nightly
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,pen,black;blue;cheap;expensive;old;new;plastic;metal;fine;broken
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,sun,bright;hot;yellow;rising;setting;warm;powerful;daily;summer;burning
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Inanimate Objects,sword,sharp;old;new;metal;long;short;heavy;light;ancient;royal
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,cat,black;white;small;big;wild;tame;lazy;active;old;young
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,dog,big;small;friendly;wild;old;young;loyal;active;brown;white
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,dolphin,smart;big;playful;wild;gray;fast;marine;friendly;young;old
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,elephant,big;gray;wild;tame;strong;old;young;gentle;African;Asian
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,hamster,small;furry;cute;wild;tame;brown;white;active;young;old
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,monkey,small;clever;wild;tame;brown;playful;noisy;young;old;tree-living
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,mouse,small;gray;wild;tame;quick;noisy;young;old;house;field
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,peacock,colorful;big;wild;tame;beautiful;noisy;male;female;young;old
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,rabbit,white;small;wild;tame;fast;fluffy;young;old;garden;forest
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,shark,big;dangerous;gray;wild;fast;ocean;hungry;young;old;rare
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,snake,long;dangerous;green;wild;tame;poisonous;slow;quick;young;old
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Neutral Animals,whale,big;gray;wild;marine;gentle;old;young;singing;deep-sea;rare
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,city,big;old;modern;busy;noisy;beautiful;dirty;clean;coastal;industrial
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,desert,dry;hot;vast;sandy;empty;beautiful;remote;yellow;dangerous;ancient
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,forest,green;dense;dark;wild;beautiful;old;quiet;tropical;cool;rainy
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,island,small;big;tropical;remote;beautiful;green;sandy;volcanic;empty;coastal
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,lake,blue;deep;calm;large;small;fresh;frozen;beautiful;mountain;quiet
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,mountain,high;tall;snowy;rocky;beautiful;green;steep;old;volcanic;remote
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,ocean,blue;deep;vast;wild;cold;warm;stormy;calm;salty;endless
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,plain,flat;wide;green;dry;empty;fertile;vast;rural;open;simple
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,plateau,high;flat;rocky;dry;vast;beautiful;remote;green;ancient;cool
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,river,long;wide;deep;fast;slow;clean;dirty;fresh;mountain;coastal
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,valley,deep;green;beautiful;narrow;wide;fertile;quiet;rural;hidden;river
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Places,village,small;quiet;old;rural;beautiful;simple;coastal;mountain;poor;rich
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,cactus,green;spiky;dry;tall;small;desert;wild;planted;tough;rare
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,eggplant,purple;large;fresh;soft;cooked;raw;shiny;healthy;garden;organic
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,flower,beautiful;colorful;fresh;wild;red;white;small;big;sweet-smelling;garden
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,grass,green;soft;tall;short;wet;dry;wild;garden;fresh;thick
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,lettuce,green;fresh;crisp;raw;big;small;healthy;garden;organic;salad
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,mushroom,small;big;wild;fresh;cooked;white;brown;tasty;poisonous;forest
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,onion,white;red;fresh;strong-smelling;raw;cooked;small;big;garden;organic
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,pepper,red;green;fresh;hot;sweet;raw;cooked;small;big;spicy
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,potato,big;small;fresh;cooked;raw;brown;white;garden;organic;tasty
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,rose,red;beautiful;fresh;wild;garden;sweet-smelling;thorny;white;pink;old
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,tomato,red;fresh;ripe;raw;cooked;juicy;small;big;garden;organic
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Plants,tree,tall;old;green;big;small;fruit;leafy;dead;living;ancient
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,ally,strong;loyal;true;powerful;foreign;helpful;secret;old;new;reliable
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,brother,young;old;dear;close;protective;funny;smart;kind;older;younger
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,enemy,dangerous;strong;old;new;foreign;hidden;powerful;bitter;common;defeated
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,father,old;young;kind;strict;loving;busy;wise;hardworking;absent;proud
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,follower,loyal;faithful;young;old;dedicated;blind;strong;simple;active;new
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,friend,good;true;old;new;close;loyal;helpful;funny;kind;best
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,leader,strong;great;wise;young;old;powerful;charismatic;effective;local;national
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,mother,loving;kind;young;old;caring;busy;strict;patient;hardworking;single
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,partner,good;reliable;business;life;strong;supportive;young;old;equal;trusted
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,rival,strong;tough;old;new;bitter;competitive;foreign;main;direct;dangerous
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,sister,young;old;dear;close;funny;smart;kind;older;younger;loving
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Social Relationships,stranger,unknown;mysterious;foreign;dangerous;friendly;odd;new;tall;short;quiet
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,above,high;clear;bright;distant;open;safe;visible;blue;direct;simple
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,back,strong;weak;straight;curved;injured;broad;narrow;old;new;hidden
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,below,deep;dark;hidden;low;quiet;cool;secret;underground;simple;direct
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,east,distant;rising;sunny;coastal;old;new;foreign;quiet;busy;modern
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,front,main;open;clear;wide;direct;busy;simple;old;new;strong
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,inside,warm;dark;safe;hidden;quiet;comfortable;empty;full;simple;deep
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,left,open;closed;free;strong;weak;clear;hidden;simple;direct;old
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,north,cold;distant;wild;quiet;old;new;coastal;mountainous;free;strong
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,outside,bright;cold;warm;open;free;empty;busy;simple;direct;safe
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,right,correct;strong;free;clear;direct;old;new;simple;quick;final
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,south,warm;sunny;distant;coastal;old;new;busy;quiet;foreign;tropical
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Spatial Concepts,west,wild;distant;sunny;coastal;old;new;free;quiet;strong;modern
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,century,long;past;future;great;dark;golden;new;old;important;simple
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;quiet;good;bad;new;old
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,evening,quiet;long;warm;cool;dark;peaceful;busy;short;beautiful;late
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;final;first;dark;bright
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,minute,short;long;quick;last;first;final;simple;busy;quiet;exact
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;new;old;full;empty
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,morning,early;fresh;bright;cool;busy;quiet;new;clear;simple;daily
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,night,dark;long;quiet;cold;warm;starry;short;busy;peaceful;late
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;new;old;changing;beautiful
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,second,short;last;first;quick;final;simple;exact;busy;quiet;new
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,week,long;short;busy;quiet;new;old;full;empty;working;free
+grok-3-mini,basic,1.0,FR # French,B2,most frequent,Time Concepts,year,long;short;new;old;good;bad;busy;quiet;full;empty
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;suppressed;violent;quiet;simmering;explosive
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,courage,brave;bold;fearless;heroic;unwavering;quiet;moral;physical;sudden;inspiring
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,fear,deep;sudden;irrational;intense;overwhelming;constant;hidden;natural;childish;dark
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,freedom,complete;personal;absolute;basic;new;limited;true;hard-won;political;individual
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,happiness,pure;simple;deep;lasting;sudden;shared;inner;true;childlike;quiet
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,hate,intense;deep;blind;bitter;irrational;strong;hidden;mutual;violent;growing
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,honesty,complete;brutal;simple;rare;true;direct;pure;natural;painful;absolute
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,justice,fair;blind;social;true;quick;equal;pure;legal;moral;swift
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,knowledge,deep;vast;practical;basic;secret;ancient;scientific;common;personal;useful
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,love,true;deep;pure;blind;sudden;lasting;passionate;simple;unconditional;strong
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,peace,lasting;inner;complete;fragile;quiet;global;true;sudden;perfect;natural
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Abstract Concepts,wisdom,ancient;deep;practical;true;simple;hidden;great;personal;quiet;timeless
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,bell,old;large;small;loud;golden;ringing;ancient;simple;broken;clear
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,candle,small;burning;scented;old;white;long;simple;flickering;colorful;warm
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,carpet,soft;old;colorful;thick;dirty;new;patterned;large;woolen;clean
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,coin,old;gold;silver;rare;small;shiny;ancient;valuable;fake;heavy
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,crown,golden;royal;heavy;ancient;jeweled;simple;large;fake;ceremonial;shining
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,flag,national;old;waving;colorful;torn;large;simple;red;blue;foreign
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,mask,old;scary;colorful;simple;wooden;protective;funny;black;decorative;tight
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,necklace,gold;beautiful;simple;long;old;shiny;expensive;broken;colorful;light
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,painting,beautiful;old;large;colorful;famous;simple;modern;detailed;dark;bright
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,ring,gold;small;shiny;old;simple;valuable;broken;diamond;heavy;ancient
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,statue,large;old;stone;beautiful;broken;famous;simple;metallic;tall;ancient
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Cultural Artifacts,vase,old;beautiful;broken;large;simple;colorful;glass;ceramic;empty;decorative
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,cloud,white;dark;fluffy;low;high;moving;stormy;thin;heavy;gray
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,earthquake,strong;sudden;destructive;major;minor;deep;violent;rare;powerful;unexpected
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,fog,thick;heavy;dense;morning;cold;wet;gray;low;mysterious;persistent
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;fast;dangerous;forked;distant;powerful;striking;electric;wild
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;warm;pouring;gentle;seasonal;sudden;soft
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,rainbow,bright;colorful;beautiful;double;faint;wide;clear;natural;rare;short
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,snow,white;fresh;deep;light;cold;falling;wet;heavy;pure;soft
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,storm,violent;strong;sudden;fierce;wild;rainy;windy;dark;powerful;approaching
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,thunder,loud;distant;rolling;sudden;deep;frightening;constant;powerful;echoing;heavy
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;fast;calm;incoming;outgoing;gentle
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,volcano,active;sleeping;dangerous;large;explosive;ancient;fiery;hidden;massive;quiet
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;blowing;steady;wild;light;northern;eastern
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,apple,red;green;fresh;sweet;ripe;small;large;juicy;sour;rotten
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,banana,yellow;ripe;green;long;sweet;fresh;soft;large;small;peeled
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,beef,fresh;cooked;lean;tender;rare;grilled;fatty;tough;ground;spicy
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,bread,fresh;warm;soft;white;whole;toasted;sliced;hard;sweet;plain
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,broccoli,fresh;green;steamed;raw;cooked;crunchy;healthy;small;large;frozen
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,cheese,soft;hard;fresh;yellow;melted;sharp;creamy;aged;mild;grated
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,chicken,fresh;cooked;grilled;roasted;fried;tender;spicy;white;frozen;raw
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,egg,fresh;boiled;fried;raw;large;small;brown;white;cracked;soft
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,fish,fresh;cooked;grilled;frozen;large;small;wild;farmed;oily;tasty
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,pasta,cooked;fresh;dried;hot;al dente;simple;cheesy;spicy;long;short
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,rice,cooked;white;brown;steamed;hot;sticky;wild;plain;flavored;dry
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Food Items,soup,hot;cold;thick;thin;vegetable;creamy;spicy;fresh;homemade;clear
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,artist,talented;young;famous;creative;skilled;unknown;modern;dedicated;struggling;brilliant
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,athlete,strong;fast;skilled;young;professional;dedicated;injured;talented;competitive;fit
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,chef,skilled;famous;young;creative;experienced;busy;talented;professional;innovative;passionate
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,doctor,skilled;experienced;young;busy;dedicated;professional;caring;senior;local;specialist
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,engineer,skilled;creative;experienced;young;professional;innovative;busy;talented;senior;practical
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,farmer,hard-working;local;experienced;young;dedicated;poor;rich;skilled;organic;traditional
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,lawyer,skilled;experienced;young;professional;busy;successful;ethical;corporate;local;clever
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,musician,talented;young;famous;skilled;dedicated;classical;modern;struggling;passionate;creative
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,scientist,brilliant;dedicated;young;experienced;innovative;professional;famous;curious;skilled;practical
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,soldier,brave;trained;young;experienced;dedicated;strong;loyal;wounded;elite;foreign
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,teacher,dedicated;experienced;young;skilled;patient;strict;creative;inspiring;local;enthusiastic
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Human Roles,writer,talented;young;famous;creative;experienced;dedicated;struggling;prolific;skilled;imaginative
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;popular;educational;fictional;hardcover
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,bridge,old;new;long;high;wooden;stone;broken;strong;modern;narrow
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,drums,loud;wooden;large;small;rhythmic;old;new;electronic;traditional;shiny
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,earth,green;blue;round;ancient;fertile;dry;vast;beautiful;fragile;warm
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,flute,wooden;silver;small;old;new;sweet-sounding;simple;traditional;shiny;broken
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,key,small;old;new;metal;rusty;shiny;simple;broken;spare;golden
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,knife,sharp;old;new;metal;rusty;small;large;kitchen;pocket;dull
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,lock,old;new;metal;broken;secure;simple;electronic;rusty;small;strong
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,moon,full;bright;dark;crescent;distant;silver;mysterious;round;cold;glowing
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,pen,black;blue;old;new;cheap;expensive;broken;simple;fancy;ink-filled
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;warm;distant;powerful;golden;midday
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Inanimate Objects,sword,sharp;old;metal;heavy;ancient;shiny;broken;long;decorated;royal
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,cat,black;white;small;wild;domestic;lazy;playful;old;young;furry
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,dog,big;small;loyal;wild;friendly;old;young;trained;energetic;furry
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,dolphin,intelligent;playful;large;wild;friendly;fast;gray;marine;social;graceful
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,elephant,large;gray;wild;strong;gentle;old;young;endangered;intelligent;majestic
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,hamster,small;furry;cute;wild;domestic;fast;playful;brown;young;active
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,monkey,small;wild;playful;clever;brown;young;noisy;agile;curious;funny
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,mouse,small;gray;wild;domestic;quick;shy;brown;young;noisy;frightened
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,peacock,colorful;proud;wild;large;beautiful;noisy;exotic;male;female;striking
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,rabbit,white;small;wild;domestic;fast;fluffy;young;brown;playful;timid
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,shark,large;dangerous;wild;fast;gray;fearsome;marine;aggressive;solitary;powerful
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,snake,long;dangerous;wild;green;poisonous;small;large;sleek;coiled;hidden
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Neutral Animals,whale,large;massive;wild;gray;marine;gentle;endangered;singing;deep-diving;majestic
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,city,large;busy;modern;old;crowded;beautiful;dirty;clean;industrial;historic
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,desert,vast;dry;hot;sandy;empty;remote;beautiful;harsh;golden;endless
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,forest,dense;green;dark;ancient;wild;quiet;tropical;cool;vast;mysterious
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,island,small;tropical;remote;beautiful;deserted;green;rocky;volcanic;sunny;isolated
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,lake,large;deep;blue;calm;frozen;clear;shallow;beautiful;fresh;quiet
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,mountain,high;tall;snowy;rocky;green;ancient;steep;majestic;remote;rugged
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,ocean,vast;deep;blue;stormy;calm;cold;warm;endless;mysterious;powerful
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,plain,flat;vast;green;dry;empty;fertile;wide;open;golden;peaceful
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,plateau,high;flat;rocky;vast;dry;green;remote;ancient;elevated;barren
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,river,wide;deep;fast;slow;clear;muddy;long;winding;fresh;powerful
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,valley,deep;green;narrow;wide;fertile;hidden;beautiful;remote;peaceful;sunny
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Places,village,small;quiet;old;rural;traditional;peaceful;remote;poor;rich;charming
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,cactus,spiky;green;tall;small;desert;wild;thorny;dry;hardy;exotic
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,eggplant,purple;fresh;large;small;cooked;raw;shiny;soft;healthy;round
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,flower,beautiful;colorful;fresh;wild;red;yellow;fragrant;small;large;blooming
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,grass,green;fresh;tall;short;wet;dry;wild;soft;thick;growing
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,lettuce,green;fresh;crisp;raw;leafy;small;large;organic;wet;healthy
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,mushroom,small;wild;fresh;poisonous;edible;brown;white;soft;large;damp
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,onion,white;red;fresh;raw;cooked;strong-smelling;small;large;spicy;dry
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,pepper,red;green;hot;fresh;spicy;small;large;sweet;raw;cooked
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,potato,large;small;fresh;cooked;raw;brown;soft;hard;baked;fried
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,rose,red;beautiful;fresh;thorny;fragrant;wild;white;blooming;soft;elegant
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,tomato,red;fresh;ripe;small;large;juicy;raw;cooked;sweet;soft
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Plants,tree,tall;green;old;young;strong;fruit-bearing;leafy;ancient;shady;bare
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,ally,strong;reliable;faithful;close;powerful;foreign;trusted;secret;loyal;helpful
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,brother,older;younger;close;distant;loving;protective;funny;strong;caring;reliable
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,enemy,dangerous;powerful;bitter;sworn;foreign;hidden;strong;old;fierce;common
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,father,loving;strict;old;young;protective;absent;caring;strong;busy;wise
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,follower,loyal;dedicated;faithful;blind;strong;active;quiet;enthusiastic;young;old
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,friend,close;true;old;new;loyal;funny;reliable;helpful;distant;kind
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,leader,strong;wise;charismatic;effective;young;old;popular;inspiring;powerful;democratic
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,mother,loving;caring;strict;busy;young;old;protective;gentle;dedicated;strong
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,partner,reliable;business;romantic;close;strong;trusted;equal;foreign;helpful;loyal
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,rival,strong;fierce;direct;old;new;bitter;competitive;foreign;challenging;dangerous
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,sister,younger;older;close;distant;loving;protective;funny;caring;strong;reliable
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Social Relationships,stranger,unknown;mysterious;dangerous;friendly;foreign;tall;quiet;helpful;suspicious;passing
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,above,high;clear;bright;distant;open;vast;blue;empty;shining;cool
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,back,strong;sore;broad;weak;straight;curved;hidden;old;young;injured
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,below,deep;dark;hidden;low;cold;quiet;mysterious;wet;vast;unseen
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,east,distant;rising;sunny;foreign;ancient;warm;coastal;flat;mysterious;wide
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,front,wide;open;clean;busy;main;hidden;strong;small;large;bright
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,inside,warm;dark;safe;hidden;quiet;empty;full;comfortable;secret;cool
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,left,free;strong;weak;open;hidden;small;large;dark;bright;empty
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,north,cold;distant;wild;frozen;high;ancient;mysterious;vast;quiet;green
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,outside,cold;warm;bright;dark;empty;full;wet;dry;noisy;quiet
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,right,correct;strong;weak;open;hidden;small;large;direct;true;free
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,south,warm;sunny;distant;coastal;flat;ancient;green;mysterious;vast;quiet
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Spatial Concepts,west,distant;wild;setting;coastal;ancient;mysterious;vast;quiet;golden;hidden
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,century,past;future;long;short;golden;dark;modern;ancient;eventful;peaceful
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;quiet;clear;dark;warm;cold
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,evening,long;quiet;cool;dark;peaceful;busy;warm;short;golden;relaxing
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;golden;dark;final;starting
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,minute,last;first;short;long;quiet;busy;final;starting;quick;slow
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;final;starting;full;empty
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,morning,early;fresh;bright;cold;quiet;busy;warm;foggy;clear;short
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,night,dark;long;quiet;cold;warm;starry;stormy;peaceful;short;exciting
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;colorful;quiet;busy;changing
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,second,last;first;short;quick;final;starting;quiet;busy;vital;extra
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,week,long;short;busy;quiet;final;starting;full;empty;exciting;relaxing
+grok-3-mini,basic,1.0,FR # French,C1,most frequent,Time Concepts,year,long;short;busy;quiet;successful;difficult;new;old;final;starting
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;simmering;explosive;uncontrollable;righteous;suppressed
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,courage,brave;heroic;bold;unwavering;moral;physical;quiet;innate;demonstrated;foolish
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,fear,intense;sudden;overwhelming;irrational;deep;paralyzing;instinctive;hidden;growing;primal
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,freedom,absolute;personal;political;true;limited;hard-won;basic;spiritual;economic;complete
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;fleeting;deep;shared;inner;sudden;overwhelming
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,hate,intense;deep;blind;irrational;bitter;growing;mutual;hidden;destructive;passionate
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,honesty,complete;brutal;refreshing;straightforward;rare;absolute;unwavering;simple;heartfelt;painful
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,justice,fair;swift;blind;social;true;poetic;legal;moral;restorative;delayed
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,knowledge,vast;deep;practical;theoretical;ancient;modern;hidden;essential;shared;limited
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,love,true;deep;unconditional;passionate;enduring;lost;pure;romantic;familial;forbidden
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,peace,lasting;fragile;inner;global;quiet;temporary;absolute;spiritual;hard-won;serene
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;innate;shared;timeless;hard-earned;simple;intuitive;worldly
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,bell,loud;clear;ringing;ancient;small;golden;decorative;church;alarm;handheld
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,candle,lit;flickering;scented;tall;waxen;decorative;simple;colored;emergency;votive
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,carpet,soft;woven;colorful;thick;oriental;dirty;patterned;old;modern;rolled
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,coin,shiny;old;rare;gold;silver;foreign;counterfeit;small;valuable;engraved
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;ceremonial;heavy;symbolic;ornate;simple;stolen
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,flag,national;waving;colorful;torn;symbolic;foreign;historical;proud;faded;large
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,mask,decorative;protective;mysterious;carved;facial;ancient;colorful;simple;theatrical;hidden
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,necklace,golden;beaded;elegant;simple;antique;pearl;valuable;lightweight;colorful;handmade
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,painting,beautiful;old;famous;abstract;detailed;colorful;modern;framed;landscape;portrait
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,ring,golden;shiny;engagement;simple;antique;valuable;finger;engraved;decorative;lost
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,statue,grand;ancient;stone;bronze;lifelike;historical;modern;damaged;outdoor;heroic
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Cultural Artifacts,vase,decorative;fragile;antique;glass;ceramic;tall;floral;simple;colored;ornate
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;drifting;stormy;high;thin;low;rainy;massive
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,earthquake,strong;devastating;sudden;minor;powerful;underground;destructive;rare;shallow;frequent
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,fog,thick;dense;morning;mysterious;cold;lifting;coastal;early;wet;lingering
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;striking;electric;distant;powerful;dangerous;quick;summer
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;cold;warm;seasonal;gentle;relentless;tropical
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;faint;vivid;arched;fleeting;beautiful;natural;full
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,snow,fresh;deep;powdery;melting;heavy;light;winter;fluffy;wet;falling
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,storm,violent;approaching;fierce;tropical;sudden;electrical;windy;massive;coastal;raging
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;sudden;echoing;fierce;rolling;powerful;nighttime;threatening
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;coastal;daily;gentle;powerful;incoming
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;explosive;smoking;ancient;dangerous;volcanic;high;threatening
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;northern;southern;coastal
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,apple,red;green;fresh;ripe;juicy;sweet;tart;small;large;organic
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,banana,yellow;ripe;green;sweet;curved;fresh;peeled;large;small;tropical
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,beef,tender;fresh;grilled;lean;fatty;rare;cooked;organic;ground;cheap
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,bread,fresh;soft;crusty;warm;sliced;whole-wheat;white;homemade;stale;toasted
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,broccoli,fresh;green;steamed;crisp;organic;raw;frozen;tender;large;healthy
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,cheese,sharp;soft;hard;melted;creamy;aged;fresh;grated;flavored;expensive
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,chicken,grilled;roasted;fresh;tender;spicy;organic;fried;boneless;raw;flavorful
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,egg,fresh;boiled;fried;large;small;organic;cracked;white;brown;runny
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,fish,fresh;grilled;smoked;wild;farmed;large;small;oily;tasty;frozen
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;homemade;Italian;cheesy;sauced;simple;colorful
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;wild;fragrant;raw;seasoned
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;thick;light;homemade;spicy;clear;flavorful
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,artist,talented;creative;famous;struggling;dedicated;young;established;visionary;skilled;passionate
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,athlete,strong;fast;dedicated;professional;young;injured;skilled;competitive;Olympic;fit
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,chef,skilled;famous;creative;professional;young;experienced;passionate;innovative;busy;talented
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,doctor,skilled;experienced;caring;busy;young;specialist;dedicated;professional;reliable;emergency
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,engineer,skilled;innovative;experienced;young;mechanical;creative;professional;dedicated;electrical;reliable
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,farmer,hardworking;local;experienced;young;organic;dedicated;rural;skilled;family;modern
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,lawyer,sharp;experienced;successful;young;corporate;dedicated;ethical;busy;criminal;reliable
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,musician,talented;famous;young;dedicated;classical;rock;skilled;passionate;touring;creative
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,scientist,brilliant;dedicated;experienced;young;innovative;curious;professional;environmental;medical;reliable
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,soldier,brave;trained;young;experienced;dedicated;elite;wounded;loyal;professional;heroic
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,teacher,dedicated;experienced;young;passionate;skilled;inspiring;patient;strict;creative;knowledgeable
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Human Roles,writer,talented;famous;young;dedicated;creative;prolific;struggling;skilled;insightful;imaginative
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;educational;fictional;hardcover;popular
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,bridge,old;new;long;high;wooden;stone;modern;suspended;busy;historic
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;wooden;electronic;small;large;traditional;modern;tuned;portable
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,earth,green;vast;round;fertile;dry;ancient;spinning;blue;solid;fragile
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,flute,wooden;silver;melodic;ancient;modern;small;handmade;shiny;portable;sweet-sounding
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,key,small;metal;rusty;shiny;spare;modern;old;electronic;lost;important
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,knife,sharp;dull;metal;kitchen;pocket;old;new;rusty;clean;dangerous
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,lock,old;new;broken;secure;electronic;metal;rusty;simple;combination;front-door
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,moon,full;crescent;bright;dark;distant;glowing;silver;waxing;waning;mysterious
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,pen,black;blue;ink;fine-tipped;cheap;expensive;old;new;fountain;ballpoint
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,sun,bright;hot;setting;rising;golden;warm;distant;summer;powerful;eternal
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Inanimate Objects,sword,sharp;ancient;metal;long;decorative;battle-ready;rusty;ceremonial;lightweight;enchanted
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,cat,black;white;fluffy;playful;lazy;stray;domestic;wild;young;old
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,dog,loyal;friendly;big;small;energetic;lazy;trained;stray;young;old
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;graceful;wild;captive;large;friendly;marine;fast;curious
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,elephant,large;gray;wild;tame;intelligent;endangered;majestic;heavy;young;old
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,hamster,small;furry;playful;cute;tame;nocturnal;quick;caged;young;active
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,monkey,playful;clever;wild;tame;small;noisy;agile;furry;young;curious
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,mouse,small;gray;quick;timid;wild;caged;furry;nocturnal;young;scared
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,peacock,colorful;proud;wild;tame;large;beautiful;noisy;exotic;male;striking
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,rabbit,fluffy;quick;white;wild;tame;small;cute;hopping;young;furry
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,shark,large;dangerous;fast;wild;predatory;gray;marine;fierce;solitary;powerful
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,snake,long;venomous;slithery;wild;tame;colorful;dangerous;coiled;small;exotic
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Neutral Animals,whale,massive;gentle;wild;endangered;marine;blue;singing;deep-diving;majestic;ancient
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,city,busy;modern;ancient;large;crowded;clean;polluted;historic;coastal;industrial
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,desert,vast;dry;sandy;hot;barren;remote;beautiful;harsh;golden;endless
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,forest,dense;green;ancient;dark;tropical;quiet;vast;wild;rainy;magical
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,island,tropical;remote;small;large;volcanic;deserted;beautiful;sandy;green;inhabited
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,lake,deep;clear;frozen;large;small;peaceful;scenic;freshwater;blue;calm
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,mountain,high;snowy;rugged;ancient;majestic;steep;green;volcanic;remote;beautiful
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;endless;mysterious;cold;warm
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,plain,vast;flat;green;dry;fertile;empty;windy;open;grassy;rural
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;scenic;ancient;green;remote
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,river,wide;deep;flowing;clean;polluted;fast;slow;winding;ancient;scenic
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,valley,deep;green;narrow;wide;fertile;scenic;hidden;mountainous;peaceful;dry
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Places,village,small;quiet;rural;ancient;coastal;picturesque;remote;traditional;friendly;sleepy
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,cactus,spiky;green;tall;small;desert;flowering;hardy;prickly;exotic;dry
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,eggplant,purple;fresh;large;small;shiny;ripe;grilled;raw;organic;soft
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;wild;garden;wilted;fresh;blooming;red;delicate
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,grass,green;tall;short;wet;dry;lush;wild;mowed;soft;thick
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,lettuce,fresh;green;crisp;organic;leafy;raw;wilted;salad;small;healthy
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,mushroom,wild;fresh;edible;poisonous;small;large;brown;white;cooked;damp
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,onion,fresh;red;white;yellow;raw;chopped;strong-smelling;spicy;small;large
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,pepper,red;green;spicy;fresh;hot;sweet;raw;chopped;small;dried
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,potato,fresh;large;small;baked;fried;organic;raw;peeled;starchy;yellow
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,rose,red;beautiful;fragrant;thorny;wild;garden;blooming;delicate;white;fresh
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,tomato,red;ripe;fresh;juicy;small;large;organic;raw;sliced;sweet
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Plants,tree,tall;old;green;leafy;fruit-bearing;ancient;young;shady;bare;strong
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,ally,reliable;strong;faithful;strategic;loyal;trusted;powerful;helpful;close;foreign
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,brother,older;younger;loving;protective;annoying;supportive;twin;biological;adopted;close
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,enemy,dangerous;sworn;fierce;powerful;hidden;bitter;old;foreign;ruthless;defeated
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,father,loving;strict;absent;supportive;biological;adoptive;hardworking;wise;young;proud
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,follower,loyal;dedicated;blind;enthusiastic;faithful;active;young;skilled;unquestioning;supportive
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,friend,close;true;old;new;loyal;supportive;fun;reliable;childhood;trusted
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,leader,strong;charismatic;effective;visionary;democratic;authoritarian;inspiring;young;experienced;respected
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,mother,loving;caring;strict;supportive;biological;adoptive;hardworking;young;wise;protective
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,partner,reliable;business;romantic;equal;trusted;supportive;professional;creative;loyal;committed
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,rival,fierce;strong;competitive;old;business;worthy;bitter;skilled;challenging;defeated
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,sister,older;younger;loving;supportive;annoying;close;twin;biological;adopted;protective
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Social Relationships,stranger,mysterious;unknown;friendly;suspicious;foreign;helpful;dangerous;passing;tall;quiet
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,above,high;overhead;superior;elevated;top;upper;floating;distant;clear;bright
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,back,rear;hidden;supporting;straight;curved;lower;dark;strong;injured;covered
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,below,low;underground;inferior;deep;hidden;submerged;dark;quiet;cold;distant
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,east,rising;sunny;coastal;distant;eastern;warm;ancient;far;directional;exotic
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,front,forward;leading;visible;open;main;direct;clean;strong;exposed;busy
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,inside,inner;hidden;warm;dark;safe;quiet;enclosed;protected;secret;comfortable
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,left,western;abandoned;free;open;dark;unused;directional;opposite;empty;quiet
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,north,cold;polar;northern;distant;windy;frozen;directional;remote;ancient;high
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,outside,external;cold;bright;open;noisy;free;exposed;fresh;distant;vast
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,right,correct;eastern;straight;true;proper;accurate;directional;firm;just;opposite
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,south,warm;southern;tropical;distant;sunny;coastal;directional;humid;ancient;low
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Spatial Concepts,west,wild;western;distant;setting;coastal;dry;directional;ancient;remote;golden
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,century,past;modern;ancient;golden;dark;enlightened;Victorian;twentieth;forgotten;prosperous
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;lazy;ordinary;special;working;festive
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,evening,quiet;cool;long;romantic;peaceful;late;warm;starry;relaxing;golden
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,hour,long;short;late;early;golden;final;busy;quiet;working;passing
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,minute,brief;last;final;waiting;ticking;short;precious;endless;quiet;tense
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,month,long;short;busy;festive;warm;cold;final;starting;quiet;productive
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,morning,fresh;early;bright;foggy;quiet;sunny;chilly;routine;energetic;new
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,night,dark;long;starry;quiet;stormy;cold;endless;festive;mysterious;peaceful
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,season,long;short;warm;cold;festive;busy;rainy;dry;changing;mild
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,second,brief;final;last;quick;precious;ticking;tense;waiting;short;crucial
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,week,long;short;busy;relaxing;final;starting;productive;quiet;eventful;ordinary
+grok-3-mini,basic,1.0,FR # French,C2,most frequent,Time Concepts,year,long;short;busy;prosperous;challenging;new;final;memorable;quiet;productive
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;hot;cold;suppressed;explosive;quiet;righteous
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,courage,brave;bold;great;moral;physical;quiet;foolish;heroic;unwavering;true
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,fear,deep;irrational;sudden;overwhelming;primal;constant;hidden;intense;unfounded;paralyzing
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,freedom,absolute;basic;complete;democratic;equal;full;individual;new;personal;true
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,happiness,pure;great;simple;lasting;inner;true;complete;sudden;shared;genuine
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,hate,deep;blind;intense;irrational;bitter;pure;racial;personal;violent;mutual
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,honesty,complete;brutal;simple;absolute;genuine;rare;basic;true;straightforward;unwavering
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,justice,social;true;blind;divine;equal;swift;poetic;rough;criminal;international
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;basic;practical;scientific;ancient;common;general;special;useful
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,love,true;deep;eternal;pure;blind;passionate;romantic;unconditional;sudden;mutual
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,peace,inner;world;lasting;fragile;absolute;global;quiet;perfect;mental;eternal
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Abstract Concepts,wisdom,ancient;great;true;practical;profound;common;divine;simple;worldly;eternal
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,bell,old;large;small;ringing;golden;broken;church;alarm;silver;hand
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,candle,lit;unlit;scented;tall;short;wax;birthday;emergency;decorative;flickering
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,carpet,soft;woolen;red;old;new;patterned;thick;thin;Persian;dirty
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,coin,old;rare;shiny;gold;silver;ancient;foreign;modern;counterfeit;heavy
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ancient;ceremonial;heavy;symbolic;ornate;simple;broken
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,flag,national;waving;old;colorful;torn;proud;foreign;small;large;symbolic
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,mask,protective;scary;facial;decorative;old;plastic;surgical;wooden;colorful;hidden
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,necklace,gold;pearl;simple;elegant;old;broken;sparkling;cheap;long;short
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,painting,beautiful;old;modern;famous;abstract;colorful;large;small;oil;landscape
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;old;simple;engagement;broken;plain;decorative;heavy
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,statue,ancient;tall;bronze;marble;famous;broken;modern;decorative;heroic;stone
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Cultural Artifacts,vase,antique;glass;ceramic;tall;broken;decorative;floral;simple;colorful;empty
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,cloud,white;dark;fluffy;low;high;stormy;drifting;gray;thin;thick
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,earthquake,strong;mild;devastating;rare;sudden;underground;major;minor;seismic;destructive
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;light;morning;evening;mysterious;cold;wet;rolling;persistent
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,lightning,bright;fast;forked;dramatic;dangerous;sudden;electrical;vivid;nighttime;powerful
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;torrential;gentle;cold;warm;seasonal;refreshing;pouring
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;bright;double;faint;spectacular;natural;fleeting;beautiful;arched;rare
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,snow,fresh;deep;light;fluffy;heavy;melting;white;winter;packed;drifting
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,storm,violent;fierce;approaching;tropical;sudden;electrical;windy;severe;calm;brewing
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;sudden;crashing;ominous;deep;echoing;powerful;frightening
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;gentle;ocean;coastal;incoming;outgoing
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;ancient;smoking;fiery;dangerous;volcanic;steep
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;cold;hot;howling;steady;gusty;northern;eastern;western
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,apple,red;green;ripe;fresh;juicy;sweet;sour;small;large;organic
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,banana,yellow;ripe;green;fresh;sweet;peeled;large;small;tropical;soft
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,beef,fresh;tender;lean;grilled;ground;rare;well-done;organic;cheap;expensive
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,bread,fresh;warm;soft;crusty;white;whole;sliced;toasted;homemade;stale
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;crisp;frozen;tender;healthy;bitter
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,cheese,sharp;mild;soft;hard;grated;melted;creamy;aged;fresh;imported
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,chicken,grilled;roasted;fried;fresh;organic;boneless;tender;spicy;raw;cooked
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;raw;large;small;brown;white;organic;cracked
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,fish,fresh;grilled;smoked;raw;large;small;oily;flaky;wild;farmed
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;homemade;spicy;cheesy;long;short;wheat
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,rice,cooked;steamed;white;brown;sticky;fluffy;wild;raw;organic;long-grain
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Food Items,soup,hot;cold;creamy;thick;thin;vegetable;chicken;spicy;homemade;hearty
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,artist,talented;creative;famous;young;established;struggling;visionary;skilled;modern;classical
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,athlete,professional;Olympic;fast;strong;dedicated;injured;young;experienced;competitive;fit
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,chef,talented;professional;famous;skilled;creative;young;experienced;busy;innovative;culinary
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,doctor,skilled;experienced;young;dedicated;busy;specialist;family;emergency;caring;qualified
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,engineer,skilled;mechanical;civil;electrical;innovative;experienced;young;creative;qualified;busy
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,farmer,hardworking;local;organic;experienced;young;rural;dedicated;modern;traditional;successful
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,lawyer,experienced;corporate;criminal;skilled;young;successful;busy;ethical;qualified;defense
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,musician,talented;classical;rock;famous;young;dedicated;skilled;jazz;struggling;professional
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,scientist,brilliant;dedicated;famous;young;experienced;innovative;biological;physical;qualified;research
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,soldier,brave;trained;veteran;young;elite;disciplined;injured;loyal;combat;heroic
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,teacher,dedicated;experienced;young;passionate;effective;strict;kind;qualified;inspirational;busy
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Human Roles,writer,talented;famous;young;experienced;creative;fictional;journalistic;skilled;prolific;struggling
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;popular;hardcover;paperback;educational
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,bridge,old;new;long;high;wooden;stone;modern;broken;arched;suspension
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;wooden;metal;large;small;electronic;traditional;acoustic;tuned
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,earth,flat;round;green;blue;ancient;fertile;barren;solid;molten;vast
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;long;short;sweet-sounding;ancient;modern;tuned;handmade;professional
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,key,small;large;metal;rusty;golden;spare;electronic;old;new;security
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,knife,sharp;dull;kitchen;pocket;long;short;metal;wooden-handled;rusty;clean
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,lock,old;new;broken;electronic;sturdy;simple;combination;key;pad;door
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,moon,full;crescent;bright;dark;waxing;waning;silver;distant;mysterious;red
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,pen,black;blue;red;cheap;expensive;fountain;ballpoint;ink;wooden;metal
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;yellow;massive;distant;summer;winter;golden
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;long;short;metal;wooden;decorative;battle;royal;curved
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,cat,black;white;fluffy;stray;domestic;wild;playful;lazy;young;old
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;big;small;trained;wild;barking;playful;old;young
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;captive;gray;fast;marine;social;young;adult
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,elephant,large;gray;wild;tame;majestic;endangered;strong;gentle;old;young
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,hamster,small;furry;cute;active;pet;wild;brown;white;playful;nocturnal
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,monkey,playful;wild;intelligent;small;large;curious;brown;furry;young;aggressive
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;wild;pet;quick;timid;nocturnal;furry;young
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,peacock,colorful;proud;wild;captive;large;beautiful;male;female;exotic;elegant
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,rabbit,white;fluffy;wild;pet;fast;cute;young;old;hopping;timid
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,shark,large;dangerous;fast;predatory;gray;marine;endangered;fierce;young;old
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,snake,long;venomous;harmless;wild;pet;colorful;green;black;slithery;coiled
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Neutral Animals,whale,massive;blue;endangered;marine;singing;migrating;gentle;ancient;wild;young
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,city,busy;large;modern;ancient;crowded;clean;dirty;coastal;inland;historic
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,desert,vast;hot;sandy;dry;barren;remote;beautiful;harsh;golden;expansive
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,forest,dense;green;ancient;tropical;dark;lush;quiet;wild;rainy;peaceful
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,island,tropical;small;large;remote;volcanic;sandy;green;deserted;populated;beautiful
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,lake,deep;shallow;blue;frozen;calm;stormy;freshwater;saltwater;scenic;large
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,mountain,high;snow-capped;rugged;green;ancient;steep;majestic;volcanic;remote;beautiful
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;mysterious;endless;warm;cold
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,plain,flat;vast;green;dry;fertile;open;grassy;endless;rural;simple
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;green;remote;scenic;ancient
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,river,wide;narrow;fast-flowing;calm;muddy;clear;long;short;winding;frozen
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,valley,deep;green;narrow;wide;fertile;scenic;hidden;mountainous;peaceful;dry
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Places,village,small;quiet;rural;ancient;coastal;mountain;fishing;farming;picturesque;remote
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,cactus,spiky;green;tall;short;desert;flowering;hardy;prickly;wild;potted
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,eggplant,purple;fresh;ripe;large;small;organic;shiny;cooked;raw;bitter
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,flower,beautiful;red;yellow;fragrant;wild;garden;blooming;wilted;small;large
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,grass,green;tall;short;wet;dry;lush;wild;mowed;soft;prickly
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,lettuce,fresh;green;crisp;organic;wilted;leafy;raw;salad;sweet;bitter
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,mushroom,wild;cultivated;fresh;poisonous;edible;small;large;brown;white;fungi
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,onion,fresh;raw;cooked;spicy;sweet;large;small;organic;peeled;sliced
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,pepper,red;green;hot;sweet;fresh;dried;spicy;organic;ground;whole
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,potato,fresh;baked;fried;large;small;organic;starchy;raw;cooked;yellow
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,rose,red;beautiful;fragrant;thorny;wild;garden;blooming;white;pink;fresh
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,tomato,red;ripe;fresh;juicy;organic;small;large;raw;cooked;sweet
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Plants,tree,tall;old;green;fruit;oak;pine;shady;ancient;young;leafy
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,ally,strong;reliable;strategic;faithful;military;political;close;trusted;foreign;supportive
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,brother,older;younger;loving;protective;twin;step;half;caring;mischievous;responsible
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,enemy,sworn;dangerous;bitter;foreign;powerful;ancient;ruthless;hidden;declared;fierce
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,father,loving;strict;absent;proud;hardworking;single;step;biological;caring;elderly
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;religious;political;dedicated;faithful;mass;individual
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,friend,best;close;old;new;loyal;trustworthy;fun;helpful;childhood;casual
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,leader,strong;charismatic;effective;inspirational;political;military;spiritual;visionary;weak;democratic
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,mother,loving;caring;single;working;proud;strict;biological;step;nurturing;elderly
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,partner,business;life;reliable;equal;romantic;professional;trusted;supportive;committed
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,rival,fierce;strong;corporate;sports;bitter;competitive;local;international;direct;indirect
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,sister,older;younger;loving;protective;twin;step;half;caring;mischievous;supportive
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Social Relationships,stranger,mysterious;dangerous;friendly;unknown;foreign;helpful;suspicious;passing;lone;wandering
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,above,high;overhead;superior;elevated;upper;floating;distant;clear;bright;vast
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,back,rear;hidden;strong;sore;wooden;straight;curved;distant;old;new
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,below,low;underground;submerged;inferior;deep;hidden;dark;quiet;cold;vast
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,east,far;rising;ancient;coastal;windy;sunny;mysterious;distant;cultural;historic
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,front,main;forward;open;busy;wide;narrow;decorative;clean;damaged;prominent
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,inside,warm;cozy;hidden;dark;bright;empty;full;secure;damp;spacious
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,left,forgotten;abandoned;weak;strong;open;closed;distant;near;hidden;clear
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,north,far;cold;frozen;windy;mysterious;polar;ancient;cultural;vast;remote
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,outside,cold;warm;wet;dry;bright;dark;noisy;quiet;vast;empty
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,right,correct;proper;legal;straight;dominant;obvious;moral;accurate;firm;true
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,south,warm;sunny;tropical;distant;cultural;historic;vast;humid;coastal;remote
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Spatial Concepts,west,wild;frontier;distant;coastal;sunny;cultural;vast;historic;open;rugged
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,century,past;future;golden;dark;modern;ancient;prosperous;turbulent;significant;forgotten
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;lazy;perfect;ordinary;special;clear
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,evening,calm;cool;peaceful;long;short;romantic;quiet;busy;golden;dark
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,hour,late;early;golden;dark;busy;quiet;final;initial;long;short
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,minute,last;first;quiet;busy;final;initial;fleeting;long;short;precise
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,month,long;short;busy;quiet;final;initial;festive;dark;warm;cold
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,morning,early;fresh;bright;foggy;busy;quiet;cold;warm;crisp;lazy
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,night,dark;long;short;starry;quiet;stormy;peaceful;cold;warm;endless
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,season,long;short;warm;cold;rainy;dry;festive;harsh;mild;changing
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,second,last;first;final;initial;quick;long;short;precise;fleeting;crucial
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;final;initial;productive;relaxing;eventful;ordinary
+grok-3-mini,basic,1.0,FR # French,Perfect,most frequent,Time Concepts,year,new;old;long;short;busy;quiet;prosperous;difficult;memorable;forgotten

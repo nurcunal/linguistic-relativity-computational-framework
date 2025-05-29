@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;big;quick;hot;silent;cold
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,courage,great;real;true;strong;big;quiet;silent;brave;new;much
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,fear,great;deep;real;big;sudden;strong;silent;cold;quick;true
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,freedom,great;real;true;full;new;big;personal;political;complete;much
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,happiness,great;real;true;full;big;much;deep;simple;quiet;new
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,hate,deep;great;real;strong;big;cold;sudden;silent;true;much
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,honesty,real;true;great;full;simple;much;complete;open;quiet;big
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,justice,real;true;great;social;much;full;simple;open;big;complete
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,knowledge,great;real;true;much;deep;new;full;big;simple;complete
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,love,true;real;great;deep;big;new;much;strong;first;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,peace,real;true;great;full;much;deep;quiet;new;complete;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Abstract Concepts,wisdom,great;real;true;much;deep;old;simple;full;big;complete
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;golden;silver;round;heavy;metal
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;thin;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;green;soft;long;thick;clean
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;clean;dirty
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,crown,gold;big;small;old;new;silver;heavy;royal;beautiful;rich
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,flag,national;big;small;red;white;blue;old;new;green;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,mask,white;black;red;big;small;old;new;simple;strange;funny
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,necklace,gold;silver;big;small;old;new;long;short;beautiful;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;simple;modern;classic;colorful
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,ring,gold;silver;big;small;old;new;round;simple;beautiful;clean
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;famous;beautiful;white;tall
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;red;simple;beautiful;clean
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,cloud,white;big;small;dark;grey;light;high;low;soft;thick
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;quick;deep;bad
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,fog,thick;white;heavy;light;cold;morning;grey;low;soft;wet
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,lightning,bright;quick;strong;big;sudden;white;loud;real;fast;great
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;big;small;strong;soft;hard;quick
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,rainbow,bright;big;small;beautiful;colorful;real;new;full;clear;high
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;deep;fresh;clean;new;thick
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;great;real;quick;cold;bad;loud
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,thunder,loud;big;strong;sudden;real;great;quick;heavy;deep;bad
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,tide,high;low;big;small;strong;fast;slow;real;quick;great
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;quiet;strong;real;high;hot
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;big;small;quick;soft;real;fresh
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;juicy;ripe;new
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,banana,yellow;big;small;ripe;sweet;fresh;long;soft;new;green
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,beef,fresh;cooked;raw;red;big;small;hot;cold;soft;hard
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,bread,fresh;white;brown;big;small;soft;hard;new;old;warm
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,broccoli,green;fresh;big;small;cooked;raw;soft;hard;new;healthy
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;big;small;fresh;old;new;strong
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,chicken,cooked;raw;big;small;white;fresh;hot;cold;soft;new
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,egg,big;small;white;brown;fresh;cooked;raw;hard;soft;new
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,fish,fresh;big;small;raw;cooked;white;red;new;soft;cold
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,pasta,cooked;hot;cold;soft;hard;big;small;fresh;new;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;fresh;new
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Food Items,soup,hot;cold;fresh;big;small;simple;new;thick;clear;warm
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,artist,young;old;new;famous;great;good;real;modern;creative;big
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,athlete,young;old;strong;fast;good;new;big;famous;real;great
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,chef,good;young;old;new;famous;great;real;big;fast;creative
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,doctor,good;young;old;new;famous;real;great;big;kind;busy
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,engineer,good;young;old;new;real;great;big;smart;busy;famous
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,farmer,old;young;good;new;real;great;big;hard;busy;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,lawyer,good;young;old;new;real;great;big;busy;famous;smart
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,musician,young;old;new;good;famous;great;real;big;creative;modern
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,scientist,young;old;new;good;great;real;big;smart;famous;busy
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,soldier,young;old;new;good;strong;brave;real;great;big;famous
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,teacher,good;young;old;new;real;great;big;kind;busy;smart
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Human Roles,writer,young;old;new;good;famous;great;real;big;creative;modern
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,book,big;small;old;new;good;famous;simple;long;short;real
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;wide
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,drums,big;small;old;new;loud;simple;round;red;white;wooden
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;real;great;small;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,flute,small;long;short;old;new;silver;wooden;simple;white;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;simple;real;round;metal
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;clean;metal
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;simple;silver;golden;round;metal
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,moon,full;new;big;small;white;round;bright;high;real;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;long;short
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,sun,big;bright;hot;round;yellow;high;real;new;strong;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Inanimate Objects,sword,sharp;big;small;old;new;long;short;silver;clean;metal
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,cat,small;big;black;white;young;old;cute;soft;quiet;fast
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,dog,big;small;black;white;young;old;friendly;fast;strong;cute
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,dolphin,big;small;smart;fast;friendly;young;old;blue;grey;cute
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,elephant,big;small;young;old;grey;strong;friendly;smart;wild;heavy
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,hamster,small;big;cute;young;old;soft;friendly;fast;brown;white
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,monkey,small;big;young;old;smart;funny;fast;brown;friendly;wild
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,mouse,small;big;grey;white;young;old;fast;quiet;cute;soft
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,peacock,big;small;beautiful;colorful;blue;green;young;old;bright;proud
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,rabbit,small;big;white;brown;cute;young;old;soft;fast;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,shark,big;small;strong;fast;grey;white;young;old;wild;dangerous
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,snake,long;short;big;small;green;black;fast;young;old;wild
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Neutral Animals,whale,big;small;blue;grey;young;old;strong;friendly;wild;heavy
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,city,big;small;old;new;busy;modern;quiet;famous;clean;dirty
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,desert,big;small;hot;dry;old;new;empty;open;quiet;sandy
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,forest,big;small;old;new;green;dark;deep;quiet;wild;thick
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,island,small;big;new;old;green;quiet;wild;beautiful;empty;far
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,lake,big;small;deep;blue;clear;quiet;old;new;round;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,mountain,big;small;high;low;old;new;green;white;tall;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,ocean,big;small;deep;blue;wide;open;wild;quiet;old;new
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,plain,big;small;wide;open;green;flat;quiet;empty;new;old
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,plateau,big;small;high;flat;wide;open;green;quiet;old;new
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,river,big;small;long;short;deep;wide;clear;blue;quiet;old
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,valley,big;small;deep;green;quiet;wide;open;old;new;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Places,village,small;big;old;new;quiet;simple;green;friendly;clean;far
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,cactus,green;big;small;tall;short;old;new;wild;dry;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,eggplant,purple;big;small;fresh;new;old;long;round;soft;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;new;simple;wild
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,grass,green;long;short;soft;fresh;new;old;wild;thick;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;simple;round;clean
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,mushroom,small;big;white;brown;fresh;new;old;wild;soft;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;strong;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,potato,big;small;brown;white;fresh;new;old;round;soft;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;big;small;fresh;new;wild
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,tomato,red;big;small;fresh;new;old;round;soft;ripe;simple
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Plants,tree,big;small;old;new;green;tall;short;wild;strong;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,ally,good;strong;true;real;old;new;big;close;loyal;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,brother,big;small;young;old;good;real;true;strong;close;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,enemy,big;small;old;new;strong;real;true;great;bad;dangerous
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,father,good;old;young;big;small;real;true;strong;kind;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,follower,good;true;real;strong;new;old;big;close;loyal;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,friend,good;true;real;old;new;close;best;big;kind;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,leader,good;strong;true;real;old;new;big;great;smart;kind
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,mother,good;old;young;big;small;real;true;kind;strong;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,partner,good;true;real;old;new;close;strong;big;kind;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,rival,strong;real;true;old;new;big;close;great;bad;dangerous
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,sister,big;small;young;old;good;real;true;strong;close;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Social Relationships,stranger,new;real;true;old;young;big;small;quiet;close;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,above,high;open;clear;bright;blue;wide;far;empty;big;free
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,back,big;small;strong;old;new;wide;soft;hard;straight;long
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,below,low;dark;deep;cold;quiet;small;close;empty;soft;wet
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,east,far;new;old;big;small;open;bright;clear;quiet;warm
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,front,big;small;open;wide;clear;new;old;strong;close;bright
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,inside,warm;quiet;soft;dark;small;big;close;safe;clean;new
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,left,open;free;big;small;close;quiet;new;old;clear;wide
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,north,cold;far;big;small;new;old;open;quiet;clear;white
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,outside,open;free;big;small;wide;quiet;new;old;clear;fresh
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,right,open;free;big;small;close;quiet;new;old;clear;wide
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,south,warm;far;big;small;new;old;open;quiet;clear;green
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Spatial Concepts,west,far;new;old;big;small;open;bright;clear;quiet;warm
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,century,new;old;last;next;big;long;short;great;real;past
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,day,new;old;long;short;good;bad;big;hot;cold;clear
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,evening,long;short;quiet;good;bad;new;old;dark;warm;cold
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,hour,long;short;new;old;last;next;good;bad;big;small
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,minute,long;short;new;old;last;next;good;bad;big;small
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,month,new;old;last;next;long;short;good;bad;big;small
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,morning,early;late;new;old;quiet;good;bad;long;short;cold
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,night,long;short;dark;quiet;cold;new;old;good;bad;late
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,season,new;old;last;next;long;short;good;bad;hot;cold
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,second,long;short;new;old;last;next;good;bad;big;small
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,week,new;old;last;next;long;short;good;bad;big;small
+gpt-4.1,basic,0.0,LV # Latvian,B1,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;big;small
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;silent;open;cold;wild;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,courage,great;real;true;strong;quiet;moral;personal;much;little;enough
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;little;open;silent;cold;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,freedom,real;true;full;complete;personal;political;much;little;great;total
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,happiness,great;real;true;much;little;full;complete;deep;personal;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,hate,deep;great;real;strong;open;cold;silent;sudden;much;little
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,honesty,real;true;great;complete;full;open;personal;much;little;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,justice,real;true;great;social;moral;complete;full;open;much;little
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,knowledge,great;deep;real;true;much;little;full;complete;personal;open
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,love,true;real;great;deep;strong;much;little;open;quiet;silent
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,peace,real;true;great;complete;full;quiet;deep;much;little;open
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Abstract Concepts,wisdom,great;real;true;deep;much;little;full;complete;personal;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;quiet;round;heavy
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;thin;thick
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;green;soft;thick;long
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;shiny;thin
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,crown,golden;silver;old;new;big;small;heavy;light;beautiful;royal
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,flag,national;red;blue;green;white;old;new;big;small;colorful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,mask,old;new;white;black;red;big;small;scary;funny;colorful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;long;short;beautiful;small;big;colorful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;colorful;famous;modern;simple;bright
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,ring,gold;silver;old;new;big;small;round;beautiful;simple;thin
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;famous;beautiful;tall;white
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;red;beautiful;round;tall
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;black;light;heavy;high;low
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;deep;light;heavy
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,fog,thick;thin;white;gray;heavy;light;cold;morning;evening;low
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;blue;loud;real;big;fast
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,rain,heavy;light;strong;cold;warm;soft;hard;big;small;sudden
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,rainbow,bright;beautiful;big;small;colorful;real;full;clear;high;wide
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;deep;fresh;new;thick;clean
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;real;great;loud;cold;dark;quick
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,thunder,loud;strong;big;sudden;real;heavy;deep;quick;long;hard
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,tide,high;low;strong;weak;big;small;fast;slow;daily;regular
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;quiet;strong;high;dangerous;famous
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;light;heavy;fast;slow;soft;sudden
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;ripe;round;juicy;soft
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,banana,yellow;ripe;big;small;sweet;fresh;soft;long;green;old
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,beef,fresh;cooked;raw;red;soft;hard;good;tasty;hot;cold
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,bread,fresh;white;brown;soft;hard;old;new;big;small;warm
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;healthy;tasty
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;big;small;tasty;round
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,chicken,cooked;raw;fresh;big;small;white;soft;hard;tasty;hot
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,egg,boiled;raw;fresh;big;small;white;brown;soft;hard;round
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;red;tasty;soft;hard
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,pasta,cooked;raw;hot;cold;soft;hard;tasty;white;yellow;fresh
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;tasty;fresh
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Food Items,soup,hot;cold;tasty;fresh;thick;thin;big;small;good;warm
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,artist,famous;young;old;new;good;great;modern;creative;talented;local
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,athlete,strong;young;old;good;great;fast;famous;new;talented;local
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,chef,good;great;famous;young;old;new;talented;local;creative;skilled
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,doctor,good;great;young;old;new;famous;local;kind;skilled;careful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,engineer,good;great;young;old;new;skilled;local;smart;talented;famous
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,farmer,old;young;good;great;local;new;small;big;hard-working;simple
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,lawyer,good;great;young;old;new;famous;local;smart;skilled;careful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,musician,good;great;young;old;new;famous;talented;local;creative;popular
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,scientist,good;great;young;old;new;famous;smart;local;talented;careful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,soldier,brave;strong;young;old;good;great;new;local;famous;skilled
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,teacher,good;great;young;old;new;local;kind;smart;famous;careful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Human Roles,writer,good;great;young;old;new;famous;local;creative;talented;popular
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,book,old;new;big;small;good;great;famous;interesting;long;short
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;low;famous
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,drums,big;small;loud;quiet;old;new;red;black;round;wooden
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;brown;small;beautiful;rich
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,flute,small;long;short;old;new;silver;wooden;white;beautiful;simple
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;round;long;short;simple
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,knife,sharp;small;big;old;new;long;short;silver;black;simple
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,lock,small;big;old;new;strong;weak;silver;golden;simple;heavy
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,moon,full;new;big;small;white;bright;round;high;beautiful;clear
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;long;short;simple
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;high;strong;warm;clear;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;big;small;silver;golden;strong
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,cat,small;big;black;white;young;old;cute;soft;quiet;fast
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,dog,big;small;black;white;young;old;friendly;fast;strong;brown
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;fast;young;old;blue;gray;playful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;wild;friendly;heavy;smart
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,hamster,small;big;young;old;cute;brown;white;soft;fast;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,monkey,small;big;young;old;smart;funny;brown;fast;wild;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,mouse,small;big;gray;white;young;old;fast;quiet;cute;soft
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,peacock,beautiful;big;small;colorful;blue;green;young;old;bright;proud
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,rabbit,small;big;white;brown;young;old;cute;soft;fast;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,shark,big;small;strong;fast;young;old;gray;white;wild;dangerous
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,snake,long;short;big;small;green;black;fast;dangerous;wild;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Neutral Animals,whale,big;small;blue;gray;strong;young;old;wild;friendly;heavy
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,city,big;small;old;new;modern;busy;quiet;famous;beautiful;large
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,desert,big;small;hot;dry;old;new;empty;wide;open;sandy
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,forest,big;small;old;new;green;dark;deep;quiet;wild;thick
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,island,small;big;new;old;green;quiet;beautiful;wild;far;tropical
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,lake,big;small;deep;shallow;old;new;blue;quiet;clear;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,mountain,high;low;big;small;old;new;green;white;rocky;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,ocean,big;small;deep;blue;wide;open;wild;quiet;beautiful;strong
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,plain,big;small;wide;open;green;flat;dry;empty;quiet;long
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,plateau,high;low;big;small;wide;flat;dry;open;old;new
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,river,big;small;long;short;deep;shallow;wide;narrow;clear;fast
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,valley,deep;wide;big;small;green;quiet;long;narrow;beautiful;open
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Places,village,small;big;old;new;quiet;local;simple;friendly;beautiful;peaceful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,cactus,green;big;small;tall;short;old;new;wild;dry;sharp
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,eggplant,purple;big;small;fresh;old;new;long;round;soft;ripe
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;blue;fresh;wild;colorful
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,grass,green;long;short;soft;fresh;wild;dry;thick;new;old
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,lettuce,green;fresh;big;small;soft;new;old;round;healthy;crisp
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;soft;round;new;old
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,onion,big;small;white;red;fresh;old;round;strong;new;sweet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,potato,big;small;white;brown;fresh;old;new;round;soft;hard
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,rose,red;white;yellow;pink;beautiful;fresh;small;big;wild;new
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,tomato,red;big;small;fresh;ripe;round;soft;new;old;juicy
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Plants,tree,big;small;old;new;green;tall;short;wild;strong;young
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,ally,good;strong;true;real;old;new;close;loyal;friendly;important
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,brother,big;small;young;old;good;real;true;close;strong;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,enemy,old;new;strong;real;true;big;small;close;open;dangerous
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,father,good;old;young;real;true;strong;kind;close;big;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,follower,good;true;real;close;loyal;strong;new;old;young;important
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,friend,good;true;real;old;new;close;best;young;loyal;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,leader,good;strong;true;real;old;new;young;important;great;famous
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,mother,good;old;young;real;true;kind;close;strong;big;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,partner,good;true;real;close;strong;new;old;important;loyal;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,rival,strong;real;true;old;new;big;small;close;open;important
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,sister,big;small;young;old;good;real;true;close;strong;friendly
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Social Relationships,stranger,new;real;true;old;young;close;open;quiet;friendly;important
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,above,high;open;clear;wide;bright;blue;far;empty;big;free
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,back,strong;big;small;old;new;straight;weak;broad;hard;soft
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,below,low;deep;dark;quiet;cold;open;empty;small;far;hidden
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,east,far;open;new;old;big;small;bright;warm;quiet;important
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,front,open;big;small;new;old;strong;clear;wide;bright;important
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,inside,small;big;quiet;dark;warm;cold;open;empty;new;old
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,left,open;free;quiet;small;big;new;old;close;important;empty
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,north,cold;far;open;big;small;new;old;quiet;important;strong
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,outside,open;big;small;quiet;cold;warm;empty;new;old;free
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,right,open;free;quiet;small;big;new;old;close;important;empty
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,south,warm;far;open;big;small;new;old;quiet;important;strong
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Spatial Concepts,west,far;open;new;old;big;small;bright;warm;quiet;important
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,century,new;old;last;next;past;long;short;great;important;modern
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,evening,quiet;long;short;good;bad;warm;cold;dark;late;early
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,hour,long;short;new;old;last;next;good;bad;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,minute,long;short;new;old;last;next;good;bad;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,month,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,morning,early;quiet;long;short;good;bad;warm;cold;new;busy
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,night,long;short;quiet;dark;cold;warm;good;bad;late;early
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;good;bad
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,second,long;short;new;old;last;next;good;bad;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,week,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,B2,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;open;silent;cold;wild;burning
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,courage,great;true;real;quiet;moral;personal;physical;inner;strong;brave
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;constant;silent;cold;growing;natural
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,freedom,personal;complete;full;political;real;true;total;individual;national;religious
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,happiness,great;real;true;complete;pure;simple;deep;personal;lasting;perfect
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,hate,deep;real;strong;open;cold;great;pure;silent;burning;true
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,honesty,complete;true;real;personal;great;simple;open;total;moral;perfect
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,justice,true;real;social;natural;complete;equal;moral;perfect;legal;fair
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,knowledge,great;deep;real;true;complete;personal;general;wide;full;practical
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,love,true;real;great;deep;pure;strong;first;perfect;simple;lasting
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,peace,real;true;complete;lasting;great;inner;perfect;personal;political;national
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Abstract Concepts,wisdom,great;true;real;deep;old;ancient;practical;personal;simple;natural
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;clear;church;heavy
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;burning;scented
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;soft;thick;clean;dirty
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;shiny;ancient
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,crown,golden;silver;old;new;royal;big;small;beautiful;heavy;ancient
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,flag,national;red;blue;white;old;new;big;small;green;official
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,mask,old;new;white;black;red;big;small;simple;strange;scary
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;beautiful;long;short;big;small;simple
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;modern;simple;colorful;original
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,ring,gold;silver;old;new;big;small;beautiful;simple;wedding;round
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;famous;beautiful;ancient;white
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;beautiful;simple;broken;empty
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,cloud,white;dark;big;small;black;grey;heavy;light;thick;low
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;great;real;natural;recent;powerful
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,fog,thick;heavy;white;grey;cold;morning;light;low;dense;wet
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;blue;loud;real;natural;powerful
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;strong;hard;soft;steady;sudden;constant
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,rainbow,bright;beautiful;big;small;colorful;clear;real;perfect;full;rare
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,snow,white;heavy;light;deep;fresh;soft;cold;new;thick;clean
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;great;real;powerful;cold;wild;violent
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;big;real;heavy;deep;distant;constant;powerful
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;big;small;daily;regular;natural;constant
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,volcano,active;old;big;small;new;strong;real;dangerous;famous;ancient
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;soft;hard;steady;sudden;fresh;constant
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;ripe;round;juicy;yellow
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,banana,yellow;green;ripe;big;small;sweet;fresh;long;soft;curved
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,beef,fresh;raw;cooked;red;cold;hot;tender;lean;juicy;good
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;new;old;big;small
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,broccoli,fresh;green;cooked;raw;small;big;healthy;soft;hard;good
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,cheese,hard;soft;white;yellow;fresh;old;strong;mild;big;small
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,chicken,cooked;raw;fresh;fried;grilled;roasted;big;small;hot;cold
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,egg,boiled;fried;raw;fresh;big;small;white;brown;hard;soft
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,fish,fresh;raw;cooked;big;small;white;red;fried;grilled;cold
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,pasta,cooked;fresh;hot;cold;soft;long;short;white;simple;good
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;soft;hard;fresh;sticky
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Food Items,soup,hot;cold;fresh;thick;thin;good;simple;clear;warm;homemade
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,artist,young;old;famous;great;new;modern;talented;creative;local;good
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,athlete,young;old;strong;great;famous;fast;good;new;talented;professional
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,chef,good;great;young;old;famous;new;talented;local;professional;creative
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,doctor,good;young;old;great;local;new;famous;kind;professional;busy
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,engineer,good;young;old;great;new;talented;local;professional;skilled;smart
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,farmer,old;young;local;good;small;big;hard-working;poor;rich;simple
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,lawyer,good;young;old;great;new;local;famous;professional;smart;busy
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,musician,young;old;famous;great;new;talented;local;good;modern;creative
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,scientist,young;old;great;famous;new;good;modern;local;smart;talented
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,soldier,young;old;brave;strong;good;great;new;local;professional;loyal
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,teacher,good;young;old;great;new;local;kind;strict;busy;professional
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Human Roles,writer,young;old;famous;great;new;good;modern;local;creative;talented
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,book,old;new;big;small;good;famous;interesting;long;short;simple
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;famous;wooden;stone
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;strong;heavy;simple;good
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;beautiful;rich;dry;wet
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,flute,small;long;wooden;silver;old;new;simple;beautiful;soft;good
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;simple;main;important;lost
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;clean;dirty
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,lock,old;new;big;small;strong;simple;broken;main;heavy;metal
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,moon,full;new;big;small;bright;white;round;clear;beautiful;half
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;simple;broken;good
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;strong;warm;clear;red;golden
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;big;small;silver;golden;heavy
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,cat,small;big;black;white;young;old;cute;lazy;wild;friendly
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,dog,big;small;black;white;young;old;friendly;loyal;brown;cute
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,dolphin,big;small;smart;friendly;young;old;wild;fast;playful;grey
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,elephant,big;small;old;young;wild;grey;strong;friendly;smart;heavy
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,hamster,small;cute;young;old;brown;white;friendly;fast;soft;active
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,monkey,small;big;young;old;wild;smart;funny;brown;fast;active
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,mouse,small;big;grey;white;brown;young;old;wild;fast;cute
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,peacock,big;small;beautiful;colorful;wild;young;old;blue;green;proud
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,rabbit,small;big;white;brown;cute;young;old;wild;fast;soft
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,shark,big;small;wild;dangerous;strong;fast;grey;white;young;old
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,snake,long;short;big;small;wild;dangerous;green;brown;young;old
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Neutral Animals,whale,big;small;blue;white;wild;old;young;strong;friendly;huge
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,city,big;small;old;new;modern;busy;large;beautiful;famous;main
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,desert,big;small;hot;dry;empty;wide;sandy;open;wild;cold
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,forest,big;small;old;green;dark;deep;wild;thick;beautiful;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,island,small;big;beautiful;green;wild;quiet;new;old;tropical;lonely
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;quiet;old;new;natural
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,mountain,high;big;small;old;new;green;tall;beautiful;wild;snowy
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,ocean,big;deep;blue;wide;open;wild;beautiful;clear;cold;warm
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,plain,big;small;wide;open;green;flat;dry;empty;quiet;long
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,plateau,high;big;small;flat;wide;dry;open;old;new;rocky
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,river,big;small;long;short;deep;wide;clear;fast;slow;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,valley,big;small;deep;green;wide;long;quiet;beautiful;narrow;open
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Places,village,small;big;old;new;quiet;local;beautiful;simple;poor;rich
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,cactus,big;small;green;tall;short;old;new;wild;dry;round
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,eggplant,big;small;purple;fresh;long;short;round;new;old;soft
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;simple;blue
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,grass,green;tall;short;fresh;wild;dry;soft;thick;long;new
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;crisp;round;healthy
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,mushroom,small;big;white;brown;wild;fresh;new;old;soft;round
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;sweet;strong
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,potato,big;small;white;brown;new;old;fresh;round;soft;hard
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,rose,red;white;yellow;pink;beautiful;fresh;wild;big;small;new
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,tomato,red;big;small;fresh;ripe;round;new;old;soft;juicy
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Plants,tree,big;small;old;new;green;tall;young;wild;strong;thick
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,ally,good;strong;true;loyal;old;new;close;important;main;trusted
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,brother,big;small;young;old;good;real;true;close;little;elder
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,enemy,old;new;strong;real;true;main;big;small;dangerous;powerful
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,father,good;old;young;real;true;strong;kind;loving;strict;caring
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,follower,loyal;true;good;strong;old;new;close;main;important;faithful
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,friend,good;true;old;new;close;best;real;young;loyal;dear
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,leader,strong;good;true;old;new;main;great;real;important;young
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,mother,good;old;young;real;true;loving;kind;caring;strong;dear
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,partner,good;true;old;new;close;strong;main;important;real;loyal
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,rival,strong;main;old;new;true;real;big;small;close;powerful
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,sister,big;small;young;old;good;real;true;close;little;elder
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Social Relationships,stranger,complete;total;real;true;new;old;perfect;unknown;silent
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,above,high;open;clear;wide;empty;bright;blue;sunny;free;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,back,strong;big;small;straight;broad;weak;old;new;hard;soft
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,below,low;deep;dark;cold;quiet;empty;open;wet;silent;hidden
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,east,far;near;open;new;old;main;big;small;quiet;important
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,front,main;big;small;open;new;old;strong;clear;wide;important
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,inside,dark;quiet;warm;safe;small;big;new;old;empty;full
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,left,main;big;small;open;new;old;strong;clear;wide;important
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,north,far;near;cold;open;new;old;main;big;small;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,outside,open;big;small;new;old;quiet;empty;free;wide;bright
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,right,main;big;small;open;new;old;strong;clear;wide;important
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,south,far;near;warm;open;new;old;main;big;small;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Spatial Concepts,west,far;near;open;new;old;main;big;small;quiet;important
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,century,new;old;last;next;past;present;great;long;short;modern
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,day,new;old;long;short;good;bad;sunny;rainy;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,evening,late;early;long;short;quiet;warm;cold;dark;good;busy
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;good;bad;new;old
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,minute,long;short;last;next;early;late;good;bad;new;old
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,month,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,morning,early;late;new;old;long;short;quiet;good;cold;warm
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;new;old
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,season,new;old;long;short;cold;warm;dry;wet;good;bad
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,second,last;next;long;short;early;late;good;bad;new;old
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,week,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C1,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;burning;bitter;cold;violent;righteous
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,courage,great;true;quiet;moral;physical;inner;remarkable;extraordinary;personal;steady
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,fear,deep;great;sudden;constant;irrational;real;intense;overwhelming;silent;growing
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,freedom,complete;total;personal;political;true;individual;absolute;full;economic;religious
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,happiness,great;true;real;pure;simple;lasting;complete;deep;perfect;genuine
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,hate,deep;blind;pure;open;cold;strong;bitter;burning;violent;intense
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,honesty,complete;true;absolute;personal;brutal;simple;total;moral;real;open
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,justice,true;social;criminal;natural;poetic;legal;equal;real;divine;fair
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,knowledge,deep;general;scientific;practical;personal;basic;common;detailed;broad;technical
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,love,true;deep;real;pure;first;great;romantic;unconditional;passionate;eternal
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,peace,complete;true;lasting;inner;world;perfect;real;political;long-term;relative
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Abstract Concepts,wisdom,great;ancient;true;practical;deep;common;spiritual;traditional;real;personal
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;church;heavy;broken;ancient
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,candle,small;white;scented;tall;thin;burning;red;wax;new;old
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,carpet,red;large;old;new;thick;soft;Persian;blue;beautiful;clean
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,coin,old;gold;silver;small;rare;ancient;new;round;valuable;foreign
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;heavy;silver;ancient;jeweled;new;broken
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,flag,national;red;white;blue;old;new;large;small;green;official
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,mask,white;black;old;new;wooden;golden;painted;red;scary;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;old;new;long;short;pearl;diamond;simple
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,painting,old;beautiful;famous;large;small;modern;abstract;original;oil;classic
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;old;new;wedding;simple;beautiful;small;big
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,statue,large;old;ancient;bronze;marble;famous;small;golden;beautiful;broken
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Cultural Artifacts,vase,old;beautiful;large;small;blue;white;broken;new;porcelain;ancient
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;black;thick;heavy;light;gray;fluffy
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,earthquake,strong;big;powerful;sudden;violent;deadly;recent;major;minor;destructive
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,fog,thick;heavy;dense;white;morning;cold;light;gray;low;wet
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;white;blue;silent;dangerous;sharp
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,rain,heavy;light;cold;steady;constant;gentle;hard;warm;soft;sudden
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;double;rare;full;clear;perfect;wide
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,snow,white;fresh;deep;heavy;soft;cold;light;new;thick;clean
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,storm,big;strong;violent;heavy;sudden;powerful;bad;tropical;winter;dangerous
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,thunder,loud;distant;deep;heavy;sudden;rolling;strong;constant;sharp;powerful
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;powerful;regular;spring;neap
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;dangerous;old;new;powerful;famous;violent
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;steady;powerful;fresh;soft;sudden
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,apple,red;green;fresh;sweet;big;small;juicy;ripe;crisp;sour
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,banana,ripe;yellow;green;sweet;fresh;big;small;soft;long;curved
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,beef,fresh;raw;cooked;lean;tender;ground;grilled;roasted;juicy;rare
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,bread,fresh;white;brown;warm;soft;homemade;sliced;whole;hard;new
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,broccoli,fresh;green;steamed;cooked;raw;healthy;small;big;soft;organic
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,cheese,hard;soft;fresh;aged;white;yellow;blue;creamy;strong;mild
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;fresh;spicy;baked;tender;hot
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,egg,boiled;fried;fresh;raw;hard;soft;white;brown;large;small
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;small;big;white;smoked;salty
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,pasta,cooked;fresh;hot;cold;homemade;Italian;long;short;creamy;simple
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,rice,white;brown;cooked;steamed;fried;hot;cold;sticky;long;short
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Food Items,soup,hot;cold;thick;clear;fresh;homemade;spicy;vegetable;chicken;simple
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,artist,famous;young;talented;great;modern;local;new;old;creative;successful
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,athlete,young;professional;great;strong;famous;talented;top;fast;successful;skilled
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,chef,famous;great;young;talented;professional;French;Italian;skilled;creative;new
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,doctor,good;young;old;experienced;famous;local;skilled;professional;new;caring
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,engineer,skilled;young;talented;professional;experienced;good;civil;electrical;mechanical;new
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,farmer,local;small;old;young;successful;hardworking;poor;rich;experienced;organic
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,lawyer,good;young;old;famous;experienced;skilled;successful;local;new;professional
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,musician,famous;young;talented;great;local;new;old;professional;skilled;creative
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,scientist,famous;young;great;talented;leading;top;old;new;skilled;successful
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,soldier,brave;young;old;strong;experienced;professional;loyal;good;new;skilled
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,teacher,good;young;old;experienced;new;great;local;caring;skilled;patient
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Human Roles,writer,famous;young;great;talented;new;old;successful;creative;local;skilled
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,book,old;new;good;big;small;famous;interesting;thick;thin;classic
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,bridge,old;new;big;small;long;short;wooden;stone;famous;strong
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;African;electric;heavy;traditional
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,earth,round;big;blue;green;old;beautiful;rich;dry;wet;fertile
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,flute,wooden;silver;small;old;new;long;short;beautiful;simple;traditional
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,key,small;old;new;golden;silver;big;lost;spare;main;broken
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;dangerous
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,lock,old;new;small;big;broken;strong;heavy;golden;silver;main
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,moon,full;new;bright;round;big;white;clear;blue;beautiful;rising
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;broken;simple;cheap
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,sun,bright;hot;warm;rising;setting;golden;red;big;strong;shining
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Inanimate Objects,sword,sharp;old;long;short;silver;golden;big;small;broken;heavy
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,cat,black;white;small;big;old;young;wild;domestic;lazy;playful
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,dog,big;small;old;young;black;white;brown;friendly;loyal;playful
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,dolphin,friendly;smart;playful;big;small;wild;young;old;fast;gray
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,elephant,big;old;young;wild;African;Asian;gray;strong;huge;gentle
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;friendly;active;tiny;fluffy
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,monkey,small;big;young;old;wild;playful;smart;brown;noisy;active
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,mouse,small;gray;white;brown;wild;tiny;young;old;quiet;quick
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,peacock,beautiful;colorful;big;male;wild;young;old;bright;proud;rare
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,rabbit,small;white;brown;wild;cute;young;old;gray;soft;quick
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,shark,big;dangerous;white;gray;wild;young;old;fast;strong;hungry
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,snake,long;poisonous;green;big;small;wild;young;old;dangerous;black
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Neutral Animals,whale,big;blue;white;gray;huge;wild;young;old;friendly;strong
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,city,big;small;old;new;modern;ancient;busy;large;beautiful;crowded
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,desert,hot;dry;big;small;sandy;empty;wide;cold;open;vast
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,forest,big;dark;deep;green;old;thick;wild;dense;ancient;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,island,small;big;tropical;beautiful;remote;private;deserted;green;rocky;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;quiet;cold;fresh;natural
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,mountain,high;big;tall;old;rocky;snow-capped;steep;beautiful;green;famous
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,ocean,big;deep;blue;wide;open;vast;wild;beautiful;calm;rough
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,plain,wide;open;flat;green;big;grassy;dry;empty;large;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,plateau,high;flat;wide;big;dry;rocky;large;open;grassy;remote
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,river,big;small;long;wide;deep;fast;slow;clear;blue;wild
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,valley,deep;wide;green;beautiful;narrow;small;big;quiet;long;open
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Places,village,small;old;quiet;new;big;remote;local;beautiful;peaceful;traditional
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,cactus,green;tall;small;big;wild;desert;old;young;dry;sharp
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,eggplant,purple;big;small;fresh;ripe;long;round;cooked;raw;soft
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;pink;blue
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,grass,green;tall;short;dry;fresh;wild;thick;soft;long;wet
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,lettuce,fresh;green;crisp;big;small;new;organic;clean;soft;healthy
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,mushroom,wild;fresh;white;small;big;brown;edible;poisonous;raw;cooked
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,onion,red;white;yellow;big;small;fresh;raw;cooked;sweet;strong
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,pepper,red;green;yellow;hot;sweet;small;big;fresh;spicy;raw
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,potato,big;small;white;red;fresh;raw;cooked;baked;mashed;new
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;big;small;single
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,tomato,red;ripe;green;small;big;fresh;round;juicy;sweet;raw
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Plants,tree,big;small;old;tall;green;young;thick;strong;dead;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,ally,strong;loyal;close;good;old;new;powerful;trusted;important;reliable
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,brother,older;younger;big;little;twin;close;dear;strong;good;loving
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,enemy,old;new;strong;powerful;dangerous;bitter;deadly;main;real;traditional
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,father,good;old;young;loving;caring;strong;strict;wise;proud;real
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,follower,loyal;faithful;true;close;new;old;strong;active;devoted;regular
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,friend,good;close;best;old;new;true;dear;loyal;trusted;childhood
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,leader,strong;good;great;new;old;true;powerful;natural;wise;respected
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,mother,good;loving;caring;old;young;strong;single;proud;wise;real
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,partner,good;new;old;close;strong;true;loyal;trusted;business;perfect
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,rival,main;old;new;strong;powerful;bitter;traditional;close;real;serious
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,sister,older;younger;big;little;twin;close;dear;good;loving;real
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Social Relationships,stranger,complete;total;perfect;new;old;mysterious;silent;quiet;unknown;friendly
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,above,high;far;clear;open;bright;empty;blue;wide;distant;visible
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,back,lower;upper;strong;broad;straight;flat;bare;naked;sore;weak
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,below,deep;dark;cold;quiet;silent;empty;hidden;far;low;secret
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,east,far;distant;bright;rising;new;old;golden;warm;open;clear
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,front,main;open;wide;big;small;clear;flat;straight;strong;new
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,inside,warm;dark;quiet;safe;small;big;private;secret;hidden;comfortable
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,left,far;lower;upper;main;open;free;empty;quiet;weak;strong
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,north,far;distant;cold;wild;open;high;strong;new;old;remote
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,outside,open;wide;big;small;cold;warm;quiet;empty;public;free
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,right,far;lower;upper;main;open;free;empty;quiet;strong;straight
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,south,far;distant;warm;open;new;old;strong;wild;quiet;remote
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Spatial Concepts,west,far;distant;wild;open;new;old;strong;golden;quiet;remote
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,century,last;new;next;present;past;early;late;modern;golden;great
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,day,new;long;short;good;bad;hot;cold;sunny;busy;clear
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,evening,late;quiet;long;warm;cool;beautiful;early;dark;peaceful;busy
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,hour,last;next;early;late;long;short;busy;quiet;free;golden
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,minute,last;next;early;late;long;short;free;busy;quiet;golden
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,month,last;next;new;old;early;late;long;short;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,morning,early;quiet;new;cold;warm;beautiful;busy;fresh;bright;peaceful
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,night,late;long;dark;quiet;cold;warm;beautiful;busy;peaceful;clear
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,season,new;last;next;long;short;dry;wet;hot;cold;busy
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,second,last;next;early;late;long;short;free;busy;quiet;golden
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,week,last;next;new;long;short;busy;quiet;early;late;free
+gpt-4.1,basic,0.0,LV # Latvian,C2,most frequent,Time Concepts,year,last;next;new;old;long;short;good;bad;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;uncontrollable;silent;burning;bitter;cold;violent;hidden
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,courage,great;true;quiet;moral;physical;inner;personal;remarkable;extraordinary;steady
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,fear,great;deep;sudden;real;constant;irrational;intense;overwhelming;silent;growing
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,freedom,personal;political;complete;total;individual;true;full;absolute;religious;economic
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,happiness,great;true;real;pure;simple;lasting;deep;complete;perfect;genuine
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,hate,deep;blind;pure;open;cold;strong;bitter;burning;intense;violent
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,honesty,complete;true;total;absolute;personal;great;real;simple;perfect;open
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,justice,true;social;real;equal;fair;complete;perfect;criminal;legal;moral
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,knowledge,deep;great;true;complete;general;personal;practical;scientific;wide;basic
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,love,true;deep;great;real;pure;first;strong;perfect;romantic;unconditional
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,peace,true;lasting;complete;perfect;inner;real;great;long;political;world
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Abstract Concepts,wisdom,great;true;deep;ancient;practical;real;personal;common;spiritual;perfect
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;church;heavy;broken;round
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,candle,small;white;red;scented;tall;thin;burning;new;old;wax
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,carpet,red;large;old;new;soft;thick;blue;green;clean;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,coin,old;gold;silver;small;rare;new;ancient;round;valuable;shiny
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;heavy;silver;new;ancient;jeweled;big
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;big;small;old;new;green;official
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,mask,old;new;white;black;red;golden;scary;beautiful;simple;painted
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;old;new;long;short;pearl;diamond;simple
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,painting,old;beautiful;famous;large;small;modern;new;original;classic;colorful
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;old;new;beautiful;simple;big;small;wedding
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,statue,big;small;old;new;bronze;stone;famous;beautiful;ancient;golden
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Cultural Artifacts,vase,old;new;big;small;beautiful;broken;white;blue;glass;ceramic
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,cloud,white;dark;big;small;black;gray;heavy;light;thick;fluffy
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,earthquake,big;small;strong;powerful;sudden;deadly;recent;major;minor;violent
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,fog,thick;heavy;white;dense;morning;cold;light;gray;low;wet
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;white;blue;silent;dangerous;sharp
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;cold;hard;soft;steady;constant;warm;sudden;gentle
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;double;rare;full;perfect;clear
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,snow,white;fresh;deep;heavy;light;soft;cold;new;thick;clean
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,storm,big;strong;violent;sudden;heavy;powerful;great;bad;dark;dangerous
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;distant;heavy;rolling;powerful;sharp;constant
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;powerful;regular;fast;slow
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;small;dangerous;old;new;powerful;famous
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;steady;hard;soft;sudden;powerful
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;ripe;juicy;round;crisp
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,banana,yellow;ripe;green;big;small;sweet;fresh;long;soft;curved
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,beef,fresh;cooked;raw;lean;tender;ground;grilled;roasted;juicy;spicy
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;new;old;sliced;homemade
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,broccoli,fresh;green;cooked;raw;steamed;healthy;small;big;soft;tender
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,cheese,hard;soft;fresh;old;white;yellow;strong;mild;creamy;sliced
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,chicken,cooked;raw;fried;grilled;roasted;fresh;spicy;tender;whole;baked
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;white;brown;large;small
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,fish,fresh;cooked;raw;small;big;fried;grilled;white;smoked;salty
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,pasta,cooked;fresh;hot;cold;long;short;soft;homemade;Italian;creamy
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,rice,white;brown;cooked;raw;steamed;fried;hot;cold;sticky;soft
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Food Items,soup,hot;cold;thick;thin;fresh;homemade;spicy;clear;vegetable;chicken
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,artist,famous;young;old;great;talented;modern;creative;new;local;successful
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,athlete,young;great;strong;famous;professional;talented;fast;top;successful;skilled
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,chef,great;famous;young;talented;professional;new;top;skilled;creative;local
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,doctor,good;young;old;great;famous;local;skilled;new;experienced;professional
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,engineer,good;young;old;skilled;professional;talented;experienced;new;great;successful
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,farmer,local;small;big;old;young;successful;hard-working;poor;rich;experienced
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,lawyer,good;young;old;famous;great;skilled;professional;successful;local;experienced
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,musician,famous;young;old;great;talented;local;new;professional;successful;creative
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,scientist,great;famous;young;old;talented;leading;top;successful;new;local
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,soldier,brave;young;old;good;great;strong;experienced;professional;loyal;skilled
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,teacher,good;young;old;great;new;experienced;local;famous;skilled;kind
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Human Roles,writer,famous;great;young;old;talented;new;successful;local;creative;popular
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,book,old;new;big;small;good;famous;interesting;thick;thin;popular
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,bridge,old;new;big;small;long;short;strong;famous;wooden;stone
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;metal;red;black;famous
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,earth,round;big;small;green;blue;old;new;rich;dry;wet
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;small;long;old;new;beautiful;famous;simple;metal
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,key,small;big;old;new;golden;silver;metal;main;important;lost
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;dangerous
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,lock,old;new;big;small;strong;broken;metal;golden;silver;heavy
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,moon,full;new;bright;round;big;small;white;clear;beautiful;dark
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;broken;cheap;expensive
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,sun,bright;hot;big;small;yellow;red;warm;rising;setting;shining
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Inanimate Objects,sword,sharp;old;new;long;short;big;small;silver;golden;famous
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;wild;lazy;friendly
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;playful
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,dolphin,smart;friendly;playful;big;small;young;old;wild;fast;gray
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,elephant,big;small;young;old;wild;gray;strong;friendly;smart;gentle
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;friendly;active;fluffy;tiny
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,monkey,small;big;young;old;wild;smart;funny;playful;brown;active
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;brown;cute;young;old;wild;quiet;quick
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;wild;young;old;bright;blue;green
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,rabbit,small;white;brown;cute;wild;young;old;soft;quick;friendly
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,shark,big;small;dangerous;wild;white;gray;fast;young;old;strong
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,snake,long;short;big;small;dangerous;wild;green;black;brown;poisonous
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Neutral Animals,whale,big;small;blue;white;gray;young;old;wild;friendly;huge
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,city,big;small;old;new;modern;ancient;busy;large;beautiful;famous
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,desert,hot;dry;big;small;sandy;wide;empty;cold;open;vast
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,forest,big;small;dark;green;deep;old;thick;wild;dense;beautiful
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,island,small;big;beautiful;tropical;remote;green;new;old;private;famous
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;old;new;fresh;quiet
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,mountain,high;low;big;small;tall;old;new;rocky;green;famous
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,ocean,big;small;deep;blue;wide;open;wild;beautiful;calm;rough
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,plain,wide;open;flat;big;small;green;dry;empty;grassy;vast
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,plateau,high;flat;big;small;wide;dry;rocky;green;old;new
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,river,big;small;long;short;deep;wide;narrow;fast;slow;clear
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,valley,deep;wide;green;small;big;beautiful;narrow;long;quiet;open
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Places,village,small;big;old;new;quiet;peaceful;local;beautiful;remote;friendly
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,cactus,green;big;small;tall;short;old;new;wild;dry;spiky
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,eggplant,purple;big;small;fresh;cooked;raw;long;round;soft;ripe
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;pink;blue
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,grass,green;tall;short;dry;wet;soft;thick;fresh;wild;long
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,lettuce,green;fresh;big;small;crisp;new;old;soft;round;leafy
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,mushroom,wild;fresh;big;small;white;brown;edible;poisonous;soft;round
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,onion,big;small;white;red;yellow;fresh;raw;cooked;sweet;strong
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,pepper,red;green;yellow;hot;sweet;big;small;fresh;spicy;raw
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,potato,big;small;white;brown;fresh;cooked;raw;new;old;soft
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;big;small;sweet
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,tomato,red;big;small;ripe;fresh;green;round;juicy;sweet;soft
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Plants,tree,big;small;old;new;green;tall;short;young;thick;strong
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,ally,strong;loyal;good;true;close;old;new;powerful;trusted;important
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,brother,big;small;older;younger;good;true;close;strong;dear;loving
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,enemy,old;new;strong;powerful;true;great;dangerous;bitter;deadly;main
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,father,good;old;young;loving;strong;kind;caring;wise;strict;proud
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,follower,loyal;true;faithful;close;new;old;strong;good;active;devoted
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,friend,good;close;best;true;old;new;dear;loyal;trusted;great
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,leader,strong;good;great;true;new;old;powerful;wise;young;successful
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,mother,good;loving;kind;caring;strong;wise;old;young;dear;proud
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,partner,good;true;close;strong;new;old;loyal;trusted;important;loving
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,rival,strong;main;old;new;true;great;powerful;bitter;close;dangerous
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,sister,big;small;older;younger;good;true;close;dear;loving;kind
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Social Relationships,stranger,complete;total;new;old;perfect;silent;quiet;unknown;mysterious;distant
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,above,high;far;close;near;open;clear;bright;empty;wide;distant
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,back,lower;upper;strong;weak;straight;broad;narrow;flat;soft;hard
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,below,low;deep;far;close;near;dark;hidden;quiet;empty;distant
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,east,far;near;distant;close;bright;open;new;old;main;important
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,front,main;open;wide;close;near;big;small;upper;lower;clear
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,inside,dark;quiet;warm;cold;safe;close;small;big;empty;full
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,left,far;near;close;main;upper;lower;open;empty;quiet;important
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,north,far;near;distant;close;cold;main;important;open;upper;big
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,outside,open;wide;big;small;empty;quiet;cold;warm;near;far
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,right,far;near;close;main;upper;lower;open;empty;quiet;important
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,south,far;near;distant;close;warm;main;important;open;lower;big
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Spatial Concepts,west,far;near;distant;close;open;main;important;old;new;big
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,century,new;old;last;past;present;next;early;late;great;modern
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;sunny;rainy
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,evening,early;late;long;short;quiet;warm;cold;dark;beautiful;peaceful
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,hour,long;short;late;early;last;next;busy;quiet;full;empty
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,minute,last;next;long;short;early;late;busy;quiet;full;empty
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,month,last;next;new;old;long;short;early;late;busy;quiet
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,morning,early;late;quiet;cold;warm;new;beautiful;busy;fresh;bright
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;beautiful;peaceful
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,season,new;old;last;next;long;short;hot;cold;dry;rainy
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,second,last;next;long;short;early;late;busy;quiet;full;empty
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,week,last;next;new;old;long;short;busy;quiet;early;late
+gpt-4.1,basic,0.0,LV # Latvian,Perfect,most frequent,Time Concepts,year,last;next;new;old;long;short;good;bad;early;late

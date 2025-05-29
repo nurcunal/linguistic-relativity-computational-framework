@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,anger,big;bad;hot;strong;red;new;other;same;much;little
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,courage,big;good;much;little;new;strong;true;real;other;same
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,fear,big;bad;much;little;new;strong;true;real;other;same
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,freedom,big;good;much;little;new;real;other;same;true;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,happiness,big;good;much;little;new;real;other;same;true;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,hate,big;bad;much;little;new;strong;true;real;other;same
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,honesty,big;good;much;little;new;real;other;same;true;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,justice,big;good;much;little;new;real;other;same;true;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,knowledge,big;good;much;little;new;real;other;same;true;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,love,big;good;much;little;new;real;other;same;true;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,peace,big;good;much;little;new;real;other;same;true;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Abstract Concepts,wisdom,big;good;much;little;new;real;other;same;true;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,bell,big;small;new;old;good;bad;loud;same;other;metal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,candle,big;small;new;old;good;white;same;other;long;short
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,carpet,big;small;new;old;good;red;same;other;long;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,coin,big;small;new;old;gold;silver;same;other;round;metal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,crown,big;small;new;old;gold;good;same;other;metal;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,flag,big;small;new;old;good;red;same;other;long;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,mask,big;small;new;old;good;bad;same;other;nice;white
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,necklace,big;small;new;old;gold;silver;same;other;long;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,painting,big;small;new;old;good;bad;same;other;nice;red
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,ring,big;small;new;old;gold;silver;same;other;round;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,statue,big;small;new;old;good;bad;same;other;metal;stone
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Cultural Artifacts,vase,big;small;new;old;good;bad;same;other;nice;white
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,cloud,big;small;new;white;gray;dark;same;other;nice;good
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,earthquake,big;small;new;old;good;bad;strong;same;other;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,fog,big;small;new;old;gray;white;same;other;bad;thick
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,lightning,big;small;new;old;good;bad;strong;same;other;fast
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,rain,big;small;new;old;good;bad;strong;same;other;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,rainbow,big;small;new;good;bad;nice;same;other;colorful;pretty
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,snow,big;small;new;old;white;good;bad;same;other;cold
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,storm,big;small;new;old;good;bad;strong;same;other;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,thunder,big;small;new;old;good;bad;strong;same;other;loud
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,tide,big;small;new;old;good;bad;strong;same;other;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,volcano,big;small;new;old;good;bad;strong;same;other;hot
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Environmental Phenomena,wind,big;small;new;old;good;bad;strong;same;other;cold
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,apple,big;small;new;old;red;green;good;bad;sweet;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,banana,big;small;new;old;yellow;good;bad;sweet;nice;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,beef,big;small;new;old;red;good;bad;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,bread,big;small;new;old;good;bad;white;brown;same;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,broccoli,big;small;new;old;green;good;bad;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,cheese,big;small;new;old;good;bad;white;yellow;same;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,chicken,big;small;new;old;good;bad;white;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,egg,big;small;new;old;good;bad;white;brown;same;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,fish,big;small;new;old;good;bad;same;other;nice;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,pasta,big;small;new;old;good;bad;same;other;nice;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,rice,big;small;new;old;good;bad;white;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Food Items,soup,big;small;new;old;good;bad;hot;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,artist,big;small;new;old;good;bad;same;other;nice;famous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,athlete,big;small;new;old;good;bad;strong;same;other;fast
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,chef,big;small;new;old;good;bad;same;other;nice;famous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,doctor,big;small;new;old;good;bad;same;other;nice;famous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,engineer,big;small;new;old;good;bad;same;other;nice;famous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,farmer,big;small;new;old;good;bad;same;other;nice;happy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,lawyer,big;small;new;old;good;bad;same;other;nice;famous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,musician,big;small;new;old;good;bad;same;other;nice;famous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,scientist,big;small;new;old;good;bad;same;other;nice;famous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,soldier,big;small;new;old;good;bad;strong;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,teacher,big;small;new;old;good;bad;same;other;nice;happy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Human Roles,writer,big;small;new;old;good;bad;same;other;nice;famous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,book,big;small;new;old;good;bad;same;other;nice;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,bridge,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,drums,big;small;new;old;good;bad;loud;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,earth,big;small;new;old;good;bad;same;other;nice;round
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,flute,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,key,big;small;new;old;good;bad;same;other;metal;silver
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,knife,big;small;new;old;good;bad;sharp;same;other;metal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,lock,big;small;new;old;good;bad;strong;same;other;metal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,moon,big;small;new;old;good;bad;white;same;other;round
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,pen,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,sun,big;small;new;old;good;bad;hot;same;other;round
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Inanimate Objects,sword,big;small;new;old;good;bad;sharp;same;other;metal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,cat,big;small;new;old;good;bad;black;white;same;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,dog,big;small;new;old;good;bad;black;white;same;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,dolphin,big;small;new;old;good;bad;gray;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,elephant,big;small;new;old;good;bad;gray;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,hamster,big;small;new;old;good;bad;brown;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,monkey,big;small;new;old;good;bad;brown;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,mouse,big;small;new;old;good;bad;gray;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,peacock,big;small;new;old;good;bad;nice;same;other;colorful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,rabbit,big;small;new;old;good;bad;white;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,shark,big;small;new;old;good;bad;gray;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,snake,big;small;new;old;good;bad;long;same;other;green
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Neutral Animals,whale,big;small;new;old;good;bad;gray;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,city,big;small;new;old;good;bad;nice;same;other;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,desert,big;small;new;old;good;bad;hot;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,forest,big;small;new;old;good;bad;green;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,island,big;small;new;old;good;bad;nice;same;other;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,lake,big;small;new;old;good;bad;nice;same;other;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,mountain,big;small;new;old;good;bad;high;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,ocean,big;small;new;old;good;bad;blue;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,plain,big;small;new;old;good;bad;green;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,plateau,big;small;new;old;good;bad;high;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,river,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,valley,big;small;new;old;good;bad;nice;same;other;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Places,village,big;small;new;old;good;bad;nice;same;other;pretty
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,cactus,big;small;new;old;good;bad;green;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,eggplant,big;small;new;old;good;bad;purple;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,flower,big;small;new;old;good;bad;nice;same;other;pretty
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,grass,big;small;new;old;good;bad;green;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,lettuce,big;small;new;old;good;bad;green;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,mushroom,big;small;new;old;good;bad;brown;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,onion,big;small;new;old;good;bad;white;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,pepper,big;small;new;old;good;bad;red;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,potato,big;small;new;old;good;bad;brown;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,rose,big;small;new;old;good;bad;red;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,tomato,big;small;new;old;good;bad;red;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Plants,tree,big;small;new;old;good;bad;green;same;other;tall
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,ally,big;small;new;old;good;bad;strong;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,brother,big;small;new;old;good;bad;same;other;nice;strong
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,enemy,big;small;new;old;good;bad;strong;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,father,big;small;new;old;good;bad;same;other;nice;strong
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,follower,big;small;new;old;good;bad;same;other;nice;happy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,friend,big;small;new;old;good;bad;same;other;nice;true
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,leader,big;small;new;old;good;bad;strong;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,mother,big;small;new;old;good;bad;same;other;nice;strong
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,partner,big;small;new;old;good;bad;same;other;nice;strong
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,rival,big;small;new;old;good;bad;strong;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,sister,big;small;new;old;good;bad;same;other;nice;strong
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Social Relationships,stranger,big;small;new;old;good;bad;same;other;nice;tall
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,above,big;small;new;old;good;bad;high;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,back,big;small;new;old;good;bad;same;other;nice;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,below,big;small;new;old;good;bad;low;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,east,big;small;new;old;good;bad;same;other;nice;far
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,front,big;small;new;old;good;bad;same;other;nice;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,inside,big;small;new;old;good;bad;same;other;nice;hot
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,left,big;small;new;old;good;bad;same;other;nice;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,north,big;small;new;old;good;bad;same;other;nice;cold
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,outside,big;small;new;old;good;bad;same;other;nice;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,right,big;small;new;old;good;bad;same;other;nice;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,south,big;small;new;old;good;bad;same;other;nice;hot
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Spatial Concepts,west,big;small;new;old;good;bad;same;other;nice;far
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,century,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,day,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,evening,big;small;new;old;good;bad;nice;same;other;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,hour,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,minute,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,month,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,morning,big;small;new;old;good;bad;nice;same;other;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,night,big;small;new;old;good;bad;dark;same;other;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,season,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,second,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,week,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B1,most frequent,Time Concepts,year,big;small;new;old;good;bad;long;same;other;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,anger,big;bad;hot;cold;true;new;old;real;important;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,courage,great;true;strong;real;much;new;little;important;other;possible
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,fear,big;great;real;much;new;little;other;possible;important;own
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,freedom,great;real;much;new;little;other;possible;important;own;political
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,happiness,great;real;much;new;little;other;possible;important;own;true
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,hate,great;real;much;new;little;other;possible;important;own;big
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,honesty,great;real;much;new;little;other;possible;important;own;true
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,justice,great;real;much;new;little;other;possible;important;own;true
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,knowledge,great;real;much;new;little;other;possible;important;own;good
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,love,great;real;much;new;little;other;possible;important;own;true
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,peace,great;real;much;new;little;other;possible;important;own;true
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Abstract Concepts,wisdom,great;real;much;new;little;other;possible;important;own;good
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;church;school;loud;good;important;metal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,candle,white;small;big;red;new;old;long;good;important;wax
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,carpet,red;big;small;old;new;long;good;important;wool;Persian
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,coin,gold;silver;new;old;small;big;real;important;metal;round
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,crown,gold;silver;new;old;small;big;real;important;beautiful;royal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,flag,red;white;blue;big;small;old;new;long;important;national
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,mask,white;black;small;big;new;old;long;important;scary;plastic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,necklace,gold;silver;new;old;small;big;real;important;beautiful;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,painting,beautiful;big;small;old;new;long;good;important;famous;modern
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,ring,gold;silver;new;old;small;big;real;important;beautiful;round
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;important;beautiful;famous;bronze;stone;tall
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;important;beautiful;glass;ceramic;blue;red
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,cloud,white;grey;big;small;dark;new;old;high;important;rain
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,earthquake,big;small;strong;new;old;important;scary;dangerous;first;second
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,fog,thick;white;grey;big;small;new;old;important;bad;heavy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,lightning,big;small;strong;new;old;important;scary;dangerous;fast;bright
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,rain,big;small;strong;new;old;important;bad;heavy;much;little
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,rainbow,big;small;new;old;important;beautiful;colorful;bright;good;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,snow,white;big;small;new;old;important;bad;heavy;much;little
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,storm,big;small;strong;new;old;important;bad;dangerous;loud;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,thunder,big;small;strong;new;old;important;bad;dangerous;loud;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,tide,high;low;big;small;new;old;important;fast;slow;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,volcano,big;small;new;old;important;dangerous;active;dormant;hot;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Environmental Phenomena,wind,big;small;strong;new;old;important;bad;cold;hot;fast
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,apple,red;green;big;small;new;old;good;sweet;important;fresh
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,banana,yellow;big;small;new;old;good;sweet;important;fresh;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,beef,red;big;small;new;old;good;important;fresh;raw;cooked
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,bread,white;brown;big;small;new;old;good;important;fresh;hard
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,broccoli,green;big;small;new;old;good;important;fresh;raw;cooked
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,cheese,white;yellow;big;small;new;old;good;important;fresh;hard
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,chicken,white;big;small;new;old;good;important;fresh;raw;cooked
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,egg,white;brown;big;small;new;old;good;important;fresh;hard
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,fish,big;small;new;old;good;important;fresh;raw;cooked;salty
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,pasta,white;yellow;big;small;new;old;good;important;dry;cooked
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,rice,white;brown;big;small;new;old;good;important;dry;cooked
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Food Items,soup,hot;cold;big;small;new;old;good;important;fresh;thick
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,artist,good;bad;new;young;old;famous;important;real;great;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,athlete,good;bad;new;young;old;famous;important;real;great;strong
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,chef,good;bad;new;young;old;famous;important;real;great;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,doctor,good;bad;new;young;old;famous;important;real;great;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,engineer,good;bad;new;young;old;famous;important;real;great;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,farmer,good;bad;new;young;old;famous;important;real;great;small
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,lawyer,good;bad;new;young;old;famous;important;real;great;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,musician,good;bad;new;young;old;famous;important;real;great;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,scientist,good;bad;new;young;old;famous;important;real;great;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,soldier,good;bad;new;young;old;famous;important;real;great;strong
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,teacher,good;bad;new;young;old;famous;important;real;great;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Human Roles,writer,good;bad;new;young;old;famous;important;real;great;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,book,big;small;new;old;good;important;long;interesting;first;second
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,bridge,big;small;new;old;good;important;long;tall;metal;wooden
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,drums,big;small;new;old;good;important;loud;soft;metal;wooden
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,earth,big;small;new;old;good;important;round;flat;green;brown
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,flute,big;small;new;old;good;important;long;silver;metal;wooden
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,key,big;small;new;old;good;important;long;silver;metal;gold
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,knife,big;small;new;old;good;important;long;sharp;metal;wooden
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,lock,big;small;new;old;good;important;strong;metal;wooden;safe;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,moon,big;small;new;old;good;important;round;bright;dark;full
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,pen,big;small;new;old;good;important;long;black;blue;red
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,sun,big;small;new;old;good;important;bright;hot;warm;yellow
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Inanimate Objects,sword,big;small;new;old;good;important;long;sharp;metal;wooden
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,cat,big;small;new;old;good;important;black;white;grey;brown
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,dog,big;small;new;old;good;important;black;white;grey;brown
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,dolphin,big;small;new;old;good;important;grey;blue;fast;smart
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,elephant,big;small;new;old;good;important;grey;strong;heavy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,hamster,big;small;new;old;good;important;brown;white;cute;fast
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,monkey,big;small;new;old;good;important;brown;black;fast;funny
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,mouse,big;small;new;old;good;important;grey;white;fast;scary
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,peacock,big;small;new;old;good;important;colorful;beautiful;proud;loud
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,rabbit,big;small;new;old;good;important;brown;white;fast;cute
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,shark,big;small;new;old;good;important;grey;dangerous;fast;strong
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,snake,big;small;new;old;good;important;green;brown;dangerous;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Neutral Animals,whale,big;small;new;old;good;important;grey;blue;fast;slow
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,city,big;small;new;old;good;important;beautiful;modern;famous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,desert,big;small;new;old;good;important;hot;dry;sandy;empty
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,forest,big;small;new;old;good;important;green;dense;dark;deep
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,island,big;small;new;old;good;important;beautiful;green;tropical;empty
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,lake,big;small;new;old;good;important;beautiful;blue;deep;clear
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,mountain,big;small;new;old;good;important;tall;high;green;rocky
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,ocean,big;small;new;old;good;important;deep;blue;salty;wide
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,plain,big;small;new;old;good;important;green;flat;empty;wide
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,plateau,big;small;new;old;good;important;flat;high;rocky;wide
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,river,big;small;new;old;good;important;long;wide;deep;fast
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,valley,big;small;new;old;good;important;green;deep;wide;beautiful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Places,village,big;small;new;old;good;important;beautiful;quiet;poor
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,cactus,big;small;new;old;good;important;green;prickly;tall;desert
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,eggplant,big;small;new;old;good;important;purple;long;round;fresh
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,flower,big;small;new;old;good;important;beautiful;colorful;fresh;nice
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,grass,big;small;new;old;good;important;green;long;short;wet
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,lettuce,big;small;new;old;good;important;green;fresh;crisp;round
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,mushroom,big;small;new;old;good;important;brown;white;edible;poisonous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,onion,big;small;new;old;good;important;white;yellow;strong;fresh
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,pepper,big;small;new;old;good;important;red;green;hot;sweet
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,potato,big;small;new;old;good;important;brown;white;round;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,rose,big;small;new;old;good;important;beautiful;red;white;pink
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,tomato,big;small;new;old;good;important;red;fresh;round;juicy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Plants,tree,big;small;new;old;good;important;green;tall;long;strong
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,ally,good;bad;new;young;old;important;strong;weak;first;last
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,brother,big;small;new;young;old;important;good;bad;real;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,enemy,good;bad;new;young;old;important;strong;weak;first;last
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,father,big;small;new;young;old;important;good;bad;real;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,follower,good;bad;new;young;old;important;strong;weak;first;last
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,friend,good;bad;new;young;old;important;real;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,leader,good;bad;new;young;old;important;strong;weak;first;last
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,mother,big;small;new;young;old;important;good;bad;real;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,partner,good;bad;new;young;old;important;strong;weak;first;last
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,rival,good;bad;new;young;old;important;strong;weak;first;last
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,sister,big;small;new;young;old;important;good;bad;real;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Social Relationships,stranger,good;bad;new;young;old;important;strange;unknown;first;last
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,above,high;low;new;old;important;good;bad;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,back,big;small;new;old;important;good;bad;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,below,high;low;new;old;important;good;bad;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,east,big;small;new;old;important;good;bad;first;last;far
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,front,big;small;new;old;important;good;bad;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,inside,big;small;new;old;important;good;bad;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,left,big;small;new;old;important;good;bad;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,north,big;small;new;old;important;good;bad;first;last;far
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,outside,big;small;new;old;important;good;bad;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,right,big;small;new;old;important;good;bad;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,south,big;small;new;old;important;good;bad;first;last;far
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Spatial Concepts,west,big;small;new;old;important;good;bad;first;last;far
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,century,big;small;new;old;important;long;short;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,day,big;small;new;old;important;good;bad;long;short;sunny
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,evening,big;small;new;old;important;good;bad;long;short;beautiful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,hour,big;small;new;old;important;long;short;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,minute,big;small;new;old;important;long;short;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,month,big;small;new;old;important;long;short;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,morning,big;small;new;old;important;good;bad;long;short;beautiful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,night,big;small;new;old;important;good;bad;long;short;dark
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,season,big;small;new;old;important;good;bad;long;short;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,second,big;small;new;old;important;long;short;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,week,big;small;new;old;important;long;short;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,B2,most frequent,Time Concepts,year,big;small;new;old;important;long;short;first;last;other
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,anger,hot;great;bad;real;sudden;deep;terrible;blind;righteous;controlled
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,courage,great;real;true;moral;physical;quiet;inner;blind;fierce;amazing
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,fear,great;real;true;deep;blind;irrational;terrible;primal;sudden;constant
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,freedom,true;real;political;economic;personal;great;full;basic;individual;limited
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,happiness,true;great;real;deep;simple;pure;total;lasting;childish;quiet
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,hate,strong;great;deep;real;irrational;blind;bitter;burning;intense;abiding
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,honesty,true;real;complete;great;simple;brutal;refreshing;rare;public;personal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,justice,true;real;social;economic;great;blind;fair;equal;rough;swift
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,knowledge,great;deep;true;real;practical;useful;scientific;general;special;secret
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,love,true;great;real;deep;blind;unconditional;passionate;brotherly;motherly;romantic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,peace,true;real;lasting;great;world;inner;fragile;uneasy;armed;temporary
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Abstract Concepts,wisdom,great;true;real;deep;ancient;practical;quiet;collective;common;inner
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,bell,loud;big;small;church;school;hand;golden;silver;brass;electric
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,candle,wax;white;tall;small;burning;colorful;scented;thick;thin;long
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,carpet,wool;red;big;Persian;oriental;old;new;soft;thick;thin
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,coin,gold;silver;old;new;rare;valuable;small;big;copper;round
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,crown,golden;royal;silver;jeweled;big;small;ceremonial;heavy;historical;ancient
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,flag,national;big;small;red;white;blue;waving;colorful;torn;dirty
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,mask,plastic;paper;white;black;small;big;painted;scary;funny;theatrical
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;beaded;long;short;diamond;beautiful;expensive;cheap
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,painting,oil;water;abstract;landscape;portrait;beautiful;famous;old;new;colorful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;small;big;simple;beautiful;magic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,statue,bronze;stone;marble;big;small;ancient;famous;historical;tall;short
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Cultural Artifacts,vase,glass;ceramic;porcelain;tall;short;big;small;beautiful;old;new
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,cloud,white;grey;dark;big;small;rain;storm;passing;fluffy;low
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;major;minor;recent;devastating;unexpected;local
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,fog,thick;dense;heavy;white;light;morning;sea;pea-soup;rolling;mysterious
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;sheet;summer;winter;dangerous;powerful;loud;distant
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;cold;warm;acid;gentle;constant;summer
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;double;faint;full;partial;vibrant;summer;winter
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,snow,white;heavy;light;fresh;falling;melting;deep;soft;cold;thick
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,storm,big;strong;heavy;rain;wind;electrical;thunder;summer;winter;approaching
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,thunder,loud;deep;rolling;distant;close;summer;winter;heavy;sudden;booming
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;spring;neap;rising;falling;daily;coastal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;small;volcanic;dangerous;erupting;hot;smoking
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;north;south;east;west;light;gusty
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,apple,red;green;big;small;sweet;sour;juicy;ripe;crisp;delicious
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,banana,yellow;ripe;green;sweet;soft;big;small;organic;fresh;overripe
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,beef,raw;cooked;tender;tough;ground;lean;fatty;roast;grilled;cheap
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,bread,white;brown;whole;fresh;stale;crusty;soft;sweet;toasted;moldy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,broccoli,green;fresh;raw;cooked;steamed;roasted;organic;healthy;florets;tender
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,cheese,cheddar;swiss;blue;hard;soft;fresh;old;moldy;strong;mild
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,chicken,raw;cooked;fried;roasted;grilled;boiled;boneless;skinless;organic;tender
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,egg,raw;cooked;fried;boiled;scrambled;hard-boiled;soft-boiled;fresh;rotten;cracked
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,fish,fresh;saltwater;freshwater;cooked;raw;fried;grilled;steamed;bony;flaky
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,pasta,dry;cooked;fresh;long;short;thick;thin;whole-wheat;gluten-free;stuffed
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,rice,white;brown;long-grain;short-grain;cooked;steamed;fried;boiled;sticky;basmati
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Food Items,soup,hot;cold;chicken;vegetable;tomato;creamy;thick;thin;homemade;canned
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,artist,famous;great;young;old;talented;modern;contemporary;local;struggling;visionary
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,athlete,professional;amateur;young;old;talented;strong;fast;great;olympic;dedicated
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,chef,famous;great;head;sous;pastry;talented;young;old;experienced;celebrity
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,doctor,medical;general;specialist;young;old;experienced;good;family;famous;caring
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;structural;young;old;talented;experienced;qualified
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,farmer,local;small;big;organic;family;old;young;hardworking;traditional;modern
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,lawyer,good;bad;criminal;corporate;family;young;old;experienced;expensive;cheap
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,musician,talented;great;young;old;famous;local;classical;jazz;rock;professional
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,scientist,great;famous;young;old;leading;research;brilliant;dedicated;well-known;unknown
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,soldier,young;brave;experienced;wounded;fallen;active;veteran;trained;professional;conscripted
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,teacher,good;bad;young;old;experienced;dedicated;passionate;strict;fair;kind
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Human Roles,writer,famous;great;young;old;talented;prolific;struggling;modern;contemporary;established
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,book,good;bad;old;new;big;small;thick;thin;hard;soft
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,bridge,big;small;old;new;wooden;stone;steel;suspension;broken;strong
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,drums,loud;big;small;old;new;acoustic;electronic;snare;bass;tom
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,earth,big;round;flat;green;blue;small;dry;wet;cold;hot
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,flute,silver;wooden;small;big;old;new;classical;jazz;high;low
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,key,small;big;metal;gold;silver;old;new;important;master;spare
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,knife,sharp;dull;big;small;kitchen;pocket;hunting;butter;steak;serrated
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,lock,strong;weak;old;new;small;big;combination;key;secure;broken
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,moon,full;new;bright;dark;big;small;waxing;waning;crescent;gibbous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,pen,blue;black;red;ballpoint;fountain;expensive;cheap;old;new;disposable
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,sun,bright;hot;big;small;yellow;warm;summer;winter;setting;rising
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Inanimate Objects,sword,sharp;long;short;steel;silver;old;new;heavy;light;ceremonial
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,cat,small;big;black;white;cute;fluffy;stray;wild;domestic;playful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,dog,big;small;black;white;cute;fluffy;stray;wild;domestic;playful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,dolphin,smart;playful;big;small;wild;captive;trained;grey;friendly;aquatic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,elephant,big;grey;wild;african;asian;old;young;strong;heavy;gentle
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,hamster,small;cute;brown;white;furry;pet;playful;nocturnal;quiet;active
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,monkey,small;big;brown;black;playful;wild;smart;funny;mischievous;tropical
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,mouse,small;grey;cute;wild;pet;house;field;shy;fast;annoying
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;big;small;proud;elegant;exotic;male;female;radiant
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,rabbit,small;cute;white;brown;wild;pet;domestic;fluffy;fast;shy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,shark,big;dangerous;white;grey;blacktip;hammerhead;tiger;great;small;predatory
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,snake,long;short;poisonous;non-poisonous;green;brown;black;big;small;dangerous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Neutral Animals,whale,big;blue;grey;humpback;orca;killer;baleen;toothed;endangered;massive
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,city,big;small;old;new;modern;ancient;busy;quiet;industrial;historical
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,desert,hot;dry;sandy;big;small;empty;vast;barren;arid;rocky
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,forest,big;small;green;dark;deep;old;new;dense;thick;ancient
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,island,small;big;tropical;volcanic;deserted;inhabited;green;beautiful;rocky;remote
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,lake,big;small;deep;shallow;clear;blue;green;freshwater;saltwater;beautiful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,mountain,big;tall;high;snow-capped;rocky;green;small;dangerous;beautiful;old
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,ocean,big;deep;blue;salty;vast;cold;warm;atlantic;pacific;indian
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,plain,flat;wide;open;green;grassy;large;small;dry;fertile;barren
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,plateau,high;flat;large;small;dry;rocky;barren;green;elevated;wide
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,river,long;short;big;small;deep;shallow;wide;narrow;fast;slow
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,valley,green;deep;wide;narrow;long;short;mountain;river;beautiful;fertile
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Places,village,small;quiet;old;new;rural;peaceful;traditional;close-knit;remote;beautiful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,cactus,green;tall;short;prickly;desert;big;small;flowering;thorny;spiky
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,eggplant,purple;big;small;long;round;raw;cooked;fried;grilled;roasted
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,flower,beautiful;colorful;red;white;yellow;small;big;fragrant;fresh;artificial
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,grass,green;long;short;wet;dry;thick;thin;soft;rough;artificial
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,lettuce,green;fresh;crisp;leafy;big;small;romaine;iceberg;butter;organic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,mushroom,big;small;white;brown;edible;poisonous;wild;cultivated;fresh;dried
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,onion,white;yellow;red;big;small;raw;cooked;strong;sweet;mild
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,pepper,black;white;red;green;hot;sweet;spicy;small;big;bell
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,potato,big;small;white;red;brown;raw;cooked;mashed;fried;baked
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fragrant;thorny;big;small;fresh
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,tomato,red;green;big;small;ripe;juicy;raw;cooked;fresh;canned
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Plants,tree,big;small;green;tall;short;old;young;deciduous;evergreen;leafy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,ally,strong;good;close;reliable;important;powerful;old;new;political;military
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,brother,older;younger;little;big;half;step;close;distant;annoying;loving
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,enemy,strong;dangerous;bitter;sworn;old;new;political;personal;mortal;formidable
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,father,loving;strict;old;young;good;bad;step;adoptive;biological;distant
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,follower,loyal;devoted;faithful;blind;strong;weak;many;few;new;old
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,friend,good;best;close;old;new;true;loyal;childhood;trusted;dear
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,leader,strong;good;bad;great;new;old;political;military;popular;charismatic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,mother,loving;caring;good;bad;young;old;step;adoptive;biological;working
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,partner,business;life;legal;close;trusted;reliable;strong;equal;senior;junior
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,rival,fierce;strong;bitter;close;main;biggest;old;new;friendly;political
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,sister,older;younger;little;big;half;step;close;distant;annoying;loving
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Social Relationships,stranger,strange;unknown;tall;short;big;small;friendly;dangerous;mysterious;passing
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,above,high;far;just;directly;slightly;clearly;well;much;always;sometimes
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,back,far;long;strong;lower;upper;weak;sore;straight;rounded;broad
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,below,far;just;directly;slightly;clearly;well;much;sea-level;average;freezing
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,east,far;middle;near;south;west;north;wild;way;always;little
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,front,far;long;short;top;bottom;left;right;main;directly;always
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,inside,dark;hot;cold;big;small;warm;safe;directly;usually;generally
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,left,far;right;always;usually;directly;little;main;strong;weak;political
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,north,far;south;east;west;way;near;always;little;high;frozen
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,outside,big;small;far;way;always;generally;directly;cold;hot;dangerous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,right,far;left;political;legal;always;just;ethical;moral;usually;directly
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,south,far;north;east;west;way;near;little;hot;always;general
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Spatial Concepts,west,far;east;north;south;wild;way;always;little;general;directly
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,century,20th;21st;19th;long;short;past;present;future;recent;upcoming
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,day,good;bad;long;short;sunny;rainy;hot;cold;busy;free
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,evening,good;bad;long;short;warm;cold;quiet;busy;pleasant;dark
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,hour,long;short;early;late;happy;sad;working;free;golden;specific
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,minute,long;short;few;many;last;final;crucial;important;fleeting;exact
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,month,long;short;first;last;next;previous;whole;complete;partial;spring
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,morning,good;bad;early;late;sunny;cold;foggy;quiet;busy;beautiful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,night,long;short;dark;bright;warm;cold;quiet;busy;starry;sleepless
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,season,spring;summer;autumn;winter;long;short;dry;wet;warm;cold
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,second,long;short;split;final;first;next;every;single;important;crucial
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,week,long;short;last;next;whole;complete;working;busy;quiet;slow
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C1,most frequent,Time Concepts,year,good;bad;long;short;new;old;last;next;whole;complete
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,anger,intense;deep;sudden;silent;cold;blind;righteous;uncontrollable;destructive;simmering
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,courage,great;inner;quiet;moral;fierce;displayed;true;unwavering;remarkable;surprising
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,fear,deep;irrational;paralyzing;overwhelming;primal;unfounded;lingering;constant;suppressed;genuine
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,freedom,hard-won;precious;fundamental;limited;guaranteed;relative;absolute;personal;national;illusory
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,happiness,great;simple;pure;contagious;genuine;fleeting;lasting;unexpected;childlike;conditional
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,hate,deep;intense;irrational;blind;consuming;pure;bitter;corrosive;underlying;personal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,honesty,brutal;refreshing;complete;unquestionable;commendable;painful;relative;unwavering;basic;inherent
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,justice,social;equal;fair;restorative;impartial;swift;delayed;rough;blind;ultimate
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,knowledge,great;practical;theoretical;specialized;esoteric;common;tacit;deep;working;prior
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,love,great;true;unconditional;familial;romantic;selfless;passionate;deep;enduring;lost
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,peace,fragile;lasting;inner;world;uneasy;negotiated;temporary;relative;perfect;true
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Abstract Concepts,wisdom,great;ancient;accumulated;practical;inherent;acquired;conventional;uncommon;collective;divine
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,bell,loud;clear;ringing;church;warning;brass;small;distant;school;bronze
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,candle,burning;tall;short;scented;beeswax;white;small;flickering;wax;lit
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,carpet,oriental;Persian;thick;wool;red;new;old;rolled;woven;patterned
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,coin,gold;silver;rare;valuable;old;new;foreign;minted;lucky;commemorative
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;silver;ceremonial;symbolic;inherited;bejeweled;heavy;beplumed
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,flag,national;waving;red;white;blue;tattered;flown;battle;colorful;striped
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,mask,protective;theatrical;anonymous;facial;colorful;white;black;hidden;smiling;scary
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,necklace,silver;gold;pearl;diamond;beaded;long;short;delicate;expensive;antique
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,painting,beautiful;abstract;oil;watercolor;famous;original;landscape;portrait;impressionist;colorful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;promise;simple;ornate;valuable;ancient;magnetic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,statue,bronze;marble;stone;tall;famous;ancient;commemorative;imposing;lifelike;equestrian
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Cultural Artifacts,vase,glass;ceramic;flower;ancient;tall;short;beautiful;valuable;decorative;porcelain
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,cloud,white;dark;gray;rain;fluffy;storm;cumulus;passing;low;high
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,earthquake,strong;powerful;devastating;major;minor;recent;unexpected;sudden;predicted;catastrophic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,fog,thick;dense;heavy;rolling;morning;sea;ground;pea-soup;persistent;sudden
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;powerful;distant;dangerous;summer;sheet;frequent;close
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,rain,heavy;light;constant;driving;gentle;cold;warm;acid;torrential;refreshing
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,rainbow,colorful;beautiful;vibrant;double;faint;fleeting;full;broken;partial
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,snow,heavy;light;falling;fresh;deep;wet;dry;driven;powdery;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,storm,severe;violent;powerful;approaching;brewing;winter;summer;electrical;tropical;unexpected
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,thunder,loud;booming;distant;rolling;crashing;close;deep;echoing;ominous;rumbling
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,tide,high;low;strong;spring;neap;incoming;outgoing;daily;rising;falling
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;erupting;massive;volcanic;nearby;distant;dangerous;smoking
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;light;prevailing;easterly;gusty;offshore;howling
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,apple,red;green;crisp;juicy;sweet;sour;delicious;ripe;Granny-Smith;McIntosh
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,banana,ripe;yellow;green;sweet;overripe;Cavendish;small;large;organic;Chiquita
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,beef,tender;lean;ground;prime;aged;grass-fed;organic;raw;cooked;grilled
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,bread,white;whole-wheat;rye;sourdough;fresh;stale;sliced;toasted;homemade;crusty
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,broccoli,green;fresh;raw;steamed;cooked;organic;healthy;nutritious;frozen;florets
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,cheese,cheddar;Swiss;hard;soft;sharp;mild;creamy;blue;grated;aged
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,chicken,fried;grilled;roasted;baked;raw;cooked;organic;boneless;skinless;tender
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,egg,fried;boiled;scrambled;raw;hard-boiled;soft-boiled;fresh;organic;white;brown
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,fish,fresh;saltwater;freshwater;fried;grilled;baked;raw;cooked;oily;white
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,pasta,spaghetti;penne;fettuccine;cooked;dry;fresh;Italian;whole-wheat;gluten-free;overcooked
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,rice,white;brown;cooked;wild;long-grain;short-grain;basmati;jasmine;sticky;fried
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Food Items,soup,chicken;vegetable;tomato;hot;cold;creamy;thick;thin;hearty;homemade
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,artist,talented;famous;struggling;young;old;local;international;contemporary;established;unknown
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,athlete,professional;amateur;talented;young;old;olympic;injured;successful;dedicated;competitive
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,chef,famous;executive;talented;sous;head;pastry;line;skilled;Michelin-starred;experienced
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,doctor,general;specialist;experienced;young;local;caring;family;qualified;attending;resident
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,engineer,civil;electrical;mechanical;chemical;structural;experienced;qualified;software;design;innovative
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,farmer,local;small;large;organic;traditional;modern;family;struggling;successful;experienced
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,lawyer,corporate;criminal;experienced;young;successful;local;defense;prosecuting;qualified;respected
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,musician,talented;professional;amateur;young;old;famous;local;classical;jazz;rock
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,scientist,research;leading;young;old;brilliant;experienced;qualified;respected;dedicated;innovative
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,soldier,brave;young;experienced;veteran;injured;fallen;dedicated;loyal;professional;active
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,teacher,experienced;dedicated;young;old;qualified;enthusiastic;strict;lenient;popular;caring
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Human Roles,writer,talented;famous;published;young;old;aspiring;struggling;successful;experienced;creative
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,book,interesting;long;short;new;old;used;fiction;non-fiction;hardcover;paperback
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,bridge,long;suspension;old;new;famous;steel;wooden;concrete;narrow;wide
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,drums,loud;acoustic;electronic;new;used;snare;bass;tribal;percussion;marching
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,earth,round;blue;fertile;barren;polluted;dry;wet;rocky;sandy;cultivated
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,flute,silver;wooden;classical;concert;transverse;bamboo;piccolo;new;old;simple
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,key,metal;small;important;lost;spare;house;car;master;golden;skeleton
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,knife,sharp;kitchen;hunting;pocket;butter;steak;dull;serrated;new;old
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,lock,secure;strong;combination;key;padlock;door;bike;simple;complex;modern
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,moon,full;new;bright;crescent;silver;waning;waxing;gibbous;blue;distant
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,pen,blue;black;ballpoint;fountain;cheap;expensive;new;old;working;broken
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,sun,bright;hot;warm;setting;rising;distant;yellow;golden;shining;strong
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Inanimate Objects,sword,sharp;long;steel;ancient;ceremonial;decorative;heavy;light;double-edged;single-edged
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,cat,small;black;white;stray;fluffy;domestic;wild;playful;cute;fat
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,dog,big;small;black;white;stray;loyal;playful;cute;friendly;trained
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;friendly;grey;marine;wild;bottlenose;trained;aquatic;social
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,elephant,large;grey;african;asian;wild;trained;old;young;strong;intelligent
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,hamster,small;cute;furry;brown;white;golden;pet;playful;nocturnal;caged
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,monkey,playful;small;intelligent;wild;brown;mischievous;cute;social;tree-dwelling;agile
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,mouse,small;gray;wild;domestic;field;house;pet;cute;timid;squeaky
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;iridescent;large;exotic;male;ornamental;displaying;elegant
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,rabbit,small;cute;furry;wild;domestic;white;brown;long-eared;hopping;shy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,shark,dangerous;large;predatory;marine;great-white;hammerhead;swimming;aggressive;silent;swift
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,snake,long;venomous;poisonous;harmless;green;black;brown;wild;dangerous;slithering
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Neutral Animals,whale,large;blue;humpback;gray;marine;migrating;singing;endangered;gentle;massive
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,city,big;large;modern;ancient;historical;bustling;crowded;clean;dirty;beautiful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,desert,dry;hot;sandy;barren;vast;arid;empty;silent;rocky;unforgiving
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,forest,green;dense;dark;old;large;ancient;peaceful;silent;wild;enchanted
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,island,small;tropical;remote;deserted;beautiful;volcanic;inhabited;rocky;green;sandy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,lake,deep;large;clear;blue;still;peaceful;beautiful;freshwater;glacial;surrounding
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,mountain,high;tall;snow-capped;rocky;green;steep;majestic;dangerous;beautiful;distant
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,ocean,vast;deep;blue;cold;warm;salty;stormy;peaceful;mysterious;endless
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,plain,flat;open;vast;grassy;treeless;empty;rolling;fertile;windy;featureless
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,plateau,high;flat;arid;elevated;vast;rocky;windswept;isolated;table-top;scenic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,river,long;wide;deep;fast-flowing;slow-flowing;clear;muddy;winding;navigable;major
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,valley,green;fertile;narrow;wide;deep;scenic;peaceful;inhabited;sheltered;winding
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Places,village,small;quiet;peaceful;rural;traditional;picturesque;remote;isolated;friendly;charming
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,cactus,prickly;thorny;desert;green;tall;short;spiky;flowering;drought-resistant;fleshy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,eggplant,purple;large;shiny;ripe;cooked;raw;grilled;fried;stuffed;roasted
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;fresh;wilting;blooming;wild;cultivated;exotic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,grass,green;long;short;dry;wet;freshly-cut;lush;wild;cultivated;thick
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,lettuce,green;fresh;crisp;leafy;romaine;iceberg;butter;loose-leaf;organic;washed
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,mushroom,edible;poisonous;wild;cultivated;fresh;dried;large;small;brown;white
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,onion,white;yellow;red;raw;cooked;fried;sliced;chopped;strong;sweet
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,pepper,black;white;red;hot;green;sweet;chili;ground;whole;spicy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,potato,white;red;mashed;fried;baked;roasted;boiled;new;sweet;chipped
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,rose,red;pink;white;yellow;fragrant;thorny;beautiful;blooming;hybrid;wild
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,tomato,red;ripe;juicy;fresh;raw;cooked;sliced;diced;organic;heirloom
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Plants,tree,tall;old;green;leafy;deciduous;evergreen;strong;young;oak;pine
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,ally,strong;reliable;loyal;trusted;powerful;strategic;important;friendly;key;unwavering
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,brother,older;younger;little;big;elder;half;step;adopted;loving;protective
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,enemy,bitter;sworn;mortal;powerful;formidable;dangerous;common;relentless;cunning;secret
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,father,loving;caring;supportive;strict;biological;adoptive;step;absent;elderly;young
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,follower,loyal;dedicated;devoted;ardent;enthusiastic;blind;misguided;faithful;numerous;growing
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,friend,close;good;best;old;new;true;loyal;supportive;helpful;trusted
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,leader,strong;effective;charismatic;popular;decisive;visionary;corrupt;weak;new;old
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,mother,loving;caring;supportive;strict;biological;adoptive;step;absent;elderly;young
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,partner,business;romantic;life;legal;equal;senior;junior;reliable;trusted;new
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,rival,fierce;bitter;main;close;tough;friendly;intense;longtime;political;business
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,sister,older;younger;little;big;elder;half;step;adopted;loving;protective
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Social Relationships,stranger,complete;total;unknown;mysterious;passing;helpful;friendly;suspicious;threatening;silent
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,above,high;clear;far;directly;just;well;always;often;usually;sometimes
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,back,lower;upper;strong;weak;painful;injured;straight;curved;broad;narrow
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,below,low;far;directly;just;often;always;usually;sometimes;freezing;average
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,east,far;middle;near;wild;west;south;north;new;old;industrial
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,front,main;near;new;left;right;far;close;lower;upper;damaged
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,inside,dark;warm;cold;dry;wet;clean;dirty;bright;small;large
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,left,far;right;extreme;immediate;new;old;injured;wrong;correct;back
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,north,far;south;east;west;new;old;wild;near;central;middle
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,outside,warm;cold;dry;wet;sunny;shady;bright;dark;noisy;quiet
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,right,far;left;extreme;immediate;new;old;correct;wrong;injured;front
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,south,far;north;east;west;new;old;near;middle;central;dry
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Spatial Concepts,west,far;east;north;south;wild;old;new;middle;central;near
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,century,21st;20th;19th;past;current;new;old;modern;previous;future
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,day,sunny;rainy;long;short;good;bad;happy;sad;work;holiday
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,evening,warm;cool;pleasant;quiet;long;short;dark;beautiful;starry;peaceful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,hour,early;late;long;short;happy;spent;wasted;crucial;final;golden
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,minute,short;long;precious;wasted;fleeting;crucial;final;last;agonizing;tense
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,month,January;February;March;April;May;June;July;August;September;October
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,morning,early;late;sunny;cool;crisp;foggy;busy;quiet;beautiful;good
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,night,dark;long;short;starry;quiet;peaceful;cold;warm;beautiful;restless
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,season,spring;summer;autumn;winter;rainy;dry;long;short;mild;severe
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,second,split;short;long;quick;fleeting;crucial;final;last;agonizing;intense
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,week,last;next;coming;past;long;short;busy;quiet;work;holiday
+gemini-2.0-flash,basic,1.0,SQ # Albanian,C2,most frequent,Time Concepts,year,last;next;past;current;coming;good;bad;happy;new;old
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,anger,intense;hot;blind;righteous;sudden;suppressed;simmering;cold;quiet;unreasonable
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,courage,great;true;quiet;moral;physical;fierce;unexpected;admirable;inner;newfound
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,fear,great;irrational;deep;real;primal;paralyzing;consuming;constant;lurking;unfounded
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,freedom,true;hard-won;basic;civil;individual;economic;political;limited;national;personal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,happiness,pure;simple;genuine;fleeting;inner;unexpected;quiet;profound;shared;contagious
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,hate,blind;intense;deep-seated;abiding;irrational;raw;visceral;consuming;poisonous;bitter
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,honesty,brutal;refreshing;complete;simple;unquestionable;moral;intellectual;personal;earned;assumed
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,justice,social;blind;rough;restorative;equal;fair;true;divine;swift;delayed
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,knowledge,deep;vast;specialized;practical;common;scientific;tacit;empirical;theoretical;esoteric
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,love,true;unconditional;deep;passionate;maternal;brotherly;romantic;platonic;forbidden;requited
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,peace,lasting;fragile;uneasy;inner;world;temporary;negotiated;hard-won;armed;cold
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Abstract Concepts,wisdom,ancient;practical;acquired;profound;inner;intuitive;worldly;spiritual;shared;collective
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,bell,church;brass;school;hand;warning;loud;clear;broken;distant;dinner
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,candle,wax;tall;short;white;burning;flickering;scented;stubby;taper;votive
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,carpet,oriental;Persian;wool;thick;thin;rolled;worn;patterned;colorful;antique
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,coin,gold;silver;copper;old;new;rare;valuable;counterfeit;ancient;foreign
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,crown,gold;jeweled;royal;silver;heavy;ceremonial;stolen;tarnished;inherited;symbolic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;waving;tattered;symbolic;flown;military;rebel
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,mask,white;black;plastic;painted;theatrical;scary;protective;gas;carnival;tribal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;beaded;long;short;delicate;expensive;costume;broken
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,painting,oil;watercolor;famous;abstract;landscape;portrait;framed;unfinished;original;impressionist
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;promise;simple;ornate;lost;found;ancient
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,statue,bronze;marble;stone;tall;short;old;new;famous;broken;commemorative
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Cultural Artifacts,vase,glass;ceramic;tall;short;empty;full;broken;antique;flower;crystal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,cloud,white;gray;dark;rain;storm;puffy;low;high;cirrus;cumulus
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,earthquake,strong;weak;minor;major;devastating;sudden;unexpected;aftershock;foreshock;seismic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;heavy;light;morning;sea;pea-soup;swirling;patchy;coastal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,lightning,bright;forked;sheet;sudden;unexpected;dangerous;summer;electrical;distant;silent
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;hard;gentle;acid;summer;spring;torrential;persistent
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,rainbow,bright;colorful;double;faint;full;partial;sky;beautiful;fleeting;ethereal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,snow,heavy;light;falling;wet;dry;fresh;deep;soft;powdery;driven
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,storm,big;severe;powerful;winter;summer;electrical;wind;rain;snow;approaching
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,thunder,loud;deep;rolling;distant;close;crashing;echoing;ominous;sudden;continuous
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,tide,high;low;spring;neap;incoming;outgoing;strong;weak;coastal;daily
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;large;small;erupting;volcanic;ash;dangerous;nearby
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;whistling;howling;coastal;gusty;constant
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,apple,red;green;sweet;sour;crisp;juicy;ripe;rotten;baked;delicious
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,banana,yellow;ripe;green;sweet;soft;overripe;peeled;sliced;curved;Cavendish
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,beef,raw;cooked;ground;lean;tender;tough;prime;grilled;roasted;marbled
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,bread,white;brown;wheat;fresh;stale;sliced;toasted;crusty;soft;sourdough
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,broccoli,green;fresh;cooked;steamed;raw;chopped;florets;organic;healthy;frozen
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,cheese,cheddar;Swiss;hard;soft;blue;stinky;melted;grated;aged;processed
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,chicken,fried;grilled;roasted;raw;cooked;boneless;skinless;whole;organic;spicy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,egg,white;brown;raw;cooked;fried;scrambled;boiled;cracked;organic;hard-boiled
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,fish,fresh;salt;cooked;fried;grilled;raw;whole;boneless;saltwater;freshwater
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,pasta,long;short;dry;cooked;Italian;whole-wheat;fresh;stuffed;homemade;gluten-free
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,rice,white;brown;cooked;boiled;fried;long-grain;short-grain;basmati;jasmine;wild
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Food Items,soup,hot;cold;vegetable;chicken;tomato;creamy;thick;thin;homemade;hearty
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,artist,famous;talented;young;old;struggling;starving;local;contemporary;modern;abstract
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,athlete,professional;amateur;young;old;fast;strong;competitive;dedicated;injured;Olympic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,chef,famous;talented;young;old;head;sous;pastry;experienced;innovative;celebrity
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,doctor,good;young;old;family;medical;experienced;specialist;general;emergency;attending
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;young;old;experienced;lead;structural;chemical
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,farmer,local;small;family;young;old;organic;hard-working;independent;dairy;crop
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,lawyer,good;bad;young;old;corporate;criminal;experienced;powerful;defense;prosecuting
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,musician,famous;talented;young;old;local;classical;jazz;rock;independent;struggling
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,scientist,famous;young;old;research;leading;brilliant;dedicated;theoretical;experimental;field
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,soldier,young;brave;experienced;wounded;veteran;active;fallen;national;loyal;decorated
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,teacher,good;bad;young;old;experienced;dedicated;passionate;inspiring;effective;substitute
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Human Roles,writer,famous;talented;young;old;struggling;published;unpublished;creative;freelance;ghost
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,book,old;new;interesting;long;short;hard;soft;famous;rare;used
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,bridge,long;short;high;low;old;new;suspension;wooden;steel;stone
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,drums,loud;big;small;old;new;snare;bass;steel;electronic;marching
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,earth,round;blue;green;big;small;wet;dry;rocky;sandy;fertile
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;long;short;old;new;simple;concert;bamboo;piccolo
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,key,old;new;small;big;lost;found;metal;brass;spare;master
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,knife,sharp;dull;big;small;old;new;kitchen;pocket;hunting;butter
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,lock,old;new;big;small;strong;weak;metal;combination;padlock;electronic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,moon,full;half;new;bright;dark;crescent;silver;large;small;waxing
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;ballpoint;fountain;old;new;cheap;expensive;favorite
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,sun,hot;bright;big;small;yellow;setting;rising;summer;winter;distant
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Inanimate Objects,sword,long;short;sharp;dull;old;new;steel;silver;antique;ceremonial
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,cat,black;white;small;big;old;young;stray;fluffy;domestic;wild
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,dog,big;small;old;young;black;white;stray;friendly;loyal;trained
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,dolphin,grey;smart;playful;wild;trained;bottlenose;small;big;ocean;coastal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,elephant,big;gray;african;indian;old;young;wild;trained;strong;heavy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,hamster,small;brown;white;furry;pet;cute;playful;golden;syrian;dwarf
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,monkey,small;brown;playful;wild;trained;chimpanzee;gorilla;baboon;spider;capuchin
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;wild;pet;house;field;brown;scared;squeaky
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,peacock,colorful;beautiful;large;small;proud;majestic;blue;green;male;wild
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,rabbit,small;white;brown;wild;pet;fluffy;cute;cottontail;long-eared;scared
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,shark,big;dangerous;great;white;hammerhead;tiger;small;grey;coastal;deep-sea
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,snake,long;green;poisonous;small;brown;black;wild;garden;python;boa
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Neutral Animals,whale,big;blue;gray;humpback;orca;small;migrating;coastal;deep-sea;baleen
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,city,big;small;old;new;modern;ancient;capital;coastal;industrial;bustling
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,desert,hot;dry;sandy;large;small;barren;empty;rocky;arid;desolate
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,forest,big;green;dense;old;dark;thick;lush;pine;deciduous;tropical
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,island,small;big;tropical;deserted;volcanic;inhabited;remote;caribbean;pacific;rocky
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,lake,big;small;deep;shallow;clear;blue;fresh;saltwater;scenic;peaceful
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,mountain,high;tall;big;small;rocky;snow-covered;green;steep;volcanic;distant
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,ocean,big;blue;deep;vast;cold;warm;salty;pacific;atlantic;arctic
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,plain,flat;wide;open;grassy;large;small;empty;rolling;coastal;central
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,plateau,high;flat;large;small;rocky;barren;elevated;arid;central;tibetan
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,river,long;short;big;small;deep;wide;flowing;muddy;clean;clear
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,valley,green;wide;narrow;deep;long;short;fertile;scenic;hidden;mountain
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Places,village,small;quiet;old;new;rural;peaceful;picturesque;farming;coastal;remote
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,cactus,green;tall;small;prickly;desert;thorny;saguaro;cholla;barrel;flowering
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,eggplant,purple;long;small;big;fresh;cooked;fried;grilled;roasted;sliced
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,flower,colorful;beautiful;small;big;fragrant;fresh;wild;garden;blooming;withered
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,grass,green;short;tall;dry;wet;long;thick;thin;fresh;cut
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,lettuce,green;fresh;crisp;leafy;small;big;romaine;iceberg;salad;loose-leaf
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,mushroom,wild;edible;poisonous;small;big;brown;white;fresh;dried;cultivated
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,onion,white;yellow;red;small;big;raw;cooked;sliced;chopped;sweet
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,pepper,black;red;green;hot;spicy;small;big;sweet;bell;chili
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,potato,white;red;sweet;small;big;fresh;cooked;fried;baked;mashed
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,rose,red;pink;white;yellow;beautiful;fragrant;thorny;blooming;wilting;long-stemmed
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,tomato,red;ripe;green;small;big;fresh;cooked;sliced;chopped;juicy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Plants,tree,tall;big;green;old;young;leafy;bare;strong;oak;pine
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,ally,strong;weak;close;important;loyal;reliable;trustworthy;powerful;political;unexpected
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,brother,older;younger;little;big;close;distant;half;step;loving;protective
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,enemy,mortal;bitter;sworn;old;new;powerful;dangerous;formidable;relentless;political
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,father,loving;strict;old;young;biological;adoptive;step;surrogate;absent;present
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,follower,loyal;faithful;blind;ardent;devoted;numerous;single;potential;active;online
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,friend,good;close;old;new;best;true;loyal;dear;childhood;long-time
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,leader,strong;weak;good;bad;effective;charismatic;political;military;influential;decisive
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,mother,loving;caring;strict;young;old;biological;adoptive;step;surrogate;single
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,partner,business;life;romantic;legal;equal;silent;senior;junior;working;founding
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,rival,fierce;bitter;main;close;friendly;political;sporting;business;academic;longtime
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,sister,older;younger;little;big;close;distant;half;step;loving;protective
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Social Relationships,stranger,total;complete;perfect;friendly;unfriendly;suspicious;helpful;kind;unknown;passing
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,above,far;high;directly;just;clearly;usually;always;commonly;relatively;considerably
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,back,strong;weak;lower;upper;stiff;sore;broad;narrow;straight;arched
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,below,far;low;directly;just;usually;commonly;relatively;considerably;clearly;slightly
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,east,far;middle;near;central;southeast;northeast;direct;due;inland;coastal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,front,strong;weak;main;direct;near;far;lower;upper;straight;crooked
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,inside,warm;cold;dark;light;quiet;noisy;clean;dirty;cramped;spacious
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,left,far;near;main;upper;lower;proper;wrong;right;direct;hard
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,north,far;near;central;northeast;northwest;direct;due;inland;coastal;high
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,outside,warm;cold;dark;light;quiet;noisy;clean;dirty;wet;dry
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,right,far;near;main;upper;lower;proper;wrong;left;direct;hard
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,south,far;near;central;southeast;southwest;direct;due;inland;coastal;low
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Spatial Concepts,west,far;near;middle;southwest;northwest;direct;due;inland;coastal
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,century,20th;21st;19th;past;present;future;early;late;long;short
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,day,good;bad;long;short;sunny;rainy;busy;slow;work;school
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,evening,good;pleasant;quiet;long;short;warm;cool;dark;clear;busy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,hour,long;short;early;late;golden;wasted;productive;free;spare;busy
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,minute,long;short;precious;wasted;spare;crucial;fleeting;extra;final;opening
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,month,january;february;march;april;may;june;july;august;september;october
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,morning,good;beautiful;sunny;early;late;cold;warm;busy;quiet;refreshing
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,night,good;bad;long;short;dark;clear;starry;cold;warm;quiet
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,season,spring;summer;autumn;winter;rainy;dry;tourist;hunting;planting;growing
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,second,long;short;split;crucial;important;fleeting;final;opening;winning;losing
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,week,long;short;good;bad;work;school;past;next;last;first
+gemini-2.0-flash,basic,1.0,SQ # Albanian,Perfect,most frequent,Time Concepts,year,good;bad;long;short;past;next;last;first;new;leap

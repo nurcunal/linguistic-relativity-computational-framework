@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;hot;quick;silent;wild;cold
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,courage,great;true;real;strong;quiet;much;little;big;brave;inner
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;big;little;cold;silent;quiet
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,freedom,full;real;true;great;complete;personal;political;total;much;new
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,happiness,great;real;true;much;full;deep;simple;little;big;complete
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,hate,deep;strong;real;great;cold;true;silent;sudden;much;big
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,honesty,true;real;great;complete;full;simple;much;open;deep;quiet
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,justice,true;real;great;social;full;complete;fair;equal;much;simple
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,knowledge,great;deep;real;true;much;little;full;complete;new;old
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,love,true;real;great;deep;strong;big;much;first;new;old
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,peace,true;real;great;full;complete;much;deep;quiet;new;long
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Abstract Concepts,wisdom,great;true;real;deep;much;old;little;full;complete;quiet
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;golden;silver;round;heavy;clear
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;thin;bright
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,carpet,big;small;red;old;new;soft;long;thick;clean;dirty
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;shiny;clean
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,crown,gold;silver;big;small;old;new;heavy;light;royal;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,flag,national;big;small;red;white;blue;old;new;long;colorful
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,mask,white;black;red;big;small;old;new;scary;funny;colorful
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,necklace,gold;silver;long;short;new;old;big;small;beautiful;simple
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;colorful;simple;modern;classic
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,ring,gold;silver;big;small;new;old;round;simple;beautiful;shiny
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;gold;silver;stone;beautiful;famous;tall
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;red;beautiful;simple;round
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,cloud,white;big;small;dark;gray;light;high;low;soft;thick
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;quick;bad;natural
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,fog,thick;light;white;gray;heavy;cold;morning;low;soft;wet
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,lightning,bright;quick;strong;sudden;white;big;loud;real;fast;natural
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,rain,heavy;light;strong;cold;warm;big;small;soft;hard;sudden
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,rainbow,beautiful;big;small;bright;colorful;real;clear;new;long;high
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;deep;fresh;new;clean;thick
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,storm,big;strong;heavy;bad;sudden;real;quick;cold;loud;dark
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,thunder,loud;strong;big;sudden;real;quick;deep;heavy;long;hard
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,tide,high;low;strong;big;small;fast;slow;daily;natural;regular
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;quiet;strong;high;hot;dangerous
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;big;small;fast;slow;soft;fresh
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;round;juicy;ripe;new
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,banana,yellow;ripe;big;small;sweet;fresh;long;soft;new;green
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,beef,fresh;cooked;raw;red;soft;hard;hot;cold;good;tasty
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,bread,fresh;white;brown;soft;hard;new;old;big;small;warm
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;new;healthy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;big;small;tasty;new
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,chicken,cooked;raw;fresh;big;small;white;brown;hot;cold;tasty
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,egg,fresh;raw;cooked;white;brown;big;small;new;hard;soft
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;red;tasty;new;old
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,pasta,cooked;hot;cold;fresh;soft;long;short;tasty;new;white
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;fresh;soft;hard;new
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Food Items,soup,hot;cold;fresh;tasty;new;old;big;small;thick;clear
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,artist,famous;young;old;new;great;good;modern;creative;talented;popular
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,athlete,strong;young;old;good;great;fast;new;famous;big;tall
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,chef,good;great;famous;young;old;new;talented;creative;popular;skilled
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,doctor,good;great;young;old;new;famous;kind;skilled;busy;helpful
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,engineer,good;great;young;old;new;skilled;smart;busy;famous;talented
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,farmer,good;old;young;new;hard-working;poor;rich;local;small;big
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,lawyer,good;great;young;old;new;famous;smart;busy;skilled;rich
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,musician,good;great;young;old;new;famous;talented;popular;creative;skilled
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,scientist,good;great;young;old;new;famous;smart;busy;talented;skilled
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,soldier,brave;strong;young;old;good;great;new;famous;loyal;skilled
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,teacher,good;great;young;old;new;kind;smart;busy;helpful;famous
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Human Roles,writer,good;great;young;old;new;famous;creative;talented;popular;skilled
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,book,new;old;big;small;good;great;famous;long;short;interesting
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,bridge,big;small;long;short;old;new;strong;high;low;wide
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,drums,big;small;loud;new;old;round;red;white;wooden;heavy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;small;beautiful;rich;dry
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,flute,small;long;short;new;old;silver;wooden;white;beautiful;simple
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,key,small;big;old;new;silver;gold;metal;simple;round;important
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;metal;clean
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;metal;silver;gold;simple;heavy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,moon,full;new;big;small;round;white;bright;clear;high;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;long;short;simple
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,sun,hot;bright;big;round;yellow;high;strong;warm;new;clear
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Inanimate Objects,sword,sharp;long;short;big;small;old;new;silver;gold;strong
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,cat,small;big;black;white;young;old;cute;soft;quiet;fast
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;cute
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,dolphin,smart;big;small;young;old;friendly;fast;gray;blue;playful
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;wild;friendly;smart;heavy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,hamster,small;cute;young;old;brown;white;soft;friendly;fast;quiet
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,monkey,small;big;young;old;brown;smart;funny;wild;fast;friendly
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,mouse,small;gray;white;young;old;cute;fast;quiet;soft;quick
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,peacock,beautiful;big;small;colorful;blue;green;young;old;bright;proud
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,rabbit,small;white;gray;cute;young;old;soft;fast;quiet;friendly
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,shark,big;small;strong;fast;gray;white;wild;dangerous;young;old
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,snake,long;short;big;small;green;black;dangerous;wild;young;old
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Neutral Animals,whale,big;small;blue;gray;strong;young;old;friendly;wild;heavy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,city,big;small;old;new;busy;modern;clean;dirty;famous;rich
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,desert,big;small;hot;dry;old;new;empty;wide;sandy;open
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,forest,big;small;green;dark;old;new;deep;thick;wild;quiet
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,island,small;big;new;old;green;quiet;beautiful;famous;far;tropical
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,lake,big;small;deep;clear;blue;new;old;quiet;beautiful;fresh
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,mountain,big;small;high;low;old;new;green;tall;famous;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,ocean,big;small;deep;blue;wide;new;old;open;wild;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,plain,big;small;wide;open;green;flat;dry;new;old;empty
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,plateau,big;small;high;low;flat;wide;dry;new;old;open
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,river,big;small;long;short;deep;wide;clear;new;old;fast
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,valley,big;small;deep;green;wide;long;quiet;new;old;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Places,village,small;big;old;new;quiet;peaceful;local;poor;rich;simple
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,cactus,green;big;small;tall;short;old;new;dry;sharp;round
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,eggplant,purple;big;small;fresh;new;old;long;round;soft;healthy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;new;old;colorful
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,grass,green;long;short;soft;fresh;new;old;thick;dry;wet
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;crisp;healthy;clean
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,mushroom,small;big;white;brown;fresh;new;old;soft;wild;tasty
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;strong;sweet
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,potato,big;small;white;brown;fresh;new;old;round;soft;hard
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;new;old;big;small
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,tomato,red;big;small;fresh;new;old;round;soft;ripe;juicy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Plants,tree,big;small;tall;short;green;old;new;young;thick;strong
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,ally,good;strong;true;real;old;new;loyal;close;trusted;friendly
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,brother,big;small;young;old;good;true;real;close;kind;friendly
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,enemy,strong;real;true;old;new;big;small;dangerous;bad;close
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,father,good;old;young;strong;kind;true;real;big;close;loving
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,follower,true;real;good;loyal;close;new;old;strong;young;quiet
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,friend,good;true;real;close;old;new;best;kind;friendly;loyal
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,leader,good;strong;true;real;old;new;great;young;smart;famous
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,mother,good;kind;old;young;true;real;loving;close;strong;caring
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,partner,good;true;real;close;old;new;strong;kind;loyal;friendly
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,rival,strong;real;true;old;new;big;small;close;young;famous
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,sister,big;small;young;old;good;true;real;close;kind;friendly
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Social Relationships,stranger,new;real;true;old;young;close;quiet;friendly;kind;unknown
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,above,high;clear;open;bright;blue;wide;empty;far;sunny;quiet
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,back,big;small;strong;weak;old;new;soft;hard;straight;broad
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,below,low;dark;deep;quiet;cold;wet;empty;close;soft;hidden
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,east,far;new;old;big;small;bright;warm;open;quiet;sunny
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,front,big;small;open;wide;new;old;clear;bright;close;strong
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,inside,warm;quiet;dark;soft;small;big;safe;close;clean;new
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,left,close;far;open;quiet;new;old;big;small;clear;empty
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,north,cold;far;new;old;big;small;open;quiet;high;snowy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,outside,open;big;small;wide;bright;sunny;cold;warm;quiet;fresh
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,right,close;far;open;quiet;new;old;big;small;clear;empty
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,south,warm;far;new;old;big;small;open;quiet;sunny;green
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Spatial Concepts,west,far;new;old;big;small;open;quiet;warm;sunny;bright
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,century,new;old;last;next;long;short;great;big;small;past
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,day,new;old;long;short;good;bad;sunny;hot;cold;busy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,evening,quiet;long;short;cool;warm;dark;late;early;new;old
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,hour,long;short;new;old;last;next;busy;quiet;early;late
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,minute,long;short;new;old;last;next;quick;early;late;busy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,month,new;old;last;next;long;short;busy;quiet;cold;hot
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,morning,early;new;quiet;long;short;cold;warm;sunny;fresh;busy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;new;old;late;early
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,second,long;short;new;old;last;next;quick;early;late;busy
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,week,new;old;last;next;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,TH # Thai,B1,most frequent,Time Concepts,year,new;old;last;next;long;short;busy;quiet;good;bad
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;open;silent;wild;burning;quick
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,courage,great;true;real;strong;quiet;moral;personal;much;enough;inner
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;constant;natural;open;silent;wild
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,freedom,complete;full;personal;political;real;true;total;much;great;individual
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,happiness,great;real;true;complete;much;personal;deep;simple;pure;lasting
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,hate,deep;strong;real;open;great;true;silent;sudden;wild;burning
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,honesty,complete;true;real;great;personal;open;simple;much;full;total
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,justice,true;real;social;complete;great;equal;fair;moral;natural;legal
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,knowledge,great;deep;real;true;much;personal;complete;full;wide;general
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,love,true;real;great;deep;strong;pure;first;much;simple;lasting
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,peace,real;true;complete;great;lasting;much;personal;inner;total;full
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Abstract Concepts,wisdom,great;true;real;deep;much;personal;old;simple;complete;full
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;heavy;round;metal
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,candle,small;big;white;red;new;old;long;short;thin;tall
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;soft;thick;long;clean
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;shiny;ancient
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,crown,golden;big;small;old;new;beautiful;heavy;royal;rich;bright
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,flag,national;big;small;old;new;red;blue;white;green;colorful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,mask,old;new;white;black;red;big;small;scary;funny;colorful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;beautiful;long;short;big;small;colorful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;colorful;modern;simple;bright
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,ring,gold;silver;old;new;big;small;beautiful;round;simple;shiny
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;golden;silver;beautiful;famous;stone;tall
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;beautiful;white;blue;round;tall;simple
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;light;heavy;thick;high;soft
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;natural;recent;terrible
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,fog,thick;heavy;white;gray;light;cold;morning;early;low;soft
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;loud;real;big;wild;natural
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,rain,heavy;light;strong;cold;warm;sudden;real;big;soft;constant
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;big;small;colorful;real;clear;full;high;rare
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,snow,white;heavy;light;cold;soft;deep;fresh;new;thick;clean
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;real;wild;great;cold;terrible;quick
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,thunder,loud;strong;big;sudden;real;heavy;wild;quick;deep;constant
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,tide,high;low;strong;big;real;sudden;natural;quick;constant;deep
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,volcano,big;small;old;new;active;dead;real;strong;high;famous
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;big;soft;sudden;real;quick;constant
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;ripe;round;juicy;new
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,banana,yellow;ripe;big;small;sweet;fresh;long;soft;new;green
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,beef,fresh;cooked;raw;red;good;soft;hard;hot;cold;tasty
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,bread,fresh;white;brown;soft;hard;new;old;big;small;warm
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;new;healthy
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,cheese,soft;hard;white;yellow;fresh;old;new;big;small;tasty
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,chicken,cooked;raw;fresh;big;small;white;brown;hot;cold;tasty
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,egg,fresh;raw;cooked;white;brown;big;small;new;hard;soft
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,fish,fresh;cooked;raw;big;small;white;red;tasty;new;old
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,pasta,cooked;hot;cold;fresh;soft;hard;long;short;tasty;new
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;fresh;soft;hard;new
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Food Items,soup,hot;cold;fresh;tasty;good;new;old;thick;clear;warm
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,artist,young;old;famous;great;new;good;modern;real;true;creative
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,athlete,young;old;strong;fast;good;great;famous;new;real;true
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,chef,good;great;young;old;famous;new;real;true;creative;skilled
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,doctor,good;great;young;old;famous;new;real;true;kind;skilled
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,engineer,good;great;young;old;new;real;true;skilled;smart;famous
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,farmer,old;young;good;great;new;real;true;hard;poor;rich
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,lawyer,good;great;young;old;new;real;true;smart;famous;skilled
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,musician,good;great;young;old;new;real;true;famous;modern;creative
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,scientist,good;great;young;old;new;real;true;smart;famous;modern
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,soldier,young;old;brave;strong;good;great;real;true;new;famous
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,teacher,good;great;young;old;new;real;true;kind;smart;famous
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Human Roles,writer,good;great;young;old;new;real;true;famous;modern;creative
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,book,old;new;big;small;good;great;famous;interesting;long;short
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;famous;wide
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,drums,big;small;old;new;loud;soft;round;red;black;famous
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;real;true;beautiful;rich
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,flute,old;new;long;short;silver;gold;small;big;soft;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,key,small;big;old;new;silver;gold;metal;important;lost;simple
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,knife,sharp;small;big;old;new;silver;long;short;metal;clean
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,lock,small;big;old;new;strong;metal;silver;gold;simple;hard
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,moon,full;new;big;small;round;white;bright;clear;high;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;long;short;simple
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,sun,bright;hot;big;round;yellow;high;strong;clear;warm;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;silver;gold;big;small;strong
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,cat,small;big;young;old;black;white;cute;soft;wild;lazy
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,dog,big;small;young;old;black;white;brown;friendly;loyal;cute
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;young;old;fast;wild;playful;gray
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,elephant,big;small;young;old;wild;gray;strong;smart;friendly;gentle
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,hamster,small;big;young;old;cute;brown;white;soft;friendly;fast
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,monkey,small;big;young;old;wild;smart;funny;brown;fast;playful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,mouse,small;big;young;old;gray;white;brown;cute;fast;wild
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,peacock,beautiful;big;small;young;old;colorful;wild;blue;green;bright
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,rabbit,small;big;young;old;white;brown;cute;soft;fast;wild
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,shark,big;small;young;old;wild;strong;fast;gray;white;dangerous
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,snake,long;short;big;small;young;old;wild;green;dangerous;fast
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Neutral Animals,whale,big;small;young;old;blue;gray;wild;strong;friendly;gentle
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,city,big;small;old;new;modern;busy;famous;rich;clean;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,desert,big;small;hot;dry;old;new;wide;empty;sandy;open
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,forest,big;small;old;new;green;dark;deep;wild;thick;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,island,big;small;new;old;beautiful;green;famous;wild;quiet;far
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,lake,big;small;deep;shallow;old;new;clear;blue;beautiful;quiet
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,mountain,big;small;high;low;old;new;green;famous;beautiful;wild
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,ocean,big;small;deep;wide;blue;old;new;wild;open;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,plain,big;small;wide;open;green;flat;old;new;dry;empty
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,plateau,big;small;high;low;wide;flat;old;new;dry;open
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,river,big;small;long;short;deep;wide;old;new;clear;fast
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,valley,big;small;deep;wide;green;old;new;beautiful;quiet;open
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Places,village,small;big;old;new;quiet;peaceful;poor;rich;simple;beautiful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,cactus,green;big;small;old;new;tall;short;wild;dry;sharp
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,eggplant,purple;big;small;fresh;new;old;long;short;soft;round
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;new;old;colorful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,grass,green;long;short;soft;fresh;new;old;thick;wild;dry
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;crisp;clean;healthy
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,mushroom,small;big;white;brown;fresh;new;old;wild;soft;round
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,onion,big;small;white;red;fresh;new;old;round;strong;sweet
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,potato,big;small;white;brown;fresh;new;old;round;soft;hard
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;new;old;big;small
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,tomato,red;big;small;fresh;new;old;round;soft;ripe;juicy
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Plants,tree,big;small;old;new;green;tall;short;thick;wild;strong
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,ally,good;strong;true;real;old;new;close;loyal;trusted;important
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,brother,big;small;young;old;good;true;real;close;kind;strong
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,enemy,old;new;strong;real;true;big;small;dangerous;close;powerful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,father,good;great;old;young;real;true;kind;strong;loving;wise
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,follower,good;true;real;loyal;strong;old;new;close;important;faithful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,friend,good;true;real;close;old;new;best;kind;loyal;important
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,leader,good;great;strong;true;real;old;new;important;wise;famous
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,mother,good;great;old;young;real;true;kind;loving;strong;wise
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,partner,good;true;real;close;old;new;strong;important;loyal;trusted
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,rival,strong;real;true;old;new;big;small;close;important;powerful
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,sister,big;small;young;old;good;true;real;close;kind;loving
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Social Relationships,stranger,new;real;true;old;young;close;far;quiet;silent;unknown
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,above,high;open;clear;bright;blue;wide;empty;far;free;quiet
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,back,strong;big;small;old;new;straight;broad;weak;soft;hard
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,below,low;deep;dark;quiet;open;empty;cold;far;silent;hidden
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,east,far;open;new;old;bright;clear;warm;quiet;big;small
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,front,open;clear;big;small;new;old;strong;wide;close;bright
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,inside,dark;quiet;warm;soft;small;big;new;old;safe;close
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,left,open;free;quiet;close;new;old;big;small;empty;clear
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,north,cold;far;open;new;old;big;small;quiet;clear;high
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,outside,open;free;big;small;new;old;quiet;clear;bright;empty
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,right,open;free;close;new;old;big;small;clear;empty;quiet
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,south,warm;far;open;new;old;big;small;quiet;clear;low
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Spatial Concepts,west,far;open;new;old;big;small;quiet;clear;warm;bright
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,century,new;old;last;past;next;great;long;short;important;modern
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;clear;busy
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,evening,quiet;long;short;good;bad;warm;cold;dark;clear;busy
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,hour,long;short;new;old;last;next;good;bad;busy;free
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,minute,long;short;new;old;last;next;good;bad;busy;free
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,month,new;old;last;next;long;short;good;bad;busy;free
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,morning,early;quiet;long;short;good;bad;warm;cold;clear;busy
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;good;bad;clear;busy
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;good;bad
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,second,long;short;new;old;last;next;good;bad;busy;free
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,week,new;old;last;next;long;short;good;bad;busy;free
+gpt-4.1,basic,0.0,TH # Thai,B2,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;free
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,anger,strong;sudden;deep;great;real;open;silent;burning;wild;bitter
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,courage,great;true;real;quiet;moral;personal;physical;inner;strong;brave
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,fear,great;deep;real;sudden;strong;constant;silent;open;wild;terrible
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,freedom,personal;complete;full;political;real;true;total;individual;economic;religious
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,happiness,great;real;true;complete;pure;simple;deep;personal;lasting;perfect
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,hate,deep;real;strong;open;great;pure;silent;wild;bitter;true
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,honesty,true;real;complete;great;personal;open;simple;total;perfect;pure
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,justice,true;real;social;complete;perfect;equal;fair;moral;legal;natural
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,knowledge,great;deep;real;true;complete;personal;general;wide;full;basic
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,love,true;real;great;deep;pure;strong;first;perfect;simple;lasting
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,peace,real;true;complete;lasting;great;perfect;inner;personal;political;total
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Abstract Concepts,wisdom,great;true;real;deep;old;ancient;personal;simple;practical;natural
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,bell,big;small;old;new;golden;silver;loud;clear;heavy;round
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,candle,small;big;white;red;long;short;new;old;thin;thick
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;soft;thick;clean;dirty
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,coin,old;new;small;big;gold;silver;round;rare;shiny;ancient
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,crown,golden;silver;old;new;big;small;royal;beautiful;heavy;rich
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,flag,national;red;blue;white;big;small;old;new;colorful;bright
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,mask,old;new;white;black;red;big;small;scary;simple;colorful
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,necklace,gold;silver;old;new;long;short;beautiful;simple;big;small
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,painting,old;new;big;small;beautiful;famous;modern;simple;colorful;bright
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,ring,gold;silver;old;new;big;small;round;simple;beautiful;shiny
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,statue,big;small;old;new;golden;silver;beautiful;famous;ancient;tall
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Cultural Artifacts,vase,big;small;old;new;white;blue;beautiful;simple;round;tall
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,cloud,white;dark;big;small;gray;light;thick;thin;heavy;high
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;sudden;real;great;terrible;natural;recent
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,fog,thick;thin;white;heavy;light;cold;morning;gray;dense;low
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;white;blue;loud;real;wild;natural
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,rain,heavy;light;strong;soft;cold;warm;sudden;real;hard;constant
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,rainbow,bright;beautiful;big;small;colorful;clear;real;perfect;rare;full
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;deep;fresh;new;thick;clean
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,storm,big;small;strong;weak;sudden;real;great;terrible;wild;heavy
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;real;big;deep;heavy;wild;constant;distant
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;big;small;rising;falling;daily;natural
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,volcano,active;old;new;big;small;high;dangerous;famous;real;natural
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;soft;light;sudden;real;wild;constant
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;ripe;round;juicy;crisp
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,banana,yellow;ripe;green;big;small;sweet;fresh;soft;long;curved
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,beef,fresh;raw;cooked;red;tender;lean;juicy;good;hot;cold
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;hot;new;old;sweet
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,broccoli,green;fresh;cooked;raw;small;big;soft;hard;healthy;good
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,cheese,soft;hard;white;yellow;fresh;old;strong;mild;rich;creamy
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,chicken,fried;grilled;cooked;raw;fresh;hot;cold;spicy;tender;roasted
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,egg,boiled;fried;raw;fresh;big;small;white;brown;cooked;hard
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,fish,fresh;raw;cooked;big;small;white;red;fried;grilled;cold
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,pasta,cooked;fresh;hot;cold;soft;long;short;white;simple;good
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,rice,white;brown;cooked;raw;hot;cold;fresh;soft;hard;sticky
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Food Items,soup,hot;cold;fresh;clear;thick;simple;good;spicy;warm;rich
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,artist,young;old;famous;great;new;modern;creative;talented;good;real
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,athlete,young;old;strong;fast;great;good;famous;new;talented;real
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,chef,good;great;young;old;famous;new;talented;real;creative;skilled
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,doctor,good;great;young;old;famous;new;real;skilled;kind;caring
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,engineer,good;great;young;old;new;real;skilled;talented;smart;creative
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,farmer,good;old;young;great;real;new;local;small;big;hard-working
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,lawyer,good;great;young;old;new;real;famous;skilled;smart;honest
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,musician,good;great;young;old;new;famous;real;talented;creative;skilled
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,scientist,good;great;young;old;new;real;famous;smart;talented;skilled
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,soldier,brave;strong;young;old;good;great;real;new;loyal;skilled
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,teacher,good;great;young;old;new;real;kind;smart;skilled;caring
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Human Roles,writer,good;great;young;old;new;real;famous;creative;talented;skilled
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,book,old;new;big;small;good;great;famous;simple;long;short
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;strong;high;famous;wide
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,drums,big;small;old;new;loud;soft;strong;simple;round;wooden
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,earth,big;round;old;new;green;blue;beautiful;rich;natural;warm
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,flute,old;new;small;long;short;silver;wooden;simple;soft;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,key,small;big;old;new;silver;golden;simple;real;important;main
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,knife,sharp;small;big;old;new;long;short;silver;simple;clean
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,lock,small;big;old;new;strong;simple;silver;golden;round;heavy
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,moon,full;new;big;small;bright;white;round;clear;beautiful;high
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,pen,blue;black;red;small;big;old;new;simple;long;short
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,sun,bright;hot;big;small;round;yellow;red;strong;warm;high
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;big;small;silver;golden;strong
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,cat,small;big;young;old;black;white;cute;lazy;soft;quick
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,dog,big;small;young;old;black;white;brown;friendly;loyal;strong
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;young;old;fast;playful;gray;strong
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,elephant,big;small;young;old;gray;strong;wild;friendly;smart;gentle
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,hamster,small;cute;young;old;brown;white;soft;quick;friendly;round
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,monkey,small;big;young;old;smart;quick;wild;funny;brown;friendly
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,mouse,small;big;young;old;gray;white;quick;cute;soft;wild
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,peacock,beautiful;big;small;young;old;colorful;bright;wild;blue;green
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,rabbit,small;big;young;old;white;brown;cute;soft;quick;friendly
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,shark,big;small;young;old;strong;fast;wild;gray;dangerous;real
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,snake,long;short;big;small;young;old;green;quick;wild;dangerous
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Neutral Animals,whale,big;small;young;old;blue;gray;strong;wild;friendly;real
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,city,big;small;old;new;modern;busy;famous;rich;clean;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,desert,big;small;hot;dry;old;new;wide;open;empty;sandy
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,forest,big;small;old;new;green;dark;deep;thick;wild;quiet
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,island,big;small;old;new;beautiful;green;quiet;famous;wild;tropical
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,lake,big;small;deep;shallow;old;new;clear;blue;quiet;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,mountain,big;small;high;low;old;new;green;tall;famous;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,ocean,big;small;deep;wide;blue;old;new;open;wild;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,plain,big;small;wide;open;green;flat;old;new;dry;empty
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,plateau,big;small;high;low;wide;flat;old;new;dry;green
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,river,big;small;long;short;deep;wide;old;new;clear;fast
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,valley,big;small;deep;wide;green;old;new;quiet;beautiful;open
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Places,village,small;big;old;new;quiet;simple;local;poor;rich;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,cactus,green;big;small;old;new;tall;short;wild;dry;sharp
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,eggplant,purple;big;small;fresh;old;new;long;short;round;soft
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,flower,beautiful;small;big;red;white;yellow;fresh;wild;simple;colorful
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,grass,green;long;short;soft;fresh;wild;thick;dry;new;old
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,lettuce,green;fresh;big;small;new;old;soft;crisp;round;clean
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,mushroom,small;big;white;brown;fresh;wild;old;new;soft;round
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,onion,big;small;white;red;fresh;old;new;round;sweet;strong
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,pepper,red;green;yellow;big;small;hot;sweet;fresh;new;old
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,potato,big;small;old;new;white;brown;fresh;round;soft;hard
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;small;big;sweet
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,tomato,red;green;big;small;fresh;ripe;round;soft;new;old
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Plants,tree,big;small;old;new;green;tall;short;wild;young;strong
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,ally,good;strong;true;real;close;old;new;loyal;trusted;important
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,brother,big;small;young;old;real;true;good;close;strong;loving
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,enemy,old;new;real;true;strong;great;big;small;main;dangerous
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,father,good;great;old;young;real;true;strong;loving;kind;caring
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,follower,loyal;true;real;good;strong;close;old;new;young;faithful
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,friend,good;close;true;real;old;new;best;young;loyal;great
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,leader,good;great;strong;true;real;old;new;young;main;important
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,mother,good;great;old;young;real;true;loving;kind;caring;strong
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,partner,good;true;real;close;strong;old;new;loyal;important;main
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,rival,old;new;real;true;strong;great;main;big;small;young
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,sister,big;small;young;old;real;true;good;close;loving;kind
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Social Relationships,stranger,new;real;true;old;young;big;small;quiet;silent;unknown
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,above,high;open;clear;bright;wide;blue;empty;big;free;far
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,back,strong;big;small;old;new;straight;broad;weak;soft;hard
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,below,low;deep;dark;quiet;cold;open;empty;small;hidden;far
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,east,far;open;bright;new;old;big;small;main;important;clear
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,front,big;small;open;clear;main;new;old;strong;wide;bright
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,inside,dark;quiet;warm;soft;small;big;safe;new;old;hidden
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,left,main;open;free;big;small;old;new;clear;strong;important
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,north,far;cold;open;big;small;old;new;main;important;clear
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,outside,open;big;small;free;new;old;clear;bright;wide;far
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,right,main;open;free;big;small;old;new;clear;strong;important
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,south,far;warm;open;big;small;old;new;main;important;clear
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Spatial Concepts,west,far;open;bright;new;old;big;small;main;important;clear
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,century,new;old;last;past;present;next;great;long;short;important
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;clear;busy
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,evening,quiet;long;short;good;bad;warm;cold;dark;clear;late
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,hour,long;short;new;old;last;next;good;bad;busy;free
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,minute,long;short;new;old;last;next;good;bad;free;busy
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,month,new;old;last;next;long;short;good;bad;busy;free
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,morning,early;late;new;old;good;bad;quiet;busy;cold;warm
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;good;bad;late;early
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;good;bad
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,second,long;short;new;old;last;next;good;bad;free;busy
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,week,new;old;last;next;long;short;good;bad;busy;free
+gpt-4.1,basic,0.0,TH # Thai,C1,most frequent,Time Concepts,year,new;old;last;next;long;short;good;bad;busy;free
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;great;uncontrolled;blind;bitter;burning;violent;righteous
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,courage,great;moral;true;quiet;physical;personal;extraordinary;remarkable;inner;real
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,fear,great;deep;sudden;real;constant;irrational;intense;overwhelming;growing;mortal
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,freedom,complete;personal;political;total;individual;full;economic;religious;absolute;true
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,happiness,great;true;real;pure;lasting;perfect;complete;simple;deep;genuine
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,hate,deep;blind;pure;intense;bitter;strong;open;violent;racial;personal
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,honesty,complete;absolute;total;personal;true;great;simple;real;perfect;moral
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,justice,social;true;real;natural;criminal;equal;legal;poetic;divine;fair
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,knowledge,general;scientific;basic;practical;common;deep;personal;detailed;technical;broad
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,love,true;real;deep;great;pure;first;romantic;strong;perfect;unconditional
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,peace,lasting;true;real;complete;inner;perfect;great;long;world;political
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Abstract Concepts,wisdom,great;ancient;true;practical;deep;spiritual;common;real;human;traditional
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,bell,large;small;old;golden;silver;church;big;heavy;loud;brass
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,candle,white;small;tall;scented;red;burning;wax;thin;long;lit
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,carpet,red;large;old;thick;soft;new;beautiful;Persian;blue;expensive
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,coin,old;gold;silver;small;rare;ancient;new;round;valuable;foreign
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,crown,golden;royal;old;beautiful;heavy;silver;jeweled;ancient;new;ornate
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,flag,national;red;white;blue;large;small;old;new;colorful;official
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,mask,white;old;wooden;painted;colorful;traditional;new;black;plastic;scary
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;long;short;old;new;pearl;diamond;expensive
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,painting,beautiful;old;famous;large;small;modern;original;new;oil;abstract
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;old;new;beautiful;small;big;expensive
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,statue,large;small;old;bronze;marble;stone;ancient;golden;famous;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Cultural Artifacts,vase,old;beautiful;large;small;blue;white;porcelain;new;broken;tall
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,cloud,white;dark;big;black;thick;heavy;light;gray;fluffy;low
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,earthquake,big;strong;powerful;major;minor;recent;deadly;violent;sudden;destructive
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,fog,thick;heavy;dense;white;morning;cold;gray;light;low;wet
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;white;blue;dangerous;loud;sharp
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;constant;cold;hard;gentle;soft;warm;sudden
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;double;full;clear;perfect;rare;vivid
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,snow,white;heavy;fresh;deep;soft;light;cold;new;thick;wet
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,storm,big;strong;violent;heavy;sudden;powerful;bad;severe;tropical;dangerous
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,thunder,loud;distant;heavy;rolling;sudden;deep;strong;sharp;constant;low
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;spring;neap;daily;powerful;regular
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;large;dangerous;old;new;famous;powerful
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;steady;fresh;powerful;soft;hard
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,apple,red;green;fresh;big;small;sweet;juicy;ripe;crisp;round
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,banana,ripe;yellow;green;sweet;fresh;big;small;long;soft;curved
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,beef,fresh;raw;cooked;lean;tender;ground;grilled;roasted;juicy;rare
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,bread,fresh;white;brown;soft;warm;homemade;sliced;whole;hard;crusty
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,broccoli,fresh;green;steamed;cooked;raw;healthy;boiled;small;big;tender
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,cheese,hard;soft;fresh;white;yellow;blue;strong;mild;creamy;aged
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;fresh;spicy;tender;baked;whole
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;scrambled;large;small;cooked
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;big;small;white;smoked;dried
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,pasta,cooked;fresh;hot;cold;Italian;homemade;long;short;creamy;spicy
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,rice,white;brown;cooked;steamed;fried;sticky;hot;cold;plain;boiled
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Food Items,soup,hot;cold;thick;clear;fresh;homemade;spicy;warm;creamy;vegetable
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,artist,famous;young;talented;great;modern;creative;new;old;local;professional
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,athlete,young;professional;great;famous;strong;talented;top;Olympic;fast;skilled
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,chef,famous;great;young;professional;talented;French;Italian;skilled;new;creative
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,doctor,good;young;old;famous;great;local;skilled;experienced;professional;new
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,engineer,skilled;young;professional;good;experienced;talented;civil;electrical;mechanical;new
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,farmer,local;small;poor;rich;old;young;hard-working;successful;experienced;skilled
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,lawyer,good;young;old;famous;experienced;skilled;successful;top;local;professional
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,musician,famous;young;talented;great;professional;classical;modern;skilled;new;local
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,scientist,famous;great;young;old;leading;top;modern;skilled;talented;professional
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,soldier,brave;young;old;good;strong;professional;experienced;loyal;skilled;wounded
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,teacher,good;young;old;great;experienced;new;local;skilled;professional;favorite
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Human Roles,writer,famous;great;young;old;new;talented;modern;successful;popular;creative
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,book,new;old;good;great;famous;big;small;interesting;thick;thin
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,bridge,old;new;big;small;long;short;wooden;stone;famous;strong
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;African;electric;traditional;heavy
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,earth,round;big;small;green;blue;dry;wet;rich;soft;hard
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,flute,silver;wooden;old;new;small;long;beautiful;traditional;metal;simple
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,key,small;big;old;new;golden;silver;main;important;lost;spare
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,knife,sharp;big;small;long;short;old;new;kitchen;pocket;dangerous
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,lock,old;new;big;small;strong;broken;metal;heavy;main;simple
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,moon,full;new;bright;round;big;small;white;clear;half;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;broken;cheap;expensive
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,sun,bright;hot;big;warm;red;yellow;rising;setting;shining;golden
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;big;small;silver;golden;heavy
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;lazy;wild;stray
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;stray;loyal
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,dolphin,friendly;smart;playful;big;small;wild;young;old;gray;fast
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,elephant,big;wild;old;young;African;Asian;gray;strong;huge;gentle
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;old;fat;tiny;active;friendly
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,monkey,small;big;wild;young;old;brown;clever;playful;noisy;active
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,mouse,small;white;gray;brown;wild;tiny;cute;young;old;quiet
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,peacock,beautiful;colorful;big;male;wild;blue;green;young;old;proud
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,rabbit,white;small;cute;big;wild;brown;young;old;soft;gray
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,shark,big;dangerous;white;great;wild;fast;hungry;young;old;strong
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,snake,long;poisonous;big;small;green;brown;wild;dangerous;young;old
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Neutral Animals,whale,big;blue;white;huge;wild;young;old;gray;friendly;giant
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,city,big;large;small;modern;old;new;busy;beautiful;ancient;crowded
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,desert,hot;dry;big;large;sandy;empty;wide;open;cold;endless
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,forest,big;large;dark;deep;green;thick;old;wild;tropical;dense
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,island,small;big;tropical;beautiful;remote;private;deserted;rocky;green;famous
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;natural;fresh;round;quiet
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,mountain,high;tall;big;small;rocky;green;snow-capped;steep;famous;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,ocean,big;deep;blue;wide;open;vast;endless;rough;calm;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,plain,wide;open;flat;big;green;grassy;dry;empty;large;endless
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,plateau,high;large;flat;wide;rocky;dry;big;grassy;open;remote
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,river,big;small;long;wide;deep;fast;slow;clear;dirty;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,valley,deep;wide;green;beautiful;narrow;long;small;open;quiet;peaceful
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Places,village,small;old;quiet;peaceful;remote;new;big;poor;rich;traditional
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,cactus,green;tall;big;small;wild;desert;round;spiny;old;young
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,eggplant,purple;big;small;fresh;long;round;young;old;cooked;raw
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,flower,beautiful;red;white;yellow;pink;fresh;small;big;wild;blue
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,grass,green;long;short;dry;wet;fresh;thick;soft;wild;tall
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,lettuce,fresh;green;crisp;big;small;young;old;raw;soft;clean
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,mushroom,wild;fresh;white;small;big;brown;edible;poisonous;raw;cooked
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,onion,red;white;yellow;big;small;fresh;raw;cooked;sweet;strong
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,pepper,red;green;hot;sweet;black;white;small;big;fresh;spicy
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,potato,big;small;white;sweet;new;old;raw;cooked;baked;fried
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;wild;small;big;single
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,tomato,red;ripe;green;small;big;fresh;round;juicy;sweet;raw
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Plants,tree,big;small;old;tall;green;young;large;thick;dead;strong
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,ally,close;strong;loyal;old;new;powerful;important;trusted;main;reliable
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,brother,older;younger;big;little;twin;real;only;dear;lost;loving
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,enemy,old;great;main;powerful;strong;bitter;deadly;dangerous;former;real
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,father,good;old;young;loving;real;proud;kind;strict;caring;wise
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,follower,loyal;faithful;true;close;new;old;strong;devoted;main;regular
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,friend,good;close;best;old;new;true;dear;loyal;real;trusted
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,leader,strong;great;good;new;old;true;main;powerful;natural;wise
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,mother,good;old;young;loving;real;kind;caring;proud;gentle;wise
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,partner,good;new;old;close;true;strong;loyal;main;trusted;perfect
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,rival,main;old;great;strong;bitter;new;powerful;real;close;traditional
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,sister,older;younger;big;little;twin;real;only;dear;lost;loving
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Social Relationships,stranger,complete;total;perfect;new;old;real;dangerous;friendly;unknown;mysterious
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,above,high;clear;open;empty;blue;bright;wide;endless;sunny;vast
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,back,lower;upper;strong;broad;straight;weak;flat;bare;naked;smooth
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,below,deep;dark;cold;quiet;silent;empty;hidden;secret;low;wet
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,east,far;distant;near;bright;rising;golden;warm;open;clear;sunny
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,front,main;open;wide;big;small;flat;straight;clear;new;old
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,inside,warm;dark;quiet;safe;soft;dry;private;empty;clean;bright
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,left,far;near;upper;lower;main;open;free;empty;quiet;silent
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,north,far;distant;cold;high;wild;open;snowy;clear;strong;remote
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,outside,open;wide;free;empty;cold;bright;sunny;fresh;green;public
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,right,far;near;upper;lower;main;open;free;empty;quiet;silent
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,south,far;distant;warm;open;sunny;green;clear;low;quiet;remote
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Spatial Concepts,west,far;distant;wild;open;golden;warm;clear;free;bright;sunny
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,century,last;new;present;past;next;early;late;modern;great;golden
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,day,new;good;long;short;hot;cold;sunny;rainy;busy;bright
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,evening,early;late;quiet;long;warm;cool;beautiful;dark;peaceful;busy
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,hour,long;short;late;early;last;next;busy;free;quiet;golden
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,minute,last;next;long;short;free;busy;quiet;early;late;golden
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,month,last;next;new;first;final;early;late;busy;cold;hot
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,morning,early;late;quiet;cold;warm;new;fresh;bright;busy;beautiful
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,night,long;short;dark;quiet;cold;warm;late;early;beautiful;busy
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,season,new;last;next;long;short;dry;wet;hot;cold;busy
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,second,last;next;long;short;free;busy;quiet;early;late;golden
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,week,last;next;new;first;final;busy;long;short;early;late
+gpt-4.1,basic,0.0,TH # Thai,C2,most frequent,Time Concepts,year,last;next;new;first;final;early;late;busy;good;bad
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;great;strong;uncontrolled;silent;open;burning;bitter
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,courage,great;true;moral;quiet;personal;physical;inner;real;remarkable;extraordinary
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,fear,great;deep;sudden;real;constant;irrational;intense;growing;overwhelming;silent
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,freedom,complete;total;personal;political;individual;full;economic;religious;absolute;true
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,happiness,great;true;real;pure;complete;lasting;simple;perfect;deep;genuine
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,hate,deep;strong;blind;open;pure;bitter;intense;real;burning;cold
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,honesty,complete;true;total;personal;absolute;real;great;simple;perfect;open
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,justice,true;social;real;equal;fair;complete;perfect;natural;criminal;legal
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,knowledge,deep;great;general;personal;scientific;practical;true;wide;complete;basic
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,love,true;deep;great;real;pure;strong;first;perfect;romantic;unconditional
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,peace,complete;true;lasting;real;inner;perfect;great;long;political;world
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Abstract Concepts,wisdom,great;true;deep;ancient;practical;real;personal;simple;natural;perfect
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,bell,big;small;old;golden;silver;loud;heavy;church;hand;round
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,candle,small;white;red;tall;thin;scented;burning;new;old;long
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,carpet,red;big;old;new;soft;thick;beautiful;large;clean;colorful
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,coin,old;new;gold;silver;small;rare;round;ancient;big;valuable
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;old;new;beautiful;big;silver;heavy;ancient;jeweled
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;big;small;old;new;colorful;official
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,mask,white;black;old;new;wooden;golden;red;scary;beautiful;colorful
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;long;short;old;new;pearl;diamond;simple
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,painting,old;new;beautiful;famous;big;small;modern;classic;original;colorful
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;old;new;big;small;simple;beautiful
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,statue,big;small;old;new;golden;stone;bronze;famous;ancient;beautiful
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,vase,big;small;old;new;beautiful;white;blue;glass;ceramic;tall
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,cloud,white;dark;big;small;black;gray;thick;light;heavy;fluffy
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,earthquake,big;small;strong;powerful;sudden;recent;major;minor;deadly;destructive
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,fog,thick;heavy;white;morning;cold;dense;light;gray;low;wet
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;powerful;quick;white;blue;loud;dangerous;sharp
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;cold;hard;steady;soft;constant;sudden;warm;gentle
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;big;small;double;clear;full;rare;perfect
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,snow,white;heavy;light;fresh;deep;soft;cold;new;thick;clean
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,storm,big;strong;heavy;sudden;violent;powerful;great;bad;dangerous;loud
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;heavy;distant;rolling;powerful;sharp;constant
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;daily;big;powerful;fast;regular
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;big;small;old;new;dangerous;famous;high;extinct
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;soft;hard;steady;sudden;fresh
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,apple,red;green;big;small;sweet;fresh;juicy;ripe;round;crisp
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,banana,yellow;ripe;green;big;small;sweet;fresh;long;soft;curved
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,beef,fresh;raw;cooked;tender;lean;ground;grilled;roasted;juicy;spicy
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,bread,fresh;white;brown;soft;hard;warm;sliced;homemade;sweet;dry
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,broccoli,fresh;green;cooked;raw;steamed;healthy;small;big;soft;tender
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,cheese,soft;hard;fresh;old;white;yellow;creamy;sliced;strong;mild
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;fresh;spicy;tender;baked;hot
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,egg,boiled;fried;raw;fresh;hard;soft;white;brown;cooked;large
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,fish,fresh;fried;grilled;raw;cooked;big;small;white;red;smoked
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,pasta,cooked;fresh;hot;cold;homemade;Italian;long;short;soft;creamy
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,rice,white;brown;cooked;steamed;fried;fresh;hot;cold;sticky;soft
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Food Items,soup,hot;cold;fresh;thick;clear;spicy;homemade;warm;creamy;rich
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,artist,famous;young;old;great;talented;modern;creative;new;local;popular
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,athlete,young;great;strong;famous;professional;talented;fast;top;new;skilled
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,chef,famous;great;young;talented;professional;new;creative;skilled;top;local
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,doctor,good;young;old;famous;great;skilled;local;new;experienced;professional
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,engineer,good;young;old;skilled;talented;professional;new;experienced;great;top
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,farmer,local;small;old;young;good;hard-working;poor;rich;skilled;experienced
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,lawyer,good;young;old;famous;great;skilled;professional;new;experienced;top
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,musician,famous;young;old;great;talented;new;skilled;local;popular;creative
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,scientist,famous;great;young;old;talented;skilled;new;top;leading;creative
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,soldier,brave;young;old;strong;good;great;skilled;new;experienced;loyal
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,teacher,good;young;old;great;new;experienced;skilled;local;popular;kind
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Human Roles,writer,famous;great;young;old;talented;new;skilled;creative;popular;local
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,book,new;old;big;small;good;famous;interesting;thick;thin;popular
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;high;low;strong;famous
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,drums,big;small;loud;new;old;wooden;red;black;round;heavy
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,earth,round;big;small;old;new;green;blue;beautiful;rich;dry
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;small;long;old;new;beautiful;simple;gold;thin
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,key,small;big;old;new;golden;silver;metal;main;important;lost
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,knife,sharp;big;small;old;new;long;short;silver;kitchen;dangerous
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,lock,small;big;old;new;strong;broken;metal;golden;silver;main
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,moon,full;new;bright;big;small;round;white;clear;beautiful;half
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;new;old;small;big;long;short;broken
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,sun,bright;hot;big;small;red;yellow;strong;warm;rising;setting
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;big;small;silver;golden;heavy
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,cat,black;white;small;big;young;old;cute;lazy;playful;friendly
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;brown;young;old;friendly;loyal;playful
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,dolphin,smart;friendly;big;small;young;old;playful;fast;gray;wild
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,elephant,big;small;young;old;wild;gray;strong;friendly;smart;gentle
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,hamster,small;cute;young;old;brown;white;friendly;active;soft;tiny
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,monkey,small;big;young;old;wild;smart;funny;brown;active;playful
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;cute;young;old;wild;brown;quick;tiny
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,peacock,beautiful;colorful;big;small;wild;young;old;blue;green;proud
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,rabbit,white;brown;black;small;big;cute;young;old;wild;soft
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,shark,big;small;white;gray;dangerous;wild;young;old;fast;strong
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,snake,long;short;big;small;green;black;dangerous;wild;young;old
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Neutral Animals,whale,big;small;blue;white;gray;wild;young;old;huge;friendly
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,city,big;small;old;new;modern;large;busy;beautiful;famous;crowded
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,desert,hot;dry;big;small;wide;sandy;empty;open;cold;vast
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,forest,big;small;green;dark;deep;thick;old;wild;beautiful;dense
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,island,small;big;beautiful;tropical;green;new;old;wild;famous;remote
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,lake,big;small;deep;clear;blue;beautiful;old;new;fresh;natural
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,mountain,high;tall;big;small;old;new;green;rocky;famous;beautiful
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,ocean,big;deep;blue;wide;open;wild;beautiful;great;vast;clear
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,plain,wide;open;big;small;flat;green;dry;empty;grassy;vast
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,plateau,high;flat;big;small;wide;dry;rocky;green;old;new
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,river,big;small;long;short;deep;wide;narrow;clear;fast;slow
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,valley,deep;wide;green;big;small;narrow;beautiful;long;open;quiet
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Places,village,small;big;old;new;quiet;peaceful;local;rural;beautiful;simple
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,cactus,green;big;small;tall;short;wild;old;new;round;dry
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,eggplant,purple;big;small;fresh;long;short;round;new;old;soft
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,flower,beautiful;red;white;yellow;pink;blue;fresh;small;big;wild
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,grass,green;long;short;fresh;dry;soft;thick;wild;tall;new
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,lettuce,green;fresh;big;small;crisp;new;old;soft;round;leafy
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,mushroom,white;brown;small;big;wild;fresh;edible;soft;new;old
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,onion,red;white;yellow;big;small;fresh;new;old;sweet;strong
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,pepper,red;green;black;white;hot;sweet;small;big;fresh;spicy
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,potato,big;small;white;brown;fresh;new;old;sweet;soft;round
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fresh;small;big;wild;sweet
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,tomato,red;big;small;fresh;ripe;round;green;new;old;juicy
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Plants,tree,big;small;old;new;green;tall;short;young;wild;thick
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,ally,strong;good;loyal;close;true;old;new;trusted;powerful;important
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,brother,big;small;older;younger;good;close;real;true;dear;loving
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,enemy,old;new;strong;powerful;real;true;great;main;dangerous;bitter
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,father,good;old;young;loving;real;true;strong;kind;caring;wise
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,follower,loyal;true;good;close;strong;new;old;faithful;active;important
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,friend,good;close;best;true;old;new;dear;loyal;real;trusted
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,leader,strong;good;great;true;new;old;powerful;main;wise;important
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,mother,good;loving;kind;caring;real;true;strong;wise;old;young
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,partner,good;close;true;new;old;strong;loyal;important;trusted;loving
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,rival,strong;main;old;new;true;great;powerful;close;real;bitter
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,sister,big;small;older;younger;good;close;real;true;dear;loving
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Social Relationships,stranger,complete;total;real;true;new;old;unknown;quiet;silent;sudden
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,above,high;open;clear;bright;blue;wide;empty;free;sunny;vast
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,back,lower;upper;strong;weak;straight;broad;flat;soft;hard;bare
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,below,deep;dark;cold;low;quiet;silent;empty;open;hidden;secret
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,east,far;near;distant;bright;open;new;old;main;important;rising
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,front,main;open;wide;big;small;new;old;clear;strong;important
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,inside,dark;quiet;warm;safe;small;big;new;old;empty;secret
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,left,far;near;main;open;big;small;new;old;important;quiet
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,north,far;near;cold;main;open;big;small;new;old;important
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,outside,open;wide;big;small;new;old;free;empty;bright;clear
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,right,far;near;main;open;big;small;new;old;important;clear
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,south,far;near;warm;main;open;big;small;new;old;important
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Spatial Concepts,west,far;near;main;open;big;small;new;old;important;setting
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,century,last;new;old;past;present;next;great;long;short;important
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,day,new;old;long;short;good;bad;hot;cold;sunny;busy
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,evening,early;late;long;short;quiet;warm;cool;dark;beautiful;busy
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,hour,last;next;long;short;early;late;busy;quiet;full;free
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,minute,last;next;long;short;early;late;busy;quiet;free;final
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,month,last;next;new;old;long;short;busy;quiet;cold;hot
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,morning,early;late;new;cold;warm;quiet;busy;bright;fresh;beautiful
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,night,last;next;long;short;dark;quiet;cold;warm;late;beautiful
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,season,new;old;long;short;hot;cold;dry;wet;busy;quiet
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,second,last;next;long;short;early;late;final;quick;fast;free
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,week,last;next;new;old;long;short;busy;quiet;full;free
+gpt-4.1,basic,0.0,TH # Thai,Perfect,most frequent,Time Concepts,year,last;next;new;old;long;short;good;bad;busy;quiet

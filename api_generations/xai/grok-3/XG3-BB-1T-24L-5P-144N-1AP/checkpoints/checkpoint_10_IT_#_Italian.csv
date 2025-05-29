@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,anger,strong;deep;hot;quick;wild;dark;bitter;fierce;sudden;real
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,courage,great;brave;true;bold;big;amazing;quiet;inner;pure;hard
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,fear,intense;cold;sharp;hidden;deep;strong;dark;sudden;real;big
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,freedom,true;full;sweet;new;hard;real;bright;pure;strong;great
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,happiness,pure;simple;warm;big;real;bright;sweet;deep;true;quiet
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,hate,strong;deep;dark;cold;bitter;fierce;hidden;real;wild;sharp
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,honesty,true;pure;clear;strong;real;simple;deep;bright;good;hard
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,justice,fair;true;strong;real;clear;pure;hard;deep;right;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,knowledge,deep;wide;great;useful;clear;strong;real;big;new;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,love,true;deep;strong;warm;sweet;pure;real;bright;soft;big
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,peace,quiet;calm;true;deep;sweet;real;strong;pure;warm;bright
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Abstract Concepts,wisdom,deep;great;true;clear;strong;quiet;real;old;pure;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,bell,loud;clear;small;old;shiny;heavy;sweet;golden;bright;big
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,candle,small;warm;bright;soft;white;long;new;quiet;red;old
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,carpet,soft;thick;red;big;warm;old;colorful;clean;heavy;nice
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,coin,old;shiny;small;heavy;round;golden;rare;silver;new;dirty
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,crown,golden;heavy;shiny;old;royal;big;beautiful;rich;bright;strong
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,flag,red;white;blue;big;old;proud;bright;national;long;torn
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,mask,dark;scary;funny;old;black;colorful;small;strange;wooden;hidden
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,necklace,beautiful;long;shiny;silver;golden;small;expensive;old;bright;new
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,painting,beautiful;old;big;colorful;famous;dark;small;bright;new;strange
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,ring,golden;shiny;small;beautiful;silver;old;expensive;new;bright;round
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,statue,old;big;tall;heavy;beautiful;white;stone;famous;dark;cold
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Cultural Artifacts,vase,beautiful;old;small;tall;white;delicate;colorful;expensive;broken;new
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,cloud,white;big;dark;soft;heavy;grey;high;fluffy;small;thick
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,earthquake,strong;scary;sudden;powerful;dangerous;big;deep;terrible;wild;loud
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,fog,thick;cold;white;heavy;dark;quiet;wet;grey;mysterious;deep
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,lightning,bright;quick;sharp;loud;strong;scary;white;dangerous;sudden;wild
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,rain,heavy;cold;soft;light;wet;grey;strong;quiet;warm;dark
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;big;rare;clear;magical;high;long;happy
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;beautiful;quiet;thick;wet;deep
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,storm,strong;loud;dark;scary;wild;heavy;dangerous;sudden;cold;big
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,thunder,loud;deep;strong;scary;sudden;dark;powerful;wild;heavy;sharp
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,tide,high;low;strong;quiet;dangerous;fast;deep;cold;wet;powerful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,volcano,hot;dangerous;big;active;dark;scary;tall;red;wild;powerful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;fast;wild;soft;loud;high;sharp
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,apple,red;green;sweet;fresh;small;juicy;round;hard;ripe;tasty
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,banana,yellow;long;sweet;soft;fresh;small;ripe;tasty;healthy;curved
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,beef,red;fresh;tender;tough;juicy;raw;cooked;thick;expensive;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,bread,fresh;warm;soft;hard;white;brown;tasty;old;thick;small
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,broccoli,green;fresh;healthy;small;tender;raw;cooked;bitter;soft;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;tasty;old;strong;creamy;fresh;expensive
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,chicken,fresh;tender;juicy;cooked;raw;small;tasty;white;roasted;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,egg,white;brown;small;fresh;hard;soft;round;cooked;raw;tasty
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,fish,fresh;small;big;raw;cooked;tasty;white;silver;cold;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,pasta,fresh;tasty;soft;hard;long;short;hot;Italian;yellow;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,rice,white;brown;soft;sticky;fresh;tasty;small;long;hot;simple
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Food Items,soup,hot;tasty;warm;thick;thin;fresh;healthy;salty;clear;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,artist,talented;creative;famous;young;old;poor;rich;strange;good;passionate
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,athlete,strong;fast;young;fit;tall;famous;hard;skilled;active;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,chef,skilled;famous;creative;busy;young;old;friendly;good;talented;professional
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,doctor,kind;smart;busy;old;young;good;patient;friendly;helpful;professional
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,engineer,smart;skilled;young;busy;creative;good;technical;professional;clever;hard
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,farmer,hard;old;kind;strong;poor;friendly;busy;good;simple;tough
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,lawyer,smart;busy;good;expensive;strict;young;old;clever;strong;professional
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,musician,talented;famous;young;creative;passionate;good;skilled;loud;old;cool
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,scientist,smart;clever;curious;young;old;famous;busy;good;creative;serious
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,soldier,brave;strong;young;tough;tall;loyal;hard;good;strict;proud
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,teacher,kind;patient;smart;strict;friendly;good;young;old;helpful;wise
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Human Roles,writer,creative;talented;famous;young;old;quiet;good;passionate;clever;busy
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,book,old;new;thick;thin;big;small;interesting;boring;heavy;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,bridge,old;big;long;high;strong;beautiful;narrow;wide;wooden;modern
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,drums,loud;big;heavy;old;new;shiny;strong;fast;cool;round
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,earth,big;round;blue;green;old;beautiful;warm;rich;wide;strong
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,flute,small;silver;shiny;old;beautiful;long;light;sweet;clear;wooden
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,key,small;old;shiny;heavy;silver;golden;important;lost;new;big
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,knife,sharp;small;big;heavy;old;new;dangerous;shiny;long;useful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,lock,old;heavy;small;strong;rusty;shiny;new;broken;big;hard
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,moon,bright;full;white;round;big;beautiful;high;pale;quiet;magical
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,pen,small;black;blue;old;new;cheap;expensive;shiny;long;useful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;warm;high;strong;beautiful;clear;golden
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Inanimate Objects,sword,sharp;long;heavy;old;shiny;strong;dangerous;silver;big;powerful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,cat,small;soft;black;white;cute;lazy;fast;quiet;young;wild
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,dog,big;small;friendly;loyal;brown;black;fast;loud;cute;young
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,dolphin,smart;friendly;fast;grey;big;beautiful;playful;wild;happy;strong
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,elephant,big;strong;grey;heavy;tall;old;slow;kind;wild;powerful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,hamster,small;cute;soft;brown;fast;tiny;active;quiet;young;fluffy
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,monkey,funny;fast;small;brown;wild;clever;active;loud;young;naughty
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,mouse,small;grey;fast;quiet;tiny;cute;shy;young;soft;quick
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,peacock,beautiful;colorful;big;proud;rare;loud;tall;bright;wild;amazing
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,rabbit,small;white;soft;cute;fast;quiet;young;shy;fluffy;sweet
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,shark,big;dangerous;fast;grey;scary;strong;wild;sharp;cold;hungry
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,snake,long;dangerous;green;black;scary;fast;quiet;wild;cold;thin
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Neutral Animals,whale,big;huge;blue;heavy;strong;slow;deep;wild;beautiful;rare
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,city,big;busy;noisy;modern;old;crowded;beautiful;bright;dirty;large
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,desert,hot;dry;big;sandy;empty;quiet;dangerous;wide;yellow;harsh
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,forest,green;big;dark;thick;quiet;deep;wild;beautiful;old;scary
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,island,small;beautiful;green;quiet;remote;tropical;big;wild;sunny;peaceful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,lake,blue;clear;big;quiet;deep;cold;beautiful;calm;wide;still
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,mountain,high;tall;big;rocky;cold;beautiful;strong;steep;white;old
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,ocean,big;blue;deep;wide;cold;beautiful;dangerous;strong;wild;dark
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,plain,wide;flat;green;big;empty;quiet;open;long;yellow;simple
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,plateau,high;flat;wide;big;dry;rocky;empty;old;cold;quiet
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,river,long;wide;blue;deep;clear;fast;cold;beautiful;quiet;strong
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,valley,deep;green;narrow;beautiful;quiet;wide;long;steep;cold;peaceful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Places,village,small;quiet;old;beautiful;friendly;simple;green;poor;remote;nice
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,cactus,green;tall;sharp;dry;small;tough;spiky;old;wild;strong
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,eggplant,purple;long;fresh;soft;tasty;small;shiny;healthy;dark;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,flower,beautiful;colorful;small;red;yellow;fresh;soft;bright;sweet;delicate
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,grass,green;soft;tall;short;wet;fresh;thick;dry;long;wild
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,lettuce,green;fresh;soft;light;healthy;small;crispy;wet;tender;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,mushroom,small;brown;white;soft;tasty;wild;fresh;round;wet;strange
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,onion,white;strong;small;round;fresh;sharp;yellow;raw;tasty;hard
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,pepper,red;green;hot;small;fresh;spicy;yellow;tasty;round;strong
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,potato,brown;small;hard;fresh;tasty;round;dirty;soft;big;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,rose,red;beautiful;small;soft;sweet;fresh;thorny;bright;delicate;pink
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,tomato,red;fresh;juicy;small;round;tasty;soft;ripe;healthy;good
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Plants,tree,tall;green;old;big;strong;beautiful;thick;wide;brown;high
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,ally,loyal;good;friendly;strong;helpful;kind;true;close;reliable;nice
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,brother,kind;strong;young;old;funny;helpful;close;tall;good;protective
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,enemy,dangerous;strong;bad;cold;dark;angry;cruel;tough;hidden;fierce
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,father,kind;strong;old;wise;tall;good;strict;loving;protective;funny
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,follower,loyal;young;quiet;good;eager;close;active;strong;helpful;true
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,friend,kind;good;close;funny;loyal;helpful;sweet;true;nice;dear
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,leader,strong;wise;good;strict;kind;brave;smart;tall;confident;powerful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,mother,kind;loving;sweet;strong;good;warm;caring;gentle;wise;beautiful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,partner,good;kind;loyal;close;helpful;strong;funny;sweet;true;reliable
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,rival,strong;tough;bad;smart;fast;angry;dangerous;close;fierce;hard
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,sister,kind;sweet;young;funny;close;helpful;good;tall;loving;nice
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Social Relationships,stranger,unknown;quiet;tall;dark;strange;cold;young;old;shy;weird
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,above,high;clear;bright;wide;open;big;far;blue;empty;quiet
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,back,strong;wide;straight;sore;long;hard;painful;flat;warm;tired
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,below,low;deep;dark;cold;quiet;hidden;small;close;wet;empty
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,east,far;warm;bright;new;open;big;sunny;quiet;wide;beautiful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,front,clear;wide;open;big;straight;clean;bright;close;strong;neat
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,inside,warm;dark;quiet;small;cozy;hidden;safe;deep;soft;tight
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,left,close;near;small;quiet;open;clear;wide;low;soft;empty
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,north,cold;far;high;dark;quiet;wild;big;snowy;strong;remote
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,outside,cold;warm;big;open;bright;noisy;wide;green;fresh;sunny
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,right,close;clear;near;straight;good;open;wide;small;neat;correct
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,south,warm;sunny;far;bright;hot;green;open;big;quiet;beautiful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Spatial Concepts,west,far;warm;sunny;open;big;quiet;bright;wide;new;beautiful
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,century,old;long;past;new;great;important;famous;short;historical;dark
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,day,long;short;warm;cold;busy;bright;rainy;sunny;quiet;happy
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,evening,quiet;cool;dark;long;warm;beautiful;calm;late;peaceful;nice
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;late;early;fast;slow;hard;important
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,minute,quick;short;long;fast;important;busy;quiet;slow;last;precious
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,month,long;short;cold;warm;busy;quiet;rainy;sunny;hard;happy
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,morning,early;fresh;cool;bright;quiet;sunny;cold;busy;beautiful;calm
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,night,dark;long;quiet;cold;late;beautiful;scary;still;black;deep
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,season,cold;warm;long;short;rainy;sunny;dry;hot;beautiful;hard
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,second,quick;short;fast;important;last;slow;busy;quiet;small;precious
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,week,long;short;busy;quiet;hard;fast;slow;good;bad;happy
+grok-3,basic,1.0,IT # Italian,B1,most frequent,Time Concepts,year,long;short;good;bad;busy;new;old;happy;hard;important
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,anger,strong;deep;sudden;fierce;intense;burning;wild;bitter;hot;uncontrolled
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,courage,great;bold;brave;fearless;strong;true;amazing;inspiring;powerful;heroic
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,fear,dark;cold;heavy;real;sharp;deep;constant;hidden;sudden;overwhelming
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,freedom,true;full;personal;sweet;precious;complete;hard;new;desired;ultimate
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,happiness,pure;warm;bright;endless;simple;real;deep;genuine;sweet;joyful
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,hate,strong;blind;deep;bitter;fierce;dark;cold;hidden;intense;cruel
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,honesty,pure;true;clear;strong;real;simple;complete;brave;open;sincere
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,justice,fair;true;strong;equal;right;clear;hard;moral;honest;final
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,knowledge,deep;wide;useful;great;vast;important;basic;new;solid;practical
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,love,true;deep;sweet;warm;endless;pure;strong;real;gentle;passionate
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,peace,calm;quiet;true;lasting;inner;sweet;gentle;deep;global;serene
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Abstract Concepts,wisdom,great;old;deep;true;clear;quiet;strong;ancient;practical;profound
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,bell,loud;clear;small;golden;old;shiny;heavy;bright;sweet;ringing
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,candle,small;white;burning;warm;soft;bright;tiny;red;scented;flickering
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,carpet,soft;thick;red;old;clean;large;colorful;warm;patterned;expensive
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,coin,old;shiny;small;silver;rare;gold;heavy;round;valuable;ancient
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,crown,golden;heavy;royal;shiny;old;beautiful;jeweled;ancient;powerful;grand
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,flag,national;bright;colorful;proud;waving;large;red;blue;white;bold
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,mask,dark;strange;scary;black;white;funny;old;mysterious;wooden;hidden
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,necklace,beautiful;shiny;silver;gold;long;delicate;expensive;elegant;simple;precious
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,painting,beautiful;old;famous;colorful;large;realistic;abstract;expensive;detailed;classic
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,ring,gold;silver;small;shiny;beautiful;expensive;simple;delicate;round;elegant
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,statue,tall;old;stone;bronze;beautiful;ancient;large;impressive;white;detailed
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Cultural Artifacts,vase,glass;old;delicate;beautiful;tall;ceramic;colorful;empty;expensive;floral
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,cloud,white;dark;fluffy;big;grey;soft;high;heavy;moving;thick
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,earthquake,strong;sudden;violent;dangerous;powerful;scary;destructive;unexpected;massive;terrifying
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,fog,thick;cold;grey;heavy;dark;dense;mysterious;silent;wet;early
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,lightning,bright;fast;powerful;dangerous;sharp;loud;sudden;electric;scary;striking
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;soft;sudden;long;steady;gentle;refreshing
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,rainbow,colorful;beautiful;bright;clear;magical;rare;vivid;wide;amazing;cheerful
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;thick;fresh;light;quiet;beautiful;falling
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,storm,strong;loud;dark;violent;heavy;dangerous;sudden;wild;scary;powerful
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,thunder,loud;deep;strong;sudden;scary;powerful;rolling;distant;heavy;frightening
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,tide,high;low;strong;fast;dangerous;rising;powerful;regular;wild;moving
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,volcano,active;dangerous;tall;hot;powerful;sleeping;dark;huge;fiery;ancient
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;fast;gentle;wild;light;sharp;loud;blowing
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,apple,red;green;sweet;fresh;juicy;small;round;crispy;tasty;ripe
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,banana,yellow;sweet;long;soft;fresh;ripe;tasty;healthy;curved;small
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,beef,fresh;red;tender;juicy;cooked;raw;tasty;expensive;grilled;soft
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,bread,fresh;warm;soft;hard;white;brown;crispy;tasty;sliced;homemade
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,broccoli,green;fresh;healthy;small;tender;raw;cooked;bitter;nutritious;bright
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;creamy;smelly;tasty;melted;sharp;aged
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,chicken,fresh;cooked;juicy;tender;grilled;roasted;white;tasty;fried;soft
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,egg,white;brown;fresh;hard;soft;boiled;fried;small;raw;round
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,fish,fresh;small;big;cooked;raw;tasty;silver;salty;grilled;white
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,pasta,fresh;long;short;soft;cooked;tasty;yellow;dry;hot;Italian
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,rice,white;brown;soft;sticky;long;short;cooked;tasty;warm;plain
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Food Items,soup,hot;warm;tasty;thick;clear;creamy;fresh;salty;homemade;hearty
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,artist,creative;famous;talented;young;old;passionate;skilled;modern;unique;inspired
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,athlete,strong;fast;young;fit;talented;powerful;dedicated;skilled;active;competitive
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,chef,skilled;creative;famous;busy;talented;professional;passionate;friendly;experienced;innovative
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,doctor,kind;smart;busy;helpful;experienced;patient;friendly;professional;caring;trusted
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,engineer,smart;skilled;creative;busy;young;experienced;practical;innovative;technical;hardworking
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,farmer,hardworking;kind;strong;busy;old;patient;friendly;simple;dedicated;rural
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,lawyer,smart;strict;busy;professional;experienced;tough;confident;serious;helpful;sharp
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,musician,talented;creative;young;famous;passionate;skilled;energetic;artistic;unique;inspired
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,scientist,smart;curious;dedicated;brilliant;serious;innovative;careful;patient;knowledgeable;focused
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,soldier,brave;strong;young;loyal;tough;disciplined;proud;dedicated;fearless;heroic
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,teacher,kind;patient;smart;friendly;strict;helpful;experienced;inspiring;caring;dedicated
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Human Roles,writer,creative;talented;young;famous;passionate;skilled;imaginative;serious;unique;thoughtful
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;heavy;small;expensive;famous
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,bridge,old;long;high;strong;beautiful;wooden;stone;narrow;wide;famous
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,drums,loud;big;heavy;round;fast;powerful;noisy;wooden;rhythmic;strong
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,earth,round;big;beautiful;green;blue;old;vast;rich;alive;precious
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,flute,small;wooden;silver;soft;sweet;delicate;light;beautiful;old;melodic
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,key,small;silver;gold;old;shiny;heavy;important;tiny;rusty;useful
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,knife,sharp;small;big;heavy;dangerous;useful;shiny;steel;long;pointed
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,lock,old;heavy;strong;small;rusty;shiny;secure;broken;metal;tight
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,moon,bright;full;round;white;pale;beautiful;mysterious;distant;quiet;magical
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,pen,black;blue;small;cheap;expensive;old;new;thin;useful;smooth
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,sun,bright;hot;yellow;big;warm;shining;powerful;golden;clear;burning
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Inanimate Objects,sword,sharp;long;heavy;old;shiny;dangerous;steel;ancient;powerful;deadly
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,cat,small;cute;soft;black;white;lazy;playful;quiet;furry;friendly
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,dog,big;small;friendly;loyal;brown;black;active;cute;loud;protective
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,dolphin,smart;friendly;fast;blue;playful;beautiful;wild;gentle;sleek;curious
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,elephant,big;grey;strong;heavy;slow;gentle;old;tall;wise;powerful
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,hamster,small;cute;furry;tiny;active;brown;soft;playful;quiet;cuddly
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,monkey,funny;small;fast;brown;playful;clever;wild;noisy;curious;active
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,mouse,small;grey;tiny;fast;quiet;cute;sneaky;soft;scared;little
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;big;bright;elegant;rare;blue;green;stunning
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,rabbit,small;white;cute;soft;fast;fluffy;brown;shy;gentle;playful
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,shark,big;dangerous;fast;grey;scary;strong;wild;hungry;sharp;deadly
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,snake,long;dangerous;green;black;scary;quiet;slimy;fast;poisonous;thin
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Neutral Animals,whale,huge;blue;big;gentle;deep;slow;powerful;beautiful;rare;majestic
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,city,big;busy;noisy;modern;old;crowded;beautiful;dirty;bright;large
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,desert,hot;dry;vast;empty;sandy;quiet;dangerous;wide;lonely;harsh
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,forest,green;dark;big;dense;quiet;wild;beautiful;old;thick;mysterious
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,island,small;beautiful;quiet;remote;tropical;green;sunny;lonely;sandy;peaceful
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,lake,blue;calm;clear;deep;cold;beautiful;quiet;large;still;fresh
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,mountain,tall;high;rocky;cold;beautiful;snowy;steep;big;green;majestic
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,ocean,vast;deep;blue;wild;cold;beautiful;dangerous;wide;salty;powerful
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,plain,wide;flat;green;empty;vast;quiet;open;dry;simple;endless
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,plateau,high;flat;wide;dry;rocky;empty;cold;vast;remote;barren
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,river,long;wide;blue;fast;clear;deep;beautiful;cold;calm;winding
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,valley,green;deep;beautiful;quiet;narrow;wide;long;fertile;peaceful;hidden
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Places,village,small;quiet;old;friendly;beautiful;simple;rural;peaceful;tiny;cozy
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,cactus,green;spiky;tall;dry;small;tough;sharp;desert;hard;prickly
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,eggplant,purple;shiny;long;soft;fresh;tasty;small;smooth;healthy;ripe
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,flower,beautiful;colorful;small;bright;sweet;delicate;red;yellow;fresh;lovely
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,grass,green;soft;tall;short;wet;dry;thick;fresh;bright;lush
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,lettuce,green;fresh;crispy;light;healthy;soft;raw;cool;tender;leafy
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,mushroom,small;brown;white;soft;tasty;wild;poisonous;round;earthy;fresh
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,onion,white;strong;small;round;sharp;raw;yellow;smelly;fresh;juicy
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,pepper,red;green;hot;spicy;small;fresh;yellow;sweet;tasty;bright
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,potato,brown;small;hard;fresh;tasty;round;white;soft;cooked;cheap
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,rose,red;beautiful;sweet;delicate;thorny;pink;small;lovely;fragrant;elegant
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,tomato,red;fresh;juicy;small;round;tasty;ripe;soft;sweet;healthy
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Plants,tree,tall;green;old;big;strong;thick;beautiful;leafy;shady;ancient
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,ally,loyal;helpful;close;strong;trusted;friendly;supportive;reliable;kind;true
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,brother,kind;older;younger;funny;strong;close;protective;annoying;caring;loyal
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,enemy,dangerous;strong;cruel;hated;fierce;cold;tricky;powerful;sneaky;bitter
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,father,kind;strong;old;wise;caring;strict;loving;protective;funny;supportive
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,follower,loyal;young;eager;dedicated;quiet;supportive;active;faithful;curious;admiring
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,friend,close;kind;funny;loyal;helpful;true;best;old;dear;trusted
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,leader,strong;wise;brave;smart;confident;powerful;kind;inspiring;strict;respected
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,mother,kind;loving;caring;strong;gentle;sweet;patient;wise;protective;warm
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,partner,close;loyal;helpful;kind;trusted;supportive;funny;loving;strong;reliable
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,rival,strong;tough;competitive;close;fierce;smart;dangerous;annoying;jealous;challenging
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,sister,kind;older;younger;funny;close;caring;annoying;sweet;loving;protective
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Social Relationships,stranger,unknown;strange;quiet;cold;distant;suspicious;friendly;curious;tall;mysterious
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,above,high;clear;bright;far;wide;open;blue;empty;distant;visible
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,back,strong;wide;straight;painful;sore;bare;broad;injured;hidden;tired
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,below,low;deep;dark;cold;hidden;close;quiet;narrow;small;silent
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,east,far;bright;warm;distant;open;new;exotic;ancient;sunny;cultural
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,front,clear;open;wide;main;visible;strong;close;bright;important;leading
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,inside,warm;quiet;dark;small;hidden;cozy;safe;deep;secret;comfortable
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,left,close;near;small;weak;hidden;open;free;available;remaining;opposite
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,north,cold;far;dark;distant;wild;snowy;quiet;remote;harsh;windy
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,outside,cold;warm;bright;noisy;open;wide;free;fresh;sunny;busy
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,right,correct;close;strong;near;proper;good;main;important;perfect;true
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,south,warm;sunny;far;bright;hot;exotic;distant;green;lively;tropical
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Spatial Concepts,west,far;sunny;warm;distant;open;wild;new;bright;remote;modern
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,century,old;past;long;ancient;new;important;famous;historical;early;modern
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,day,long;short;bright;cold;warm;busy;quiet;rainy;sunny;happy
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,evening,quiet;cool;dark;long;calm;beautiful;peaceful;late;relaxing;clear
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,hour,long;short;busy;quiet;late;early;fast;slow;important;final
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,minute,short;fast;quick;long;important;last;busy;quiet;slow;precise
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,month,long;short;cold;warm;busy;quiet;rainy;sunny;important;special
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,morning,early;bright;cool;quiet;fresh;sunny;busy;cold;clear;beautiful
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,night,dark;long;quiet;cold;late;clear;starry;scary;peaceful;silent
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,season,warm;cold;wet;dry;long;short;beautiful;busy;favorite;changing
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,second,quick;fast;short;important;last;brief;precise;small;critical;passing
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,week,long;short;busy;quiet;fast;slow;hard;easy;important;special
+grok-3,basic,1.0,IT # Italian,B2,most frequent,Time Concepts,year,long;short;busy;good;bad;new;old;important;hard;special
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,anger,intense;fierce;burning;deep;uncontrollable;sudden;raw;bitter;explosive;overwhelming
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,courage,remarkable;brave;bold;fearless;heroic;strong;inspiring;admirable;determined;valiant
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,fear,intense;paralyzing;deep;overwhelming;constant;hidden;irrational;sudden;dark;gripping
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,freedom,absolute;true;precious;hard-won;complete;personal;essential;liberating;powerful;cherished
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,happiness,pure;genuine;boundless;infectious;simple;lasting;radiant;deep;overwhelming;joyful
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,hate,intense;deep;bitter;fierce;burning;destructive;blind;toxic;relentless;consuming
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,honesty,complete;brutal;refreshing;absolute;sincere;unwavering;true;admirable;rare;essential
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,justice,fair;true;impartial;moral;strict;swift;deserved;blind;equal;righteous
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,knowledge,deep;vast;profound;extensive;practical;useful;valuable;essential;specialized;broad
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,love,true;unconditional;passionate;deep;endless;sincere;pure;romantic;selfless;eternal
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,peace,lasting;inner;quiet;global;fragile;serene;harmonious;calm;spiritual;gentle
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Abstract Concepts,wisdom,profound;deep;timeless;ancient;practical;insightful;thoughtful;rare;enlightened;valuable
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,bell,loud;clear;golden;small;antique;silver;ringing;heavy;decorative;traditional
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,candle,flickering;scented;bright;warm;tall;thin;white;decorative;romantic;soft
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,carpet,soft;thick;red;patterned;old;expensive;woolen;colorful;Persian;plush
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,coin,old;rare;shiny;small;silver;gold;valuable;worn;ancient;collectible
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,crown,golden;royal;heavy;jeweled;ancient;majestic;ceremonial;ornate;powerful;symbolic
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;iconic;torn;official;historic;bright;symbolic
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,mask,mysterious;colorful;scary;wooden;traditional;decorative;hidden;painted;cultural;dark
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,necklace,elegant;golden;silver;delicate;expensive;beaded;long;beautiful;antique;simple
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,painting,beautiful;old;famous;colorful;abstract;realistic;large;detailed;classic;modern
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,ring,golden;silver;diamond;small;elegant;antique;shiny;simple;expensive;engraved
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,statue,tall;ancient;marble;impressive;detailed;bronze;historical;grand;iconic;majestic
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;antique;decorative;colorful;fragile;elegant;painted;ornate
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;heavy;gray;floating;soft;thick;high;stormy
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,earthquake,powerful;destructive;sudden;terrifying;strong;devastating;violent;unexpected;massive;deadly
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;gray;cold;heavy;silent;eerie;damp;obscuring
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;dangerous;electric;striking;vivid;intense;jagged;dramatic
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,rain,heavy;light;cold;gentle;steady;refreshing;torrential;sudden;persistent;drizzling
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;vibrant;magical;fleeting;arched;vivid;cheerful
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;light;fluffy;fresh;powdery;silent;thick
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,storm,violent;powerful;dark;fierce;raging;sudden;dangerous;loud;intense;destructive
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,thunder,loud;deep;rumbling;powerful;sudden;booming;frightening;rolling;distant;intense
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;calm;steady;dangerous;rhythmic
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;fiery;dangerous;explosive;ancient;towering;deadly;smoking
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Environmental Phenomena,wind,strong;cold;gentle;warm;fierce;howling;gusty;steady;soft;biting
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,apple,red;green;sweet;crisp;juicy;fresh;ripe;small;tart;shiny
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;healthy;spotted
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,beef,tender;juicy;lean;grilled;raw;fresh;seasoned;rare;cooked;fatty
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,bread,fresh;warm;crusty;soft;white;wholegrain;homemade;sliced;toasted;stale
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,broccoli,green;fresh;healthy;steamed;raw;tender;crisp;bitter;small;nutritious
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,cheese,creamy;sharp;soft;hard;melted;aged;yellow;stinky;grated;rich
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,chicken,tender;juicy;grilled;roasted;fried;spicy;lean;fresh;cooked;seasoned
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,egg,fresh;boiled;fried;raw;white;brown;small;scrambled;soft;organic
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,fish,fresh;raw;cooked;salty;oily;grilled;smoked;white;flaky;tasty
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,pasta,fresh;homemade;al dente;creamy;spicy;Italian;soft;long;short;cheesy
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;cooked;plain;seasoned;fragrant;soft
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Food Items,soup,hot;creamy;thick;hearty;clear;warm;spicy;homemade;savory;comforting
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,artist,talented;creative;famous;struggling;modern;innovative;passionate;skilled;eccentric;visionary
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,athlete,strong;fast;dedicated;competitive;skilled;disciplined;fit;powerful;talented;determined
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,chef,skilled;creative;famous;professional;passionate;innovative;experienced;busy;talented;strict
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,doctor,kind;experienced;skilled;caring;professional;dedicated;busy;knowledgeable;trusted;compassionate
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,engineer,skilled;innovative;smart;practical;experienced;creative;technical;precise;dedicated;analytical
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,farmer,hardworking;dedicated;tough;rural;skilled;patient;strong;traditional;busy;knowledgeable
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,lawyer,sharp;clever;experienced;tough;persuasive;professional;successful;expensive;strict;logical
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,musician,talented;passionate;creative;famous;skilled;dedicated;gifted;expressive;versatile;inspiring
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;smart;precise;experienced;focused;pioneering
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,soldier,brave;strong;disciplined;loyal;tough;courageous;dedicated;heroic;trained;determined
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,teacher,kind;patient;inspiring;knowledgeable;strict;dedicated;supportive;wise;experienced;caring
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Human Roles,writer,creative;talented;famous;imaginative;prolific;thoughtful;skilled;expressive;dedicated;insightful
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;famous;heavy;worn;engaging
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,bridge,old;long;high;narrow;strong;modern;wooden;stone;iconic;busy
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;big;small;traditional;modern;beaten;resonant;tribal
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,earth,vast;beautiful;fragile;green;ancient;rich;fertile;blue;precious;alive
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,flute,delicate;wooden;silver;soft;small;ancient;melodic;elegant;traditional;clear
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,key,small;old;rusty;golden;silver;important;hidden;spare;shiny;heavy
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,knife,sharp;small;dangerous;rusty;old;kitchen;pocket;steel;serrated;handy
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,lock,old;rusty;heavy;secure;broken;small;metal;tight;ancient;strong
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,moon,full;bright;pale;mysterious;distant;round;silver;beautiful;glowing;magical
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,pen,black;blue;old;cheap;expensive;smooth;sharp;tiny;elegant;broken
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,sun,bright;hot;golden;warm;blazing;shining;radiant;powerful;yellow;dazzling
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Inanimate Objects,sword,sharp;heavy;ancient;long;rusty;powerful;legendary;shiny;deadly;ornate
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,cat,cute;fluffy;lazy;playful;small;black;white;friendly;independent;curious
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,dog,loyal;friendly;big;small;playful;protective;brown;happy;energetic;obedient
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,dolphin,friendly;intelligent;playful;graceful;sleek;fast;curious;social;beautiful;gentle
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,elephant,huge;gentle;strong;gray;wise;slow;massive;powerful;majestic;endangered
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,hamster,tiny;cute;fluffy;active;small;brown;playful;timid;soft;adorable
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,monkey,playful;curious;small;agile;funny;clever;brown;wild;social;noisy
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,mouse,small;tiny;gray;quick;timid;sneaky;cute;quiet;fast;little
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;elegant;vibrant;majestic;stunning;exotic;ornate;striking
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,rabbit,cute;fluffy;small;fast;white;timid;playful;soft;gentle;hopping
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,shark,dangerous;big;fast;fierce;gray;deadly;powerful;scary;sleek;predatory
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,snake,long;dangerous;slimy;venomous;green;silent;sneaky;scaly;cold;deadly
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Neutral Animals,whale,huge;gentle;blue;massive;powerful;majestic;deep;slow;endangered;mysterious
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,city,big;busy;modern;crowded;noisy;vibrant;old;industrial;famous;lively
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,desert,hot;dry;vast;sandy;empty;harsh;lonely;barren;endless;scorching
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,forest,dense;green;dark;quiet;ancient;thick;mysterious;wild;lush;deep
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,island,small;tropical;remote;beautiful;deserted;green;rocky;isolated;sunny;exotic
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,lake,calm;clear;deep;blue;cold;quiet;large;beautiful;still;peaceful
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,mountain,high;tall;snowy;rugged;steep;majestic;rocky;ancient;massive;beautiful
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,ocean,vast;deep;blue;wild;powerful;endless;dark;mysterious;calm;dangerous
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,plain,vast;flat;green;empty;wide;open;barren;grassy;quiet;endless
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,plateau,high;flat;vast;dry;rocky;barren;elevated;wide;remote;rugged
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,river,long;wide;deep;calm;fast;clear;blue;winding;powerful;muddy
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,valley,deep;green;narrow;quiet;beautiful;fertile;hidden;peaceful;steep;lush
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Places,village,small;quiet;old;rural;charming;peaceful;simple;traditional;friendly;remote
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,cactus,green;spiky;tall;dry;tough;small;desert;sharp;sturdy;prickly
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;long;soft;bitter;cooked;healthy;ripe
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;small;bright;fresh;soft;lovely;vibrant
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,grass,green;soft;thick;tall;fresh;wet;short;lush;dry;wild
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,lettuce,green;fresh;crisp;light;healthy;leafy;tender;raw;clean;cool
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,mushroom,small;brown;white;edible;wild;soft;earthy;poisonous;fresh;round
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,onion,white;yellow;strong;raw;fresh;small;sharp;pungent;sweet;peeled
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,pepper,red;green;spicy;hot;fresh;sweet;small;colorful;crisp;mild
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,potato,brown;fresh;small;large;starchy;raw;cooked;soft;peeled;nutritious
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;pink;lovely;romantic;soft;elegant
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,tomato,red;ripe;juicy;fresh;small;round;sweet;soft;raw;tasty
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Plants,tree,tall;old;green;big;strong;ancient;leafy;sturdy;bare;fruitful
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,ally,loyal;trusted;supportive;close;reliable;strong;helpful;valuable;friendly;dependable
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,brother,loving;protective;close;older;younger;supportive;funny;caring;annoying;loyal
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,enemy,dangerous;fierce;hated;powerful;cunning;ruthless;bitter;hostile;cruel;sneaky
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,father,loving;strict;caring;protective;wise;strong;kind;supportive;hardworking;gentle
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,follower,loyal;dedicated;faithful;eager;supportive;enthusiastic;devoted;trusting;obedient;active
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,friend,close;loyal;kind;funny;supportive;trusted;dear;old;reliable;caring
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,leader,strong;inspiring;confident;wise;powerful;charismatic;decisive;fair;bold;respected
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,mother,loving;caring;kind;gentle;protective;strong;wise;supportive;warm;patient
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,partner,loyal;supportive;loving;trusted;equal;reliable;close;committed;understanding;caring
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,rival,strong;competitive;tough;challenging;fierce;determined;hostile;persistent;ambitious;aggressive
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,sister,loving;close;supportive;funny;caring;older;younger;protective;annoying;kind
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Social Relationships,stranger,unknown;mysterious;suspicious;distant;unfamiliar;quiet;odd;foreign;silent;curious
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,above,high;clear;visible;bright;distant;far;upper;overhead;elevated;lofty
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,back,rear;hidden;strong;broad;straight;sore;lower;upper;exposed;supported
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,below,low;hidden;deep;close;dark;beneath;inferior;underground;submerged;lesser
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,east,distant;far;warm;exotic;ancient;cultural;rising;oriental;remote;traditional
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,front,forward;leading;visible;main;clear;open;first;central;exposed;prominent
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,inside,inner;hidden;warm;safe;cozy;dark;private;confined;secure;sheltered
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,left,remaining;opposite;western;awkward;liberal;spare;sidelined;neglected;abandoned;residual
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,north,cold;distant;far;upper;remote;harsh;polar;wild;rugged;northern
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,outside,external;open;fresh;cold;public;exposed;free;distant;natural;wild
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,right,correct;proper;eastern;conservative;just;fair;immediate;direct;suitable;appropriate
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,south,warm;far;lower;tropical;sunny;distant;southern;hot;exotic;remote
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Spatial Concepts,west,far;distant;wild;modern;sunset;cultural;western;open;remote;progressive
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,century,past;new;old;long;historic;modern;ancient;recent;golden;turning
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;cold;warm;quiet;tiring;special
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,evening,quiet;cool;dark;long;pleasant;relaxing;late;calm;beautiful;peaceful
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;golden;critical;final;precious
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,minute,quick;short;last;fleeting;precious;crucial;exact;brief;passing;tense
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;special;current;past;quiet
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,morning,early;bright;cool;quiet;fresh;sunny;busy;cold;peaceful;beautiful
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,night,dark;long;quiet;cold;late;starry;silent;scary;peaceful;restless
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,season,warm;cold;rainy;dry;long;short;favorite;busy;festive;harsh
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,second,quick;short;last;brief;fleeting;critical;precious;exact;passing;tense
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,week,long;short;busy;quiet;tiring;exciting;stressful;productive;special;hectic
+grok-3,basic,1.0,IT # Italian,C1,most frequent,Time Concepts,year,long;short;busy;successful;challenging;memorable;past;new;difficult;happy
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,anger,intense;fierce;burning;uncontrollable;deep;sudden;bitter;explosive;raw;overwhelming
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,courage,bold;fearless;brave;heroic;daring;valiant;strong;resolute;unwavering;admirable
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,fear,intense;paralyzing;deep;irrational;constant;overwhelming;dark;hidden;primal;chilling
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,freedom,absolute;true;cherished;hard-won;personal;boundless;liberating;precious;essential;inspiring
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,happiness,pure;genuine;immense;lasting;infectious;radiant;blissful;serene;joyful;heartfelt
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,hate,intense;bitter;deep-seated;fierce;consuming;toxic;relentless;passionate;destructive;blind
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,honesty,brutal;unwavering;sincere;transparent;absolute;refreshing;admirable;courageous;rare;consistent
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,justice,fair;impartial;strict;true;divine;overdue;swift;moral;righteous;hard-earned
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;practical;theoretical;essential;valuable;specialized;ancient
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,love,unconditional;passionate;tender;deep;eternal;selfless;romantic;genuine;enduring;powerful
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,peace,lasting;inner;serene;quiet;fragile;global;harmonious;calming;spiritual;elusive
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Abstract Concepts,wisdom,profound;timeless;ancient;practical;insightful;deep;invaluable;quiet;enlightened;thoughtful
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,bell,loud;clear;resonant;melodic;golden;ancient;heavy;small;decorative;solemn
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,candle,flickering;soft;warm;scented;tall;white;delicate;glowing;romantic;calming
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;elegant;worn;patterned;luxurious;cozy;traditional;plush
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;small;valuable;golden;silver;historical;worn;collectible
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,crown,golden;majestic;ornate;royal;heavy;jeweled;ancient;symbolic;glittering;ceremonial
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;tattered;symbolic;bold;historic;official;vibrant
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,mask,mysterious;colorful;intricate;eerie;traditional;frightening;decorative;hidden;ceremonial;elaborate
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,necklace,delicate;elegant;shiny;expensive;simple;beaded;silver;golden;long;cherished
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,painting,beautiful;vibrant;abstract;realistic;old;famous;detailed;expressive;colorful;stunning
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,ring,golden;silver;sparkling;elegant;simple;expensive;delicate;engraved;vintage;precious
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,statue,tall;ancient;marble;imposing;detailed;majestic;weathered;bronze;historical;grand
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Cultural Artifacts,vase,delicate;ornate;ceramic;tall;antique;colorful;fragile;decorative;elegant;floral
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;drifting;stormy;light;thick;wispy;looming
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;terrifying;destructive;violent;massive;unpredictable;catastrophic;alarming
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;eerie;cold;grey;heavy;obscuring;silent;creeping
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;fierce;jagged;powerful;dangerous;electric;blinding;dramatic;striking
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,rain,heavy;light;gentle;steady;cold;refreshing;torrential;drizzling;persistent;soothing
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,rainbow,colorful;vibrant;beautiful;bright;fleeting;magical;arched;stunning;rare;vivid
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,snow,soft;white;cold;heavy;fluffy;silent;thick;pristine;falling;powdery
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,storm,fierce;violent;dark;powerful;raging;sudden;dangerous;thunderous;wild;destructive
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rolling;distant;powerful;startling;ominous;resonant;deafening
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;relentless;calm;powerful;incoming;rhythmic;dangerous
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;fiery;dangerous;erupting;ancient;towering;deadly;smoky
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;gusty;brisk;wild;steady;biting
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;fresh;ripe;tart;shiny;firm
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;curved;fresh;tropical;healthy;spotted;mushy
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,beef,tender;juicy;lean;grilled;rare;medium;well-done;savory;marbled;fresh
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,bread,fresh;warm;crusty;soft;white;wholegrain;homemade;toasted;stale;sliced
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,broccoli,green;fresh;tender;healthy;steamed;raw;crisp;bitter;nutritious;vibrant
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,cheese,creamy;sharp;aged;soft;hard;melted;tangy;smelly;yellow;grated
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,chicken,roasted;grilled;tender;juicy;spicy;fried;lean;savory;golden;fresh
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;soft;hard;raw;organic
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,fish,fresh;grilled;raw;smoked;salty;flaky;white;oily;delicate;frozen
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,pasta,al dente;fresh;homemade;creamy;cheesy;spicy;tender;long;short;savory
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;fragrant;long-grain;short-grain;plain;seasoned
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Food Items,soup,hot;creamy;hearty;clear;savory;spicy;thick;comforting;homemade;nourishing
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,artist,creative;talented;passionate;innovative;famous;struggling;visionary;skilled;eccentric;inspired
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,athlete,strong;fast;dedicated;competitive;skilled;muscular;determined;disciplined;agile;talented
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,chef,skilled;creative;experienced;passionate;famous;innovative;meticulous;busy;professional;talented
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,doctor,caring;skilled;experienced;dedicated;compassionate;knowledgeable;busy;trusted;professional;wise
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,engineer,innovative;skilled;brilliant;practical;creative;analytical;experienced;precise;technical;resourceful
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,farmer,hardworking;dedicated;knowledgeable;rugged;patient;practical;early-rising;traditional;resilient;skilled
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,lawyer,sharp;persuasive;experienced;tough;knowledgeable;professional;articulate;dedicated;strategic;confident
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,musician,talented;passionate;skilled;creative;famous;dedicated;expressive;versatile;gifted;inspired
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;knowledgeable;precise;experimental;visionary;methodical
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;courageous;dedicated;tough;fearless;trained;honorable
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,teacher,patient;inspiring;knowledgeable;dedicated;caring;strict;supportive;wise;creative;influential
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Human Roles,writer,creative;talented;imaginative;prolific;insightful;passionate;famous;thoughtful;articulate;dedicated
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,book,old;thick;new;engaging;informative;heavy;worn;classic;paperback;fascinating
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,bridge,long;old;sturdy;narrow;high;wooden;modern;iconic;suspended;arched
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;deep;beaten;tribal;resonant;heavy;energetic;traditional
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,earth,vast;ancient;rich;fertile;blue;fragile;living;green;solid;dynamic
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,flute,delicate;melodic;wooden;silver;soft;high-pitched;ancient;elegant;clear;graceful
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,key,old;rusty;small;golden;important;spare;lost;shiny;heavy;mysterious
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,knife,sharp;long;dangerous;rusty;small;kitchen;serrated;shiny;pointed;deadly
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,lock,sturdy;old;rusty;secure;heavy;broken;small;hidden;reliable;ancient
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,moon,bright;full;pale;crescent;mysterious;glowing;silver;distant;magical;serene
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,pen,black;blue;elegant;cheap;old;fountain;ballpoint;smooth;heavy;reliable
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,sun,bright;hot;golden;blazing;warm;radiant;powerful;rising;setting;blinding
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;deadly;ornate;rusty;legendary;long;powerful;ceremonial
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,cat,playful;curious;lazy;fluffy;sleek;independent;soft;cuddly;agile;mischievous
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,dog,loyal;friendly;playful;protective;energetic;obedient;furry;happy;gentle;smart
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;friendly;sleek;fast;graceful;social;curious;acrobatic;charming
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,elephant,massive;gentle;strong;grey;majestic;wise;slow;powerful;ancient;protective
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,hamster,tiny;cute;furry;active;small;fluffy;shy;playful;cuddly;nocturnal
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,monkey,playful;curious;agile;mischievous;clever;loud;social;funny;energetic;cheeky
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,mouse,small;tiny;quick;shy;quiet;sneaky;cute;brown;timid;delicate
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,peacock,colorful;proud;beautiful;vibrant;majestic;elegant;striking;showy;ornate;exotic
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,rabbit,fluffy;cute;soft;quick;timid;white;playful;small;hopping;gentle
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,shark,dangerous;sleek;powerful;predatory;fast;fierce;deadly;grey;terrifying;silent
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,snake,slithery;dangerous;venomous;long;silent;sneaky;scaly;cold;coiled;deadly
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Neutral Animals,whale,massive;gentle;majestic;blue;enormous;powerful;slow;deep-diving;mysterious;singing
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,city,busy;crowded;modern;noisy;vibrant;historic;large;urban;lively;sprawling
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,desert,vast;arid;hot;sandy;empty;harsh;dry;endless;barren;silent
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,forest,dense;green;ancient;quiet;dark;lush;mysterious;vast;wild;thick
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,island,small;tropical;remote;beautiful;isolated;rocky;sandy;green;exotic;peaceful
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,lake,calm;clear;deep;blue;serene;still;cold;reflective;vast;peaceful
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,mountain,tall;rugged;snowy;steep;majestic;rocky;high;ancient;imposing;breathtaking
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,ocean,vast;deep;blue;powerful;endless;wild;mysterious;turbulent;calm;immense
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,plain,vast;flat;open;wide;empty;grassy;barren;endless;quiet;expansive
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,plateau,high;flat;vast;rocky;elevated;barren;wide;remote;ancient;windswept
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,river,long;winding;calm;rushing;wide;clear;deep;muddy;powerful;serene
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,valley,deep;green;narrow;fertile;quiet;hidden;lush;steep;beautiful;peaceful
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Places,village,small;quiet;quaint;rural;traditional;peaceful;friendly;remote;charming;simple
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,cactus,spiky;green;tall;desert;tough;prickly;hardy;dry;unique;resilient
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;tender;bitter;oval;ripe;healthy;firm
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,flower,colorful;fragrant;delicate;beautiful;bright;soft;blooming;small;vibrant;lovely
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,grass,green;lush;soft;tall;fresh;thick;dry;short;wild;dewy
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,lettuce,green;crisp;fresh;tender;leafy;light;healthy;raw;juicy;vibrant
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,mushroom,small;brown;edible;wild;soft;earthy;poisonous;white;delicate;fresh
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,onion,strong;pungent;white;yellow;sharp;raw;sweet;layered;fresh;spicy
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,pepper,spicy;red;green;hot;fresh;sweet;bold;colorful;crunchy;fiery
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,potato,brown;starchy;firm;fresh;boiled;baked;mashed;small;earthy;versatile
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,rose,red;fragrant;beautiful;delicate;thorny;elegant;blooming;romantic;soft;vibrant
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;sweet;firm;tangy;plump;vibrant
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Plants,tree,tall;old;green;sturdy;leafy;ancient;thick;bare;strong;majestic
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,ally,loyal;trusted;supportive;reliable;close;helpful;faithful;strong;valuable;dependable
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,brother,loving;protective;annoying;close;supportive;funny;older;younger;loyal;caring
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,enemy,dangerous;hostile;bitter;fierce;hated;cunning;powerful;relentless;sneaky;threatening
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,father,loving;strict;caring;supportive;wise;strong;protective;kind;hardworking;gentle
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,follower,loyal;dedicated;supportive;eager;obedient;faithful;enthusiastic;admiring;devoted;trusting
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,friend,close;loyal;kind;funny;supportive;trusted;caring;reliable;honest;dear
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,leader,strong;inspiring;confident;charismatic;wise;decisive;powerful;respected;visionary;bold
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,mother,loving;caring;nurturing;protective;kind;gentle;strong;wise;supportive;warm
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,partner,loving;supportive;trusted;equal;loyal;close;reliable;understanding;compatible;caring
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,rival,tough;competitive;challenging;fierce;strong;cunning;determined;persistent;formidable;intense
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,sister,loving;caring;annoying;supportive;close;funny;protective;older;younger;kind
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Social Relationships,stranger,unknown;mysterious;unfamiliar;suspicious;distant;odd;curious;random;unexpected;aloof
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,above,high;elevated;upper;overhead;towering;superior;lofty;raised;prominent;dominant
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,back,rear;behind;hidden;lower;distant;remote;posterior;secondary;unnoticed;supporting
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,below,lower;underneath;beneath;inferior;underground;submerged;hidden;lesser;deeper;subordinate
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,east,distant;oriental;rising;early;far;cultural;ancient;remote;exotic;traditional
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,front,leading;forward;main;primary;visible;prominent;central;foremost;open;direct
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;private;deep;contained;sheltered;secure;intimate
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,left,remaining;western;liberal;unused;abandoned;odd;spare;secondary;awkward;misplaced
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,north,cold;distant;upper;polar;remote;chilly;wild;rugged;northern;harsh
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,outside,external;outer;open;exposed;distant;public;free;surrounding;wild;visible
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,right,correct;eastern;proper;just;accurate;moral;conservative;fitting;immediate;suitable
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,south,warm;lower;tropical;distant;sunny;southern;hot;exotic;far;humid
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Spatial Concepts,west,distant;far;modern;wild;setting;western;progressive;remote;cultural;pioneering
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,century,past;new;old;twentieth;nineteenth;long;historic;ancient;distant;memorable
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,day,long;busy;sunny;rainy;short;cold;hot;quiet;tiring;memorable
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,evening,quiet;cool;dark;peaceful;late;relaxing;pleasant;calm;romantic;still
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;crucial;final;precious;fleeting
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,minute,quick;short;brief;last;fleeting;precious;exact;tense;critical;rushed
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,month,long;short;cold;hot;busy;quiet;rainy;final;memorable;past
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,morning,early;quiet;fresh;cool;bright;peaceful;busy;foggy;chilly;serene
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,night,dark;long;quiet;late;cold;starry;silent;restless;mysterious;peaceful
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,season,rainy;dry;cold;hot;long;short;busy;festive;transitional;harsh
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,second,quick;brief;fleeting;last;critical;short;precise;tense;vital;instant
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,week,long;busy;short;quiet;stressful;productive;tiring;eventful;relaxing;hectic
+grok-3,basic,1.0,IT # Italian,C2,most frequent,Time Concepts,year,long;past;new;memorable;difficult;successful;eventful;challenging;productive;happy
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,anger,intense;burning;fierce;uncontrollable;deep;raw;passionate;violent;sudden;bitter
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,courage,brave;fearless;bold;daring;heroic;valiant;strong;unwavering;resolute;determined
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,fear,intense;paralyzing;deep;overwhelming;irrational;constant;hidden;primal;cold;gripping
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,freedom,absolute;true;cherished;hard-won;precious;complete;personal;liberating;boundless;essential
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,happiness,pure;genuine;immense;lasting;simple;radiant;infectious;profound;warm;blissful
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,hate,deep;bitter;intense;burning;fierce;unrelenting;passionate;toxic;destructive;blind
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,honesty,brutal;raw;sincere;genuine;absolute;unwavering;transparent;pure;admirable;refreshing
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,justice,fair;impartial;true;strict;swift;moral;deserved;righteous;blind;equal
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;valuable;practical;essential;ancient;specialized;limitless
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,love,unconditional;deep;passionate;true;endless;pure;romantic;selfless;tender;eternal
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,peace,inner;lasting;serene;quiet;global;fragile;calm;profound;harmonious;tranquil
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Abstract Concepts,wisdom,ancient;profound;timeless;deep;practical;insightful;hard-earned;quiet;thoughtful;enlightened
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;golden;small;heavy;antique;melodic;shiny;brass;resonant
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,candle,flickering;soft;warm;scented;tall;white;glowing;delicate;romantic;dim
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;plush;worn;Persian;expensive;patterned;cozy;red
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;silver;small;valuable;ancient;golden;worn;collectible
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ornate;ancient;ceremonial;majestic;glittering;symbolic
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;torn;historic;bright;bold;symbolic;iconic
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,mask,mysterious;scary;colorful;wooden;traditional;eerie;hidden;decorative;painted;theatrical
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,necklace,elegant;gold;silver;delicate;long;beaded;expensive;sparkling;vintage;ornate
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,painting,beautiful;abstract;old;famous;vibrant;detailed;realistic;modern;colorful;expressive
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;simple;elegant;antique;shiny;engraved;precious;wedding
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,statue,ancient;tall;marble;bronze;imposing;detailed;historic;majestic;weathered;iconic
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Cultural Artifacts,vase,delicate;porcelain;tall;ornate;ancient;colorful;elegant;fragile;decorative;floral
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;white;dark;heavy;gray;thick;drifting;stormy;soft;towering
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;violent;massive;destructive;terrifying;rare;strong;catastrophic
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;eerie;gray;cold;mysterious;heavy;silent;creeping;blinding
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;dangerous;electric;jagged;brilliant;terrifying;vivid;striking
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;gentle;steady;cold;refreshing;sudden;torrential;soft;persistent
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,rainbow,bright;colorful;beautiful;vivid;fleeting;magical;arched;rare;vibrant;stunning
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;fresh;powdery;silent;thick;glistening;falling
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,storm,fierce;violent;dark;powerful;raging;sudden;dangerous;intense;thunderous;destructive
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rolling;powerful;distant;startling;ominous;resonant;deafening
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;rising;powerful;relentless;calm;incoming;outgoing;tidal
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;fiery;erupting;ancient;towering;deadly;smoking
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;gentle;howling;warm;fierce;gusty;constant;breezy;wild
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;fresh;ripe;shiny;tart;firm
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;mushy;bruised
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,beef,tender;juicy;grilled;rare;tough;fresh;lean;savory;cooked;marbled
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,bread,fresh;crusty;soft;warm;white;wholegrain;stale;sliced;homemade;toasted
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,broccoli,green;fresh;tender;healthy;steamed;raw;crisp;bitter;nutritious;small
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,cheese,creamy;sharp;melted;aged;soft;hard;tangy;yellow;smelly;rich
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,chicken,grilled;roasted;tender;juicy;fried;spicy;fresh;cooked;boneless;savory
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,egg,boiled;fried;fresh;white;brown;scrambled;raw;cracked;soft;hard
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,fish,fresh;grilled;raw;smoked;salty;flaky;white;oily;cooked;frozen
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,pasta,fresh;al dente;soft;homemade;long;short;creamy;spicy;Italian;cheesy
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;cooked;plain;savory;fragrant;soft
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Food Items,soup,hot;creamy;hearty;clear;spicy;homemade;thick;warm;savory;comforting
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,artist,talented;creative;famous;struggling;visionary;eccentric;skilled;innovative;passionate;inspired
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,athlete,strong;fast;dedicated;skilled;competitive;fit;powerful;determined;agile;disciplined
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,chef,skilled;creative;famous;passionate;innovative;professional;busy;talented;meticulous;experienced
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,doctor,compassionate;skilled;experienced;dedicated;caring;busy;knowledgeable;trusted;patient;professional
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,engineer,innovative;skilled;brilliant;technical;creative;precise;hardworking;experienced;analytical;resourceful
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,farmer,hardworking;dedicated;rural;tough;patient;skilled;traditional;resilient;practical;strong
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,lawyer,sharp;experienced;tough;persuasive;skilled;professional;dedicated;clever;assertive;successful
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,musician,talented;passionate;famous;skilled;creative;dedicated;expressive;gifted;versatile;inspired
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;intelligent;meticulous;knowledgeable;pioneering;focused
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;dedicated;tough;heroic;trained;resilient;fearless
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,teacher,patient;inspiring;dedicated;knowledgeable;kind;strict;supportive;wise;passionate;caring
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Human Roles,writer,talented;creative;famous;prolific;insightful;imaginative;skilled;passionate;expressive;dedicated
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;heavy;worn;classic;engaging
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,bridge,old;sturdy;long;high;wooden;stone;modern;narrow;iconic;suspended
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;deep;heavy;tribal;fast;beaten;resonant;dynamic
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,earth,vast;beautiful;ancient;fragile;rich;green;round;fertile;blue;living
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,flute,delicate;melodic;silver;wooden;soft;high-pitched;elegant;ancient;clear;enchanting
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,key,old;rusty;golden;small;heavy;shiny;vital;mysterious;lost;brass
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,knife,sharp;dangerous;small;large;rusty;shiny;serrated;kitchen;pointed;deadly
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,lock,old;rusty;secure;heavy;broken;small;sturdy;metal;tight;ancient
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,moon,bright;full;pale;crescent;distant;glowing;mysterious;white;silvery;enchanting
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,pen,black;blue;expensive;cheap;smooth;old;new;fountain;ballpoint;leaky
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,sun,bright;hot;warm;golden;blazing;shining;rising;setting;powerful;radiant
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;deadly;gleaming;rusty;legendary;long;ceremonial;forged
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,cat,fluffy;playful;curious;independent;sleek;lazy;black;white;friendly;mysterious
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;playful;protective;big;small;energetic;obedient;loving;furry
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,dolphin,friendly;intelligent;playful;sleek;fast;graceful;curious;social;wild;charming
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,elephant,massive;gentle;gray;strong;wise;slow;majestic;wild;powerful;wrinkled
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,hamster,small;cute;fluffy;active;tiny;furry;shy;playful;nocturnal;cuddly
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,monkey,playful;curious;agile;mischievous;wild;smart;funny;social;loud;clever
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,mouse,small;tiny;quiet;quick;shy;gray;sneaky;cute;timid;fast
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,peacock,colorful;proud;beautiful;vibrant;elegant;stunning;majestic;exotic;loud;striking
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,rabbit,cute;fluffy;fast;shy;white;small;timid;playful;soft;hopping
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,shark,dangerous;fierce;powerful;sleek;deadly;fast;predatory;gray;terrifying;wild
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,snake,slithery;dangerous;venomous;long;coiled;silent;deadly;green;scary;sleek
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Neutral Animals,whale,massive;gentle;blue;huge;majestic;deep;powerful;graceful;rare;singing
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,city,busy;crowded;modern;noisy;large;vibrant;historic;urban;sprawling;lively
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,desert,hot;dry;vast;barren;sandy;empty;harsh;quiet;endless;arid
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,forest,dense;green;dark;ancient;thick;mysterious;quiet;lush;wild;vast
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,island,small;tropical;remote;beautiful;deserted;lush;rocky;isolated;sandy;exotic
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,lake,calm;clear;deep;blue;still;cold;serene;large;quiet;reflective
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,mountain,tall;rugged;snowy;majestic;steep;high;rocky;ancient;towering;imposing
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,ocean,vast;deep;blue;wild;powerful;endless;calm;stormy;mysterious;cold
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,plain,flat;vast;open;green;endless;barren;wide;quiet;grassy;empty
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,plateau,high;flat;vast;rocky;barren;elevated;remote;dry;wide;ancient
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,river,long;wide;calm;rushing;clear;deep;winding;blue;powerful;muddy
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,valley,deep;green;narrow;lush;quiet;beautiful;hidden;steep;fertile;peaceful
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Places,village,small;quiet;remote;quaint;peaceful;rural;friendly;old;charming;simple
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,cactus,spiky;green;tall;dry;tough;desert;prickly;sturdy;sharp;resilient
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;soft;long;bitter;cooked;healthy;plump
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,flower,colorful;fragrant;delicate;beautiful;fresh;bright;small;wild;blooming;lovely
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,grass,green;soft;tall;fresh;thick;wet;dry;lush;short;wild
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,lettuce,fresh;crisp;green;leafy;light;healthy;tender;raw;cool;crunchy
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,mushroom,small;brown;white;edible;wild;soft;earthy;fresh;tiny;poisonous
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,onion,strong;pungent;raw;white;yellow;fresh;sharp;sweet;peeled;chopped
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,pepper,spicy;hot;red;green;sweet;fresh;mild;fiery;crunchy;roasted
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,potato,brown;starchy;fresh;soft;boiled;fried;mashed;small;large;peeled
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,rose,red;pink;beautiful;fragrant;delicate;thorny;fresh;blooming;elegant;romantic
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;soft;sweet;acidic;plump;firm
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Plants,tree,tall;old;green;sturdy;ancient;leafy;thick;barren;strong;majestic
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,ally,loyal;trusted;supportive;reliable;close;strong;helpful;faithful;valuable;dependable
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,brother,loving;protective;annoying;close;supportive;older;younger;funny;caring;loyal
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,enemy,fierce;dangerous;hostile;bitter;relentless;powerful;cunning;hated;formidable;threatening
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,father,loving;strict;supportive;caring;wise;strong;protective;kind;hardworking;patient
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;enthusiastic;supportive;faithful;eager;obedient;admiring;trusting;committed
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,friend,close;best;loyal;trusted;kind;funny;supportive;caring;reliable;dear
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,leader,strong;confident;inspiring;decisive;charismatic;wise;powerful;respected;bold;visionary
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;strict;kind;patient;protective;warm;selfless;supportive
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,partner,loyal;supportive;loving;trusted;reliable;equal;close;committed;caring;understanding
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,rival,fierce;tough;competitive;strong;challenging;bitter;persistent;formidable;aggressive;determined
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,sister,loving;annoying;supportive;close;caring;funny;protective;older;younger;kind
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Social Relationships,stranger,unknown;mysterious;distant;unfamiliar;odd;curious;suspicious;quiet;foreign;aloof
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,above,high;elevated;overhead;upper;lofty;towering;superior;distant;clear;bright
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,back,rear;behind;hidden;distant;lower;remote;past;supportive;strong;broad
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,below,lower;beneath;under;inferior;hidden;deep;submerged;bottom;underground;lesser
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,east,distant;rising;oriental;remote;ancient;warm;exotic;far;cultural;traditional
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,front,forward;leading;first;main;visible;open;prominent;central;bold;primary
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,inside,inner;hidden;internal;secret;private;warm;safe;enclosed;deep;personal
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,left,remaining;opposite;western;liberal;past;forgotten;stray;awkward;spare;sideways
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,north,cold;distant;upper;remote;wild;harsh;icy;rugged;polar;far
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,outside,external;outer;distant;open;exposed;wild;fresh;public;far;remote
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,right,correct;proper;eastern;just;true;moral;immediate;conservative;direct;accurate
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,south,warm;lower;tropical;distant;sunny;exotic;far;hot;rural;vibrant
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Spatial Concepts,west,far;distant;modern;wild;setting;pioneering;open;cultural;progressive;remote
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,century,past;new;old;long;historic;specific;ancient;modern;significant;recent
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,day,long;short;busy;bright;rainy;sunny;quiet;cold;hot;special
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,evening,quiet;cool;dark;late;calm;peaceful;romantic;long;pleasant;still
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;final;critical;precious;fleeting
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,minute,quick;short;last;precise;fleeting;exact;crucial;brief;passing;tense
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,month,long;short;cold;hot;busy;quiet;special;current;past;upcoming
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,morning,early;bright;cool;quiet;fresh;sunny;busy;calm;peaceful;new
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,night,dark;late;quiet;long;cold;still;mysterious;starry;sleepless;silent
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,season,cold;hot;wet;dry;long;short;favorite;changing;busy;festive
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,second,quick;brief;last;fleeting;precise;critical;short;passing;tense;split
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;stressful;exciting;normal;special;hectic;slow
+grok-3,basic,1.0,IT # Italian,Perfect,most frequent,Time Concepts,year,long;short;past;new;busy;memorable;significant;challenging;successful;recent

@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,anger,big;bad;hot;red;new;long;sudden;small;strong;sad
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,courage,big;strong;true;good;new;small;old;brave;first;much
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,fear,big;small;bad;new;dark;first;true;long;cold;hot
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,freedom,big;good;new;much;true;real;small;important;strong;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,happiness,big;good;new;true;real;great;much;small;long;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,hate,big;bad;much;strong;new;great;old;little;first;sad
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,honesty,good;big;true;real;important;great;much;small;new;long
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,justice,good;true;real;new;important;big;right;strong;fair;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,knowledge,big;good;new;much;important;real;true;small;great;long
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,love,big;good;new;true;real;strong;long;much;first;old
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,peace,big;good;new;long;real;true;much;important;strong;small
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Abstract Concepts,wisdom,big;good;new;true;much;real;great;small;important;long
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,bell,big;small;new;old;good;metal;loud;first;silver;church
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,candle,white;small;new;old;big;good;long;wax;first;church
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,carpet,red;new;big;small;old;good;long;thick;wool;blue
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,coin,gold;new;old;silver;small;big;round;first;one;two
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,crown,gold;new;old;big;small;silver;important;good;first;long
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,flag,new;big;red;small;national;good;first;long;old;white
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,mask,new;small;white;black;big;old;good;paper;scary;first
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,necklace,gold;new;silver;long;small;old;big;beautiful;first;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,painting,new;good;old;big;small;red;blue;first;beautiful;nice
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,ring,gold;new;silver;small;big;old;first;diamond;good;wedding
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,statue,big;new;old;small;white;good;bronze;first;stone;beautiful
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Cultural Artifacts,vase,new;old;glass;small;big;white;beautiful;first;blue;flower
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,cloud,white;big;dark;small;new;grey;black;first;long;high
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,earthquake,big;strong;new;bad;first;long;small;old;many;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,fog,big;thick;new;small;white;dark;bad;good;cold;first
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,lightning,bright;new;strong;first;long;big;small;quick;good;white
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,rain,big;hard;small;new;heavy;light;long;first;cold;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,rainbow,big;new;beautiful;good;first;small;long;nice;real;clear
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,snow,white;big;new;small;cold;heavy;light;first;good;much
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,storm,big;bad;strong;new;long;first;small;good;dark;much
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,thunder,loud;big;new;strong;bad;first;small;long;good;much
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,tide,high;low;big;new;strong;good;small;long;first;water
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,volcano,big;hot;new;strong;active;old;first;small;long;dangerous
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Environmental Phenomena,wind,big;strong;cold;new;small;hot;first;long;good;bad
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,apple,red;green;new;big;small;good;sweet;first;fresh;old
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,banana,yellow;new;big;small;good;sweet;fresh;first;long;old
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,beef,new;good;big;fresh;small;old;red;first;raw;cooked
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,bread,new;good;white;brown;fresh;big;small;first;old;long
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,broccoli,green;new;fresh;big;good;small;first;old;cooked;raw
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,cheese,yellow;new;old;good;big;small;white;first;hard;soft
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,chicken,new;good;big;small;white;cooked;fresh;first;old;fried
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,egg,white;new;big;small;good;fresh;first;brown;hard;old
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,fish,new;fresh;big;small;good;old;salt;cooked;first;white
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,pasta,new;big;small;good;long;dry;fresh;first;white;old
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,rice,white;new;big;small;good;long;first;cooked;brown;dry
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Food Items,soup,hot;new;good;big;small;first;chicken;vegetable;old;tasty
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,artist,good;new;famous;old;young;first;big;small;great;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,athlete,good;new;young;old;big;strong;first;famous;small;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,chef,good;new;famous;big;small;old;first;many;young;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,doctor,good;new;young;old;first;big;small;famous;great;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,engineer,good;new;big;old;young;first;important;great;small;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,farmer,good;new;old;small;big;first;many;young;hard;happy
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,lawyer,good;new;young;old;big;first;important;small;famous;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,musician,good;new;young;old;famous;first;big;small;great;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,scientist,good;new;big;old;young;first;important;small;great;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,soldier,new;young;big;strong;small;old;first;many;good;brave
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,teacher,good;new;young;old;first;big;small;many;great;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Human Roles,writer,good;new;young;old;famous;first;big;small;great;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,book,new;old;big;small;good;long;first;many;great;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,bridge,new;old;big;small;long;high;good;first;strong;stone
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,drums,big;loud;new;small;old;good;first;many;different;nice
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,earth,big;round;new;old;good;first;small;hot;dry;wet
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,flute,new;old;good;small;long;big;first;silver;wooden;nice
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,key,new;old;small;big;silver;gold;first;good;important;different
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,knife,new;old;small;big;sharp;good;first;metal;long;kitchen
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,lock,new;old;small;big;good;first;important;strong;different;metal
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,moon,big;new;full;small;bright;white;good;first;round;yellow
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,pen,new;good;black;blue;small;big;first;old;long;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,sun,big;hot;bright;new;good;first;small;old;yellow;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Inanimate Objects,sword,new;old;long;big;small;sharp;good;first;silver;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,cat,new;small;black;white;big;good;first;old;young;nice
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,dog,new;big;small;good;black;white;young;old;first;brown
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,dolphin,new;big;small;good;first;blue;grey;fast;clever;wild
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,elephant,big;grey;new;old;good;strong;wild;first;small;long
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,hamster,new;small;young;old;good;brown;big;first;pet;nice
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,monkey,new;small;big;young;good;brown;old;first;funny;wild
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,mouse,new;small;grey;old;good;white;big;first;wild;pet
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,peacock,beautiful;big;new;good;first;small;old;blue;green;nice
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,rabbit,new;small;big;white;brown;good;young;first;old;long
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,shark,big;new;grey;old;small;strong;dangerous;first;good;white
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,snake,long;new;small;big;green;old;good;dangerous;first;wild
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Neutral Animals,whale,big;new;grey;small;blue;old;good;first;long;white
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,city,big;new;old;small;important;good;first;many;different;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,desert,big;hot;dry;new;old;small;first;good;long;yellow
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,forest,big;green;new;old;good;dark;first;many;small;long
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,island,big;new;small;old;good;green;first;long;different;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,lake,big;new;blue;old;small;good;first;deep;long;different
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,mountain,big;high;new;old;good;small;first;long;green;brown
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,ocean,big;blue;deep;new;old;good;small;first;long;salt
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,plain,big;new;small;green;old;good;first;long;flat;different
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,plateau,big;high;new;old;small;good;first;long;dry;flat
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,river,big;new;long;small;old;good;first;blue;deep;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,valley,big;new;small;green;old;good;first;long;deep;different
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Places,village,new;small;old;good;quiet;big;first;many;different;nice
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,cactus,green;big;small;new;old;good;sharp;first;long;desert
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,eggplant,purple;big;new;small;old;good;first;long;different;cooked
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,flower,new;big;small;red;white;good;first;old;yellow;beautiful
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,grass,green;new;big;small;good;long;first;old;short;much
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,lettuce,green;new;big;small;good;fresh;first;old;long;short
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,mushroom,new;small;big;white;good;brown;first;old;different;wild
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,onion,white;new;big;small;good;old;first;different;strong;brown
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,pepper,new;red;big;small;good;green;first;hot;old;different
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,potato,new;big;small;brown;good;old;first;cooked;different;white
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,rose,red;new;beautiful;small;big;good;first;old;white;pink
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,tomato,red;new;big;small;good;old;first;cooked;fresh;different
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Plants,tree,big;green;new;old;small;tall;good;first;long;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,ally,new;good;big;small;strong;first;old;important;different;true
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,brother,new;big;small;old;good;first;young;elder;half;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,enemy,big;bad;new;old;strong;small;first;important;long;different
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,father,new;old;good;big;first;small;young;strong;real;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,follower,new;good;many;small;big;first;old;young;strong;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,friend,new;good;old;small;big;first;best;true;young;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,leader,new;good;strong;big;old;small;first;important;different;true
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,mother,new;old;good;big;small;first;young;strong;real;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,partner,new;good;big;small;old;first;important;business;different;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,rival,big;strong;new;old;small;first;important;good;bad;long
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,sister,new;small;big;old;good;first;young;elder;half;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Social Relationships,stranger,new;small;big;old;good;first;young;bad;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,above,high;new;small;big;old;good;first;long;important;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,back,new;small;big;old;good;first;long;strong;different;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,below,low;new;small;big;old;good;first;long;important;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,east,new;small;big;old;good;first;long;far;different;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,front,new;big;small;old;good;first;long;different;important;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,inside,new;small;big;old;good;first;long;important;dark;light
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,left,new;small;big;old;good;first;long;important;right;different
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,north,new;small;big;old;good;first;long;cold;far;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,outside,new;big;small;old;good;first;long;important;different;hot
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,right,new;small;big;old;good;first;long;important;left;true
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,south,new;small;big;old;good;first;long;hot;far;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Spatial Concepts,west,new;small;big;old;good;first;long;far;different;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,century,new;old;big;long;small;first;important;good;different;much
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,day,new;good;big;long;small;old;first;important;bad;different
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,evening,new;good;small;long;big;old;first;different;quiet;dark
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,hour,new;long;small;big;old;first;important;good;short;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,minute,new;small;long;big;old;first;important;good;short;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,month,new;long;big;small;old;first;good;different;important;many
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,morning,new;good;small;big;old;first;early;long;nice;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,night,new;big;dark;small;old;good;long;first;bad;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,season,new;good;long;small;big;old;first;different;important;hot
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,second,new;small;long;big;old;first;short;important;good;much
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,week,new;long;small;big;old;first;good;important;different;last
+gemini-2.0-flash,basic,2.0,JA # Japanese,B1,most frequent,Time Concepts,year,new;long;big;small;old;first;good;important;different;last
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,anger,big;strong;hot;bad;sudden;true;much;little;real;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,courage,true;great;real;strong;much;new;little;good;more;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,fear,big;much;little;strong;great;real;new;true;more;sudden
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,freedom,true;much;little;great;new;more;political;personal;social;economic
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,happiness,great;real;much;little;true;big;new;such;good;simple
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,hate,much;big;real;strong;little;great;sudden;true;such;more
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,honesty,great;true;real;much;little;more;simple;political;social;economic
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,justice,true;real;great;social;political;much;little;new;more;criminal
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,knowledge,much;great;real;true;new;little;scientific;good;more;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,love,great;true;real;big;much;little;more;new;deep;first
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,peace,great;true;real;new;much;little;world;more;good;lasting
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Abstract Concepts,wisdom,great;true;real;much;little;new;more;ancient;simple;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,bell,big;small;loud;new;old;golden;church;school;happy;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,candle,big;small;white;new;old;wax;red;burning;tall;short
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,carpet,big;small;red;new;old;thick;thin;soft;beautiful;woolen
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,coin,gold;silver;new;old;small;big;round;metal;rare;foreign
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,crown,gold;big;small;new;old;royal;diamond;beautiful;silver;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,flag,big;small;red;white;new;old;national;important;colorful;tall
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,mask,big;small;new;old;white;black;scary;strange;funny;medical
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,necklace,gold;silver;long;short;new;old;beautiful;diamond;pearl;metal
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,painting,big;small;new;old;beautiful;famous;important;red;blue;white
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,ring,gold;silver;small;big;new;old;diamond;wedding;metal;beautiful
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,statue,big;small;new;old;bronze;stone;white;famous;tall;beautiful
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Cultural Artifacts,vase,big;small;new;old;glass;beautiful;white;red;tall;round
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,cloud,big;small;white;black;grey;dark;rain;heavy;thick;new
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,earthquake,big;strong;real;bad;sudden;new;little;more;dangerous;first
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,fog,thick;dense;heavy;white;grey;dark;bad;real;much;little
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;quick;dangerous;bad;loud;real;much;big
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,rain,heavy;strong;little;much;new;bad;light;cold;big;long
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,rainbow,colorful;beautiful;big;small;new;double;true;real;more;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,snow,white;big;little;new;much;heavy;cold;soft;deep;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,storm,big;strong;bad;real;sudden;new;little;more;heavy;loud
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,thunder,loud;big;strong;bad;real;sudden;much;little;great;scary
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,tide,high;low;big;strong;new;much;little;real;more;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,volcano,big;tall;active;dormant;real;new;old;dangerous;important;famous
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Environmental Phenomena,wind,strong;big;cold;hot;new;little;much;great;north;east
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,apple,red;green;big;small;new;sweet;good;ripe;fresh;tasty
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,banana,yellow;big;small;new;ripe;sweet;good;fresh;tasty;soft
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,beef,red;big;new;fresh;good;cheap;expensive;lean;grilled;cooked
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,bread,white;brown;new;fresh;good;soft;hard;warm;whole;whole-wheat
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,broccoli,green;new;fresh;good;big;small;organic;raw;cooked;healthy
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,cheese,yellow;white;new;old;hard;soft;good;tasty;strong;mild
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,chicken,new;fresh;good;white;fried;roasted;grilled;boiled;cooked;cheap
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,egg,white;brown;new;fresh;raw;boiled;fried;good;big;small
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,fish,fresh;salt;good;cooked;fried;grilled;new;big;small;white
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,pasta,new;long;short;cooked;dry;good;white;wheat;big;small
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,rice,white;brown;new;cooked;dry;good;big;small;long;short
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Food Items,soup,hot;cold;good;new;fresh;homemade;big;small;thick;thin
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,artist,good;new;young;old;famous;important;local;talented;real;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,athlete,good;new;young;old;famous;important;professional;strong;talented;real
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,chef,good;new;young;old;famous;important;head;professional;local;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,doctor,good;new;young;old;famous;important;local;family;great;real
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,engineer,good;new;young;old;famous;important;civil;electrical;mechanical;local
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,farmer,good;new;young;old;local;small;big;real;hard;family
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,lawyer,good;new;young;old;famous;important;local;criminal;civil;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,musician,good;new;young;old;famous;important;local;talented;real;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,scientist,good;new;young;old;famous;important;great;real;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,soldier,good;new;young;old;brave;strong;important;great;local;first
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,teacher,good;new;young;old;famous;important;local;great;kind;strict
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Human Roles,writer,good;new;young;old;famous;important;local;talented;great;real
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,book,good;new;old;big;small;interesting;important;long;short;hard
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,bridge,big;new;old;long;short;important;stone;wood;steel;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,drums,big;small;new;old;loud;musical;African;different;such;hard
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,earth,big;small;new;old;round;good;real;dirty;clean;brown
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,flute,musical;new;old;long;short;good;beautiful;silver;wood;bamboo
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,key,small;big;new;old;important;golden;silver;metal;such;first
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,knife,sharp;big;small;new;old;metal;kitchen;important;dangerous;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,lock,small;big;new;old;important;strong;good;hard;key;master
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,moon,full;new;big;small;round;white;bright;dark;far;real
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,pen,blue;black;red;new;old;good;ballpoint;expensive;cheap;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,sun,big;hot;bright;strong;new;good;far;dangerous;important;warm
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Inanimate Objects,sword,long;sharp;new;old;metal;big;small;heavy;light;silver
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,cat,black;white;big;small;new;old;young;good;cute;stray
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,dog,big;small;black;white;new;old;young;good;friendly;stray
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,dolphin,big;small;grey;new;old;young;good;intelligent;playful;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,elephant,big;grey;new;old;young;African;Asian;large;strong;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,hamster,small;cute;new;young;little;brown;white;funny;playful;real
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,monkey,small;big;new;young;funny;intelligent;brown;black;playful;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,mouse,small;little;new;young;grey;white;brown;real;dangerous;scary
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,peacock,beautiful;colorful;big;new;old;such;good;real;important;Indian
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,rabbit,white;small;big;new;young;brown;cute;fluffy;soft;quick
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,shark,big;dangerous;new;old;grey;white;real;strong;important;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,snake,long;dangerous;new;old;big;small;green;black;brown;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Neutral Animals,whale,big;blue;new;old;real;grey;strong;important;such;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,city,big;new;old;important;modern;beautiful;large;small;historical;industrial
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,desert,big;hot;dry;sandy;new;old;empty;flat;wide;real
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,forest,big;green;thick;dark;new;old;deep;dense;large;small
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,island,big;small;new;old;tropical;beautiful;remote;deserted;volcanic;green
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,lake,big;small;deep;blue;new;old;fresh;clear;beautiful;natural
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,mountain,big;tall;high;new;old;snow;green;rocky;dangerous;difficult
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,ocean,big;blue;deep;new;old;salt;cold;warm;dangerous;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,plain,big;flat;new;old;green;open;empty;wide;grass;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,plateau,high;flat;big;new;old;wide;open;rocky;dry;barren
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,river,big;long;deep;new;old;fast;slow;dirty;clean;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,valley,green;big;deep;new;old;long;narrow;wide;beautiful;fertile
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Places,village,small;old;new;quiet;peaceful;traditional;rural;beautiful;such;real
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,cactus,green;big;small;new;old;tall;thorny;desert;spiky;dry
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,eggplant,purple;big;small;new;old;fresh;long;good;Italian;fried
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,flower,beautiful;colorful;new;small;big;fresh;good;wild;spring;white
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,grass,green;new;short;long;fresh;dry;good;thick;thin;real
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,lettuce,green;fresh;new;good;crisp;big;small;head;butter;romaine
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,mushroom,big;small;new;fresh;wild;edible;poisonous;brown;white;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,onion,white;yellow;new;fresh;big;small;red;raw;cooked;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,pepper,red;green;hot;new;fresh;small;big;sweet;spicy;black
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,potato,big;small;new;old;white;red;brown;fried;baked;mashed
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,rose,red;beautiful;new;old;fragrant;long;short;thorn;white;pink
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,tomato,red;big;small;new;fresh;ripe;green;raw;cooked;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Plants,tree,big;tall;green;new;old;strong;beautiful;long;short;thin
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,ally,good;strong;new;old;important;true;faithful;real;great;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,brother,big;small;new;young;old;little;real;half;step;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,enemy,big;strong;bad;real;new;old;dangerous;true;bitter;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,father,good;real;new;old;young;great;important;step;single;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,follower,good;new;young;old;true;loyal;many;great;small;few
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,friend,good;best;true;real;new;old;young;great;close;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,leader,good;strong;new;young;old;important;great;political;local;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,mother,good;real;new;old;young;great;important;step;single;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,partner,good;new;old;business;equal;legal;life;important;great;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,rival,big;strong;bad;new;old;young;good;real;important;true
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,sister,big;small;new;young;old;little;half;step;good;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Social Relationships,stranger,new;young;old;dangerous;strange;nice;kind;real;good;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,above,high;far;great;little;much;such;good;real;true;new
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,back,big;little;new;old;real;good;true;much;far;next
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,below,low;small;great;little;much;good;bad;such;real;new
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,east,far;middle;new;old;good;much;little;great;south;west
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,front,big;new;little;much;good;bad;great;old;real;main
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,inside,warm;cool;new;old;big;little;safe;good;dark;bright
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,left,right;far;much;little;good;bad;new;old;such;great
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,north,far;great;new;south;east;west;much;good;little;old
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,outside,cold;hot;new;old;big;little;good;bad;safe;dangerous
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,right,left;new;much;old;little;good;bad;strong;true;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,south,far;new;great;old;north;east;west;good;little;much
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Spatial Concepts,west,far;great;new;old;east;north;south;much;little;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,century,new;old;big;important;twentieth;twenty-first;long;first;last;next
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,day,good;bad;new;old;long;short;sunny;rainy;hot;cold
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,evening,good;new;long;quiet;beautiful;free;real;warm;cold;last
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,hour,long;short;new;old;happy;busy;real;first;last;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,minute,new;long;short;happy;last;first;much;real;little;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,month,new;old;last;next;first;happy;long;short;cold;hot
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,morning,good;new;long;sunny;happy;quiet;warm;early;real;old
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,night,good;new;long;dark;quiet;real;last;such;beautiful;cold
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,season,new;old;spring;summer;winter;autumn;dry;wet;good;bad
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,second,new;last;first;long;short;important;much;little;quick;slow
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,week,new;last;next;good;long;short;happy;busy;real;free
+gemini-2.0-flash,basic,2.0,JA # Japanese,B2,most frequent,Time Concepts,year,new;old;last;next;happy;good;bad;long;short;such
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,anger,great;bad;hot;cold;quiet;silent;sudden;slow;controlled;uncontrollable
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,courage,great;true;much;little;real;strong;moral;physical;new;old
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,fear,big;great;much;little;real;true;new;old;dark;sudden
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,freedom,real;true;much;little;great;national;personal;political;new;old
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,happiness,great;true;much;real;pure;simple;big;little;new;lasting
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,hate,great;much;true;real;strong;little;quiet;secret;open;pure
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,honesty,great;true;pure;simple;brutal;little;full;complete;partial;surprising
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,justice,social;fair;true;rough;equal;natural;new;old;legal;pure
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,knowledge,great;much;little;deep;wide;useful;general;secret;public;basic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,love,true;great;much;real;first;last;pure;deep;blind;brotherly
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,peace,world;long;lasting;real;true;uneasy;quiet;little;big;simple
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Abstract Concepts,wisdom,great;old;true;simple;little;practical;ancient;shared;personal;collective
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,bell,loud;big;small;church;school;door;hand;bicycle;broken;new
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,candle,white;red;small;big;tall;short;birthday;wax;scented;new
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,carpet,red;big;soft;old;new;Persian;Oriental;clean;dirty;expensive
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,coin,gold;silver;old;new;rare;valuable;lucky;small;big;round
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,crown,gold;silver;royal;big;small;heavy;light;new;old;jeweled
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,flag,national;red;white;blue;big;small;new;old;torn;waving
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,mask,black;white;paper;plastic;new;old;scary;funny;plain;painted
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;long;short;broken;cheap;expensive;new
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,painting,famous;old;new;beautiful;colorful;big;small;oil;watercolor;impressionist
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;small;big;broken;cheap;expensive;simple
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,statue,stone;bronze;marble;tall;big;small;new;old;famous;Greek
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Cultural Artifacts,vase,glass;ceramic;tall;short;big;small;new;old;expensive;broken
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,cloud,white;dark;grey;big;small;heavy;light;rain;passing;stormy
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,earthquake,big;strong;little;weak;new;recent;major;minor;unexpected;sudden
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,fog,thick;heavy;dense;light;thin;morning;early;late;ground;sea
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;forked;dangerous;close;distant;summer;silent;surprising
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;cold;warm;acid;constant;steady;gentle
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;full;double;small;large;faint;clear;partial
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,snow,heavy;light;wet;dry;deep;fresh;new;falling;blowing;melting
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,storm,big;strong;heavy;bad;coming;passing;new;electrical;violent;unexpected
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,thunder,loud;big;booming;distant;rolling;echoing;surprising;deep;faint;low
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,tide,high;low;spring;neap;strong;weak;incoming;outgoing;daily;natural
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,volcano,active;dormant;erupting;big;small;dangerous;volcanic;hot;steaming;nearby
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;north;south;east;west;gentle;harsh
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,apple,red;green;sweet;sour;big;small;juicy;ripe;rotten;delicious
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,banana,yellow;green;ripe;sweet;soft;hard;small;big;delicious;overripe
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,beef,raw;cooked;tender;tough;ground;roast;cheap;expensive;lean;aged
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,bread,white;brown;whole;fresh;stale;toasted;buttered;soft;hard;moldy
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,broccoli,green;fresh;steamed;raw;cooked;little;big;healthy;boiled;frozen
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,cheese,yellow;white;hard;soft;old;new;Swiss;cheddar;Italian;stinky
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,chicken,fried;roasted;grilled;boiled;raw;cooked;small;big;whole;boneless
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,egg,white;brown;raw;cooked;fried;boiled;scrambled;small;big;fresh
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,fish,fresh;cooked;raw;grilled;fried;small;big;salty;freshwater;saltwater
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,pasta,white;wheat;long;short;cooked;raw;dry;fresh;Italian;cheap
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,rice,white;brown;long;short;cooked;raw;steamed;fried;sticky;fluffy
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Food Items,soup,hot;cold;thick;thin;chicken;vegetable;tomato;creamy;homemade;canned
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,artist,famous;talented;young;old;new;local;freelance;starving;good;bad
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,athlete,professional;amateur;young;old;injured;new;talented;strong;fast;olympic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,chef,famous;talented;young;old;new;French;Italian;head;sous;executive;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,doctor,good;bad;young;old;new;family;general;medical;famous;respected
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;new;young;old;good;talented;experienced
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,farmer,local;young;old;new;small;big;rich;poor;experienced;modern
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,lawyer,good;bad;young;old;new;corporate;criminal;defense;successful;experienced
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,musician,talented;famous;young;old;new;local;street;professional;good;bad
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,scientist,famous;young;old;new;leading;research;brilliant;mad;important;good
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,soldier,young;old;brave;injured;new;veteran;active;good;dead;living
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,teacher,good;bad;young;old;new;school;head;classroom;helpful;patient
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Human Roles,writer,good;bad;young;old;new;famous;published;best-selling;freelance;experienced
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,book,good;bad;new;old;big;small;long;short;interesting;boring
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,bridge,long;old;new;big;small;famous;suspension;stone;wooden;concrete
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,drums,loud;big;small;new;old;electric;acoustic;jazz;snare;bass
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,earth,big;round;new;old;dry;wet;green;brown;dirty;clean
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,flute,wooden;silver;long;short;new;old;classical;bamboo;piccolo;recorder
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,key,new;old;lost;found;small;big;important;right;wrong;spare
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,knife,sharp;dull;small;big;kitchen;hunting;pocket;new;old;serrated
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,lock,new;old;broken;strong;weak;big;small;key;combination;padlock
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,moon,full;new;bright;dark;big;small;crescent;half;rising;setting
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,pen,black;blue;red;new;old;good;cheap;expensive;ballpoint;fountain
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,sun,bright;hot;strong;warm;big;small;setting;rising;morning;afternoon
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Inanimate Objects,sword,long;short;sharp;old;new;samurai;broad;rusty;broken;antique
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,cat,black;white;small;big;young;old;fat;thin;stray;house
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,dog,big;small;young;old;black;white;friendly;stray;house;loyal
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,dolphin,gray;small;big;young;old;friendly;playful;wild;captive;trained
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,elephant,big;gray;african;indian;young;old;wild;trained;gentle;huge
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,hamster,small;cute;furry;young;old;golden;brown;pet;cage;tiny
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,monkey,small;big;young;old;funny;cute;playful;wild;trained;smart
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,mouse,small;gray;brown;young;old;wild;house;cute;tiny;laboratory
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;big;small;young;old;male;female;proud;exotic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,rabbit,white;brown;small;big;young;old;wild;tame;cute;fluffy
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,shark,big;dangerous;white;gray;small;young;old;wild;fierce;powerful
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,snake,long;dangerous;venomous;big;small;green;brown;black;wild;pet
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Neutral Animals,whale,big;blue;gray;small;young;old;wild;gentle;baleen;toothed
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,city,big;small;old;new;modern;ancient;busy;quiet;capital;coastal
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,desert,hot;dry;sandy;big;small;empty;vast;arid;rocky;new
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,forest,big;green;old;dark;dense;new;national;amazon;pine;deciduous
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,island,small;big;tropical;deserted;new;old;volcanic;green;remote;beautiful
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,lake,big;small;deep;shallow;blue;clear;fresh;salt;new;old
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,mountain,big;tall;high;small;old;new;snow;rocky;green;volcanic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,ocean,big;blue;deep;cold;warm;salty;new;old;pacific;atlantic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,plain,flat;wide;open;green;grassy;new;old;vast;empty;coastal
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,plateau,high;flat;large;arid;rocky;desert;mountainous;elevated;ancient;scenic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,river,long;big;small;deep;shallow;clean;dirty;fast;slow;wide
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,valley,green;wide;narrow;deep;scenic;beautiful;agricultural;river;small;fertile
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Places,village,small;quiet;old;new;rural;traditional;charming;remote;poor;simple
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,cactus,green;tall;small;desert;thorny;prickly;blooming;saguaro;barrel
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,eggplant,purple;big;small;fresh;ripe;raw;cooked;grilled;baked;sliced
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,flower,beautiful;colorful;small;big;red;white;yellow;fresh;dried;blooming
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,grass,green;short;tall;dry;wet;fresh;cut;long;lawn;wild
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,lettuce,green;fresh;crisp;small;big;romaine;iceberg;salad;loose;baby
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,mushroom,white;brown;wild;edible;poisonous;small;big;fresh;dried;sliced
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,onion,white;yellow;red;small;big;raw;cooked;sliced;sweet;spicy
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,pepper,red;green;black;hot;spicy;sweet;small;big;ground;fresh
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,potato,white;red;small;big;new;old;cooked;mashed;fried;baked
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,rose,red;white;pink;beautiful;fragrant;thorny;long-stemmed;short;fresh;blooming
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,tomato,red;green;small;big;fresh;ripe;juicy;sliced;canned;dried
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Plants,tree,tall;big;small;green;old;new;strong;oak;pine;apple
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,ally,strong;great;close;true;important;political;new;old;reliable;powerful
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,brother,young;old;big;small;elder;younger;step;half;adopted;best
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,enemy,great;bitter;mortal;sworn;old;new;dangerous;strong;weak;hidden
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,father,old;young;great;good;bad;step;foster;adoptive;single;absent
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,follower,loyal;faithful;ardent;strong;new;old;many;few;blind;reluctant
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,friend,good;best;close;old;new;true;dear;helpful;loyal;important
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,leader,strong;good;bad;great;political;new;old;effective;charismatic;respected
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,mother,young;old;good;great;step;adoptive;single;working;new;biological
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,partner,business;life;equal;new;old;dance;crime;tennis;loyal;trusted
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,rival,fierce;bitter;strong;new;old;close;friendly;political;sporting;main
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,sister,young;old;big;small;elder;younger;step;half;adopted;best
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Social Relationships,stranger,new;total;complete;dark;odd;strange;silent;passing;suspicious;helpful
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,above,mentioned;stated;listed;normal;average;sea;ground;usual;high;general
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,back,old;new;good;bad;stiff;sore;lower;upper;front;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,below,mentioned;listed;normal;average;sea;ground;usual;zero;freezing;standard
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,east,far;middle;near;wild;east;west;northern;southern;urban;developing
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,front,new;old;good;bad;main;whole;first;south;store;big
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,inside,deep;new;clean;dirty;warm;cold;dark;dry;comfortable;secure
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,left,new;old;main;far;center;turning;right;middle;political;opposite
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,north,far;near;new;old;cold;wild;northern;east;west;main
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,outside,cold;warm;new;old;main;wide;small;big;front;inside
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,right,new;old;main;far;close;opposite;wrong;voting;strong;correct
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,south,far;new;old;main;tropical;north;eastern;western;wealthy;developing
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Spatial Concepts,west,wild;far;mid;old;north;southern;wealthy;inner;rural;western
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,century,new;old;twentieth;twenty-first;eighteenth;nineteenth;upcoming;bygone;whole;first
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,day,good;bad;new;old;long;short;sunny;rainy;hot;cold
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,evening,good;quiet;new;cold;clear;dark;pleasant;busy;nice;beautiful
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,hour,long;short;last;next;early;late;golden;new;quiet;crucial
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,minute,small;long;last;next;few;several;little;precious;critical;golden
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,month,last;next;whole;first;few;spring;summer;autumn;winter;full
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,morning,good;early;late;cold;foggy;clear;bright;sunny;new;quiet
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,night,dark;quiet;new;good;bad;cold;warm;long;short;peaceful
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,season,new;old;spring;summer;autumn;winter;rainy;dry;holiday;long
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,second,split;short;long;brief;few;golden;new;last;next;quiet
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,week,new;last;next;whole;good;bad;long;short;full;busy
+gemini-2.0-flash,basic,2.0,JA # Japanese,C1,most frequent,Time Concepts,year,new;old;good;bad;last;next;whole;full;happy;leap
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,anger,righteous;intense;simmering;blind;bitter;cold;suppressed;uncontrolled;sudden;fleeting
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,courage,quiet;remarkable;inner;steadfast;foolhardy;selfless;unexpected;bold;calculated;moral
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,fear,irrational;paralysing;unfounded;deep-seated;overwhelming;genuine;abject;common;vague;primal
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,freedom,personal;fundamental;conditional;guaranteed;ultimate;limited;economic;hard-won;national;individual
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,happiness,simple;genuine;fleeting;enduring;infectious;childlike;quiet;conditional;unexpected;complete
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,hate,blind;consuming;irrational;simmering;visceral;seething;unadulterated;inherited;profound;petty
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,honesty,brutal;refreshing;complete;unquestionable;naive;genuine;surprising;partial;scrupulous;simple
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,justice,blind;rough;social;restorative;retributive;fair;true;swift;equal;delayed
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,knowledge,practical;theoretical;specialized;extensive;imperfect;tacit;expert;common;limited;deep
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,love,unconditional;requited;forbidden;unrequited;puppy;maternal;fraternal;sibling;enduring;deep
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,peace,lasting;fragile;uneasy;temporary;inner;global;complete;elusive;cold;armed
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Abstract Concepts,wisdom,acquired;accumulated;practical;ancient;intuitive;discerning;traditional;inner;profound;collective
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,bell,clear;loud;church;warning;small;bicycle;school;door;ringing;golden
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,candle,beeswax;scented;lit;extinguished;tall;short;votive;ornamental;dripped;colourful
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,carpet,oriental;Persian;shaggy;woollen;patterned;rolled;new;old;expensive;worn
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,coin,gold;silver;commemorative;foreign;lucky;rare;antique;shiny;worn;ancient
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,crown,jeweled;golden;royal;heavy;bejeweled;ceremonial;simple;historical;inherited;symbolic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,flag,national;tattered;waving;white;red;historical;vibrant;patriotic;rectangular;flown
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,mask,Venetian;surgical;oxygen;painted;ornate;protective;scary;tribal;concealing;theatrical
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,necklace,pearl;gold;silver;beaded;diamond;antique;delicate;statement;costume;charm
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,painting,oil;watercolor;abstract;framed;landscape;portrait;impressionist;renaissance;unframed;detailed
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,ring,engagement;wedding;gold;silver;diamond;signet;ornate;antique;simple;ruby
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,statue,bronze;marble;stone;classical;imposing;ancient;broken;public;religious;lifelike
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Cultural Artifacts,vase,glass;ceramic;porcelain;tall;short;decorative;antique;broken;flower-filled;empty
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,cloud,dark;white;fluffy;grey;ominous;gathering;rain;thunder;passing;distant
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,earthquake,powerful;devastating;recent;major;aftershock;tremor;catastrophic;unpredictable;local;strong
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,fog,thick;dense;pea-soup;swirling;morning;coastal;lingering;freezing;lifting;patchy
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,lightning,forked;bright;sheet;distant;sudden;terrifying;jagged;electrical;reflected;St. Elmo's Fire
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;torrential;acid;persistent;cold;warm;unexpected;driving
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,rainbow,colourful;faint;vibrant;double;arched;full;fleeting;bright;distant;ethereal
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,snow,heavy;falling;fresh;deep;powdery;drifting;light;wet;melting;pristine
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,storm,electrical;severe;raging;tropical;winter;brewing;passing;violent;approaching;destructive
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;echoing;crashing;deafening;rolling;approaching;deep;ominous
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,tide,high;low;spring;neap;incoming;outgoing;strong;rising;falling;predictable
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;erupting;smoking;towering;dangerous;volcanic;remote;ash-covered
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Environmental Phenomena,wind,strong;gusty;gentle;chilling;warm;prevailing;constant;light;easterly;westerly
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,apple,red;green;crisp;juicy;ripe;sour;sweet;tart;Granny Smith;Fuji
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,banana,ripe;yellow;green;overripe;mushy;sweet;Cavendish;plantain;fresh;sliced
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,beef,tender;lean;ground;raw;cooked;prime;grilled;roasted;tough;marbled
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,bread,fresh;wholemeal;white;sliced;toasted;stale;crusty;sourdough;homemade;gluten-free
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,broccoli,fresh;green;steamed;raw;cooked;tender;frozen;organic;healthy;chopped
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,cheese,cheddar;parmesan;strong;mild;grated;sliced;creamy;mature;swiss;hard
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,chicken,fried;grilled;roasted;cooked;raw;tender;skinless;boneless;free-range;organic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,egg,fried;boiled;scrambled;raw;cracked;broken;organic;free-range;runny;hard-boiled
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,fish,fresh;grilled;fried;raw;smoked;cooked;bony;saltwater;freshwater;expensive
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,pasta,spaghetti;penne;cooked;dried;fresh;durum;wholewheat;stuffed;al dente;homemade
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,rice,white;brown;basmati;cooked;fried;sticky;boiled;long-grain;short-grain;wild
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Food Items,soup,chicken;vegetable;hot;cold;homemade;thick;thin;creamy;hearty;tomato
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,artist,struggling;talented;famous;unknown;local;contemporary;prolific;visual;starving;aspiring
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,athlete,professional;amateur;Olympic;talented;dedicated;injured;competitive;successful;young;aging
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,chef,head;sous;experienced;Michelin-starred;talented;celebrity;renowned;passionate;creative;local
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,doctor,experienced;general;specialist;qualified;trainee;junior;senior;on-call;caring;dedicated
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,engineer,civil;electrical;mechanical;qualified;experienced;structural;software;junior;senior;consulting
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,farmer,local;small;independent;family;organic;traditional;struggling;retired;modern;hardworking
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,lawyer,corporate;criminal;experienced;qualified;defense;prosecuting;senior;junior;reputable;legal-aid
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,musician,talented;local;professional;struggling;accomplished;experienced;session;orchestral;famous;upcoming
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,scientist,leading;research;brilliant;renowned;young;promising;experimental;qualified;academic;dedicated
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,soldier,brave;young;experienced;injured;returning;active-duty;decorated;disciplined;dedicated;conscripted
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,teacher,experienced;dedicated;qualified;enthusiastic;patient;inspiring;young;retired;new;substitute
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Human Roles,writer,aspiring;published;unknown;successful;famous;creative;talented;freelance;ghost;professional
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,book,interesting;new;old;paperback;hardcover;used;leather-bound;best-selling;popular;fictional
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,bridge,wooden;stone;steel;suspension;old;new;arched;collapsing;sturdy;iconic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,drums,loud;snare;bass;percussion;acoustic;electronic;marching;jazz;tribal;tuned
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,earth,brown;dry;fertile;barren;cracked;loose;wet;rocky;scorched;plowed
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,flute,wooden;silver;bamboo;sweet;classical;piccolo;alto;concert;shrill;reedy
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,key,brass;spare;rusty;lost;secret;skeleton;master;ignition;digital;car
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,knife,sharp;blunt;kitchen;pocket;hunting;Swiss Army;butter;serrated;steak;dull
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,lock,pad;key;combination;secure;rusty;broken;electronic;complicated;simple;door
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,moon,full;crescent;bright;waning;waxing;dark;gibbous;new;harvest;sliver
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,pen,blue;black;red;ballpoint;fountain;rollerball;cheap;expensive;working;dry
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,sun,bright;hot;warm;setting;rising;morning;afternoon;summer;winter;weak
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Inanimate Objects,sword,sharp;long;ancient;medieval;samurai;ceremonial;steel;broken;rusty;dull
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,cat,black;white;ginger;stray;fluffy;playful;lazy;fat;skinny;feral
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,dog,loyal;friendly;playful;big;small;golden;black;brown;trained;stray
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,dolphin,playful;intelligent;friendly;grey;bottlenose;trained;wild;captive;leaping;aquatic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,elephant,large;grey;African;Asian;wild;captive;gentle;old;young;trained
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,hamster,small;furry;cute;golden;Syrian;dwarf;caged;nocturnal;active;pet
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,monkey,playful;mischievous;small;clever;trained;wild;curious;social;agile;chattering
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,mouse,small;grey;wild;pet;lab;squeaky;brown;timid;white;field
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,peacock,colourful;beautiful;vibrant;proud;iridescent;displaying;male;female;wild;strutting
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,rabbit,fluffy;white;brown;wild;pet;domesticated;timid;long-eared;floppy-eared;scared
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,shark,great white;dangerous;predatory;sharp-toothed;swimming;fierce;oceanic;circling;hungry;sleek
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,snake,venomous;poisonous;long;green;brown;coiled;slithering;grass;garden;harmless
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Neutral Animals,whale,large;blue;humpback;migrating;singing;deep;breaching;baleen;orca;toothed
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,city,big;busy;modern;historical;sprawling;vibrant;coastal;ancient;industrial;bustling
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,desert,arid;dry;hot;sandy;barren;vast;desolate;rocky;windswept;unforgiving
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,forest,dense;green;ancient;lush;dark;coniferous;deciduous;enchanted;sprawling;wild
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,island,tropical;deserted;small;volcanic;inhabited;remote;exotic;beautiful;idyllic;sunny
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,lake,clear;deep;still;calm;frozen;blue;large;small;glacial;polluted
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,mountain,high;snow-capped;majestic;rugged;rocky;steep;tall;imposing;distant;volcanic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,ocean,vast;deep;blue;turbulent;pacific;atlantic;indian;frozen;dark;unexplored
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,plain,flat;vast;open;grassy;arid;treeless;sweeping;endless;rolling;fertile
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,plateau,high;flat;arid;rocky;elevated;vast;table-top;wind-swept;isolated;barren
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,river,wide;flowing;fast;slow;deep;shallow;winding;muddy;polluted;clear
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,valley,green;fertile;wide;narrow;deep;scenic;winding;mountainous;hidden;picturesque
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Places,village,small;quiet;rural;peaceful;traditional;picturesque;friendly;charming;remote;quaint
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,cactus,prickly;spiny;desert;tall;short;green;flowering;saguaro;prickly pear;thorny
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,eggplant,purple;long;oval;fresh;grilled;fried;roasted;stuffed;shiny;raw
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,flower,beautiful;colourful;fragrant;delicate;fresh;blooming;wilting;dried;wild;exotic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,grass,green;long;short;wet;dry;lush;freshly-cut;trampled;wild
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,lettuce,green;crisp;fresh;leafy;romaine;iceberg;butterhead;wilting;organic;hydroponic
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,mushroom,edible;poisonous;wild;cultivated;fresh;dried;button;portobello;sliced;sautéed
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,onion,white;yellow;red;raw;cooked;sliced;fried;chopped;sweet;pungent
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,pepper,black;white;red;hot;sweet;bell;spicy;ground;whole;pickled
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,potato,white;red;baked;fried;mashed;boiled;roasted;peeled;new;sweet
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,rose,red;pink;white;fragrant;thorned;blooming;wilted;cut;dried;hybrid
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,tomato,red;ripe;fresh;juicy;sliced;diced;cooked;green;canned;heirloom
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Plants,tree,tall;old;green;leafy;deciduous;coniferous;sturdy;strong;bare;bare-rooted
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,ally,strong;reliable;steadfast;loyal;political;powerful;unexpected;longtime;trusted;fair-weather
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,brother,older;younger;little;big;half;step;beloved;annoying;protective;estranged
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,enemy,sworn;bitter;formidable;powerful;unexpected;arch;hated;political;ruthless;secret
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,father,loving;stern;absent;biological;step;adoptive;protective;strict;wise;elderly
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,follower,loyal;devoted;enthusiastic;ardent;blind;online;reluctant;active;passive;former
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,friend,close;best;loyal;old;childhood;good;true;supportive;reliable;casual
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,leader,strong;effective;charismatic;visionary;political;corrupt;democratic;autocratic;inspirational;popular
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,mother,loving;caring;protective;step;adoptive;single;working;biological;stay-at-home;elderly
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,partner,business;life;legal;romantic;domestic;equal;unequal;trusted;loyal;former
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,rival,fierce;friendly;longtime;main;tough;bitter;political;sporting;academic;worthy
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,sister,older;younger;little;big;half;step;annoying;loving;protective;beloved
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Social Relationships,stranger,strange;unknown;passing;friendly;helpful;suspicious;curious;observant;harmless;dangerous
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,above,high;clear;directly;far;always;slightly;just;much;right;generally
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,back,lower;upper;strong;weak;sore;aching;straight;hunched;broken;broad
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,below,directly;ground;average;sea-level;normal;acceptable;par;slightly;right;barely
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,east,far;due;northeast;southeast;central;mid;western;northern;southern;outer
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,front,immediate;direct;facing;far;battle;western;eastern;right;whole;open
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,inside,inner;deep;warm;stuffy;quiet;bright;dark;protected;familiar;cold
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,left,far;direct;immediate;near;only;alone;hand;right;upper;lower
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,north,far;cold;distant;northern;arctic;polar;prevailing;due;true;northwest
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,outside,cold;sunny;outer;public;internal;visible;invisible;private;direct;always
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,right,legal;human;fundamental;wrong;hand;far;exact;close;same;upper
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,south,far;hot;southern;warm;distant;true;prevailing;deep;outer;wild
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Spatial Concepts,west,wild;far;southwest;mid;american;right;central;outer;direct;deep
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,century,20th;21st;long;past;recent;turning;new;old;first;modern
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,day,sunny;long;short;busy;lazy;typical;every;good;bad;final
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,evening,beautiful;quiet;early;late;warm;cool;summer;winter;rainy;peaceful
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,hour,early;late;long;short;golden;spare;busy;free;fixed;precious
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,minute,fleeting;spare;long;short;crucial;precious;agonizing;anxious;passing;remaining
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,month,long;short;summer;winter;first;last;coming;previous;whole;fiscal
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,morning,early;cold;clear;crisp;beautiful;typical;good;every;summer;foggy
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,night,dark;long;cold;warm;clear;still;silent;quiet;peaceful;every
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,season,summer;winter;spring;autumn;rainy;dry;long;short;off;peak
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,second,split;brief;fleeting;golden;micro;every;first;only;last;crucial
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,week,busy;long;short;previous;coming;every;whole;working;academic;trial
+gemini-2.0-flash,basic,2.0,JA # Japanese,C2,most frequent,Time Concepts,year,long;short;last;next;whole;financial;academic;good;bad;current
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,anger,great;bad;deep;cold;hot;righteous;burning;quiet;sudden;uncontrolled
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,courage,great;strong;true;moral;inner;quiet;blind;amazing;unexpected;extraordinary
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,fear,great;deep;real;irrational;abject;unfounded;constant;lingering;crippling;mortal
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,freedom,great;true;individual;national;basic;limited;unrestricted;hard-won;precious;fundamental
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,happiness,great;simple;pure;unexpected;perfect;quiet;true;boundless;fleeting;infectious
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,hate,great;blind;consuming;deep-seated;bitter;intense;irrational;mutual;raw;unconcealed
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,honesty,great;complete;brutal;painful;refreshing;admirable;simple;basic;essential;uncompromising
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,justice,true;equal;fair;rough;blind;social;restorative;environmental;economic;swift
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,knowledge,great;basic;common;vast;practical;technical;secret;special;empirical;specialized
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,love,great;true;unconditional;deep;puppy;motherly;selfless;blind;eternal;forbidden
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,peace,great;lasting;fragile;uneasy;relative;world;inner;negotiated;tentative;ephemeral
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Abstract Concepts,wisdom,great;practical;acquired;accumulated;ancient;inherent;proverbial;conventional;divine;intuitive
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,bell,loud;small;big;old;church;hand;silver;golden;clear;warning
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,candle,small;tall;white;wax;scented;burning;flickering;birthday;emergency;votive
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,carpet,red;thick;Persian;oriental;woolen;patterned;worn;new;floor;area
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,coin,small;gold;silver;old;valuable;rare;counterfeit;commemorative;lucky;antique
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,crown,gold;silver;jeweled;royal;ancient;simple;ceremonial;bejeweled;ornate;iconic
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;waving;flying;battle;signal;checkered;confederate
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,mask,black;white;plastic;paper;protective;surgical;Halloween;costume;oxygen;anonymity
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;diamond;pearl;beaded;simple;statement;costume;delicate;vintage
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,painting,beautiful;abstract;oil;water;famous;old;modern;landscape;portrait;framed
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;promise;simple;ruby;engraved;signet;championship
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,statue,stone;bronze;marble;tall;large;commemorative;religious;famous;garden;imposing
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Cultural Artifacts,vase,glass;ceramic;porcelain;tall;blue;decorative;antique;flower;simple;elegant
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,cloud,white;grey;dark;rain;storm;thunder;fluffy;scattered;low;high
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,earthquake,big;strong;devastating;major;unexpected;sudden;minor;aftershock;temblor;historic
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;heavy;morning;sea;ground;white;rolling;lifting;freezing
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;dangerous;forked;sheet;cloud-to-ground;summer;heat;spectacular;atmospheric
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;gentle;cold;warm;summer;acid;incessant
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,rainbow,beautiful;colorful;double;arched;faint;vibrant;spectacular;shimmering;ephemeral;hopeful
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,snow,white;deep;heavy;fresh;light;falling;drifting;powdery;wet;blowing
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,storm,big;strong;severe;thunder;rain;snow;wind;electrical;approaching;passing
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,thunder,loud;deep;rumbling;booming;distant;crashing;sudden;rolling;ominous;echoing
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;spring;neap;incoming;outgoing;tidal
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;volcanic;erupting;smoking;tall;cone-shaped;caldera;nearby
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;hot;gentle;gusty;light;prevailing;warm;shifting;offshore
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,apple,red;green;juicy;crisp;sweet;sour;ripe;delicious;tart;Granny Smith
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,banana,yellow;ripe;green;sweet;overripe;bruised;fresh;cavendish;small;large
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,beef,raw;cooked;lean;ground;tender;prime;aged;grass-fed;marbled;sirloin
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,bread,white;wheat;brown;fresh;stale;soft;hard;sourdough;rye;sliced
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,broccoli,green;fresh;steamed;raw;boiled;cooked;florets;organic;chopped;frozen
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,cheese,cheddar;Swiss;mozzarella;hard;soft;blue;creamy;sharp;smelly;aged
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,chicken,fried;roasted;grilled;cooked;raw;boneless;skinless;free-range;organic;breaded
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,egg,white;brown;raw;hard-boiled;scrambled;fried;fresh;chicken;organic;fertilized
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,fish,fresh;raw;cooked;saltwater;freshwater;fried;grilled;smoked;bony;flaky
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,pasta,Italian;fresh;dried;cooked;long;short;whole wheat;durum;filled;al dente
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,rice,white;brown;cooked;long-grain;short-grain;basmati;jasmine;sticky;wild;steamed
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Food Items,soup,hot;cold;chicken;vegetable;tomato;creamy;thick;thin;hearty;delicious
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,artist,talented;creative;starving;struggling;successful;famous;young;old;local;visual
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,athlete,young;talented;professional;amateur;dedicated;injured;elite;olympic;star;successful
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,chef,famous;talented;skilled;creative;experienced;executive;pastry;sous;line;head
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,doctor,good;kind;caring;experienced;young;old;family;medical;attending;respected
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;structural;talented;professional;experienced;aerospace;chemical
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,farmer,hardworking;local;small;family;organic;modern;old;traditional;independent;efficient
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,lawyer,good;smart;experienced;successful;criminal;corporate;defense;trial;ambulance-chasing;honest
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,musician,talented;famous;skilled;local;professional;amateur;young;old;jazz;rock
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,scientist,brilliant;dedicated;leading;young;old;respected;research;experienced;renowned;talented
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,soldier,brave;young;trained;armed;deployed;injured;veteran;loyal;active;fallen
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,teacher,good;patient;kind;experienced;dedicated;young;old;helpful;passionate;qualified
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Human Roles,writer,talented;famous;young;old;successful;published;unknown;struggling;creative;professional
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,book,good;long;interesting;old;new;hard;soft;thick;used;rare
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,bridge,long;old;new;high;wooden;steel;suspension;stone;covered;famous
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,drums,loud;big;bass;snare;electronic;acoustic;african;marching;metal;percussion
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,earth,round;blue;green;brown;fertile;barren;dry;wet;polluted;inhabited
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;old;new;piccolo;transverse;bamboo;classical;jazz;simple
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,key,small;metal;lost;spare;important;house;car;door;master;skeleton
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,knife,sharp;kitchen;hunting;pocket;butter;steak;dull;rusty;small;big
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,lock,strong;secure;complicated;combination;key;broken;rusty;padlock;door;simple
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,moon,full;new;bright;dark;crescent;half;waxing;waning;silver;blue
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;ballpoint;fountain;expensive;cheap;good;working;new
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,sun,bright;hot;warm;shining;setting;rising;morning;afternoon;summer;pale
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Inanimate Objects,sword,long;sharp;steel;old;rusty;heavy;light;double-edged;antique;ceremonial
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,cat,black;white;small;big;fluffy;stray;calico;ginger;tabby;Siamese
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,dog,big;small;brown;black;white;friendly;stray;golden;loyal;playful
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,dolphin,gray;intelligent;playful;bottlenose;friendly;trained;wild;captive;common;social
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,elephant,big;gray;African;Indian;wild;captive;trained;large;old;young
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,hamster,small;brown;cute;furry;pet;golden;Syrian;dwarf;robo;Chinese
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,monkey,small;playful;intelligent;brown;wild;captive;spider;howler;macaque;chimpanzee
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;house;wild;lab;squeaky;timid;fast;cheese-loving
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,peacock,beautiful;colorful;exotic;vibrant;iridescent;majestic;Indian;striking;male;showy
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,rabbit,white;brown;small;cute;fluffy;wild;domestic;pet;long-eared;timid
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,shark,big;great white;dangerous;hammerhead;tiger;ocean;predator;sharp;cartilaginous;feared
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,snake,long;green;poisonous;deadly;garden;grass;small;big;black;brown
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Neutral Animals,whale,big;blue;gray;humpback;ocean;marine;majestic;singing;migrating;protected
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,city,big;large;modern;old;historic;beautiful;crowded;noisy;polluted;sprawling
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,desert,hot;dry;sandy;barren;vast;empty;arid;desolate;rocky;remote
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,forest,green;dense;dark;large;old-growth;pine;deciduous;rainforest;wild;silent
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,island,small;tropical;deserted;volcanic;Caribbean;pacific;green;beautiful;remote;lush
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,lake,blue;big;deep;clear;fresh;salt;great;shallow;still;peaceful
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,mountain,tall;high;snow-covered;rocky;green;rugged;majestic;steep;isolated;distant
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,ocean,big;blue;deep;vast;cold;warm;salty;dangerous;pacific;atlantic
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,plain,flat;open;wide;grassy;vast;treeless;fertile;rolling;arid;windswept
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,plateau,high;flat;arid;vast;elevated;windswept;barren;isolated;rocky;table
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,river,long;wide;deep;strong;fast;slow;winding;muddy;clear;polluted
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,valley,green;wide;narrow;deep;hidden;beautiful;peaceful;fertile;steep;scenic
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Places,village,small;quiet;rural;old;traditional;peaceful;quaint;charming;historic;isolated
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,cactus,green;tall;spiky;prickly;desert;succulent;flowering;saguaro;small;old
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,eggplant,purple;long;Italian;Asian;grilled;roasted;fried;fresh;pickled;sliced
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,flower,colorful;beautiful;fragrant;small;big;wild;garden;cut;fresh;wilting
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,grass,green;long;short;dry;wet;thick;thin;soft;freshly cut;overgrown
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,lettuce,green;fresh;crisp;leafy;salad;iceberg;romaine;butter;red;mixed
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,mushroom,brown;white;edible;poisonous;wild;cultivated;portobello;shiitake;small;big
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,onion,white;yellow;red;sweet;raw;cooked;sliced;diced;chopped;Vidalia
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,pepper,black;red;green;hot;sweet;spicy;bell;chili;crushed;jalapeno
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,potato,white;red;russet;baked;fried;mashed;roasted;small;big;peeled
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,rose,red;pink;white;yellow;beautiful;fragrant;thorny;long-stemmed;wild;hybrid
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,tomato,red;ripe;green;juicy;fresh;canned;sliced;diced;cherry;heirloom
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Plants,tree,tall;green;old;big;deciduous;evergreen;oak;pine;apple;maple
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,ally,strong;reliable;trusted;loyal;important;key;strategic;close;longtime;unlikely
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,brother,older;younger;little;big;favorite;annoying;protective;loving;best;step
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,enemy,bitter;dangerous;formidable;old;arch;sworn;powerful;common;unexpected;ruthless
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,father,old;young;loving;strict;protective;supportive;caring;biological;adoptive;absent
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;faithful;blind;active;passive;numerous;ardent;enthusiastic;registered
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,friend,good;best;old;close;loyal;true;childhood;online;unexpected;fake
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,leader,strong;good;effective;popular;elected;powerful;political;charismatic;influential;natural
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,mother,good;loving;caring;young;old;protective;single;working;biological;adoptive
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,partner,business;legal;life;equal;senior;junior;working;dedicated;reliable;supportive
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,rival,fierce;bitter;strong;old;academic;political;sporting;main;unexpected;potential
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,sister,older;younger;little;big;annoying;loving;supportive;half;step;adopted
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Social Relationships,stranger,unknown;mysterious;helpful;kind;dangerous;creepy;lurking;complete;familiar;ordinary
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,above,high;clear;far;directly;mentioned;written;average;cited;said;located
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,back,strong;lower;upper;sore;painful;stiff;good;behind;supportive;immediate
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,below,freezing;mentioned;ground;average;waist;sea-level;cited;par;required;standards
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,east,far;near;wild;middle;asia;west;urban;north;south;central
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,front,open;direct;immediate;main;false;early;moving;weather;close;common
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,inside,warm;cold;deep;big;light;dark;hard;private;personal;hidden
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,left,far;right;good;strong;hard;open;near;behind;soft;hand
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,north,far;cold;great;wild;korea;central;south;america;european;magnetic
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,outside,good;cold;dark;warm;hard;open;sunny;private;public;close
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,right,good;true;wrong;new;strong;open;human;hand;direct;own
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,south,far;wild;korea;africa;america;carolina;north;central;pole;east
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Spatial Concepts,west,far;wild;side;near;virginia;north;coast;central
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,century,old;new;last;twentieth;twenty-first;previous;modern;eighteenth;past;golden
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,day,good;long;hard;new;bad;next;same;happy;whole;last
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,evening,good;happy;beautiful;long;late;cold;dark;quiet;clear;nice
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,hour,late;early;long;last;whole;next;first;past;every;happy
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,minute,long;short;last;next;first;every;few;just;late;final
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,month,last;next;whole;happy;long;short;past;every;previous;coming
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,morning,good;beautiful;long;cold;new;happy;nice;clear;bright;sunny
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,night,good;dark;long;late;cold;new;quiet;bad;clear;stormy
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,season,whole;next;last;new;every;holiday;spring;winter;fall;previous
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,second,long;every;next;last;only;first;short;close;split;fleeting
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,week,last;next;whole;coming;long;every;past;previous;same;busy
+gemini-2.0-flash,basic,2.0,JA # Japanese,Perfect,most frequent,Time Concepts,year,last;new;next;good;happy;whole;coming;past;previous;leap

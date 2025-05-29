@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,anger,strong;deep;hot;wild;quick;dark;fierce;bitter;loud;sudden
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,courage,great;brave;bold;true;amazing;real;pure;strong;quiet;endless
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,fear,big;cold;deep;dark;hidden;sharp;silent;heavy;sudden;strong
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,freedom,true;full;sweet;new;hard;pure;bright;precious;long;clear
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,happiness,warm;bright;pure;simple;great;deep;true;soft;real;endless
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,hate,strong;deep;dark;cold;bitter;fierce;hidden;wild;sharp;heavy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,honesty,true;pure;clear;strong;real;simple;bright;good;open;kind
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,justice,fair;true;strong;clear;pure;right;hard;real;deep;honest
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,knowledge,deep;wide;great;useful;clear;strong;true;vast;new;important
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,love,true;deep;warm;sweet;pure;strong;soft;endless;kind;bright
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,peace,calm;quiet;sweet;deep;true;soft;pure;long;warm;clear
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Abstract Concepts,wisdom,deep;great;true;quiet;strong;clear;old;pure;bright;real Rob
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,bell,loud;clear;small;shiny;heavy;old;golden;round;bright;metal
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,candle,small;white;warm;soft;bright;long;thin;burning;pretty;red
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,carpet,soft;thick;red;old;large;warm;clean;expensive;beautiful;colorful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,coin,small;old;shiny;round;silver;golden;rare;heavy;valuable;ancient
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,crown,golden;heavy;shiny;royal;beautiful;old;rich;powerful;grand;ornate
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,flag,bright;colorful;large;national;proud;red;white;blue;waving;tall
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,mask,scary;funny;black;white;small;mysterious;strange;colorful;wooden;old
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,necklace,beautiful;shiny;golden;silver;long;expensive;pretty;delicate;elegant;simple
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,painting,beautiful;colorful;old;large;famous;expensive;pretty;unique;detailed;artistic
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,ring,small;shiny;golden;silver;expensive;pretty;simple;round;beautiful;delicate
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,statue,tall;old;large;stone;white;beautiful;heavy;ancient;grand;famous
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Cultural Artifacts,vase,tall;thin;glass;white;beautiful;old;delicate;expensive;pretty;decorative
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,cloud,white;fluffy;big;dark;gray;soft;high;thick;light;floating
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,earthquake,strong;scary;sudden;powerful;dangerous;loud;deep;terrible;destructive;violent
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,fog,thick;cold;white;gray;heavy;dark;silent;mysterious;wet;dense
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,lightning,bright;fast;loud;dangerous;sharp;white;hot;sudden;powerful;scary
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;wet;soft;long;sudden;gray;fresh;cool
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,rainbow,colorful;beautiful;bright;clear;pretty;rare;long;curved;magical;happy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;thick;heavy;light;wet;beautiful;quiet;fresh
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,storm,strong;loud;dark;dangerous;heavy;wild;scary;sudden;powerful;wet
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,thunder,loud;deep;scary;strong;sudden;heavy;dark;powerful;sharp;frightening
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,tide,high;low;strong;fast;dangerous;powerful;regular;big;rough;moving
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,volcano,tall;hot;dangerous;active;red;dark;powerful;old;rocky;fiery
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Environmental Phenomena,wind,strong;cold;fast;loud;warm;soft;sharp;heavy;wild;fresh
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,apple,red;green;sweet;juicy;round;small;fresh;crispy;hard;tasty
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,banana,yellow;long;sweet;soft;ripe;small;fresh;curved;tasty;healthy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,beef,red;fresh;soft;tough;tasty;raw;cooked;thick;juicy;expensive
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,bread,soft;warm;fresh;brown;white;crispy;thick;tasty;small;hard
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,broccoli,green;fresh;small;healthy;hard;bitter;tasty;raw;cooked;thick
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;tasty;creamy;strong;smelly;fresh;old
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,chicken,white;soft;tasty;fresh;raw;cooked;small;juicy;tender;delicious
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,egg,white;brown;small;fresh;hard;soft;round;boiled;fried;raw
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,fish,fresh;small;silver;tasty;raw;cooked;wet;slippery;smelly;colorful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,pasta,long;short;soft;hard;tasty;yellow;fresh;cooked;hot;simple
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,rice,white;brown;soft;hard;tasty;small;sticky;fresh;hot;simple
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Food Items,soup,hot;tasty;warm;thick;thin;clear;creamy;fresh;salty;healthy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,artist,creative;talented;famous;young;old;poor;rich;skilled;unique;passionate
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,athlete,strong;fast;fit;young;tall;powerful;skilled;tough;active;healthy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,chef,skilled;creative;busy;famous;old;young;talented;strict;friendly;professional
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,doctor,kind;smart;busy;old;young;helpful;strict;serious;friendly;caring
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,engineer,smart;skilled;busy;young;old;creative;serious;talented;hardworking;technical
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,farmer,hardworking;strong;old;young;poor;kind;busy;tough;simple;friendly
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,lawyer,smart;strict;busy;serious;old;young;rich;tough;clever;professional
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,musician,talented;young;old;famous;creative;passionate;skilled;loud;unique;artistic
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,scientist,smart;curious;serious;old;young;clever;hardworking;quiet;brilliant;focused
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,soldier,brave;strong;young;tall;tough;strict;serious;loyal;proud;fearless
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,teacher,kind;strict;smart;old;young;patient;helpful;serious;friendly;wise
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Human Roles,writer,creative;talented;quiet;old;young;famous;poor;rich;thoughtful;unique
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,book,thick;thin;old;new;heavy;light;interesting;boring;colorful;expensive
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,bridge,long;high;old;new;strong;narrow;wide;tall;beautiful;wooden
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,drums,loud;big;heavy;round;noisy;black;red;shiny;powerful;strong
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,earth,round;blue;green;big;old;beautiful;warm;rich;alive;vast
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,flute,small;long;silver;golden;light;soft;beautiful;old;shiny;delicate
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,key,small;shiny;silver;golden;old;heavy;round;flat;useful;important
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,knife,sharp;small;long;heavy;shiny;dangerous;silver;useful;thin;hard
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,lock,heavy;small;strong;old;shiny;silver;hard;tight;secure;broken
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,moon,round;white;bright;big;full;pale;cold;beautiful;quiet;distant
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,pen,small;black;blue;red;long;thin;cheap;expensive;useful;simple
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,sun,bright;hot;yellow;big;warm;round;strong;high;beautiful;golden
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Inanimate Objects,sword,long;sharp;heavy;old;shiny;silver;dangerous;strong;ancient;powerful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,cat,small;soft;black;white;cute;quiet;lazy;fast;furry;playful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,dog,big;small;brown;black;loyal;friendly;loud;fast;furry;playful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,dolphin,smart;fast;friendly;gray;big;smooth;playful;cute;wild;beautiful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,elephant,big;gray;heavy;tall;strong;slow;kind;old;huge;gentle
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,hamster,small;cute;soft;brown;white;fast;tiny;furry;playful;quiet
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,monkey,small;brown;fast;funny;loud;wild;clever;active;naughty;playful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,mouse,small;gray;fast;tiny;quiet;shy;soft;sneaky;cute;weak
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,peacock,colorful;beautiful;big;loud;proud;green;blue;shiny;pretty;elegant
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,rabbit,small;white;soft;fast;cute;shy;furry;quiet;tiny;playful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,shark,big;gray;dangerous;fast;scary;strong;sharp;wild;dark;hungry
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,snake,long;thin;dangerous;green;black;scary;slow;shiny;quiet;deadly
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Neutral Animals,whale,huge;big;blue;gray;heavy;slow;gentle;deep;rare;beautiful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,city,big;busy;noisy;modern;old;crowded;dirty;clean;tall;bright
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,desert,hot;dry;sandy;vast;empty;quiet;yellow;harsh;dangerous;lonely
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,forest,green;thick;dark;big;quiet;deep;wild;old;cool;beautiful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,island,small;beautiful;quiet;green;blue;remote;tropical;lonely;warm;peaceful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,lake,blue;clear;deep;big;quiet;cold;beautiful;still;fresh;calm
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,mountain,tall;high;rocky;big;cold;steep;beautiful;green;hard;snowy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,ocean,blue;deep;vast;big;cold;salty;wild;beautiful;dark;powerful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,plain,flat;wide;green;vast;open;quiet;empty;brown;dry;simple
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,plateau,high;flat;wide;dry;rocky;cold;open;big;quiet;barren
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,river,long;blue;deep;wide;fast;clear;cold;beautiful;calm;winding
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,valley,deep;green;narrow;long;quiet;beautiful;cool;hidden;steep;peaceful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Places,village,small;quiet;old;peaceful;simple;poor;friendly;green;remote;cozy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,cactus,green;sharp;tall;dry;tough;small;hard;spiky;hot;strange
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,eggplant,purple;long;soft;bitter;fresh;small;tasty;shiny;cooked;healthy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,flower,beautiful;colorful;small;red;yellow;soft;pretty;fresh;sweet;delicate
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,grass,green;soft;thick;short;long;wet;fresh;cool;dense;bright
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,lettuce,green;fresh;soft;crispy;light;healthy;small;raw;cool;tasty
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,mushroom,small;brown;white;soft;tasty;round;wild;strange;fresh;wet
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,onion,white;strong;small;round;sharp;fresh;raw;smelly;yellow;tasty
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,pepper,red;green;hot;small;spicy;fresh;shiny;tasty;bitter;round
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,potato,brown;small;hard;fresh;tasty;round;dirty;soft;cheap;healthy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,rose,red;beautiful;soft;small;pretty;fragrant;delicate;pink;fresh;thorny
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,tomato,red;round;juicy;small;fresh;soft;tasty;ripe;sweet;healthy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Plants,tree,tall;green;old;big;thick;strong;beautiful;shady;brown;leafy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,ally,loyal;helpful;close;kind;true;strong;friendly;supportive;good;trusted
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,brother,kind;strong;close;young;old;funny;helpful;tall;loving;protective
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,enemy,dangerous;strong;bad;hateful;cruel;clever;sneaky;tough;angry;fierce
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,father,kind;strong;old;wise;tall;strict;loving;caring;busy;protective
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,follower,loyal;quiet;young;eager;faithful;shy;weak;supportive;kind;dedicated
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,friend,kind;close;funny;loyal;helpful;nice;good;true;sweet;caring
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,leader,strong;wise;tall;strict;brave;smart;confident;serious;powerful;bold
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,mother,kind;loving;caring;soft;warm;strict;busy;sweet;gentle;protective
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,partner,close;kind;helpful;loyal;funny;nice;loving;supportive;sweet;caring
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,rival,strong;tough;clever;fast;angry;jealous;fierce;smart;dangerous;competitive
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,sister,kind;funny;close;young;old;sweet;helpful;loving;caring;pretty
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Social Relationships,stranger,unknown;quiet;tall;short;strange;shy;cold;distant;weird;silent
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,above,high;clear;bright;far;distant;tall;open;wide;blue;empty
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,back,far;behind;hidden;dark;low;quiet;small;distant;old;weak
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,below,low;deep;dark;hidden;close;small;cold;quiet;under;narrow
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,east,far;warm;bright;distant;open;flat;green;sunny;quiet;beautiful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,front,close;clear;open;wide;bright;first;near;main;big;important
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,inside,warm;dark;small;tight;hidden;quiet;cozy;safe;close;deep
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,left,close;near;small;weak;low;quiet;hidden;dark;narrow;far
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,north,cold;far;dark;high;distant;snowy;quiet;harsh;wild;empty
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,outside,cold;open;wide;bright;fresh;noisy;big;free;clear;far
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,right,close;near;strong;clear;good;correct;main;big;important;true
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,south,warm;far;bright;sunny;green;open;distant;hot;quiet;beautiful
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Spatial Concepts,west,far;warm;sunny;open;distant;bright;quiet;green;beautiful;flat
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,century,long;old;past;ancient;great;new;early;late;historical;distant
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,day,long;short;hot;cold;sunny;rainy;busy;quiet;bright;dark
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,evening,cool;quiet;dark;long;calm;beautiful;peaceful;late;soft;clear
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;fast;slow;late;early;hard;easy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,minute,short;fast;quick;long;slow;busy;quiet;small;important;precious
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,month,long;short;busy;quiet;cold;hot;rainy;sunny;hard;easy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,morning,early;cool;fresh;quiet;bright;beautiful;calm;sunny;soft;clear
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,night,dark;long;quiet;cold;late;black;silent;beautiful;scary;still
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,season,hot;cold;rainy;dry;long;short;beautiful;hard;green;snowy
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,second,quick;fast;short;small;tiny;brief;sudden;important;easy;hard
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,week,long;short;busy;quiet;hard;easy;fast;slow;rainy;sunny
+grok-3,think-in-native,1.0,VI # Vietnamese,B1,most frequent,Time Concepts,year,long;short;busy;hard;easy;new;old;good;bad;fast
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,anger,strong;deep;sudden;burning;fierce;intense;uncontrollable;hot;wild;bitter
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,courage,great;true;amazing;bold;fearless;powerful;brave;heroic;inspiring;incredible
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,fear,dark;cold;real;hidden;terrible;overwhelming;constant;silent;paralyzing;deep
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,freedom,full;pure;sweet;precious;hard-earned;true;complete;personal;ultimate;beautiful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,happiness,bright;warm;genuine;endless;simple;pure;joyful;shared;deep;lasting
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,hate,strong;blind;cruel;bitter;dark;fierce;deep;hidden;burning;painful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,honesty,pure;true;clear;complete;strict;brave;simple;admirable;rare;valuable
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,justice,fair;equal;strong;true;moral;strict;legal;necessary;divine;absolute
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,knowledge,deep;vast;useful;broad;powerful;essential;practical;amazing;scientific;ancient
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,love,true;deep;warm;sweet;endless;pure;passionate;gentle;strong;unconditional
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,peace,calm;quiet;lasting;inner;beautiful;global;sweet;precious;serene;harmonious
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Abstract Concepts,wisdom,great;ancient;deep;true;practical;valuable;timeless;profound;clear;inspiring
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,bell,loud;clear;small;golden;shiny;old;heavy;beautiful;ringing;silver
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,candle,bright;small;warm;glowing;white;soft;scented;melting;tall;delicate
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;warm;expensive;old;patterned;clean;large;beautiful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,coin,old;shiny;small;valuable;silver;golden;rare;dirty;heavy;round
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,crown,golden;heavy;shiny;royal;beautiful;ancient;jeweled;precious;grand;ornate
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;bright;tall;symbolic;torn;historic;bold
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,mask,scary;funny;black;white;wooden;painted;mysterious;creepy;traditional;hidden
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,necklace,beautiful;shiny;expensive;silver;golden;long;delicate;elegant;precious;simple
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;famous;large;detailed;abstract;vivid;classic;impressive
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,ring,shiny;small;golden;silver;expensive;beautiful;delicate;round;simple;elegant
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,statue,tall;old;stone;beautiful;grand;ancient;famous;marble;impressive;detailed
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Cultural Artifacts,vase,delicate;beautiful;tall;old;ceramic;colorful;expensive;floral;elegant;fragile
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;gray;heavy;soft;high;moving;thick;stormy
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,earthquake,strong;sudden;scary;destructive;powerful;terrible;dangerous;violent;unexpected;massive
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,fog,thick;cold;gray;heavy;mysterious;dense;silent;creepy;wet;blinding
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,lightning,bright;fast;dangerous;powerful;scary;loud;sudden;sharp;striking;electric
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;soft;warm;endless;sudden;gentle;refreshing;steady
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;magical;vivid;clear;amazing;arched;cheerful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;thick;beautiful;silent;frozen;falling
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,storm,strong;loud;dark;scary;violent;sudden;powerful;dangerous;wild;angry
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,thunder,loud;deep;scary;powerful;sudden;rumbling;strong;distant;sharp;booming
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,tide,high;low;strong;fast;dangerous;rising;powerful;calm;steady;natural
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,volcano,active;dangerous;tall;hot;powerful;sleeping;fiery;massive;ancient;destructive
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;fast;gentle;wild;soft;blowing;sharp;steady
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,apple,red;green;sweet;juicy;fresh;small;round;crispy;ripe;tasty
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,banana,yellow;sweet;soft;long;ripe;fresh;healthy;curved;small;tasty
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,beef,fresh;tender;juicy;red;cooked;spicy;tasty;grilled;soft;expensive
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,bread,fresh;soft;warm;white;brown;crispy;tasty;homemade;sliced;fluffy
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,broccoli,green;fresh;healthy;small;tender;raw;cooked;bitter;crunchy;nutritious
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;creamy;tasty;melted;sharp;fresh;strong
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,chicken,tender;juicy;grilled;fried;spicy;fresh;cooked;soft;white;tasty
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,egg,white;brown;fresh;boiled;fried;small;raw;soft;hard;tasty
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,fish,fresh;raw;cooked;small;big;tasty;salty;grilled;white;silver
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,pasta,soft;tasty;hot;creamy;spicy;fresh;long;short;yellow;cooked
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,rice,white;sticky;fluffy;hot;soft;tasty;plain;cooked;brown;healthy
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Food Items,soup,hot;tasty;creamy;spicy;warm;clear;thick;fresh;salty;healthy
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,artist,creative;talented;famous;young;old;skilled;passionate;unique;inspired;brilliant
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,athlete,strong;fast;fit;young;talented;tough;energetic;skilled;competitive;dedicated
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,chef,skilled;famous;creative;busy;talented;professional;passionate;friendly;strict;experienced
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,doctor,kind;smart;busy;helpful;patient;skilled;experienced;caring;serious;trusted
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,engineer,smart;skilled;creative;busy;talented;technical;practical;innovative;hardworking;precise
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,farmer,hardworking;kind;simple;strong;busy;patient;friendly;tough;dedicated;rural
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,lawyer,smart;strict;busy;skilled;tough;confident;serious;professional;honest;experienced
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,musician,talented;creative;famous;young;passionate;skilled;unique;inspired;emotional;brilliant
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,scientist,smart;curious;dedicated;patient;brilliant;innovative;serious;knowledgeable;focused;analytical
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,soldier,brave;strong;tough;loyal;young;disciplined;serious;dedicated;fearless;heroic
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,teacher,kind;patient;smart;strict;helpful;friendly;inspiring;caring;dedicated;wise
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Human Roles,writer,creative;talented;famous;young;passionate;skilled;imaginative;thoughtful;unique;inspired
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;heavy;small;colorful;famous
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,bridge,long;old;strong;high;wooden;stone;narrow;wide;beautiful;famous
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,drums,loud;big;round;heavy;noisy;wooden;colorful;fast;rhythmic;powerful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,earth,round;big;blue;green;beautiful;old;vast;rich;fragile;alive
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,flute,small;silver;wooden;soft;high;beautiful;delicate;clear;light;melodic
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,key,small;silver;golden;old;shiny;heavy;important;rusty;round;useful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,knife,sharp;small;big;heavy;dangerous;shiny;rusty;useful;long;metal
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,lock,heavy;old;strong;small;rusty;secure;metal;broken;tight;safe
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,moon,bright;full;round;white;pale;beautiful;mysterious;distant;clear;magical
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,pen,black;blue;small;cheap;expensive;useful;thin;heavy;smooth;simple
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,sun,bright;hot;yellow;big;warm;shining;round;powerful;golden;clear
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Inanimate Objects,sword,sharp;long;heavy;old;shiny;dangerous;silver;strong;ancient;powerful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,cat,cute;small;black;white;fluffy;lazy;playful;soft;quiet;friendly
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,dog,loyal;big;small;brown;friendly;playful;loud;strong;cute;protective
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,dolphin,smart;friendly;fast;blue;playful;beautiful;smooth;gentle;wild;amazing
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,elephant,big;gray;strong;heavy;slow;gentle;wild;tall;powerful;wise
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,hamster,small;cute;soft;fluffy;tiny;active;brown;white;playful;quiet
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,monkey,funny;small;brown;fast;playful;clever;wild;noisy;curious;active
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,mouse,small;gray;tiny;fast;quiet;shy;cute;sneaky;soft;little
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,peacock,beautiful;colorful;proud;tall;bright;rare;elegant;stunning;loud;majestic
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,rabbit,cute;small;white;soft;fluffy;fast;shy;playful;tiny;gentle
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,shark,dangerous;big;gray;fast;scary;strong;wild;hungry;sharp;deadly
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,snake,long;dangerous;green;black;scary;slimy;fast;quiet;deadly;wild
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Neutral Animals,whale,huge;blue;big;gentle;deep;strong;wild;rare;amazing;heavy
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,city,big;busy;noisy;modern;crowded;beautiful;old;bright;tall;lively
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,desert,hot;dry;vast;empty;sandy;harsh;quiet;endless;dangerous;barren
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,forest,green;dense;dark;big;quiet;wild;deep;beautiful;thick;mysterious
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,island,small;beautiful;tropical;remote;quiet;green;sandy;warm;isolated;peaceful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,lake,blue;calm;deep;clear;big;beautiful;quiet;cold;still;fresh
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,mountain,tall;high;rocky;cold;big;beautiful;steep;snowy;strong;majestic
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,ocean,vast;deep;blue;wild;big;salty;beautiful;dangerous;endless;powerful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,plain,flat;wide;green;empty;vast;quiet;open;dry;simple;endless
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,plateau,high;flat;wide;dry;rocky;vast;empty;cold;open;ancient
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,river,long;blue;deep;wide;fast;clear;beautiful;calm;flowing;muddy
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,valley,green;deep;narrow;beautiful;quiet;long;wide;fertile;hidden;peaceful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Places,village,small;quiet;peaceful;old;friendly;simple;rural;green;remote;traditional
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,cactus,green;spiky;tall;dry;tough;small;sharp;hardy;desert;rough
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,eggplant,purple;shiny;long;fresh;soft;bitter;healthy;small;smooth;cooked
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,flower,beautiful;colorful;small;bright;sweet;delicate;fresh;soft;pretty;fragrant
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,grass,green;soft;tall;short;fresh;wet;thick;dry;smooth;wild
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,lettuce,green;fresh;crispy;light;healthy;soft;raw;small;tender;clean
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,mushroom,small;brown;white;soft;tasty;wild;fresh;round;earthy;delicate
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,onion,strong;white;yellow;small;sharp;fresh;raw;spicy;round;pungent
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,pepper,spicy;red;green;hot;small;fresh;sharp;colorful;raw;strong
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,potato,brown;small;round;fresh;soft;tasty;hard;cooked;healthy;plain
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,rose,red;beautiful;fragrant;delicate;soft;pretty;thorny;bright;romantic;elegant
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,tomato,red;juicy;fresh;round;small;ripe;soft;tasty;healthy;sweet
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Plants,tree,tall;green;old;big;strong;thick;beautiful;leafy;shady;ancient
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,ally,loyal;helpful;close;trusted;strong;friendly;reliable;supportive;kind;true
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,brother,kind;older;younger;close;funny;strong;protective;annoying;loving;helpful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,enemy,dangerous;strong;cruel;hidden;bitter;powerful;hateful;cunning;cold;fierce
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,father,kind;strong;wise;strict;loving;caring;old;protective;funny;supportive
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,follower,loyal;young;eager;dedicated;quiet;supportive;trusting;active;obedient;enthusiastic
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,friend,close;kind;funny;loyal;helpful;sweet;true;old;dear;caring
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,leader,strong;wise;brave;confident;strict;powerful;inspiring;kind;smart;respected
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,mother,loving;kind;caring;sweet;strict;gentle;strong;warm;wise;protective
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,partner,close;trusted;kind;supportive;loyal;funny;strong;loving;helpful;reliable
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,rival,strong;tough;smart;competitive;bitter;dangerous;annoying;fierce;cunning;persistent
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,sister,sweet;kind;older;younger;funny;close;annoying;loving;helpful;caring
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Social Relationships,stranger,unknown;quiet;mysterious;cold;distant;friendly;weird;shy;polite;curious
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,above,high;clear;bright;far;distant;blue;open;wide;visible;elevated
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,back,rear;hidden;strong;wide;straight;sore;old;familiar;lower;broad
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,below,low;deep;dark;hidden;cold;close;quiet;underground;under;beneath
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,east,far;distant;warm;rising;bright;ancient;cultural;remote;exotic;oriental
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,front,clear;open;wide;main;visible;bright;forward;leading;straight;central
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,inside,warm;hidden;safe;dark;quiet;small;cozy;secret;comfortable;private
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,left,opposite;remaining;west;sideways;odd;close;nearby;hidden;lower;behind
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,north,cold;far;distant;high;wild;dark;snowy;remote;harsh;quiet
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,outside,cold;open;wide;bright;noisy;fresh;clear;wild;public;exposed
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,right,correct;east;close;nearby;straight;upper;proper;true;fair;exact
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,south,warm;far;distant;low;sunny;hot;tropical;remote;green;exotic
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Spatial Concepts,west,far;distant;setting;cool;wild;open;modern;remote;historical;vast
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,century,old;past;long;new;important;historic;ancient;famous;early;late
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;cold;warm;happy;sad;bright
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,evening,cool;quiet;dark;calm;peaceful;late;beautiful;relaxing;soft;pleasant
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;fast;slow;important;final
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,minute,quick;short;fast;long;busy;precious;last;exact;quiet;tense
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;sunny;important;past;next
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,morning,early;bright;cool;fresh;quiet;busy;sunny;cold;peaceful;beautiful
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,night,dark;long;quiet;cold;late;scary;peaceful;silent;beautiful;starry
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,season,warm;cold;dry;wet;long;short;beautiful;busy;favorite;changing
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,second,quick;fast;short;last;final;exact;precious;important;brief;fleeting
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,week,long;short;busy;quiet;hard;easy;fast;slow;important;tiring
+grok-3,think-in-native,1.0,VI # Vietnamese,B2,most frequent,Time Concepts,year,long;short;busy;happy;sad;important;past;new;old;successful
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,anger,intense;burning;fierce;uncontrollable;deep;sudden;bitter;suppressed;raw;overwhelming
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,courage,brave;fearless;bold;heroic;strong;unwavering;determined;gallant;valiant;admirable
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,fear,intense;paralyzing;deep;irrational;overwhelming;constant;hidden;sudden;dark;gripping
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,freedom,precious;absolute;hard-won;cherished;complete;true;personal;liberating;boundless;essential
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,happiness,pure;genuine;immense;lasting;simple;radiant;infectious;deep;unexpected;heartfelt
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,hate,intense;bitter;deep-seated;fierce;burning;irrational;blind;consuming;destructive;relentless
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,honesty,brutal;refreshing;rare;absolute;admirable;sincere;unflinching;pure;straightforward;genuine
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,justice,fair;impartial;strict;swift;deserved;true;moral;equal;blind;necessary
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;valuable;practical;useful;specialized;academic;ancient
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,love,unconditional;passionate;deep;true;romantic;eternal;selfless;tender;strong;enduring
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,peace,lasting;inner;quiet;serene;fragile;global;calm;harmonious;spiritual;elusive
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Abstract Concepts,wisdom,profound;ancient;timeless;practical;deep;insightful;humble;rare;earned;guiding
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,bell,loud;clear;ringing;small;heavy;golden;old;brass;melodic;church
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,candle,flickering;scented;white;tall;melted;burning;decorative;warm;soft;romantic
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;expensive;worn;patterned;red;plush;oriental;cozy
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,coin,old;shiny;rare;silver;gold;small;valuable;ancient;worn;commemorative
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,crown,golden;jeweled;heavy;royal;ancient;ornate;majestic;ceremonial;symbolic;glittering
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;torn;historic;bright;symbolic;official;fluttering
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,mask,mysterious;colorful;wooden;scary;decorative;traditional;hidden;painted;ceremonial;eerie
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,necklace,golden;delicate;expensive;silver;beaded;elegant;long;sparkling;vintage;beautiful
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,painting,beautiful;abstract;old;famous;colorful;detailed;realistic;modern;framed;impressive
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,ring,gold;silver;diamond;engagement;simple;ornate;antique;shiny;precious;elegant
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,statue,tall;ancient;marble;bronze;majestic;detailed;impressive;historic;monumental;stone
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;decorative;antique;floral;glass;elegant;ornate;fragile
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;grey;floating;thick;stormy;light;scattered
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,earthquake,powerful;destructive;sudden;terrifying;massive;violent;deadly;unexpected;strong;catastrophic
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,fog,thick;dense;eerie;cold;grey;mysterious;heavy;silent;damp;enveloping
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;dangerous;powerful;jagged;electric;striking;intense;dramatic;frightening
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;warm;sudden;gentle;refreshing;torrential;drizzling
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;vivid;rare;magical;fleeting;arched;stunning;natural
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,snow,white;soft;cold;heavy;fluffy;light;melting;thick;fresh;powdery
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,storm,fierce;violent;dark;loud;powerful;raging;dangerous;sudden;intense;destructive
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rumbling;frightening;powerful;distant;sudden;rolling;echoing
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;powerful;dangerous;calm;steady;relentless
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;fiery;ancient;destructive;smoking;erupting;majestic
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fierce;howling;gusty;steady;brisk;biting
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,apple,red;green;sweet;juicy;crisp;fresh;ripe;sour;shiny;small
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;fresh;curved;tropical;healthy;spotted
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,beef,tender;juicy;grilled;rare;cooked;fresh;lean;marbled;savory;spicy
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,bread,fresh;crusty;soft;warm;white;brown;sliced;homemade;toasted;fluffy
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,broccoli,green;fresh;healthy;steamed;raw;tender;crisp;bitter;small;organic
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,cheese,creamy;sharp;melted;aged;soft;hard;yellow;white;tangy;rich
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,chicken,roasted;grilled;tender;juicy;spicy;fried;fresh;cooked;boneless;savory
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;small;organic;cracked;raw
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,fish,fresh;grilled;raw;smoked;salty;tender;white;oily;flaky;delicious
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,pasta,soft;al dente;fresh;homemade;creamy;spicy;long;short;cheesy;saucy
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;fragrant;long-grain;short-grain;cooked;plain
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Food Items,soup,hot;creamy;clear;spicy;hearty;homemade;savory;warm;thick;light
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,artist,talented;creative;famous;struggling;innovative;passionate;skilled;unique;visionary;dedicated
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,athlete,strong;fast;dedicated;skilled;competitive;fit;determined;disciplined;agile;powerful
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,chef,skilled;creative;professional;famous;innovative;talented;passionate;experienced;busy;meticulous
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,doctor,kind;skilled;experienced;caring;dedicated;busy;professional;knowledgeable;patient;trusted
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,engineer,smart;innovative;skilled;technical;creative;practical;experienced;precise;dedicated;analytical
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,farmer,hardworking;dedicated;rural;experienced;tough;early-rising;practical;knowledgeable;traditional;patient
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,lawyer,sharp;experienced;successful;persuasive;dedicated;professional;clever;tough;confident;ethical
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,musician,talented;passionate;creative;famous;skilled;dedicated;unique;expressive;gifted;versatile
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;knowledgeable;meticulous;patient;groundbreaking;logical
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,soldier,brave;disciplined;strong;loyal;dedicated;tough;heroic;fearless;trained;committed
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,teacher,patient;kind;knowledgeable;dedicated;inspiring;strict;caring;supportive;experienced;wise
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Human Roles,writer,creative;talented;famous;prolific;imaginative;thoughtful;expressive;dedicated;insightful;passionate
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,book,old;thick;new;interesting;boring;heavy;paperback;hardcover;classic;engaging
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,bridge,long;old;sturdy;narrow;high;wooden;modern;stone;iconic;suspension
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;big;small;tribal;electric;acoustic;powerful;beaten;traditional
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,earth,vast;beautiful;fragile;ancient;green;blue;rich;fertile;living;round
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,flute,wooden;silver;delicate;small;melodic;old;traditional;soft;clear;beautiful
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,key,old;rusty;small;golden;important;spare;heavy;shiny;lost;metal
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,knife,sharp;small;big;rusty;kitchen;dangerous;pointed;steel;serrated;utility
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,lock,old;rusty;heavy;secure;broken;small;metal;strong;tight;antique
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,moon,bright;full;crescent;pale;mysterious;silver;distant;beautiful;glowing;romantic
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,pen,black;blue;old;expensive;cheap;plastic;metal;leaky;smooth;elegant
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,sun,bright;warm;hot;golden;rising;setting;blazing;radiant;powerful;shining
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;rusty;long;short;ceremonial;legendary;steel;deadly
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,cat,cute;fluffy;black;white;lazy;playful;small;wild;independent;curious
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,dog,loyal;friendly;big;small;brown;playful;protective;energetic;obedient;furry
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,dolphin,intelligent;friendly;playful;sleek;fast;social;wild;beautiful;graceful;curious
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,elephant,huge;grey;gentle;strong;wild;intelligent;massive;slow;majestic;endangered
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,hamster,small;cute;fluffy;active;tiny;brown;playful;shy;cuddly;nocturnal
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,monkey,playful;clever;wild;small;agile;curious;brown;noisy;social;mischievous
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,mouse,small;tiny;grey;quick;shy;sneaky;brown;quiet;cute;timid
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;elegant;vibrant;majestic;rare;striking;exotic;ornate
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,rabbit,cute;fluffy;white;small;fast;timid;brown;soft;playful;wild
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,shark,dangerous;big;fierce;fast;grey;predatory;wild;scary;powerful;sleek
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,snake,long;dangerous;venomous;green;slippery;wild;scary;coiled;silent;deadly
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Neutral Animals,whale,huge;gentle;blue;massive;deep;slow;mysterious;endangered;powerful;majestic
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,city,big;busy;modern;crowded;noisy;old;vibrant;sprawling;lively;urban
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,desert,hot;dry;vast;sandy;empty;harsh;barren;arid;endless;scorching
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,forest,dense;green;dark;old;wild;thick;mysterious;lush;quiet;ancient
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,island,small;tropical;remote;beautiful;deserted;rocky;green;isolated;exotic;peaceful
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,lake,calm;clear;blue;deep;cold;still;beautiful;large;serene;reflective
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,mountain,tall;snowy;rocky;steep;high;majestic;rugged;ancient;green;remote
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,ocean,vast;deep;blue;wild;powerful;calm;endless;salty;mysterious;turbulent
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,plain,flat;vast;green;wide;open;empty;grassy;dry;fertile;endless
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,plateau,high;flat;vast;dry;rocky;remote;barren;elevated;wide;ancient
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,river,long;wide;deep;flowing;calm;muddy;clear;winding;powerful;serene
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,valley,deep;green;narrow;beautiful;fertile;quiet;hidden;lush;steep;peaceful
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Places,village,small;quiet;rural;old;peaceful;remote;traditional;friendly;simple;charming
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,cactus,green;spiky;tall;small;dry;tough;desert;prickly;hardy;unique
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,eggplant,purple;shiny;fresh;long;soft;bitter;organic;plump;smooth;healthy
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;small;wild;fresh;blooming;lovely
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,grass,green;soft;tall;short;wet;dry;thick;fresh;lush;wild
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,lettuce,green;fresh;crisp;leafy;light;healthy;tender;raw;organic;crunchy
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,mushroom,small;brown;white;edible;wild;soft;earthy;fresh;poisonous;round
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,onion,white;yellow;strong;fresh;raw;sweet;small;spicy;pungent;peeled
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,pepper,spicy;red;green;hot;fresh;small;sweet;dried;colorful;bold
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,potato,brown;small;fresh;raw;soft;starchy;round;organic;peeled;baked
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;pink;blooming;elegant;romantic;fresh
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,tomato,red;ripe;juicy;fresh;small;round;sweet;acidic;organic;plump
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Plants,tree,tall;old;green;big;sturdy;ancient;leafy;bare;strong;fruitful
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,ally,loyal;trusted;supportive;close;reliable;helpful;friendly;strong;valuable;committed
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,brother,older;younger;loving;protective;annoying;supportive;close;funny;kind;loyal
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,enemy,dangerous;fierce;bitter;hated;powerful;cunning;relentless;cruel;sneaky;formidable
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,father,loving;strict;supportive;caring;strong;wise;protective;kind;hardworking;gentle
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,follower,loyal;dedicated;eager;obedient;supportive;enthusiastic;devoted;trusting;active;committed
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,friend,close;best;loyal;kind;funny;supportive;trusted;old;dear;reliable
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,leader,strong;confident;wise;inspiring;powerful;charismatic;fair;bold;decisive;visionary
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,mother,loving;caring;gentle;strict;supportive;kind;warm;patient;strong;nurturing
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,partner,loyal;supportive;loving;reliable;close;trusted;compatible;caring;equal;understanding
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,rival,tough;competitive;strong;challenging;fierce;persistent;determined;bitter;serious;ambitious
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,sister,older;younger;loving;annoying;supportive;close;funny;kind;protective;sweet
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Social Relationships,stranger,unknown;mysterious;suspicious;distant;unfamiliar;curious;quiet;odd;unexpected;foreign
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,above,high;elevated;upper;overhead;top;distant;lofty;superior;clear;visible
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,back,rear;behind;hidden;lower;distant;private;supportive;strong;broad;covered
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,below,lower;under;beneath;bottom;hidden;deep;inferior;submerged;underground;sunken
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,east,distant;rising;warm;ancient;cultural;far;exotic;bright;historical;oriental
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,front,forward;leading;main;visible;open;first;central;prominent;bold;primary
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,inside,inner;hidden;private;warm;cozy;secret;deep;enclosed;personal;safe
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,left,western;remaining;opposite;liberal;awkward;spare;unused;sidelined;minor;secondary
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,north,cold;distant;upper;remote;harsh;wild;polar;dark;rugged;northern
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,outside,external;open;outer;public;cold;exposed;distant;free;wild;visible
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,right,correct;eastern;proper;just;accurate;conservative;primary;dominant;moral;fair
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,south,warm;lower;tropical;sunny;distant;hot;southern;rural;exotic;coastal
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Spatial Concepts,west,modern;distant;setting;progressive;wild;far;cultural;historical;open;frontier
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,century,past;new;old;modern;ancient;long;historic;specific;turning;significant
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;cold;hot;special;ordinary;bright
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,evening,cool;quiet;dark;late;peaceful;romantic;relaxing;busy;calm;pleasant
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,hour,late;early;long;short;busy;quiet;golden;critical;precious;final
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,minute,last;quick;short;crucial;precious;busy;fleeting;exact;tense;spare
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,month,long;short;busy;cold;hot;rainy;special;past;current;final
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,morning,early;bright;cool;fresh;quiet;busy;sunny;peaceful;cold;misty
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,night,dark;long;quiet;late;cold;starry;silent;peaceful;scary;endless
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,season,rainy;dry;hot;cold;long;short;festive;harsh;mild;changing
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,second,quick;last;brief;crucial;short;fleeting;precise;spare;passing;critical
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,week,long;short;busy;quiet;stressful;exciting;rainy;sunny;ordinary;special
+grok-3,think-in-native,1.0,VI # Vietnamese,C1,most frequent,Time Concepts,year,long;short;busy;past;new;old;successful;challenging;memorable;significant
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,anger,intense;fierce;burning;uncontrollable;deep;sudden;bitter;raw;suppressed;explosive
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,courage,bold;fearless;brave;heroic;daring;steadfast;resolute;valiant;gallant;unwavering
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;chilling;haunting;intense;creeping;persistent;primal
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,freedom,absolute;cherished;hard-won;boundless;precious;liberating;true;personal;democratic;enduring
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,happiness,pure;immense;genuine;lasting;radiant;blissful;simple;unexpected;shared;profound
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,hate,intense;deep;bitter;burning;fierce;unrelenting;blind;toxic;consuming;destructive
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,honesty,brutal;unwavering;complete;sincere;transparent;admirable;refreshing;rare;steadfast;absolute
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,justice,fair;impartial;true;swift;long-overdue;moral;righteous;strict;divine;equal
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;valuable;practical;theoretical;hidden;specialized;ancient
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,love,unconditional;passionate;eternal;tender;selfless;romantic;deep;sincere;enduring;devoted
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,peace,lasting;inner;serene;fragile;global;quiet;harmonious;elusive;spiritual;calming
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Abstract Concepts,wisdom,profound;timeless;practical;ancient;insightful;deep;hard-earned;philosophical;humble;guiding
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,bell,loud;clear;resonant;antique;golden;silver;melodic;heavy;small;ceremonial
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,candle,flickering;scented;tall;white;warm;decorative;old;bright;melting;delicate
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;worn;expensive;patterned;Persian;plush;dusty;ornate
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,coin,shiny;old;rare;valuable;small;silver;gold;worn;collectible;foreign
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,crown,golden;jeweled;heavy;royal;ancient;ceremonial;ornate;majestic;symbolic;glittering
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,flag,national;colorful;tattered;proud;waving;symbolic;historic;bold;official;bright
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,mask,mysterious;colorful;eerie;traditional;scary;painted;wooden;elaborate;hidden;theatrical
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,necklace,elegant;gold;silver;delicate;expensive;beaded;antique;long;sparkling;simple
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,painting,beautiful;abstract;old;famous;vibrant;detailed;realistic;modern;classic;expensive
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;simple;elegant;antique;engagement;shiny;ornate;precious
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,statue,tall;ancient;marble;bronze;majestic;detailed;historical;weathered;impressive;iconic
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Cultural Artifacts,vase,fragile;porcelain;tall;decorative;antique;colorful;elegant;ornate;classic;delicate
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;floating;thick;stormy;light;ominous;scattered
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;violent;terrifying;destructive;massive;unexpected;catastrophic;mild
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;cold;gray;heavy;eerie;obscuring;damp;lingering
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,lightning,bright;sharp;sudden;powerful;dangerous;striking;intense;jagged;electric;dramatic
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,rain,heavy;light;gentle;steady;torrential;cold;refreshing;endless;sudden;warm
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;beautiful;rare;bright;magical;fleeting;arched;stunning;vivid
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,snow,soft;white;cold;heavy;light;fresh;powdery;thick;silent;glistening
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,storm,violent;fierce;powerful;dark;raging;sudden;dangerous;intense;destructive;loud
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,thunder,loud;rumbling;deafening;deep;rolling;powerful;ominous;sudden;distant;booming
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;falling;relentless;powerful;gentle;incoming;outgoing
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;fiery;ancient;erupting;towering;deadly;majestic
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fierce;howling;brisk;gusty;steady;wild
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,apple,red;green;sweet;crisp;juicy;fresh;ripe;sour;shiny;small
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;curved;fresh;tropical;nutritious;spotted;long
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,beef,tender;juicy;fresh;lean;grilled;savory;rare;cooked;fatty;expensive
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,bread,fresh;crusty;soft;warm;white;brown;homemade;stale;sliced;toasted
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,broccoli,green;fresh;crisp;healthy;tender;raw;steamed;small;organic;bitter
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,cheese,sharp;creamy;soft;hard;aged;melted;yellow;white;savory;pungent
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,chicken,tender;juicy;grilled;roasted;fried;fresh;spicy;succulent;lean;flavored
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;organic;small;large;cracked
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,fish,fresh;raw;grilled;fried;salty;tender;flaky;smelly;exotic;fatty
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,pasta,al dente;soft;fresh;homemade;creamy;spicy;Italian;chewy;hot;savory
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;fragrant;plain;seasoned;warm;cooked
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Food Items,soup,hot;creamy;savory;hearty;warm;spicy;clear;homemade;thick;comforting
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,artist,talented;creative;famous;struggling;visionary;innovative;eccentric;skilled;passionate;inspired
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,athlete,strong;fast;dedicated;skilled;competitive;fit;disciplined;talented;determined;agile
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,chef,skilled;creative;professional;famous;innovative;passionate;meticulous;experienced;busy;talented
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,doctor,kind;experienced;skilled;dedicated;compassionate;busy;trusted;professional;wise;caring
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,engineer,innovative;skilled;brilliant;technical;creative;experienced;precise;analytical;dedicated;knowledgeable
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,farmer,hardworking;dedicated;experienced;rural;tough;patient;skilled;traditional;busy;resilient
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,lawyer,sharp;experienced;successful;persuasive;tough;dedicated;knowledgeable;expensive;eloquent;cunning
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,musician,talented;passionate;skilled;famous;creative;dedicated;versatile;inspired;gifted;expressive
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;knowledgeable;meticulous;pioneering;focused;intelligent
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;dedicated;tough;heroic;trained;committed;fearless
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,teacher,patient;kind;dedicated;knowledgeable;inspiring;strict;supportive;experienced;wise;caring
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Human Roles,writer,creative;talented;prolific;insightful;famous;imaginative;eloquent;dedicated;passionate;skilled
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,book,old;thick;interesting;new;worn;heavy;engaging;classic;informative;hardcover
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,bridge,old;long;sturdy;narrow;high;modern;wooden;historic;suspension;iconic
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;large;tribal;worn;traditional;shiny;deep;beaten
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,earth,vast;blue;ancient;fertile;fragile;beautiful;rich;sacred;rotating;living
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,flute,delicate;wooden;silver;melodic;small;ancient;clear;soft;elegant;traditional
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,key,old;rusty;small;golden;silver;important;hidden;spare;heavy;worn
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,knife,sharp;rusty;small;dangerous;kitchen;hunting;dull;heavy;sleek;pointed
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,lock,old;rusty;secure;heavy;broken;small;antique;strong;metal;tight
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,moon,bright;full;crescent;pale;mysterious;glowing;distant;beautiful;silver;round
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,pen,black;blue;old;expensive;cheap;broken;smooth;fountain;ballpoint;elegant
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,sun,bright;hot;golden;warm;radiant;blazing;setting;rising;powerful;blinding
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Inanimate Objects,sword,sharp;heavy;ancient;rusty;gleaming;deadly;ornate;long;historic;legendary
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,cat,cute;fluffy;lazy;independent;playful;curious;sleek;soft;black;tiny
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,dog,loyal;friendly;energetic;big;small;protective;playful;obedient;furry;loud
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,dolphin,intelligent;friendly;playful;graceful;sleek;fast;social;curious;gentle;wild
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,elephant,massive;gentle;gray;strong;majestic;intelligent;slow;wild;enormous;wrinkled
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,hamster,tiny;cute;fluffy;active;small;playful;nocturnal;soft;curious;fragile
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,monkey,playful;curious;agile;mischievous;wild;clever;small;social;loud;funny
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,mouse,small;tiny;quiet;quick;gray;sneaky;timid;cute;fast;delicate
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;majestic;vibrant;exotic;elegant;striking;ornate;loud
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,rabbit,cute;fluffy;fast;timid;small;white;soft;playful;gentle;wild
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,shark,dangerous;fierce;powerful;sleek;deadly;predatory;large;gray;fast;terrifying
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,snake,slithery;dangerous;venomous;long;sleek;scary;silent;colorful;cold;coiled
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Neutral Animals,whale,massive;gentle;blue;enormous;majestic;deep;mysterious;powerful;migrating;rare
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,city,busy;crowded;modern;noisy;large;vibrant;historic;bustling;urban;cosmopolitan
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,desert,hot;dry;vast;arid;sandy;empty;harsh;barren;lonely;endless
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,forest,dense;green;ancient;dark;lush;mysterious;quiet;vast;wild;thick
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,island,small;tropical;remote;beautiful;deserted;lush;rocky;isolated;sandy;exotic
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,lake,calm;clear;deep;blue;serene;cold;quiet;large;reflective;peaceful
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,mountain,tall;majestic;snowy;rugged;steep;high;ancient;rocky;imposing;beautiful
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,ocean,vast;deep;blue;endless;powerful;mysterious;wild;calm;stormy;immense
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,plain,flat;vast;open;grassy;wide;barren;empty;quiet;endless;fertile
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,plateau,high;flat;vast;rocky;elevated;barren;wide;remote;windy;dry
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,river,long;wide;calm;fast;deep;winding;clear;muddy;powerful;serene
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,valley,green;deep;narrow;fertile;quiet;beautiful;hidden;lush;peaceful;steep
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Places,village,small;quiet;rural;charming;old;peaceful;remote;friendly;traditional;quaint
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,cactus,prickly;green;tall;desert;spiky;tough;dry;hardy;small;unique
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,eggplant,purple;shiny;fresh;smooth;soft;long;bitter;organic;ripe;healthy
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;small;bright;fresh;blooming;lovely;wild
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,grass,green;soft;tall;fresh;thick;wet;dry;lush;short;wild
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,lettuce,green;fresh;crisp;leafy;tender;organic;healthy;light;raw;juicy
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,mushroom,small;brown;white;edible;poisonous;soft;wild;earthy;fresh;delicate
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,onion,strong;pungent;raw;sweet;white;red;fresh;sharp;peeled;juicy
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,pepper,spicy;hot;red;green;fresh;mild;pungent;raw;roasted;colorful
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,potato,brown;starchy;fresh;raw;boiled;baked;soft;small;organic;hearty
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;elegant;blooming;pink;romantic;fresh
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;soft;sweet;organic;small;tangy
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Plants,tree,tall;old;green;sturdy;ancient;leafy;thick;bare;strong;majestic
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,ally,loyal;trusted;reliable;supportive;close;strong;helpful;faithful;valuable;dependable
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,brother,loving;protective;close;annoying;supportive;older;younger;caring;funny;loyal
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,enemy,fierce;dangerous;bitter;hated;powerful;cunning;relentless;sworn;formidable;deceitful
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,father,loving;strict;caring;supportive;wise;strong;protective;kind;hardworking;gentle
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,follower,loyal;dedicated;eager;faithful;supportive;enthusiastic;devoted;obedient;trusting;committed
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,friend,close;loyal;kind;funny;supportive;trusted;dear;reliable;caring;lifelong
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,leader,strong;charismatic;wise;confident;inspiring;decisive;bold;respected;visionary;powerful
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,mother,loving;caring;gentle;strict;supportive;kind;nurturing;protective;wise;patient
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,partner,loyal;supportive;loving;trusted;reliable;close;compatible;caring;understanding;equal
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,rival,fierce;tough;competitive;strong;bitter;challenging;determined;hostile;formidable;persistent
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,sister,loving;annoying;supportive;close;caring;funny;protective;younger;older;kind
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Social Relationships,stranger,mysterious;unknown;distant;suspicious;friendly;odd;unfamiliar;quiet;curious;aloof
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,above,high;elevated;superior;overhead;upper;distant;lofty;towering;prominent;dominant
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,back,rear;behind;hidden;last;distant;lower;secondary;supportive;protective;trailing
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,below,lower;beneath;underneath;inferior;submerged;hidden;underground;lesser;deeper;bottom
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,east,oriental;distant;rising;ancient;far;cultural;exotic;warm;traditional;remote
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,front,forward;leading;main;first;prominent;central;visible;primary;open;bold
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,inside,inner;hidden;enclosed;internal;deep;private;confined;secure;intimate;sheltered
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,left,remaining;western;side;opposite;unused;abandoned;secondary;awkward;liberal;spare
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,north,cold;distant;upper;polar;remote;harsh;windy;icy;northern;rugged
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,outside,external;outer;exposed;public;distant;far;open;wild;visible;detached
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,right,correct;proper;eastern;side;just;accurate;fitting;conservative;immediate;dominant
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,south,warm;tropical;lower;southern;sunny;distant;humid;exotic;vibrant;coastal
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Spatial Concepts,west,distant;western;modern;far;setting;progressive;open;wild;innovative;remote
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,century,past;new;old;modern;ancient;current;long;historic;specific;memorable
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,day,
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,evening,
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,hour,
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,minute,
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,month,
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,morning,
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,night,
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,season,
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,second,
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,week,
+grok-3,think-in-native,1.0,VI # Vietnamese,C2,most frequent,Time Concepts,year,
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,anger,intense;fierce;burning;uncontrollable;deep;raw;bitter;sudden;fiery;overwhelming
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,courage,brave;fearless;bold;daring;heroic;strong;valiant;determined;steadfast;unyielding
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,fear,intense;paralyzing;deep;irrational;overwhelming;chilling;haunting;persistent;dark;gripping
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,freedom,true;absolute;precious;hard-earned;liberating;boundless;essential;cherished;empowering;undeniable
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,happiness,pure;genuine;radiant;infectious;lasting;immense;heartfelt;boundless;joyful;blissful
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,hate,intense;deep-seated;bitter;fierce;burning;unrelenting;toxic;consuming;dark;vicious
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,honesty,pure;unwavering;genuine;brutal;refreshing;admirable;rare;absolute;steadfast;sincere
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,justice,fair;impartial;righteous;true;strict;deserved;moral;blind;swift;hard-fought
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;valuable;essential;practical;ancient;specialized;limitless
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,love,unconditional;passionate;true;eternal;deep;sincere;selfless;romantic;enduring;pure
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,peace,lasting;inner;serene;tranquil;fragile;hard-won;quiet;harmonious;sacred;elusive
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Abstract Concepts,wisdom,profound;ancient;timeless;deep;practical;insightful;hard-earned;valuable;enlightened;thoughtful
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;melodic;resonant;golden;antique;heavy;small;shiny;festive
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,candle,flickering;warm;scented;tall;white;decorative;soft;glowing;delicate;calming
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,carpet,soft;plush;colorful;thick;luxurious;patterned;worn;elegant;cozy;Persian
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;small;silver;golden;worn;valuable;collectible;ancient
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ornate;majestic;ancient;ceremonial;glittering;symbolic
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;tattered;symbolic;vibrant;historic;bold;iconic
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,mask,mysterious;colorful;intricate;scary;traditional;decorative;hidden;festive;elaborate;eerie
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,necklace,delicate;elegant;golden;silver;sparkling;expensive;vintage;beaded;simple;ornate
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,painting,beautiful;vibrant;abstract;classic;detailed;modern;expressive;colorful;famous;intricate
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,ring,golden;silver;shiny;elegant;simple;expensive;vintage;engraved;delicate;sparkling
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,statue,tall;ancient;majestic;bronze;marble;imposing;detailed;historic;iconic;weathered
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Cultural Artifacts,vase,delicate;ornate;antique;ceramic;tall;fragile;decorative;painted;elegant;floral
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;gray;soft;drifting;thick;ominous;wispy
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;terrifying;destructive;massive;violent;unpredictable;catastrophic;intense
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;gray;cold;eerie;heavy;obscuring;damp;silent
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,lightning,bright;jagged;sudden;fierce;powerful;electric;dazzling;dangerous;striking;vivid
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;gentle;steady;pouring;cold;refreshing;relentless;drizzling;seasonal
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;vibrant;beautiful;rare;bright;magical;fleeting;vivid;arched;spectacular
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,snow,white;soft;fluffy;cold;heavy;pristine;falling;thick;powdery;silent
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,storm,fierce;violent;powerful;raging;dark;destructive;intense;sudden;thunderous;wild
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,thunder,loud;rumbling;deep;booming;powerful;startling;distant;rolling;echoing;ominous
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;relentless;calm;rising;tidal
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;massive;fiery;dangerous;majestic;erupting;ancient;smoking;destructive
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;gusty;howling;brisk;relentless;soft;biting
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;fresh;tart;shiny;ripe;small
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,banana,yellow;ripe;sweet;soft;curved;fresh;tropical;mushy;spotted;long
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,beef,tender;juicy;lean;grilled;savory;fresh;rare;marbled;hearty;smoked
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,bread,fresh;warm;crusty;soft;white;wholegrain;toasted;homemade;stale;sliced
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,broccoli,green;fresh;crisp;tender;healthy;steamed;raw;vibrant;nutritious;small
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,cheese,creamy;sharp;melted;aged;soft;hard;tangy;mild;pungent;grated
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,chicken,tender;juicy;grilled;roasted;fried;savory;spicy;fresh;lean;golden
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;soft;hard;small;organic
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,fish,fresh;grilled;fried;raw;flaky;oily;salty;smoked;tender;silver
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,pasta,al dente;creamy;cheesy;fresh;homemade;saucy;soft;spicy;hearty;Italian
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;fragrant;long-grain;short-grain;savory;plain
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Food Items,soup,hot;creamy;hearty;savory;clear;thick;spicy;homemade;comforting;light
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,artist,talented;creative;innovative;passionate;famous;struggling;visionary;skilled;eccentric;dedicated
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,athlete,strong;fast;dedicated;skilled;competitive;disciplined;powerful;agile;determined;talented
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,chef,skilled;creative;passionate;famous;innovative;experienced;meticulous;busy;talented;culinary
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,doctor,compassionate;skilled;dedicated;knowledgeable;caring;experienced;busy;trusted;wise;professional
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,engineer,innovative;skilled;creative;analytical;dedicated;brilliant;experienced;technical;precise;resourceful
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,farmer,hardworking;dedicated;experienced;tough;rural;patient;knowledgeable;resilient;traditional;honest
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,lawyer,sharp;persuasive;knowledgeable;dedicated;experienced;aggressive;ethical;confident;skilled;articulate
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,musician,talented;passionate;creative;skilled;famous;dedicated;expressive;versatile;gifted;inspired
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;knowledgeable;meticulous;groundbreaking;focused;intelligent
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;courageous;dedicated;tough;honorable;resilient;fearless
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,teacher,patient;inspiring;dedicated;knowledgeable;caring;strict;supportive;wise;enthusiastic;respected
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Human Roles,writer,creative;talented;imaginative;prolific;insightful;passionate;dedicated;eloquent;thoughtful;famous
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,book,thick;thin;old;new;hardcover;paperback;engaging;informative;classic;worn
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,bridge,long;sturdy;old;modern;suspension;narrow;iconic;wooden;high;arched
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;large;small;tribal;polished;beaten;resonant;energetic
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,earth,vast;beautiful;ancient;fragile;green;fertile;round;vibrant;living;precious
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,flute,delicate;melodic;silver;wooden;small;ancient;clear;soft;elegant;harmonious
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,key,small;shiny;old;rusty;golden;important;spare;lost;heavy;metallic
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,knife,sharp;dangerous;small;large;rusty;shiny;serrated;kitchen;deadly;precise
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,lock,sturdy;old;rusty;secure;small;heavy;broken;tight;ancient;reliable
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,moon,bright;full;crescent;pale;distant;mysterious;glowing;silver;round;enchanting
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,pen,black;blue;elegant;cheap;expensive;smooth;leaking;old;fine;classic
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,sun,bright;hot;golden;warm;blazing;radiant;powerful;setting;rising;brilliant
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;shiny;deadly;ornate;legendary;rusty;powerful;historic
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,cat,cute;playful;fluffy;independent;curious;sleek;lazy;agile;small;affectionate
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;playful;protective;energetic;big;small;obedient;loving;furry
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;friendly;graceful;sleek;fast;social;curious;charming;acrobatic
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,elephant,massive;gentle;strong;gray;wise;majestic;slow;powerful;enormous;wrinkled
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,hamster,small;cute;furry;active;tiny;fluffy;playful;nocturnal;soft;curious
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,monkey,playful;curious;agile;mischievous;smart;social;wild;funny;energetic;small
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,mouse,small;tiny;quick;sneaky;gray;cute;timid;fast;quiet;delicate
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;vibrant;majestic;elegant;striking;ornate;exotic;dazzling
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,rabbit,cute;fluffy;fast;small;timid;soft;white;playful;hopping;gentle
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,shark,dangerous;powerful;sleek;fast;predatory;fearsome;large;deadly;gray;aggressive
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,snake,slithery;dangerous;long;venomous;silent;coiled;colorful;creepy;sleek;cold-blooded
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Neutral Animals,whale,massive;gentle;majestic;enormous;deep;migrating;powerful;graceful;blue;singing
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,city,bustling;modern;crowded;noisy;vibrant;large;historic;busy;urban;lively
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,desert,hot;dry;vast;barren;sandy;harsh;endless;remote;arid;silent
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,forest,dense;green;dark;ancient;mysterious;lush;quiet;wild;thick;enchanting
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,island,tropical;remote;small;beautiful;isolated;sandy;green;rocky;exotic;secluded
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,lake,calm;clear;deep;blue;serene;quiet;still;cold;vast;reflective
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,mountain,tall;majestic;rugged;snowy;steep;ancient;imposing;rocky;grand;breathtaking
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,ocean,vast;deep;blue;endless;powerful;wild;calm;mysterious;salty;turbulent
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,plain,vast;flat;open;grassy;endless;barren;wide;fertile;quiet;expansive
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,plateau,high;flat;vast;rocky;dry;elevated;barren;remote;wide;ancient
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,river,long;winding;calm;rushing;clear;deep;wide;muddy;serene;powerful
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,valley,deep;green;narrow;fertile;quiet;scenic;hidden;lush;peaceful;steep
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Places,village,small;quiet;rural;charming;peaceful;traditional;remote;friendly;quaint;simple
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,cactus,spiky;green;tall;dry;tough;desert;prickly;hardy;small;resilient
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,eggplant,purple;shiny;smooth;fresh;firm;long;tender;ripe;healthy;oval
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;small;fresh;blooming;vibrant;soft
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,grass,green;lush;soft;thick;tall;fresh;dewy;short;wild;dense
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,lettuce,green;crisp;fresh;tender;leafy;healthy;light;raw;vibrant;cool
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,mushroom,small;brown;white;edible;wild;earthy;soft;fragile;tasty;round
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,onion,pungent;sharp;white;yellow;raw;sweet;strong;fresh;layered;small
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,pepper,spicy;hot;red;green;fresh;bold;fiery;small;crisp;flavorful
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,potato,brown;starchy;firm;fresh;small;large;earthy;versatile;peeled;hearty
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;elegant;blooming;romantic;soft;classic
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;sweet;tangy;firm;small;vibrant
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Plants,tree,tall;ancient;sturdy;green;leafy;old;massive;shading;strong;blossoming
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,ally,loyal;trusted;supportive;reliable;close;helpful;dependable;friendly;strong;valuable
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,brother,loving;protective;supportive;close;annoying;older;younger;loyal;caring;funny
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,enemy,dangerous;hostile;fierce;cunning;bitter;relentless;hated;powerful;deceptive;ruthless
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,father,loving;strict;protective;wise;caring;supportive;strong;hardworking;kind;dependable
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;supportive;enthusiastic;obedient;trusting;devoted;eager;committed;admiring
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,friend,close;loyal;trustworthy;kind;supportive;funny;caring;reliable;dear;lifelong
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,leader,strong;confident;inspiring;decisive;charismatic;wise;powerful;visionary;respected;bold
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;protective;kind;strict;supportive;warm;selfless;gentle
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,partner,loyal;supportive;loving;trustworthy;equal;compatible;understanding;committed;reliable;close
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,rival,fierce;competitive;strong;challenging;hostile;determined;tough;bitter;aggressive;formidable
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,sister,loving;supportive;close;annoying;caring;older;younger;funny;protective;kind
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Social Relationships,stranger,unknown;mysterious;distant;unfamiliar;odd;curious;suspicious;quiet;aloof;random
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,above,high;elevated;overhead;upper;towering;lofty;superior;distant;aerial;prominent
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,back,rear;hind;behind;posterior;reverse;distant;hidden;secondary;trailing;opposite
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,below,lower;underneath;beneath;inferior;underground;bottom;submerged;lesser;hidden;deep
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,east,eastern;rising;oriental;distant;cultural;ancient;warm;exotic;faraway;traditional
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,front,forward;leading;first;anterior;main;primary;visible;prominent;foremost;central
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;private;deep;secret;confined;sheltered;central
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,left,westward;port;remaining;abandoned;liberal;odd;awkward;sideways;spare;opposite
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,north,cold;northern;polar;upper;distant;chilly;remote;harsh;wintry;arctic
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,outside,external;outer;exterior;open;public;exposed;distant;surrounding;far;visible
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,right,correct;proper;eastward;starboard;conservative;just;fitting;suitable;accurate;precise
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,south,southern;warm;tropical;lower;sunny;hot;distant;exotic;humid;balmy
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Spatial Concepts,west,western;setting;frontier;distant;modern;wild;cultural;faraway;progressive;open
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,century,past;modern;ancient;long;recent;specific;historic;turning;golden;forgotten
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,day,bright;long;busy;rainy;sunny;cold;warm;short;tiring;memorable
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,evening,quiet;cool;dark;peaceful;late;relaxing;calm;twilight;pleasant;serene
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,hour,long;short;busy;quiet;late;early;critical;golden;rushed;fleeting
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,minute,quick;brief;short;precious;last;passing;exact;fleeting;hurried;critical
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,month,long;short;rainy;cold;warm;busy;quiet;specific;festive;memorable
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,morning,early;fresh;bright;cool;quiet;sunny;busy;peaceful;crisp;refreshing
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,night,dark;quiet;long;late;cold;starry;silent;peaceful;eerie;endless
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,season,rainy;dry;cold;warm;festive;long;short;transitional;harsh;mild
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,second,quick;brief;fleeting;critical;passing;precise;short;vital;instant;momentary
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;stressful;relaxing;productive;hectic;memorable;tiring
+grok-3,think-in-native,1.0,VI # Vietnamese,Perfect,most frequent,Time Concepts,year,long;short;memorable;tough;successful;recent;past;challenging;prosperous;eventful

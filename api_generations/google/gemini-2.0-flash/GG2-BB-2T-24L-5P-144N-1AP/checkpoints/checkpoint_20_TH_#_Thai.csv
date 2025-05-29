@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,anger,bad;big;hot;hard;much;long;red;quick;strong;little
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,courage,strong;real;good;big;much;true;important;little;enough;more
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,fear,big;much;strong;real;new;little;long;same;only;more
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,freedom,real;much;big;good;important;new;little;same;only;more
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,happiness,big;much;real;good;true;only;little;same;new;more
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,hate,big;much;strong;real;bad;only;little;same;enough;more
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,honesty,good;important;true;big;much;only;same;little;enough;real
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,justice,big;real;good;important;much;true;only;little;same;new
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,knowledge,big;much;good;important;new;same;only;true;little;more
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,love,big;much;good;true;only;real;little;same;new;enough
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,peace,real;much;good;big;new;important;little;same;long;only
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Abstract Concepts,wisdom,much;good;big;true;important;old;only;real;little;same
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,bell,big;small;new;old;good;metal;long;round;church;school
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,candle,small;white;big;new;old;long;good;wax;hot;red
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,carpet,big;new;old;red;small;good;soft;long;same;only
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,coin,small;gold;old;new;round;metal;same;only;big;enough
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,crown,gold;big;old;new;good;same;important;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,flag,big;new;old;good;same;only;red;small;long;white
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,mask,big;new;old;white;small;black;same;only;long;red
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,necklace,gold;new;old;small;big;long;same;only;good;white
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,painting,good;new;old;big;small;long;same;only;real;beautiful
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,ring,gold;new;old;small;big;same;only;round;silver;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,statue,big;new;old;good;white;same;only;small;stone;metal
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Cultural Artifacts,vase,big;new;old;small;good;glass;same;only;long;round
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,cloud,white;big;small;dark;grey;new;old;good;same;only
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,earthquake,big;strong;new;old;long;hard;only;real;small;same
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,fog,big;thick;new;old;white;small;same;only;real;grey
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,lightning,big;bright;new;old;only;fast;real;strong;long;white
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,rain,big;much;new;old;heavy;small;same;only;long;hard
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,rainbow,big;new;old;good;same;only;real;beautiful;long;small
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,snow,white;much;big;new;old;cold;small;same;only;good
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,storm,big;strong;bad;new;old;long;same;only;real;good
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,thunder,big;loud;new;old;same;only;long;strong;hard;real
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,tide,big;high;low;new;old;same;only;small;real;strong
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,volcano,big;new;old;hot;active;same;only;real;small;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Environmental Phenomena,wind,big;strong;new;old;cold;small;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,apple,red;green;big;small;new;old;good;same;only;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,banana,yellow;big;small;new;old;good;same;only;long;sweet
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,beef,good;red;new;old;big;small;same;only;long;fresh
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,bread,good;white;brown;new;old;big;small;same;only;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,broccoli,green;good;new;old;big;small;same;only;long;fresh
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,cheese,good;yellow;white;new;old;big;small;same;only;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,chicken,good;new;old;big;small;same;only;long;fresh;white
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,egg,white;new;old;big;small;good;same;only;long;fresh
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,fish,good;new;old;big;small;fresh;same;only;long;white
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,pasta,good;new;old;big;small;same;only;long;white;yellow
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,rice,white;new;old;big;small;good;same;only;long;dry
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Food Items,soup,good;hot;new;old;big;small;same;only;long;thick
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,artist,good;new;old;big;small;real;same;only;young;famous
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,athlete,good;strong;new;old;big;small;fast;same;only;real
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,chef,good;new;old;big;small;famous;same;only;young;real
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,doctor,good;new;old;big;small;young;same;only;real;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,engineer,good;new;old;big;small;young;same;only;real;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,farmer,good;new;old;big;small;same;only;young;real;hard
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,lawyer,good;new;old;big;small;same;only;young;real;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,musician,good;new;old;big;small;young;famous;same;only;real
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,scientist,good;new;old;big;small;young;same;only;real;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,soldier,good;new;old;big;small;strong;young;same;only;real
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,teacher,good;new;old;big;small;young;same;only;real;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Human Roles,writer,good;new;old;big;small;young;same;only;famous;real
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,book,good;new;old;big;small;long;same;only;real;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,bridge,big;new;old;long;small;same;only;high;good;real
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,drums,big;new;old;small;loud;same;only;good;black;real
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,earth,big;new;old;small;good;same;only;real;round;green
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,flute,new;old;good;small;long;same;only;silver;wooden;big
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,key,new;old;small;big;metal;same;only;silver;gold;good
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,knife,new;old;small;big;sharp;same;only;metal;good;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,lock,new;old;small;big;metal;same;only;good;strong;silver
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,moon,big;new;old;full;small;white;same;only;bright;round
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,pen,new;old;small;big;good;black;same;only;long;red
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,sun,big;hot;new;old;bright;small;same;only;good;yellow
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Inanimate Objects,sword,new;old;big;small;long;same;only;sharp;good;metal
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,cat,small;new;old;big;black;white;good;same;only;cute
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,dog,big;small;new;old;good;black;white;same;only;brown
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,dolphin,big;new;old;good;small;grey;same;only;real;fast
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,elephant,big;new;old;good;small;grey;same;only;real;strong
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,hamster,small;new;old;good;big;brown;same;only;cute;white
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,monkey,small;new;old;good;big;brown;same;only;real;funny
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,mouse,small;new;old;good;big;grey;same;only;real;white
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,peacock,beautiful;big;new;old;good;small;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,rabbit,small;new;old;good;big;white;same;only;cute;real
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,shark,big;new;old;good;small;grey;same;only;real;strong
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,snake,big;new;old;good;small;long;same;only;real;dangerous
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Neutral Animals,whale,big;new;old;good;small;grey;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,city,big;new;old;small;good;same;only;important;real;beautiful
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,desert,big;hot;new;old;small;dry;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,forest,big;new;old;small;green;same;only;real;long;good
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,island,big;new;old;small;good;same;only;real;long;green
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,lake,big;new;old;small;blue;good;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,mountain,big;new;old;high;small;good;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,ocean,big;blue;new;old;small;good;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,plain,big;new;old;small;good;green;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,plateau,big;new;old;high;small;good;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,river,big;new;old;small;long;good;same;only;real;blue
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,valley,big;new;old;green;small;good;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Places,village,small;new;old;good;big;same;only;real;long;beautiful
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,cactus,big;small;new;old;green;long;same;only;real;sharp
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,eggplant,purple;big;new;old;small;good;same;only;long;fresh
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,flower,beautiful;big;new;old;small;good;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,grass,green;big;new;old;small;good;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,lettuce,green;new;old;small;good;big;same;only;real;fresh
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,mushroom,small;new;old;good;big;brown;same;only;real;white
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,onion,big;new;old;small;good;white;same;only;real;yellow
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,pepper,red;new;old;small;big;good;same;only;long;fresh
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,potato,big;new;old;small;good;brown;same;only;long;white
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,rose,red;beautiful;big;new;old;small;good;same;only;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,tomato,red;new;old;small;big;good;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Plants,tree,big;new;old;small;green;tall;same;only;real;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,ally,good;big;new;old;small;strong;same;only;real;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,brother,big;small;new;old;good;same;only;real;young;older
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,enemy,big;bad;new;old;small;strong;same;only;real;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,father,big;small;new;old;good;same;only;real;young;older
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,follower,big;new;old;small;good;same;only;real;young;many
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,friend,good;big;new;old;small;real;same;only;best;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,leader,good;big;new;old;small;strong;same;only;real;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,mother,big;small;new;old;good;same;only;real;young;older
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,partner,good;big;new;old;small;same;only;real;important;strong
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,rival,big;new;old;small;good;bad;same;only;real;strong
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,sister,big;small;new;old;good;same;only;real;young;older
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Social Relationships,stranger,new;old;big;small;real;good;same;only;young;bad
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,above,far;high;new;old;same;only;real;good;big;small
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,back,new;old;big;small;long;same;only;good;real;black
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,below,far;low;new;old;same;only;real;good;big;small
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,east,far;new;old;same;only;real;good;big;small;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,front,new;old;big;small;long;same;only;good;real;black
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,inside,new;old;big;small;dark;same;only;real;good;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,left,new;old;big;small;same;only;real;good;long;far
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,north,far;new;old;same;only;real;good;big;small;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,outside,new;old;big;small;good;same;only;real;long;green
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,right,new;old;big;small;good;same;only;real;long;far
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,south,far;new;old;same;only;real;good;big;small;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Spatial Concepts,west,far;new;old;same;only;real;good;big;small;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,century,long;new;old;big;small;same;only;real;important;past
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,day,big;new;old;small;good;long;same;only;real;sunny
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,evening,good;new;old;big;small;same;only;real;long;beautiful
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,hour,long;new;old;big;small;same;only;real;important;quick
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,minute,quick;new;old;big;small;same;only;real;important;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,month,long;new;old;big;small;same;only;real;important;last
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,morning,good;new;old;big;small;same;only;real;early;beautiful
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,night,dark;new;old;big;small;same;only;real;long;black
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,season,long;new;old;big;small;same;only;real;important;good
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,second,quick;new;old;big;small;same;only;real;important;last
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,week,long;new;old;big;small;same;only;real;important;last
+gemini-2.0-flash,basic,2.0,TH # Thai,B1,most frequent,Time Concepts,year,long;new;old;big;small;same;only;real;important;last
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,anger,big;strong;hot;sudden;bad;real;true;public;visible;intense
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,courage,great;real;strong;true;personal;inner;moral;physical;political;special
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,fear,great;big;real;strong;new;public;old;dark;natural;common
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,freedom,real;big;political;social;economic;personal;important;basic;full;equal
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,happiness,real;great;true;simple;possible;general;pure;sure;special;own
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,hate,strong;deep;great;real;political;racial;blind;intense;public
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,honesty,real;true;great;simple;pure;total;absolute;brutal;social;old
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,justice,real;social;equal;economic;true;fair;political;international;local;possible
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,knowledge,great;big;important;new;good;general;public;special;practical;personal
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,love,great;true;deep;real;big;first;strong;important;happy;public
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,peace,great;real;lasting;true;important;international;social;possible;world;total
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Abstract Concepts,wisdom,great;old;real;true;common;traditional;political;social;important;simple
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,bell,big;small;old;loud;new;silver;church;school;metal;bronze
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,candle,small;white;red;long;short;big;burning;wax;old;new
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,carpet,big;red;old;new;Persian;wool;beautiful;long;soft;green
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,coin,old;new;gold;silver;small;big;valuable;foreign;rare;fake
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,crown,gold;royal;silver;big;small;new;old;beautiful;important;metal
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,flag,national;big;small;red;white;new;old;official;blue;political
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,mask,black;white;old;new;paper;plastic;scary;funny;face;big
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,necklace,gold;silver;beautiful;long;short;new;old;diamond;pearl;simple
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,painting,old;new;beautiful;famous;good;abstract;oil;big;small;modern
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;new;old;big;small;beautiful;simple
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,statue,big;old;stone;bronze;new;small;famous;tall;beautiful;public
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Cultural Artifacts,vase,beautiful;glass;old;new;small;big;flower;tall;ceramic;blue
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,cloud,big;white;dark;grey;small;black;heavy;rain;high;low
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,earthquake,big;strong;major;small;recent;bad;common;first;real;powerful
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,fog,thick;heavy;dense;white;bad;real;cold;early;late;morning
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,lightning,bright;strong;sudden;dark;loud;dangerous;common;rare;real;good
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,rain,heavy;strong;light;hard;cold;bad;acid;sudden;good;real
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,rainbow,beautiful;big;bright;colorful;double;rare;full;light;faint;common
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,snow,white;heavy;new;soft;cold;big;light;fresh;deep;little
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,storm,big;strong;bad;heavy;major;sudden;new;tropical;severe;public
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,thunder,loud;strong;big;sudden;far;close;dark;heavy;deep;distant
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,tide,high;low;strong;new;big;bad;sea;good;great;weak
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,volcano,active;big;dormant;famous;new;strong;large;major;small;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Environmental Phenomena,wind,strong;cold;hot;high;bad;south;east;north;west;light
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,apple,red;green;big;small;sweet;good;bad;fresh;healthy;local
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,banana,yellow;ripe;sweet;good;green;small;big;soft;organic;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,beef,good;bad;raw;cooked;grilled;fried;lean;ground;fresh;cheap
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,bread,white;brown;fresh;whole;wheat;good;bad;soft;hard;homemade
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,broccoli,green;fresh;good;raw;cooked;organic;big;small;frozen;healthy
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,cheese,good;hard;soft;fresh;white;yellow;strong;old;grated;local
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,chicken,good;fried;cooked;grilled;raw;roasted;fresh;whole;small;big
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,egg,white;brown;fresh;hard;soft;boiled;fried;raw;small;big
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,fish,fresh;raw;cooked;grilled;fried;small;big;good;bad;salt
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,pasta,good;dry;fresh;long;short;whole;wheat;white;italian;homemade
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,rice,white;brown;long;short;cooked;raw;good;fried;steamed;big
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Food Items,soup,hot;cold;good;chicken;vegetable;tomato;homemade;creamy;clear;thick
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,artist,good;famous;young;old;modern;local;great;talented;known;new
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,athlete,good;great;young;old;professional;top;talented;successful;local;amateur
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,chef,good;famous;young;old;head;local;private;professional;talented;italian
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,doctor,good;young;old;local;general;family;female;male;great;new
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,engineer,good;young;old;civil;mechanical;electrical;chemical;structural;software;new
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,farmer,local;young;old;small;big;good;poor;new;organic;family
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,lawyer,good;young;old;family;local;corporate;criminal;famous;important;new
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,musician,good;young;old;local;famous;talented;professional;new;great;live
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,scientist,young;old;good;famous;important;great;political;lead;top;chief
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,soldier,young;brave;good;new;old;injured;armed;important;professional;national
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,teacher,good;young;old;school;english;math;science;social;local;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Human Roles,writer,good;young;old;famous;great;new;local;important;lead;top
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,book,good;new;old;big;small;important;interesting;long;short;red
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,bridge,big;old;new;long;short;famous;wooden;metal;strong;small
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,drums,loud;big;small;new;old;musical;strong;good;set;local
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,earth,big;round;small;old;new;good;important;own;whole;different
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,flute,wooden;silver;new;old;long;short;small;big;musical;beautiful
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,key,old;new;small;big;important;house;car;room;gold;silver
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,knife,sharp;new;old;small;big;kitchen;good;butter;bread;long
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,lock,old;new;big;small;strong;good;safe;secure;important;special
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,moon,full;new;big;small;bright;dark;white;beautiful;far;close
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,pen,new;old;good;blue;black;red;small;big;expensive;cheap
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,sun,hot;bright;big;strong;warm;good;real;new;early;setting
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Inanimate Objects,sword,long;sharp;old;new;small;big;steel;silver;good;famous
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,cat,small;big;black;white;grey;old;new;young;stray;local
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,dog,big;small;old;young;good;bad;black;white;stray;brown
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,dolphin,big;small;good;grey;blue;happy;new;young;wild;tame
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,elephant,big;grey;old;young;small;african;asian;good;wild;new
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,hamster,small;cute;brown;white;young;good;little;pet;big;black
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,monkey,small;big;brown;black;white;young;old;cute;funny;wild
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,mouse,small;grey;white;black;brown;little;young;new;good;bad
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,peacock,beautiful;colorful;big;new;young;old;indian;bright;small;exotic
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,rabbit,small;white;brown;black;big;young;old;cute;wild;new
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,shark,big;white;dangerous;new;small;black;great;blue;old;bad
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,snake,long;big;small;green;black;white;dangerous;new;old;brown
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Neutral Animals,whale,big;blue;grey;humpback;new;small;old;white;killer;baleen
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,city,big;small;old;new;important;large;famous;modern;historical;capital
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,desert,hot;big;dry;sandy;new;old;small;arid;cold;rocky
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,forest,big;green;old;new;dark;deep;important;tropical;national;wild
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,island,big;small;tropical;new;old;green;remote;desert;volcanic;beautiful
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,lake,big;small;blue;deep;new;old;clear;cold;fresh;natural
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,mountain,high;big;small;old;new;rocky;snowy;tall;famous;green
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,ocean,big;deep;blue;cold;warm;new;old;salt;dangerous;clear
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,plain,big;flat;green;new;old;small;wide;open;grassy;treeless
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,plateau,high;flat;big;old;new;small;rocky;desert;elevated;remote
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,river,big;long;small;old;new;deep;clear;wide;main;strong
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,valley,deep;green;big;new;old;small;wide;narrow;long;beautiful
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Places,village,small;old;new;rural;big;quiet;peaceful;traditional;local;simple
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,cactus,big;small;green;old;new;desert;prickly;sharp;tall;short
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,eggplant,big;purple;long;small;new;old;round;fresh;cooked;good
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,flower,beautiful;red;white;yellow;small;big;new;old;fresh;colorful
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,grass,green;long;short;new;old;fresh;dry;thick;thin;good
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,lettuce,green;fresh;new;old;small;big;good;healthy;crispy;red
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,mushroom,big;small;wild;edible;poisonous;new;old;fresh;white;brown
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,onion,big;small;white;red;yellow;new;old;fresh;cooked;raw
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,pepper,hot;red;green;black;white;small;big;new;old;fresh
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,potato,big;small;white;red;yellow;new;old;fresh;cooked;mashed
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,rose,red;beautiful;white;pink;new;old;small;big;fragrant;fresh
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,tomato,red;ripe;green;new;old;small;big;fresh;good;cooked
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Plants,tree,big;tall;small;old;new;green;wooden;strong;famous;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,ally,good;strong;big;important;real;old;new;true;main;close
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,brother,big;small;young;old;new;good;bad;half;step;little
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,enemy,big;real;strong;old;new;bad;true;public;major;dangerous
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,father,old;young;good;bad;real;step;new;important;little;biological
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,follower,good;big;new;young;true;loyal;strong;local;old;many
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,friend,good;real;best;old;new;close;true;long;life;childhood
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,leader,good;strong;great;new;young;old;important;public;political;true
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,mother,good;old;young;real;step;new;great;single;biological;first
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,partner,good;business;new;young;old;important;local;life;main;equal
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,rival,big;main;strong;real;old;new;equal;local;public;young
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,sister,big;small;young;old;half;step;new;good;little;true
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Social Relationships,stranger,big;young;old;bad;small;real;nice;good;dangerous;scary
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,above,high;big;new;old;far;important;general;all;different;blue
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,back,old;good;new;bad;main;right;small;strong;wrong;next
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,below,low;big;small;old;new;bad;sea;public;general;important
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,east,far;new;old;west;south;north;middle;near;good;bad
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,front,new;old;big;small;good;important;bad;open;main;first
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,inside,warm;good;new;small;big;old;main;little;deep;safe
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,left,new;old;small;good;big;right;political;bad;only;total
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,north,cold;far;big;new;old;small;strong;bad;main;east
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,outside,big;small;old;new;good;warm;cold;far;dangerous;main
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,right,new;old;big;small;good;true;correct;only;total;best
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,south,warm;big;new;old;small;good;main;bad;far;different
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Spatial Concepts,west,far;new;old;small;big;south;east;north;good;public
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,century,old;new;big;long;21st;past;present;common;current;coming
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,day,good;bad;new;old;big;small;happy;long;short;sunny
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,evening,good;bad;new;old;happy;long;short;early;late;beautiful
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,hour,long;short;new;old;late;early;good;happy;first;main
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,minute,long;short;new;old;last;first;main;single;little;next
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,month,new;old;big;small;last;next;full;past;present;main
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,morning,good;bad;new;old;long;happy;cold;hot;dark;bright
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,night,good;bad;new;old;big;small;long;dark;short;last
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,season,good;new;old;big;small;dry;wet;summer;winter;warm
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,second,long;short;new;old;last;next;fast;first;important;slow
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,week,new;old;big;long;short;last;next;coming;small;bad
+gemini-2.0-flash,basic,2.0,TH # Thai,B2,most frequent,Time Concepts,year,new;old;good;bad;big;small;happy;last;next;important
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,anger,great;hot;deep;real;burning;blind;righteous;suppressed;cold;sudden
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,courage,great;real;true;moral;political;physical;quiet;fierce;personal;amazing
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,fear,great;real;true;cold;deep;crippling;irrational;unfounded;abject;lingering
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,freedom,great;political;economic;individual;personal;social;intellectual;religious;basic;legal
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,happiness,great;real;true;pure;simple;lasting;fleeting;perfect;genuine;childlike
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,hate,great;deep;blind;real;abiding;burning;intense;irrational;passionate;visceral
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,honesty,great;complete;brutal;refreshing;open;sincere;unquestionable;simple;perceived;plain
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,justice,great;social;criminal;economic;racial;environmental;distributive;restorative;rough;blind
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,knowledge,great;real;true;practical;detailed;extensive;theoretical;esoteric;useful;specific
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,love,great;true;deep;unconditional;selfless;passionate;first;brotherly;lost;forbidden
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,peace,great;lasting;true;fragile;uneasy;global;internal;international;negotiated;relative
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Abstract Concepts,wisdom,great;true;practical;collective;ancient;traditional;profound;accumulated;political;spiritual
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,bell,small;big;church;school;brass;loud;clear;silver;deep;resonant
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,candle,small;big;white;wax;scented;burning;tall;short;votive;decorative
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,carpet,old;new;red;blue;oriental;persian;thick;thin;wool;patterned
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,coin,gold;silver;old;new;rare;foreign;lucky;fake;real;commemorative
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,crown,gold;silver;royal;jeweled;heavy;ceremonial;bejeweled;ornate;simple;small
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,flag,national;red;white;blue;big;small;waving;torn;historical;official
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,mask,scary;white;black;funny;surgical;protective;ornate;plain;anonymous;halloween
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;long;short;beaded;simple;elegant;delicate
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,painting,old;new;famous;beautiful;oil;abstract;landscape;portrait;large;colorful
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;simple;big;small;plain;decorative
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,statue,old;new;bronze;stone;marble;tall;small;famous;public;religious
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Cultural Artifacts,vase,glass;ceramic;flower;tall;short;big;small;ornate;antique;modern
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,cloud,white;dark;grey;rain;big;small;fluffy;stormy;gathering;low
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;major;devastating;recent;past;sudden;unexpected
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,fog,thick;heavy;dense;morning;early;late;white;grey;freezing;lifting
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;forked;sheet;distant;close;dangerous;frequent;impressive
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;cold;warm;sudden;constant;gentle;torrential
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,rainbow,bright;colorful;double;beautiful;faint;full;partial;arc;rare;shimmering
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,snow,heavy;light;fresh;falling;deep;white;dry;wet;powdery;drifting
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,storm,big;strong;severe;heavy;rain;wind;electrical;snow;ice;winter
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,thunder,loud;deep;distant;rumbling;booming;echoing;rolling;crashing;sudden;continuous
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;incoming;outgoing;spring;neap;daily;changing
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;large;small;volcanic;ash;smoking;dangerous;powerful
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Environmental Phenomena,wind,strong;weak;cold;warm;high;gentle;constant;light;shifting;gusty
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,apple,red;green;big;small;sweet;sour;fresh;crisp;juicy;ripe
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,banana,yellow;ripe;green;sweet;long;short;big;small;soft;fresh
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,beef,raw;cooked;tender;tough;lean;ground;grilled;roast;prime;grass-fed
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,bread,white;brown;whole;wheat;fresh;stale;hard;soft;toasted;sliced
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,broccoli,fresh;green;raw;cooked;steamed;organic;frozen;chopped;tender;florets
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,cheese,hard;soft;sharp;mild;cheddar;swiss;blue;aged;fresh;creamy
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,chicken,raw;cooked;fried;roasted;grilled;skinless;boneless;organic;whole;breaded
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,egg,raw;cooked;boiled;fried;scrambled;fresh;organic;large;small;white
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,fish,fresh;saltwater;freshwater;raw;cooked;fried;grilled;bony;white;oily
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,pasta,long;short;dry;cooked;fresh;white;whole;wheat;italian;homemade
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,rice,white;brown;cooked;boiled;fried;long;grain;short;sticky
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Food Items,soup,hot;cold;creamy;vegetable;chicken;beef;tomato;thick;thin;homemade
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,artist,famous;talented;young;old;starving;unknown;local;modern;classic;contemporary
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,athlete,professional;amateur;young;talented;experienced;injured;competitive;dedicated;famous;olympic
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,chef,famous;talented;head;executive;young;experienced;creative;celebrity;french;italian
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,doctor,good;young;experienced;family;general;medical;local;head;senior;female
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,engineer,civil;electrical;mechanical;young;experienced;talented;chief;project;senior;design
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,farmer,small;big;local;organic;family;young;old;traditional;modern;independent
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,lawyer,good;young;experienced;criminal;corporate;local;defense;famous;real;estate
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,musician,talented;young;old;famous;local;professional;session;jazz;rock;classical
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,scientist,young;old;famous;leading;top;brilliant;dedicated;research;political;principal
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,soldier,young;brave;experienced;injured;fallen;active;duty;loyal;special;rank
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,teacher,good;young;old;experienced;dedicated;high;school;elementary;private;special
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Human Roles,writer,young;old;famous;new;unknown;good;talented;prolific;ghost;best-selling
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,book,old;new;long;short;good;interesting;popular;fiction;non-fiction;academic
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,bridge,long;short;high;old;new;steel;stone;suspension;wooden;concrete
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,drums,loud;big;small;new;old;african;electric;snare;bass;heavy
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,earth,big;small;round;blue;flat;dry;wet;hard;soft;warm
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,flute,silver;wooden;long;short;high;pitched;soft;toned;orchestral;concert
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,key,small;big;new;old;gold;silver;spare;main;important;rusty
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,knife,sharp;new;old;kitchen;hunting;small;big;steak;pocket;butter
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,lock,new;old;strong;secure;combination;small;big;simple;electronic;deadbolt
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,moon,full;new;bright;dark;crescent;half;rising;setting;waxing;waning
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,pen,blue;black;red;new;old;cheap;expensive;ballpoint;fountain;gel
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,sun,bright;hot;strong;warm;setting;rising;early;midday;late;distant
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Inanimate Objects,sword,long;short;sharp;old;new;steel;iron;heavy;light;ancient
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,cat,black;white;big;small;stray;cute;furry;young;old;fat
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,dog,big;small;black;white;stray;cute;furry;young;old;friendly
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,dolphin,grey;small;big;playful;intelligent;bottlenose;friendly;wild;trained;leaping
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,elephant,big;grey;african;indian;young;old;wild;trained;large;strong
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,hamster,small;cute;brown;white;fluffy;furry;young;playful;golden;friendly
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,monkey,small;big;brown;playful;smart;hairy;young;old;funny;loud
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,mouse,small;grey;white;brown;cute;little;young;old;wild;lab
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,peacock,beautiful;colorful;iridescent;large;proud;strutting;vibrant;male;stunning;exotic
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,rabbit,white;brown;black;cute;small;big;wild;domestic;furry;young
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,shark,big;small;grey;white;dangerous;predatory;great;hammerhead;reef;nurse
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,snake,long;thin;big;small;green;brown;black;venomous;dangerous;harmless
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Neutral Animals,whale,big;blue;grey;humpback;killer;small;migrating;baleen;toothed;singing
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,city,big;small;modern;old;large;historic;industrial;capital;coastal;bustling
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,desert,hot;dry;sandy;barren;vast;empty;arid;cold;rocky;remote
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,forest,big;old;dark;dense;green;large;tall;thick;ancient;wild
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,island,small;big;tropical;remote;desert;volcanic;caribbean;pacific;populated;uninhabited
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,lake,big;small;deep;clear;blue;freshwater;saltwater;natural;artificial;frozen
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,mountain,high;big;tall;snow;capped;rocky;green;steep;volcanic;remote
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,ocean,big;deep;blue;salty;vast;cold;warm;atlantic;pacific;indian
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,plain,flat;open;wide;grassy;large;vast;rolling;fertile;arid;coastal
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,plateau,high;flat;wide;large;elevated;arid;rocky;grassy;rolling;remote
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,river,long;wide;big;small;fast;flowing;slow;deep;muddy;clean
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,valley,green;wide;narrow;deep;long;beautiful;hidden;peaceful;fertile;scenic
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Places,village,small;quiet;rural;old;traditional;remote;peaceful;friendly;historic;quaint
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,cactus,tall;short;green;prickly;spiny;desert;flowering;barrel;saguaro;small
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,eggplant,purple;long;big;small;round;fresh;fried;cooked;raw;italian
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,flower,beautiful;colorful;fragrant;small;big;fresh;wild;artificial;blooming;exotic
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,grass,green;long;short;fresh;dry;wet;thick;thin;wild;artificial
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,lettuce,green;fresh;crisp;leafy;raw;chopped;small;big;romaine;butterhead
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,mushroom,big;small;wild;edible;poisonous;white;brown;fresh;cooked;dried
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,onion,white;yellow;red;small;big;raw;cooked;fresh;chopped;fried
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,pepper,red;green;hot;sweet;small;big;black;white;fresh;dried
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,potato,big;small;red;white;russet;sweet;baked;fried;mashed;roasted
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fragrant;thorny;fresh;artificial;long-stemmed
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,tomato,red;green;ripe;fresh;juicy;big;small;cherry;plum;heirloom
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Plants,tree,tall;big;old;green;large;small;oak;pine;deciduous;evergreen
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,ally,strong;close;important;loyal;powerful;reliable;new;former;old;true
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,brother,big;little;older;younger;half;step;foster;blood;elder
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,enemy,great;sworn;bitter;dangerous;common;formidable;ruthless;personal;old;mortal
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,father,good;great;loving;strong;biological;adoptive;foster;step;single;absent
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,follower,loyal;devoted;strong;many;active;passionate;potential;influential;new;eager
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,friend,good;best;close;old;true;loyal;new;mutual;childhood;online
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,leader,good;strong;great;political;charismatic;influential;new;young;experienced;elected
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,mother,good;great;loving;strong;biological;adoptive;foster;step;single;working
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,partner,business;life;equal;strong;new;former;managing;senior;junior;key
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,rival,strong;bitter;fierce;old;close;main;chief;potential;unexpected;intense
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,sister,big;little;older;younger;half;step;foster;blood;elder
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Social Relationships,stranger,total;complete;perfect;casual;friendly;helpful;suspicious;strange;tall;dark
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,above,high;far;directly;clear;floating;just;way;always;generally;normally
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,back,long;short;pain;side;straight;lower;upper;bad;injured;weak
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,below,freezing;sea;zero;ground;just;far;always;average;par;acceptable
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,east,far;middle;near;wild;central;south;west;north;direct;forward
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,front,big;little;open;near;top;right;left;direct;forward;stage
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,inside,dark;light;clean;dirty;warm;cold;dry;wet;secret;inner
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,left,far;hard;soft;clear;near;over;well;much;alone;standing
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,north,far;central;near;south;direct;upper;true;deep;remote;wild
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,outside,cold;warm;dry;wet;bright;dark;dangerous;public;private;inner
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,right,far;over;hard;near;just;good;wrong;dead;moral;inherent
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,south,far;deep;central;east;west;direct;wild;true;upper;lower
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Spatial Concepts,west,far;wild;central;north;south;near;direct;coast;front;back
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,century,long;twentieth;late;early;new;past;present;twenty-first;first;future
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,day,good;bad;long;short;sunny;rainy;early;late;present;last
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,evening,good;long;warm;cool;quiet;busy;pleasant;peaceful;late;early
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,hour,long;short;late;early;peak;off-peak;golden;happy;final;first
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,minute,long;short;last;final;extra;precious;split;crucial;remaining;every
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,month,long;short;last;next;coming;current;previous;past;first;whole
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,morning,good;beautiful;cold;fresh;early;late;bright;foggy;every;lazy
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,night,good;long;dark;quiet;late;early;every;clear;still;last
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,season,good;bad;long;short;hot;cold;dry;wet;growing;off
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,second,long;short;every;last;next;crucial;split;single;brief;exact
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,week,long;short;last;next;full;whole;current;coming;past;final
+gemini-2.0-flash,basic,2.0,TH # Thai,C1,most frequent,Time Concepts,year,good;bad;long;short;last;next;current;coming;previous;past
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,anger,intense;great;blind;burning;deep;righteous;suppressed;controlled;cold;simmering
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,courage,great;true;moral;inner;amazing;quiet;fierce;false;newfound;inspiring
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,fear,great;deep;intense;irrational;crippling;primal;real;utter;nagging;underlying
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,freedom,great;fundamental;basic;limited;political;personal;economic;individual;true;hard-won
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,happiness,great;true;pure;simple;lasting;genuine;inner;fleeting;childhood;shared
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,hate,intense;burning;deep;strong;irrational;bitter;passionate;blind;underlying;unspoken
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,honesty,absolute;complete;brutal;painful;refreshing;simple;personal;genuine;questionable;professional
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,justice,social;fair;equal;blind;rough;restorative;international;criminal;civil;delayed
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,knowledge,great;broad;extensive;practical;common;scientific;specialist;tacit;deep;technical
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,love,great;unconditional;true;pure;deep;first;passionate;selfless;brotherly;parental
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,peace,lasting;uneasy;fragile;negotiated;international;inner;relative;world;temporary;true
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Abstract Concepts,wisdom,great;traditional;inner;practical;ancient;worldly;acquired;profound;accumulated;divine
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,bell,church;loud;clear;school;small;hand;warning;ship's;deep;ringing
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,candle,wax;burning;scented;small;tall;white;lit;flickering;votive;long
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,carpet,Persian;wool;thick;oriental;red;large;expensive;soft;rolled;thin
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,coin,gold;silver;rare;ancient;commemorative;valuable;old;lucky;small;copper
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,crown,royal;golden;jeweled;ceremonial;silver;heavy;ornate;victory;floral;king's
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,flag,national;red;white;blue;waving;rebel;state;tattered;colourful;surrender
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,mask,paper;theatrical;plastic;Venetian;scary;tribal;medical;gas;ceremonial;anonymous
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,necklace,gold;silver;beaded;diamond;pearl;chain;gemstone;long;simple;elaborate
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,painting,oil;watercolor;abstract;famous;original;landscape;portrait;beautiful;old;modern
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;precious;valuable;ornate;simple;antique
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,statue,bronze;marble;stone;large;famous;historical;religious;ancient;granite;commemorative
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Cultural Artifacts,vase,ceramic;glass;porcelain;flower;decorative;tall;beautiful;antique;valuable;ornate
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,cloud,white;dark;grey;fluffy;rain;storm;passing;gathering;low;heavy
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,earthquake,major;minor;devastating;strong;powerful;recent;unexpected;terrifying;sudden;predicted
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,fog,thick;dense;heavy;morning;pea-soup;rolling;mysterious;lingering;chilling;coastal
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;fork;sheet;dangerous;forked;distant;summer;powerful;unexpected
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,rain,heavy;light;torrential;steady;warm;cold;gentle;pouring;acid;persistent
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,rainbow,bright;colourful;double;faint;full;arched;distant;ethereal;promising;magical
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,snow,heavy;light;falling;fresh;deep;drifting;powdery;wet;melting;pristine
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,storm,heavy;severe;major;violent;electrical;approaching;winter;summer;passing;gathering
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;crashing;deep;heavy;rolling;sudden;echoing;approaching
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;spring;neap;incoming;outgoing;powerful
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;volcanic;large;dangerous;smoking;erupting;towering;powerful
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;gentle;gusty;prevailing;offshore;chilling;easterly
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,apple,red;green;juicy;crisp;ripe;sweet;sour;delicious;fresh;organic
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;fresh;long;Cavendish;small;organic;unripe
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,beef,lean;ground;tender;tough;prime;grilled;rare;cooked;aged;sliced
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,bread,white;whole-wheat;fresh;stale;sliced;toasted;crusty;soft;brown;sourdough
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,broccoli,fresh;green;cooked;steamed;raw;healthy;organic;frozen;tender;crisp
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,cheese,cheddar;swiss;blue;hard;soft;aged;smelly;grated;sliced;creamy
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,chicken,fried;roasted;grilled;cooked;raw;fresh;boneless;skinless;tender;marinated
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,egg,hard-boiled;soft-boiled;fried;scrambled;raw;fresh;organic;white;brown;cracked
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,fish,fresh;cooked;grilled;fried;raw;saltwater;freshwater;white;oily;frozen
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,pasta,spaghetti;penne;fettuccine;cooked;dried;fresh;al dente;long;short;durum
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,rice,white;brown;basmati;long-grain;cooked;steamed;fried;sticky;wild;instant
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Food Items,soup,chicken;tomato;vegetable;hot;cold;creamy;thick;hearty;homemade;canned
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,artist,talented;famous;local;young;starving;contemporary;modern;great;struggling;freelance
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,athlete,professional;amateur;Olympic;young;talented;successful;famous;dedicated;injured;competitive
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,chef,executive;head;sous;famous;talented;skilled;professional;creative;demanding;innovative
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,doctor,family;general;specialist;experienced;young;resident;attending;dedicated;caring;qualified
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;experienced;qualified;chartered;structural;chemical;innovative
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,farmer,small;local;organic;traditional;modern;hardworking;family;struggling;successful;independent
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,lawyer,experienced;corporate;criminal;family;young;successful;senior;junior;skilled;dedicated
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,musician,talented;famous;young;local;classical;jazz;rock;skilled;dedicated;struggling
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,scientist,research;leading;young;experienced;brilliant;dedicated;senior;junior;renowned;innovative
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,soldier,brave;young;veteran;experienced;dedicated;wounded;injured;fallen;serving;trained
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,teacher,experienced;dedicated;enthusiastic;young;senior;junior;caring;qualified;skilled;effective
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Human Roles,writer,famous;successful;young;aspiring;talented;freelance;struggling;published;established;creative
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,book,good;interesting;long;short;new;old;favorite;paperback;hardback;borrowed
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,bridge,long;suspension;golden;covered;stone;steel;narrow;old;new;damaged
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,drums,loud;bass;snare;acoustic;electronic;marching;tribal;steel;orchestral;second
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,earth,round;blue;flat;mother;hard;fertile;dry;barren;damp;soft
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,flute,silver;wooden;high;sweet;concert;bamboo;plastic;long;thin;small
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,key,metal;important;spare;master;golden;lost;front door;car;special;unlocking
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,knife,sharp;kitchen;pocket;hunting;butter;steak;serrated;dull;folding;small
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,lock,strong;secure;combination;key;digital;padlock;old;rusty;front door;bike
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,moon,full;new;bright;dark;crescent;waxing;waning;silver;blue;harvest
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,pen,blue;black;ballpoint;fountain;expensive;cheap;felt-tip;broken;red;signing
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,sun,bright;hot;warm;shining;rising;setting;midday;fierce;golden;summer
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Inanimate Objects,sword,sharp;long;steel;ceremonial;knight's;samurai;short;dull;heavy;light
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,cat,black;white;small;stray;fluffy;friendly;ginger;calico;sleepy;playful
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,dog,large;small;friendly;stray;black;white;golden;loyal;playful;trained
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,dolphin,playful;intelligent;friendly;grey;bottle-nose;trained;wild;injured;captive;swimming
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,elephant,large;grey;wild;African;Indian;baby;trained;injured;old;gentle
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,hamster,small;cute;fluffy;golden;brown;white;playful;caged;pet;quiet
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,monkey,playful;small;brown;chimpanzee;spider;trained;wild;captive;mischievous;clever
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,mouse,small;grey;brown;white;wild;laboratory;squeaky;frightened;trapped;quiet
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,peacock,colourful;beautiful;large;proud;Indian;male;female;exotic;majestic;iridescent
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,rabbit,white;brown;small;fluffy;wild;domestic;pet;caged;hopping;frightened
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,shark,great white;dangerous;large;swimming;tiger;hammerhead;wild;fearsome;predatory;man-eating
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,snake,long;venomous;poisonous;grass;green;brown;black;dangerous;wild;harmless
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Neutral Animals,whale,large;blue;humpback;swimming;killer;wild;endangered;majestic;grey;baleen
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,city,large;busy;modern;ancient;capital;coastal;historical;industrial;sprawling;vibrant
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,desert,hot;arid;sandy;vast;barren;dry;empty;remote;silent;rocky
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,forest,green;dense;dark;ancient;pine;tropical;national;wild;protected;magical
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,island,tropical;remote;small;deserted;volcanic;paradise;populated;rocky;caribbean;inhabited
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,lake,clear;blue;deep;large;small;mountain;freshwater;scenic;frozen;polluted
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,mountain,high;snow-capped;majestic;rocky;steep;dormant;active;towering;distant;green
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,ocean,blue;vast;deep;cold;warm;salty;rough;stormy;pacific;atlantic
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,plain,flat;open;wide;grassy;fertile;barren;endless;agricultural;rural;desolate
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,plateau,high;flat;rocky;barren;elevated;arid;large;expansive;windswept;inaccessible
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,river,long;wide;deep;slow;fast;winding;navigable;muddy;polluted;powerful
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,valley,green;deep;wide;narrow;fertile;scenic;wooded;peaceful;rolling;distant
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Places,village,small;quiet;peaceful;rural;traditional;picturesque;remote;charming;friendly;historic
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,cactus,prickly;spiky;tall;desert;green;flowering;barrel;saguaro;small;potted
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,eggplant,purple;large;shiny;fresh;cooked;sliced;grilled;stuffed;roasted;delicious
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,flower,beautiful;colourful;fragrant;delicate;fresh;wild;garden;small;large;blooming
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,grass,green;long;short;wet;dry;soft;lush;thick;tall;sparse
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,lettuce,green;fresh;crisp;romaine;iceberg;healthy;leafy;salad;organic;crunchy
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,mushroom,edible;poisonous;wild;cultivated;white;brown;fresh;dried;large;small
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,onion,white;yellow;red;raw;cooked;sliced;chopped;strong;sweet;fried
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,pepper,black;red;green;hot;spicy;sweet;bell;ground;dried;whole
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,potato,white;red;baked;mashed;fried;cooked;raw;small;large;roasted
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,rose,red;pink;white;yellow;fragrant;beautiful;thorny;long-stemmed;delicate;blooming
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,tomato,red;ripe;juicy;fresh;sliced;cooked;canned;cherry;organic;large
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Plants,tree,tall;green;old;big;strong;leafy;pine;oak;fruit;flowering
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,ally,strong;reliable;close;important;key;loyal;political;powerful;military;trusted
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,brother,older;younger;little;big;close;elder;half;step;favorite
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,enemy,bitter;dangerous;sworn;common;arch;powerful;formidable;political;eternal;old
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,father,loving;strict;adoptive;biological;late;strong;single;stern;old
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,follower,loyal;faithful;ardent;enthusiastic;dedicated;blind;strong;numerous;key;early
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,friend,close;best;good;old;childhood;true;loyal;common;mutual;real
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,leader,strong;effective;powerful;popular;political;natural;born;elected;appointed;charismatic
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,mother,loving;caring;biological;adoptive;late;step;working;young;single;stern
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,partner,business;life;dance;legal;close;strong;equal;key;silent;common
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,rival,fierce;bitter;main;strong;tough;close;political;sporting;academic;longtime
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,sister,older;younger;little;big;half;step;close;favorite;elder
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Social Relationships,stranger,strange;mysterious;unfamiliar;friendly;helpful;total;silent;unexpected;unknown;suspicious
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,above,mentioned;listed;average;sea-level;sacred;spiritual;stated;clear;normal;ground
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,back,strong;sore;straight;lower;upper;weak;bad;comfortable;front;middle
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,below,freezing;average;sea-level;mentioned;listed;par;zero;ground;normal;surface
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,east,far;wild;middle;near;south;north;west;direct;facing;central
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,front,big;small;lower;main;middle;near;back;first;far;door
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,inside,clean;warm;cool;dark;safe;back;left;small;out;hidden
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,left,right;far;near;political;upper;main;over;extreme;wing;leaning
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,north,far;south;near;upper;wild;east;cold;frozen;middle;arctic
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,outside,bright;dark;near;back;small;cold;nice;inside;warm;front
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,right,left;far;correct;main;near;over;extreme;first;legal;human
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,south,far;north;wild;near;east;pole;facing;west;africa;central
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Spatial Concepts,west,far;wild;middle;near;direct;south;north;facing;pacific;coast
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,century,last;20th;19th;past;early;late;future;golden;new;following
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,day,good;bad;long;short;sunny;rainy;hot;cold;special;busy
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,evening,good;nice;quiet;pleasant;warm;cold;summer;long;dark;cool
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,hour,late;early;long;short;golden;last;spent;happy;first;half
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,minute,last;few;spare;long;little;waiting;extra;wasted;important;split
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,month,last;next;first;current;coming;entire;previous;whole;summer;winter
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,morning,good;early;cold;nice;sunny;late;quiet;warm;beautiful;foggy
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,night,good;bad;dark;long;quiet;warm;cold;late;summer;last
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,season,summer;winter;autumn;spring;favorite;rainy;dry;peak;short;current
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,second,last;first;short;split;fast;coming;golden;entire;spare;following
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,week,last;next;past;current;coming;whole;full;entire;busy;following
+gemini-2.0-flash,basic,2.0,TH # Thai,C2,most frequent,Time Concepts,year,last;next;coming;good;new;current;whole;academic;happy;entire
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,anger,intense;great;real;righteous;sudden;deep;consuming;uncontrolled;explosive;quiet
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,courage,great;true;moral;amazing;blind;quiet;unexpected;incredible;remarkable;personal
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,fear,great;real;deep;irrational;abject;paralyzing;crippling;underlying;instinctive;constant
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,freedom,great;hard-won;limited;fundamental;basic;ultimate;national;economic;personal;political
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,happiness,great;pure;true;simple;quiet;unexpected;contagious;genuine;fleeting;lasting
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,hate,pure;raw;blind;irrational;consuming;seething;underlying;burning;deep-seated;pathological
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,honesty,great;complete;brutal;refreshing;open;simple;true;fundamental;admirable;perceived
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,justice,true;great;social;economic;blind;rough;divine;restorative;procedural;retributive
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,knowledge,great;deep;extensive;practical;working;common;useful;specialized;intuitive;academic
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,love,great;true;pure;unconditional;passionate;lasting;devoted;tender;maternal;platonic
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,peace,lasting;great;fragile;uneasy;temporary;inner;outer;global;regional;hard-won
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Abstract Concepts,wisdom,great;ancient;accumulated;practical;conventional;spiritual;traditional;innate;worldly;experiential
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,bell,big;small;brass;bronze;silver;loud;church;school;dinner;front
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,candle,wax;white;red;small;big;tall;short;burning;scented;birthday
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,carpet,thick;Persian;oriental;colorful;old;new;soft;red;wool;shag
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,coin,gold;silver;bronze;old;rare;valuable;shiny;lucky;counterfeit;foreign
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,crown,gold;royal;jeweled;silver;big;small;ceremonial;diamond;bejeweled;antique
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;big;small;waving;tattered;rebel;battle
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,mask,scary;black;white;Halloween;plastic;protective;medical;painted;anonymous;elaborate
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;beaded;long;short;beautiful;expensive;cheap
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,painting,old;new;beautiful;framed;abstract;impressionistic;landscape;portrait;famous;colorful
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;promise;big;small;metal;ornate;plain
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,statue,bronze;marble;tall;stone;old;famous;big;public;commemorative;ancient
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,vase,glass;flower;ceramic;big;small;beautiful;tall;empty;decorative;crystal
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,cloud,white;gray;dark;black;big;small;fluffy;rain;stormy;threatening
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,earthquake,strong;big;devastating;powerful;major;minor;unexpected;recent;destructive;offshore
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;heavy;morning;sea;ground;freezing;pea-soup;lifting;rolling
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;fork;sheet;close;distant;summer;dangerous;frequent;impressive
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,rain,heavy;hard;light;gentle;steady;cold;warm;acid;tropical;torrential
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;double;faint;full;incomplete;magical;vibrant;fleeting
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,snow,heavy;light;fresh;falling;deep;wet;dry;powdery;dirty;melting
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,storm,big;bad;severe;wind;rain;thunder;electric;passing;brewing;impending
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,thunder,loud;rumbling;deep;close;distant;rolling;crashing;echoing;ominous;sudden
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;spring;neap;rising;falling;ebb
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;small;erupting;volcanic;hot;smoking;dangerous
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,wind,strong;light;cold;hot;easterly;westerly;gentle;soft;north;south
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,apple,red;green;big;small;sweet;sour;juicy;ripe;rotten;crisp
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,banana,yellow;ripe;green;sweet;long;short;big;small;bruised;organic
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,beef,tender;tough;ground;raw;cooked;grilled;roast;lean;fatty;aged
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,bread,white;wheat;whole;fresh;stale;crusty;soft;toasted;sliced;sourdough
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,broccoli,green;fresh;cooked;steamed;raw;organic;frozen;tender;mature;flowering
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,cheese,cheddar;Swiss;sharp;soft;hard;smelly;blue;aged;grated;melted
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,chicken,fried;grilled;roast;baked;raw;cooked;boneless;skinless;spicy;whole
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,egg,white;brown;fresh;hard-boiled;soft-boiled;raw;scrambled;fried;cracked;deviled
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,fish,fresh;saltwater;freshwater;cooked;fried;grilled;baked;raw;oily;bony
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,pasta,spaghetti;penne;cooked;boiled;dry;long;short;filled;fresh;italian
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,rice,white;brown;long-grain;short-grain;cooked;steamed;boiled;fried;sticky;wild
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Food Items,soup,hot;cold;chicken;tomato;vegetable;thick;creamy;clear;homemade;canned
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,artist,famous;talented;starving;struggling;local;contemporary;modern;great;known;recognized
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,athlete,professional;amateur;young;talented;dedicated;olympic;famous;injured;determined;gifted
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,chef,famous;head;sous;pastry;experienced;talented;master;celebrity;Michelin-starred;skilled
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,doctor,good;young;experienced;family;general;specialist;qualified;trusted;caring;senior
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;experienced;young;structural;senior;junior;chemical
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,farmer,old;young;local;family;organic;hardworking;traditional;independent;small;large
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,lawyer,good;experienced;corporate;criminal;family;divorce;young;senior;defending;prosecuting
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,musician,talented;young;famous;classical;jazz;rock;experienced;struggling;session;gifted
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,scientist,famous;leading;young;research;experienced;brilliant;dedicated;senior;junior;renowned
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,soldier,young;brave;experienced;veteran;injured;active;deployed;armed;loyal;fallen
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,teacher,good;experienced;young;dedicated;caring;strict;senior;head;enthusiastic;patient
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Human Roles,writer,famous;successful;published;aspiring;struggling;young;talented;creative;experienced;prolific
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,book,old;new;good;interesting;big;small;hardcover;paperback;popular;boring
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,bridge,long;old;new;covered;suspension;wooden;steel;stone;high;narrow
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,drums,loud;big;snare;bass;acoustic;electronic;tribal;old;new;used
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,earth,big;round;small;dry;wet;sandy;soft;muddy;barren;arable
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;new;old;beautiful;loud;quiet;piccolo;concert;classical
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,key,small;metal;house;car;big;important;golden;master;spare;lost
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,knife,sharp;blunt;kitchen;pocket;hunting;small;big;new;old;serrated
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,lock,strong;secure;small;big;new;old;broken;combination;key;padlock
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,moon,full;half;new;bright;dark;distant;crescent;silver;harvest;waxing
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,pen,blue;black;red;new;old;ballpoint;fountain;felt-tip;expensive;cheap
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,sun,bright;hot;warm;rising;setting;midday;summer;winter;distant;morning
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Inanimate Objects,sword,long;sharp;steel;old;ancient;legendary;ceremonial;broad;double-edged;battle
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,cat,small;black;white;big;furry;stray;wild;domestic;cute;playful
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,dog,big;small;black;white;friendly;stray;loyal;trained;barking;playful
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,dolphin,friendly;intelligent;playful;gray;bottlenose;trained;wild;common;small;big
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,elephant,big;gray;african;asian;wild;trained;old;young;indian;huge
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,hamster,small;cute;brown;white;golden;fluffy;furry;pet;playful;popular
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,monkey,small;cute;playful;wild;intelligent;mischievous;brown;baby;old;agile
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,mouse,small;gray;white;wild;house;field;pet;young;squeaky;timid
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,peacock,beautiful;colorful;male;big;iridescent;proud;royal;elegant;exotic;rare
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,rabbit,small;cute;white;brown;wild;domestic;pet;furry;hopping;young
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,shark,big;dangerous;great;white;gray;hammerhead;predatory;swimming;sharp-toothed;ocean
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,snake,long;venomous;poisonous;green;brown;big;small;slithering;dangerous;constricting
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Neutral Animals,whale,big;blue;gray;humpback;huge;endangered;swimming;majestic;gentle;intelligent
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,city,big;large;major;crowded;busy;old;new;modern;ancient;capital
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,desert,hot;dry;arid;barren;sandy;vast;empty;rocky;cold;dangerous
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,forest,green;dense;big;dark;old;new;ancient;deep;national;tropical
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,island,small;big;tropical;deserted;remote;volcanic;inhabited;caribbean;greek;pacific
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,lake,big;small;deep;shallow;blue;clear;frozen;freshwater;salt;calm
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,mountain,high;big;snow;rocky;steep;tall;beautiful;distant;rugged;green
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,ocean,big;deep;blue;vast;cold;warm;salty;rough;stormy;pacific
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,plain,flat;vast;open;wide;grassy;treeless;endless;dry;rolling;empty
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,plateau,high;flat;dry;rocky;expansive;windy;elevated;barren;wide;arid
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,river,long;wide;deep;flowing;strong;shallow;clean;polluted;mighty;mississippi
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,valley,green;deep;narrow;wide;long;fertile;peaceful;beautiful;steep;wooded
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Places,village,small;quiet;old;traditional;rural;farming;friendly;picturesque;isolated;peaceful
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,cactus,green;spiky;desert;tall;short;prickly;flowering;small;big;saguaro
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,eggplant,purple;big;small;long;fresh;cooked;grilled;fried;sliced;round
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;fresh;big;small;yellow;red;white;blooming
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,grass,green;tall;short;wet;dry;soft;long;new;overgrown;healthy
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,lettuce,green;fresh;crisp;leafy;small;big;head;romaine;iceberg;organic
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,mushroom,white;brown;small;big;edible;poisonous;wild;cultivated;grilled;sautéed
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,onion,white;yellow;red;small;big;raw;cooked;sliced;chopped;sweet
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,pepper,black;white;red;green;hot;sweet;small;big;ground;chili
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,potato,white;brown;big;small;cooked;fried;baked;mashed;new;old
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fragrant;thorn;blooming;hybrid;wild
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,tomato,red;ripe;green;big;small;fresh;juicy;sliced;cooked;heirloom
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Plants,tree,big;tall;old;green;new;leafy;pine;oak;apple;shade
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,ally,strong;good;loyal;close;important;powerful;strategic;trusted;unexpected;valuable
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,brother,older;younger;big;small;close;dear;little;protective;step;adopted
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,enemy,bitter;fierce;sworn;dangerous;formidable;powerful;common;hated;longtime;mortal
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,father,loving;good;strong;caring;strict;biological;step;adoptive;late;stern
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;true;devoted;blind;potential;faithful;enthusiastic;online;staunch
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,friend,good;best;old;close;new;dear;true;longtime;faithful;helpful
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,leader,strong;good;great;new;powerful;charismatic;decisive;experienced;political;military
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,mother,loving;good;caring;strong;biological;step;adoptive;dear;late;single
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,partner,business;working;life;domestic;dance;equal;strategic;long-term;official;potential
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,rival,fierce;bitter;intense;main;friendly;longtime;academic;political;worthy;primary
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,sister,older;younger;big;small;close;dear;little;half;stepsister;beloved
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Social Relationships,stranger,unknown;unfamiliar;complete;passing;strange;suspicious;friendly;mysterious;dangerous;tall
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,above,high;far;clear;average;normal;mentioned;indicated;listed;stated;cited
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,back,bad;old;small;behind;former;top;human;lower;away;outer
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,below,average;par;sea;ground;freezing;mentioned;listed;stated;indicated;normal
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,east,far;middle;wild;near;inner;south;west;north;central;asia
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,front,big;main;new;up;little;other;top;old;second;east
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,inside,dark;little;warm;inner;dry;deep;white;back;hot;front
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,left,far;hard;top;new;little;early;human;long;other;right
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,north,far;east;great;korea;south;central;vietnam;european;pole;america
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,outside,hot;little;new;dry;white;wet;far;cold;old;blue
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,right,all;new;much;human;far;now;only;few;real;great
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,south,east;africa;north;central;american;korea;florida;vietnam;china;india
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Spatial Concepts,west,far;great;side;wild;east;africa;germany;indian;virginia
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,century,long;new;twentieth;nineteenth;twenty-first;past;current;upcoming;following;short
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,day,good;great;long;hard;bad;new;sunny;first;last;hot
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,evening,good;nice;late;long;quiet;cool;warm;summer;beautiful;pleasant
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,hour,long;short;late;early;final;next;crucial;critical;last;remaining
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,minute,long;short;last;first;every;few;single;fleeting;final;remaining
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,month,last;next;first;following;previous;current;long;short;entire;past
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,morning,good;early;beautiful;sunny;clear;cold;foggy;rainy;bright;crisp
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,night,good;long;late;dark;quiet;beautiful;cold;warm;last;clear
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,season,next;last;upcoming;current;dry;rainy;long;short;every;entire
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,second,quick;fast;split;another;just;last;following;exact;brief;full
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,week,last;next;coming;full;long;short;entire;past;previous;current
+gemini-2.0-flash,basic,2.0,TH # Thai,Perfect,most frequent,Time Concepts,year,last;next;coming;new;good;old;past;entire;previous;following

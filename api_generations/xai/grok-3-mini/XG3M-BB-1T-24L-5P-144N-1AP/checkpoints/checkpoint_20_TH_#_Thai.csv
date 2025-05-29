@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,anger,strong;bad;great;sudden;quiet;big;small;new;old;fast
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,courage,brave;strong;great;big;small;true;false;new;old;sudden
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,fear,big;strong;sudden;cold;dark;deep;quiet;bad;new;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,freedom,great;full;true;new;old;big;small;strong;fast;wide
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,happiness,great;full;big;true;new;old;bright;warm;simple;pure
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,hate,strong;deep;bad;cold;dark;bitter;quiet;big;sudden;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,honesty,true;full;simple;big;small;new;old;strong;clear;direct
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,justice,fair;true;strong;big;small;new;old;quick;clear;full
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,knowledge,great;deep;wide;new;old;big;small;strong;simple;basic
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,love,true;deep;big;strong;new;old;warm;pure;simple;blind
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,peace,quiet;full;true;new;old;big;small;warm;simple;deep
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Abstract Concepts,wisdom,great;deep;true;old;new;big;small;strong;clear;simple
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;soft;metal;round;shiny;broken
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,candle,small;big;old;new;bright;warm;soft;thin;tall;colored
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,carpet,big;small;old;new;soft;thick;colorful;clean;dirty;warm
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,coin,small;old;new;shiny;dirty;metal;round;heavy;light;gold
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,crown,big;small;old;new;gold;shiny;heavy;royal;beautiful;broken
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,flag,big;small;old;new;colorful;national;high;clean;dirty;red
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,mask,big;small;old;new;colorful;scary;funny;plastic;wooden;hidden
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,necklace,big;small;old;new;shiny;gold;silver;beautiful;heavy;light
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,painting,big;small;old;new;beautiful;colorful;famous;simple;dark;bright
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,ring,small;old;new;shiny;gold;silver;beautiful;simple;heavy;light
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;metal;tall;beautiful;broken;famous
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Cultural Artifacts,vase,big;small;old;new;beautiful;colorful;glass;broken;tall;simple
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,cloud,big;small;white;gray;fluffy;dark;high;light;fast;cold
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,earthquake,big;strong;sudden;bad;deep;old;new;fast;quiet;long
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,fog,thick;white;gray;cold;heavy;quiet;early;late;soft;low
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,lightning,fast;bright;strong;sudden;white;hot;dangerous;high;long;wild
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;steady;fast;soft;long;short;wet
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,rainbow,beautiful;colorful;bright;big;small;rare;high;low;clear;short
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;deep;light;wet;fresh;old;big;small
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,storm,strong;big;wild;fast;dark;loud;sudden;long;short;cold
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,thunder,loud;strong;sudden;deep;long;short;scary;big;fast;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,tide,high;low;strong;fast;quiet;big;small;warm;cold;full
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,volcano,big;old;new;active;quiet;dangerous;hot;high;dark;red
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;fast;slow;wild;quiet;north;east
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,apple,red;green;big;small;sweet;sour;fresh;old;juicy;hard
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,banana,yellow;green;big;small;sweet;soft;fresh;old;long;curved
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,beef,fresh;old;red;cooked;raw;tough;soft;big;small;hot
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,bread,fresh;old;soft;hard;white;brown;big;small;warm;sweet
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,broccoli,green;fresh;big;small;crunchy;soft;raw;cooked;healthy;bitter
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;fresh;old;strong;mild;big;small
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,chicken,fresh;cooked;raw;white;brown;big;small;tender;tough;hot
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,egg,fresh;old;white;brown;big;small;hard;soft;boiled;raw
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,fish,fresh;old;big;small;silver;colorful;wild;farmed;cooked;raw
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,pasta,long;short;cooked;raw;soft;hard;white;colored;hot;fresh
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,rice,white;brown;cooked;raw;long;short;soft;hard;fresh;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Food Items,soup,hot;cold;thick;thin;tasty;spicy;fresh;old;clear;creamy
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,artist,creative;talented;young;old;famous;unknown;good;bad;busy;happy
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,athlete,strong;fast;young;old;skilled;fit;famous;unknown;good;bad
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,chef,skilled;busy;young;old;famous;good;bad;creative;fast;happy
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,doctor,skilled;busy;young;old;famous;good;bad;kind;strict;helpful
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,engineer,skilled;smart;young;old;famous;good;bad;busy;creative;helpful
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,farmer,hard-working;strong;young;old;good;bad;busy;poor;rich;happy
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,lawyer,smart;busy;young;old;famous;good;bad;strict;helpful;rich
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,musician,talented;creative;young;old;famous;good;bad;busy;happy;skilled
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,scientist,smart;curious;young;old;famous;good;bad;busy;creative;helpful
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,soldier,strong;brave;young;old;good;bad;trained;busy;loyal;tough
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,teacher,kind;strict;young;old;good;bad;busy;helpful;smart;patient
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Human Roles,writer,creative;talented;young;old;famous;good;bad;busy;happy;skilled
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,book,old;new;big;small;interesting;boring;thick;thin;colorful;hard
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,bridge,old;new;big;small;strong;weak;high;low;wooden;metal
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,drums,big;small;old;new;loud;soft;wooden;metal;shiny;broken
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,earth,big;old;green;blue;round;beautiful;dry;wet;hot;cold
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,flute,small;old;new;wooden;metal;shiny;soft;loud;simple;broken
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,key,small;old;new;metal;shiny;broken;simple;big;light;heavy
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,knife,sharp;dull;old;new;metal;wooden;big;small;clean;dirty
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,lock,old;new;metal;broken;strong;weak;big;small;simple;complex
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,moon,big;small;bright;dark;full;new;old;white;cold;beautiful
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,pen,small;old;new;black;blue;cheap;expensive;simple;broken;smooth
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,sun,big;bright;hot;warm;yellow;strong;high;beautiful;old;new
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Inanimate Objects,sword,sharp;old;new;big;small;metal;shiny;strong;heavy;broken
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,cat,small;big;black;white;wild;tame;fast;lazy;friendly;scary
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,dog,big;small;friendly;wild;fast;slow;loyal;smart;old;young
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,dolphin,big;small;smart;fast;wild;tame;gray;playful;beautiful;free
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,elephant,big;strong;gray;wild;tame;old;young;smart;heavy;gentle
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,hamster,small;cute;fast;wild;tame;brown;white;playful;friendly;busy
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,monkey,small;big;smart;fast;wild;playful;funny;brown;black;loud
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,mouse,small;fast;gray;white;wild;tame;quiet;sneaky;old;young
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,peacock,beautiful;colorful;big;wild;tame;loud;proud;old;young;rare
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,rabbit,small;fast;white;brown;wild;tame;cute;playful;gentle;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,shark,big;dangerous;fast;wild;gray;strong;scary;old;young;hungry
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,snake,long;small;dangerous;wild;tame;green;black;scary;fast;slow
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Neutral Animals,whale,big;huge;wild;gentle;gray;fast;old;young;smart;beautiful
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,city,big;small;busy;quiet;modern;old;crowded;clean;dirty;beautiful
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,desert,big;dry;hot;sandy;empty;vast;yellow;quiet;wild;beautiful
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,forest,big;green;dense;quiet;wild;dark;beautiful;old;new;wet
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,island,small;big;beautiful;tropical;green;sandy;isolated;quiet;wild;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,lake,big;small;blue;green;deep;shallow;clean;dirty;quiet;beautiful
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,mountain,big;high;tall;steep;green;snowy;old;beautiful;wild;quiet
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,ocean,big;deep;blue;vast;wild;cold;warm;beautiful;dangerous;calm
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,plain,flat;big;green;dry;empty;vast;quiet;wild;beautiful;open
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,plateau,high;flat;big;rocky;dry;green;quiet;wild;beautiful;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,river,long;short;wide;narrow;deep;shallow;clean;dirty;fast;quiet
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,valley,deep;wide;green;beautiful;quiet;wild;narrow;big;small;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Places,village,small;quiet;old;new;green;busy;simple;beautiful;remote;friendly
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,cactus,small;big;green;spiky;dry;wild;tough;beautiful;old;new
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,eggplant,purple;green;big;small;fresh;old;smooth;soft;round;long
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,flower,beautiful;colorful;small;big;fresh;old;wild;tame;sweet;bright
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,grass,green;short;long;fresh;dry;soft;thick;wild;clean;dirty
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,lettuce,green;fresh;big;small;crisp;soft;raw;cooked;healthy;wet
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,mushroom,small;big;white;brown;fresh;old;soft;hard;wild;tasty
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,onion,big;small;white;red;fresh;old;strong;mild;round;dry
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,pepper,red;green;big;small;fresh;old;spicy;mild;round;hot
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,potato,big;small;brown;fresh;old;hard;soft;raw;cooked;tasty
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,rose,red;beautiful;fresh;old;thorny;soft;wild;tame;big;small
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,tomato,red;green;big;small;fresh;old;juicy;soft;round;tasty
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Plants,tree,big;small;old;new;green;tall;short;strong;weak;beautiful
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,ally,strong;true;good;bad;new;old;faithful;helpful;brave;smart
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,brother,young;old;good;bad;strong;weak;smart;funny;kind;helpful
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,enemy,strong;bad;dangerous;old;new;clever;weak;big;small;fierce
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,father,old;young;strong;kind;strict;good;bad;busy;smart;helpful
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,follower,loyal;faithful;good;bad;young;old;strong;weak;smart;brave
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,friend,good;true;old;new;kind;funny;helpful;loyal;smart;brave
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,leader,strong;good;bad;smart;brave;young;old;famous;helpful;strict
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,mother,kind;loving;old;young;good;bad;busy;helpful;smart;strong
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,partner,good;bad;reliable;smart;young;old;helpful;loyal;strong;new
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,rival,strong;tough;bad;smart;old;new;fierce;competitive;big;small
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,sister,young;old;kind;funny;good;bad;smart;helpful;loyal;brave
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Social Relationships,stranger,unknown;mysterious;new;old;scary;friendly;tall;short;good;bad
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,above,high;bright;clear;full;empty;open;closed;big;small;safe
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,back,strong;weak;straight;curved;big;small;clean;dirty;old;new
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,below,low;dark;deep;hidden;quiet;cold;wet;small;big;safe
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,east,far;near;sunny;windy;old;new;big;small;quiet;busy
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,front,clean;dirty;big;small;open;closed;new;old;safe;busy
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,inside,warm;cold;dark;bright;safe;dangerous;big;small;clean;dirty
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,left,free;busy;open;closed;big;small;clean;dirty;new;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,north,cold;snowy;far;near;wild;quiet;big;small;old;new
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,outside,bright;dark;cold;warm;wet;dry;big;small;safe;dangerous
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,right,correct;wrong;strong;weak;big;small;clean;dirty;new;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,south,warm;sunny;far;near;wild;quiet;big;small;old;new
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Spatial Concepts,west,wild;quiet;far;near;big;small;old;new;windy;dry
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,century,long;short;old;new;great;bad;full;empty;famous;forgotten
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;quiet;good;bad;new;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,evening,cool;warm;quiet;busy;long;short;dark;bright;nice;relaxing
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;full;empty;early;late;good;bad
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,minute,short;long;quick;slow;full;empty;early;late;good;bad
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,month,long;short;busy;quiet;warm;cold;full;empty;good;bad
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,morning,fresh;bright;early;late;cool;warm;busy;quiet;good;bad
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,night,dark;quiet;long;short;cold;warm;beautiful;scary;full;empty
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,season,long;short;warm;cold;wet;dry;good;bad;new;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,second,short;quick;fast;slow;full;empty;early;late;good;bad
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,week,long;short;busy;quiet;full;empty;good;bad;new;old
+grok-3-mini,basic,1.0,TH # Thai,B1,most frequent,Time Concepts,year,long;short;good;bad;busy;quiet;new;old;full;empty
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,anger,intense;sudden;deep;hot;blind;raw;suppressed;explosive;simmering;fierce
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,courage,brave;bold;great;moral;physical;quiet;heroic;steadfast;unwavering;admirable
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,fear,deep;sudden;great;constant;irrational;dark;intense;hidden;overwhelming;common
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,freedom,great;personal;true;complete;basic;limited;full;hard-won;social;absolute
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,happiness,great;true;simple;lasting;pure;sudden;deep;shared;quiet;inner
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,hate,deep;intense;blind;bitter;strong;racial;personal;pure;hidden;growing
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,honesty,complete;true;simple;absolute;rare;brutal;straightforward;deep;basic;natural
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,justice,fair;true;social;blind;quick;perfect;common;equal;moral;strict
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,knowledge,deep;wide;basic;useful;secret;general;practical;ancient;common;personal
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,love,true;deep;pure;strong;blind;lasting;simple;romantic;parental;sudden
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,peace,lasting;true;inner;global;quiet;perfect;common;deep;social;temporary
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Abstract Concepts,wisdom,great;ancient;deep;practical;simple;true;common;inner;moral;natural
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,bell,loud;small;big;old;shiny;clear;metal;ringing;ancient;simple
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,candle,small;bright;warm;old;scented;simple;melting;colorful;long;cheap
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,carpet,soft;big;colorful;old;thick;clean;patterned;warm;cheap;dirty
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,coin,old;small;shiny;rare;metal;heavy;valuable;common;ancient;foreign
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,crown,golden;big;royal;heavy;ancient;shiny;simple;valuable;old;decorative
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,flag,national;big;colorful;old;waving;simple;proud;foreign;torn;bright
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,mask,scary;simple;old;colorful;protective;funny;wooden;tight;decorative;black
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,necklace,beautiful;shiny;gold;simple;long;cheap;colorful;old;heavy;elegant
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;large;famous;simple;modern;detailed;bright;dark
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,ring,gold;small;shiny;old;valuable;simple;decorative;heavy;cheap;elegant
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,statue,big;stone;old;famous;tall;beautiful;simple;ancient;broken;metal
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Cultural Artifacts,vase,beautiful;old;glass;simple;decorative;colorful;tall;cheap;broken;elegant
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,cloud,white;big;dark;fluffy;low;fast-moving;gray;light;heavy;thin
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,earthquake,strong;sudden;major;destructive;rare;deep;minor;violent;early;dangerous
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,fog,thick;heavy;gray;early;cold;light;morning;dense;wet;low
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,lightning,bright;fast;dangerous;sudden;powerful;rare;white;intense;common;distant
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;steady;sudden;warm;hard;soft;daily;fresh
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;colorful;rare;full;double;clear;wide;natural;short
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,snow,white;fresh;deep;light;cold;heavy;soft;wet;falling;pure
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,storm,strong;violent;sudden;big;dark;rainy;windy;dangerous;common;fierce
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,thunder,loud;sudden;deep;frightening;distant;strong;rolling;quick;heavy;natural
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,tide,high;low;strong;fast;rising;falling;cold;daily;powerful;gentle
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,volcano,active;big;dangerous;sleeping;hot;ancient;explosive;high;rare;quiet
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Environmental Phenomena,wind,strong;cold;gentle;hot;fast;light;steady;dry;wet;changing
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,apple,red;fresh;sweet;big;green;juicy;ripe;small;sour;hard
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,banana,yellow;fresh;ripe;sweet;long;soft;green;big;cheap;dry
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,beef,fresh;cooked;tender;lean;cheap;red;fatty;grilled;rare;dry
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,bread,fresh;soft;white;warm;cheap;hard;toasted;brown;sliced;dry
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,broccoli,green;fresh;raw;cooked;healthy;big;tender;frozen;small;steamed
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,cheese,soft;hard;fresh;yellow;sharp;mild;cheap;melted;creamy;strong
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,chicken,fresh;cooked;roasted;small;big;tender;fried;cheap;raw;spicy
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,egg,fresh;hard-boiled;small;big;white;brown;raw;cooked;cheap;broken
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,fish,fresh;big;small;cooked;raw;salty;fried;cheap;wild;frozen
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,pasta,cooked;soft;dry;fresh;cheap;long;short;tasty;Italian;simple
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,rice,white;cooked;dry;fresh;cheap;sticky;brown;steamed;long-grain;hot
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Food Items,soup,hot;tasty;simple;thick;fresh;cold;clear;spicy;vegetable;creamy
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,artist,talented;young;famous;creative;skilled;local;modern;poor;great;dedicated
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,athlete,strong;fast;young;skilled;professional;famous;dedicated;fit;competitive;talented
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,chef,skilled;famous;young;creative;professional;talented;local;busy;experienced;good
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,doctor,skilled;busy;young;experienced;dedicated;local;famous;kind;professional;helpful
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,engineer,skilled;young;experienced;professional;creative;local;dedicated;smart;busy;talented
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,farmer,hard-working;local;old;young;poor;dedicated;skilled;simple;busy;strong
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,lawyer,smart;professional;experienced;busy;young;famous;dedicated;local;skilled;honest
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,musician,talented;young;famous;skilled;creative;local;dedicated;professional;busy;good
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,scientist,smart;dedicated;young;experienced;professional;creative;local;famous;skilled;busy
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,soldier,brave;strong;young;trained;dedicated;professional;local;experienced;loyal;tough
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,teacher,good;dedicated;young;experienced;kind;professional;local;skilled;patient;helpful
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Human Roles,writer,talented;young;famous;creative;skilled;dedicated;local;experienced;good;busy
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,book,old;new;thick;interesting;small;big;cheap;colorful;educational;popular
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,bridge,old;big;strong;wooden;modern;long;safe;broken;high;simple
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,drums,loud;big;wooden;old;shiny;simple;electronic;small;fast;rhythmic
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,earth,green;big;old;beautiful;round;solid;dry;wet;natural;rich
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,flute,wooden;old;small;shiny;simple;musical;cheap;long;sweet-sounding;light
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,key,small;metal;old;shiny;simple;locked;secret;heavy;cheap;rusty
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,knife,sharp;small;metal;old;cheap;simple;rusty;long;clean;dangerous
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,lock,old;strong;small;metal;simple;broken;cheap;secure;rusty;electronic
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,moon,bright;full;round;old;distant;beautiful;dark;silver;natural;quiet
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,pen,black;small;cheap;old;simple;colorful;broken;smooth;metal;plastic
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;warm;distant;rising;setting;natural;strong
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Inanimate Objects,sword,sharp;old;metal;big;simple;heavy;shiny;ancient;broken;dangerous
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,cat,black;small;lazy;wild;friendly;old;young;playful;quiet;soft
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,dog,big;friendly;loyal;old;young;wild;small;playful;smart;strong
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,dolphin,smart;big;friendly;wild;fast;playful;gray;young;social;free
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,elephant,big;gray;wild;strong;old;young;gentle;smart;heavy;rare
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,hamster,small;cute;furry;young;wild;friendly;fast;simple;brown;playful
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,monkey,small;wild;clever;young;playful;noisy;brown;fast;social;funny
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,mouse,small;gray;wild;fast;quiet;young;clever;simple;furry;common
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,peacock,beautiful;colorful;wild;big;proud;noisy;young;rare;bright;elegant
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,rabbit,small;white;wild;fast;fluffy;young;cute;playful;common;gentle
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,shark,big;dangerous;wild;fast;gray;strong;rare;hungry;deep-sea;fierce
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,snake,long;dangerous;wild;green;small;poisonous;fast;rare;smooth;scary
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Neutral Animals,whale,big;wild;gray;gentle;deep-sea;old;young;rare;strong;smart
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,city,big;busy;modern;old;crowded;beautiful;noisy;clean;dirty;rich
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,desert,dry;hot;vast;sandy;empty;wild;remote;yellow;harsh;quiet
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,forest,green;dense;wild;old;dark;beautiful;wet;quiet;rich;large
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,island,small;beautiful;tropical;remote;green;sandy;wild;quiet;sunny;rocky
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,lake,blue;deep;calm;large;fresh;cold;beautiful;quiet;clean;frozen
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,mountain,high;big;rocky;snowy;green;old;steep;beautiful;wild;tall
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,ocean,vast;deep;blue;wild;cold;warm;stormy;beautiful;salty;endless
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,plain,flat;wide;green;dry;empty;simple;vast;quiet;fertile;open
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,plateau,high;flat;rocky;wide;dry;green;remote;wild;simple;ancient
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,river,wide;deep;fast;clean;dirty;long;beautiful;wild;cold;fresh
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,valley,green;deep;beautiful;wide;quiet;fertile;remote;sunny;wild;narrow
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Places,village,small;quiet;old;rural;simple;friendly;green;poor;remote;traditional
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,cactus,green;spiky;tall;small;dry;wild;simple;rare;thorny;hardy
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,eggplant,purple;fresh;big;small;smooth;raw;cooked;cheap;dark;juicy
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,flower,beautiful;red;small;wild;fresh;colorful;sweet-smelling;simple;bright;rare
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,grass,green;fresh;tall;short;wet;dry;wild;soft;common;thick
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,lettuce,green;fresh;crisp;raw;big;small;cheap;healthy;leafy;wet
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,mushroom,small;wild;fresh;white;cooked;rare;cheap;soft;edible;dark
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,onion,white;fresh;big;small;raw;cooked;cheap;strong-smelling;dry;spicy
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,pepper,red;green;fresh;hot;small;raw;cooked;cheap;spicy;dry
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,potato,big;fresh;raw;cooked;cheap;small;brown;soft;healthy;baked
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,rose,red;beautiful;fresh;wild;sweet-smelling;simple;thorny;big;rare;elegant
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,tomato,red;fresh;juicy;small;big;raw;cooked;cheap;ripe;soft
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Plants,tree,tall;green;old;big;wild;simple;fruit-bearing;leafy;strong;dead
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,ally,strong;reliable;close;foreign;loyal;helpful;trusted;true;powerful;strategic
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,brother,older;younger;close;loving;strong;helpful;smart;protective;fun;reliable
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,enemy,dangerous;strong;old;bitter;powerful;foreign;hidden;fierce;common;declared
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,father,loving;strong;old;young;wise;strict;kind;hardworking;protective;patient
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,follower,loyal;dedicated;young;faithful;strong;active;simple;blind;common;enthusiastic
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,friend,close;loyal;good;old;new;helpful;fun;true;reliable;young
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,leader,strong;wise;good;young;experienced;popular;powerful;dedicated;smart;effective
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,mother,loving;kind;strong;old;young;caring;protective;hardworking;patient;wise
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,partner,reliable;close;business;strong;loyal;helpful;equal;young;experienced;trusted
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,rival,strong;tough;direct;old;young;fierce;competitive;bitter;smart;dangerous
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,sister,younger;older;close;loving;smart;helpful;fun;protective;caring;reliable
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Social Relationships,stranger,unknown;dangerous;friendly;foreign;mysterious;young;old;simple;common;suspicious
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,above,high;clear;bright;distant;blue;open;free;safe;visible;vast
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,back,strong;straight;sore;wide;old;young;muscular;simple;hidden;flat
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,below,deep;dark;hidden;low;quiet;cold;dangerous;simple;wet;vast
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,east,distant;sunny;foreign;warm;rising;simple;coastal;busy;green;ancient
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,front,wide;open;clean;busy;simple;visible;strong;flat;modern;old
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,inside,warm;dark;safe;hidden;quiet;comfortable;dry;simple;empty;full
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,left,free;open;strong;weak;simple;hidden;dark;clear;wide;narrow
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,north,cold;distant;wild;green;busy;simple;coastal;high;ancient;quiet
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,outside,cold;bright;open;wet;dark;free;simple;empty;noisy;safe
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,right,correct;strong;free;clear;simple;wide;narrow;direct;proper;just
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,south,warm;sunny;distant;green;busy;simple;coastal;wild;ancient;hot
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Spatial Concepts,west,distant;wild;sunny;green;simple;coastal;quiet;ancient;high;dry
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,century,long;old;great;modern;dark;golden;simple;lost;early;recent
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,day,long;sunny;short;busy;clear;hot;cold;simple;new;ordinary
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,evening,quiet;long;cool;dark;beautiful;simple;relaxing;late;warm;short
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,hour,long;short;busy;early;late;simple;quiet;final;morning;evening
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,minute,short;quick;long;simple;final;early;late;busy;quiet;exact
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,month,long;short;busy;warm;cold;simple;final;early;quiet;rainy
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,morning,fresh;early;bright;cool;simple;quiet;busy;sunny;cold;new
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,night,dark;long;quiet;cold;beautiful;simple;late;warm;short;starry
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,season,long;short;warm;cold;simple;wet;dry;busy;quiet;changing
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,second,short;quick;final;simple;early;late;exact;busy;quiet;last
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,week,long;short;busy;simple;final;early;quiet;working;full;light
+grok-3-mini,basic,1.0,TH # Thai,B2,most frequent,Time Concepts,year,long;short;busy;good;bad;simple;final;early;quiet;new
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,anger,intense;sudden;blind;deep;raw;uncontrolled;bitter;explosive;quiet;simmering
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,courage,brave;bold;heroic;fearless;strong;unwavering;quiet;moral;physical;innate
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,fear,intense;sudden;deep;overwhelming;irrational;constant;hidden;primal;chilling;paralyzing
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,freedom,absolute;complete;limited;hard-won;basic;personal;political;social;true;empty
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;fleeting;deep;shared;inner;sudden;quiet
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,hate,intense;bitter;deep;blind;irrational;strong;consuming;lasting;sudden;quiet
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,honesty,complete;brutal;simple;genuine;straightforward;rare;absolute;refreshing;painful;unwavering
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,justice,fair;blind;swift;true;social;moral;legal;equal;harsh;delayed
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,knowledge,vast;deep;practical;theoretical;hidden;ancient;modern;basic;shared;powerful
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,love,true;deep;passionate;unconditional;romantic;pure;lasting;sudden;quiet;familial
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,peace,lasting;fragile;inner;global;quiet;true;temporary;absolute;warm;hopeful
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Abstract Concepts,wisdom,ancient;deep;practical;profound;simple;earned;innate;timeless;shared;quiet
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,bell,loud;clear;old;small;large;ringing;metal;antique;shiny;broken
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,candle,lit;unlit;small;large;scented;wax;old;flickering;warm;colorful
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,carpet,soft;thick;old;new;colorful;patterned;woolen;dirty;clean;large
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,coin,old;new;shiny;rare;metal;small;valuable;foreign;ancient;counterfeit
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,crown,royal;golden;jeweled;heavy;ancient;symbolic;ornate;simple;ceremonial;broken
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,flag,national;colorful;waving;old;new;symbolic;torn;large;small;foreign
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,mask,facial;decorative;old;new;scary;protective;colorful;wooden;plastic;hidden
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,necklace,gold;silver;beaded;long;short;antique;simple;elegant;heavy;colorful
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,painting,beautiful;old;modern;colorful;detailed;abstract;large;small;famous;damaged
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,ring,gold;silver;diamond;simple;ornate;old;new;engagement;heavy;small
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,statue,stone;bronze;tall;ancient;modern;detailed;broken;heroic;small;public
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Cultural Artifacts,vase,glass;ceramic;tall;short;decorative;old;new;colorful;fragile;antique
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;high;low;stormy;drifting;thin;thick;fast-moving
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,earthquake,strong;sudden;devastating;mild;underground;rare;frequent;deep;surface;destructive
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,fog,thick;dense;light;morning;evening;cold;mysterious;wet;rolling;persistent
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,lightning,bright;fast;striking;dangerous;frequent;rare;forked;distant;powerful;sudden
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;cold;warm;seasonal;refreshing;persistent;gentle
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;rare;double;faint;vivid;beautiful;fleeting;natural;arched
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,snow,white;fresh;deep;light;falling;melting;cold;fluffy;wet;powdery
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,storm,violent;fierce;sudden;long;tropical;winter;calm-before;destructive;windy;rainy
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,thunder,loud;rumbling;distant;sudden;echoing;frightening;continuous;faint;powerful;nighttime
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;incoming;outgoing;coastal;daily;rough;calm
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;ancient;dangerous;smoking;fiery;tall;underwater
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;northern;eastern;western
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,apple,red;green;fresh;ripe;juicy;sweet;sour;small;large;organic
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,banana,yellow;ripe;green;sweet;long;short;fresh;peeled;organic;spotted
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,beef,fresh;cooked;tender;tough;lean;fatty;ground;roasted;rare;grilled
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,bread,fresh;soft;hard;warm;sliced;whole-wheat;white;toasted;homemade;store-bought
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,broccoli,fresh;green;steamed;raw;crisp;frozen;organic;small;large;cooked
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,cheese,sharp;mild;soft;hard;creamy;grated;melted;fresh;aged;flavored
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,chicken,fresh;cooked;grilled;roasted;fried;organic;tender;boneless;whole;sliced
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,egg,fresh;boiled;fried;raw;large;small;brown;white;organic;cracked
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,fish,fresh;cooked;grilled;fried;salted;smoked;wild;farmed;large;small
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,pasta,cooked;dry;fresh;al dente;sauced;wheat;colored;long;short;homemade
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,rice,cooked;raw;white;brown;steamed;fluffy;sticky;long-grain;short-grain;organic
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Food Items,soup,hot;cold;creamy;clear;vegetable;chicken;spicy;thick;thin;homemade
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,artist,talented;creative;famous;unknown;skilled;young;old;dedicated;inspiring;visionary
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,athlete,strong;fast;skilled;professional;amateur;dedicated;young;injured;competitive;fit
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,chef,skilled;famous;creative;professional;young;experienced;talented;busy;innovative;passionate
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,doctor,skilled;experienced;young;old;dedicated;busy;compassionate;professional;specialist;trustworthy
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,engineer,skilled;innovative;experienced;young;creative;professional;dedicated;practical;technical;reliable
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,farmer,hardworking;experienced;young;old;dedicated;organic;local;skilled;rural;practical
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,lawyer,experienced;skilled;professional;young;aggressive;ethical;corporate;defense;busy;trustworthy
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,musician,talented;famous;young;skilled;creative;dedicated;classical;rock;jazz;inspiring
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,scientist,brilliant;dedicated;experienced;young;innovative;professional;theoretical;practical;curious;respected
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,soldier,brave;trained;experienced;young;disciplined;loyal;elite;wounded;active;retired
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,teacher,dedicated;experienced;young;inspiring;patient;knowledgeable;strict;creative;popular;effective
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Human Roles,writer,talented;famous;young;experienced;creative;prolific;fictional;non-fiction;dedicated;insightful
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;popular;educational;fictional;hardcover
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,bridge,old;new;long;short;strong;wooden;stone;metal;busy;scenic
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,drums,loud;wooden;metal;large;small;traditional;modern;rhythmic;beaten;shiny
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,earth,green;blue;vast;ancient;fertile;dry;round;living;polluted;beautiful
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,flute,wooden;metal;small;long;sweet-sounding;ancient;modern;shiny;handmade;professional
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,key,small;metal;old;new;rusty;shiny;spare;master;locked;functional
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,knife,sharp;dull;metal;wooden-handled;small;large;kitchen;pocket;rusty;new
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,lock,old;new;metal;electronic;broken;secure;rusty;small;large;combination
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,moon,full;crescent;bright;dark;distant;silvery;waxing;waning;beautiful;mysterious
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,pen,black;blue;red;ink;ballpoint;fountain;cheap;expensive;old;new
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;golden;warm;distant;powerful;midday;summer
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Inanimate Objects,sword,sharp;ancient;metal;long;short;decorative;battle-ready;rusty;shiny;ceremonial
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,cat,black;white;fluffy;playful;lazy;wild;domestic;small;large;stray
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,dog,loyal;friendly;big;small;energetic;lazy;trained;stray;purebred;mixed
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,dolphin,intelligent;playful;fast;graceful;wild;captive;large;social;marine;curious
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,elephant,large;gray;wild;tame;strong;intelligent;endangered;majestic;old;young
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,hamster,small;furry;playful;tame;active;nocturnal;pet;wild;brown;white
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,monkey,playful;clever;wild;tame;small;large;furry;noisy;agile;curious
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,mouse,small;gray;white;quick;timid;wild;pet;nocturnal;sneaky;cute
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,peacock,colorful;proud;wild;tame;large;beautiful;noisy;elegant;exotic;male
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,rabbit,white;fluffy;fast;tame;wild;small;large;cute;hopping;pet
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,shark,dangerous;large;fast;gray;predatory;marine;endangered;solitary;fierce;mysterious
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,snake,long;venomous;harmless;slithery;wild;tame;colorful;green;black;coiled
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Neutral Animals,whale,massive;gentle;endangered;marine;singing;blue;gray;migratory;deep-diving;ancient
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,city,busy;large;modern;old;crowded;clean;dirty;historic;coastal;inland
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,desert,dry;hot;vast;sandy;barren;remote;beautiful;harsh;golden;empty
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,forest,dense;green;ancient;dark;tropical;temperate;quiet;wild;lush;mysterious
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,island,tropical;small;large;remote;beautiful;volcanic;sandy;deserted;populated;green
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,lake,calm;deep;shallow;blue;frozen;freshwater;scenic;large;small;clear
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,mountain,tall;snowy;rugged;green;remote;majestic;volcanic;ancient;steep;beautiful
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,ocean,vast;deep;blue;stormy;calm;salty;mysterious;endless;warm;cold
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,plain,flat;vast;green;dry;fertile;empty;grassy;wide;open;rural
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;green;remote;scenic;ancient
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,river,wide;narrow;fast-flowing;calm;muddy;clear;long;short;winding;frozen
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,valley,deep;green;fertile;narrow;wide;scenic;remote;beautiful;hidden;river-fed
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Places,village,small;quiet;rural;ancient;modern;coastal;mountain;friendly;isolated;traditional
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,cactus,spiky;green;tall;short;desert;flowering;wild;potted;hardy;prickly
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,eggplant,purple;fresh;large;small;shiny;ripe;cooked;raw;organic;firm
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,flower,beautiful;colorful;fresh;wilted;fragrant;wild;garden;small;large;blooming
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,grass,green;tall;short;wet;dry;fresh;wild;mowed;soft;thick
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,lettuce,fresh;green;crisp;leafy;organic;raw;washed;wilted;small;large
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,mushroom,fresh;wild;cultivated;edible;poisonous;small;large;white;brown;slimy
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,onion,fresh;raw;cooked;spicy;large;small;red;white;organic;pungent
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,pepper,hot;sweet;fresh;red;green;dried;spicy;small;large;colorful
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,potato,fresh;baked;boiled;raw;large;small;organic;starchy;peeled;fried
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,rose,red;beautiful;thorny;fragrant;wild;garden;blooming;white;pink;fresh
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,tomato,red;fresh;ripe;juicy;small;large;organic;raw;cooked;vine-ripened
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Plants,tree,tall;green;old;young;leafy;fruit-bearing;shady;ancient;bare;flowering
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,ally,strong;reliable;faithful;strategic;helpful;close;foreign;powerful;supportive;trusted
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,brother,older;younger;caring;protective;funny;annoying;close;distant;supportive;loyal
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,enemy,dangerous;powerful;sworn;hidden;foreign;bitter;strong;defeated;relentless;cunning
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,father,loving;strict;hardworking;absent;proud;wise;young;old;supportive;distant
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,follower,loyal;devoted;faithful;blind;enthusiastic;active;passive;dedicated;strong;weak
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,friend,close;true;old;new;reliable;fun;supportive;distant;loyal;helpful
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,leader,strong;charismatic;wise;effective;young;old;inspiring;authoritarian;democratic;visionary
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,mother,loving;caring;strict;busy;supportive;wise;young;old;protective;nurturing
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,partner,reliable;supportive;business;romantic;equal;trusted;helpful;committed;creative;strong
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,rival,fierce;strong;competitive;bitter;skilled;old;new;corporate;athletic;intellectual
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,sister,younger;older;caring;playful;supportive;annoying;close;distant;protective;funny
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Social Relationships,stranger,unknown;mysterious;dangerous;friendly;passing;foreign;helpful;suspicious;tall;short
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,above,high;upper;overhead;superior;elevated;skyward;top;visible;distant;clear
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,back,rear;hidden;old;strong;weak;straight;curved;painful;supportive;distant
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,below,lower;underground;deep;inferior;hidden;submerged;dark;warm;cold;quiet
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,east,eastern;rising;coastal;distant;sunny;ancient;modern;flat;mountainous;trading
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,front,forward;main;visible;leading;open;closed;busy;quiet;wide;narrow
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,inside,inner;hidden;warm;dark;safe;crowded;empty;deep;accessible;protected
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,left,western;opposite;free;abandoned;strong;weak;open;closed;visible;hidden
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,north,northern;cold;polar;distant;mountainous;flat;ancient;modern;trading;windy
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,outside,outer;external;cold;warm;exposed;protected;visible;hidden;busy;quiet
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,right,correct;eastern;strong;weak;open;closed;visible;hidden;legal;moral
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,south,southern;warm;tropical;distant;coastal;flat;ancient;modern;trading;sunny
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Spatial Concepts,west,western;setting;coastal;distant;dry;ancient;modern;trading;windy;flat
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,century,past;future;long;short;golden;dark;recent;ancient;prosperous;turbulent
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;lazy;ordinary;special;working;holiday
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,evening,cool;warm;quiet;busy;late;early;romantic;peaceful;golden;dark
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;golden;dark;waiting;passing
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,minute,short;long;final;waiting;precious;wasted;exact;approximate;silent;ticking
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,month,long;short;busy;quiet;festive;dull;summer;winter;passing;upcoming
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,morning,fresh;early;bright;foggy;busy;quiet;cool;warm;energetic;lazy
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,night,dark;long;short;quiet;noisy;starry;moonlit;cold;warm;sleepless
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,season,long;short;warm;cold;rainy;dry;festive;dull;changing;peak
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,second,brief;long;final;waiting;precious;wasted;exact;approximate;silent;ticking
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,week,long;short;busy;quiet;working;holiday;upcoming;past;stressful;relaxing
+grok-3-mini,basic,1.0,TH # Thai,C1,most frequent,Time Concepts,year,long;short;good;bad;busy;quiet;upcoming;past;memorable;forgotten
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;righteous;suppressed;boiling;raw;violent;simmering
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,courage,brave;heroic;moral;physical;quiet;bold;unwavering;innate;foolish;admirable
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,fear,intense;sudden;irrational;deep;primal;overwhelming;constant;hidden;paralyzing;instinctive
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,freedom,absolute;personal;true;limited;hard-won;basic;individual;complete;restricted;newfound
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,happiness,pure;lasting;simple;deep;fleeting;genuine;shared;inner;overwhelming;quiet
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,hate,intense;bitter;blind;deep;irrational;enduring;fiery;personal;overwhelming;mutual
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,honesty,complete;brutal;straightforward;rare;absolute;genuine;simple;unwavering;harsh;refreshing
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,justice,fair;swift;blind;social;true;equal;poetic;divine;immediate;balanced
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,knowledge,vast;deep;practical;ancient;secret;basic;specialized;essential;hidden;advanced
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,love,true;unconditional;passionate;enduring;blind;deep;romantic;pure;forbidden;selfless
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,peace,lasting;inner;global;fragile;true;quiet;complete;temporary;absolute;harmonious
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;innate;timeless;deep;simple;hard-earned;spiritual;sound
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,bell,loud;small;old;ringing;silver;church;golden;antique;handheld;clear
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,candle,lit;scented;tall;wax;flickering;white;small;decorative;melting;colored
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,carpet,soft;thick;woolen;patterned;red;old;new;clean;Persian;fluffy
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;gold;silver;ancient;foreign;valuable;small;counterfeit
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;heavy;ancient;ceremonial;simple;ornate;imperial;symbolic
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,flag,national;colorful;waving;old;tattered;proud;foreign;large;striped;symbolic
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,mask,protective;decorative;scary;old;facial;colorful;theatrical;simple;anonymous;wooden
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,necklace,gold;pearl;simple;elegant;antique;long;beaded;expensive;silver;delicate
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,painting,beautiful;old;abstract;colorful;famous;large;original;modern;detailed;framed
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,ring,gold;diamond;simple;engagement;antique;silver;wedding;large;plain;engraved
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,statue,tall;ancient;bronze;stone;famous;impressive;modern;detailed;broken;heroic
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Cultural Artifacts,vase,antique;glass;floral;tall;decorative;porcelain;simple;colorful;broken;elegant
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;high;stormy;light;drifting;low;rainy;cumulus
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,earthquake,strong;sudden;devastating;mild;major;shallow;deep;destructive;recent;violent
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,fog,thick;dense;morning;light;eerie;cold;persistent;early;rolling;mysterious
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,lightning,bright;fast;striking;electric;dramatic;sudden;distant;powerful;forked;intense
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;cold;warm;gentle;tropical;seasonal;refreshing
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;double;faint;vivid;arched;full;rare;spectacular
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,snow,fresh;heavy;light;powdery;deep;melting;wet;fluffy;falling;white
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,storm,fierce;violent;approaching;strong;sudden;tropical;electrical;mild;raging;winter
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;crashing;sudden;echoing;ominous;deep;continuous;frightening
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;incoming;outgoing;calm;rough;daily
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,volcano,active;dormant;explosive;massive;dangerous;ancient;smoking;tall;fiery;extinct
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;howling;steady;gusty;easterly;westerly;fierce
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,apple,red;green;ripe;fresh;juicy;sweet;tart;small;large;crisp
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,banana,yellow;ripe;green;fresh;sweet;small;large;peeled;organic;spotted
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,beef,fresh;tender;lean;grilled;ground;rare;cooked;organic;fatty;prime
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,bread,fresh;warm;soft;sliced;whole-wheat;crusty;white;homemade;toasted;stale
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,broccoli,fresh;green;steamed;raw;crisp;organic;frozen;tender;boiled;healthy
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,cheese,sharp;soft;hard;melted;creamy;aged;fresh;grated;mild;Swiss
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,chicken,grilled;fresh;roasted;fried;organic;boneless;tender;spicy;raw;frozen
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,egg,fresh;boiled;fried;large;brown;white;organic;cracked;raw;scrambled
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,fish,fresh;grilled;smoked;wild;frozen;large;small;oily;salted;caught
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;whole-wheat;cheesy;spicy;hot;simple;Italian
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;wild;long-grain;hot;plain
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;thick;spicy;clear;homemade;cold;hearty
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,artist,talented;creative;famous;struggling;young;established;innovative;passionate;skilled;visionary
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,athlete,strong;fast;professional;dedicated;young;skilled;competitive;fit;Olympic;injured
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,chef,skilled;famous;creative;professional;young;experienced;talented;passionate;busy;innovative
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,doctor,skilled;experienced;young;dedicated;busy;caring;senior;specialist;reliable;respected
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,engineer,skilled;creative;experienced;young;innovative;practical;dedicated;electrical;mechanical;talented
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,farmer,hardworking;local;experienced;young;organic;dedicated;rural;skilled;independent;traditional
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,lawyer,experienced;sharp;corporate;young;successful;ethical;busy;criminal;dedicated;respected
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,musician,talented;famous;young;skilled;passionate;classical;rock;dedicated;innovative;struggling
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,scientist,brilliant;dedicated;experienced;young;innovative;respected;theoretical;practical;curious;leading
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,soldier,brave;trained;experienced;young;disciplined;loyal;elite;injured;veteran;courageous
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,teacher,dedicated;experienced;young;inspiring;patient;skilled;passionate;strict;creative;respected
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Human Roles,writer,talented;famous;young;creative;experienced;prolific;struggling;insightful;dedicated;fictional
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,book,old;new;thick;popular;interesting;hardcover;paperback;educational;fictional;rare
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,bridge,old;long;wooden;steel;high;famous;modern;broken;suspension;ancient
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,drums,loud;wooden;large;small;rhythmic;electronic;traditional;tuned;handmade;modern
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,earth,green;vast;fertile;dry;ancient;beautiful;spinning;living;rocky;blue
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,flute,wooden;silver;ancient;small;modern;melodic;handmade;polished;simple;golden
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,key,small;metal;old;rusty;modern;spare;golden;locked;silver;electronic
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,knife,sharp;old;steel;small;large;rusty;kitchen;pocket;dull;Swiss
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,lock,old;secure;broken;metal;electronic;simple;rusty;modern;padlock;keyed
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,moon,full;bright;crescent;dark;waxing;waning;glowing;distant;silver;beautiful
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,pen,black;ink;old;new;fountain;ballpoint;cheap;expensive;red;fine
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;golden;warm;midday;distant;burning;yellow
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Inanimate Objects,sword,sharp;ancient;long;steel;magical;rusty;ceremonial;lightweight;decorated;deadly
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,cat,black;fluffy;playful;lazy;wild;domestic;stray;young;old;striped
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,dog,loyal;big;small;friendly;wild;trained;stray;energetic;old;furry
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;friendly;large;graceful;marine;young;rare;social
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,elephant,large;wild;gentle;gray;endangered;majestic;old;trained;African;intelligent
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,hamster,small;furry;playful;tame;wild;young;active;brown;caged;nocturnal
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,monkey,playful;wild;small;clever;noisy;young;trained;brown;agile;curious
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,mouse,small;gray;wild;timid;domestic;quick;young;furry;trapped;nocturnal
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,peacock,colorful;proud;wild;beautiful;large;exotic;male;royal;noisy;graceful
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,rabbit,white;fluffy;wild;tame;small;fast;young;brown;playful;furry
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,shark,large;dangerous;fast;wild;gray;predatory;ocean;rare;aggressive;deep-sea
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,snake,long;poisonous;wild;small;colorful;tame;green;coiled;slippery;deadly
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Neutral Animals,whale,massive;wild;blue;endangered;graceful;deep-sea;singing;large;migratory;gentle
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,city,busy;large;modern;ancient;crowded;beautiful;coastal;industrial;historic;vibrant
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,desert,hot;vast;sandy;dry;barren;remote;golden;harsh;endless;rocky
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,forest,dense;green;ancient;dark;tropical;quiet;vast;rainy;lush;mysterious
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,island,tropical;small;remote;beautiful;volcanic;sandy;deserted;large;green;coral
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,lake,deep;blue;calm;frozen;large;small;clear;scenic;freshwater;peaceful
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,mountain,high;snowy;rugged;tall;green;volcanic;majestic;steep;ancient;remote
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,ocean,vast;deep;blue;stormy;calm;endless;cold;warm;salty;mysterious
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,plain,flat;vast;grassy;dry;fertile;open;endless;green;barren;rolling
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,plateau,high;flat;rocky;vast;dry;elevated;ancient;scenic;green;remote
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,river,wide;deep;flowing;clear;muddy;fast;slow;winding;ancient;scenic
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,valley,deep;green;fertile;narrow;wide;scenic;remote;peaceful;hidden;lush
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Places,village,small;quiet;rural;ancient;coastal;mountainous;friendly;traditional;remote;picturesque
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,cactus,spiky;green;tall;desert;small;flowering;wild;hardy;prickly;exotic
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,eggplant,purple;fresh;large;raw;cooked;shiny;organic;small;ripe;grilled
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,flower,beautiful;red;wild;fragrant;blooming;small;yellow;exotic;wilting;fresh
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,grass,green;tall;short;wet;dry;wild;soft;mowed;lush;yellow
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,lettuce,fresh;green;crisp;organic;raw;leafy;washed;small;wilted;healthy
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,mushroom,wild;fresh;small;large;edible;poisonous;dried;white;cooked;exotic
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,onion,fresh;white;red;raw;chopped;sweet;strong;organic;small;dried
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,pepper,red;green;fresh;spicy;sweet;chopped;dried;hot;organic;small
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,potato,fresh;large;small;baked;raw;organic;peeled;boiled;sweet;fried
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,rose,red;beautiful;thorny;fragrant;wild;blooming;white;fresh;pink;cultivated
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,tomato,red;fresh;ripe;juicy;small;organic;sliced;green;raw;cooked
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Plants,tree,tall;green;old;ancient;fruiting;leafy;bare;young;shady;oak
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,ally,strong;faithful;reliable;strategic;close;powerful;temporary;loyal;important;natural
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,brother,older;younger;loving;protective;twin;caring;distant;fun;responsible;annoying
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,enemy,dangerous;sworn;bitter;powerful;old;foreign;deadly;relentless;hidden;strong
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,father,loving;strict;absent;caring;hardworking;proud;young;old;supportive;distant
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,follower,loyal;dedicated;blind;faithful;enthusiastic;strong;passive;active;young;committed
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,friend,best;close;old;new;loyal;trustworthy;fun;supportive;distant;reliable
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,leader,strong;charismatic;effective;visionary;democratic;authoritarian;young;experienced;inspiring;competent
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,mother,loving;caring;strict;protective;busy;young;old;supportive;nurturing;hardworking
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,partner,business;romantic;reliable;equal;supportive;professional;trusted;committed;new;old
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,rival,fierce;strong;competitive;old;business;worthy;dangerous;clever;persistent;main
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,sister,younger;older;loving;protective;twin;caring;fun;distant;responsible;close
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Social Relationships,stranger,mysterious;unknown;dangerous;friendly;passing;foreign;odd;helpful;suspicious;tall
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,above,high;upper;overhead;superior;elevated;top;northern;distant;clear;bright
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,back,rear;hidden;old;lower;straight;weak;strong;injured;broad;narrow
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,below,lower;deep;underground;inferior;hidden;southern;dark;submerged;basic;minimal
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,east,far;rising;distant;coastal;Asian;sunny;warm;opposite;early;bright
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,front,main;forward;visible;leading;open;direct;bold;clean;sharp;wide
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,inside,inner;hidden;warm;secure;deep;private;core;enclosed;quiet;protected
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,left,abandoned;western;free;unused;sharp;weak;open;hidden;dark;quiet
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,north,far;cold;polar;upper;distant;windy;high;opposite;early;clear
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,outside,outer;exposed;cold;visible;external;bright;free;distant;wild;open
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,right,correct;eastern;straight;strong;moral;immediate;clear;full;proper;exact
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,south,far;warm;tropical;lower;distant;sunny;opposite;coastal;early;humid
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Spatial Concepts,west,far;wild;coastal;setting;distant;dry;opposite;early;golden;open
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,century,past;recent;long;dark;golden;modern;ancient;twentieth;nineteenth;forgotten
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,day,sunny;long;short;busy;clear;rainy;hot;cold;ordinary;special
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,evening,quiet;cool;long;warm;peaceful;late;early;dark;relaxing;golden
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;final;first;golden;dark
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,minute,short;long;final;first;quiet;busy;last;early;precise;quick
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,month,long;short;busy;quiet;final;first;warm;cold;festive;dry
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,morning,early;fresh;bright;cool;foggy;sunny;quiet;busy;crisp;golden
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;warm;late;early;peaceful;stormy
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,season,long;short;wet;dry;warm;cold;festive;busy;quiet;changing
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,second,final;first;short;long;last;quick;precise;early;late;vital
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,week,long;short;busy;quiet;final;first;productive;relaxing;eventful;ordinary
+grok-3-mini,basic,1.0,TH # Thai,C2,most frequent,Time Concepts,year,long;short;busy;quiet;final;first;productive;challenging;memorable;new
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,anger,intense;sudden;deep;blind;raw;suppressed;violent;quiet;righteous;simmering
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,courage,great;true;moral;physical;quiet;heroic;inner;bold;unwavering;foolish
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,fear,deep;sudden;irrational;primal;overwhelming;hidden;constant;intense;nameless;paralyzing
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,freedom,absolute;true;personal;political;hard-won;complete;basic;financial;religious;limited
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,happiness,pure;lasting;simple;genuine;fleeting;deep;shared;inner;everyday;radiant
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,hate,intense;blind;deep;irrational;bitter;longstanding;mutual;personal;racial;simmering
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,honesty,brutal;complete;refreshing;rare;straightforward;unwavering;painful;absolute;genuine;simple
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,justice,swift;blind;social;poetic;true;divine;equal;criminal;restorative;delayed
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;practical;theoretical;ancient;hidden;scientific;basic;shared;forbidden
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,love,true;eternal;passionate;unconditional;forbidden;deep;platonic;romantic;lost;familial
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,peace,inner;lasting;fragile;global;quiet;momentary;perfect;true;uneasy;spiritual
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;hard-earned;innate;worldly;simple;divine;quiet
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,bell,loud;small;ancient;ringing;golden;church;hand-held;cracked;silver;decorative
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,candle,scented;tall;flickering;white;beeswax;birthday;lit;melted;aromatic;colorful
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,carpet,soft;woolen;patterned;thick;old;oriental;red;dirty;woven;luxurious
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,coin,ancient;shiny;gold;rare;foreign;silver;counterfeit;lucky;old;small
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,crown,royal;golden;jeweled;ancient;ceremonial;heavy;symbolic;ornate;stolen;simple
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,flag,national;waving;colorful;torn;proud;foreign;faded;symbolic;red;blue
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,mask,protective;festive;wooden;scary;surgical;ancient;full-face;colorful;dramatic;hidden
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,necklace,gold;pearl;elegant;simple;antique;beaded;diamond;long;silver;broken
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,painting,beautiful;abstract;oil;modern;landscape;famous;detailed;colorful;old;portrait
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,ring,gold;engagement;simple;antique;diamond;silver;wedding;large;magical;broken
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,statue,stone;ancient;bronze;tall;famous;garden;broken;heroic;marble;modern
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Cultural Artifacts,vase,antique;glass;decorative;tall;broken;floral;ceramic;ornate;colorful;empty
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;stormy;drifting;low;cumulus;gray;puffy;high
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,earthquake,massive;sudden;destructive;minor;powerful;underground;seismic;violent;shallow;rare
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;morning;mysterious;coastal;light;rolling;cold;persistent;eerie
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,lightning,bright;forked;sudden;electrical;dramatic;distant;powerful;nighttime;dangerous;quick
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;steady;pouring;gentle;cold;tropical;seasonal;misty;relentless
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,rainbow,vibrant;double;fading;full;colorful;brief;perfect;post-rain;arched;distant
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,snow,fresh;heavy;light;powdery;melting;deep;wet;falling;pristine;seasonal
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,storm,violent;approaching;fierce;tropical;sudden;electrical;howling;massive;winter;distant
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;crashing;ominous;sudden;deep;frightening;nighttime;echoing
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,tide,high;low;rising;ebbing;strong;incoming;outgoing;powerful;coastal;gentle
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;massive;erupting;ancient;fiery;dangerous;volcanic;tall;remote
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;howling;cold;warm;gusty;steady;easterly;stormy;light
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,apple,red;green;juicy;fresh;ripe;sour;sweet;crisp;organic;large
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,banana,yellow;ripe;green;sweet;peeled;fresh;soft;curved;small;organic
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,beef,fresh;lean;grilled;tender;ground;rare;organic;fatty;cooked;cheap
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,bread,fresh;warm;sliced;whole-wheat;soft;crusty;homemade;white;toasted;stale
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,broccoli,fresh;green;steamed;organic;raw;crisp;frozen;tender;healthy;large
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,cheese,sharp;soft;hard;aged;melted;creamy;grated;mild;blue;fresh
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,chicken,grilled;fresh;roasted;organic;fried;tender;free-range;spicy;whole;boneless
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;brown;white;large;organic;cracked;raw;hard-boiled
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,fish,fresh;grilled;smoked;wild;frozen;oily;flaky;large;salted;fried
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,pasta,cooked;al dente;fresh;dried;homemade;cheesy;spicy;Italian;thin;stuffed
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,rice,cooked;white;brown;steamed;fluffy;sticky;long-grain;organic;hot;wild
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Food Items,soup,hot;creamy;vegetable;chicken;spicy;thick;clear;homemade;flavorful;cold
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,artist,talented;creative;famous;struggling;young;dedicated;visionary;skilled;eccentric;modern
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,athlete,professional;strong;fast;dedicated;young;Olympic;injured;skilled;competitive;fit
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,chef,skilled;famous;innovative;professional;young;busy;talented;French;creative;experienced
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,doctor,skilled;experienced;young;busy;dedicated;specialist;caring;senior;qualified;private
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,engineer,skilled;mechanical;electrical;experienced;young;innovative;qualified;senior;creative;busy
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,farmer,local;organic;hardworking;experienced;small-scale;rural;dedicated;young;successful;poor
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,lawyer,experienced;corporate;successful;young;ethical;criminal;busy;skilled;senior;private
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,musician,talented;famous;young;classical;rock;dedicated;skilled;struggling;innovative;jazz
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,scientist,brilliant;dedicated;environmental;young;experienced;innovative;medical;senior;curious;theoretical
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,soldier,brave;trained;young;veteran;disciplined;elite;wounded;loyal;strong;retired
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,teacher,dedicated;experienced;young;patient;inspiring;qualified;strict;creative;senior;passionate
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Human Roles,writer,talented;famous;young;prolific;struggling;creative;mystery;dedicated;best-selling;poetic
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,book,old;new;thick;popular;hardcover;fictional;educational;rare;colorful;small
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,bridge,old;wooden;stone;long;modern;suspension;broken;high;iron;busy
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,drums,loud;wooden;electronic;small;traditional;rhythmic;beaten;African;large;shiny
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,earth,green;flat;fertile;dry;vast;blue;rocky;ancient;sacred;spinning
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,flute,wooden;silver;ancient;sweet-sounding;small;modern;bamboo;professional;handmade;shiny
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,key,small;metal;rusty;golden;spare;secret;modern;locked;brass;electronic
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,knife,sharp;old;kitchen;rusty;pocket;silver;dull;hunting;steel;ceremonial
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,lock,old;rusty;secure;electronic;broken;metal;modern;padlock;combination;door
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,moon,full;bright;crescent;distant;glowing;waxing;waning;silver;new;ancient
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,pen,black;ink;ballpoint;old;fountain;cheap;colorful;wooden;modern;broken
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,sun,bright;hot;rising;setting;golden;summer;warm;distant;midday;eternal
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;steel;long;magical;ceremonial;rusty;jeweled;wooden;broken
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,cat,black;fluffy;stray;playful;old;wild;domestic;gray;sleeping;curious
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,dog,loyal;big;small;friendly;stray;trained;barking;old;wild;playful
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,dolphin,intelligent;playful;wild;large;graceful;marine;jumping;endangered;friendly;young
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,elephant,large;wild;gray;endangered;gentle;African;trained;old;majestic;trumpeting
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,hamster,small;furry;playful;caged;brown;tame;young;sleeping;quick;cute
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,monkey,playful;wild;small;clever;tree-dwelling;noisy;young;trained;brown;mischievous
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,mouse,small;gray;wild;timid;caged;quick;brown;sleeping;laboratory;sneaky
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,peacock,colorful;proud;wild;large;beautiful;feathered;male;zoo;noisy;exotic
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,rabbit,white;fluffy;wild;small;fast;caged;brown;hopping;young;tame
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,shark,large;dangerous;wild;gray;fast;oceanic;predatory;great;young;fierce
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,snake,long;venomous;wild;green;coiled;tame;dangerous;slithering;small;exotic
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Neutral Animals,whale,massive;blue;wild;endangered;graceful;marine;singing;deep-diving;large;migrating
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,city,busy;modern;large;ancient;crowded;coastal;historic;dirty;vibrant;small
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,desert,vast;sandy;hot;dry;remote;barren;golden;windswept;endless;rocky
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,forest,dense;green;ancient;dark;tropical;quiet;vast;rainy;peaceful;wild
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,island,tropical;small;remote;volcanic;green;deserted;sandy;large;coastal;exotic
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,lake,deep;clear;frozen;large;calm;mountain;blue;shallow;scenic;polluted
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,mountain,tall;snowy;rugged;ancient;green;volcanic;high;remote;majestic;steep
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,ocean,vast;deep;blue;stormy;calm;endless;salty;cold;warm;mysterious
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,plain,vast;flat;green;dry;fertile;endless;grassy;open;rural;empty
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,plateau,high;flat;rocky;vast;elevated;dry;green;ancient;scenic;remote
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,river,wide;deep;flowing;muddy;clear;fast;slow;ancient;frozen;winding
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,valley,deep;green;narrow;fertile;scenic;hidden;wide;misty;rural;peaceful
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Places,village,small;rural;quiet;ancient;coastal;fishing;mountain;poor;charming;remote
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,cactus,spiky;tall;desert;green;flowering;small;hardy;prickly;exotic;dry
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,eggplant,purple;fresh;large;ripe;organic;shiny;cooked;small;grilled;bitter
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,flower,beautiful;red;wild;fragrant;blooming;small;yellow;garden;wilted;exotic
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,grass,green;tall;wet;dry;soft;wild;mowed;lush;short;golden
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,lettuce,fresh;green;crisp;organic;leafy;raw;wilted;salad;small;bitter
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,mushroom,wild;fresh;edible;poisonous;small;large;cooked;white;dried;earthy
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,onion,fresh;red;white;raw;chopped;strong-smelling;small;large;sweet;dried
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,pepper,spicy;red;green;fresh;hot;sweet;dried;ground;small;colorful
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,potato,fresh;large;small;baked;boiled;organic;sweet;raw;fried;rotten
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,rose,red;beautiful;thorny;fragrant;blooming;white;wild;garden;pink;wilted
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,tomato,red;fresh;ripe;juicy;small;organic;raw;sliced;green;rotten
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Plants,tree,tall;green;old;fruit-bearing;shady;ancient;fallen;blooming;bare;large
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,ally,strong;reliable;secret;powerful;loyal;strategic;foreign;trusted;temporary;faithful
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,brother,older;younger;loving;protective;annoying;twin;distant;supportive;brave;close
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,enemy,sworn;powerful;fierce;hidden;ancient;dangerous;bitter;foreign;defeated;ruthless
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,father,loving;strict;absent;proud;hardworking;elderly;young;supportive;distant;wise
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,follower,loyal;devoted;blind;enthusiastic;religious;political;dedicated;fanatical;faithful;eager
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,friend,close;old;true;reliable;new;loyal;distant;fun;supportive;childhood
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,leader,strong;charismatic;wise;democratic;authoritarian;inspirational;young;effective;controversial;military
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,mother,loving;caring;strict;busy;elderly;young;supportive;single;protective;wise
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,partner,business;romantic;reliable;equal;trusted;long-term;creative;supportive;professional;silent
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,rival,fierce;business;longtime;worthy;jealous;corporate;athletic;bitter;competitive;strong
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,sister,younger;older;caring;annoying;close;distant;supportive;twin;protective;loving
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Social Relationships,stranger,mysterious;unknown;dangerous;friendly;passing;foreign;helpful;suspicious;tall;quiet
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,above,high;overhead;superior;floating;elevated;top;upper;aerial;distant;lofty
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,back,rear;hidden;supporting;old;straight;muscular;sore;wooden;distant;dark
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,below,low;underground;submerged;inferior;hidden;deep;bottom;watery;dark;sunken
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,east,distant;rising;coastal;far;sunny;ancient;western-flanking;trade;mysterious;golden
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,front,main;forward;visible;busy;leading;open;defensive;wide;clean;stylish
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,inside,inner;hidden;cozy;warm;secret;dark;spacious;empty;protected;quiet
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,left,unused;forgotten;abandoned;open;hidden;wrong;northern;southern;empty;dark
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,north,cold;distant;polar;frozen;southern-adjacent;wild;mysterious;wooded;vast;high
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,outside,cold;bright;open;rainy;dark;secure;exposed;windy;warm;empty
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,right,correct;proper;legal;straight;moral;immediate;southern;northern;true;accurate
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,south,warm;tropical;distant;northern-adjacent;sunny;coastal;wild;mysterious;vast;low
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Spatial Concepts,west,wild;distant;eastern-adjacent;sunny;coastal;ancient;mysterious;vast;high;golden
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,century,past;future;golden;dark;modern;ancient;prosperous;turbulent;brief;long
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,day,long;sunny;busy;short;rainy;clear;ordinary;special;hot;cold
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,evening,quiet;cool;long;warm;peaceful;romantic;late;early;dark;golden
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,hour,early;late;busy;quiet;final;golden;dark;short;long;peak
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,minute,last;final;quiet;busy;golden;dark;short;long;early;late
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,month,long;short;busy;quiet;final;early;warm;cold;festive;dry
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,morning,early;fresh;bright;foggy;quiet;busy;cool;sunny;late;crisp
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,night,dark;long;quiet;starry;cold;warm;endless;short;stormy;peaceful
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,season,long;short;wet;dry;cold;warm;festive;peak;off;changing
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,second,final;last;quick;long;golden;dark;early;late;short;crucial
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;final;early;productive;relaxing;tough;easy
+grok-3-mini,basic,1.0,TH # Thai,Perfect,most frequent,Time Concepts,year,long;short;busy;quiet;final;early;prosperous;tough;memorable;new

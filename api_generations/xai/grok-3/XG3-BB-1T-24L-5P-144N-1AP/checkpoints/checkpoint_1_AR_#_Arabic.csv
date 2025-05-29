@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,anger,strong;deep;sudden;hot;fierce;wild;bitter;quick;dark;heavy
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,courage,great;brave;bold;true;strong;amazing;real;pure;quiet;inner
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,fear,big;cold;dark;deep;sudden;strong;terrible;silent;hidden;growing
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,freedom,true;complete;new;sweet;hard;personal;full;long;precious;basic
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,happiness,pure;great;simple;warm;bright;deep;true;real;lasting;sweet
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,hate,strong;deep;bitter;dark;cold;fierce;hidden;burning;blind;endless
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,honesty,true;complete;pure;simple;real;strong;clear;brave;open;full
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,justice,fair;true;strong;equal;real;pure;hard;clear;honest;final
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,knowledge,deep;wide;great;useful;basic;new;old;strong;clear;vast
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,love,true;deep;warm;sweet;strong;pure;endless;real;gentle;kind
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,peace,quiet;calm;true;deep;lasting;sweet;inner;real;gentle;complete
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Abstract Concepts,wisdom,great;deep;old;true;strong;quiet;clear;simple;pure;ancient
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,bell,loud;clear;small;old;golden;shiny;heavy;sweet;bright;silver
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,candle,small;bright;warm;soft;white;flickering;old;red;tall;melting
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,carpet,soft;thick;red;old;colorful;warm;big;clean;patterned;expensive
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,coin,old;shiny;small;silver;gold;rare;round;heavy;dirty;valuable
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,crown,golden;heavy;shiny;royal;old;beautiful;rich;tall;jeweled;ancient
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,flag,national;colorful;big;waving;proud;old;torn;bright;red;white
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,mask,scary;black;white;funny;old;wooden;strange;hidden;painted;dark
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,necklace,beautiful;gold;silver;long;shiny;expensive;old;delicate;simple;heavy
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;big;famous;dark;bright;small;detailed;expensive
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,ring,gold;silver;shiny;small;expensive;old;beautiful;simple;round;precious
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,statue,tall;old;stone;big;beautiful;white;heavy;ancient;famous;broken
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Cultural Artifacts,vase,old;beautiful;glass;small;tall;colorful;delicate;expensive;white;broken
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,cloud,white;fluffy;big;dark;soft;gray;heavy;low;high;moving
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,earthquake,strong;sudden;terrible;dangerous;big;scary;powerful;destructive;quick;violent
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,fog,thick;white;cold;heavy;dark;silent;wet;early;mysterious;deep
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,lightning,bright;quick;strong;dangerous;loud;fast;sharp;scary;powerful;sudden
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;soft;sudden;long;hard;quiet;steady
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;big;clear;rare;magical;high;wide;amazing
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;thick;beautiful;quiet;fresh;falling
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,storm,strong;dark;loud;dangerous;big;sudden;violent;scary;wild;heavy
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,thunder,loud;deep;strong;scary;sudden;heavy;dark;powerful;rolling;distant
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,tide,high;low;strong;calm;fast;slow;dangerous;quiet;rising;falling
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,volcano,active;dangerous;big;hot;tall;dark;old;powerful;scary;burning
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;fast;slow;gentle;wild;loud;steady
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,apple,red;green;sweet;fresh;small;big;round;juicy;hard;ripe
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,banana,yellow;sweet;soft;long;fresh;ripe;small;big;curved;healthy
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,beef,red;fresh;tough;soft;raw;cooked;expensive;fatty;lean;juicy
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,bread,fresh;soft;warm;white;brown;hard;old;thick;crusty;sliced
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,broccoli,green;fresh;healthy;small;big;raw;cooked;tender;bitter;crisp
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,cheese,yellow;white;soft;hard;old;strong;creamy;melted;sharp;mild
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,chicken,fresh;cooked;raw;tender;juicy;roasted;grilled;spicy;white;fatty
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,egg,white;brown;fresh;boiled;fried;raw;small;big;hard;soft
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,fish,fresh;raw;cooked;big;small;salty;oily;white;silver;tasty
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,pasta,soft;hard;long;short;hot;cold;fresh;dry;yellow;tasty
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,rice,white;brown;soft;sticky;long;short;hot;cold;plain;cooked
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Food Items,soup,hot;warm;cold;thick;thin;tasty;creamy;spicy;clear;fresh
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,artist,talented;famous;young;old;creative;poor;rich;modern;classic;skilled
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,athlete,strong;fast;young;tall;fit;famous;skilled;tough;active;dedicated
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,chef,skilled;famous;young;old;creative;busy;talented;strict;friendly;experienced
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,doctor,kind;smart;old;young;busy;famous;helpful;strict;caring;experienced
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,engineer,smart;young;old;skilled;creative;busy;famous;talented;careful;technical
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,farmer,hard-working;old;young;poor;rich;kind;strong;busy;friendly;simple
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,lawyer,smart;strict;famous;young;old;rich;busy;clever;strong;honest
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,musician,talented;young;old;famous;creative;poor;rich;skilled;passionate;friendly
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,scientist,smart;old;young;famous;curious;busy;clever;dedicated;creative;careful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,soldier,brave;strong;young;old;tough;loyal;strict;tall;fearless;dedicated
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,teacher,kind;strict;smart;old;young;patient;friendly;helpful;busy;caring
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Human Roles,writer,famous;talented;young;old;creative;poor;rich;clever;quiet;passionate
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,book,old;new;thick;thin;big;small;interesting;boring;heavy;light
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,bridge,old;new;long;short;high;low;strong;weak;wooden;metal
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,drums,loud;big;small;heavy;old;new;red;black;shiny;wooden
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,earth,big;round;blue;green;old;beautiful;rich;dry;wet;warm
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,flute,small;silver;gold;old;new;shiny;light;wooden;clear;beautiful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,key,small;old;shiny;heavy;silver;gold;rusty;big;important;lost
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,knife,sharp;small;big;old;new;heavy;light;rusty;shiny;dangerous
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,lock,old;new;heavy;small;big;strong;weak;rusty;shiny;broken
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,moon,bright;full;round;white;big;small;pale;quiet;beautiful;distant
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,pen,black;blue;red;small;big;old;new;cheap;expensive;broken
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;warm;high;low;clear;strong;shining
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Inanimate Objects,sword,sharp;old;heavy;long;short;shiny;rusty;strong;dangerous;ancient
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,cat,small;black;white;soft;cute;wild;lazy;fast;friendly;quiet
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,dog,big;small;friendly;loud;black;white;fast;loyal;cute;strong
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,dolphin,smart;friendly;fast;big;small;blue;gray;playful;beautiful;wild
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,elephant,big;gray;strong;heavy;slow;tall;old;young;kind;wild
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,hamster,small;cute;soft;brown;white;fast;quiet;tiny;active;fluffy
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,monkey,small;brown;fast;funny;wild;cute;loud;active;clever;naughty
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,mouse,small;gray;fast;quiet;tiny;cute;brown;sneaky;scared;quick
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,peacock,beautiful;colorful;big;tall;proud;bright;rare;amazing;loud;stunning
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,rabbit,small;white;soft;cute;fast;brown;quiet;tiny;fluffy;quick
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,shark,big;dangerous;fast;gray;scary;strong;wild;sharp;hungry;dark
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,snake,long;dangerous;green;brown;fast;scary;quiet;thin;wild;poisonous
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Neutral Animals,whale,big;blue;huge;slow;heavy;deep;gentle;rare;beautiful;strong
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,city,big;small;busy;noisy;modern;old;beautiful;crowded;clean;dirty
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,desert,hot;dry;big;empty;sandy;quiet;wide;dangerous;yellow;harsh
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,forest,green;big;dark;thick;old;quiet;deep;beautiful;wild;scary
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,island,small;big;beautiful;quiet;green;tropical;remote;sandy;rocky;isolated
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,lake,blue;clear;big;small;deep;calm;cold;quiet;beautiful;still
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,mountain,high;tall;big;rocky;snowy;green;steep;old;beautiful;dangerous
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,ocean,big;blue;deep;wide;cold;calm;rough;beautiful;dark;endless
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,plain,wide;flat;green;big;empty;dry;yellow;quiet;open;vast
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,plateau,high;flat;big;rocky;dry;wide;cold;empty;green;remote
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,river,long;wide;blue;clear;deep;fast;slow;cold;beautiful;quiet
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,valley,green;deep;wide;beautiful;quiet;long;narrow;rocky;fertile;hidden
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Places,village,small;quiet;old;beautiful;simple;poor;friendly;green;remote;peaceful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,cactus,green;tall;small;sharp;dry;thick;old;spiky;tough;desert
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,eggplant,purple;big;small;fresh;soft;hard;shiny;long;healthy;ripe
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,flower,beautiful;red;white;yellow;small;big;soft;bright;fresh;colorful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,grass,green;soft;thick;thin;wet;dry;long;short;fresh;wild
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,lettuce,green;fresh;soft;big;small;crisp;light;healthy;raw;tender
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,mushroom,small;brown;white;soft;big;fresh;wild;tasty;round;poisonous
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,onion,white;yellow;strong;small;big;fresh;raw;round;sharp;sweet
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,pepper,red;green;yellow;hot;sweet;small;big;fresh;spicy;round
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,potato,brown;big;small;fresh;raw;cooked;hard;soft;round;dirty
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,rose,red;pink;white;beautiful;soft;small;big;fresh;thorny;sweet
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,tomato,red;round;fresh;small;big;juicy;soft;ripe;green;sweet
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Plants,tree,tall;big;green;old;small;thick;thin;beautiful;strong;leafy
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,ally,loyal;strong;helpful;close;true;kind;brave;trusted;friendly;supportive
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,brother,older;younger;kind;strong;funny;tall;close;loving;strict;protective
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,enemy,strong;dangerous;close;old;new;bitter;fierce;cruel;hidden;powerful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,father,kind;strict;old;tall;strong;loving;wise;funny;caring;protective
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,follower,loyal;young;eager;quiet;active;true;close;dedicated;supportive;faithful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,friend,close;kind;funny;loyal;old;new;tall;sweet;helpful;caring
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,leader,strong;wise;kind;strict;brave;tall;smart;old;young;powerful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,mother,kind;loving;strict;old;young;caring;sweet;strong;wise;gentle
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,partner,loyal;kind;close;strong;funny;tall;helpful;caring;sweet;trusted
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,rival,strong;close;fierce;tough;old;new;smart;dangerous;bitter;competitive
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,sister,older;younger;kind;funny;tall;sweet;strict;loving;close;caring
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Social Relationships,stranger,tall;short;kind;strange;quiet;loud;old;young;friendly;scary
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,above,high;clear;wide;open;bright;far;blue;empty;big;distant
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,back,strong;wide;straight;bent;sore;long;broad;heavy;tired;hard
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,below,low;deep;dark;cold;hidden;quiet;small;narrow;close;wet
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,east,far;warm;bright;distant;beautiful;open;green;quiet;wide;ancient
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,front,clear;wide;open;straight;close;big;bright;clean;strong;hard
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,inside,warm;dark;quiet;small;big;hidden;safe;cozy;deep;crowded
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,left,close;near;far;open;empty;wide;quiet;small;hidden;low
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,north,cold;far;distant;high;quiet;white;snowy;dark;wide;beautiful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,outside,cold;warm;bright;dark;big;wide;open;noisy;fresh;beautiful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,right,close;near;far;open;empty;wide;quiet;small;strong;correct
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,south,warm;far;distant;hot;green;beautiful;open;quiet;wide;sunny
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Spatial Concepts,west,far;distant;warm;quiet;beautiful;open;wide;green;sunny;remote
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,century,old;new;long;past;famous;important;early;late;golden;dark
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,day,long;short;warm;cold;bright;dark;busy;quiet;rainy;sunny
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,evening,quiet;dark;cool;long;short;beautiful;calm;warm;clear;peaceful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;fast;slow;important;hard
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,minute,quick;fast;short;long;busy;quiet;important;final;slow;precious
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,month,long;short;busy;quiet;cold;warm;rainy;sunny;hard;easy
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,morning,early;bright;cool;quiet;fresh;busy;clear;cold;beautiful;calm
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,night,dark;long;short;quiet;cold;warm;clear;starry;scary;peaceful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,season,cold;warm;hot;rainy;dry;long;short;beautiful;hard;colorful
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,second,quick;fast;short;long;important;final;busy;quiet;slow;critical
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,week,long;short;busy;quiet;hard;easy;fast;slow;rainy;sunny
+grok-3,basic,1.0,AR # Arabic,B1,most frequent,Time Concepts,year,long;short;busy;hard;easy;good;bad;old;new;important
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,anger,strong;fierce;intense;burning;wild;deep;sudden;bitter;hot;uncontrollable
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,courage,brave;bold;fearless;strong;daring;heroic;powerful;determined;inspiring;great
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,fear,dark;deep;overwhelming;chilling;terrible;hidden;constant;growing;cold;real
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,freedom,true;complete;sweet;precious;hard-won;basic;pure;personal;new;desired
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,happiness,pure;simple;bright;warm;endless;genuine;joyful;shared;quiet;full
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,hate,deep;strong;bitter;fierce;blind;burning;hidden;cruel;dark;endless
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,honesty,true;clear;pure;strong;complete;rare;simple;open;real;admired
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,justice,fair;true;equal;strict;honest;necessary;moral;blind;social;long-awaited
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,knowledge,deep;wide;vast;useful;basic;important;shared;hidden;practical;growing
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,love,true;deep;endless;warm;pure;sweet;strong;unconditional;lasting;romantic
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,peace,calm;quiet;lasting;inner;true;sweet;gentle;global;fragile;desired
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Abstract Concepts,wisdom,deep;great;ancient;practical;true;quiet;shared;valuable;timeless;guiding
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,bell,loud;clear;small;old;shiny;golden;heavy;sweet;ringing;beautiful
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,candle,bright;small;warm;glowing;white;scented;burning;soft;romantic;flickering
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;expensive;old;beautiful;patterned;warm;dirty;large
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,coin,old;shiny;small;rare;silver;gold;valuable;worn;round;historical
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,crown,golden;heavy;shiny;royal;beautiful;ancient;expensive;powerful;jeweled;majestic
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,flag,national;colorful;proud;waving;bright;symbolic;torn;old;large;official
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,mask,mysterious;colorful;scary;funny;wooden;hidden;traditional;dark;painted;strange
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,necklace,beautiful;expensive;golden;silver;delicate;long;shiny;elegant;precious;simple
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;famous;expensive;detailed;large;realistic;abstract;inspiring
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,ring,shiny;golden;silver;small;expensive;beautiful;simple;elegant;tight;precious
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,statue,tall;old;stone;bronze;beautiful;ancient;impressive;large;broken;historical
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Cultural Artifacts,vase,delicate;beautiful;old;ceramic;tall;colorful;expensive;fragile;empty;painted
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;heavy;grey;soft;high;thick;moving;rainy
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,earthquake,strong;destructive;sudden;terrifying;powerful;dangerous;violent;rare;deadly;massive
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,fog,thick;white;cold;dense;mysterious;grey;heavy;wet;early;silent
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,lightning,bright;quick;dangerous;powerful;sharp;loud;sudden;striking;electric;scary
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;warm;sudden;soft;endless;refreshing;gentle;stormy
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;magical;clear;vivid;arched;stunning;fleeting
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,snow,white;cold;soft;thick;heavy;fresh;fluffy;falling;quiet;beautiful
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,storm,strong;violent;dark;loud;dangerous;sudden;powerful;scary;wild;destructive
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,thunder,loud;deep;scary;sudden;strong;rumbling;powerful;distant;echoing;frightening
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,tide,high;low;strong;powerful;fast;dangerous;changing;rough;calm;incoming
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,volcano,active;dangerous;huge;fiery;sleeping;deadly;powerful;smoking;tall;destructive
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fast;loud;wild;blowing;soft;dry
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,apple,red;green;sweet;fresh;juicy;ripe;small;crunchy;round;delicious
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;fresh;healthy;curved;tasty;tropical
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,beef,fresh;tender;red;juicy;cooked;expensive;raw;delicious;grilled;tough
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,bread,fresh;soft;warm;white;brown;crusty;homemade;stale;thick;sliced
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,broccoli,green;fresh;healthy;small;tender;raw;cooked;bitter;hard;nutritious
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,cheese,yellow;white;soft;hard;creamy;sharp;smelly;melted;fresh;aged
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,chicken,fresh;tender;cooked;grilled;juicy;white;roasted;spicy;delicious;raw
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,egg,white;brown;fresh;boiled;fried;small;cracked;raw;hard;soft
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,fish,fresh;raw;cooked;small;large;salty;tasty;grilled;silver;slippery
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,pasta,soft;fresh;cooked;long;short;tasty;hot;creamy;plain;Italian
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,rice,white;brown;cooked;sticky;fluffy;plain;hot;soft;healthy;simple
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Food Items,soup,hot;warm;creamy;thick;tasty;homemade;clear;spicy;fresh;hearty
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,artist,creative;talented;famous;young;old;skilled;passionate;unique;inspired;poor
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,athlete,strong;fast;fit;young;talented;competitive;determined;famous;trained;powerful
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,chef,skilled;creative;famous;busy;talented;professional;friendly;strict;experienced;passionate
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,doctor,kind;skilled;busy;helpful;experienced;friendly;serious;smart;caring;trusted
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,engineer,smart;skilled;creative;busy;experienced;technical;innovative;professional;talented;practical
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,farmer,hardworking;poor;kind;strong;old;busy;simple;friendly;tired;dedicated
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,lawyer,smart;strict;busy;expensive;experienced;tough;professional;honest;famous;clever
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,musician,talented;passionate;creative;famous;young;skilled;inspired;poor;unique;gifted
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,scientist,smart;curious;dedicated;famous;patient;serious;innovative;brilliant;focused;experienced
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,soldier,brave;strong;young;loyal;disciplined;tough;tired;heroic;trained;fearless
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,teacher,kind;patient;strict;helpful;smart;friendly;experienced;caring;inspiring;busy
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Human Roles,writer,creative;talented;famous;inspired;young;passionate;poor;unique;skilled;dedicated
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;expensive;heavy;small;famous
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,bridge,old;long;high;strong;beautiful;wooden;broken;narrow;wide;famous
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,drums,loud;big;heavy;shiny;old;wooden;powerful;rhythmic;colorful;expensive
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,earth,vast;beautiful;green;blue;rich;old;fragile;warm;living;round
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,flute,small;wooden;shiny;sweet;old;delicate;silver;beautiful;soft;expensive
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,key,small;shiny;old;silver;golden;heavy;important;rusty;lost;useful
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,knife,sharp;small;heavy;dangerous;shiny;old;rusty;useful;long;kitchen
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,lock,strong;old;rusty;small;heavy;broken;shiny;secure;tight;golden
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,moon,bright;full;pale;beautiful;distant;round;white;mysterious;cold;glowing
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,pen,small;black;blue;expensive;old;cheap;shiny;useful;broken;plastic
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,sun,bright;hot;yellow;warm;big;shining;golden;powerful;beautiful;burning
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Inanimate Objects,sword,sharp;heavy;old;shiny;long;dangerous;rusty;powerful;ancient;silver
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,cat,small;cute;soft;black;white;lazy;playful;quiet;furry;friendly
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,dog,big;small;friendly;loyal;brown;black;playful;loud;protective;cute
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,dolphin,smart;friendly;fast;blue;playful;beautiful;wild;graceful;jumping;curious
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,elephant,big;strong;grey;gentle;heavy;wild;tall;slow;wise;powerful
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,hamster,small;cute;fluffy;soft;tiny;active;brown;white;playful;shy
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,monkey,funny;small;brown;playful;wild;clever;active;noisy;curious;quick
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,mouse,small;tiny;grey;fast;quiet;shy;cute;sneaky;little;scared
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,peacock,beautiful;colorful;proud;large;shiny;rare;elegant;bright;stunning;feathered
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,rabbit,small;cute;white;soft;fast;shy;fluffy;brown;playful;gentle
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,shark,big;dangerous;fast;grey;scary;powerful;wild;hungry;sharp;deadly
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,snake,long;dangerous;green;black;scary;slimy;quiet;venomous;thin;wild
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Neutral Animals,whale,huge;blue;gentle;deep;slow;powerful;rare;beautiful;heavy;wild
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,city,big;busy;noisy;modern;old;crowded;beautiful;dirty;lively;expensive
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,desert,hot;dry;vast;sandy;empty;harsh;quiet;golden;dangerous;endless
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,forest,green;thick;dark;quiet;wild;deep;beautiful;old;dense;mysterious
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,island,small;tropical;beautiful;remote;green;quiet;sandy;lonely;warm;hidden
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,lake,blue;calm;deep;clear;cold;beautiful;quiet;large;still;fresh
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,mountain,tall;high;rocky;snowy;beautiful;steep;cold;green;dangerous;majestic
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,ocean,vast;blue;deep;cold;wild;salty;beautiful;dark;endless;powerful
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,plain,flat;wide;green;open;vast;dry;empty;quiet;simple;endless
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,plateau,high;flat;wide;dry;rocky;cold;vast;empty;remote;beautiful
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,river,long;wide;blue;calm;fast;deep;clear;cold;beautiful;winding
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,valley,green;deep;narrow;beautiful;quiet;fertile;long;hidden;peaceful;lush
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Places,village,small;quiet;old;peaceful;friendly;simple;poor;beautiful;remote;traditional
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,cactus,green;spiky;tall;dry;tough;small;sharp;desert;hardy;prickly
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,eggplant,purple;shiny;fresh;long;soft;healthy;raw;cooked;bitter;small
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,flower,beautiful;colorful;small;fragrant;fresh;delicate;bright;soft;pretty;blooming
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,grass,green;soft;thick;short;long;wet;dry;fresh;wild;tall
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,lettuce,green;fresh;crispy;light;healthy;soft;raw;cold;leafy;tender
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,mushroom,small;brown;white;soft;tasty;wild;fresh;poisonous;earthy;round
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,onion,white;yellow;strong;raw;small;round;sharp;fresh;smelly;peeled
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,pepper,red;green;spicy;hot;fresh;small;sweet;raw;colorful;sharp
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,potato,brown;small;hard;fresh;raw;cooked;tasty;round;soft;starchy
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,rose,red;pink;beautiful;fragrant;delicate;soft;thorny;bright;lovely;romantic
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,tomato,red;ripe;juicy;fresh;small;round;soft;sweet;raw;tasty
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Plants,tree,tall;green;old;big;strong;leafy;beautiful;shady;thick;ancient
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,ally,loyal;helpful;strong;trusted;close;reliable;friendly;supportive;kind;valuable
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,brother,older;younger;kind;funny;strong;protective;annoying;close;loving;helpful
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,enemy,dangerous;strong;cruel;hated;powerful;sneaky;evil;bitter;hidden;fierce
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,father,kind;strict;loving;strong;old;wise;protective;hardworking;caring;funny
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,follower,loyal;dedicated;young;eager;supportive;quiet;obedient;passionate;trusting;close
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,friend,close;kind;funny;loyal;helpful;old;best;true;caring;supportive
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,leader,strong;wise;powerful;kind;strict;brave;smart;confident;inspiring;respected
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,mother,loving;kind;caring;strict;gentle;strong;warm;wise;protective;busy
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,partner,loyal;supportive;kind;funny;close;helpful;loving;trusted;strong;reliable
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,rival,strong;tough;competitive;jealous;dangerous;close;bitter;hated;fierce;clever
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,sister,older;younger;kind;funny;annoying;loving;close;helpful;caring;protective
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Social Relationships,stranger,unknown;mysterious;quiet;cold;distant;strange;friendly;suspicious;new;curious
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,above,high;clear;bright;far;distant;overhead;upper;open;wide;visible
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,back,rear;behind;hidden;lower;distant;old;small;strong;straight;close
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,below,low;under;hidden;deep;close;beneath;dark;quiet;small;cold
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,east,distant;far;warm;bright;early;open;vast;beautiful;ancient;rising
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,front,forward;first;main;open;clear;close;visible;leading;wide;straight
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,inside,warm;hidden;dark;small;cozy;safe;quiet;deep;private;tight
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,left,close;near;side;wrong;remaining;hidden;lower;opposite;quiet;small
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,north,cold;far;distant;high;wild;dark;quiet;remote;harsh;vast
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,outside,cold;open;wide;free;bright;fresh;noisy;far;public;exposed
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,right,correct;close;side;proper;near;main;strong;opposite;clear;safe
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,south,warm;far;distant;bright;hot;open;vast;beautiful;sunny;tropical
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Spatial Concepts,west,far;distant;warm;late;open;vast;beautiful;setting;wild;remote
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,century,old;past;long;new;historical;important;famous;ancient;early;modern
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;cold;warm;bright;hard;happy
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,evening,quiet;cool;dark;long;calm;beautiful;late;relaxing;peaceful;pleasant
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,hour,long;short;busy;late;early;quiet;fast;slow;important;precious
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,minute,quick;short;fast;long;busy;final;last;precious;exact;passing
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;sunny;important;past;current
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,morning,early;bright;cold;fresh;quiet;busy;sunny;cool;peaceful;beautiful
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,night,dark;long;cold;quiet;late;scary;beautiful;silent;still;endless
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,season,cold;warm;rainy;dry;long;short;beautiful;busy;hot;favorite
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,second,quick;short;fast;last;brief;exact;final;passing;precious;critical
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,week,long;short;busy;hard;fast;slow;quiet;exciting;tough;important
+grok-3,basic,1.0,AR # Arabic,B2,most frequent,Time Concepts,year,long;short;busy;hard;good;bad;new;old;important;past
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,anger,intense;fierce;burning;uncontrollable;deep;sudden;bitter;raw;suppressed;violent
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,courage,bold;fearless;brave;heroic;daring;strong;resolute;valiant;determined;unwavering
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;constant;hidden;intense;primal;creeping;chilling
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,freedom,absolute;cherished;hard-won;precious;liberating;true;personal;complete;newfound;enduring
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,happiness,pure;genuine;boundless;infectious;radiant;lasting;simple;profound;unexpected;heartfelt
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,hate,intense;bitter;deep;consuming;blind;fierce;relentless;unspoken;toxic;ingrained
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,honesty,brutal;refreshing;unwavering;complete;raw;sincere;admirable;rare;steadfast;absolute
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,justice,fair;swift;true;impartial;hard-fought;divine;equal;moral;deserved;blind
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;valuable;practical;ancient;hidden;theoretical;essential
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,love,unconditional;passionate;true;eternal;deep;tender;selfless;romantic;enduring;pure
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,peace,inner;lasting;fragile;serene;quiet;harmonious;elusive;global;spiritual;calming
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Abstract Concepts,wisdom,timeless;profound;ancient;practical;deep;hard-earned;insightful;quiet;guiding;invaluable
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,bell,loud;clear;ringing;small;antique;golden;silver;melodic;heavy;ornate
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,candle,flickering;warm;scented;small;bright;decorative;melting;soft;glowing;handmade
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;patterned;luxurious;old;worn;Persian;plush;handmade
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,coin,shiny;old;rare;valuable;small;golden;silver;ancient;worn;collectible
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ancient;ornate;majestic;ceremonial;glittering;symbolic
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;tattered;symbolic;bright;historic;bold;iconic
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,mask,mysterious;decorative;eerie;colorful;tribal;frightening;intricate;hidden;ceremonial;painted
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,necklace,delicate;golden;silver;beaded;elegant;expensive;long;simple;antique;sparkling
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,painting,beautiful;abstract;realistic;old;famous;colorful;detailed;expressive;modern;classic
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,ring,golden;silver;diamond;simple;elegant;engraved;antique;wedding;precious;shiny
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,statue,tall;ancient;marble;bronze;majestic;detailed;imposing;weathered;iconic;grand
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Cultural Artifacts,vase,delicate;ceramic;ornate;tall;antique;fragile;painted;floral;elegant;cracked
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;floating;thick;stormy;light;grey;scattered
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;violent;terrifying;massive;destructive;unexpected;deadly;severe
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,fog,thick;dense;eerie;grey;cold;mysterious;heavy;creeping;damp;blinding
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;striking;dangerous;vivid;electric;jagged;intense;dramatic
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;refreshing;gentle;pouring;sudden;endless;drizzling
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;vivid;rare;magical;fleeting;arched;stunning;vibrant
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,snow,white;soft;heavy;cold;fluffy;fresh;falling;thick;pristine;melting
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,storm,fierce;violent;powerful;dark;raging;sudden;dangerous;loud;destructive;intense
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rolling;powerful;distant;startling;rumbling;echoing;ominous
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,tide,high;low;strong;rising;receding;powerful;dangerous;steady;unpredictable;relentless
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;fiery;explosive;ancient;towering;deadly;smoking
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;howling;gusty;fierce;steady;biting;refreshing
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,apple,red;green;juicy;sweet;crisp;fresh;ripe;tart;shiny;small
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;fresh;curved;healthy;tropical;bruised
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,beef,tender;juicy;grilled;rare;well-done;fresh;lean;savory;marinated;smoked
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,bread,fresh;warm;crusty;soft;white;brown;homemade;stale;sliced;toasted
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,broccoli,green;fresh;healthy;steamed;raw;tender;crisp;small;organic;bright
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,cheese,creamy;sharp;melted;aged;soft;hard;tangy;yellow;white;savory
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,chicken,grilled;roasted;fried;tender;juicy;spicy;fresh;boneless;seasoned;succulent
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,egg,boiled;fried;scrambled;fresh;white;brown;soft;hard;organic;cracked
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,fish,fresh;grilled;fried;raw;flaky;salty;smoked;tender;bony;oily
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,pasta,al dente;creamy;cheesy;spicy;fresh;homemade;soft;saucy;hot;Italian
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;savory;plain;cooked;fragrant;seasoned
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Food Items,soup,hot;creamy;hearty;clear;savory;spicy;homemade;comforting;thick;warm
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,artist,talented;creative;passionate;famous;struggling;innovative;skilled;eccentric;inspired;visionary
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,athlete,strong;fast;dedicated;skilled;competitive;fit;determined;talented;disciplined;energetic
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,chef,skilled;creative;famous;experienced;innovative;passionate;professional;busy;meticulous;talented
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,doctor,kind;skilled;dedicated;experienced;compassionate;busy;trusted;professional;caring;knowledgeable
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,engineer,innovative;skilled;intelligent;practical;creative;experienced;technical;dedicated;analytical;resourceful
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,farmer,hardworking;dedicated;experienced;rural;humble;tough;patient;skilled;traditional;resilient
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,lawyer,sharp;persuasive;experienced;successful;determined;knowledgeable;confident;professional;ethical;shrewd
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,musician,talented;passionate;skilled;famous;creative;dedicated;expressive;gifted;versatile;inspiring
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;knowledgeable;meticulous;pioneering;intelligent;focused
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,soldier,brave;loyal;strong;disciplined;dedicated;courageous;tough;honorable;trained;resilient
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,teacher,patient;kind;dedicated;inspiring;knowledgeable;strict;supportive;experienced;caring;wise
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Human Roles,writer,creative;talented;prolific;famous;insightful;passionate;imaginative;skilled;thoughtful;expressive
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;hardcover;paperback;classic;engaging
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,bridge,old;long;sturdy;wooden;modern;narrow;wide;iconic;suspension;historic
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;deep;powerful;tribal;small;large;beaten;resonant;traditional
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,earth,vast;blue;fertile;ancient;fragile;green;rotating;precious;beautiful;living
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,flute,delicate;melodic;wooden;silver;small;ancient;soft;clear;elegant;enchanting
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,key,small;shiny;old;rusty;golden;important;hidden;spare;metal;mysterious
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,knife,sharp;small;dangerous;rusty;kitchen;pocket;serrated;blunt;steel;handy
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,lock,secure;heavy;rusty;old;broken;small;metal;tight;strong;ancient
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,moon,full;crescent;bright;pale;mysterious;glowing;distant;beautiful;silver;round
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,pen,black;blue;expensive;cheap;smooth;fountain;ballpoint;old;new;elegant
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,sun,bright;hot;golden;warm;blazing;shining;rising;setting;powerful;radiant
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;rusty;deadly;ceremonial;steel;long;engraved;legendary
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,cat,fluffy;black;white;playful;lazy;curious;small;friendly;independent;agile
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,dog,loyal;friendly;big;small;playful;protective;energetic;obedient;furry;gentle
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,dolphin,intelligent;friendly;playful;sleek;fast;curious;graceful;social;beautiful;wild
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,elephant,massive;gentle;strong;grey;majestic;intelligent;slow;wild;endangered;powerful
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,hamster,tiny;cute;fluffy;active;small;furry;shy;playful;nocturnal;cuddly
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,monkey,playful;curious;agile;clever;small;noisy;wild;cheeky;social;active
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,mouse,tiny;small;grey;quick;shy;quiet;sneaky;cute;timid;fast
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;vibrant;majestic;elegant;striking;exotic;ornate;stunning
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,rabbit,cute;fluffy;small;fast;shy;white;brown;timid;playful;soft
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,shark,dangerous;powerful;sleek;fierce;predatory;fast;scary;grey;deadly;wild
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,snake,venomous;long;slimy;dangerous;sneaky;green;deadly;quiet;coiled;frightening
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Neutral Animals,whale,massive;gentle;blue;enormous;majestic;deep;migratory;powerful;rare;beautiful
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,city,busy;crowded;modern;old;noisy;vibrant;large;historic;industrial;bustling
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,desert,hot;dry;vast;sandy;empty;harsh;barren;quiet;endless;arid
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,forest,dense;green;dark;ancient;quiet;lush;mysterious;wild;thick;serene
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,island,small;tropical;remote;beautiful;deserted;rocky;green;isolated;sandy;exotic
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,lake,calm;clear;deep;blue;serene;still;cold;large;peaceful;reflective
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,mountain,tall;snowy;steep;rocky;majestic;high;rugged;beautiful;ancient;imposing
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,ocean,vast;deep;blue;wild;endless;powerful;calm;stormy;mysterious;wide
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,plain,flat;vast;open;grassy;wide;empty;barren;quiet;endless;fertile
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,plateau,high;flat;wide;rocky;barren;elevated;dry;vast;remote;rugged
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,river,long;wide;calm;fast;clear;muddy;deep;winding;powerful;serene
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,valley,green;deep;narrow;beautiful;fertile;quiet;hidden;lush;peaceful;scenic
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Places,village,small;quiet;rural;peaceful;old;friendly;traditional;remote;charming;simple
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,cactus,prickly;green;tall;dry;tough;spiky;desert;hardy;small;unique
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,eggplant,purple;shiny;fresh;soft;long;healthy;organic;cooked;tender;bitter
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,flower,colorful;fragrant;delicate;beautiful;small;bright;fresh;blooming;soft;lovely
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,grass,green;soft;thick;tall;fresh;wet;dry;lush;short;wild
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,lettuce,green;fresh;crisp;tender;healthy;raw;leafy;organic;light;crunchy
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,mushroom,brown;white;small;edible;wild;soft;earthy;fresh;poisonous;tender
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,onion,strong;raw;white;yellow;pungent;sweet;fresh;chopped;sharp;small
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,pepper,spicy;red;green;hot;fresh;sweet;small;roasted;mild;colorful
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,potato,brown;starchy;fresh;raw;boiled;mashed;small;large;organic;hearty
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,rose,red;pink;fragrant;beautiful;delicate;thorny;fresh;blooming;elegant;romantic
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,tomato,red;ripe;juicy;fresh;small;round;sweet;tangy;organic;soft
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Plants,tree,tall;old;green;sturdy;leafy;ancient;thick;bare;fruitful;majestic
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,ally,loyal;trusted;supportive;close;reliable;strong;helpful;friendly;valuable;steadfast
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,brother,loving;protective;annoying;close;older;younger;supportive;funny;caring;loyal
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,enemy,dangerous;fierce;hostile;bitter;cunning;relentless;hated;powerful;sneaky;cruel
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,father,loving;strict;supportive;wise;caring;strong;protective;kind;hardworking;patient
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,follower,loyal;dedicated;enthusiastic;supportive;obedient;eager;committed;trusting;admiring;faithful
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,friend,close;loyal;kind;funny;trustworthy;supportive;caring;honest;reliable;dear
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,leader,strong;confident;inspiring;charismatic;decisive;wise;bold;fair;respected;visionary
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,mother,loving;caring;strict;supportive;kind;gentle;nurturing;patient;protective;wise
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,partner,loyal;supportive;loving;trusted;reliable;close;equal;committed;understanding;compatible
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,rival,fierce;competitive;strong;challenging;bitter;determined;tough;aggressive;persistent;formidable
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,sister,loving;annoying;close;supportive;funny;caring;older;younger;kind;protective
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Social Relationships,stranger,mysterious;unfamiliar;distant;unknown;suspicious;quiet;friendly;odd;unexpected;aloof
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,above,high;elevated;overhead;superior;towering;lofty;upper;dominant;soaring;prominent
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,back,rear;behind;hidden;last;distant;lower;supportive;strong;straight;aching
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,below,lower;beneath;under;inferior;hidden;deep;submerged;underground;lesser;underneath
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,east,far;distant;oriental;rising;early;cultural;ancient;warm;exotic;remote
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,front,forward;leading;first;main;prominent;visible;open;primary;central;ahead
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,inside,inner;hidden;private;deep;enclosed;internal;secret;warm;confined;personal
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,left,remaining;abandoned;western;liberal;awkward;opposite;spare;stray;forgotten;sidelined
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,north,cold;distant;upper;polar;remote;chilly;rugged;northern;wild;harsh
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,outside,external;outer;distant;foreign;public;exposed;open;far;wild;unfamiliar
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,right,correct;proper;eastern;conservative;immediate;moral;just;accurate;suitable;fair
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,south,warm;tropical;lower;distant;sunny;southern;hot;rural;exotic;remote
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Spatial Concepts,west,far;distant;modern;progressive;sunset;western;open;wild;innovative;frontier
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,century,past;new;old;long;historic;modern;ancient;specific;turning;memorable
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,day,long;short;sunny;rainy;busy;quiet;special;ordinary;bright;tiring
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,evening,quiet;cool;late;dark;peaceful;relaxing;long;pleasant;calm;romantic
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;critical;precious;final;passing
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,minute,quick;short;fleeting;crucial;last;busy;quiet;exact;passing;tense
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;quiet;specific;current;past
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,morning,early;quiet;cool;fresh;sunny;busy;calm;bright;peaceful;chilly
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,night,dark;long;quiet;late;cold;starry;sleepless;peaceful;silent;mysterious
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,season,rainy;dry;cold;hot;long;short;favorite;busy;festive;changing
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,second,quick;brief;fleeting;crucial;final;passing;short;exact;decisive;spare
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,week,long;short;busy;quiet;stressful;exciting;ordinary;hectic;productive;relaxing
+grok-3,basic,1.0,AR # Arabic,C1,most frequent,Time Concepts,year,long;short;busy;memorable;successful;challenging;past;new;difficult;eventful
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,anger,intense;burning;fierce;uncontrollable;deep;raw;sudden;bitter;suppressed;explosive
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,courage,brave;fearless;bold;daring;heroic;valiant;resolute;steadfast;unwavering;admirable
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;irrational;haunting;deep-seated;constant;hidden;gripping;primal;intense
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,freedom,absolute;cherished;hard-won;precious;liberating;true;complete;boundless;personal;universal
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,happiness,pure;genuine;radiant;infectious;lasting;simple;profound;unexpected;overwhelming;blissful
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,hate,intense;bitter;deep;consuming;irrational;blind;toxic;relentless;unspoken;destructive
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,honesty,brutal;refreshing;unwavering;absolute;sincere;raw;admirable;rare;consistent;unyielding
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,justice,fair;impartial;strict;swift;blind;true;deserved;moral;restorative;divine
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;specialized;practical;theoretical;hidden;ancient;invaluable
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,love,unconditional;passionate;eternal;selfless;deep;true;romantic;enduring;genuine;pure
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,peace,lasting;inner;fragile;serene;elusive;profound;global;spiritual;calm;harmonious
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Abstract Concepts,wisdom,profound;timeless;practical;deep;hard-earned;ancient;insightful;philosophical;quiet;invaluable
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,bell,loud;clear;resonant;melodic;antique;small;heavy;golden;silver;traditional
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,candle,flickering;scented;tall;thin;warm;decorative;white;glowing;handmade;romantic
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,carpet,soft;plush;colorful;intricate;thick;expensive;oriental;worn;modern;woolen
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;valuable;silver;gold;worn;small;commemorative;ancient
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ornate;ancient;symbolic;majestic;ceremonial;glittering
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;tattered;symbolic;historic;bold;bright;iconic
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,mask,mysterious;colorful;scary;intricate;tribal;wooden;painted;ceremonial;hidden;expressive
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,necklace,delicate;elegant;gold;silver;beaded;expensive;vintage;long;sparkling;simple
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,painting,beautiful;abstract;realistic;colorful;famous;old;detailed;expressive;vibrant;unique
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;simple;elegant;antique;engagement;precious;ornate;plain
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,statue,tall;ancient;marble;bronze;imposing;detailed;iconic;weathered;majestic;commemorative
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;ornate;ancient;colorful;fragile;floral;elegant;simple
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;low;drifting;stormy;soft;high;scattered
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,earthquake,powerful;destructive;sudden;terrifying;massive;violent;unexpected;devastating;strong;catastrophic
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;eerie;cold;heavy;gray;obscuring;creeping;silent
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;jagged;powerful;dangerous;striking;electric;vivid;intense;dramatic
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,rain,heavy;light;gentle;steady;torrential;cold;warm;refreshing;endless;drizzling
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;beautiful;fleeting;magical;bright;arched;stunning;rare;hopeful
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,snow,soft;white;heavy;light;fresh;cold;powdery;thick;falling;pristine
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,storm,fierce;violent;powerful;dark;raging;sudden;dangerous;intense;thunderous;destructive
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rumbling;distant;powerful;startling;ominous;rolling;deafening
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,tide,high;low;strong;rising;retreating;powerful;calm;dangerous;relentless;rhythmic
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,volcano,active;dormant;massive;dangerous;fiery;ancient;towering;explosive;majestic;destructive
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Environmental Phenomena,wind,strong;gusty;cold;warm;gentle;fierce;howling;brisk;constant;swirling
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;fresh;tart;ripe;small;shiny
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;mushy;healthy
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,beef,tender;juicy;grilled;rare;well-done;savory;lean;fatty;fresh;marbled
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,bread,fresh;warm;crusty;soft;whole-grain;white;stale;homemade;sliced;toasted
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,broccoli,green;fresh;tender;crisp;healthy;steamed;raw;vibrant;bitter;nutritious
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,cheese,sharp;creamy;aged;soft;hard;melted;tangy;rich;yellow;pungent
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,chicken,grilled;roasted;fried;tender;juicy;spicy;boneless;fresh;seasoned;succulent
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;organic;large;small;cracked
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,fish,fresh;grilled;fried;raw;flaky;oily;salty;smoked;delicate;white
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,pasta,al dente;soft;fresh;homemade;creamy;spicy;cheesy;long;short;hearty
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,rice,white;brown;sticky;fluffy;long-grain;short-grain;steamed;seasoned;plain;aromatic
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Food Items,soup,hot;creamy;hearty;light;spicy;savory;homemade;thick;clear;comforting
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,artist,creative;talented;visionary;famous;struggling;contemporary;classical;innovative;passionate;skilled
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,athlete,strong;fast;dedicated;competitive;skilled;muscular;agile;determined;professional;endurance
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,chef,skilled;creative;famous;innovative;passionate;experienced;meticulous;busy;talented;culinary
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,doctor,compassionate;skilled;experienced;dedicated;busy;knowledgeable;caring;professional;trusted;wise
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,engineer,innovative;skilled;technical;creative;analytical;experienced;precise;practical;intelligent;resourceful
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,farmer,hardworking;dedicated;experienced;rural;tough;patient;knowledgeable;traditional;resilient;practical
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,lawyer,sharp;persuasive;experienced;skilled;aggressive;ethical;professional;knowledgeable;articulate;successful
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,musician,talented;passionate;skilled;famous;creative;dedicated;versatile;expressive;gifted;inspired
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,scientist,brilliant;curious;innovative;dedicated;analytical;knowledgeable;meticulous;groundbreaking;logical;experimental
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;courageous;dedicated;tough;heroic;trained;resilient
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,teacher,patient;inspiring;knowledgeable;dedicated;kind;strict;supportive;wise;engaging;experienced
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Human Roles,writer,creative;talented;prolific;insightful;imaginative;famous;dedicated;eloquent;passionate;thoughtful
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,book,thick;thin;old;new;interesting;boring;heavy;engaging;classic;worn
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,bridge,long;old;sturdy;modern;wooden;steel;narrow;high;iconic;suspended
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;deep;powerful;tribal;traditional;modern;resonant;dynamic;beaten
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,earth,vast;beautiful;ancient;fragile;fertile;blue;living;rich;diverse;sacred
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,flute,delicate;melodic;wooden;silver;soft;ancient;small;clear;haunting;elegant
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,key,small;old;rusty;golden;important;spare;lost;shiny;heavy;unique
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,knife,sharp;dull;long;short;serrated;dangerous;rusty;sleek;sturdy;handy
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,lock,secure;old;rusty;heavy;broken;strong;small;intricate;reliable;ancient
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,moon,full;crescent;bright;pale;mysterious;distant;glowing;silvery;romantic;haunting
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,pen,black;blue;elegant;cheap;expensive;smooth;old;leaky;stylish;reliable
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,sun,bright;hot;golden;blazing;radiant;warm;setting;rising;powerful;blinding
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;gleaming;deadly;ornate;legendary;rusty;long;powerful
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,cat,fluffy;sneaky;lazy;curious;playful;black;white;small;elegant;independent
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,dog,loyal;friendly;energetic;big;small;protective;playful;furry;obedient;loving
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,dolphin,intelligent;playful;sleek;friendly;graceful;fast;social;curious;beautiful;acrobatic
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,elephant,massive;gentle;gray;powerful;majestic;wise;slow;strong;enormous;wrinkled
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,hamster,tiny;cute;fluffy;active;small;furry;shy;playful;nocturnal;adorable
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,monkey,cheeky;playful;curious;agile;small;clever;noisy;social;mischievous;energetic
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,mouse,tiny;quiet;quick;small;gray;shy;sneaky;timid;cute;scurrying
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;elegant;vibrant;majestic;striking;ornate;rare;flashy
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,rabbit,fluffy;cute;fast;small;white;timid;playful;soft;hopping;adorable
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,shark,dangerous;fierce;powerful;sleek;predatory;scary;gray;fast;deadly;massive
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,snake,venomous;slithery;long;dangerous;scaly;silent;deadly;colorful;creepy;coiled
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Neutral Animals,whale,massive;gentle;blue;enormous;powerful;majestic;mysterious;deep;migrating;rare
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,city,busy;crowded;modern;old;noisy;vibrant;sprawling;cosmopolitan;industrial;historic
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,desert,vast;arid;hot;sandy;barren;endless;harsh;dry;lonely;scorching
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,forest,dense;green;ancient;mysterious;dark;lush;quiet;thick;wild;serene
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,island,small;tropical;remote;beautiful;isolated;lush;rocky;deserted;volcanic;paradise
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,lake,calm;clear;deep;blue;still;large;cold;serene;reflective;tranquil
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,mountain,tall;snowy;rugged;majestic;steep;rocky;high;ancient;imposing;breathtaking
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,ocean,vast;deep;blue;wild;endless;powerful;mysterious;stormy;calm;immense
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,plain,vast;flat;open;grassy;endless;barren;wide;empty;fertile;quiet
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,plateau,high;flat;vast;rocky;arid;elevated;wide;barren;rugged;isolated
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,river,long;winding;calm;rushing;wide;deep;clear;muddy;powerful;serene
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,valley,deep;green;narrow;fertile;quiet;beautiful;hidden;steep;lush;peaceful
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Places,village,small;quiet;rural;charming;old;remote;friendly;peaceful;traditional;quaint
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,cactus,spiny;green;tall;desert;hardy;prickly;tough;dry;unique;resilient
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,eggplant,purple;glossy;smooth;long;fresh;tender;bitter;oval;firm;ripe
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,flower,colorful;fragrant;delicate;beautiful;small;bright;fresh;blooming;vibrant;lovely
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,grass,green;lush;soft;tall;fresh;thick;short;wet;dry;wild
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,lettuce,crisp;green;fresh;leafy;tender;light;healthy;raw;crunchy;vibrant
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,mushroom,small;brown;white;edible;poisonous;soft;earthy;wild;round;delicate
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,onion,strong;sharp;white;yellow;pungent;raw;sweet;small;round;layered
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,pepper,spicy;red;green;hot;sweet;fresh;small;fiery;crisp;colorful
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,potato,brown;starchy;firm;large;small;fresh;raw;soft;versatile;earthy
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,rose,red;pink;fragrant;beautiful;delicate;thorny;elegant;blooming;romantic;classic
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;sweet;tart;firm;soft;vibrant
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Plants,tree,tall;old;green;sturdy;leafy;ancient;massive;bare;strong;shady
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,ally,loyal;trusted;reliable;supportive;close;faithful;helpful;strong;dependable;valuable
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,brother,loving;protective;older;younger;annoying;supportive;close;funny;loyal;caring
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,enemy,fierce;dangerous;bitter;ruthless;cunning;powerful;hated;relentless;formidable;deceptive
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,father,loving;strict;caring;supportive;wise;strong;protective;kind;hardworking;gentle
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,follower,loyal;dedicated;eager;supportive;faithful;enthusiastic;obedient;trusting;admiring;committed
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,friend,close;best;loyal;kind;funny;supportive;trusted;reliable;caring;lifelong
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,leader,strong;inspiring;confident;decisive;wise;charismatic;bold;visionary;respected;powerful
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,mother,loving;caring;nurturing;kind;strict;supportive;gentle;strong;wise;selfless
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,partner,loving;supportive;reliable;equal;trusted;loyal;caring;committed;understanding;compatible
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,rival,fierce;competitive;tough;challenging;strong;determined;bitter;aggressive;formidable;persistent
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,sister,loving;annoying;caring;supportive;close;funny;protective;kind;loyal;sweet
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Social Relationships,stranger,unknown;mysterious;distant;unfamiliar;suspicious;quiet;odd;random;curious;aloof
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,above,high;elevated;overhead;superior;top;lofty;aerial;upper;towering;dominant
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,back,rear;behind;hind;posterior;last;remote;hidden;reverse;secondary;trailing
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,below,lower;beneath;underneath;inferior;bottom;underground;submerged;lesser;under;deep
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,east,eastern;oriental;sunrise;distant;ancient;cultural;remote;far;exotic;Asian
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,front,forward;leading;first;anterior;primary;main;visible;prominent;upfront;foremost
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,inside,internal;inner;enclosed;hidden;private;concealed;deep;central;interior;secret
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,left,western;remaining;port;unused;liberal;odd;stray;sideways;awkward;surplus
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,north,northern;cold;polar;upper;arctic;distant;remote;chilly;rugged;wild
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,outside,external;outer;exterior;open;public;exposed;visible;peripheral;distant;surrounding
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,right,correct;eastern;proper;starboard;conservative;suitable;accurate;just;appropriate;fitting
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,south,southern;warm;tropical;lower;sunny;hot;exotic;coastal;rural;humid
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Spatial Concepts,west,western;sunset;far;distant;modern;frontier;coastal;progressive;wild;expansive
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,century,past;current;new;old;long;historic;modern;ancient;pivotal;defining
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;cold;hot;bright;gloomy;special
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,evening,quiet;cool;dark;late;calm;peaceful;romantic;relaxing;twilight;serene
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,hour,early;late;long;short;busy;quiet;critical;golden;rushed;fleeting
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,minute,quick;short;brief;last;fleeting;precious;crucial;exact;passing;hurried
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;dry;current;past;upcoming
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,morning,early;fresh;cool;bright;quiet;sunny;foggy;chilly;peaceful;crisp
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,night,dark;late;quiet;long;cold;starry;silent;eerie;peaceful;sleepless
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,season,rainy;dry;cold;hot;busy;festive;transitional;harsh;mild;favorite
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,second,quick;brief;fleeting;last;crucial;precise;short;passing;split;momentary
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,week,busy;long;short;hectic;quiet;productive;stressful;relaxing;eventful;routine
+grok-3,basic,1.0,AR # Arabic,C2,most frequent,Time Concepts,year,past;current;new;old;long;short;busy;memorable;challenging;successful
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,anger,intense;fiery;burning;fierce;uncontrollable;deep;raw;bitter;sudden;overwhelming
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,courage,bold;fearless;brave;daring;heroic;valiant;resolute;determined;steadfast;unflinching
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,fear,intense;paralyzing;deep;overwhelming;chilling;haunting;irrational;persistent;sudden;gripping
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,freedom,absolute;true;hard-won;cherished;liberating;boundless;pure;personal;political;enduring
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,happiness,pure;genuine;radiant;boundless;contagious;blissful;lasting;simple;profound;heartfelt
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,hate,deep;intense;burning;bitter;fierce;unrelenting;toxic;consuming;blind;destructive
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,honesty,brutal;raw;unwavering;genuine;sincere;absolute;unyielding;transparent;admirable;refreshing
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,justice,fair;impartial;righteous;true;blind;swift;stern;moral;deserved;restorative
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;practical;theoretical;useful;ancient;specialized;essential
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,love,unconditional;passionate;tender;deep;true;eternal;selfless;romantic;enduring;pure
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,peace,inner;lasting;serene;tranquil;harmonious;quiet;calming;elusive;fragile;global
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Abstract Concepts,wisdom,ancient;profound;timeless;deep;practical;insightful;earned;spiritual;guiding;invaluable
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;resonant;golden;heavy;old;melodic;tiny;silver;decorative
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,candle,flickering;warm;soft;scented;tall;white;burning;delicate;romantic;glowing
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;patterned;plush;worn;expensive;traditional;red;woolen
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;valuable;silver;gold;worn;small;ancient;collectible
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ornate;ancient;majestic;ceremonial;symbolic;glittering
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,flag,national;colorful;waving;proud;tattered;symbolic;historic;bold;official;vibrant
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,mask,mysterious;colorful;intricate;wooden;scary;decorative;ceremonial;hidden;painted;theatrical
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,necklace,delicate;golden;silver;beaded;elegant;expensive;long;sparkling;simple;vintage
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,painting,beautiful;abstract;realistic;old;vibrant;detailed;famous;colorful;expressive;timeless
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;simple;elegant;antique;wedding;shiny;engraved;precious
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,statue,tall;marble;ancient;bronze;majestic;detailed;imposing;historic;weathered;grand
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;ornate;ancient;glass;floral;elegant;decorative;fragile
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;white;dark;heavy;gray;drifting;soft;thick;towering;ominous
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,earthquake,powerful;destructive;sudden;violent;devastating;terrifying;massive;unexpected;seismic;catastrophic
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;gray;cold;heavy;eerie;obscuring;silent;creeping
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;sharp;powerful;jagged;electric;striking;dangerous;vivid;blinding
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,rain,gentle;heavy;steady;cold;refreshing;persistent;light;torrential;warm;drizzling
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;vibrant;bright;beautiful;rare;magical;fleeting;arched;vivid;stunning
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,snow,white;soft;fluffy;cold;heavy;fresh;powdery;wet;light;glistening
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,storm,fierce;violent;powerful;dark;raging;sudden;dangerous;thunderous;wild;destructive
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;deep;rolling;startling;powerful;distant;resonant;menacing;echoing
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;relentless;calm;rhythmic;unpredictable
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;fiery;massive;dangerous;erupting;ancient;towering;destructive;smoking
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;gusty;howling;breezy;fierce;constant;biting
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,apple,red;green;crisp;juicy;sweet;tart;fresh;shiny;ripe;small
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;creamy;healthy
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,beef,tender;juicy;grilled;raw;lean;marbled;fresh;savory;rare;cooked
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,bread,fresh;warm;crusty;soft;white;whole-grain;sliced;homemade;stale;toasted
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,broccoli,green;fresh;crisp;healthy;tender;steamed;raw;bitter;nutritious;vibrant
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,cheese,creamy;sharp;aged;soft;hard;melted;tangy;mild;stinky;grated
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,chicken,roasted;grilled;tender;juicy;spicy;fried;raw;lean;savory;seasoned
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;raw;soft;hard;organic
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,fish,fresh;grilled;raw;salty;flaky;oily;white;smoked;fried;tender
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,pasta,al dente;soft;fresh;homemade;creamy;spicy;cheesy;long;short;saucy
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,rice,white;brown;fluffy;sticky;steamed;seasoned;plain;fragrant;long-grain;short-grain
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Food Items,soup,hot;creamy;hearty;clear;savory;spicy;light;thick;homemade;comforting
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,artist,talented;creative;innovative;passionate;famous;struggling;visionary;skilled;unique;eccentric
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,athlete,strong;fast;agile;dedicated;competitive;skilled;determined;fit;disciplined;talented
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,chef,skilled;creative;passionate;experienced;innovative;famous;busy;meticulous;talented;professional
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,doctor,compassionate;skilled;experienced;dedicated;knowledgeable;kind;busy;trusted;professional;caring
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,engineer,innovative;skilled;creative;logical;technical;experienced;brilliant;practical;dedicated;resourceful
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,farmer,hardworking;dedicated;skilled;tough;patient;knowledgeable;early-rising;resilient;practical;rural
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,lawyer,sharp;persuasive;knowledgeable;experienced;tough;ethical;ambitious;articulate;professional;shrewd
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,musician,talented;passionate;creative;skilled;famous;dedicated;expressive;versatile;gifted;inspiring
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,scientist,curious;brilliant;dedicated;innovative;analytical;knowledgeable;meticulous;pioneering;logical;visionary
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,soldier,brave;disciplined;loyal;tough;heroic;dedicated;strong;fearless;honorable;resilient
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,teacher,patient;inspiring;knowledgeable;dedicated;kind;strict;supportive;wise;encouraging;influential
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Human Roles,writer,creative;talented;imaginative;prolific;insightful;passionate;eloquent;dedicated;famous;thoughtful
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,book,old;new;thick;thin;interesting;boring;hardcover;paperback;classic;engaging
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,bridge,long;sturdy;old;modern;narrow;wide;suspension;wooden;iconic;arched
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;deep;resonant;tribal;modern;traditional;heavy;energetic
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,earth,vast;blue;green;ancient;fertile;fragile;beautiful;diverse;living;round
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,flute,delicate;melodic;silver;wooden;soft;high-pitched;elegant;ancient;small;enchanting
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,key,old;rusty;golden;small;important;spare;shiny;heavy;lost;brass
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,knife,sharp;dull;long;short;rusty;stainless;kitchen;pocket;serrated;dangerous
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,lock,sturdy;old;rusty;secure;broken;heavy;small;brass;digital;antique
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,moon,full;crescent;bright;pale;mysterious;glowing;distant;silver;beautiful;haunting
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,pen,black;blue;elegant;cheap;expensive;fountain;ballpoint;old;smooth;leaky
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,sun,bright;hot;warm;golden;radiant;blinding;setting;rising;powerful;life-giving
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;shiny;rusty;ceremonial;deadly;ornate;legendary;steel
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,cat,cute;fluffy;sneaky;lazy;playful;independent;soft;curious;elegant;mischievous
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;energetic;playful;protective;big;small;furry;obedient;loving
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,dolphin,intelligent;friendly;playful;sleek;graceful;social;curious;fast;gentle;charming
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,elephant,massive;gentle;wise;strong;gray;majestic;powerful;slow;intelligent;enormous
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,hamster,tiny;cute;furry;active;playful;small;shy;curious;fluffy;nocturnal
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,monkey,playful;curious;agile;mischievous;clever;social;loud;energetic;funny;wild
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,mouse,small;tiny;shy;quick;sneaky;cute;gray;quiet;timid;nimble
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,peacock,colorful;proud;beautiful;vibrant;majestic;elegant;striking;bold;ornate;stunning
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,rabbit,cute;fluffy;fast;timid;small;white;playful;soft;shy;hopping
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,shark,fierce;dangerous;powerful;sleek;fast;predatory;terrifying;gray;massive;deadly
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,snake,slimy;dangerous;venomous;long;sneaky;scaly;silent;deadly;coiled;colorful
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Neutral Animals,whale,enormous;gentle;majestic;powerful;blue;massive;mysterious;graceful;deep;migratory
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,city,busy;crowded;modern;noisy;vibrant;historic;large;bustling;industrial;cosmopolitan
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,desert,vast;arid;hot;dry;sandy;barren;harsh;endless;remote;unforgiving
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,forest,dense;green;dark;ancient;lush;mysterious;quiet;thick;wild;enchanted
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,island,remote;tropical;small;isolated;beautiful;rocky;deserted;lush;exotic;volcanic
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,lake,calm;clear;deep;blue;serene;cold;still;vast;reflective;tranquil
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,mountain,tall;majestic;rugged;snowy;steep;ancient;imposing;rocky;towering;grand
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,ocean,vast;deep;blue;powerful;endless;wild;calm;mysterious;salty;turbulent
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,plain,vast;flat;open;grassy;barren;wide;endless;fertile;quiet;expansive
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,plateau,high;flat;wide;elevated;rocky;barren;vast;remote;ancient;rugged
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,river,long;wide;calm;rushing;deep;winding;clear;muddy;powerful;serene
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,valley,deep;green;narrow;wide;fertile;lush;scenic;quiet;hidden;peaceful
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Places,village,small;quiet;remote;traditional;charming;peaceful;rural;friendly;quaint;simple
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,cactus,prickly;green;tall;desert;tough;spiny;hardy;sharp;resilient;unique
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,eggplant,purple;shiny;fresh;firm;bitter;smooth;oval;ripe;healthy;versatile
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;vibrant;small;fresh;blooming;soft;lovely
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,grass,green;soft;lush;tall;short;wet;dry;thick;fresh;dense
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,lettuce,green;crisp;fresh;leafy;light;healthy;tender;raw;cool;vibrant
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,mushroom,small;brown;white;earthy;soft;edible;wild;round;delicate;toxic
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,onion,sharp;pungent;white;red;raw;sweet;strong;layered;fresh;spicy
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,pepper,spicy;hot;red;green;sweet;fresh;sharp;mild;vibrant;crunchy
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,potato,brown;starchy;firm;fresh;raw;baked;mashed;small;large;versatile
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,rose,red;pink;fragrant;beautiful;delicate;thorny;elegant;blooming;romantic;classic
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;sweet;tangy;firm;soft;vibrant
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Plants,tree,tall;old;green;sturdy;ancient;leafy;bare;strong;majestic;fruitful
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,ally,loyal;trusted;supportive;reliable;close;valuable;strong;dependable;helpful;faithful
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,brother,loving;protective;close;annoying;supportive;older;younger;funny;loyal;caring
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,enemy,fierce;dangerous;hostile;bitter;cunning;relentless;powerful;hated;deceptive;rivalrous
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,father,loving;strict;supportive;wise;caring;strong;protective;kind;hardworking;gentle
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,follower,loyal;devoted;eager;supportive;faithful;dedicated;enthusiastic;obedient;trusting;admiring
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,friend,close;loyal;kind;funny;supportive;trustworthy;dear;reliable;caring;true
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,leader,strong;charismatic;inspiring;decisive;confident;wise;bold;visionary;powerful;respected
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;strict;gentle;supportive;kind;selfless;warm;protective
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,partner,loyal;supportive;loving;reliable;equal;close;trusted;compatible;caring;understanding
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,rival,fierce;competitive;tough;challenging;strong;determined;persistent;hostile;ambitious;cunning
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,sister,loving;annoying;close;supportive;caring;funny;protective;younger;older;kind
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Social Relationships,stranger,mysterious;unknown;unfamiliar;distant;suspicious;curious;quiet;aloof;unexpected;foreign
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,above,high;elevated;overhead;upper;superior;towering;lofty;skyward;uplifted;dominant
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,back,rear;hind;behind;posterior;last;distant;trailing;reverse;hidden;secondary
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,below,lower;beneath;under;underneath;inferior;submerged;bottom;lesser;underground;hidden
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,east,eastern;sunrise;oriental;distant;far;cultural;ancient;exotic;warm;historic
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,front,forward;leading;foremost;primary;ahead;first;facial;visible;prominent;central
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,inside,inner;internal;enclosed;hidden;private;central;deep;contained;secret;intimate
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,left,western;remaining;abandoned;liberal;sideways;opposite;awkward;spare;neglected;past
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,north,cold;polar;upper;distant;chilly;remote;rugged;northern;icy;far
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,outside,external;outer;exterior;distant;public;exposed;open;foreign;beyond;surrounding
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,right,correct;proper;eastern;conservative;just;true;accurate;moral;fitting;immediate
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,south,warm;tropical;lower;southern;sunny;humid;distant;exotic;coastal;vibrant
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Spatial Concepts,west,western;sunset;modern;distant;far;cultural;pioneering;open;progressive;wild
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,century,past;new;old;modern;ancient;turning;long;specific;significant;defining
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,day,sunny;rainy;long;short;busy;lazy;bright;gloomy;special;ordinary
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,evening,calm;cool;quiet;dark;relaxing;late;pleasant;peaceful;romantic;serene
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,hour,long;short;busy;quiet;late;early;critical;golden;rushed;fleeting
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,minute,quick;short;fleeting;crucial;last;brief;precious;exact;passing;hurried
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,month,long;short;busy;quiet;cold;warm;rainy;festive;slow;memorable
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,morning,early;bright;cool;quiet;fresh;sunny;busy;peaceful;crisp;calm
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,night,dark;quiet;late;long;cold;starry;peaceful;silent;restless;mysterious
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,season,rainy;dry;cold;warm;festive;long;short;transitional;harsh;mild
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,second,quick;brief;fleeting;critical;last;short;precise;passing;decisive;momentary
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,week,long;short;busy;quiet;hectic;slow;eventful;stressful;relaxing;productive
+grok-3,basic,1.0,AR # Arabic,Perfect,most frequent,Time Concepts,year,long;short;memorable;tough;successful;eventful;challenging;happy;difficult;transformative

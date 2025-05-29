@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,anger,big;bad;hot;much;other;same;real;that;this;new
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,courage,much;big;that;real;this;other;more;new;same;good
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,fear,big;much;real;that;this;other;same;more;new;little
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,freedom,much;that;real;this;other;more;new;same;good;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,happiness,real;much;that;this;other;more;new;same;good;big
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,hate,big;much;real;that;this;other;more;new;same;little
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,honesty,real;that;this;other;more;new;same;good;big;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,justice,real;that;this;other;more;new;same;good;big;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,knowledge,much;real;that;this;other;more;new;same;good;big
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,love,much;real;that;this;other;more;new;same;good;big
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,peace,much;real;that;this;other;more;new;same;good;big
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Abstract Concepts,wisdom,real;that;this;other;more;new;same;good;big;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,bell,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,candle,small;new;old;that;this;other;white;long;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,carpet,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,coin,small;new;old;that;this;other;same;real;good;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,crown,big;new;old;gold;that;this;other;same;real;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,flag,big;small;new;old;that;this;other;same;real;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,mask,new;old;that;this;other;same;real;good;small;big
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,necklace,new;old;gold;that;this;other;same;real;good;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,painting,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,ring,small;new;old;gold;that;this;other;same;real;good
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,statue,big;small;new;old;that;this;other;same;real;good
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Cultural Artifacts,vase,big;small;new;old;that;this;other;same;real;good
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,cloud,big;small;new;white;that;this;other;grey;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,earthquake,big;that;this;other;same;real;new;strong;little;bad
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,fog,big;small;that;this;other;same;real;new;grey;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,lightning,big;that;this;other;same;real;new;strong;white;little
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,rain,big;small;that;this;other;same;real;new;strong;much
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,rainbow,big;that;this;other;same;real;new;good;beautiful;colorful
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,snow,big;small;white;that;this;other;same;real;new;much
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,storm,big;bad;that;this;other;same;real;new;strong;much
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,thunder,big;that;this;other;same;real;new;strong;loud;much
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,tide,big;small;that;this;other;same;real;new;high;low
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,volcano,big;that;this;other;same;real;new;strong;hot;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Environmental Phenomena,wind,big;small;cold;that;this;other;same;real;new;strong
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,apple,red;green;big;small;new;good;that;this;other;same
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,banana,yellow;big;small;new;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,beef,big;new;old;good;that;this;other;same;real;much
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,bread,new;old;good;that;this;other;same;real;white;brown
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,broccoli,green;new;old;good;that;this;other;same;real;much
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,cheese,new;old;good;that;this;other;same;real;white;yellow
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,chicken,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,egg,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,fish,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,pasta,new;old;good;that;this;other;same;real;white;yellow
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,rice,new;old;good;that;this;other;same;real;white;much
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Food Items,soup,hot;new;old;good;that;this;other;same;real;much
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,artist,good;new;old;that;this;other;same;real;big;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,athlete,good;new;old;that;this;other;same;real;strong;big
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,chef,good;new;old;that;this;other;same;real;big;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,doctor,good;new;old;that;this;other;same;real;big;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,engineer,good;new;old;that;this;other;same;real;big;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,farmer,good;new;old;that;this;other;same;real;big;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,lawyer,good;new;old;that;this;other;same;real;big;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,musician,good;new;old;that;this;other;same;real;big;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,scientist,good;new;old;that;this;other;same;real;big;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,soldier,good;new;old;that;this;other;same;real;big;strong
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,teacher,good;new;old;that;this;other;same;real;big;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Human Roles,writer,good;new;old;that;this;other;same;real;big;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,book,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,bridge,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,drums,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,earth,big;round;that;this;other;same;real;new;old;good
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,flute,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,key,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,knife,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,lock,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,moon,big;small;new;old;that;this;other;same;real;good
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,pen,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,sun,big;hot;new;old;that;this;other;same;real;good
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Inanimate Objects,sword,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,cat,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,dog,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,dolphin,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,elephant,big;new;old;good;that;this;other;same;real;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,hamster,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,monkey,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,mouse,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,peacock,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,rabbit,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,shark,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,snake,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Neutral Animals,whale,big;new;old;good;that;this;other;same;real;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,city,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,desert,big;small;new;old;hot;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,forest,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,island,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,lake,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,mountain,big;small;new;old;that;this;other;same;real;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,ocean,big;deep;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,plain,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,plateau,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,river,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,valley,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Places,village,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,cactus,big;small;new;old;green;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,eggplant,big;small;new;old;purple;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,flower,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,grass,big;small;new;old;green;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,lettuce,big;small;new;old;green;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,mushroom,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,onion,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,pepper,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,potato,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,rose,big;small;new;old;good;red;that;this;other;same
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,tomato,big;small;new;old;red;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Plants,tree,big;small;new;old;green;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,ally,good;new;old;that;this;other;same;real;big;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,brother,good;new;old;big;that;this;other;same;real;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,enemy,bad;big;that;this;other;same;real;new;old;strong
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,father,good;new;old;big;that;this;other;same;real;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,follower,good;new;old;that;this;other;same;real;big;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,friend,good;new;old;big;that;this;other;same;real;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,leader,good;new;old;big;that;this;other;same;real;strong
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,mother,good;new;old;big;that;this;other;same;real;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,partner,good;new;old;big;that;this;other;same;real;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,rival,big;bad;that;this;other;same;real;new;old;strong
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,sister,good;new;old;big;that;this;other;same;real;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Social Relationships,stranger,new;old;big;small;that;this;other;same;real;bad
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,above,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,back,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,below,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,east,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,front,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,inside,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,left,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,north,big;small;new;old;cold;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,outside,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,right,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,south,big;small;new;old;hot;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Spatial Concepts,west,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,century,big;new;old;that;this;other;same;real;long;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,day,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,evening,good;new;old;big;that;this;other;same;real;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,hour,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,minute,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,month,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,morning,good;new;old;big;that;this;other;same;real;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,night,big;dark;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,season,big;new;old;good;that;this;other;same;real;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,second,big;small;new;old;good;that;this;other;same;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,week,big;new;old;good;that;this;other;same;real;long
+gemini-2.0-flash,basic,1.0,HI # Hindi,B1,most frequent,Time Concepts,year,big;new;old;good;that;this;other;same;real;long
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,anger,big;bad;hot;real;strong;sudden;true;great;much;hard
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,courage,big;real;true;much;great;more;strong;hard;little;sudden
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,fear,big;real;true;great;much;little;more;strong;bad;sudden
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,freedom,big;real;true;great;more;much;little;political;personal;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,happiness,real;true;great;much;more;little;big;simple;possible;sudden
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,hate,big;real;true;much;great;strong;deep;hard;more;sudden
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,honesty,real;true;great;much;more;little;big;simple;full;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,justice,real;true;great;much;more;little;social;big;important;hard
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,knowledge,big;real;true;much;great;little;more;important;scientific;hard
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,love,big;real;true;great;much;little;more;strong;hard;sudden
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,peace,big;real;true;great;much;little;more;important;lasting;hard
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Abstract Concepts,wisdom,big;real;true;great;much;little;more;simple;old;hard
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,bell,big;small;old;new;loud;clear;golden;church;school;broken
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,candle,big;small;old;new;white;red;long;short;burning;wax
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,carpet,big;small;old;new;red;blue;long;soft;thick;beautiful
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,coin,big;small;old;new;gold;silver;rare;valuable;round;shiny
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,crown,big;small;old;new;gold;silver;royal;beautiful;important;heavy
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,flag,big;small;old;new;red;white;blue;national;important;waving
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,mask,big;small;old;new;white;black;red;scary;funny;paper
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,necklace,big;small;old;new;gold;silver;long;beautiful;expensive;broken
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,painting,big;small;old;new;red;blue;beautiful;famous;important;abstract
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,ring,big;small;old;new;gold;silver;round;beautiful;simple;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,statue,big;small;old;new;stone;bronze;marble;famous;beautiful;tall
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Cultural Artifacts,vase,big;small;old;new;glass;ceramic;beautiful;expensive;broken;full
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,cloud,big;small;white;dark;grey;heavy;rain;storm;low;high
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;local;national;serious;major;sudden;recent
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,fog,big;small;thick;thin;heavy;white;grey;dense;morning;sudden
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,lightning,bright;sudden;strong;dangerous;bad;close;far;loud;real;scary
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,rain,big;small;heavy;light;hard;soft;long;short;cold;warm
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,rainbow,big;small;bright;colourful;beautiful;double;full;high;nice;simple
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,snow,big;small;white;heavy;light;soft;cold;deep;fresh;falling
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,storm,big;small;strong;bad;hard;heavy;rain;wind;thunder;lightning
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,thunder,big;loud;strong;close;far;deep;sudden;scary;bad;rolling
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,tide,big;small;high;low;strong;weak;early;late;full;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,volcano,big;small;active;dormant;dangerous;high;hot;old;new;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Environmental Phenomena,wind,big;small;strong;weak;cold;warm;hard;light;north;south
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,apple,big;small;red;green;yellow;sweet;sour;fresh;ripe;bad
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,banana,big;small;yellow;green;sweet;ripe;fresh;long;short;good
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,beef,big;small;raw;cooked;red;fresh;good;bad;cheap;expensive
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,bread,big;small;white;brown;fresh;old;hard;soft;good;bad
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,broccoli,big;small;green;fresh;cooked;raw;good;bad;healthy;simple
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,cheese,big;small;white;yellow;hard;soft;fresh;old;good;bad
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,chicken,big;small;raw;cooked;white;brown;fresh;good;bad;fried
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,egg,big;small;white;brown;fresh;old;raw;cooked;hard;soft
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,fish,big;small;fresh;salt;cooked;raw;good;bad;cheap;expensive
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,pasta,big;small;long;short;cooked;dry;fresh;good;bad;simple
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,rice,big;small;white;brown;cooked;dry;long;short;good;bad
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Food Items,soup,big;small;hot;cold;good;bad;thick;thin;chicken;vegetable
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,artist,big;small;famous;good;bad;young;old;modern;great;local
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,athlete,big;small;strong;fast;good;bad;young;old;famous;professional
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,chef,big;small;famous;good;bad;young;old;head;new;local
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,doctor,big;small;good;bad;young;old;famous;local;important;helpful
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,engineer,big;small;good;bad;young;old;civil;mechanical;important;local
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,farmer,big;small;good;bad;young;old;local;rich;poor;hard
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,lawyer,big;small;good;bad;young;old;famous;local;important;rich
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,musician,big;small;good;bad;young;old;famous;local;professional;talented
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,scientist,big;small;good;bad;young;old;famous;local;important;great
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,soldier,big;small;young;old;good;bad;strong;brave;important;many
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,teacher,big;small;good;bad;young;old;new;important;helpful
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Human Roles,writer,big;small;good;bad;young;old;famous;new;great;local
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,book,big;small;old;new;good;bad;long;short;interesting;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,bridge,big;small;old;new;long;short;high;low;important;stone
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,drums,big;small;loud;soft;old;new;good;bad;many;different
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,earth,big;small;round;flat;good;bad;old;new;important;beautiful
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,flute,big;small;long;short;old;new;good;bad;wooden;silver
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,key,big;small;old;new;gold;silver;important;different;simple;hard
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,knife,big;small;sharp;dull;old;new;good;bad;kitchen;pocket
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,lock,big;small;old;new;strong;weak;good;bad;simple;hard
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,moon,big;small;full;new;bright;dark;round;yellow;white;far
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,pen,big;small;old;new;black;blue;red;good;bad;simple
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,sun,big;small;bright;hot;warm;good;bad;yellow;far;close
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Inanimate Objects,sword,big;small;old;new;sharp;dull;good;bad;long;short
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,cat,big;small;old;young;black;white;grey;good;bad;cute
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,dog,big;small;old;young;black;white;brown;good;bad;cute
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,dolphin,big;small;grey;good;bad;young;old;fast;smart;playful
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,elephant,big;grey;old;young;good;bad;strong;heavy;african;indian
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,hamster,big;small;old;young;brown;white;good;bad;cute;furry
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,monkey,big;small;old;young;brown;black;good;bad;funny;smart
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,mouse,big;small;old;young;grey;white;good;bad;cute;fast
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,peacock,big;small;old;young;blue;green;beautiful;colourful;proud;rare
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,rabbit,big;small;old;young;white;brown;good;bad;cute;fast
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,shark,big;small;old;young;grey;white;good;bad;dangerous;fast
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,snake,big;small;old;young;green;brown;good;bad;dangerous;long
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Neutral Animals,whale,big;grey;old;young;good;bad;blue;humpback;killer;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,city,big;small;old;new;modern;busy;quiet;good;bad;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,desert,big;small;hot;dry;sandy;empty;old;new;beautiful;dangerous
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,forest,big;small;old;new;green;dark;dense;good;bad;beautiful
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,island,big;small;old;new;green;tropical;beautiful;important;remote;close
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,lake,big;small;old;new;blue;deep;shallow;good;bad;beautiful
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,mountain,big;small;old;new;high;low;green;rocky;snowy;beautiful
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,ocean,big;small;old;new;blue;deep;cold;warm;good;bad
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,plain,big;small;flat;open;green;dry;good;bad;empty;wide
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,plateau,big;small;high;flat;dry;good;bad;rocky;important;interesting
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,river,big;small;old;new;long;short;deep;shallow;good;bad
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,valley,big;small;old;new;green;deep;wide;narrow;good;bad
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Places,village,big;small;old;new;quiet;peaceful;good;bad;beautiful;local
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,cactus,big;small;green;old;new;prickly;desert;tall;short;fat
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,eggplant,big;small;purple;long;round;fresh;cooked;good;bad;healthy
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,flower,big;small;red;white;yellow;beautiful;fragrant;fresh;dry;wild
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,grass,big;small;green;long;short;dry;wet;fresh;old;new
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,lettuce,big;small;green;fresh;crisp;good;bad;healthy;simple;raw
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,mushroom,big;small;white;brown;fresh;cooked;wild;good;bad;poisonous
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,onion,big;small;white;yellow;red;fresh;cooked;raw;strong;good
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,pepper,big;small;red;green;black;hot;sweet;fresh;dry;good
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,potato,big;small;white;brown;red;fresh;cooked;fried;mashed;baked
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,rose,big;small;red;white;pink;beautiful;fragrant;fresh;dry;long
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,tomato,big;small;red;green;fresh;cooked;raw;good;bad;juicy
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Plants,tree,big;small;old;new;green;tall;short;strong;weak;wooden
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,ally,big;small;good;bad;strong;weak;old;new;important;helpful
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,brother,big;small;old;young;good;bad;strong;weak;older;younger
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,enemy,big;small;strong;weak;good;bad;old;new;dangerous;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,father,big;small;old;young;good;bad;strong;weak;tall;short
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,follower,big;small;good;bad;strong;weak;old;new;many;few
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,friend,big;small;good;bad;old;new;strong;weak;true;close
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,leader,big;small;good;bad;strong;weak;old;new;important;powerful
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,mother,big;small;old;young;good;bad;strong;weak;tall;short
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,partner,big;small;good;bad;strong;weak;old;new;important;business
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,rival,big;small;good;bad;strong;weak;old;new;important;dangerous
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,sister,big;small;old;young;good;bad;strong;weak;older;younger
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Social Relationships,stranger,big;small;good;bad;old;young;dangerous;new;friendly;unknown
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,above,big;small;high;low;important;normal;average;true;false;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,back,big;small;good;bad;strong;weak;old;new;hard;soft
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,below,big;small;low;high;important;normal;average;true;false;real
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,east,big;small;far;close;important;true;false;good;bad;north
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,front,big;small;good;bad;strong;weak;old;new;hard;soft
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,inside,big;small;good;bad;dark;light;warm;cold;true;false
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,left,big;small;good;bad;right;wrong;important;true;false;hard
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,north,big;small;far;close;important;true;false;good;bad;east
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,outside,big;small;good;bad;dark;light;warm;cold;true;false
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,right,big;small;good;bad;left;wrong;important;true;false;hard
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,south,big;small;far;close;important;true;false;good;bad;west
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Spatial Concepts,west,big;small;far;close;important;true;false;good;bad;south
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,century,big;small;old;new;long;short;important;recent;past;next
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,day,big;small;long;short;good;bad;sunny;rainy;important;busy
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,evening,big;small;long;short;good;bad;warm;cool;quiet;busy
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,hour,big;small;long;short;good;bad;busy;quiet;important;early
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,minute,big;small;long;short;good;bad;busy;quiet;important;early
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,month,big;small;long;short;good;bad;busy;quiet;important;early
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,morning,big;small;long;short;good;bad;warm;cool;quiet;busy
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,night,big;small;long;short;good;bad;dark;quiet;busy;cold
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,season,big;small;long;short;good;bad;warm;cold;wet;dry
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,second,big;small;long;short;good;bad;busy;quiet;important;early
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,week,big;small;long;short;good;bad;busy;quiet;important;early
+gemini-2.0-flash,basic,1.0,HI # Hindi,B2,most frequent,Time Concepts,year,big;small;long;short;good;bad;busy;quiet;important;early
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,anger,big;hot;cold;real;fake;uncontrollable;quiet;slow;righteous;sudden
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,courage,great;strong;small;true;fake;needed;quiet;moral;inspiring;unusual
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,fear,big;small;real;irrational;common;strong;primal;new;old;underlying
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,freedom,great;true;total;basic;new;old;political;economic;personal;hard-won
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,happiness,true;great;simple;pure;everyday;fleeting;infectious;inner;lasting;quiet
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,hate,strong;deep;pure;blind;real;irrational;learned;consuming;quiet;simmering
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,honesty,true;complete;brutal;refreshing;required;admirable;simple;rare;unquestionable;sincere
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,justice,blind;fair;true;social;economic;rough;swift;slow;restorative;equal
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,knowledge,great;deep;wide;practical;theoretical;important;useful;new;old;secret
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,love,true;great;unconditional;first;real;deep;strong;new;lost;quiet
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,peace,true;lasting;fragile;uneasy;inner;world;quiet;hard-won;new;relative
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Abstract Concepts,wisdom,great;true;old;practical;inner;acquired;inherited;quiet;ancient;simple
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,bell,big;small;loud;clear;church;school;dinner;warning;brass;silver
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,candle,tall;short;white;wax;burning;scented;beeswax;small;votive;decorative
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,carpet,red;wool;Persian;Oriental;new;old;thick;thin;patterned;expensive
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,coin,gold;silver;old;rare;valuable;foreign;lucky;new;shiny;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,crown,gold;silver;jeweled;royal;heavy;small;big;historic;new;old
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,flag,national;red;white;blue;waving;small;big;historic;new;old
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,mask,scary;funny;surgical;protective;small;big;new;old;decorative;colorful
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,necklace,gold;silver;diamond;pearl;long;short;beaded;new;old;simple
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,painting,oil;watercolor;famous;beautiful;new;old;abstract;landscape;portrait;impressionist
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;new;old;simple;valuable;precious
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,statue,bronze;marble;tall;big;small;old;new;famous;public;religious
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Cultural Artifacts,vase,glass;ceramic;tall;short;big;small;new;old;decorative;simple
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,cloud,white;gray;dark;rain;thunder;storm;big;small;fluffy;passing
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;devastating;recent;major;minor;unexpected;powerful;shallow
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,fog,thick;dense;heavy;pea-soup;morning;ground;sea;rolling;thin;patchy
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;sheet;cloud-to-ground;cloud-to-cloud;frequent;rare;intense;summer
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;warm;cold;acid;torrential;constant;intermittent
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,rainbow,bright;colorful;double;full;partial;clear;faint;beautiful;fleeting;perfect
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,snow,heavy;light;fresh;falling;wet;dry;deep;drifting;powdery;crisp
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,storm,big;strong;severe;winter;summer;thunder;rain;wind;passing;approaching
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,thunder,loud;deep;rolling;distant;close;sudden;echoing;continuous;crashing;rumbling
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,tide,high;low;spring;neap;incoming;outgoing;strong;weak;daily;normal
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;large;small;erupting;dangerous;nearby;distant;stratovolcano
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Environmental Phenomena,wind,strong;light;cold;warm;dry;gusty;steady;gentle;offshore;onshore
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,apple,red;green;fresh;juicy;sweet;sour;crisp;ripe;delicious;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;fresh;green;small;Cavendish;overripe;organic
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,beef,raw;cooked;ground;lean;prime;tender;tough;grilled;roasted;fresh
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,bread,white;wheat;whole;fresh;stale;sourdough;crusty;soft;toasted;sliced
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,broccoli,fresh;green;steamed;raw;boiled;frozen;organic;cooked;chopped;tender
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,cheese,cheddar;swiss;hard;soft;fresh;aged;smelly;creamy;sharp;mild
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,chicken,fried;roasted;grilled;raw;cooked;boneless;skinless;organic;fresh;tender
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,egg,white;brown;raw;hard-boiled;fried;scrambled;poached;organic;fresh;cracked
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,fish,fresh;salt;sea;fried;grilled;raw;cooked;white;oily;bony
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,pasta,spaghetti;penne;cooked;dry;fresh;Italian;wheat;whole-wheat;long;short
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,rice,white;brown;basmati;jasmine;cooked;raw;long-grain;short-grain;sticky;fluffy
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Food Items,soup,hot;cold;chicken;tomato;vegetable;creamy;thick;thin;spicy;homemade
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,artist,famous;talented;young;old;struggling;successful;unknown;local;modern;classical
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,athlete,professional;amateur;young;old;talented;fast;strong;dedicated;injured;famous
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,chef,famous;talented;head;sous;pastry;experienced;young;old;innovative;creative
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,doctor,good;young;old;experienced;family;specialist;primary;caring;dedicated;qualified
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,engineer,civil;electrical;mechanical;software;young;old;experienced;qualified;talented;innovative
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,farmer,local;organic;small;big;family;young;old;experienced;hardworking;independent
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,lawyer,good;bad;young;old;experienced;corporate;criminal;family;successful;expensive
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,musician,talented;young;old;famous;local;experienced;professional;amateur;classical;jazz
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,scientist,young;old;famous;experienced;leading;brilliant;dedicated;theoretical;practical;research
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,soldier,brave;young;old;experienced;dedicated;injured;fallen;active;retired;new
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,teacher,good;young;old;experienced;dedicated;caring;strict;new;popular;helpful
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Human Roles,writer,good;young;old;famous;experienced;published;unknown;aspiring;creative;talented
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,book,new;old;good;interesting;long;short;hard;soft;paper;digital
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,bridge,long;short;old;new;wooden;stone;steel;suspension;famous;narrow
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,drums,loud;big;small;new;old;acoustic;electronic;jazz;rock;snare
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,earth,big;round;flat;small;new;old;dry;wet;fertile;barren
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,flute,silver;wooden;old;new;long;short;sweet;soft;high;low
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,key,metal;small;big;new;old;house;car;door;spare;important
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,knife,sharp;dull;kitchen;pocket;small;big;new;old;hunting;butter
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,lock,metal;strong;weak;new;old;door;bike;combination;key;secure
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,moon,full;new;bright;dark;big;small;crescent;gibbous;waxing;waning
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,pen,blue;black;red;new;old;ballpoint;felt-tip;fountain;expensive;cheap
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,sun,bright;hot;warm;cold;big;small;rising;setting;distant;powerful
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Inanimate Objects,sword,sharp;long;short;old;new;steel;samurai;medieval;ceremonial;antique
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,cat,small;big;black;white;gray;orange;young;old;fluffy;stray
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,dog,small;big;black;white;brown;young;old;loyal;friendly;playful
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,dolphin,intelligent;playful;friendly;gray;small;big;wild;trained;marine;aquatic
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,elephant,big;gray;old;young;African;Indian;wild;captive;strong;gentle
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,hamster,small;brown;cute;furry;young;old;pet;golden;Syrian;dwarf
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,monkey,small;big;brown;playful;clever;wild;zoo;young;old;mischievous
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,mouse,small;gray;brown;wild;house;pet;young;old;cute;timid
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;large;male;Indian;blue;green;displaying;proud;ornamental
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,rabbit,small;white;brown;wild;pet;young;old;fluffy;cute;cottontail
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,shark,big;dangerous;great;white;small;gray;predatory;wild;marine;tiger
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,snake,long;short;thin;thick;venomous;non-venomous;wild;pet;green;brown
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Neutral Animals,whale,big;blue;humpback;gray;wild;marine;baleen;toothed;endangered;migrating
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,city,big;small;old;new;modern;historic;bustling;quiet;industrial;coastal
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,desert,hot;dry;sandy;vast;barren;arid;cold;rocky;desolate;empty
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,forest,green;dense;old;big;small;dark;pine;deciduous;tropical;temperate
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,island,small;big;tropical;volcanic;inhabited;uninhabited;remote;beautiful;green;sandy
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,lake,big;small;deep;shallow;clear;blue;frozen;freshwater;saltwater;peaceful
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,mountain,high;tall;big;small;snow;rocky;green;steep;dangerous;majestic
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,ocean,big;deep;blue;vast;cold;warm;stormy;peaceful;salty;endless
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,plain,flat;wide;open;grassy;dry;fertile;empty;vast;rolling;treeless
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,plateau,high;flat;dry;rocky;vast;isolated;elevated;arid;barren;wind-swept
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,river,long;wide;deep;shallow;clear;dirty;fast;slow;winding;mighty
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,valley,green;fertile;wide;narrow;deep;shallow;beautiful;peaceful;scenic;agricultural
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Places,village,small;quiet;rural;old;traditional;peaceful;friendly;charming;remote;picturesque
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,cactus,prickly;green;tall;short;desert;flowering;spiny;thorny;small;large
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,eggplant,purple;long;round;fresh;cooked;grilled;fried;small;big;organic
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,flower,beautiful;colorful;fragrant;small;big;red;white;yellow;fresh;wilted
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,grass,green;short;long;dry;wet;fresh;artificial;thick;thin;wild
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,lettuce,green;fresh;crisp;leafy;small;big;romaine;iceberg;organic;loose-leaf
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,mushroom,edible;poisonous;wild;cultivated;small;big;brown;white;fresh;dried
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,onion,white;yellow;red;small;big;raw;cooked;sweet;pungent;chopped
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,pepper,black;white;red;green;hot;sweet;small;big;spicy;bell
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,potato,white;red;sweet;small;big;raw;cooked;mashed;fried;baked
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,rose,red;pink;white;yellow;beautiful;fragrant;thorny;long-stemmed;short-stemmed;fresh
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,tomato,red;ripe;green;small;big;raw;cooked;juicy;fresh;canned
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Plants,tree,tall;short;green;old;big;small;leafy;bare;strong;weak
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,ally,strong;important;reliable;trusted;close;new;old;political;military;strategic
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,brother,older;younger;big;small;half;step;close;distant;loving;annoying
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,enemy,strong;dangerous;bitter;old;new;political;personal;hated;feared;formidable
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,father,old;young;loving;strict;biological;step;adoptive;absent;present;supportive
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,follower,loyal;faithful;new;old;active;passive;strong;weak;many;few
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,friend,good;best;close;old;new;true;loyal;supportive;helpful;funny
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,leader,strong;good;bad;new;old;political;military;charismatic;decisive;popular
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,mother,loving;caring;old;young;biological;step;adoptive;absent;present;supportive
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,partner,business;life;legal;close;new;old;trusted;reliable;romantic;working
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,rival,fierce;strong;bitter;old;new;sporting;political;business;academic;personal
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,sister,older;younger;big;small;half;step;close;distant;loving;annoying
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Social Relationships,stranger,unknown;strange;new;friendly;unfriendly;suspicious;helpful;intimidating;harmless;passing
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,above,high;far;clear;blue;white;bright;important;mentioned;named;only
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,back,sore;strong;weak;lower;upper;straight;curved;injured;good;bad
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,below,low;far;deep;ground;sea;mentioned;named;average;freezing;zero
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,east,far;wild;middle;near;eastern;west;south;north;front
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,front,main;new;old;back;near;far;inside;outside;big;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,inside,dark;warm;cold;safe;dangerous;big;small;clean;dirty;quiet
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,left,far;near;hand;over;side;right;behind;wrong;only;other
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,north,far;cold;wild;near;northern;south;east;west;great;only
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,outside,warm;cold;bright;dark;big;small;noisy;quiet;far;near
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,right,far;near;hand;over;side;left;behind;correct;only;other
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,south,far;warm;near;southern;north;east;west;only;central;great
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Spatial Concepts,west,far;wild;near;western;east;north;south;only;great;front
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,century,21st;20th;19th;new;old;past;present;future;long;short
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,day,good;bad;long;short;sunny;rainy;new;old;busy;free
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,evening,good;nice;cool;warm;long;short;quiet;busy;dark;beautiful
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,hour,long;short;late;early;first;last;next;past;free;busy
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,minute,long;short;few;many;last;first;important;free;busy;exact
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,month,long;short;last;next;past;coming;first;summer;winter;early
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,morning,good;nice;cool;warm;early;late;busy;quiet;beautiful;clear
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,night,good;bad;long;short;dark;quiet;busy;late;early;starless
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,season,summer;winter;spring;autumn;long;short;dry;wet;rainy;cold
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,second,long;short;few;many;last;next;past;coming;exact;fleeting
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,week,long;short;last;next;past;coming;busy;free;good;bad
+gemini-2.0-flash,basic,1.0,HI # Hindi,C1,most frequent,Time Concepts,year,good;bad;long;short;last;next;past;coming;new;old
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,anger,blind;deep;hot;intense;sudden;suppressed;terrible;uncontrollable;righteous;cold
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,courage,amazing;blind;great;moral;physical;real;remarkable;sheer;true;quiet
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,fear,abject;awful;crippling;deep;great;irrational;nameless;overwhelming;real;sudden
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,freedom,absolute;basic;civil;economic;individual;limited;national;political;real;religious
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,happiness,complete;deep;genuine;great;infectious;inner;lasting;real;simple;true
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,hate,abiding;bitter;burning;consuming;deep;intense;irrational;passionate;pure;strong
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,honesty,absolute;basic;brutal;complete;essential;fundamental;great;painful;refreshing;simple
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,justice,blind;civil;divine;equal;fair;impartial;rough;social;swift;true
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,knowledge,academic;basic;common;detailed;extensive;general;practical;scientific;specialized;useful
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,love,abiding;blind;crazy;deep;eternal;great;intense;passionate;platonic;true
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,peace,blessed;complete;lasting;negotiated;relative;simple;temporary;uneasy;universal;fragile
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Abstract Concepts,wisdom,ancient;divine;great;innate;practical;profound;remarkable;traditional;true;universal
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,bell,big;brass;church;clear;cracked;electric;loud;small;silver;warning
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,candle,burning;beeswax;birthday;bright;dripping;long;scented;short;tall;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,carpet,antique;beautiful;colorful;expensive;handmade;oriental;Persian;red;soft;thick
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,coin,ancient;bronze;commemorative;counterfeit;gold;rare;silver;shiny;valuable;worn
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,crown,bejeweled;ceremonial;diamond;gold;jeweled;royal;silver;simple;small;sparkling
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,flag,bright;colorful;faded;national;new;old;red;silk;small;tattered
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,mask,carnival;ceramic;costume;decorative;funny;grotesque;painted;protective;scary;theatrical
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,necklace,beaded;beautiful;chunky;diamond;gold;jeweled;long;pearl;silver;simple
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,painting,abstract;beautiful;famous;great;impressionist;large;modern;old;realistic;valuable
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,ring,antique;beautiful;diamond;engagement;gold;jeweled;plain;silver;simple;wedding
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,statue,bronze;colossal;famous;marble;modern;old;public;religious;small;stone
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Cultural Artifacts,vase,antique;beautiful;ceramic;crystal;delicate;glass;large;porcelain;small;valuable
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,cloud,dark;dense;gray;heavy;low;passing;rain;scattered;threatening;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,earthquake,devastating;major;massive;minor;powerful;recent;severe;strong;sudden;terrible
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,fog,dense;heavy;lifting;light;pea-soup;rolling;thick;thin;widespread;yellow
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,lightning,blinding;bright;distant;forked;intense;jagged;nearby;powerful;sudden;sheet
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,rain,constant;driving;heavy;light;pouring;steady;torrential;warm;wet;gentle
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,rainbow,arc-shaped;beautiful;bright;colorful;double;faint;full;hazy;partial;vibrant
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,snow,falling;fresh;heavy;light;powdery;soft;thick;wet;white;deep
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,storm,approaching;bad;fierce;heavy;intense;severe;sudden;terrible;violent;winter
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,thunder,distant;loud;nearby;pealing;rolling;sharp;sudden;echoing;booming;continuous
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,tide,ebb;flood;high;incoming;low;neap;outgoing;spring;strong;weak
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,volcano,active;dormant;erupting;famous;large;massive;nearby;sleeping;small;volcanic
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Environmental Phenomena,wind,biting;cold;fierce;gentle;gusty;light;strong;sustained;warm;whistling
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,apple,crisp;delicious;fresh;green;juicy;organic;red;ripe;small;sweet;tart
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,banana,brown;creamy;fresh;green;overripe;peeled;ripe;small;sweet;yellow
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,beef,aged;ground;lean;prime;raw;roasted;stewed;tender;tough;well-done
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,bread,brown;crusty;fresh;hard;moldy;stale;soft;sourdough;sweet;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,broccoli,fresh;frozen;green;raw;steamed;tender;wilted;organic;healthy;cooked
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,cheese,aged;blue;creamy;hard;mild;processed;sharp;soft;strong;stinky
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,chicken,baked;fried;grilled;raw;roasted;stewed;tender;whole;cooked;boneless
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,egg,boiled;cracked;fried;hard-boiled;organic;raw;scrambled;soft-boiled;fresh;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,fish,canned;dried;fresh;fried;grilled;raw;salty;smoked;steamed;whole
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,pasta,boiled;cold;cooked;dried;fresh;long;short;soft;spaghetti;whole-wheat
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,rice,boiled;brown;cooked;fried;long-grain;parboiled;short-grain;sticky;white;wild
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Food Items,soup,creamy;hot;hearty;homemade;instant;lukewarm;spicy;thick;vegetable;warm
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,artist,acclaimed;amateur;contemporary;famous;local;modern;promising;talented;young;unknown
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,athlete,amateur;competitive;experienced;famous;professional;skilled;strong;talented;young;dedicated
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,chef,experienced;famous;head;local;Michelin-starred;pastry;professional;skilled;sous;talented
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,doctor,caring;experienced;family;general;local;resident;skilled;specialist;trainee;young
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,engineer,civil;experienced;junior;lead;qualified;senior;skilled;structural;talented;young
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,farmer,experienced;family;hard-working;independent;local;organic;poor;rich;small;young
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,lawyer,experienced;famous;junior;local;qualified;senior;skilled;successful;talented;young
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,musician,accomplished;amateur;famous;local;professional;skilled;talented;young;aspiring;classical;jazz
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,scientist,brilliant;experienced;famous;leading;local;qualified;renowned;skilled;young;theoretical
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,soldier,brave;experienced;fallen;loyal;professional;skilled;strong;young;dedicated;veteran
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,teacher,caring;experienced;favorite;good;local;patient;qualified;strict;young;dedicated
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Human Roles,writer,acclaimed;aspiring;experienced;famous;gifted;local;professional;skilled;talented;young
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,book,antique;beautiful;best-selling;classic;hardcover;interesting;new;old;paperback;used
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,bridge,ancient;beautiful;concrete;covered;famous;large;modern;old;stone;wooden
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,drums,acoustic;bass;electronic;loud;new;old;percussion;snare;steel;wooden
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,earth,barren;dry;fertile;frozen;hard;loose;muddy;rich;soft;wet
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,flute,bamboo;beautiful;concert;silver;simple;small;wooden;old;new;golden
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,key,antique;brass;electronic;master;new;old;spare;steel;skeleton;rusty
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,knife,blunt;butcher;carving;dull;hunting;kitchen;new;sharp;serrated;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,lock,combination;digital;heavy;new;old;rusty;secure;strong;simple;complicated
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,moon,bright;crescent;full;gibbous;large;new;pale;silver;waning;waxing
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,pen,ballpoint;expensive;felt-tip;fountain;gel;new;old;plastic;rollerball;simple
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,sun,bright;burning;distant;hot;midday;morning;setting;shining;strong;warm
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Inanimate Objects,sword,ancient;ceremonial;dull;medieval;new;old;ornamental;sharp;steel;wooden
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,cat,black;fat;feral;friendly;gray;lazy;playful;small;stray;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,dog,big;black;friendly;golden;large;loyal;playful;small;stray;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,dolphin,agile;bottlenose;friendly;gray;intelligent;playful;small;trained;wild;young
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,elephant,African;big;gray;huge;Indian;large;old;strong;trained;wild
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,hamster,brown;cute;fluffy;golden;small;domesticated;furry;tiny;playful;young
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,monkey,baby;brown;chimpanzee;funny;intelligent;playful;small;trained;wild
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,mouse,brown;cute;gray;little;small;squeaky;tiny;wild;white;young
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,peacock,beautiful;colorful;exotic;large;male;proud;strutting;wild;young;iridescent
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,rabbit,baby;brown;cute;fluffy;small;tame;white;wild;young;domesticated
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,shark,dangerous;great-white;hammerhead;large;predatory;sharp-toothed;small;tiger;underwater;wild
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,snake,black;colorful;dangerous;long;poisonous;small;venomous;wild;green;brown
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Neutral Animals,whale,blue;giant;humpback;large;orca;small;sperm;underwater;wild;baleen
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,city,ancient;beautiful;big;bustling;capital;crowded;modern;old;polluted;small
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,desert,arid;barren;dry;empty;hot;large;sandy;scorching;vast;windy
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,forest,ancient;dense;dark;deep;enchanted;green;large;old-growth;thick;tropical
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,island,beautiful;deserted;large;remote;small;tropical;volcanic;inhabited;uninhabited;windy
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,lake,beautiful;blue;clear;deep;freshwater;large;mountain;peaceful;small;still
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,mountain,barren;beautiful;high;large;majestic;rocky;snow-capped;steep;tall;volcanic
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,ocean,blue;deep;vast;rough;salty;stormy;treacherous;turquoise;warm;cold
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,plain,dry;flat;grassy;large;open;rolling;vast;fertile;empty;treeless
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,plateau,arid;barren;flat;high;large;rocky;vast;windy;cold;elevated
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,river,deep;fast-flowing;long;meandering;muddy;navigable;narrow;powerful;shallow;wide
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,valley,beautiful;deep;fertile;green;narrow;peaceful;quiet;remote;scenic;wide
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Places,village,charming;close-knit;quiet;remote;rural;small;traditional;picturesque;isolated;sleepy
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,cactus,desert;green;large;prickly;small;spiky;thorny;tall;flowering;old
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,eggplant,fresh;glossy;large;organic;purple;raw;small;tender;grilled;fried
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,flower,beautiful;bright;colorful;delicate;fragrant;fresh;pretty;small;wild;blooming
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,grass,green;lush;overgrown;short;soft;tall;thick;wet;dry;wild
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,lettuce,crisp;fresh;green;leafy;loose-leaf;organic;romaine;small;tasty;wilted
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,mushroom,edible;fresh;grilled;poisonous;raw;small;tasty;wild;dried;button
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,onion,chopped;fried;grilled;large;raw;red;small;spicy;sweet;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,pepper,bell;black;chili;crushed;green;hot;red;small;spicy;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,potato,baked;boiled;fried;mashed;new;organic;raw;small;sweet;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,rose,beautiful;blooming;fragrant;fresh;long-stemmed;red;romantic;small;thorny;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,tomato,cherry;fresh;green;juicy;organic;ripe;red;small;sun-dried;tasty
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Plants,tree,ancient;big;deciduous;evergreen;large;old;tall;towering;young;bare
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,ally,close;crucial;dependable;important;powerful;reliable;staunch;strategic;strong;trusted
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,brother,beloved;big;elder;little;younger;older;protective;supportive;annoying
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,enemy,bitter;dangerous;deadly;formidable;hated;mortal;powerful;sworn;treacherous;unrelenting
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,father,biological;caring;loving;old;strict;supportive;young;absent;adoptive;step
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,follower,ardent;blind;devoted;faithful;loyal;numerous;steadfast;true;enthusiastic;misguided
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,friend,best;childhood;close;dear;good;loyal;old;reliable;supportive;true
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,leader,charismatic;corrupt;decisive;effective;inspiring;popular;powerful;strong;trusted;visionary
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,mother,adoptive;biological;caring;loving;strict;supportive;young;absent;step
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,partner,business;equal;ideal;life;loyal;reliable;romantic;senior;strong;trusted
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,rival,bitter;fierce;formidable;long-standing;main;potential;serious;strong;tough;worthy
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,sister,big;elder;little;older;younger;annoying;supportive;beloved
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Social Relationships,stranger,complete;dangerous;foreign;mysterious;unknown;suspicious;tall;quiet;old;young
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,above,clear;far;high;immediately;just;slightly;well;directly;right;nearly
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,back,aching;broad;lower;muscular;painful;strong;straight;upper;weak;injured
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,below,far;just;immediately;slightly;directly;right;nearly;well;significantly;deep
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,east,far;middle;near;north;southeast;eastern;central;right;immediate;relative
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,front,clear;immediate;near;right;very;far;main;direct;close
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,inside,dark;deep;far;hidden;immediate;right;warm;directly;very;close
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,left,far;immediate;near;remaining;right;abandoned;wrong;political;central;slight
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,north,far;near;northeast;northern;northwest;polar;central;immediate;geographic;right
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,outside,cold;dark;far;immediate;near;right;quiet;sunny;wild;remote
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,right,far;immediate;moral;near;political;remaining;strong;central;true;wrong
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,south,deep;far;near;right;southeast;southern;southwest;immediate;rural;warm
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Spatial Concepts,west,far;near;right;western;central;immediate;wild;close;southern
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,century,bygone;current;eighteenth;entire;eventful;following;late;past;previous;twentieth
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,day,beautiful;busy;clear;cloudy;entire;eventful;following;long;nice;sunny
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,evening,beautiful;calm;cool;dark;enjoyable;late;long;pleasant;quiet;warm
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,hour,busy;critical;crucial;golden;late;long;past;quiet;early;short
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,minute,busy;critical;crucial;fleeting;long;last;precise;quiet;split;single
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,month,entire;following;last;late;long;next;past;previous;recent;single
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,morning,beautiful;bright;busy;clear;cool;early;foggy;good;quiet;sunny
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,night,beautiful;clear;cold;dark;late;long;quiet;silent;still;starry
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,season,busy;current;dry;early;entire;following;late;last;past;rainy
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,second,fleeting;important;last;next;split;crucial;final;single;brief;immediate
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,week,busy;coming;entire;following;last;long;next;past;previous;single
+gemini-2.0-flash,basic,1.0,HI # Hindi,C2,most frequent,Time Concepts,year,busy;coming;current;election;entire;following;last;leap;past;previous
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,anger,hot;blind;burning;righteous;cold;pent-up;deep-seated;uncontrolled;sudden;simmering
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,courage,great;quiet;moral;physical;true;unwavering;reckless;amazing;infectious;steadfast
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,fear,great;real;abject;irrational;primal;paralyzing;lurking;nameless;consuming;unfounded
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,freedom,hard-won;basic;cherished;illusory;limited;individual;national;economic;political;religious
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,happiness,pure;simple;infectious;fleeting;genuine;lasting;quiet;complete;unexpected;shared
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,hate,pure;blind;irrational;consuming;deep;burning;seething;destructive;visceral;simmering
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,honesty,brutal;complete;refreshing;painful;simple;sincere;unwavering;unquestionable;essential;commendable
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,justice,blind;social;economic;restorative;swift;impartial;rough;divine;environmental;delayed
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,knowledge,practical;theoretical;tacit;extensive;specialized;common;inside;esoteric;scientific;limited
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,love,unconditional;true;puppy;familial;forbidden;lost;requited;unrequited;brotherly;romantic
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,peace,lasting;fragile;uneasy;inner;world;relative;negotiated;cold;temporary;elusive
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Abstract Concepts,wisdom,ancient;practical;acquired;intuitive;profound;quiet;collective;spiritual;experiential;discerning
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;church;school;small;dinner;brass;warning;bicycle;cow
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,candle,wax;burning;scented;tall;short;stubby;beeswax;decorative;emergency;votive
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,carpet,Persian;oriental;wool;thick;thin;red;area;floor;rolled;shag
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,coin,gold;silver;old;new;rare;valuable;collectible;lucky;foreign;metal
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;silver;ceremonial;ivy;laurel;floral;symbolic;heavy
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;waving;tattered;rebel;victory;state;checkered
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,mask,surgical;protective;carnival;tribal;painted;anonymous;scary;gas;Halloween;Venetian
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;beaded;diamond;chain;costume;cheap;jade;antique
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,painting,oil;watercolor;landscape;abstract;portrait;impressionist;famous;priceless;framed;unframed
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;class;mood;promise;championship;signet;onion
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,statue,bronze;marble;stone;tall;short;monumental;commemorative;religious;garden;historical
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Cultural Artifacts,vase,glass;ceramic;porcelain;tall;short;flower;antique;crystal;modern;decorative
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,cloud,dark;gray;white;puffy;rain;thunder;storm;passing;silver;gathering
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,earthquake,strong;major;minor;devastating;powerful;unexpected;sudden;aftershock;seismic;recent
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;heavy;pea-soup;morning;coastal;mysterious;lifting;rolling;patchy
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,lightning,bright;forked;sheet;distant;close;summer;frequent;heat;dangerous;ball
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;gentle;steady;torrential;acid;warm;cold;afternoon;spring
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;vibrant;bright;double;faint;arched;fleeting;partial;after-rain;sky
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,snow,heavy;light;falling;fresh;deep;wet;dry;powdery;drifted;driving
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,storm,severe;violent;winter;summer;rain;wind;thunder;approaching;passing;electrical
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;distant;rolling;crashing;echoing;sudden;ominous;deep;heavy
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,tide,high;low;incoming;outgoing;spring;neap;strong;rising;falling;coastal
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;erupting;volcanic;ash;dangerous;nearby;island;smoking
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;gusty;prevailing;offshore;howling;summer;light
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,apple,red;green;crisp;juicy;sweet;sour;ripe;golden;delicious;organic
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,banana,yellow;ripe;green;sweet;soft;bruised;organic;baby;cavendish;plantain
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,beef,ground;roast;tender;tough;lean;grass-fed;organic;prime;aged;rare
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,bread,white;wheat;rye;sourdough;fresh;stale;crusty;soft;toasted;moldy
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;florets;cooked;tender;frozen;healthy
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,cheese,cheddar;swiss;hard;soft;creamy;blue;aged;grated;sliced;moldy
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,chicken,fried;roasted;grilled;baked;boneless;skinless;whole;organic;free-range;tender
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,egg,fried;scrambled;hard-boiled;soft-boiled;fresh;cracked;raw;organic;deviled;easter
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,fish,fresh;saltwater;freshwater;fried;grilled;baked;raw;smoked;bony;flaky
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,pasta,spaghetti;fettuccine;penne;angel hair;cooked;dry;fresh;whole wheat;gluten-free;al dente
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,rice,white;brown;wild;basmati;jasmine;sticky;cooked;long-grain;short-grain;fried
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Food Items,soup,chicken;tomato;vegetable;creamy;hot;cold;homemade;canned;hearty;noodle
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,artist,talented;struggling;famous;local;unknown;young;old;prolific;starving;established
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,athlete,professional;amateur;young;olympic;talented;injured;dedicated;famous;successful;disciplined
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,chef,famous;head;sous;executive;talented;skilled;experienced;young;tv;pastry
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,doctor,family;general;specialist;young;experienced;caring;dedicated;on-call;attending;trusted
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,engineer,civil;mechanical;electrical;software;experienced;young;talented;design;lead;senior
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,farmer,local;small;family;organic;hard-working;elderly;young;traditional;modern;struggling
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,lawyer,corporate;criminal;defense;prosecuting;experienced;young;senior;successful;ambulance-chasing;corrupt
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,musician,talented;local;famous;young;old;struggling;professional;amateur;session;studio
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,scientist,research;leading;young;old;brilliant;dedicated;experienced;award-winning;data;curious
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,soldier,brave;young;veteran;injured;fallen;active;reservist;decorated;peacekeeping;hardened
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,teacher,dedicated;experienced;caring;young;old;substitute;special education;inspiring;demanding;qualified
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Human Roles,writer,published;aspiring;struggling;famous;ghost;talented;young;old;freelance;experienced
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,book,interesting;long;short;hardback;paperback;new;old;used;rare;valuable
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,bridge,suspension;stone;wooden;old;new;long;short;narrow;wide;famous
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,drums,loud;snare;bass;tom;acoustic;electronic;marching;steel;bongo;hand
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,earth,round;flat;good;brown;dirty;fertile;barren;rocky;dry;wet
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;long;short;bamboo;concert;piccolo;transverse;simple;recorder
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,key,metal;house;car;spare;lost;found;important;skeleton;master;golden
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,knife,sharp;dull;kitchen;pocket;butter;steak;hunting;carving;serrated;paring
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,lock,strong;weak;combination;key;front door;padlock;secure;broken;rusty;electronic
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,moon,full;new;bright;crescent;silver;dark;shining;waxing;waning;gibbous
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,pen,ballpoint;fountain;blue;black;red;expensive;cheap;disposable;leaky;gel
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,sun,hot;bright;shining;warm;summer;winter;morning;afternoon;setting;rising
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Inanimate Objects,sword,sharp;long;short;steel;ceremonial;antique;dull;heavy;light;rusty
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,cat,black;white;gray;small;big;fluffy;stray;feral;domestic;calico
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;big;small;black;white;stray;golden;playful;trained
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,dolphin,playful;intelligent;friendly;wild;trained;grey;bottlenose;spinner;common;rare
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,elephant,large;gray;African;Asian;wild;captive;old;young;gentle;endangered
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,hamster,small;cute;furry;golden;syrian;dwarf;playful;nocturnal;pet;brown
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,monkey,playful;small;clever;mischievous;wild;captive;young;old;brown;spider
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,mouse,small;gray;brown;wild;house;laboratory;white;field;cute;pest
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;male;female;iridescent;vibrant;displaying;exotic;wild
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,rabbit,white;brown;wild;pet;small;cute;fluffy;cottontail;domestic;easter
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,shark,great white;dangerous;predatory;large;small;gray;hammerhead;tiger;oceanic;coastal
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,snake,venomous;poisonous;long;short;green;black;brown;garden;pet;garter
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Neutral Animals,whale,large;blue;humpback;gray;killer;baleen;toothed;endangered;migratory;ocean
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,city,big;large;major;capital;bustling;modern;historic;ancient;crowded;industrial
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,desert,hot;dry;barren;sandy;vast;arid;rocky;empty;desolate;harsh
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,forest,dense;green;dark;ancient;temperate;tropical;lush;wild;pine;national
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,island,tropical;small;desert;volcanic;remote;populated;uninhabited;rocky;beautiful;caribbean
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,lake,big;deep;clear;blue;calm;frozen;freshwater;salty;natural;man-made
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,mountain,high;tall;snow-capped;rocky;green;majestic;dormant;active;volcanic;scenic
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,ocean,deep;blue;vast;salty;turbulent;calm;warm;cold;pacific;atlantic
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,plain,flat;open;vast;grassy;treeless;agricultural;rolling;coastal;central;arid
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,plateau,high;flat;arid;rocky;vast;elevated;desert;mesa;tibetan;colorado
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,river,long;wide;deep;flowing;muddy;clear;mighty;winding;shallow;navigable
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,valley,green;wide;narrow;deep;fertile;scenic;mountainous;hidden;populated;agricultural
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Places,village,small;quiet;rural;traditional;remote;picturesque;peaceful;poor;farming;old
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,cactus,prickly;tall;desert;green;flowering;spiny;saguaro;barrel;small;potted
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,eggplant,purple;long;oval;fresh;grilled;fried;baked;stuffed;baba-ghanoush;italian
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;fresh;blooming;wilting;dried;artificial;wild;garden
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,grass,green;long;short;wet;dry;artificial;wild;lawn;tall;thick
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,lettuce,green;crisp;fresh;romaine;iceberg;butter;loose-leaf;organic;salad;wilting
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,mushroom,wild;edible;poisonous;fresh;dried;sauteed;grilled;portobello;shiitake;white
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,onion,white;yellow;red;raw;cooked;sauteed;sweet;strong;vidalia;pickled
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,pepper,black;white;red;hot;sweet;bell;chili;cayenne;ground;crushed
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,potato,white;red;russet;mashed;baked;fried;roasted;sweet;boiled;scalloped
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,rose,red;pink;white;yellow;fragrant;thorny;blooming;wilting;dried;long-stemmed
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,tomato,red;ripe;fresh;juicy;canned;sliced;diced;cooked;green;heirloom
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Plants,tree,tall;green;big;old;deciduous;evergreen;oak;pine;maple;shady
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,ally,strong;reliable;trusted;political;strategic;important;unexpected;reluctant;natural;staunch
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,brother,older;younger;little;big;half;step;adopted;close;estranged;blood
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,enemy,bitter;sworn;formidable;powerful;political;personal;old;unexpected;dangerous;ruthless
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,father,loving;strict;biological;adoptive;step;absent;dead;young;old;single
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,follower,loyal;devoted;blind;steadfast;new;disillusioned;active;inactive;political;social media
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,friend,best;close;old;new;childhood;true;loyal;trusted;casual;virtual
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,leader,strong;effective;charismatic;political;business;natural;elected;appointed;ruthless;corrupt
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,mother,loving;caring;biological;adoptive;step;single;working;young;old;overbearing
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,partner,business;life;domestic;legal;working;senior;junior;silent;limited;general
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,rival,fierce;bitter;political;business;academic;sporting;old;new;worthy;unexpected
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,sister,older;younger;little;big;half;step;adopted;close;estranged;blood
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Social Relationships,stranger,complete;total;potential;friendly;suspicious;unknown;dangerous;helpful;mysterious;looming
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,above,far;high;directly;just;slightly;way;clearly;mentioned;listed;cited
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,back,sore;lower;strong;good;bad;aching;painful;broken;stiff;turned
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,below,sea;freezing;listed;ground;average;poverty;knee;mentioned;waist;par
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,east,far;middle;near;wild;true;south;west;north;central;eastern
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,front,main;near;right;left;far;close;false;forward;battle;western
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,inside,deep;warm;dry;cool;right;wrong;good;clean;dirty;hidden
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,left,far;right;remaining;politically;over;behind;hand;only;proper;much
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,north,far;true;wild;south;east;west;central;magnetic;northern;northeast
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,outside,cold;warm;dry;wet;far;near;left;right;safe;dangerous
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,right,true;wrong;correct;left;now;just;always;away;very;proper
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,south,far;true;north;east;west;central;southern;southeast;pole;florida
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Spatial Concepts,west,far;wild;south;east;north;central;western;southwest;wind;coast
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,century,21st;20th;past;present;future;early;late;turning;last;coming
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,day,long;short;good;bad;sunny;rainy;windy;today;yesterday;tomorrow
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,evening,warm;cool;pleasant;beautiful;quiet;summer;winter;early;late;long
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,hour,early;late;long;short;happy;golden;last;final;critical;wee
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,minute,long;short;last;final;critical;passing;precious;fleeting;small;spare
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,month,last;next;past;upcoming;whole;entire;summer;winter;birth;full
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,morning,early;cold;crisp;beautiful;quiet;sunny;foggy;rainy;busy;good
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,night,dark;cold;quiet;long;short;good;bad;starry;restless;peaceful
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,season,summer;winter;spring;autumn;rainy;dry;holiday;hunting;open;closed
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,second,split;last;fleeting;final;spare;crucial;agonizing;coming;brief;golden
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,week,last;next;long;short;whole;entire;busy;quiet;working;coming
+gemini-2.0-flash,basic,1.0,HI # Hindi,Perfect,most frequent,Time Concepts,year,last;next;good;bad;hard;easy;whole;entire;past;upcoming

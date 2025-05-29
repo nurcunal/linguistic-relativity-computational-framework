@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,anger,strong;deep;hot;wild;quick;red;fierce;bitter;sudden;dark
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,courage,great;brave;bold;true;big;real;quiet;inner;pure;amazing
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,fear,cold;deep;sharp;hidden;strong;dark;sudden;big;silent;heavy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,freedom,true;full;sweet;new;hard;bright;long;dear;open;wide
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,happiness,pure;warm;bright;deep;simple;true;big;sweet;real;soft
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,hate,strong;deep;cold;dark;bitter;hard;fierce;hidden;wild;heavy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,honesty,true;clear;pure;simple;real;strong;bright;deep;open;good
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,justice,fair;true;strong;clear;right;hard;real;pure;deep;bold
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,knowledge,deep;wide;great;useful;clear;new;big;old;strong;rich
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,love,true;deep;warm;sweet;strong;pure;soft;real;bright;endless
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,peace,quiet;calm;sweet;true;deep;soft;long;real;warm;gentle
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Abstract Concepts,wisdom,deep;great;old;true;clear;quiet;strong;pure;wide;bright
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,bell,loud;clear;small;old;shiny;golden;heavy;sweet;bright;round
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,candle,small;bright;warm;soft;white;tall;old;red;glowing;quiet
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,carpet,soft;warm;thick;red;old;big;clean;colorful;heavy;nice
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,coin,old;shiny;small;round;silver;golden;heavy;rare;dirty;bright
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,crown,golden;shiny;heavy;old;royal;big;beautiful;red;grand;rich
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,flag,bright;red;national;old;big;white;blue;proud;tall;waving
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,mask,black;scary;old;white;funny;strange;dark;wooden;small;hidden
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,necklace,shiny;golden;silver;long;beautiful;expensive;old;red;small;delicate
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,painting,old;beautiful;colorful;big;famous;dark;bright;small;lovely;strange
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,ring,golden;small;shiny;silver;expensive;old;beautiful;round;bright;simple
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,statue,old;tall;stone;big;white;famous;heavy;cold;grand;beautiful
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Cultural Artifacts,vase,old;tall;glass;small;white;beautiful;red;delicate;empty;shiny
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,cloud,white;fluffy;big;dark;gray;soft;high;thick;light;moving
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,earthquake,strong;sudden;scary;big;dangerous;loud;terrible;fast;heavy;wild
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,fog,thick;gray;cold;heavy;dark;wet;silent;deep;mysterious;early
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,lightning,bright;fast;loud;sharp;white;dangerous;sudden;wild;scary;strong
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,rain,heavy;light;cold;soft;wet;gray;long;sudden;gentle;dark
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;big;clear;lovely;happy;magical;wide
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;thick;quiet;beautiful;wet;falling
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,storm,strong;loud;dark;wild;scary;heavy;fast;dangerous;cold;big
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,thunder,loud;deep;strong;scary;sudden;dark;heavy;wild;sharp;distant
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,tide,high;low;strong;fast;big;dangerous;cold;wet;dark;powerful
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,volcano,hot;big;dangerous;active;dark;tall;red;scary;old;loud
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Environmental Phenomena,wind,strong;cold;fast;light;warm;loud;soft;wild;sharp;gentle
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,apple,red;sweet;round;fresh;green;small;juicy;hard;shiny;tasty
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,banana,yellow;sweet;long;soft;fresh;ripe;small;tasty;curved;healthy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,beef,red;fresh;tender;tough;raw;cooked;juicy;thick;expensive;dark
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,bread,soft;fresh;white;brown;warm;hard;tasty;old;thick;crusty
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,broccoli,green;fresh;healthy;small;hard;tasty;raw;cooked;bitter;bright
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,cheese,yellow;soft;hard;white;strong;tasty;old;creamy;melted;rich
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,chicken,white;tender;juicy;cooked;raw;fresh;tasty;soft;hot;roasted
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,egg,white;small;fresh;hard;soft;yellow;boiled;fried;round;fragile
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,fish,fresh;silver;small;big;tasty;raw;cooked;wet;shiny;cold
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,pasta,soft;long;yellow;tasty;hot;fresh;simple;thick;creamy;boiled
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,rice,white;soft;sticky;long;short;tasty;hot;fresh;simple;plain
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Food Items,soup,hot;tasty;warm;thick;clear;fresh;salty;creamy;light;healthy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,artist,creative;famous;young;old;talented;poor;strange;quiet;busy;happy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,athlete,strong;fast;young;tall;fit;brave;tired;famous;active;skilled
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,chef,skilled;busy;famous;creative;old;young;friendly;strict;talented;happy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,doctor,kind;smart;busy;old;young;helpful;strict;famous;tired;patient
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,engineer,smart;young;busy;skilled;creative;tired;serious;talented;friendly;careful
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,farmer,hard-working;old;kind;strong;poor;busy;simple;happy;tired;friendly
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,lawyer,smart;strict;busy;famous;rich;serious;old;young;helpful;clever
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,musician,talented;young;famous;creative;happy;poor;busy;quiet;loud;skilled
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,scientist,smart;curious;old;young;serious;busy;clever;quiet;famous;careful
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,soldier,brave;strong;young;tall;strict;tired;loyal;serious;tough;proud
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,teacher,kind;strict;smart;patient;old;young;friendly;busy;helpful;wise
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Human Roles,writer,creative;quiet;famous;young;old;poor;talented;busy;happy;clever
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,book,old;thick;new;small;heavy;interesting;boring;red;long;cheap
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,bridge,long;old;high;strong;narrow;wide;beautiful;wooden;stone;busy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,drums,loud;big;round;heavy;old;shiny;black;fast;strong;noisy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,earth,round;big;green;blue;old;warm;beautiful;rich;heavy;alive
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,flute,small;silver;shiny;long;old;beautiful;light;clear;wooden;sweet
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,key,small;old;shiny;silver;golden;heavy;rusty;important;round;lost
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,knife,sharp;small;heavy;old;shiny;dangerous;silver;long;black;useful
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,lock,old;heavy;small;rusty;strong;silver;black;broken;shiny;tight
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,moon,bright;round;white;full;pale;cold;big;high;quiet;beautiful
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,pen,small;black;blue;old;cheap;shiny;long;red;broken;useful
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,sun,bright;hot;big;yellow;warm;high;round;strong;golden;beautiful
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Inanimate Objects,sword,sharp;long;heavy;old;shiny;silver;strong;dangerous;black;ancient
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,cat,small;black;white;soft;cute;lazy;fast;quiet;wild;friendly
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,dog,big;brown;friendly;loyal;loud;fast;cute;strong;happy;young
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,dolphin,smart;fast;friendly;blue;shiny;happy;wet;big;playful;wild
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,elephant,big;gray;strong;heavy;slow;tall;old;kind;wild;huge
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,hamster,small;cute;soft;brown;fast;tiny;quiet;fluffy;active;shy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,monkey,fast;brown;small;funny;wild;loud;clever;active;naughty;curious
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,mouse,small;gray;fast;tiny;quiet;shy;sneaky;cute;brown;quick
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,peacock,colorful;beautiful;big;proud;loud;green;blue;shiny;tall;rare
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,rabbit,white;small;soft;fast;cute;shy;fluffy;brown;quiet;quick
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,shark,big;gray;dangerous;fast;scary;strong;dark;wild;hungry;sharp
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,snake,long;green;dangerous;fast;scary;black;cold;quiet;wild;thin
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Neutral Animals,whale,huge;blue;big;heavy;slow;deep;kind;dark;wet;strong
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,city,big;busy;loud;modern;old;crowded;dirty;bright;beautiful;tall
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,desert,hot;dry;big;sandy;empty;yellow;harsh;quiet;dangerous;wide
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,forest,green;big;dark;thick;old;quiet;deep;wild;beautiful;wet
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,island,small;green;beautiful;quiet;remote;blue;tropical;rocky;lonely;warm
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,lake,blue;deep;clear;big;quiet;cold;beautiful;still;green;wide
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,mountain,tall;high;big;rocky;cold;white;steep;old;beautiful;strong
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,ocean,blue;deep;big;wide;cold;wild;dark;salty;beautiful;dangerous
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,plain,wide;flat;green;big;open;empty;quiet;yellow;long;dry
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,plateau,high;flat;wide;dry;big;cold;rocky;empty;old;brown
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,river,long;wide;blue;deep;fast;clear;cold;beautiful;wet;winding
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,valley,green;deep;narrow;beautiful;quiet;long;wide;cold;rocky;fertile
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Places,village,small;quiet;old;poor;friendly;green;simple;beautiful;remote;peaceful
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,cactus,green;tall;sharp;dry;small;tough;prickly;old;strange;hard
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,eggplant,purple;long;shiny;soft;fresh;tasty;small;dark;healthy;smooth
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,flower,red;beautiful;small;yellow;fresh;soft;bright;pink;sweet;delicate
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,grass,green;soft;thick;long;wet;short;fresh;yellow;wild;dense
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,lettuce,green;fresh;soft;light;healthy;raw;crisp;small;wet;bright
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,mushroom,small;brown;soft;white;tasty;wet;round;strange;wild;fresh
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,onion,white;strong;small;round;sharp;fresh;yellow;raw;bitter;peeled
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,pepper,red;hot;green;spicy;small;fresh;tasty;yellow;raw;bright
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,potato,brown;round;hard;fresh;big;tasty;yellow;raw;dirty;heavy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,rose,red;beautiful;soft;small;pink;fresh;sweet;thorny;bright;delicate
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,tomato,red;round;juicy;fresh;small;tasty;soft;ripe;bright;healthy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Plants,tree,tall;green;old;big;strong;thick;brown;beautiful;wide;leafy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,ally,loyal;close;helpful;true;kind;strong;friendly;quiet;brave;trusted
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,brother,older;younger;kind;funny;tall;strong;close;loud;caring;naughty
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,enemy,strong;dangerous;cold;dark;hateful;close;old;clever;fierce;bitter
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,father,kind;strict;tall;old;strong;loving;busy;wise;protective;friendly
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,follower,loyal;young;quiet;eager;close;helpful;true;shy;active;devoted
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,friend,close;kind;funny;loyal;true;old;new;sweet;helpful;happy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,leader,strong;wise;brave;tall;strict;kind;smart;bold;fair;confident
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,mother,kind;loving;strict;warm;busy;sweet;strong;gentle;caring;wise
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,partner,close;kind;helpful;loyal;funny;strong;smart;sweet;true;supportive
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,rival,strong;clever;tough;close;bitter;fast;smart;dangerous;young;fierce
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,sister,older;younger;kind;funny;sweet;close;loud;caring;pretty;naughty
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Social Relationships,stranger,unknown;quiet;strange;tall;dark;cold;shy;distant;weird;suspicious
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,above,high;clear;bright;wide;open;blue;distant;far;empty;quiet
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,back,strong;wide;straight;hurt;sore;long;dark;hidden;old;tired
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,below,low;dark;deep;cold;hidden;quiet;close;small;wet;silent
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,east,far;bright;warm;distant;red;early;open;quiet;beautiful;wide
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,front,open;wide;clear;straight;close;bright;clean;strong;main;visible
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,inside,warm;dark;quiet;small;hidden;cozy;safe;deep;soft;crowded
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,left,close;near;small;quiet;hidden;dark;open;lower;weak;odd
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,north,cold;far;dark;quiet;distant;white;high;wild;strong;empty
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,outside,cold;open;wide;bright;noisy;wet;fresh;big;green;free
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,right,close;strong;main;correct;near;clear;open;upper;bright;good
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,south,warm;far;bright;distant;green;hot;open;quiet;beautiful;sunny
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Spatial Concepts,west,far;red;distant;warm;quiet;late;open;beautiful;wide;sunset
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,century,old;long;past;new;important;famous;dark;early;late;historic
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,day,long;bright;hot;cold;busy;short;happy;sad;rainy;sunny
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,evening,quiet;cool;dark;long;calm;beautiful;late;soft;warm;peaceful
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,hour,long;short;busy;late;early;quiet;fast;slow;happy;dark
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,minute,quick;short;fast;long;busy;quiet;slow;important;last;precious
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,month,long;short;busy;cold;hot;rainy;sunny;quiet;dark;happy
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,morning,early;bright;cool;quiet;fresh;sunny;busy;cold;beautiful;calm
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,night,dark;long;quiet;cold;late;black;scary;beautiful;silent;deep
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,season,hot;cold;wet;dry;long;short;beautiful;rainy;sunny;harsh
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,second,quick;fast;short;last;busy;important;final;slow;quiet;small
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,week,long;short;busy;quiet;happy;hard;fast;slow;rainy;sunny
+grok-3,basic,1.0,ZH # Mandarin,B1,most frequent,Time Concepts,year,long;short;busy;happy;sad;old;new;hard;good;important
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,anger,strong;deep;burning;fierce;sudden;wild;bitter;hot;intense;raw
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,courage,brave;bold;fearless;strong;true;great;amazing;heroic;powerful;steady
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,fear,dark;cold;sharp;heavy;silent;real;deep;constant;hidden;sudden
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,freedom,true;full;sweet;precious;hard;pure;complete;new;open;bright
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,happiness,pure;warm;bright;sweet;deep;true;simple;endless;real;joyful
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,hate,strong;bitter;deep;cold;dark;fierce;burning;hidden;intense;cruel
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,honesty,true;clear;pure;strong;simple;real;brave;open;fair;kind
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,justice,fair;true;strong;equal;clear;hard;honest;pure;right;necessary
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,knowledge,deep;wide;useful;great;important;clear;true;basic;new;powerful
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,love,deep;true;sweet;warm;strong;pure;endless;kind;soft;real
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,peace,calm;quiet;sweet;true;deep;lasting;warm;gentle;pure;still
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Abstract Concepts,wisdom,deep;great;true;clear;old;strong;quiet;useful;rare;bright
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,bell,loud;clear;small;old;shiny;golden;heavy;bright;sweet;ringing
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,candle,small;warm;bright;soft;white;glowing;old;tall;red;burning
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,carpet,soft;thick;red;old;large;warm;colorful;clean;heavy;patterned
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,coin,old;small;shiny;round;heavy;silver;golden;rare;dirty;worn
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,crown,golden;heavy;shiny;royal;old;beautiful;large;precious;bright;grand
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,flag,bright;colorful;large;national;old;torn;waving;proud;bold;red
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,mask,scary;dark;strange;black;funny;old;hidden;wooden;painted;mysterious
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,necklace,shiny;beautiful;long;silver;gold;heavy;elegant;old;precious;delicate
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,painting,beautiful;old;colorful;large;famous;dark;bright;detailed;expensive;unique
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,ring,shiny;small;golden;silver;beautiful;old;tight;precious;round;simple
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,statue,tall;old;stone;large;beautiful;white;heavy;famous;ancient;broken
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Cultural Artifacts,vase,tall;old;delicate;beautiful;white;ceramic;broken;empty;painted;elegant
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,cloud,white;fluffy;dark;heavy;big;gray;soft;high;moving;thick
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,earthquake,strong;sudden;scary;powerful;dangerous;big;terrible;destructive;rare;violent
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,fog,thick;cold;gray;heavy;silent;dark;wet;mysterious;dense;early
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,lightning,bright;fast;sharp;loud;dangerous;sudden;white;powerful;scary;striking
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,rain,heavy;light;cold;wet;soft;sudden;long;hard;dark;gentle
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;rare;long;clear;magical;high;soft;amazing
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,snow,white;cold;soft;heavy;light;thick;beautiful;wet;falling;quiet
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,storm,strong;loud;dark;dangerous;wild;heavy;sudden;scary;powerful;wet
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,thunder,loud;deep;scary;sudden;strong;powerful;dark;rolling;heavy;distant
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,tide,high;low;strong;fast;dangerous;calm;rising;powerful;cold;steady
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,volcano,hot;dangerous;tall;active;dark;red;powerful;old;huge;angry
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Environmental Phenomena,wind,strong;cold;fast;loud;warm;gentle;wild;sharp;dry;blowing
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,apple,red;sweet;fresh;round;green;juicy;small;hard;ripe;tasty
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,banana,yellow;sweet;long;soft;ripe;fresh;small;curved;tasty;healthy
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,beef,red;fresh;tough;soft;cooked;raw;juicy;thick;expensive;tender
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,bread,fresh;soft;warm;brown;white;hard;tasty;old;thick;sliced
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,broccoli,green;fresh;small;healthy;hard;raw;cooked;bitter;tasty;clean
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,cheese,yellow;soft;hard;white;strong;creamy;old;tasty;melted;fresh
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,chicken,white;tender;juicy;cooked;raw;fresh;small;tasty;roasted;soft
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,egg,white;small;fresh;hard;soft;brown;round;cooked;raw;broken
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,fish,fresh;raw;cooked;small;big;silver;tasty;wet;cold;slippery
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,pasta,soft;long;yellow;tasty;hot;cooked;fresh;simple;thick;Italian
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,rice,white;soft;sticky;hot;fresh;small;cooked;plain;tasty;healthy
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Food Items,soup,hot;tasty;warm;thick;clear;fresh;salty;creamy;light;healthy
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,artist,creative;talented;famous;young;old;skilled;poor;strange;passionate;unique
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,athlete,strong;fast;young;fit;tall;skilled;famous;hard-working;tough;energetic
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,chef,skilled;famous;creative;busy;kind;strict;experienced;friendly;talented;professional
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,doctor,kind;smart;busy;helpful;old;young;patient;experienced;strict;caring
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,engineer,smart;skilled;young;busy;creative;hard-working;talented;serious;experienced;technical
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,farmer,hard-working;kind;old;strong;poor;friendly;busy;simple;tough;patient
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,lawyer,smart;strict;busy;experienced;expensive;tough;serious;young;helpful;clever
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,musician,talented;young;famous;creative;passionate;skilled;loud;unique;emotional;poor
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,scientist,smart;curious;serious;young;old;busy;clever;patient;famous;dedicated
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,soldier,brave;strong;young;tough;loyal;tall;serious;disciplined;heroic;trained
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,teacher,kind;strict;patient;smart;helpful;old;young;friendly;wise;caring
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Human Roles,writer,creative;talented;famous;young;old;quiet;poor;passionate;clever;unique
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,book,old;thick;new;small;heavy;interesting;boring;red;expensive;useful
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,bridge,long;old;strong;high;narrow;wide;beautiful;broken;wooden;modern
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,drums,loud;big;heavy;round;old;shiny;red;strong;noisy;wooden
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,earth,round;blue;big;old;beautiful;warm;green;vast;rich;solid
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,flute,small;shiny;silver;old;light;beautiful;wooden;clear;soft;delicate
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,key,small;old;shiny;heavy;silver;golden;rusty;important;tiny;lost
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,knife,sharp;small;heavy;old;dangerous;shiny;long;silver;useful;rusty
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,lock,old;heavy;rusty;small;strong;broken;shiny;tight;silver;secure
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,moon,bright;round;white;full;pale;beautiful;high;cold;quiet;mysterious
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,pen,small;black;blue;old;cheap;shiny;heavy;useful;broken;plastic
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,sun,bright;hot;yellow;big;warm;high;shining;golden;strong;burning
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Inanimate Objects,sword,sharp;long;heavy;old;shiny;dangerous;silver;strong;rusty;ancient
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,cat,small;soft;black;white;cute;lazy;fast;quiet;friendly;wild
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,dog,big;friendly;loyal;brown;loud;fast;strong;cute;happy;protective
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,dolphin,smart;friendly;fast;blue;big;playful;smooth;beautiful;wild;gentle
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,elephant,big;gray;strong;tall;heavy;slow;kind;old;wild;huge
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,hamster,small;cute;soft;brown;tiny;fast;quiet;fluffy;playful;shy
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,monkey,small;funny;fast;brown;wild;loud;clever;naughty;active;curious
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,mouse,small;gray;fast;tiny;quiet;shy;sneaky;soft;cute;quick
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,peacock,beautiful;colorful;big;proud;loud;rare;bright;elegant;tall;striking
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,rabbit,small;white;soft;cute;fast;shy;fluffy;quiet;brown;sweet
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,shark,big;dangerous;fast;gray;scary;strong;wild;hungry;sharp;deadly
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,snake,long;dangerous;green;fast;scary;quiet;slippery;poisonous;thin;cold
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Neutral Animals,whale,huge;blue;big;gentle;slow;deep;strong;heavy;rare;beautiful
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,city,big;busy;loud;modern;old;crowded;dirty;bright;beautiful;noisy
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,desert,hot;dry;big;empty;sandy;yellow;quiet;dangerous;vast;lonely
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,forest,green;dark;big;quiet;thick;old;wild;beautiful;dense;mysterious
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,island,small;beautiful;green;quiet;remote;tropical;sandy;lonely;blue;warm
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,lake,blue;calm;deep;clear;cold;big;quiet;beautiful;still;fresh
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,mountain,high;tall;big;rocky;cold;green;beautiful;steep;old;snowy
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,ocean,big;blue;deep;wide;cold;wild;beautiful;dark;vast;salty
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,plain,flat;wide;green;open;big;empty;quiet;dry;vast;simple
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,plateau,high;flat;wide;dry;cold;big;rocky;empty;brown;open
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,river,long;wide;blue;clear;deep;fast;cold;beautiful;calm;winding
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,valley,deep;green;quiet;narrow;beautiful;long;wide;cool;hidden;peaceful
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Places,village,small;quiet;old;friendly;green;poor;simple;beautiful;remote;peaceful
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,cactus,green;spiky;tall;dry;small;tough;sharp;old;desert;hardy
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,eggplant,purple;long;soft;fresh;shiny;small;tasty;cooked;healthy;bitter
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,flower,beautiful;colorful;small;fresh;sweet;bright;soft;red;delicate;pretty
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,grass,green;soft;tall;fresh;wet;thick;short;dry;bright;lush
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,lettuce,green;fresh;soft;crispy;light;healthy;raw;small;clean;cool
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,mushroom,small;brown;soft;white;tasty;fresh;wild;round;strange;earthy
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,onion,white;strong;small;round;fresh;raw;sharp;yellow;tasty;smelly
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,pepper,red;hot;green;small;spicy;fresh;sweet;round;bright;tasty
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,potato,brown;hard;small;fresh;tasty;round;cooked;soft;healthy;cheap
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,rose,red;beautiful;soft;sweet;thorny;small;bright;delicate;fresh;lovely
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,tomato,red;round;juicy;fresh;small;tasty;ripe;soft;healthy;sweet
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Plants,tree,tall;green;old;big;strong;thick;beautiful;shady;brown;leafy
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,ally,loyal;helpful;kind;strong;true;close;friendly;reliable;supportive;trusted
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,brother,kind;strong;funny;tall;young;older;protective;close;loving;annoying
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,enemy,dangerous;strong;cruel;bad;angry;cold;dark;sneaky;bitter;hated
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,father,kind;strong;old;wise;tall;strict;loving;hardworking;protective;caring
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,follower,loyal;young;quiet;eager;true;supportive;shy;dedicated;obedient;trusting
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,friend,kind;funny;loyal;close;true;helpful;sweet;caring;happy;trusted
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,leader,strong;wise;brave;smart;kind;tall;confident;strict;powerful;fair
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,mother,kind;loving;caring;warm;strict;strong;gentle;wise;soft;protective
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,partner,kind;loyal;helpful;close;strong;funny;sweet;caring;trusted;supportive
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,rival,strong;tough;smart;angry;close;dangerous;competitive;bitter;fast;clever
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,sister,kind;funny;young;older;sweet;close;loving;annoying;caring;helpful
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Social Relationships,stranger,unknown;tall;quiet;strange;cold;dark;shy;weird;distant;mysterious
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,above,high;clear;bright;far;open;blue;distant;wide;empty;lofty
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,back,far;behind;hidden;low;dark;small;quiet;close;old;narrow
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,below,low;deep;dark;hidden;close;cold;quiet;small;under;silent
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,east,far;bright;warm;open;distant;new;early;rising;red;wide
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,front,close;open;wide;clear;first;main;bright;bold;near;visible
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,inside,warm;dark;small;quiet;hidden;close;safe;tight;cozy;deep
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,left,near;close;small;hidden;quiet;lower;first;odd;side;narrow
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,north,cold;far;high;dark;distant;quiet;wide;old;snowy;remote
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,outside,cold;wide;open;far;bright;noisy;big;fresh;wild;free
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,right,close;main;near;correct;strong;side;clear;bold;first;proper
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,south,warm;far;bright;open;low;distant;hot;sunny;green;wide
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Spatial Concepts,west,far;distant;late;red;warm;open;wide;quiet;falling;golden
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,century,long;old;past;new;early;late;important;different;historical;specific
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,day,long;short;busy;hot;cold;bright;rainy;happy;hard;quiet
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,evening,cool;quiet;dark;late;calm;beautiful;warm;long;peaceful;still
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,hour,long;short;busy;early;late;quiet;fast;hard;important;final
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,minute,short;quick;fast;long;busy;quiet;important;last;slow;precious
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,month,long;short;cold;hot;busy;quiet;rainy;important;new;final
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,morning,early;cool;bright;quiet;fresh;cold;busy;beautiful;calm;clear
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,night,dark;long;quiet;cold;late;black;silent;deep;scary;still
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,season,hot;cold;wet;dry;long;short;busy;beautiful;rainy;favorite
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,second,quick;short;fast;last;small;important;final;brief;tiny;passing
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,week,long;short;busy;hard;quiet;fast;important;new;rainy;tough
+grok-3,basic,1.0,ZH # Mandarin,B2,most frequent,Time Concepts,year,long;short;busy;hard;new;old;important;happy;fast;difficult
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,anger,intense;burning;fierce;violent;uncontrollable;deep;raw;sudden;bitter;suppressed
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,courage,brave;bold;fearless;daring;strong;heroic;steadfast;valiant;resolute;admirable
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;intense;deep;irrational;constant;hidden;genuine;sudden;gripping
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,freedom,complete;true;personal;hard-won;precious;absolute;liberating;cherished;essential;fundamental
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,happiness,pure;genuine;boundless;infectious;lasting;simple;profound;radiant;unexpected;heartfelt
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,hate,intense;deep;bitter;consuming;fierce;unrelenting;blind;passionate;destructive;hidden
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,honesty,brutal;refreshing;absolute;sincere;unwavering;rare;admirable;straightforward;pure;essential
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,justice,fair;impartial;true;strict;long-overdue;moral;righteous;deserved;legal;divine
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,knowledge,vast;deep;profound;practical;useful;essential;ancient;specialized;broad;hidden
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,love,unconditional;passionate;deep;true;endless;romantic;pure;selfless;enduring;tender
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,peace,lasting;inner;global;quiet;serene;fragile;hard-earned;harmonious;spiritual;temporary
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Abstract Concepts,wisdom,ancient;profound;practical;timeless;deep;insightful;earned;quiet;valuable;shared
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,bell,loud;clear;ringing;old;brass;heavy;melodic;small;cracked;decorative
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,candle,flickering;scented;tall;thin;white;melted;warm;soft;glowing;romantic
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,carpet,soft;thick;colorful;worn;expensive;patterned;fluffy;red;Persian;cozy
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,coin,old;shiny;rare;gold;silver;small;worn;valuable;ancient;commemorative
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,crown,golden;jeweled;heavy;royal;ancient;ceremonial;ornate;majestic;symbolic;glittering
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,flag,national;colorful;waving;torn;proud;historic;symbolic;bright;official;tattered
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,mask,mysterious;colorful;scary;wooden;hidden;ceremonial;painted;creepy;traditional;decorative
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,necklace,delicate;golden;silver;beaded;elegant;expensive;simple;long;vintage;sparkling
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,painting,beautiful;abstract;classic;vivid;old;detailed;famous;colorful;expressive;modern
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,ring,golden;silver;diamond;simple;elegant;engagement;antique;shiny;small;ornate
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,statue,tall;ancient;marble;bronze;majestic;detailed;imposing;historic;weathered;iconic
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Cultural Artifacts,vase,delicate;ceramic;tall;antique;painted;fragile;floral;elegant;cracked;decorative
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;light;thick;stormy;floating;grey;scattered
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;violent;massive;destructive;terrifying;rare;minor;catastrophic
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,fog,thick;dense;mysterious;cold;grey;heavy;eerie;morning;blinding;lingering
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;sharp;dangerous;powerful;jagged;striking;intense;electric;blinding
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,rain,heavy;light;steady;cold;gentle;refreshing;sudden;warm;torrential;persistent
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;vivid;beautiful;rare;fleeting;magical;arched;vibrant;stunning
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,snow,soft;white;heavy;light;cold;fluffy;fresh;thick;melting;powdery
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,storm,fierce;violent;powerful;dark;sudden;raging;dangerous;loud;destructive;intense
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,thunder,loud;deep;rumbling;sudden;powerful;rolling;distant;booming;startling;ominous
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;steady;dangerous;calm;relentless
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,volcano,active;dormant;massive;fiery;dangerous;ancient;explosive;towering;deadly;smoking
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;gentle;fierce;howling;gusty;constant;brisk;biting
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,apple,red;green;sweet;crisp;juicy;fresh;ripe;sour;shiny;small
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;healthy;tropical;bruised
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,beef,tender;juicy;rare;well-done;grilled;fatty;lean;fresh;seasoned;savory
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,bread,fresh;warm;crusty;soft;white;wholegrain;stale;sliced;homemade;toasted
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,broccoli,green;fresh;tender;steamed;healthy;crisp;raw;bitter;small;organic
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,cheese,creamy;sharp;melted;soft;hard;aged;yellow;white;tangy;strong
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,chicken,grilled;roasted;tender;juicy;spicy;fried;lean;fresh;savory;seasoned
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,egg,boiled;fried;scrambled;fresh;white;brown;soft;hard;organic;raw
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,fish,fresh;grilled;fried;raw;flaky;smelly;oily;white;salty;delicate
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,pasta,al dente;creamy;cheesy;spicy;fresh;homemade;soft;Italian;saucy;hearty
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;plain;seasoned;long-grain;aromatic;warm
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Food Items,soup,hot;creamy;hearty;clear;spicy;homemade;comforting;thick;savory;light
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,artist,creative;talented;famous;struggling;modern;classical;innovative;passionate;eccentric;skilled
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,athlete,strong;fast;dedicated;competitive;talented;fit;determined;professional;disciplined;agile
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,chef,skilled;creative;famous;busy;passionate;innovative;experienced;strict;friendly;talented
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,doctor,kind;experienced;busy;skilled;caring;dedicated;patient;knowledgeable;professional;compassionate
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,engineer,innovative;skilled;technical;smart;creative;experienced;practical;analytical;dedicated;precise
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,farmer,hardworking;dedicated;early-rising;practical;rural;experienced;tough;friendly;traditional;patient
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,lawyer,sharp;persuasive;experienced;expensive;dedicated;tough;professional;clever;strict;assertive
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,musician,talented;passionate;famous;creative;skilled;expressive;dedicated;versatile;charismatic;gifted
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;patient;knowledgeable;precise;experimental;focused
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,soldier,brave;strong;disciplined;loyal;tough;dedicated;heroic;trained;determined;fearless
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,teacher,kind;patient;strict;inspiring;dedicated;knowledgeable;friendly;supportive;wise;enthusiastic
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Human Roles,writer,creative;talented;famous;imaginative;prolific;thoughtful;eloquent;passionate;struggling;insightful
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,book,thick;old;new;interesting;boring;heavy;worn;engaging;classic;informative
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,bridge,old;long;sturdy;wooden;modern;high;narrow;iconic;suspended;beautiful
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;tribal;large;small;traditional;electric;resonant;beaten
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,earth,vast;blue;green;ancient;fragile;rich;fertile;round;beautiful;living
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,flute,melodic;wooden;silver;delicate;high-pitched;ancient;soft;clear;elegant;small
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,key,old;rusty;golden;small;important;lost;spare;shiny;heavy;mysterious
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,knife,sharp;small;dangerous;rusty;kitchen;pocket;serrated;heavy;blunt;shiny
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,lock,old;rusty;secure;broken;heavy;small;strong;complicated;ancient;padlocked
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,moon,full;bright;pale;mysterious;distant;round;silver;glowing;crescent;beautiful
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,pen,black;blue;expensive;cheap;smooth;leaky;old;fountain;ballpoint;worn
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,sun,bright;hot;golden;warm;blazing;distant;shining;morning;setting;powerful
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;rusty;legendary;ceremonial;long;deadly;ornate;steel
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,cat,cute;fluffy;independent;lazy;curious;black;white;playful;sneaky;soft
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,dog,loyal;friendly;energetic;big;small;protective;playful;brown;furry;obedient
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,dolphin,playful;intelligent;friendly;sleek;fast;social;curious;graceful;wild;aquatic
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,elephant,massive;gentle;grey;strong;wise;wild;African;Asian;majestic;slow
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,hamster,tiny;cute;fluffy;active;small;furry;shy;nocturnal;playful;cuddly
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,monkey,playful;curious;clever;wild;small;naughty;agile;social;funny;noisy
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,mouse,tiny;small;grey;quick;shy;sneaky;cute;quiet;timid;little
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;vibrant;majestic;exotic;stunning;elegant;bright;showy
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,rabbit,cute;fluffy;fast;small;shy;white;soft;timid;playful;wild
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,shark,dangerous;fierce;powerful;sleek;deadly;predatory;large;grey;terrifying;fast
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,snake,dangerous;slithery;venomous;long;green;scary;silent;coiled;deadly;sneaky
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Neutral Animals,whale,massive;gentle;blue;huge;deep-sea;graceful;endangered;powerful;singing;migratory
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,city,busy;large;noisy;modern;crowded;vibrant;historic;urban;polluted;lively
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,desert,hot;dry;vast;sandy;barren;harsh;empty;arid;remote;endless
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,forest,dense;green;dark;ancient;mysterious;thick;quiet;tropical;vast;lush
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,island,small;tropical;remote;beautiful;deserted;rocky;lush;isolated;volcanic;sandy
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,lake,calm;blue;clear;deep;quiet;freshwater;large;serene;cold;reflective
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,mountain,tall;snowy;rugged;steep;majestic;rocky;high;ancient;green;imposing
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,ocean,vast;deep;blue;wild;powerful;endless;salty;mysterious;calm;turbulent
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,plain,vast;flat;grassy;wide;open;barren;dry;green;endless;fertile
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,plateau,high;flat;wide;rocky;dry;elevated;vast;barren;remote;grassy
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,river,long;wide;calm;rushing;blue;winding;deep;clear;muddy;powerful
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,valley,deep;green;narrow;beautiful;lush;quiet;steep;hidden;fertile;scenic
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Places,village,small;quiet;rural;traditional;peaceful;remote;friendly;old;simple;cozy
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,cactus,spiky;green;tall;dry;tough;desert;prickly;hardy;small;flowering
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,eggplant,purple;shiny;smooth;bitter;fresh;large;small;tender;cooked;organic
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;small;wild;blooming;fresh;lovely
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,grass,green;soft;tall;short;wet;dry;thick;fresh;lush;wild
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,lettuce,green;crisp;fresh;leafy;tender;raw;healthy;light;organic;washed
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,mushroom,brown;white;small;edible;poisonous;wild;soft;earthy;round;fresh
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,onion,strong;white;red;raw;sweet;pungent;small;fresh;chopped;peeled
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,pepper,spicy;red;green;hot;sweet;fresh;small;roasted;mild;colorful
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,potato,brown;starchy;small;large;fresh;boiled;fried;mashed;raw;hearty
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;pink;blooming;elegant;romantic;fresh
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;small;sweet;acidic;organic;plump
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Plants,tree,tall;old;green;sturdy;leafy;ancient;thick;bare;fruit-bearing;majestic
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,ally,loyal;trusted;reliable;supportive;close;helpful;strong;valuable;dependable;friendly
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,brother,older;younger;protective;annoying;close;loving;supportive;funny;caring;loyal
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,enemy,dangerous;fierce;hated;powerful;cunning;relentless;bitter;hidden;sworn;rivalrous
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,father,loving;strict;supportive;protective;caring;wise;hardworking;kind;strong;gentle
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,follower,loyal;dedicated;eager;supportive;quiet;obedient;enthusiastic;trusting;dependent;admiring
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,friend,close;best;loyal;funny;kind;supportive;trustworthy;caring;old;dear
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,leader,strong;confident;wise;charismatic;inspiring;strict;decisive;powerful;fair;visionary
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,mother,loving;caring;strict;gentle;protective;kind;nurturing;wise;patient;warm
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,partner,supportive;loving;reliable;equal;close;trustworthy;understanding;compatible;loyal;caring
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,rival,strong;competitive;tough;bitter;challenging;equal;relentless;fierce;annoying;persistent
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,sister,older;younger;loving;annoying;supportive;close;caring;funny;protective;kind
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Social Relationships,stranger,unknown;mysterious;friendly;suspicious;quiet;distant;odd;polite;shy;unfamiliar
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,above,high;upper;overhead;elevated;distant;top;superior;skyward;lofty;towering
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,back,rear;hind;behind;posterior;hidden;distant;reverse;secondary;trailing;last
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,below,lower;beneath;underneath;inferior;bottom;submerged;hidden;underground;sunken;deep
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,east,eastern;oriental;far;distant;rising;ancient;cultural;tropical;exotic;remote
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,front,forward;leading;ahead;primary;main;first;visible;prominent;central;open
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;private;deep;secret;confined;sheltered;cozy
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,left,western;remaining;opposite;sidelined;secondary;abandoned;stray;unused;awkward;liberal
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,north,cold;upper;distant;polar;remote;chilly;northern;harsh;wild;rugged
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,outside,external;outer;open;exposed;public;distant;foreign;wild;far;surface
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,right,correct;proper;eastern;just;fair;moral;accurate;true;fitting;conservative
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,south,warm;lower;tropical;southern;distant;sunny;humid;exotic;coastal;remote
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Spatial Concepts,west,western;far;distant;setting;modern;wild;frontier;progressive;cultural;remote
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,century,past;new;old;long;historic;recent;turning;golden;modern;ancient
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;special;ordinary;tiring;happy;memorable
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,evening,quiet;cool;peaceful;late;dark;relaxing;romantic;calm;pleasant;twilight
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,hour,long;short;busy;quiet;early;late;critical;golden;rushed;precious
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,minute,quick;short;last;fleeting;critical;exact;precious;final;brief;passing
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;quiet;special;current;past
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,morning,early;bright;fresh;cool;quiet;sunny;busy;peaceful;chilly;refreshing
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,night,dark;quiet;long;late;cold;peaceful;starry;scary;silent;endless
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,season,warm;cold;rainy;dry;long;short;favorite;busy;festive;changing
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,second,quick;brief;fleeting;last;critical;short;passing;exact;precious;split
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,week,long;short;busy;quiet;hectic;productive;relaxing;stressful;ordinary;memorable
+grok-3,basic,1.0,ZH # Mandarin,C1,most frequent,Time Concepts,year,long;short;busy;successful;difficult;memorable;past;new;important;historic
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,anger,intense;burning;fierce;uncontrolled;deep;sudden;bitter;suppressed;righteous;explosive
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,courage,remarkable;fearless;bold;admirable;unwavering;heroic;inspiring;steadfast;extraordinary;resolute
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;deep-seated;irrational;constant;hidden;intense;primal;lingering;unspoken
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,freedom,absolute;cherished;hard-won;precious;fundamental;liberating;boundless;true;personal;democratic
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,happiness,pure;genuine;boundless;radiant;infectious;lasting;simple;profound;unexpected;blissful
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,hate,intense;bitter;deep-rooted;blind;passionate;unrelenting;toxic;destructive;irrational;consuming
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,honesty,brutal;unwavering;refreshing;absolute;sincere;admirable;rare;essential;complete;uncompromising
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,justice,fair;impartial;swift;divine;poetic;hard-fought;moral;legal;righteous;overdue
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,knowledge,vast;profound;deep;extensive;specialized;practical;ancient;invaluable;shared;theoretical
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,love,unconditional;passionate;eternal;tender;deep;selfless;romantic;enduring;pure;unspoken
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,peace,lasting;inner;fragile;serene;global;quiet;harmonious;elusive;spiritual;temporary
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Abstract Concepts,wisdom,timeless;profound;practical;ancient;hard-earned;insightful;quiet;deep;shared;philosophical
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,bell,loud;clear;resonant;antique;golden;small;melodic;heavy;ornate;cheerful
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,candle,flickering;scented;tall;white;warm;delicate;handmade;glowing;decorative;calming
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,carpet,soft;plush;colorful;thick;worn;elegant;patterned;Persian;dusty;luxurious
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,coin,old;shiny;rare;valuable;small;gold;silver;worn;collectible;ancient
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ancient;ornate;majestic;ceremonial;glittering;symbolic
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,flag,national;colorful;tattered;proud;waving;iconic;historical;vibrant;symbolic;bold
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,mask,mysterious;colorful;wooden;creepy;traditional;intricate;painted;ceremonial;hidden;theatrical
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,necklace,elegant;delicate;silver;beaded;expensive;vintage;long;sparkling;simple;heirloom
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,painting,beautiful;abstract;classical;vibrant;detailed;famous;old;expressive;modern;captivating
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,ring,golden;diamond;engagement;simple;antique;silver;ornate;precious;small;meaningful
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,statue,marble;ancient;towering;bronze;detailed;iconic;weathered;majestic;historical;impressive
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Cultural Artifacts,vase,delicate;ceramic;ornate;tall;fragile;ancient;floral;elegant;painted;decorative
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;ominous;light;scattered;thick;stormy;high;soft
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,earthquake,powerful;devastating;sudden;terrifying;destructive;minor;catastrophic;unexpected;violent;seismic
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,fog,dense;thick;mysterious;eerie;gray;heavy;silent;obscuring;cool;lingering
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,lightning,bright;jagged;sudden;fierce;dangerous;electric;vivid;spectacular;powerful;blinding
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,rain,gentle;heavy;steady;cold;refreshing;torrential;light;endless;drizzling;warm
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;beautiful;fleeting;magical;bright;rare;arched;stunning;cheerful
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,snow,white;soft;heavy;fresh;cold;powdery;thick;silent;falling;pristine
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,storm,fierce;violent;raging;dark;powerful;sudden;destructive;intense;thunderous;wild
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,thunder,loud;booming;distant;rolling;powerful;startling;deep;ominous;resonant;threatening
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;powerful;relentless;calm;rhythmic;dangerous
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,volcano,active;dormant;fiery;massive;dangerous;ancient;explosive;majestic;threatening;smoking
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;gusty;fierce;howling;brisk;constant;refreshing
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,apple,red;crisp;sweet;juicy;green;fresh;ripe;tart;firm;small
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;nutritious;spotted
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,beef,tender;juicy;grilled;rare;lean;savory;cooked;marbled;fresh;hearty
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,bread,fresh;crusty;soft;warm;white;wholegrain;homemade;stale;sliced;toasted
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,broccoli,green;fresh;crisp;healthy;steamed;raw;tender;bitter;vibrant;nutritious
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,cheese,creamy;sharp;aged;melted;soft;hard;tangy;pungent;yellow;savory
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,chicken,grilled;roasted;tender;juicy;spicy;fried;lean;cooked;flavorful;succulent
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;soft;hard;raw;nutritious
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,fish,fresh;grilled;raw;flaky;oily;smoked;white;tender;salty;delicate
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,pasta,al dente;creamy;cheesy;spicy;fresh;homemade;soft;saucy;warm;hearty
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,rice,white;sticky;fluffy;brown;steamed;fragrant;plain;savory;cooked;long-grain
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Food Items,soup,hot;creamy;hearty;clear;savory;spicy;warm;comforting;thick;homemade
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,artist,talented;creative;innovative;famous;struggling;visionary;skilled;passionate;eccentric;accomplished
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,athlete,strong;dedicated;fast;skilled;competitive;disciplined;talented;determined;fit;professional
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,chef,skilled;creative;experienced;renowned;innovative;passionate;busy;professional;talented;meticulous
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,doctor,compassionate;skilled;dedicated;experienced;caring;knowledgeable;busy;trusted;patient;professional
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,engineer,innovative;skilled;brilliant;dedicated;technical;creative;experienced;precise;analytical;hardworking
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,farmer,hardworking;dedicated;rural;skilled;patient;tough;experienced;traditional;resilient;resourceful
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,lawyer,sharp;experienced;successful;persuasive;dedicated;ethical;tough;brilliant;professional;aggressive
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,musician,talented;passionate;creative;famous;skilled;dedicated;expressive;gifted;versatile;inspiring
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;meticulous;knowledgeable;pioneering;focused;respected
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;dedicated;heroic;tough;trained;committed;fearless
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,teacher,patient;dedicated;inspiring;knowledgeable;caring;strict;supportive;wise;passionate;experienced
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Human Roles,writer,creative;talented;prolific;insightful;famous;imaginative;dedicated;eloquent;passionate;thoughtful
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,book,old;thick;engaging;fascinating;worn;new;hardcover;paperback;informative;captivating
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,bridge,old;sturdy;long;narrow;iconic;modern;wooden;suspended;beautiful;historic
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;large;tribal;electronic;resonant;traditional;beaten;dynamic
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,earth,vast;beautiful;fragile;ancient;fertile;green;diverse;living;blue;resilient
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,flute,delicate;melodic;silver;wooden;soft;ancient;clear;gentle;small;harmonious
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,key,old;rusty;small;golden;important;spare;lost;shiny;heavy;essential
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,knife,sharp;rusty;small;dangerous;kitchen;pocket;serrated;dull;heavy;handy
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,lock,secure;heavy;old;rusty;broken;strong;small;complicated;antique;reliable
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,moon,full;bright;pale;mysterious;crescent;distant;glowing;silver;beautiful;serene
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,pen,black;blue;expensive;cheap;elegant;simple;broken;smooth;fine;reliable
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,sun,bright;warm;golden;blazing;radiant;hot;rising;setting;powerful;brilliant
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;ornate;legendary;deadly;rusty;ceremonial;powerful;historic
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,cat,playful;curious;soft;independent;lazy;affectionate;sleek;small;furry;agile
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,dog,loyal;friendly;energetic;protective;obedient;playful;big;small;loving;intelligent
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,dolphin,playful;intelligent;friendly;graceful;sleek;social;curious;fast;beautiful;wild
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,elephant,massive;gentle;wise;strong;gray;majestic;powerful;slow;endangered;intelligent
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,hamster,small;cute;furry;active;tiny;playful;nocturnal;soft;cuddly;curious
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,monkey,playful;curious;agile;mischievous;social;clever;small;wild;energetic;funny
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,mouse,small;tiny;quick;shy;brown;sneaky;quiet;delicate;timid;fast
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,peacock,colorful;beautiful;proud;majestic;vibrant;striking;elegant;ornate;rare;impressive
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,rabbit,soft;cute;fast;timid;small;fluffy;white;wild;gentle;hoppy
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,shark,fierce;powerful;dangerous;sleek;predatory;large;fast;scary;wild;deadly
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,snake,slithery;dangerous;venomous;long;coiled;silent;sneaky;colorful;deadly;scaly
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Neutral Animals,whale,massive;gentle;majestic;enormous;powerful;graceful;deep-sea;singing;rare;endangered
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,city,bustling;crowded;modern;vibrant;noisy;large;historic;busy;urban;diverse
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,desert,vast;arid;hot;sandy;empty;harsh;barren;dry;endless;remote
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,forest,dense;green;dark;ancient;mysterious;lush;quiet;vast;wild;enchanting
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,island,small;tropical;remote;beautiful;isolated;sandy;green;volcanic;peaceful;uninhabited
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,lake,calm;clear;deep;blue;serene;still;freshwater;large;quiet;reflective
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,mountain,tall;snowy;rugged;majestic;steep;high;ancient;rocky;imposing;breathtaking
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,ocean,vast;deep;blue;endless;powerful;wild;mysterious;turbulent;calm;immense
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,plain,flat;vast;open;grassy;wide;empty;fertile;endless;barren;quiet
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,plateau,high;flat;vast;rocky;remote;elevated;barren;wide;dry;scenic
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,river,long;winding;clear;wide;fast;calm;deep;muddy;powerful;serene
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,valley,green;deep;narrow;fertile;scenic;quiet;lush;hidden;beautiful;peaceful
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Places,village,small;quiet;remote;traditional;peaceful;quaint;rural;friendly;old;charming
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,cactus,spiky;green;tall;desert;hardy;prickly;small;tough;dry;unique
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,eggplant,purple;smooth;fresh;firm;long;shiny;bitter;cooked;tender;nutritious
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,flower,colorful;fragrant;delicate;beautiful;small;bright;soft;vibrant;fresh;blooming
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,grass,green;soft;thick;tall;fresh;wet;dry;lush;short;wild
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,lettuce,green;crisp;fresh;leafy;light;tender;healthy;raw;cool;crunchy
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,mushroom,small;brown;white;edible;wild;soft;earthy;round;tasty;delicate
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,onion,strong;sharp;white;red;raw;pungent;sweet;small;fresh;layered
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,pepper,spicy;red;green;hot;sweet;fresh;small;colorful;crisp;mild
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,potato,brown;starchy;firm;raw;cooked;small;round;fresh;versatile;hearty
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,rose,red;fragrant;beautiful;delicate;thorny;romantic;pink;blooming;elegant;soft
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,tomato,red;ripe;juicy;fresh;round;sweet;firm;small;tasty;vibrant
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Plants,tree,tall;old;green;sturdy;ancient;leafy;strong;bare;thick;majestic
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,ally,loyal;trusted;supportive;reliable;close;strong;valuable;dependable;strategic;faithful
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,brother,loving;protective;close;annoying;supportive;older;younger;loyal;funny;dependable
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,enemy,bitter;dangerous;fierce;hated;relentless;cunning;powerful;deceptive;hostile;unforgiving
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,father,loving;strict;supportive;wise;strong;caring;protective;hardworking;kind;dependable
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,follower,loyal;dedicated;enthusiastic;supportive;obedient;trusting;committed;eager;faithful;devoted
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,friend,close;loyal;kind;funny;trustworthy;supportive;caring;reliable;true;lifelong
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,leader,strong;inspiring;confident;decisive;charismatic;visionary;wise;respected;authoritative;influential
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,mother,loving;caring;nurturing;strict;supportive;gentle;strong;wise;protective;selfless
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,partner,loyal;supportive;loving;trustworthy;equal;committed;reliable;caring;understanding;close
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,rival,fierce;competitive;challenging;tough;determined;hostile;ambitious;persistent;strong;worthy
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,sister,loving;annoying;close;supportive;kind;protective;funny;caring;loyal;sweet
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Social Relationships,stranger,unknown;mysterious;distant;unfamiliar;suspicious;quiet;polite;odd;random;unexpected
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,above,high;elevated;overhead;superior;upper;towering;lofty;distant;prominent;dominant
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,back,rear;behind;posterior;hidden;distant;past;supportive;strong;lower;secondary
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,below,lower;beneath;under;inferior;underneath;bottom;submerged;hidden;lesser;deep
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,east,distant;oriental;far;cultural;ancient;exotic;rising;remote;traditional;mystic
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,front,forward;leading;first;main;prominent;visible;initial;primary;central;facing
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;private;deep;confined;secret;core;personal
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,left,remaining;abandoned;western;odd;spare;liberal;sideways;opposite;stray;neglected
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,north,cold;distant;upper;remote;polar;harsh;northernmost;windy;rugged;frigid
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,outside,external;outer;exposed;public;foreign;distant;open;wild;separate;unfamiliar
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,right,correct;proper;eastern;just;fair;conservative;precise;accurate;exact;appropriate
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,south,warm;lower;tropical;distant;southernmost;sunny;humid;exotic;coastal;vibrant
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Spatial Concepts,west,far;distant;westernmost;modern;frontier;wild;setting;progressive;remote;cultural
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,century,past;new;old;specific;historic;long;significant;turning;defining;remarkable
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;special;ordinary;bright;tiring;memorable
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,evening,quiet;cool;peaceful;late;dark;relaxing;beautiful;calm;pleasant;twilight
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,hour,long;short;early;late;busy;quiet;final;crucial;precious;fleeting
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,minute,quick;short;brief;last;exact;precious;fleeting;critical;passing;tense
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;special;quiet;productive;memorable
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,morning,early;bright;fresh;quiet;cool;sunny;busy;peaceful;crisp;new
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,night,dark;long;quiet;late;cold;peaceful;starry;restless;silent;eerie
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,season,rainy;dry;cold;hot;festive;transitional;favorite;harsh;mild;changing
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,second,quick;brief;fleeting;critical;last;precise;passing;exact;momentary;decisive
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,week,busy;long;short;hectic;quiet;productive;tiring;special;stressful;relaxing
+grok-3,basic,1.0,ZH # Mandarin,C2,most frequent,Time Concepts,year,long;short;memorable;successful;challenging;new;old;past;significant;eventful
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,anger,intense;fierce;burning;uncontrolled;bitter;sudden;deep;suppressed;violent;raw
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,courage,bold;fearless;brave;daring;heroic;valiant;resolute;steadfast;unwavering;gallant
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,fear,overwhelming;paralyzing;intense;deep-seated;irrational;constant;sudden;gripping;haunting;primal
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,freedom,complete;absolute;precious;hard-won;cherished;liberating;unrestricted;true;personal;enduring
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,happiness,pure;genuine;boundless;infectious;radiant;lasting;simple;profound;fleeting;heartfelt
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,hate,intense;bitter;deep;unrelenting;passionate;blind;destructive;toxic;ingrained;fierce
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,honesty,brutal;unwavering;sincere;absolute;refreshing;admirable;pure;consistent;blunt;undeniable
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,justice,fair;impartial;righteous;true;strict;overdue;swift;moral;equitable;deserved
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,knowledge,vast;deep;profound;extensive;valuable;practical;theoretical;specialized;ancient;acquired
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,love,unconditional;passionate;eternal;true;deep;romantic;selfless;enduring;pure;intense
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,peace,lasting;inner;serene;quiet;harmonious;tranquil;elusive;fragile;global;sacred
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Abstract Concepts,wisdom,profound;timeless;ancient;practical;insightful;deep;hard-earned;invaluable;guiding;thoughtful
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;resonant;melodic;old;brass;tiny;ringing;ceremonial;nostalgic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,candle,flickering;warm;scented;delicate;small;decorative;glowing;romantic;dim;handmade
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,carpet,soft;thick;plush;colorful;patterned;worn;luxurious;oriental;woven;cozy
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,coin,old;shiny;rare;valuable;silver;gold;ancient;worn;commemorative;small
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,crown,golden;jeweled;royal;heavy;ornate;ancient;symbolic;majestic;ceremonial;glittering
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,flag,national;colorful;proud;waving;torn;historic;symbolic;bold;vibrant;patriotic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,mask,mysterious;colorful;eerie;decorative;traditional;frightening;intricate;hidden;ceremonial;elaborate
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,necklace,delicate;elegant;golden;beaded;expensive;simple;vintage;sparkling;long;cherished
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,painting,beautiful;abstract;classic;vivid;detailed;famous;colorful;expressive;modern;timeless
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,ring,golden;silver;diamond;simple;elegant;antique;engraved;precious;tiny;ornate
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,statue,tall;ancient;marble;imposing;detailed;historic;bronze;majestic;weathered;iconic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Cultural Artifacts,vase,delicate;ceramic;ornate;ancient;tall;elegant;floral;cracked;decorative;fragile
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,cloud,fluffy;dark;white;heavy;drifting;ominous;soft;scattered;thick;towering
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,earthquake,devastating;powerful;sudden;violent;destructive;terrifying;massive;unexpected;catastrophic;seismic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;eerie;mysterious;cold;heavy;enveloping;silent;gray;blinding
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,lightning,bright;sudden;powerful;striking;dangerous;electric;jagged;intense;vivid;dramatic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;gentle;torrential;steady;cold;warm;refreshing;persistent;drizzling
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,rainbow,vibrant;colorful;bright;beautiful;magical;fleeting;arched;vivid;stunning;rare
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,snow,soft;white;heavy;light;fluffy;cold;fresh;powdery;glistening;silent
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,storm,fierce;violent;raging;powerful;dark;destructive;sudden;intense;wild;brewing
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,thunder,loud;booming;rolling;deafening;powerful;distant;ominous;startling;deep;resonant
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,tide,high;low;strong;incoming;outgoing;relentless;powerful;calm;shifting;tidal
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;massive;fiery;dangerous;ancient;erupting;majestic;destructive;smoldering
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;gusty;howling;brisk;relentless;soft;biting
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,apple,red;green;crisp;sweet;juicy;fresh;ripe;tart;shiny;round
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,banana,yellow;ripe;sweet;soft;long;curved;fresh;tropical;healthy;mushy
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,beef,tender;juicy;lean;grilled;rare;tough;savory;marbled;fresh;seasoned
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,bread,fresh;warm;crusty;soft;stale;homemade;sliced;whole;toasted;fluffy
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,broccoli,green;fresh;crisp;tender;healthy;steamed;raw;bright;nutritious;bitter
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,cheese,creamy;sharp;aged;melted;soft;hard;tangy;rich;yellow;pungent
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,chicken,grilled;roasted;juicy;tender;spicy;fried;lean;savory;cooked;fresh
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,egg,fresh;boiled;fried;scrambled;white;brown;soft;hard;raw;organic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,fish,fresh;grilled;raw;salty;oily;flaky;smoked;tender;white;exotic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,pasta,al dente;soft;creamy;cheesy;fresh;homemade;spicy;saucy;warm;filling
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,rice,white;brown;sticky;fluffy;steamed;plain;seasoned;long-grain;aromatic;cooked
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Food Items,soup,hot;creamy;hearty;clear;savory;warm;thick;homemade;spicy;comforting
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,artist,talented;creative;passionate;innovative;famous;struggling;visionary;skilled;eccentric;inspired
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,athlete,strong;fast;skilled;determined;competitive;fit;disciplined;talented;agile;dedicated
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,chef,skilled;creative;professional;passionate;innovative;experienced;talented;busy;meticulous;renowned
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,doctor,kind;skilled;experienced;caring;dedicated;knowledgeable;patient;busy;trusted;compassionate
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,engineer,innovative;skilled;brilliant;practical;creative;analytical;experienced;dedicated;technical;resourceful
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,farmer,hardworking;dedicated;patient;rugged;knowledgeable;rural;traditional;skilled;tough;caring
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,lawyer,sharp;persuasive;experienced;cunning;dedicated;eloquent;professional;tough;ethical;ambitious
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,musician,talented;passionate;skilled;creative;famous;dedicated;expressive;gifted;versatile;inspired
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,scientist,brilliant;curious;dedicated;innovative;analytical;meticulous;knowledgeable;pioneering;focused;logical
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,soldier,brave;disciplined;loyal;strong;courageous;dedicated;tough;heroic;trained;fearless
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,teacher,patient;kind;knowledgeable;inspiring;dedicated;strict;supportive;wise;caring;experienced
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Human Roles,writer,creative;talented;imaginative;prolific;insightful;passionate;articulate;famous;thoughtful;skilled
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,book,thick;thin;old;new;engaging;boring;classic;worn;hardcover;informative
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,bridge,long;old;sturdy;narrow;suspension;iconic;wooden;modern;high;historic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,drums,loud;rhythmic;powerful;deep;tribal;worn;large;tight;resonant;dynamic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,earth,vast;ancient;beautiful;fragile;rich;green;blue;rotating;precious;diverse
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,flute,delicate;melodic;silver;wooden;clear;soft;ancient;graceful;high-pitched;ornate
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,key,old;rusty;small;golden;important;spare;lost;shiny;heavy;essential
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,knife,sharp;dull;long;short;rusty;serrated;dangerous;kitchen;heavy;precise
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,lock,secure;rusty;old;broken;heavy;small;sturdy;complex;tight;reliable
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,moon,bright;full;crescent;pale;distant;mysterious;glowing;silver;round;serene
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,pen,black;blue;old;new;expensive;cheap;smooth;leaky;elegant;simple
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,sun,bright;hot;blazing;warm;golden;radiant;shining;distant;powerful;setting
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Inanimate Objects,sword,sharp;ancient;heavy;long;rusty;legendary;deadly;ornate;forged;gleaming
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,cat,fluffy;playful;curious;lazy;sleek;independent;cuddly;agile;shy;mischievous
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,dog,loyal;friendly;playful;energetic;protective;obedient;furry;smart;gentle;eager
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,dolphin,intelligent;friendly;sleek;playful;graceful;fast;curious;social;agile;charming
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,elephant,massive;gentle;intelligent;gray;majestic;strong;slow;wrinkled;powerful;wise
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,hamster,tiny;cute;fluffy;active;curious;small;playful;shy;cuddly;fast
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,monkey,playful;curious;agile;clever;mischievous;social;energetic;wild;funny;loud
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,mouse,small;tiny;quick;shy;quiet;sneaky;gray;cute;timid;fast
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,peacock,colorful;majestic;proud;beautiful;vibrant;elegant;striking;ornate;exotic;regal
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,rabbit,fluffy;cute;fast;shy;small;white;timid;playful;soft;hopping
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,shark,dangerous;powerful;sleek;fast;predatory;scary;gray;massive;deadly;silent
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,snake,slithery;venomous;long;dangerous;silent;coiled;scaly;creepy;colorful;stealthy
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Neutral Animals,whale,massive;gentle;huge;blue;majestic;slow;powerful;mysterious;deep;migrating
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,city,bustling;crowded;modern;noisy;vibrant;large;busy;urban;historic;sprawling
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,desert,vast;arid;hot;sandy;barren;dry;endless;quiet;harsh;remote
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,forest,dense;green;ancient;dark;lush;quiet;mysterious;vast;wild;thick
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,island,tropical;remote;small;beautiful;isolated;rocky;sandy;lush;exotic;serene
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,lake,calm;clear;deep;blue;serene;still;cold;reflective;vast;tranquil
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,mountain,tall;rugged;snowy;majestic;steep;rocky;high;ancient;imposing;scenic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,ocean,vast;deep;blue;wild;endless;powerful;calm;mysterious;dark;turbulent
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,plain,vast;flat;open;wide;grassy;endless;barren;quiet;expansive;fertile
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,plateau,high;flat;vast;rugged;remote;elevated;barren;wide;rocky;scenic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,river,long;winding;wide;calm;rushing;clear;deep;muddy;powerful;serene
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,valley,deep;green;narrow;lush;quiet;beautiful;hidden;fertile;scenic;sheltered
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Places,village,small;quiet;remote;peaceful;traditional;charming;rural;close-knit;simple;quaint
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,cactus,prickly;green;tall;desert;spiky;tough;dry;hardy;unique;sharp
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,eggplant,purple;shiny;smooth;long;fresh;firm;tender;bitter;plump;ripe
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,flower,beautiful;colorful;fragrant;delicate;bright;small;blooming;soft;vibrant;lovely
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,grass,green;soft;tall;short;lush;dry;fresh;thick;wet;wild
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,lettuce,green;crisp;fresh;leafy;tender;light;healthy;raw;cool;crunchy
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,mushroom,small;brown;white;earthy;soft;wild;edible;round;fresh;delicate
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,onion,sharp;pungent;white;yellow;raw;strong;fresh;sliced;sweet;layered
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,pepper,spicy;red;green;hot;fresh;crisp;sweet;bold;fiery;colorful
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,potato,brown;starchy;fresh;small;large;raw;soft;baked;hearty;versatile
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,rose,red;beautiful;fragrant;delicate;thorny;romantic;soft;vibrant;elegant;blooming
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,tomato,red;juicy;ripe;fresh;round;plump;sweet;tangy;soft;firm
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Plants,tree,tall;old;green;sturdy;leafy;ancient;strong;bare;thick;majestic
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,ally,loyal;trusted;supportive;close;reliable;helpful;friendly;strong;valuable;steadfast
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,brother,loving;protective;close;annoying;supportive;older;younger;funny;loyal;caring
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,enemy,fierce;dangerous;hostile;bitter;relentless;cunning;powerful;hated;formidable;deceptive
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,father,loving;strict;caring;supportive;wise;strong;protective;kind;hardworking;gentle
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,follower,loyal;dedicated;obedient;supportive;eager;faithful;trusting;admiring;dependent;committed
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,friend,close;loyal;kind;funny;supportive;trusted;dear;reliable;caring;lifelong
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,leader,strong;inspiring;confident;decisive;charismatic;wise;bold;respected;visionary;capable
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,mother,loving;caring;nurturing;kind;strict;supportive;gentle;wise;protective;selfless
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,partner,loyal;supportive;loving;equal;trusted;reliable;close;compatible;understanding;committed
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,rival,fierce;competitive;challenging;strong;bitter;determined;aggressive;formidable;persistent;tough
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,sister,loving;caring;annoying;supportive;close;funny;protective;kind;loyal;sweet
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Social Relationships,stranger,unknown;mysterious;distant;unfamiliar;odd;curious;suspicious;quiet;aloof;random
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,above,high;elevated;overhead;upper;superior;towering;lofty;soaring;distant;prominent
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,back,rear;behind;posterior;hidden;distant;past;trailing;secondary;supportive;returning
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,below,lower;beneath;underneath;inferior;submerged;underground;lesser;hidden;bottom;deep
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,east,oriental;distant;rising;early;cultural;ancient;far;exotic;traditional;remote
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,front,forward;leading;anterior;primary;main;first;prominent;visible;central;facing
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,inside,inner;internal;hidden;enclosed;private;deep;secret;confined;sheltered;intimate
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,left,remaining;abandoned;past;western;liberal;odd;sideways;unused;spare;earlier
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,north,cold;distant;upper;polar;remote;harsh;northern;chilly;wild;rugged
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,outside,external;outer;distant;exposed;public;far;open;foreign;peripheral;beyond
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,right,correct;proper;eastern;just;accurate;conservative;immediate;direct;suitable;moral
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,south,warm;southern;tropical;lower;distant;sunny;humid;relaxed;exotic;coastal
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Spatial Concepts,west,western;distant;setting;modern;far;wild;progressive;open;remote;frontier
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,century,past;new;old;previous;current;long;historic;specific;defining;remarkable
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,day,long;short;busy;sunny;rainy;cold;warm;tiring;special;ordinary
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,evening,quiet;cool;dark;peaceful;late;romantic;calm;relaxing;dim;pleasant
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,hour,long;short;late;early;busy;quiet;critical;precious;fleeting;exact
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,minute,quick;short;brief;precise;last;fleeting;exact;tense;critical;hurried
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,month,long;short;busy;cold;warm;rainy;sunny;quiet;specific;memorable
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,morning,early;fresh;bright;cool;quiet;busy;sunny;foggy;peaceful;crisp
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,night,dark;quiet;late;long;cold;starry;peaceful;silent;restless;mysterious
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,season,warm;cold;wet;dry;long;short;favorite;busy;festive;transitional
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,second,quick;brief;fleeting;crucial;short;exact;precise;tense;immediate;passing
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,week,busy;long;short;hectic;quiet;productive;tiring;eventful;stressful;relaxing
+grok-3,basic,1.0,ZH # Mandarin,Perfect,most frequent,Time Concepts,year,long;short;busy;successful;challenging;memorable;difficult;exciting;new;past

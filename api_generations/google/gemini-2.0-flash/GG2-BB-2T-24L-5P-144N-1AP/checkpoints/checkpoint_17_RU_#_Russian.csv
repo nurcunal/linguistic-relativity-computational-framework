@@ -1,0 +1,721 @@
+Model,SystemPromptType,Temperature,Language,Proficiency,Prompt,NounCategory,Noun,Adjectives
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,anger,bad;big;hot;much;other;new;real;different;same;good
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,courage,good;big;much;great;small;real;strong;different;little;true
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,fear,big;much;other;great;real;little;different;new;same;small
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,freedom,big;real;much;new;good;great;different;other;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,happiness,good;real;much;big;great;true;little;new;other;same
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,hate,big;much;new;other;real;different;bad;strong;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,honesty,good;real;true;much;new;different;big;little;same;great
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,justice,good;real;new;different;big;much;other;little;same;great
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,knowledge,good;much;big;real;new;other;little;different;same;great
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,love,good;big;much;real;new;great;little;different;other;true
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,peace,good;big;real;new;much;other;great;little;different;same
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Abstract Concepts,wisdom,good;great;much;big;new;real;true;other;different;same
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,bell,big;new;small;old;other;good;different;little;same;bad
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,candle,big;small;new;old;good;white;red;little;other;different
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,carpet,big;new;old;good;red;other;small;different;same;blue
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,coin,big;new;old;small;good;other;same;different;little;gold
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,crown,big;gold;new;old;good;real;different;same;little;other
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,flag,big;new;old;good;different;same;other;red;little;white
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,mask,new;big;old;small;different;black;other;white;good;same
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,necklace,new;old;gold;silver;good;other;different;big;small;same
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,painting,new;good;old;big;different;other;same;little;small;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,ring,new;gold;old;big;silver;small;good;other;same;different
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,statue,big;new;old;good;white;different;small;other;same;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Cultural Artifacts,vase,big;new;old;good;glass;small;different;same;little;other
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,cloud,big;white;new;gray;dark;little;other;different;black;same
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,earthquake,big;new;strong;bad;other;same;little;real;different;small
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,fog,big;thick;new;little;same;different;other;gray;small;bad
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,lightning,big;bright;new;strong;different;good;other;little;bad;same
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,rain,big;much;new;strong;little;other;same;heavy;light;different
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,rainbow,big;new;good;beautiful;different;same;other;little;colorful;small
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,snow,big;much;new;white;little;other;same;different;cold;small
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,storm,big;new;bad;strong;same;different;little;real;other;great
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,thunder,big;loud;new;strong;other;same;little;real;different;bad
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,tide,big;new;high;low;other;little;same;different;small;strong
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,volcano,big;new;old;strong;other;different;little;real;same;hot
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Environmental Phenomena,wind,big;new;strong;cold;good;little;different;other;bad;same
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,apple,red;green;big;new;good;sweet;other;different;small;same
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,banana,yellow;big;new;good;sweet;small;other;different;same;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,beef,big;good;new;other;different;red;small;same;little;much
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,bread,big;new;good;white;brown;other;different;small;same;fresh
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,broccoli,green;new;good;other;small;different;big;same;little;much
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,cheese,new;good;big;old;yellow;other;different;small;same;white
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,chicken,new;good;big;small;white;other;different;same;little;fried
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,egg,new;big;white;small;brown;other;good;different;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,fish,big;new;small;good;other;different;fresh;same;little;salty
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,pasta,new;big;good;other;different;small;same;little;long;yellow
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,rice,new;white;big;good;other;different;small;same;little;much
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Food Items,soup,new;hot;big;good;small;other;different;same;little;much
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,artist,good;new;big;old;other;different;real;same;little;famous
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,athlete,good;new;big;strong;old;different;other;same;little;famous
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,chef,good;new;big;old;other;famous;different;small;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,doctor,good;new;old;big;different;other;real;same;little;famous
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,engineer,good;new;old;big;different;other;same;real;little;great
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,farmer,new;big;old;good;other;small;different;same;real;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,lawyer,good;new;big;old;different;other;same;real;little;famous
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,musician,good;new;big;old;other;different;real;famous;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,scientist,good;new;big;old;other;different;real;same;little;great
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,soldier,new;big;old;good;other;strong;different;small;same;young
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,teacher,good;new;old;big;different;other;small;same;little;young
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Human Roles,writer,good;new;old;big;different;other;famous;same;little;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,book,new;old;big;good;small;different;same;other;little;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,bridge,big;new;old;good;long;different;other;small;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,drums,big;new;old;good;small;different;loud;other;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,earth,big;new;old;good;green;other;same;different;small;round
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,flute,new;good;old;small;different;long;other;silver;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,key,new;old;big;small;gold;other;different;same;little;good
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,knife,new;sharp;big;small;old;good;other;different;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,lock,new;big;old;small;good;other;different;same;little;strong
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,moon,big;new;full;good;small;other;same;different;little;yellow
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,pen,new;good;big;small;different;other;black;blue;same;red
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,sun,big;hot;new;good;yellow;bright;other;different;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Inanimate Objects,sword,new;big;old;long;good;sharp;other;different;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,cat,new;small;big;good;black;white;other;different;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,dog,new;big;good;small;black;other;different;white;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,dolphin,new;big;good;small;other;different;same;gray;little;blue
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,elephant,big;new;old;good;gray;other;different;same;little;strong
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,hamster,new;small;good;little;other;brown;different;same;big;cute
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,monkey,new;small;big;good;other;different;same;brown;little;funny
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,mouse,new;small;little;good;gray;other;different;same;white;big
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,peacock,new;big;good;other;beautiful;different;colorful;same;little;small
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,rabbit,new;small;good;big;white;other;brown;different;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,shark,big;new;dangerous;good;other;different;gray;small;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,snake,big;long;new;dangerous;other;different;green;small;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Neutral Animals,whale,big;new;old;good;other;different;gray;small;same;blue
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,city,big;new;old;good;different;other;same;small;little;beautiful
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,desert,big;new;old;hot;other;dry;different;same;small;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,forest,big;green;new;old;good;different;other;small;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,island,big;new;old;good;small;different;other;same;little;beautiful
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,lake,big;new;good;blue;other;deep;different;same;small;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,mountain,big;new;old;high;good;other;green;different;small;same
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,ocean,big;new;deep;blue;old;good;other;different;same;small
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,plain,big;new;good;green;flat;other;different;small;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,plateau,big;new;old;good;other;different;high;same;small;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,river,big;new;long;good;other;small;different;deep;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,valley,big;new;deep;green;good;other;different;small;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Places,village,new;old;big;small;good;other;different;quiet;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,cactus,big;new;old;green;sharp;other;different;same;small;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,eggplant,big;new;good;purple;other;different;small;same;little;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,flower,new;good;big;small;other;different;beautiful;colorful;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,grass,new;green;big;small;good;other;different;same;little;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,lettuce,new;green;big;good;other;small;different;same;little;fresh
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,mushroom,new;good;big;small;other;different;same;little;white;brown
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,onion,new;big;good;small;white;other;different;same;little;brown
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,pepper,new;big;small;good;red;black;other;different;same;green
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,potato,new;big;good;small;other;brown;different;same;little;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,rose,new;red;good;big;small;other;beautiful;different;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,tomato,new;red;big;good;other;small;different;same;little;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Plants,tree,new;big;old;good;green;other;small;different;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,ally,new;big;good;old;other;different;strong;same;little;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,brother,new;big;small;old;good;other;different;same;little;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,enemy,big;bad;new;old;other;different;strong;same;little;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,father,new;old;big;good;other;different;small;same;little;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,follower,new;big;small;good;other;different;same;little;real;true
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,friend,good;new;old;big;real;other;different;small;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,leader,good;new;big;old;strong;other;different;real;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,mother,good;new;big;small;old;other;different;real;same;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,partner,new;big;small;good;old;other;different;same;real;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,rival,big;new;small;old;other;different;strong;same;little;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,sister,new;small;big;old;good;other;different;same;little;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Social Relationships,stranger,new;big;small;old;good;other;different;same;little;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,above,high;new;big;good;other;different;small;same;little;old
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,back,big;new;old;good;small;other;different;same;little;black
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,below,new;old;small;good;low;other;different;same;big;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,east,new;big;good;other;different;small;same;little;far;warm
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,front,big;new;old;good;small;other;different;same;little;black
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,inside,new;big;old;good;small;other;different;same;little;dark
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,left,new;big;good;other;different;small;same;little;black;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,north,new;big;cold;good;other;different;small;same;little;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,outside,big;new;old;good;small;other;different;same;little;dark
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,right,good;new;big;small;other;different;same;little;black;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,south,big;new;warm;good;other;different;small;same;little;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Spatial Concepts,west,big;new;old;good;other;different;small;same;little;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,century,new;big;old;good;other;different;long;same;small;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,day,new;big;good;long;small;other;different;same;little;hot
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,evening,new;big;good;small;other;different;same;little;dark;warm
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,hour,new;big;small;good;other;different;same;little;long;short
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,minute,new;small;good;little;other;different;same;big;long;short
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,month,new;big;small;good;other;different;same;little;long;short
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,morning,new;good;big;small;other;different;same;little;warm;cold
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,night,new;big;good;small;other;different;same;little;black;dark
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,season,new;big;good;old;different;other;small;same;little;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,second,new;small;good;little;other;different;same;big;long;short
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,week,new;big;good;small;other;different;same;little;long;short
+gemini-2.0-flash,basic,2.0,RU # Russian,B1,most frequent,Time Concepts,year,new;big;good;old;small;other;different;same;little;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,anger,big;strong;bad;real;sudden;human;deep;hot;quick;public
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,courage,big;great;much;strong;true;real;human;moral;public;civil
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,fear,big;strong;real;great;much;deep;cold;true;little;old
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,freedom,much;big;real;important;political;basic;great;new;full;personal
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,happiness,great;big;true;real;much;little;human;simple;own;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,hate,big;strong;real;deep;much;public;blind;great;full;new
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,honesty,much;true;real;public;great;open;good;own;best;complete
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,justice,social;criminal;legal;true;fair;much;great;real;international;public
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,knowledge,much;good;great;real;important;scientific;little;basic;general;practical
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,love,true;big;much;great;deep;real;human;first;own;little
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,peace,much;real;great;international;true;big;long;own;new;political
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Abstract Concepts,wisdom,much;great;real;true;own;little;public;human;old;big
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,bell,church;small;big;old;school;golden;electric;door;metal;round
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,candle,white;small;big;old;church;wax;long;short;thin;thick
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,carpet,red;big;old;new;expensive;floor;wool;Persian;clean;soft
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,coin,old;gold;silver;small;round;big;new;valuable;rare;ancient
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,crown,gold;royal;old;silver;big;small;new;beautiful;important;national
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,flag,national;big;new;red;white;blue;old;small;black;state
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,mask,black;white;old;small;big;new;wooden;paper;face;theater
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,necklace,gold;silver;long;beautiful;expensive;new;small;old;diamond;pearl
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,painting,beautiful;old;big;new;famous;good;modern;important;oil;watercolor
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,ring,gold;silver;old;small;big;diamond;wedding;new;valuable;round
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,statue,big;old;bronze;stone;white;small;new;famous;ancient;tall
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Cultural Artifacts,vase,glass;old;new;beautiful;flower;big;small;white;blue;expensive
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,cloud,white;grey;dark;big;small;low;high;thick;black;summer
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,earthquake,big;strong;new;real;first;last;major;great;natural;public
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,fog,thick;dense;white;heavy;real;bad;cold;deep;morning;late
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,lightning,bright;strong;real;sudden;new;bad;dangerous;electric;great;single
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,rain,heavy;strong;much;real;good;little;long;bad;cold;warm
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,rainbow,beautiful;bright;new;long;high;big;colorful;summer;natural;short
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,snow,white;much;heavy;deep;fresh;soft;first;new;cold;big
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,storm,big;strong;heavy;real;bad;wind;long;dangerous;great;sea
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,thunder,big;strong;loud;real;first;great;distant;bad;long;rolling
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,tide,high;low;big;strong;real;good;sea;long;new;dangerous
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,volcano,big;active;old;new;famous;small;hot;dormant;live;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Environmental Phenomena,wind,strong;cold;warm;big;little;hot;bad;north;east;west
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,apple,red;green;big;small;sweet;good;fresh;local;tasty;new
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,banana,yellow;ripe;big;small;sweet;good;fresh;green;local;new
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,beef,good;fresh;big;local;raw;cooked;tender;new;roast;cheap
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,bread,white;fresh;brown;good;big;whole;new;small;rye;toast
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,broccoli,green;fresh;raw;cooked;good;big;organic;frozen;new;healthy
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,cheese,good;white;fresh;local;big;old;soft;hard;tasty;swiss
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,chicken,good;fresh;fried;raw;cooked;grilled;roast;local;organic;new
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,egg,white;good;fresh;big;small;boiled;fried;raw;new;local
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,fish,fresh;big;small;good;raw;cooked;salt;sweet;cheap;new
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,pasta,good;fresh;big;long;new;dry;Italian;short;cooked;whole
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,rice,white;big;small;good;long;brown;boiled;new;fried;fresh
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Food Items,soup,hot;good;big;small;new;fresh;vegetable;chicken;tomato;mushroom
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,artist,good;famous;young;old;real;great;modern;local;new;important
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,athlete,good;young;strong;professional;famous;great;local;important;Olympic;new
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,chef,good;famous;great;French;Italian;new;young;experienced;local;professional
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,doctor,good;young;old;family;great;important;new;local;medical;best
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,engineer,good;young;old;mechanical;civil;great;new;experienced;local;professional
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,farmer,good;young;old;local;big;small;new;organic;family;modern
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,lawyer,good;young;old;big;new;family;famous;great;local;professional
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,musician,good;young;old;famous;local;new;great;classical;jazz;modern
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,scientist,good;young;old;famous;new;great;local;important;international;main
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,soldier,young;good;brave;new;strong;old;famous;local;national;great
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,teacher,good;young;old;new;local;important;best;school;family;experienced
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Human Roles,writer,good;young;old;famous;new;local;best;great;important;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,book,good;new;old;big;small;interesting;important;first;hard;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,bridge,big;old;new;stone;steel;long;high;important;famous;Golden
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,drums,big;loud;new;electronic;small;old;first;modern;African;real
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,earth,big;round;old;small;new;flat;real;only;third;important
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,flute,small;new;good;old;long;silver;simple;best;expensive;musical
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,key,small;big;new;old;important;lost;first;house;spare;golden
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,knife,sharp;big;small;new;good;kitchen;old;dangerous;hunting;pocket
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,lock,big;small;new;old;strong;important;first;safe;broken;front
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,moon,full;new;big;bright;small;high;blue;first;real;silver
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,pen,new;old;good;big;small;black;blue;red;expensive;ball
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,sun,big;bright;hot;new;small;yellow;warm;first;morning;afternoon
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Inanimate Objects,sword,long;sharp;big;old;new;strong;good;iron;steel;broken
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,cat,small;black;white;big;old;new;young;stray;long;short
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,dog,big;small;black;white;good;old;new;young;long;stray
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,dolphin,small;big;new;grey;intelligent;wild;friendly;trained;young;happy
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,elephant,big;grey;African;Asian;old;new;wild;small;strong;dangerous
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,hamster,small;young;cute;brown;white;new;black;old;grey;fat
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,monkey,small;big;brown;new;old;wild;young;black;red;grey
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,mouse,small;grey;white;brown;new;old;big;wild;little;black
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,peacock,beautiful;big;blue;green;new;old;small;Indian;white;colourful
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,rabbit,small;white;brown;big;new;old;young;black;wild;pet
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,shark,big;dangerous;great;white;small;new;old;grey;wild;black
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,snake,big;dangerous;new;old;long;green;small;black;brown;wild
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Neutral Animals,whale,big;blue;great;new;old;small;grey;wild;white;black
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,city,big;new;old;great;important;capital;small;main;modern
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,desert,big;hot;dry;old;new;small;sand;Sahara;cold;lonely
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,forest,big;green;old;new;deep;dark;important;small;pine;first
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,island,big;small;new;old;beautiful;green;deserted;first;main
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,lake,big;small;new;old;deep;clean;green;first;long;close
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,mountain,big;high;old;new;small;green;rocky;snow;deep;dangerous
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,ocean,big;deep;blue;new;old;Atlantic;Pacific;great;small;cold
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,plain,big;flat;open;new;old;green;small;main;grass;agricultural
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,plateau,high;big;flat;old;new;small;dry;open;rocky;agricultural
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,river,big;long;deep;small;new;old;main;Volga;Mississippi;Don
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,valley,green;big;long;small;deep;new;old;open;river;famous
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Places,village,small;old;new;big;beautiful;green;rural;important;little;first
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,cactus,big;small;new;old;green;desert;spiky;tall;short;American
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,eggplant,big;purple;small;new;old;good;fresh;vegetable;round;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,flower,beautiful;new;big;small;white;red;yellow;old;fresh;spring
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,grass,green;long;short;new;old;dry;fresh;small;big;wild
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,lettuce,green;fresh;big;small;new;old;good;round;local;salad
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,mushroom,big;small;new;old;wild;white;brown;dangerous;fresh;edible
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,onion,big;small;white;yellow;new;old;good;fresh;strong;brown
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,pepper,red;green;black;white;new;small;big;hot;fresh;sweet
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,potato,big;small;new;old;white;red;good;brown;baked;mashed
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,rose,red;beautiful;big;new;old;small;white;pink;yellow;garden
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,tomato,red;big;small;new;old;good;fresh;round;ripe;green
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Plants,tree,big;old;new;green;tall;small;first;oak;pine;important
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,ally,good;strong;big;important;new;small;main;international;old;best
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,brother,young;old;big;little;small;elder;younger;new;half;full
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,enemy,big;strong;new;old;main;important;small;first;best;last
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,father,good;young;old;big;little;small;first;main;new;true
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,follower,good;loyal;many;new;big;young;old;small;first;famous
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,friend,good;true;best;new;old;big;small;first;great;local
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,leader,good;new;old;great;strong;young;important;political;big;small
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,mother,good;young;old;big;little;small;first;main;true;beautiful
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,partner,good;new;old;big;small;main;important;best;long;local
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,rival,big;new;old;main;strong;young;important;local;small;long
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,sister,young;old;big;little;small;elder;younger;new;half;full
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Social Relationships,stranger,big;new;old;young;small;first;real;important;dangerous;dark
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,above,high;new;old;small;big;main;little;best;first;low
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,back,big;small;new;old;main;first;important;long;low;front
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,below,low;small;new;old;big;main;little;best;first;high
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,east,east;new;old;far;small;big;main;north;west;first
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,front,front;big;new;old;small;main;important;long;best;first
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,inside,big;small;new;old;warm;cold;important;long;safe;front
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,left,left;new;old;small;big;right;main;wrong;front;back
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,north,north;new;old;big;small;main;cold;warm;east;west
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,outside,outside;big;small;new;old;warm;cold;important;front;safe
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,right,right;good;new;old;small;big;main;correct;front;left
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,south,south;new;old;big;small;warm;hot;main;north;east
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Spatial Concepts,west,west;new;old;small;big;main;east;north;first;last
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,century,big;new;old;20th;21st;important;long;small;first;main
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,day,good;new;old;big;small;long;first;main;busy;hot
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,evening,good;new;old;big;small;long;warm;dark;cool;first
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,hour,big;small;new;old;long;first;short;important;half;last
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,minute,big;small;new;old;long;short;first;last;few;main
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,month,big;new;old;long;small;first;main;last;next;hot
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,morning,good;new;old;big;small;long;first;last;warm;cold
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,night,good;new;old;big;small;long;dark;warm;first;cold
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,season,big;new;old;good;best;long;main;summer;winter;warm
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,second,small;big;new;old;long;first;short;last;few;main
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,week,big;new;old;long;short;main;good;first;last;few
+gemini-2.0-flash,basic,2.0,RU # Russian,B2,most frequent,Time Concepts,year,big;new;old;last;next;long;small;first;important;past
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,anger,strong;great;big;bad;sudden;hot;cold;blind;righteous;suppressed
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,courage,great;strong;real;true;blind;moral;physical;inner;quiet;bold
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,fear,great;real;true;big;small;common;irrational;crippling;sudden;justified
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,freedom,great;political;personal;real;true;fundamental;economic;basic;important;limited
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,happiness,great;true;real;big;little;simple;complete;pure;shared;lasting
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,hate,strong;big;great;blind;pure;cold;deep;real;burning;irrational
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,honesty,true;great;simple;complete;real;brutal;relative;questionable;public;open
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,justice,true;social;economic;great;legal;fair;blind;rough;complete;equal
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,knowledge,great;broad;deep;true;real;practical;common;scientific;useful;important
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,love,great;true;pure;unconditional;real;blind;first;romantic;passionate;maternal
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,peace,great;true;real;lasting;fragile;inner;world;uneasy;cold;negotiated
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Abstract Concepts,wisdom,great;true;practical;real;old;simple;common;conventional;divine;acquired
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,bell,big;small;church;school;hand;brass;loud;silent;golden;clear
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,candle,white;red;big;small;wax;burning;lit;unlit;thick;thin
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,carpet,red;persian;old;new;thick;thin;oriental;colorful;expensive;cheap
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,coin,gold;silver;old;new;small;big;rare;valuable;shiny;fake
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,crown,gold;silver;royal;jeweled;small;big;heavy;new;old;ancient
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,flag,national;big;small;white;red;blue;green;waving;tattered;colorful
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,mask,white;black;small;big;plastic;scary;theatrical;carnival;painted;anonymous
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;diamond;beaded;long;short;expensive;cheap;beautiful
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,painting,great;old;new;beautiful;colorful;oil;abstract;realistic;framed;famous
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;small;big;precious;simple;antique
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,statue,big;small;bronze;stone;marble;old;new;famous;public;broken
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Cultural Artifacts,vase,glass;ceramic;small;big;old;new;beautiful;simple;broken;antique
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,cloud,white;gray;dark;big;small;rain;thunder;fluffy;low;high
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,earthquake,big;small;strong;weak;recent;devastating;local;major;sudden;expected
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,fog,thick;thin;white;heavy;dense;light;morning;sea;rolling;ground
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;zig-zag;close;distant;summer;sheet;frequent;dangerous
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,rain,heavy;light;hard;soft;cold;warm;spring;summer;frequent;steady
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,rainbow,colorful;bright;beautiful;double;faint;high;low;complete;arched;elusive
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,snow,heavy;light;white;fresh;deep;falling;drifting;wet;dry;powdery
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,storm,big;strong;severe;heavy;winter;summer;electrical;rain;approaching;past
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,thunder,loud;distant;close;rumbling;crashing;sudden;rolling;summer;spring;approaching
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,tide,high;low;strong;weak;spring;neap;incoming;outgoing;daily;ocean
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;big;small;dangerous;Hawaiian;Italian;explosive;erupting
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gusty;north;south;east;west;constant
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,apple,red;green;sweet;sour;big;small;juicy;ripe;fresh;crisp
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,banana,yellow;green;ripe;sweet;big;small;long;short;fresh;soft
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,beef,red;raw;cooked;tender;tough;lean;ground;roast;steak;prime
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,bread,white;brown;fresh;stale;whole;wheat;rye;sliced;crusty;soft
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,broccoli,green;fresh;steamed;raw;cooked;frozen;chopped;small;big;healthy
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,cheese,yellow;white;hard;soft;swiss;cheddar;blue;strong;mild;grated
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,chicken,fried;roasted;grilled;boiled;raw;cooked;whole;boneless;small;big
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,egg,white;brown;raw;boiled;fried;scrambled;small;big;fresh;cracked
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,fish,fresh;salt;sea;river;fried;grilled;small;big;cooked;raw
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,pasta,long;short;dried;fresh;cooked;white;yellow;whole;wheat;Italian
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,rice,white;brown;cooked;boiled;fried;long;grain;short;steamed;sticky
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Food Items,soup,hot;cold;vegetable;chicken;tomato;creamy;thick;thin;clear;homemade
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,artist,famous;great;young;old;modern;local;talented;struggling;unknown;visionary
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,athlete,great;young;professional;amateur;talented;strong;fast;dedicated;Olympic;injured
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,chef,great;famous;young;old;talented;head;sous;experienced;skilled;demanding
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,doctor,good;young;old;local;family;experienced;medical;specialist;kind;dedicated
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,engineer,good;young;civil;mechanical;electrical;software;experienced;structural;qualified;lead
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,farmer,old;young;local;small;big;organic;family;dairy;wheat;independent
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,lawyer,good;young;old;experienced;corporate;criminal;family;local;qualified;senior
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,musician,great;young;talented;local;professional;amateur;classical;rock;jazz;struggling
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,scientist,great;young;old;leading;research;senior;junior;talented;dedicated;well-known
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,soldier,young;brave;old;experienced;professional;national;foreign;wounded;active;veteran
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,teacher,good;young;old;experienced;dedicated;local;strict;kind;popular;favorite
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Human Roles,writer,good;young;old;famous;local;professional;aspiring;freelance;experienced;published
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,book,good;old;new;big;small;long;short;interesting;hard;soft
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,bridge,long;short;old;new;stone;iron;suspension;wooden;broken;famous
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,drums,loud;big;small;new;old;electronic;acoustic;jazz;snare;bass
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,earth,round;flat;big;small;green;brown;dry;wet;barren;fertile
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,flute,long;silver;wooden;simple;old;new;beautiful;melodic;broken;clear
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,key,small;big;metal;silver;gold;house;car;spare;broken;important
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,knife,sharp;blunt;kitchen;pocket;hunting;big;small;stainless;steel;dull
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,lock,big;small;strong;weak;new;old;broken;simple;secure;combination
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,moon,full;new;bright;dark;silver;half;waning;waxing;gibbous
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,pen,blue;black;red;new;old;ballpoint;felt;tip;fountain;empty
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,sun,hot;bright;warm;strong;weak;summer;winter;morning;setting;rising
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Inanimate Objects,sword,long;short;sharp;dull;steel;iron;old;new;ceremonial;antique
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,cat,black;white;small;big;cute;fluffy;domestic;wild;stray;friendly
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,dog,big;small;black;white;cute;loyal;friendly;stray;domestic;wild
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,dolphin,gray;small;big;intelligent;playful;friendly;wild;captive;common;rare
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,elephant,big;gray;African;Indian;wild;captive;old;young;strong;gentle
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,hamster,small;cute;brown;golden;fluffy;pet;wild;dwarf;syrian;common
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,monkey,small;big;brown;wild;captive;playful;intelligent;old;young;mischievous
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,mouse,small;gray;wild;domestic;pet;white;brown;cute;fast;quiet
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,peacock,beautiful;colorful;big;wild;male;Indian;green;iridescent;majestic;stunning
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,rabbit,small;white;brown;wild;domestic;cute;fluffy;fast;long-eared;common
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,shark,big;gray;dangerous;white;tiger;hammerhead;predatory;marine;swimming;deadly
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,snake,long;green;brown;poisonous;venomous;small;big;wild;pet;scary
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Neutral Animals,whale,big;blue;gray;humpback;killer;marine;wild;swimming;endangered;common
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,city,big;small;old;new;modern;capital;industrial;historic;coastal;crowded
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,desert,hot;dry;sandy;big;vast;arid;barren;empty;rocky;silent
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,forest,green;big;dark;dense;old;new;deep;wild;ancient;tropical
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,island,small;big;tropical;desert;volcanic;remote;populated;deserted;green;beautiful
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,lake,big;small;deep;clear;blue;fresh;salt;calm;frozen;surrounded
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,mountain,big;high;tall;snowy;rocky;green;old;new;active;dormant
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,ocean,big;deep;blue;cold;warm;vast;stormy;calm;salty;pacific
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,plain,big;flat;wide;open;green;grassy;empty;fertile;vast;rolling
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,plateau,high;flat;vast;arid;rocky;barren;elevated;windswept;remote;ancient
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,river,long;short;wide;deep;fast;slow;clean;dirty;flowing
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,valley,green;deep;long;wide;narrow;fertile;scenic;peaceful;quiet;remote
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Places,village,small;quiet;old;rural;traditional;remote;peaceful;historic;friendly;charming
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,cactus,green;tall;short;spiky;desert;small;big;flowering;prickly;drought-resistant
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,eggplant,purple;big;small;long;fresh;cooked;grilled;fried;stuffed;ripe
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,flower,colorful;beautiful;fragrant;small;big;wild;garden;fresh;dried;artificial
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,grass,green;short;long;thick;dry;wet;fresh;cut;wild;artificial
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,lettuce,green;fresh;crisp;big;small;leafy;salad;raw;organic;common
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,mushroom,small;big;wild;edible;poisonous;white;brown;fresh;dried;earthy
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,onion,white;yellow;red;small;big;raw;cooked;sliced;diced;strong
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,pepper,red;green;yellow;black;hot;spicy;sweet;small;big;ground
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,potato,white;red;small;big;baked;fried;mashed;boiled;roasted;new
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,rose,red;white;pink;yellow;beautiful;fragrant;thorny;big;small;delicate
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,tomato,red;green;small;big;ripe;fresh;raw;cooked;sliced;juicy
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Plants,tree,tall;green;big;old;young;oak;pine;apple;fruit;shady
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,ally,strong;good;reliable;faithful;important;strategic;key;powerful;close;trusted
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,brother,young;old;big;little;older;younger;twin;half;step;adopted
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,enemy,strong;powerful;bitter;fierce;dangerous;old;new;common;political;personal
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,father,old;young;good;great;loving;caring;biological;adoptive;strict;deceased
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,follower,loyal;devoted;blind;faithful;numerous;true;social;twitter;religious;active
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,friend,good;old;best;close;true;real;long;term;new;helpful
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,leader,strong;good;great;political;young;old;charismatic;popular;democratic;authoritarian
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,mother,young;old;good;great;loving;caring;biological;adoptive;step;deceased
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,partner,business;life;working;senior;junior;legal;equal;key;main;significant
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,rival,strong;fierce;main;biggest;toughest;key;sporting;bitter;political;economic
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,sister,young;old;big;little;older;younger;twin;half;step;adopted
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Social Relationships,stranger,strange;foreign;complete;total;perfect;mere;curious;unknown;helpful;ordinary
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,above,high;far;way;directly;slightly;immediately;well;just;clearly;simply
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,back,far;way;right;left;straight;just;long;immediate;original;true
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,below,far;directly;slightly;sea;freezing;ground;zero;par;poverty;surface
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,east,far;middle;wild;central;near;way;direct;right;west;northeast
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,front,far;main;near;right;left;way;back;very;full;upper
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,inside,right;directly;near;safe;deep;outer;left;wrong;full;private
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,left,right;far;main;hard;easy;correct;sharp;first;sudden;strong
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,north,far;great;wild;east;south;strong;cold;new;western;northeastern
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,outside,safe;dry;outer;bright;new;familiar;right;wrong;direct;visible
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,right,far;hard;dead;simple;new;perfect;very;much;different;sharp
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,south,far;east;north;great;wild;very;new;deep;tropical;cold
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Spatial Concepts,west,far;wild;great;north;east;direct;new;open;real;dead
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,century,20th;21st;last;next;early;late;modern;previous;entire;whole
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,day,good;bad;long;short;whole;today;sunny;rainy;early;late
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,evening,good;nice;quiet;long;summer;warm;cold;dark;beautiful;early
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,hour,long;short;full;early;late;happy;last;next;important;quiet
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,minute,long;short;every;few;single;last;final;just;exact;crucial
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,month,long;short;next;last;current;whole;previous;every;single;past
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,morning,good;early;nice;warm;cold;sunny;clear;rainy;quiet;peaceful
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,night,good;dark;long;late;quiet;summer;winter;full;whole;first
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,season,whole;every;next;current;summer;winter;rainy;dry;tourist;high
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,second,every;split;next;last;whole;just;long;exact;crucial;extra
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,week,last;next;whole;full;long;short;every;coming;single;busy
+gemini-2.0-flash,basic,2.0,RU # Russian,C1,most frequent,Time Concepts,year,last;next;new;old;whole;full;past;coming;financial;academic
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,anger,great;blind;sudden;intense;deep;righteous;hot;suppressed;cold;irrational
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,courage,great;moral;true;blind;inner;remarkable;physical;amazing;real;quiet
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,fear,great;real;irrational;sudden;intense;deep;common;secret;constant;cold
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,freedom,great;political;personal;basic;true;economic;complete;real;legal;social
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,happiness,great;true;real;simple;pure;quiet;deep;fleeting;inner
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,hate,great;blind;intense;real;deep;strong;burning;irrational;abiding;common
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,honesty,great;true;real;simple;pure;brutal;complete;unquestionable;sincere;painful
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,justice,great;true;blind;social;legal;basic;complete;equal;fair;real
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,knowledge,great;deep;practical;useful;theoretical;general;common;expert;scientific;real
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,love,great;true;blind;deep;real;romantic;unconditional;passionate;maternal;platonic
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,peace,great;real;lasting;true;world;inner;quiet;uneasy;fragile;global
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Abstract Concepts,wisdom,great;true;real;deep;practical;ancient;collective;inner;spiritual;human
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,bell,loud;small;church;door;clear;ringing;warning;old;school;cow
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,candle,small;white;tall;burning;wax;scented;Christmas;birthday;lit;melting
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,carpet,red;soft;wool;oriental;thick;Persian;new;old;dirty;patterned
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,coin,gold;silver;old;rare;new;lucky;valuable;ancient;fake;heavy
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,crown,gold;silver;royal;jeweled;heavy;precious;ceremonial;historical;simple;symbolic
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,flag,national;white;red;waving;small;big;pirate;rebel;bright;flown
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,mask,white;black;scary;small;Venetian;paper;theatrical;protective;plastic;painted
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;long;beaded;diamond;precious;delicate;chunky;broken
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,painting,beautiful;famous;old;large;original;modern;abstract;oil;watercolour;framed
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;small;large;simple;valuable;precious;antique
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,statue,bronze;stone;marble;tall;large;small;old;ancient;religious;historical
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Cultural Artifacts,vase,glass;flower;porcelain;beautiful;old;antique;tall;ceramic;colorful;empty
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,cloud,white;dark;grey;big;rain;storm;black;fluffy;low;thick
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,earthquake,strong;major;powerful;devastating;minor;recent;unexpected;great;seismic;trembling
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,fog,thick;dense;heavy;white;pea;morning;rolling;sea;patchy;cold
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,lightning,bright;sudden;forked;sheet;close;distant;electric;dangerous;powerful;silent
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,rain,heavy;light;hard;gentle;steady;cold;warm;acid;constant;unexpected
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,rainbow,bright;beautiful;colourful;arched;double;faint;fleeting;magical;pot;end
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,snow,white;heavy;deep;light;fresh;falling;drifting;wet;powdery;soft
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,storm,big;severe;heavy;bad;tropical;electric;violent;brewing;winter;summer
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,thunder,loud;rumbling;booming;distant;crashing;echoing;deep;continuous;sharp;rolling
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,tide,high;low;rising;falling;strong;spring;neap;incoming;outgoing;predictable
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,volcano,active;dormant;extinct;large;small;dangerous;volcanic;erupting;sleeping;nearby
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Environmental Phenomena,wind,strong;cold;warm;light;gentle;gusty;northerly;easterly;southerly;westerly
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,apple,red;green;sweet;fresh;ripe;juicy;sour;crisp;delicious;Granny
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,banana,yellow;ripe;sweet;fresh;long;small;Cavendish;organic;soft;unripe
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,beef,raw;cooked;lean;tender;tough;prime;ground;organic;expensive;cheap
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,bread,white;brown;fresh;stale;wholemeal;sourdough;rye;sliced;crusty;warm
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,broccoli,green;fresh;steamed;raw;organic;florets;boiled;healthy;chopped;frozen
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,cheese,hard;soft;strong;mild;blue;cheddar;Swiss;fresh;grated;processed
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,chicken,cooked;fried;roast;grilled;raw;small;organic;whole;boneless;tender
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,egg,raw;cooked;fried;boiled;fresh;white;brown;organic;broken;scrambled
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,fish,fresh;salt;fried;cooked;small;big;dried;frozen;whole;bony
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,pasta,cooked;dry;fresh;Italian;durum;wheat;long;short;white;colorful
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,rice,white;brown;boiled;cooked;fried;long;short;sticky;wild;basmati
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Food Items,soup,hot;cold;vegetable;chicken;tomato;thick;creamy;clear;homemade;canned
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,artist,famous;great;young;local;talented;modern;struggling;starving;contemporary;gifted
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,athlete,great;young;talented;famous;professional;Olympic;amateur;elite;fit;dedicated
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,chef,head;famous;talented;executive;sous;experienced;pastry;TV;celebrity;Italian
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,doctor,good;young;old;local;family;general;specialist;experienced;female;male
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,engineer,civil;mechanical;electrical;young;qualified;experienced;chartered;software;senior;structural
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,farmer,local;young;old;small;big;dairy;organic;sheep;arable;retired
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,lawyer,good;young;experienced;qualified;corporate;criminal;family;divorce;property;junior
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,musician,talented;young;local;famous;great;jazz;classical;session;rock;struggling
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,scientist,great;young;leading;experienced;qualified;senior;research;brilliant;famous;Nobel
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,soldier,young;brave;experienced;wounded;injured;dead;British;American;Russian;decorated
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,teacher,good;young;old;experienced;dedicated;qualified;supply;primary;secondary;language
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Human Roles,writer,good;young;talented;famous;great;aspiring;struggling;freelance;local;successful
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,book,good;new;old;big;small;long;interesting;educational;popular;favorite
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,bridge,old;new;stone;wooden;steel;long;high;suspension;road;rail
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,drums,loud;big;small;jazz;electronic;acoustic;snare;bass;tribal;marching
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,earth,round;blue;flat;good;dry;wet;red;poor;fertile;barren
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,flute,silver;wooden;long;small;simple;broken;cheap;old;antique;expensive
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,key,small;big;old;new;silver;gold;lost;spare;rusty;important
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,knife,sharp;small;big;kitchen;pocket;hunting;butter;bread;new;old
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,lock,strong;new;old;broken;padlock;combination;secure;metal;rusty;key
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,moon,full;bright;half;new;silver;waxing;waning;gibbous;crescent;Harvest
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,pen,black;blue;red;new;old;ballpoint;fountain;expensive;cheap;leaking
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,sun,bright;hot;strong;shining;setting;rising;warm;morning;afternoon;winter
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Inanimate Objects,sword,long;sharp;old;rusty;ancient;metal;ceremonial;steel;antique;heavy
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,cat,small;black;white;big;grey;young;old;cute;stray;ginger
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,dog,small;big;black;white;old;young;good;stray;friendly;barking
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,dolphin,small;big;grey;playful;intelligent;wild;bottlenose;leaping;friendly;stranded
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,elephant,big;grey;African;Asian;wild;old;young;injured;playful;large
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,hamster,small;brown;cute;pet;white;golden;fluffy;dwarf;Syrian;baby
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,monkey,small;playful;cute;brown;young;old;chimpanzee;clever;mischievous;rhesus
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,mouse,small;grey;white;brown;wild;pet;house;squeaky;little;scared
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,peacock,colourful;beautiful;large;proud;majestic;strutting;albino;rare;crested;noisy
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,rabbit,small;white;brown;wild;pet;fluffy;young;black;cute;long-eared
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,shark,big;great;white;dangerous;grey;small;hammerhead;tiger;blacktip;predatory
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,snake,long;green;small;big;venomous;black;python;garden;boa;cobra
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Neutral Animals,whale,big;blue;grey;humpback;killer;orca;baleen;endangered;migratory;stranded
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,city,big;large;modern;old;historic;capital;beautiful;industrial;coastal;bustling
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,desert,hot;dry;sandy;vast;barren;arid;cold;rocky;Saharan;empty
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,forest,green;dense;thick;old;big;deep;dark;ancient;magical;coniferous
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,island,small;large;tropical;deserted;remote;volcanic;green;sandy;paradise;caribbean
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,lake,large;deep;blue;clear;still;peaceful;calm;beautiful;small;freshwater
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,mountain,high;big;tall;snow;rocky;green;volcanic;small;beautiful;dangerous
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,ocean,big;deep;blue;vast;open;cold;warm;Atlantic;Pacific;Indian
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,plain,flat;open;wide;grassy;treeless;vast;green;empty;rolling;central
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,plateau,high;flat;large;rocky;arid;dry;grassy;remote;tibetan;eroded
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,river,long;big;wide;deep;fast;slow;muddy;clear;mighty;small
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,valley,green;deep;wide;narrow;long;beautiful;peaceful;scenic;remote;fertile
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Places,village,small;quiet;old;pretty;rural;remote;historic;friendly;quaint;charming
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,cactus,green;tall;small;prickly;desert;flowering;large;old;spiky;succulent
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,eggplant,purple;large;small;ripe;fresh;cooked;grilled;fried;roasted;organic
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,flower,beautiful;colorful;fragrant;fresh;wild;small;big;single;bright;exotic
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,grass,green;long;short;wet;dry;fresh;artificial;lush;wild;patchy
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,lettuce,green;fresh;crisp;raw;salad;organic;romaine;iceberg;leafy;little
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,mushroom,small;edible;poisonous;wild;forest;field;fresh;dried;brown;white
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,onion,white;red;small;big;raw;cooked;strong;yellow;sliced;caramelized
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,pepper,black;red;green;spicy;hot;sweet;small;ground;fresh;dried
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,potato,white;new;small;big;cooked;mashed;baked;fried;roast;jacket
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,rose,red;pink;white;beautiful;fragrant;thorny;hybrid;wild;garden;fresh
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,tomato,red;ripe;fresh;small;big;juicy;organic;canned;sliced;sun-dried
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Plants,tree,tall;big;green;old;small;strong;beautiful;ancient;oak;willow
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,ally,strong;close;good;important;loyal;political;key;military;natural;steadfast
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,brother,elder;younger;little;big;older;step;half;good;favorite;annoying
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,enemy,bitter;old;dangerous;powerful;sworn;mortal;great;ruthless;common;political
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,father,old;young;step;good;real;loving;dead;strict;biological;adoptive
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,follower,loyal;devoted;strong;online;faithful;new;social;active;potential;staunch
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,friend,good;old;close;best;true;new;great;real;loyal;online
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,leader,strong;good;great;political;important;powerful;popular;new;experienced;natural
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,mother,young;old;good;loving;step;biological;adoptive;real;dead;working
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,partner,business;close;working;senior;junior;main;key;new;trading;old
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,rival,fierce;bitter;strong;main;tough;old;new;political;commercial;sporting
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,sister,older;younger;little;half;step;big;twin;good;only;elder
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Social Relationships,stranger,unknown;new;complete;friendly;helpful;polite;suspicious;wary;armed;unwelcome
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,above,high;clear;directly;far;well;slightly;immediately;hanging;much;nearly
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,back,bad;painful;lower;upper;good;strong;broken;muscular;stiff;weak
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,below,average;freezing;ground;par;knee;sea;standard;normal;far;zero
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,east,far;central;eastern;middle;near;south;south-east;west;west-east;north
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,front,open;direct;near;central;forward;clean;south;top;whole;new
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,inside,back;dark;light;far;right;warm;deep;closed;dry;hot
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,left,far;correct;near;good;little;main;right;whole;dead;hand
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,north,far;central;near;middle;eastern;western;cold;great;true;strong
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,outside,cold;good;better;best;wet;warm;nice;quiet;dark;dry
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,right,all;main;correct;fair;full;whole;true;simple;little;great
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,south,far;middle;eastern;south;western;near;new;little;good;east
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Spatial Concepts,west,far;middle;north;near;far-west;little;north-west;good;great;South-West
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,century,20th;21st;previous;last;long;next;current;recent;whole;early
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,day,good;bad;long;short;happy;sunny;rainy;new;old;everyday
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,evening,good;long;quiet;late;cold;warm;dark;beautiful;pleasant;early
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,hour,long;short;late;early;happy;working;free;past;golden;spare
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,minute,long;short;spare;late;early;waiting;passing;final;few;every
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,month,last;next;whole;new;early;final;few;summer;autumn;winter
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,morning,good;early;long;quiet;cold;beautiful;peaceful;happy;sunny;grey
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,night,good;long;short;dark;quiet;warm;cold;happy;peaceful;beautiful
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,season,winter;summer;autumn;spring;whole;long;short;good;new;growing
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,second,one;few;last;fast;new;short;split;spare;best;worst
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,week,long;short;last;next;whole;busy;quiet;new;happy;tough
+gemini-2.0-flash,basic,2.0,RU # Russian,C2,most frequent,Time Concepts,year,new;last;good;happy;long;next;whole;great;bad;tough
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,anger,great;deep;bitter;sudden;blind;intense;cold;hot;silent;controlled
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,courage,great;moral;physical;true;blind;unwavering;boundless;remarkable;quiet;personal
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,fear,great;irrational;deep;paralyzing;unfounded;constant;primal;lurking;genuine;mortal
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,freedom,individual;economic;personal;religious;political;conditional;unlimited;fundamental;illusory;academic
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,happiness,great;real;genuine;inner;lasting;fleeting;childlike;radiant;pure;quiet
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,hate,blind;intense;consuming;burning;pure;passionate;irrational;abiding;simmering;racial
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,honesty,complete;brutal;essential;basic;refreshing;simple;unwavering;ethical;uncompromising;blatant
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,justice,social;criminal;racial;equal;due;ultimate;restorative;swift;divine;summary
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,knowledge,tacit;common;special;esoteric;experiential;profound;encyclopedic;imperfect;vast;technical
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,love,unconditional;true;blind;maternal;passionate;forbidden;requited;unrequited;sibling;brotherly
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,peace,lasting;fragile;uneasy;inner;international;temporary;eternal;armed;enforced;negotiated
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Abstract Concepts,wisdom,ancient;traditional;practical;conventional;spiritual;applied;divine;accumulated;unquestionable;common
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,bell,loud;clear;silver;bronze;church;warning;heavy;cracked;electric;resonant
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,candle,wax;burning;small;tall;white;scented;tallow;drip;altar;emergency
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,carpet,persian;wool;oriental;thick;worn;soft;synthetic;antique;shag;patterned
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,coin,gold;silver;ancient;rare;fake;metal;lucky;commemorative;copper;foreign
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,crown,golden;royal;jeweled;ceremonial;diamond;silver;papal;laurel;simple;glittering
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,flag,national;red;white;blue;waving;flying;pirate;battle;tattered;simple
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,mask,theatrical;protective;full;simple;surgical;carnival;Venetian;anonymous;grotesque;tribal
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,necklace,gold;silver;pearl;beaded;diamond;long;short;antique;statement;charm
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,painting,oil;water;landscape;abstract;portrait;famous;original;impressionist;unframed;fresco
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,ring,gold;silver;diamond;wedding;engagement;signet;precious;mood;plain;tarnished
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,statue,bronze;marble;stone;monumental;small;antique;heroic;equestrian;figurative;religious
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Cultural Artifacts,vase,ceramic;glass;porcelain;antique;flower;tall;small;clay;ornate;cracked
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,cloud,white;grey;dark;rain;thunder;puffy;distant;gathering;storm;cumulonimbus
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,earthquake,powerful;strong;devastating;minor;shallow;sudden;unexpected;tectonic;seismic;recent
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,fog,thick;dense;heavy;patchy;morning;rolling;sea;pea;eerie;ground
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,lightning,bright;forked;sudden;distant;sheet;intense;electrical;summer;winter;jagged
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,rain,heavy;light;constant;pouring;acid;torrential;gentle;hard;soft;intermittent
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,rainbow,colorful;vibrant;faint;double;arcing;beautiful;fleeting;atmospheric;spectacular;prism
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,snow,heavy;fresh;falling;drifting;light;wet;dry;deep;first;crisp
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,storm,severe;heavy;rain;thunder;approaching;brewing;electrical;developing;distant;coastal
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,thunder,loud;rolling;distant;echoing;close;booming;crackling;ominous;preceding;sustained
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,tide,high;low;spring;neap;incoming;outgoing;strong;daily;king;rising
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,volcano,active;dormant;erupting;extinct;nearby;remote;shield;stratovolcano;majestic;volcanic
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Environmental Phenomena,wind,strong;gentle;cold;warm;prevailing;gusting;easterly;southerly;whistling;head
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,apple,red;green;crisp;sweet;sour;juicy;rotten;ripe;delicious;organic
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,banana,ripe;yellow;green;soft;sweet;cavendish;organic;overripe;dried;delicious
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,beef,ground;lean;roast;tender;prime;aged;grass;raw;marinated;expensive
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,bread,white;whole;wheat;sourdough;fresh;stale;crusty;toasted;sliced;rye
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,broccoli,fresh;green;steamed;raw;organic;frozen;florets;boiled;chopped;nutritious
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,cheese,cheddar;swiss;blue;hard;soft;creamy;sharp;grated;melted;moldy
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,chicken,fried;roasted;grilled;baked;boneless;skinless;raw;cooked;seasoned;whole
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,egg,boiled;fried;scrambled;hard;soft;raw;cooked;fresh;rotten;white
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,fish,fresh;salt;water;fried;grilled;raw;cooked;whole;small;large
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,pasta,dry;cooked;fresh;wheat;spaghetti;fettuccine;long;short;imported;simple
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,rice,white;brown;long;grain;short;cooked;wild;fried;plain
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Food Items,soup,chicken;vegetable;hot;cold;tomato;cream;thick;thin;hearty;homemade
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,artist,talented;famous;local;starving;modern;classical;unknown;abstract;surreal;freelance
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,athlete,professional;amateur;olympic;young;trained;strong;fast;competitive;dedicated;disciplined
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,chef,executive;sous;famous;celebrity;local;experienced;skilled;talented;line;head
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,doctor,general;family;specialist;experienced;caring;young;dedicated;competent;attending;leading
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,engineer,civil;electrical;mechanical;structural;chemical;experienced;design;software;professional;consulting
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,farmer,local;small;large;organic;family;independent;hardworking;successful;older;young
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,lawyer,corporate;criminal;divorce;experienced;good;young;senior;public;defense;qualified
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,musician,talented;professional;young;old;established;classical;jazz;rock;famous;studio
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,scientist,leading;top;famous;brilliant;young;senior;research;data;ambitious;field
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,soldier,brave;young;veteran;active;duty;wounded;fallen;seasoned;elite;conscript
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,teacher,experienced;good;best;favourite;enthusiastic;patient;passionate;excellent;elementary;special
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Human Roles,writer,professional;freelance;published;unknown;best;selling;good;struggling;inspiring;gifted
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,book,good;new;old;best;selling;interesting;exciting;open;used;paperback;hardcover
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,bridge,suspension;wooden;steel;old;stone;historic;long;covered;cable;arched
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,drums,loud;big;snare;bass;tom;electric;acoustic;marching;drum;electronic
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,earth,round;flat;old;fertile;barren;dry;moist;heavy;mother;desolate
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,flute,silver;wooden;high;pitched;small;concert;classical;native;bamboo;piccolo
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,key,gold;silver;master;important;secret;right;wrong;spare;electronic;hidden
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,knife,sharp;blunt;hunting;kitchen;carving;pocket;small;folding;butter;steak
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,lock,combination;simple;sturdy;secure;digital;broken;key;front;cylinder;Yale
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,moon,full;half;new;bright;silver;crescent;gibbous;orbiting;waning;waxing
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,pen,ballpoint;fountain;black;blue;red;fine;permanent;disposable;gel;expensive
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,sun,bright;warm;hot;rising;setting;shining;strong;blinding;summer;winter
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Inanimate Objects,sword,sharp;long;silver;broad;short;shining;heavy;rusty;antique;ceremonial
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,cat,black;white;stray;domestic;wild;fluffy;small;cute;lazy;sleeping
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,dog,good;stray;loyal;wild;big;small;furry;playful;happy;golden
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,dolphin,bottlenose;wild;playful;intelligent;trained;marine;friendly;aquatic;leaping;rescued
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,elephant,african;asian;wild;large;gray;intelligent;old;young;giant;heavy
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,hamster,small;cute;golden;dwarf;pet;furry;playful;active;young;baby
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,monkey,small;wild;playful;cute;brown;smart;clever;mischievous;tree;swinging
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,mouse,small;white;gray;wild;field;cute;brown;furry;baby;young
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,peacock,colorful;beautiful;iridescent;proud;majestic;strutting;ornamental;displaying;albino;peahen
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,rabbit,white;brown;wild;pet;small;furry;long;eared;baby;young
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,shark,great;white;tiger;hammerhead;dangerous;swimming;marine;aggressive;baby;attacking
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,snake,venomous;long;green;brown;black;wild;garden;poisonous;baby;constricting
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Neutral Animals,whale,blue;gray;humpback;giant;large;endangered;migrating;singing;baleen;orca
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,city,large;big;bustling;modern;historic;ancient;coastal;capital;sprawling;industrial
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,desert,vast;arid;barren;dry;hot;sandy;rocky;desolate;lonely;beautiful
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,forest,dense;thick;dark;green;ancient;pine;tropical;deciduous;national;vast
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,island,tropical;deserted;volcanic;small;remote;beautiful;inhabited;coastal;caribbean
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,lake,large;small;deep;shallow;clear;fresh;blue;mountain;glacial;great
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,mountain,high;tall;snow;capped;rocky;majestic;steep;dormant;active;distant
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,ocean,vast;deep;blue;wide;turbulent;atlantic;pacific;arctic;indian;coastal
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,plain,wide;open;flat;grassy;rolling;barren;desolate;coastal;endless;agricultural
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,plateau,high;flat;arid;elevated;rocky;expansive;desert;mesa;sweeping;geological
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,river,wide;narrow;deep;long;winding;mighty;flowing;amazon;nile;mississippi
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,valley,green;narrow;wide;deep;long;mountain;fertile;remote;hidden;populated
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Places,village,small;quiet;rural;isolated;historic;quaint;picturesque;fishing;poor;charming
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,cactus,spiky;tall;desert;prickly;succulent;green;small;large;barrel;saguaro
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,eggplant,purple;long;oval;roasted;grilled;raw;sliced;fried;steamed;organic
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,flower,colorful;beautiful;fragrant;wild;exotic;small;blooming;wilting;fresh;dried
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,grass,green;tall;short;dry;wet;overgrown;patchy;fresh;artificial;mowed
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,lettuce,fresh;green;crisp;romaine;iceberg;leaf;chopped;shredded;organic;wilted
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,mushroom,wild;edible;poisonous;brown;white;large;small;fresh;dried;magic
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,onion,white;yellow;red;sweet;raw;sliced;chopped;diced;cooked;fried
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,pepper,black;red;green;spicy;hot;mild;ground;whole;fresh;dried
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,potato,white;red;baked;fried;mashed;roasted;boiled;raw;sweet;small
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,rose,red;pink;white;yellow;fragrant;beautiful;thorny;blooming;dried;wilted
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,tomato,red;ripe;fresh;juicy;canned;sliced;chopped;diced;organic;vine
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Plants,tree,tall;old;green;leafy;pine;oak;maple;deciduous;bare;crooked
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,ally,strong;close;important;key;reliable;loyal;steadfast;unexpected;strategic;potential
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,brother,older;younger;big;little;step;half;twin;beloved;adoptive;elder
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,enemy,mortal;bitter;arch;implacable;formidable;hidden;unexpected;personal;powerful;traditional
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,father,loving;caring;strict;biological;step;adoptive;elderly;estranged;surrogate;absentee
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,follower,loyal;devoted;ardent;zealous;passive;reluctant;obedient;blind;enthusiastic;wavering
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,friend,good;close;best;old;dear;loyal;trusted;reliable;longtime;mutual
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,leader,strong;great;natural;charismatic;elected;appointed;effective;experienced;autocratic;democratic
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,mother,loving;caring;biological;adoptive;step;surrogate;young;elderly;single;expectant
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,partner,business;life;close;senior;junior;founding;trusted;dependable;former;ideal
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,rival,fierce;bitter;long;standing;close;strong;main;formidable;intense;worthy
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,sister,older;younger;big;little;half;step;twin;loving;caring;blood
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Social Relationships,stranger,strange;unknown;mysterious;friendly;dangerous;unwelcome;uninvited;silent;familiar;casual
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,above,clear;blue;mentioned;normal;average;ground;sea;acceptable;legal;expected
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,back,right;left;rear;front;straight;curved;painful;injured;strong;muscular
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,below,freezing;sea;ground;average;standard;listed;par;normal;required;expectations
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,east,far;middle;wild;near;north;south;central;old;inner;southeastern
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,front,main;near;forward;open;closed;glass;new;false;entire;stage
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,inside,dark;cool;warm;locked;comfortable;secret;back;plain;whole;near
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,left,right;far;extreme;main;last;political;past;entire;whole;remaining
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,north,far;cold;west;south;near;distant;east;inner;middle;upper
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,outside,cold;warm;bright;locked;closed;whole;back;left;sunny;pleasant
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,right,left;far;entire;best;moral;legal;due;political;proper;obvious
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,south,far;east;west;cold;near;inner;middle;north;down;rural
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Spatial Concepts,west,wild;far;near;middle;north;south;southwest;old;new;inner
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,century,21st;twentieth;19th;previous;next;new;modern;last;bygone;current
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,day,good;bad;long;short;sunny;rainy;beautiful;memorable;typical;working
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,evening,good;warm;beautiful;cool;long;quiet;summer;clear;pleasant;cold
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,hour,long;short;early;late;working;open;past;current;appointed;free
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,minute,long;short;last;first;crucial;precious;fleeting;exact;spare;remaining
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,month,next;last;current;previous;past;following;upcoming;spring;summer;winter
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,morning,good;early;warm;cold;quiet;beautiful;clear;pleasant;hazy;foggy
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,night,good;dark;long;short;clear;warm;cold;still;quiet;sleepless
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,season,next;last;current;favourite;dry;wet;tourist;off;open;high
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,second,long;short;last;next;split;crucial;precious;fleeting;spare;extra
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,week,next;last;past;long;short;previous;upcoming;busy;holiday;entire
+gemini-2.0-flash,basic,2.0,RU # Russian,Perfect,most frequent,Time Concepts,year,next;last;current;previous;past;coming;good;bad;new;old
