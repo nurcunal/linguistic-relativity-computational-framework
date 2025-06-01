@@ -1,0 +1,65 @@
+Grammatical Gender Analysis Summary
+==================================
+
+Configuration: OG4-BB-0T-24L-5P-144N-1AP
+
+Gender Category Distances Summary:
+  Dual-Gendered vs. Dual-Gendered:
+    Lang-Level Distance: 0.0374
+    Noun-Level Distance: 0.0209
+  Dual-Gendered vs. Fully Non-Gendered:
+    Lang-Level Distance: 0.0381
+    Noun-Level Distance: 0.0214
+  Dual-Gendered vs. Minimal-Gendered:
+    Lang-Level Distance: 0.0429
+    Noun-Level Distance: 0.0199
+  Dual-Gendered vs. Tri-Gendered:
+    Lang-Level Distance: 0.0303
+    Noun-Level Distance: 0.0204
+  Fully Non-Gendered vs. Fully Non-Gendered:
+    Lang-Level Distance: 0.0444
+    Noun-Level Distance: 0.0202
+  Fully Non-Gendered vs. Minimal-Gendered:
+    Lang-Level Distance: 0.0467
+    Noun-Level Distance: 0.0194
+  Fully Non-Gendered vs. Tri-Gendered:
+    Lang-Level Distance: 0.0368
+    Noun-Level Distance: 0.0209
+  Minimal-Gendered vs. Minimal-Gendered:
+    Lang-Level Distance: nan
+    Noun-Level Distance: nan
+  Minimal-Gendered vs. Tri-Gendered:
+    Lang-Level Distance: 0.0448
+    Noun-Level Distance: 0.0195
+  Tri-Gendered vs. Tri-Gendered:
+    Lang-Level Distance: 0.0294
+    Noun-Level Distance: 0.0202
+
+Cohen's d Effect Size Analysis (Top 5):
+  Minimal-Gendered vs. Tri-Gendered: d = 0.9393 (Large effect)
+    Cross-system mean: 0.0448, Within-system mean: 0.0294
+    Difference: 0.0154
+
+  Dual-Gendered vs. Tri-Gendered: d = 0.2943 (Small effect)
+    Cross-system mean: 0.0303, Within-system mean: 0.0360
+    Difference: -0.0056
+
+  Dual-Gendered vs. Minimal-Gendered: d = 0.2942 (Small effect)
+    Cross-system mean: 0.0429, Within-system mean: 0.0374
+    Difference: 0.0055
+
+  Fully Non-Gendered vs. Tri-Gendered: d = 0.1445 (Negligible effect)
+    Cross-system mean: 0.0368, Within-system mean: 0.0395
+    Difference: -0.0027
+
+  Fully Non-Gendered vs. Minimal-Gendered: d = 0.1020 (Negligible effect)
+    Cross-system mean: 0.0467, Within-system mean: 0.0444
+    Difference: 0.0023
+
+
+Eta-Squared Effect Size Analysis:
+  Language-level: nan (Large effect)
+  Noun-level: nan (Large effect)
+
+Significant Gender System Differences (p < 0.05):
+  Minimal-Gendered vs. Tri-Gendered: p = 0.0314

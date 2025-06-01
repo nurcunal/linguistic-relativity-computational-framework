@@ -1,0 +1,64 @@
+Grammatical Gender Analysis Summary
+==================================
+
+Configuration: XG3M-BB-0T-24L-5P-144N-1AP
+
+Gender Category Distances Summary:
+  Dual-Gendered vs. Dual-Gendered:
+    Lang-Level Distance: 0.0342
+    Noun-Level Distance: 0.0463
+  Dual-Gendered vs. Fully Non-Gendered:
+    Lang-Level Distance: 0.0315
+    Noun-Level Distance: 0.0462
+  Dual-Gendered vs. Minimal-Gendered:
+    Lang-Level Distance: 0.0748
+    Noun-Level Distance: 0.0578
+  Dual-Gendered vs. Tri-Gendered:
+    Lang-Level Distance: 0.0296
+    Noun-Level Distance: 0.0459
+  Fully Non-Gendered vs. Fully Non-Gendered:
+    Lang-Level Distance: 0.0304
+    Noun-Level Distance: 0.0460
+  Fully Non-Gendered vs. Minimal-Gendered:
+    Lang-Level Distance: 0.0828
+    Noun-Level Distance: 0.0600
+  Fully Non-Gendered vs. Tri-Gendered:
+    Lang-Level Distance: 0.0289
+    Noun-Level Distance: 0.0442
+  Minimal-Gendered vs. Tri-Gendered:
+    Lang-Level Distance: 0.0779
+    Noun-Level Distance: 0.0576
+  Tri-Gendered vs. Tri-Gendered:
+    Lang-Level Distance: 0.0300
+    Noun-Level Distance: 0.0448
+
+Cohen's d Effect Size Analysis (Top 5):
+  Minimal-Gendered vs. Tri-Gendered: d = 2.3906 (Large effect)
+    Cross-system mean: 0.0779, Within-system mean: 0.0300
+    Difference: 0.0479
+
+  Fully Non-Gendered vs. Minimal-Gendered: d = 2.3239 (Large effect)
+    Cross-system mean: 0.0828, Within-system mean: 0.0304
+    Difference: 0.0524
+
+  Dual-Gendered vs. Minimal-Gendered: d = 2.1208 (Large effect)
+    Cross-system mean: 0.0748, Within-system mean: 0.0342
+    Difference: 0.0406
+
+  Dual-Gendered vs. Tri-Gendered: d = 0.1870 (Negligible effect)
+    Cross-system mean: 0.0296, Within-system mean: 0.0334
+    Difference: -0.0038
+
+  Dual-Gendered vs. Fully Non-Gendered: d = 0.0696 (Negligible effect)
+    Cross-system mean: 0.0315, Within-system mean: 0.0330
+    Difference: -0.0015
+
+
+Eta-Squared Effect Size Analysis:
+  Language-level: 1.0000 (Large effect)
+  Noun-level: 1.0000 (Large effect)
+
+Significant Gender System Differences (p < 0.05):
+  Dual-Gendered vs. Minimal-Gendered: p = 0.0000
+  Fully Non-Gendered vs. Minimal-Gendered: p = 0.0000
+  Minimal-Gendered vs. Tri-Gendered: p = 0.0010
