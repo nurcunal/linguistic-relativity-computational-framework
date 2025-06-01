@@ -1,0 +1,72 @@
+{
+  "language": "SW # Swahili",
+  "linguistic_family": "Niger-Congo",
+  "linguistic_subfamily": "Bantu",
+  "sample_size": 36,
+  "response_statistics": {
+    "total_responses": 36,
+    "unique_responses": 15,
+    "response_entropy": 3.7562068606787946,
+    "most_frequent_response": "Fear",
+    "response_frequency_distribution": {
+      "Fear": 0.1388888888888889,
+      "Curious": 0.08333333333333333,
+      "Threatened": 0.08333333333333333,
+      "Intimidating": 0.08333333333333333,
+      "Playful": 0.08333333333333333,
+      "Alarmed": 0.08333333333333333,
+      "Beautiful": 0.08333333333333333,
+      "Awe": 0.08333333333333333,
+      "Amusing": 0.05555555555555555,
+      "Startling": 0.05555555555555555,
+      "Friendliness": 0.05555555555555555,
+      "Caution": 0.027777777777777776,
+      "Respect": 0.027777777777777776,
+      "Threatening": 0.027777777777777776,
+      "Peaceful": 0.027777777777777776
+    },
+    "response_consistency": 0.8888888888888888,
+    "lexical_diversity": 0.4166666666666667
+  },
+  "cognitive_patterns": {
+    "semantic_clustering": {
+      "emotion_words": 0.0,
+      "color_words": 0.0,
+      "spatial_words": 0.0,
+      "quantity_words": 0.0
+    },
+    "response_length_statistics": {
+      "mean_length": 1.0,
+      "std_length": 0.0,
+      "min_length": 1,
+      "max_length": 1,
+      "median_length": 1.0
+    },
+    "code_switching_frequency": 0.0,
+    "cultural_specificity_markers": {
+      "formal_markers": 0.0,
+      "informal_markers": 0.0,
+      "cultural_concepts": 0.027777777777777776
+    }
+  },
+  "statistical_profile": {
+    "descriptive_statistics": {
+      "mean_response_code": 6.416666666666667,
+      "std_response_code": 4.125631264828854,
+      "skewness": 0.1488223441795465,
+      "kurtosis": -1.1611806161944906
+    },
+    "distribution_tests": {
+      "shapiro_wilk": {
+        "statistic": 0.9526385632515424,
+        "p_value": 0.1266145539709302,
+        "is_normal": true
+      },
+      "interpretation": "Normal distribution"
+    },
+    "variance_analysis": {
+      "total_variance": 17.02083333333333,
+      "explained_variance_ratio": 0.0
+    }
+  }
+}

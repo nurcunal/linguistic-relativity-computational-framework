@@ -1,0 +1,150 @@
+ENHANCED STATISTICAL RESULTS SUMMARY
+============================================================
+
+TRADITIONAL STATISTICAL TESTS
+----------------------------------------
+Kruskal-Wallis Test (Overall Language Differences):
+  H-statistic: 1.228
+  p-value: 1.000000
+  Significant: No
+  Interpretation: No significant language group differences in response distribution
+
+Chi-Square Tests:
+  chi2_Language_vs_PredictedEmotion:
+    Chi2-statistic: 1.589
+    p-value: 1.000000
+    Significant: No
+
+MULTIPLE COMPARISONS CORRECTION
+----------------------------------------
+Bonferroni Correction:
+  Tests corrected: 277
+  Significant after correction: 0
+Benjamini-Hochberg (FDR) Correction:
+  Tests corrected: 277
+  Significant after correction: 0
+
+POWER ANALYSIS
+----------------------------------------
+Current Power (pairwise): 0.396
+Current Power (ANOVA): anova_power unavailable
+Required N for 80% power: 64
+Bonferroni corrected power: 0.016
+Number of comparisons: 276
+Interpretation: Current study is severely underpowered for detecting medium effects; After multiple comparisons correction, power is severely reduced; Large number of comparisons (276) increases multiple testing burden
+
+MIXED EFFECTS ANALYSIS
+----------------------------------------
+Mixed effects analysis error: Mixed effects analysis failed: endog has evaluated to an array with multiple columns that has shape (576, 2). This occurs when the variable converted to endog is non-numeric (e.g., bool or str).
+
+BAYESIAN ANALYSIS
+----------------------------------------
+Bayesian analysis error: PyMC not available for Bayesian analysis
+
+BOOTSTRAP ANALYSIS
+----------------------------------------
+Bootstrap confidence intervals by language:
+  AR # Arabic:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  BN # Bengali:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  DE # German:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  ES # Spanish:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  FA # Persian:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  FR # French:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  GA # Irish:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  HE # Hebrew:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  HI # Hindi:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  IT # Italian:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  JA # Japanese:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  KO # Korean:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  LV # Latvian:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  PL # Polish:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  PS # Pashto:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  PT # Portuguese:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  RU # Russian:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  SQ # Albanian:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  SW # Swahili:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  TH # Thai:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  TR # Turkish:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  UR # Urdu:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  VI # Vietnamese:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+  ZH # Mandarin:
+    Bootstrap mean: 0.171
+    Bootstrap std: 0.078
+    95% CI: [0.042, 0.375]
+
+PERMUTATION TESTS
+----------------------------------------
+Total pairwise tests: 276
+Significant tests: 0
+
+============================================================
+Note: Detailed results are saved in separate JSON files.

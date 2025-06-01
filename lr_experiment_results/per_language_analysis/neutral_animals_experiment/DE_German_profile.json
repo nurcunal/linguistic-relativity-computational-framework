@@ -1,0 +1,73 @@
+{
+  "language": "DE # German",
+  "linguistic_family": "Indo-European",
+  "linguistic_subfamily": "Germanic",
+  "sample_size": 36,
+  "response_statistics": {
+    "total_responses": 36,
+    "unique_responses": 16,
+    "response_entropy": 3.8327315133723996,
+    "most_frequent_response": "Fear",
+    "response_frequency_distribution": {
+      "Fear": 0.1388888888888889,
+      "Threatened": 0.08333333333333333,
+      "Intimidating": 0.08333333333333333,
+      "Playful": 0.08333333333333333,
+      "Alarmed": 0.08333333333333333,
+      "Beautiful": 0.08333333333333333,
+      "Awe": 0.08333333333333333,
+      "Curious": 0.05555555555555555,
+      "Amusing": 0.05555555555555555,
+      "Startling": 0.05555555555555555,
+      "Friendliness": 0.05555555555555555,
+      "Caution": 0.027777777777777776,
+      "Respect": 0.027777777777777776,
+      "Threatening": 0.027777777777777776,
+      "Suspicious": 0.027777777777777776,
+      "Peaceful": 0.027777777777777776
+    },
+    "response_consistency": 0.8611111111111112,
+    "lexical_diversity": 0.4444444444444444
+  },
+  "cognitive_patterns": {
+    "semantic_clustering": {
+      "emotion_words": 0.0,
+      "color_words": 0.0,
+      "spatial_words": 0.0,
+      "quantity_words": 0.0
+    },
+    "response_length_statistics": {
+      "mean_length": 1.0,
+      "std_length": 0.0,
+      "min_length": 1,
+      "max_length": 1,
+      "median_length": 1.0
+    },
+    "code_switching_frequency": 0.0,
+    "cultural_specificity_markers": {
+      "formal_markers": 0.0,
+      "informal_markers": 0.0,
+      "cultural_concepts": 0.027777777777777776
+    }
+  },
+  "statistical_profile": {
+    "descriptive_statistics": {
+      "mean_response_code": 6.75,
+      "std_response_code": 4.437059837324712,
+      "skewness": 0.18872885230909914,
+      "kurtosis": -1.1525713813951128
+    },
+    "distribution_tests": {
+      "shapiro_wilk": {
+        "statistic": 0.9513184445591802,
+        "p_value": 0.115064287392681,
+        "is_normal": true
+      },
+      "interpretation": "Normal distribution"
+    },
+    "variance_analysis": {
+      "total_variance": 19.6875,
+      "explained_variance_ratio": 0.0
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "language": "RU # Russian",
+  "linguistic_family": "Indo-European",
+  "linguistic_subfamily": "Slavic",
+  "sample_size": 12,
+  "response_statistics": {
+    "total_responses": 12,
+    "unique_responses": 6,
+    "response_entropy": 2.2212518351388493,
+    "most_frequent_response": "a",
+    "response_frequency_distribution": {
+      "a": 0.4166666666666667,
+      "b": 0.25,
+      "Go down twice, right twice, down once, right once.": 0.08333333333333333,
+      "Your Answer: a": 0.08333333333333333,
+      "Start at S, go right, down, right, down, right to reach E.": 0.08333333333333333,
+      "Down, right, down, right, right, up, right, down.": 0.08333333333333333
+    },
+    "response_consistency": 0.5833333333333334,
+    "lexical_diversity": 0.5
+  },
+  "cognitive_patterns": {
+    "semantic_clustering": {
+      "emotion_words": 0.0,
+      "color_words": 0.0,
+      "spatial_words": 0.25,
+      "quantity_words": 0.0
+    },
+    "response_length_statistics": {
+      "mean_length": 3.3333333333333335,
+      "std_length": 3.7932688922470144,
+      "min_length": 1,
+      "max_length": 12,
+      "median_length": 1.0
+    },
+    "code_switching_frequency": 0.0,
+    "cultural_specificity_markers": {
+      "formal_markers": 0.0,
+      "informal_markers": 0.0,
+      "cultural_concepts": 0.0
+    }
+  },
+  "statistical_profile": {
+    "descriptive_statistics": {
+      "mean_response_code": 3.4166666666666665,
+      "std_response_code": 1.552328000849763,
+      "skewness": -0.8605481619637855,
+      "kurtosis": -0.6621018431623322
+    },
+    "distribution_tests": {
+      "shapiro_wilk": {
+        "statistic": 0.840503839517761,
+        "p_value": 0.0280808431765973,
+        "is_normal": false
+      },
+      "interpretation": "Non-normal distribution"
+    },
+    "variance_analysis": {
+      "total_variance": 2.4097222222222223,
+      "explained_variance_ratio": 0.0
+    }
+  }
+}

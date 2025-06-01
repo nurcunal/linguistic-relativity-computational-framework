@@ -1,0 +1,112 @@
+{
+  "language": "UR # Urdu",
+  "linguistic_family": "Indo-European",
+  "linguistic_subfamily": "Indo-Iranian",
+  "sample_size": 120,
+  "response_statistics": {
+    "total_responses": 120,
+    "unique_responses": 55,
+    "response_entropy": 5.372749284104717,
+    "most_frequent_response": "Your Answer: blue",
+    "response_frequency_distribution": {
+      "Your Answer: calm": 0.06666666666666667,
+      "Your Answer: blue": 0.06666666666666667,
+      "Your Answer: Blue": 0.058333333333333334,
+      "Blue": 0.058333333333333334,
+      "calm": 0.05,
+      "Your Answer: red": 0.05,
+      "Your Answer: yellow": 0.03333333333333333,
+      "Your Answer: happy": 0.03333333333333333,
+      "indigo": 0.025,
+      "Your Answer: Yellow": 0.025,
+      "Your Answer: Red": 0.025,
+      "Your Answer: white": 0.025,
+      "Your Answer: green": 0.025,
+      "Red": 0.016666666666666666,
+      "White": 0.016666666666666666,
+      "[#4B0082,#800080]": 0.016666666666666666,
+      "[#008000,#00FF00]": 0.016666666666666666,
+      "red": 0.016666666666666666,
+      "Green": 0.016666666666666666,
+      "yellow": 0.016666666666666666,
+      "Your Answer: angry": 0.016666666666666666,
+      "violet": 0.016666666666666666,
+      "Your Answer: orange": 0.016666666666666666,
+      "green": 0.016666666666666666,
+      "Your Answer: White": 0.016666666666666666,
+      "white": 0.016666666666666666,
+      "Orange": 0.008333333333333333,
+      "[FFA500, FFBF00]": 0.008333333333333333,
+      "Your Answer: Green": 0.008333333333333333,
+      "[ #FF8000, #FFA500 ]": 0.008333333333333333,
+      "Your Your Answer: calm": 0.008333333333333333,
+      "[F0F0F0,FFFFFF]": 0.008333333333333333,
+      "Your Answer: violet": 0.008333333333333333,
+      "Your Answer: [ #FFD700, #FFFF00 ]": 0.008333333333333333,
+      "[#0000FF, #00B7EB]": 0.008333333333333333,
+      "[#FFFF00, #FFFFE0]": 0.008333333333333333,
+      "[#FF4500, #FFA500]": 0.008333333333333333,
+      "[#FF0000, #FF4040]": 0.008333333333333333,
+      "[#9400D3, #EE82EE]": 0.008333333333333333,
+      "[ #006400, #00FF00 ]": 0.008333333333333333,
+      "Yellow": 0.008333333333333333,
+      "[#000080, #87CEEB]": 0.008333333333333333,
+      "[#4B0082,#9370DB]": 0.008333333333333333,
+      "[#F0F0F0, #FFFFFF]": 0.008333333333333333,
+      "Happy": 0.008333333333333333,
+      "Angry": 0.008333333333333333,
+      "[#FFFFFF,#FFFFFF]": 0.008333333333333333,
+      "[#800080,#EE82EE]": 0.008333333333333333,
+      "[4B0082, 6A0DAD]": 0.008333333333333333,
+      "[#000080,#ADD8E6]": 0.008333333333333333,
+      "blue": 0.008333333333333333,
+      "[FF0000, FF4040]": 0.008333333333333333,
+      "[#FFFF00,#FFFF66]": 0.008333333333333333,
+      "[ #FF0000, #800000 ]": 0.008333333333333333,
+      "happy": 0.008333333333333333
+    },
+    "response_consistency": 0.5,
+    "lexical_diversity": 0.19540229885057472
+  },
+  "cognitive_patterns": {
+    "semantic_clustering": {
+      "emotion_words": 0.2,
+      "color_words": 0.55,
+      "spatial_words": 0.0,
+      "quantity_words": 0.0
+    },
+    "response_length_statistics": {
+      "mean_length": 2.175,
+      "std_length": 1.0540596124824566,
+      "min_length": 1,
+      "max_length": 6,
+      "median_length": 3.0
+    },
+    "code_switching_frequency": 0.0,
+    "cultural_specificity_markers": {
+      "formal_markers": 0.0,
+      "informal_markers": 0.0,
+      "cultural_concepts": 0.0
+    }
+  },
+  "statistical_profile": {
+    "descriptive_statistics": {
+      "mean_response_code": 23.45,
+      "std_response_code": 15.922651579851054,
+      "skewness": 0.4823024849103793,
+      "kurtosis": -1.010970471138212
+    },
+    "distribution_tests": {
+      "shapiro_wilk": {
+        "statistic": 0.9203828488024048,
+        "p_value": 2.5347023984109855e-06,
+        "is_normal": false
+      },
+      "interpretation": "Non-normal distribution"
+    },
+    "variance_analysis": {
+      "total_variance": 253.5308333333333,
+      "explained_variance_ratio": 0.40428438715093246
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "language": "PT # Portuguese",
+  "linguistic_family": "Indo-European",
+  "linguistic_subfamily": "Romance",
+  "sample_size": 12,
+  "response_statistics": {
+    "total_responses": 12,
+    "unique_responses": 7,
+    "response_entropy": 2.5220552078643137,
+    "most_frequent_response": "a",
+    "response_frequency_distribution": {
+      "a": 0.3333333333333333,
+      "b": 0.25,
+      "Go down twice, right twice, down once, right to E.": 0.08333333333333333,
+      "Your Answer: a": 0.08333333333333333,
+      "Start at S, go right, down, right, down, right to reach E.": 0.08333333333333333,
+      "d": 0.08333333333333333,
+      "Start, down, right, up, right, down, right.": 0.08333333333333333
+    },
+    "response_consistency": 0.49999999999999994,
+    "lexical_diversity": 0.525
+  },
+  "cognitive_patterns": {
+    "semantic_clustering": {
+      "emotion_words": 0.0,
+      "color_words": 0.0,
+      "spatial_words": 0.25,
+      "quantity_words": 0.0
+    },
+    "response_length_statistics": {
+      "mean_length": 3.3333333333333335,
+      "std_length": 3.8369548110737797,
+      "min_length": 1,
+      "max_length": 12,
+      "median_length": 1.0
+    },
+    "code_switching_frequency": 0.0,
+    "cultural_specificity_markers": {
+      "formal_markers": 0.0,
+      "informal_markers": 0.0,
+      "cultural_concepts": 0.0
+    }
+  },
+  "statistical_profile": {
+    "descriptive_statistics": {
+      "mean_response_code": 3.5833333333333335,
+      "std_response_code": 1.70579079087156,
+      "skewness": -0.6555156407966803,
+      "kurtosis": -0.8320755796180994
+    },
+    "distribution_tests": {
+      "shapiro_wilk": {
+        "statistic": 0.9098057437159125,
+        "p_value": 0.2121277807343899,
+        "is_normal": true
+      },
+      "interpretation": "Normal distribution"
+    },
+    "variance_analysis": {
+      "total_variance": 2.909722222222222,
+      "explained_variance_ratio": 0.035416666666666666
+    }
+  }
+}

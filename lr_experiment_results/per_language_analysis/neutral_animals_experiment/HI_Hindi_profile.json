@@ -1,0 +1,72 @@
+{
+  "language": "HI # Hindi",
+  "linguistic_family": "Indo-European",
+  "linguistic_subfamily": "Indo-Iranian",
+  "sample_size": 36,
+  "response_statistics": {
+    "total_responses": 36,
+    "unique_responses": 15,
+    "response_entropy": 3.724394443241943,
+    "most_frequent_response": "Fear",
+    "response_frequency_distribution": {
+      "Fear": 0.16666666666666666,
+      "Threatened": 0.08333333333333333,
+      "Playful": 0.08333333333333333,
+      "Amusing": 0.08333333333333333,
+      "Alarmed": 0.08333333333333333,
+      "Beautiful": 0.08333333333333333,
+      "Awe": 0.08333333333333333,
+      "Curious": 0.05555555555555555,
+      "Caution": 0.05555555555555555,
+      "Intimidating": 0.05555555555555555,
+      "Startling": 0.05555555555555555,
+      "Reassuring": 0.027777777777777776,
+      "Suspicious": 0.027777777777777776,
+      "Friendliness": 0.027777777777777776,
+      "Peaceful": 0.027777777777777776
+    },
+    "response_consistency": 0.888888888888889,
+    "lexical_diversity": 0.4166666666666667
+  },
+  "cognitive_patterns": {
+    "semantic_clustering": {
+      "emotion_words": 0.0,
+      "color_words": 0.0,
+      "spatial_words": 0.0,
+      "quantity_words": 0.0
+    },
+    "response_length_statistics": {
+      "mean_length": 1.0,
+      "std_length": 0.0,
+      "min_length": 1,
+      "max_length": 1,
+      "median_length": 1.0
+    },
+    "code_switching_frequency": 0.0,
+    "cultural_specificity_markers": {
+      "formal_markers": 0.0,
+      "informal_markers": 0.0,
+      "cultural_concepts": 0.0
+    }
+  },
+  "statistical_profile": {
+    "descriptive_statistics": {
+      "mean_response_code": 6.222222222222222,
+      "std_response_code": 4.3147750753216885,
+      "skewness": 0.30191844298209625,
+      "kurtosis": -1.1374218944015522
+    },
+    "distribution_tests": {
+      "shapiro_wilk": {
+        "statistic": 0.9389842938369708,
+        "p_value": 0.04723770852446486,
+        "is_normal": false
+      },
+      "interpretation": "Non-normal distribution"
+    },
+    "variance_analysis": {
+      "total_variance": 18.617283950617285,
+      "explained_variance_ratio": 0.0
+    }
+  }
+}

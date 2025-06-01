@@ -1,0 +1,64 @@
+{
+  "language": "ES # Spanish",
+  "linguistic_family": "Indo-European",
+  "linguistic_subfamily": "Romance",
+  "sample_size": 12,
+  "response_statistics": {
+    "total_responses": 12,
+    "unique_responses": 7,
+    "response_entropy": 2.5220552078643137,
+    "most_frequent_response": "b",
+    "response_frequency_distribution": {
+      "b": 0.3333333333333333,
+      "a": 0.25,
+      "Go down twice, right twice, down once, right to E.": 0.08333333333333333,
+      "Your Answer: a": 0.08333333333333333,
+      "Start at S, go right, down, right, down, right to reach E.": 0.08333333333333333,
+      "d": 0.08333333333333333,
+      "Go down, right, down, right, up, right, down, right to the end.": 0.08333333333333333
+    },
+    "response_consistency": 0.5833333333333334,
+    "lexical_diversity": 0.4666666666666667
+  },
+  "cognitive_patterns": {
+    "semantic_clustering": {
+      "emotion_words": 0.0,
+      "color_words": 0.0,
+      "spatial_words": 0.25,
+      "quantity_words": 0.0
+    },
+    "response_length_statistics": {
+      "mean_length": 3.75,
+      "std_length": 4.437059837324712,
+      "min_length": 1,
+      "max_length": 12,
+      "median_length": 1.0
+    },
+    "code_switching_frequency": 0.0,
+    "cultural_specificity_markers": {
+      "formal_markers": 0.0,
+      "informal_markers": 0.0,
+      "cultural_concepts": 0.0
+    }
+  },
+  "statistical_profile": {
+    "descriptive_statistics": {
+      "mean_response_code": 3.6666666666666665,
+      "std_response_code": 1.7480147469502527,
+      "skewness": -0.6968248092704609,
+      "kurtosis": -0.8883333333333341
+    },
+    "distribution_tests": {
+      "shapiro_wilk": {
+        "statistic": 0.8950271809098418,
+        "p_value": 0.13682213645721072,
+        "is_normal": true
+      },
+      "interpretation": "Normal distribution"
+    },
+    "variance_analysis": {
+      "total_variance": 3.055555555555556,
+      "explained_variance_ratio": 0.006004901960784312
+    }
+  }
+}

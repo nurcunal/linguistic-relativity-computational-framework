@@ -1,0 +1,83 @@
+{
+  "language": "VI # Vietnamese",
+  "linguistic_family": "Austro-Asiatic",
+  "linguistic_subfamily": "Vietic",
+  "sample_size": 24,
+  "response_statistics": {
+    "total_responses": 24,
+    "unique_responses": 3,
+    "response_entropy": 1.2475562484854572,
+    "most_frequent_response": "angry",
+    "response_frequency_distribution": {
+      "angry": 0.5625,
+      "neutral": 0.375,
+      "surprised": 0.0625
+    },
+    "response_consistency": 0.0,
+    "lexical_diversity": 0.1875
+  },
+  "cognitive_patterns": {
+    "semantic_clustering": {
+      "emotion_words": 0.6666666666666666,
+      "color_words": 0.0,
+      "spatial_words": 0.0,
+      "quantity_words": 0.0
+    },
+    "response_length_statistics": {
+      "mean_length": 1.0,
+      "std_length": 0.0,
+      "min_length": 1,
+      "max_length": 1,
+      "median_length": 1.0
+    },
+    "code_switching_frequency": 0.0,
+    "cultural_specificity_markers": {
+      "formal_markers": 0.0,
+      "informal_markers": 0.0,
+      "cultural_concepts": 0.0
+    }
+  },
+  "statistical_profile": {
+    "descriptive_statistics": {
+      "mean_response_code": 0.0,
+      "std_response_code": 0.8660254037844386,
+      "skewness": 0.36109627224972485,
+      "kurtosis": -0.9591049382716057
+    },
+    "distribution_tests": {
+      "shapiro_wilk": {
+        "statistic": 0.8534215575700391,
+        "p_value": 0.0025319766252793526,
+        "is_normal": false
+      },
+      "interpretation": "Non-normal distribution"
+    },
+    "variance_analysis": {
+      "total_variance": 0.75,
+      "explained_variance_ratio": 0.0
+    }
+  },
+  "accuracy_analysis": {
+    "overall_accuracy": 0.16666666666666666,
+    "accuracy_variance": 0.14492753623188406,
+    "confidence_interval_95": {
+      "lower": 0.005913902640110519,
+      "upper": 0.32741943069322277,
+      "margin_of_error": 0.16075276402655614
+    },
+    "item_wise_accuracy": null,
+    "error_patterns": {
+      "error_rate": 0.8333333333333334,
+      "error_distribution_by_item": {},
+      "common_incorrect_responses": {
+        "angry": 7,
+        "neutral": 4,
+        "surprised": 1
+      }
+    },
+    "learning_curve_analysis": {
+      "overall_trend": "declining",
+      "trend_correlation": -0.3553320553583892
+    }
+  }
+}

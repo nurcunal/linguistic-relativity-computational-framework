@@ -1,0 +1,121 @@
+{
+  "language": "VI # Vietnamese",
+  "linguistic_family": "Austro-Asiatic",
+  "linguistic_subfamily": "Vietic",
+  "sample_size": 144,
+  "response_statistics": {
+    "total_responses": 144,
+    "unique_responses": 64,
+    "response_entropy": 5.863283325061626,
+    "most_frequent_response": "flag",
+    "response_frequency_distribution": {
+      "flag": 0.041666666666666664,
+      "courage": 0.020833333333333332,
+      "grass": 0.020833333333333332,
+      "moon": 0.020833333333333332,
+      "peacock": 0.020833333333333332,
+      "elephant": 0.020833333333333332,
+      "dog": 0.020833333333333332,
+      "mountain": 0.020833333333333332,
+      "forest": 0.020833333333333332,
+      "cactus": 0.020833333333333332,
+      "brother": 0.020833333333333332,
+      "book": 0.020833333333333332,
+      "father": 0.020833333333333332,
+      "stranger": 0.020833333333333332,
+      "above": 0.020833333333333332,
+      "morning": 0.020833333333333332,
+      "second": 0.020833333333333332,
+      "century": 0.020833333333333332,
+      "bridge": 0.020833333333333332,
+      "rose": 0.020833333333333332,
+      "farmer": 0.020833333333333332,
+      "fish": 0.020833333333333332,
+      "freedom": 0.020833333333333332,
+      "bell": 0.020833333333333332,
+      "teacher": 0.020833333333333332,
+      "volcano": 0.020833333333333332,
+      "fog": 0.020833333333333332,
+      "soup": 0.020833333333333332,
+      "painting": 0.020833333333333332,
+      "rice": 0.020833333333333332,
+      "soldier": 0.020833333333333332,
+      "lake": 0.013888888888888888,
+      "inside": 0.013888888888888888,
+      "night": 0.013888888888888888,
+      "outside": 0.013888888888888888,
+      "monkey": 0.013888888888888888,
+      "sword": 0.013888888888888888,
+      "lettuce": 0.013888888888888888,
+      "rain": 0.013888888888888888,
+      "artist": 0.013888888888888888,
+      "wisdom": 0.013888888888888888,
+      "potato": 0.013888888888888888,
+      "lightning": 0.013888888888888888,
+      "honesty": 0.013888888888888888,
+      "rival": 0.013888888888888888,
+      "east": 0.013888888888888888,
+      "tomato": 0.006944444444444444,
+      "village": 0.006944444444444444,
+      "writer": 0.006944444444444444,
+      "earthquake": 0.006944444444444444,
+      "apple": 0.006944444444444444,
+      "back": 0.006944444444444444,
+      "north": 0.006944444444444444,
+      "enemy": 0.006944444444444444,
+      "west": 0.006944444444444444,
+      "desert": 0.006944444444444444,
+      "dolphin": 0.006944444444444444,
+      "rainbow": 0.006944444444444444,
+      "peace": 0.006944444444444444,
+      "justice": 0.006944444444444444,
+      "island": 0.006944444444444444,
+      "lock": 0.006944444444444444,
+      "evening": 0.006944444444444444,
+      "river": 0.006944444444444444
+    },
+    "response_consistency": 0.875,
+    "lexical_diversity": 0.4444444444444444
+  },
+  "cognitive_patterns": {
+    "semantic_clustering": {
+      "emotion_words": 0.0,
+      "color_words": 0.0,
+      "spatial_words": 0.04861111111111111,
+      "quantity_words": 0.013888888888888888
+    },
+    "response_length_statistics": {
+      "mean_length": 1.0,
+      "std_length": 0.0,
+      "min_length": 1,
+      "max_length": 1,
+      "median_length": 1.0
+    },
+    "code_switching_frequency": 0.0,
+    "cultural_specificity_markers": {
+      "formal_markers": 0.0,
+      "informal_markers": 0.020833333333333332,
+      "cultural_concepts": 0.0
+    }
+  },
+  "statistical_profile": {
+    "descriptive_statistics": {
+      "mean_response_code": 30.493055555555557,
+      "std_response_code": 18.147924784859384,
+      "skewness": 0.061509847510298456,
+      "kurtosis": -1.2350928508916132
+    },
+    "distribution_tests": {
+      "shapiro_wilk": {
+        "statistic": 0.9521466050071568,
+        "p_value": 7.083187658053395e-05,
+        "is_normal": false
+      },
+      "interpretation": "Non-normal distribution"
+    },
+    "variance_analysis": {
+      "total_variance": 329.34717399691357,
+      "explained_variance_ratio": 0.0016649491180618684
+    }
+  }
+}

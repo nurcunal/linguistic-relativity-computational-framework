@@ -1,0 +1,109 @@
+{
+  "language": "RU # Russian",
+  "linguistic_family": "Indo-European",
+  "linguistic_subfamily": "Slavic",
+  "sample_size": 120,
+  "response_statistics": {
+    "total_responses": 120,
+    "unique_responses": 52,
+    "response_entropy": 5.198078706969961,
+    "most_frequent_response": "Your Answer: blue",
+    "response_frequency_distribution": {
+      "Your Answer: blue": 0.10833333333333334,
+      "calm": 0.06666666666666667,
+      "Your Answer: red": 0.058333333333333334,
+      "Your Answer: calm": 0.058333333333333334,
+      "Your Answer: yellow": 0.05,
+      "Your Answer: white": 0.041666666666666664,
+      "happy": 0.03333333333333333,
+      "Blue": 0.03333333333333333,
+      "blue": 0.03333333333333333,
+      "Your Answer: Blue": 0.025,
+      "Your Answer: green": 0.025,
+      "[#008000,#00FF00]": 0.025,
+      "indigo": 0.025,
+      "violet": 0.025,
+      "White": 0.025,
+      "Your Answer: White": 0.016666666666666666,
+      "yellow": 0.016666666666666666,
+      "Red": 0.016666666666666666,
+      "red": 0.016666666666666666,
+      "angry": 0.016666666666666666,
+      "Your Answer: happy": 0.016666666666666666,
+      "[#4B0082,#800080]": 0.016666666666666666,
+      "[#FF0000, #FF4040]": 0.008333333333333333,
+      "[#FFFFFF,#FFFFFF]": 0.008333333333333333,
+      "[#FF4500, #FFA500]": 0.008333333333333333,
+      "Yellow": 0.008333333333333333,
+      "[#FFFF00, #FFFFE0]": 0.008333333333333333,
+      "Green": 0.008333333333333333,
+      "[#0000FF,#00B7EB]": 0.008333333333333333,
+      "[F0F0F0,FFFFFF]": 0.008333333333333333,
+      "Your Answer: Red": 0.008333333333333333,
+      "Your Answer: orange": 0.008333333333333333,
+      "[#FFFF00,#FFFF66]": 0.008333333333333333,
+      "white": 0.008333333333333333,
+      "Your Answer: angry": 0.008333333333333333,
+      "orange": 0.008333333333333333,
+      "[ #FF7F00, #FFA500 ]": 0.008333333333333333,
+      "Your Answer: [#FFD700,#FFFF00]": 0.008333333333333333,
+      "Your Answer: [#00008B, #87CEEB]": 0.008333333333333333,
+      "[#4B0082,#9370DB]": 0.008333333333333333,
+      "[ #4B0082, #EE82EE ]": 0.008333333333333333,
+      "[#F0F0F0,#FFFFFF]": 0.008333333333333333,
+      "Your Answer: Green": 0.008333333333333333,
+      "[#800080,#EE82EE]": 0.008333333333333333,
+      "[FF0000, FF6347]": 0.008333333333333333,
+      "Orange": 0.008333333333333333,
+      "[FFA500, FF8C00]": 0.008333333333333333,
+      "[ #8B0000, #FF0000 ]": 0.008333333333333333,
+      "green": 0.008333333333333333,
+      "[#000080,#ADD8E6]": 0.008333333333333333,
+      "[4B0082, 6A5ACD]": 0.008333333333333333,
+      "Your Answer: Yellow": 0.008333333333333333
+    },
+    "response_consistency": 0.55,
+    "lexical_diversity": 0.18699186991869918
+  },
+  "cognitive_patterns": {
+    "semantic_clustering": {
+      "emotion_words": 0.2,
+      "color_words": 0.55,
+      "spatial_words": 0.0,
+      "quantity_words": 0.0
+    },
+    "response_length_statistics": {
+      "mean_length": 2.05,
+      "std_length": 1.0234744745229358,
+      "min_length": 1,
+      "max_length": 4,
+      "median_length": 2.0
+    },
+    "code_switching_frequency": 0.0,
+    "cultural_specificity_markers": {
+      "formal_markers": 0.0,
+      "informal_markers": 0.0,
+      "cultural_concepts": 0.0
+    }
+  },
+  "statistical_profile": {
+    "descriptive_statistics": {
+      "mean_response_code": 24.483333333333334,
+      "std_response_code": 14.841935707836615,
+      "skewness": 0.24733557528184832,
+      "kurtosis": -1.2045779935205683
+    },
+    "distribution_tests": {
+      "shapiro_wilk": {
+        "statistic": 0.9298456883942511,
+        "p_value": 9.411619073833111e-06,
+        "is_normal": false
+      },
+      "interpretation": "Non-normal distribution"
+    },
+    "variance_analysis": {
+      "total_variance": 220.28305555555556,
+      "explained_variance_ratio": 0.2299229632620397
+    }
+  }
+}

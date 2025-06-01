@@ -1,0 +1,64 @@
+{
+  "language": "ZH # Mandarin",
+  "linguistic_family": "Sino-Tibetan",
+  "linguistic_subfamily": "Chinese",
+  "sample_size": 12,
+  "response_statistics": {
+    "total_responses": 12,
+    "unique_responses": 7,
+    "response_entropy": 2.6258145826840247,
+    "most_frequent_response": "a",
+    "response_frequency_distribution": {
+      "b": 0.25,
+      "a": 0.25,
+      "Your Answer: a": 0.16666666666666666,
+      "c": 0.08333333333333333,
+      "Go down, down, right, right, down, right.": 0.08333333333333333,
+      "Start at S, go right, down, right, down, right to reach E.": 0.08333333333333333,
+      "Go down, right, down, right, up, right, down, right to the end.": 0.08333333333333333
+    },
+    "response_consistency": 0.49999999999999994,
+    "lexical_diversity": 0.4318181818181818
+  },
+  "cognitive_patterns": {
+    "semantic_clustering": {
+      "emotion_words": 0.0,
+      "color_words": 0.0,
+      "spatial_words": 0.25,
+      "quantity_words": 0.0
+    },
+    "response_length_statistics": {
+      "mean_length": 3.6666666666666665,
+      "std_length": 4.089281382128433,
+      "min_length": 1,
+      "max_length": 12,
+      "median_length": 1.0
+    },
+    "code_switching_frequency": 0.0,
+    "cultural_specificity_markers": {
+      "formal_markers": 0.0,
+      "informal_markers": 0.0,
+      "cultural_concepts": 0.0
+    }
+  },
+  "statistical_profile": {
+    "descriptive_statistics": {
+      "mean_response_code": 3.5,
+      "std_response_code": 1.707825127659933,
+      "skewness": -0.5285769442624515,
+      "kurtosis": -0.9524659863945586
+    },
+    "distribution_tests": {
+      "shapiro_wilk": {
+        "statistic": 0.9376475228579292,
+        "p_value": 0.4682109883970112,
+        "is_normal": true
+      },
+      "interpretation": "Normal distribution"
+    },
+    "variance_analysis": {
+      "total_variance": 2.9166666666666665,
+      "explained_variance_ratio": 0.030806257521058953
+    }
+  }
+}
