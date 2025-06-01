@@ -1,0 +1,151 @@
+Noun Category Analysis:
+CosineDistance by NounCategory: ANOVA p-value = 0.0000. Significant difference found across noun categories.
+Significant pairs (57):
+  Abstract Concepts vs Cultural Artifacts: diff=-0.0102, p-adj=0.0000, Cohen's d=0.64 (medium effect)
+  Abstract Concepts vs Inanimate Objects: diff=-0.0022, p-adj=0.0040, Cohen's d=0.10 (negligible effect)
+  Abstract Concepts vs Neutral Animals: diff=-0.0109, p-adj=0.0000, Cohen's d=0.64 (medium effect)
+  Abstract Concepts vs Places: diff=-0.0033, p-adj=0.0000, Cohen's d=0.18 (negligible effect)
+  Abstract Concepts vs Plants: diff=-0.0139, p-adj=0.0000, Cohen's d=0.87 (large effect)
+  Abstract Concepts vs Social Relationships: diff=-0.0078, p-adj=0.0000, Cohen's d=0.47 (small effect)
+  Abstract Concepts vs Spatial Concepts: diff=0.0313, p-adj=0.0000, Cohen's d=-0.89 (large effect)
+  Abstract Concepts vs Time Concepts: diff=0.0052, p-adj=0.0000, Cohen's d=-0.23 (small effect)
+  Cultural Artifacts vs Environmental Phenomena: diff=0.0089, p-adj=0.0000, Cohen's d=-0.57 (medium effect)
+  Cultural Artifacts vs Food Items: diff=0.0087, p-adj=0.0000, Cohen's d=-0.50 (medium effect)
+  Cultural Artifacts vs Human Roles: diff=0.0118, p-adj=0.0000, Cohen's d=-0.76 (medium effect)
+  Cultural Artifacts vs Inanimate Objects: diff=0.0081, p-adj=0.0000, Cohen's d=-0.44 (small effect)
+  Cultural Artifacts vs Places: diff=0.0069, p-adj=0.0000, Cohen's d=-0.43 (small effect)
+  Cultural Artifacts vs Plants: diff=-0.0037, p-adj=0.0000, Cohen's d=0.28 (small effect)
+  Cultural Artifacts vs Social Relationships: diff=0.0024, p-adj=0.0006, Cohen's d=-0.17 (negligible effect)
+  Cultural Artifacts vs Spatial Concepts: diff=0.0415, p-adj=0.0000, Cohen's d=-1.22 (large effect)
+  Cultural Artifacts vs Time Concepts: diff=0.0154, p-adj=0.0000, Cohen's d=-0.77 (medium effect)
+  Environmental Phenomena vs Human Roles: diff=0.0029, p-adj=0.0000, Cohen's d=-0.16 (negligible effect)
+  Environmental Phenomena vs Neutral Animals: diff=-0.0095, p-adj=0.0000, Cohen's d=0.57 (medium effect)
+  Environmental Phenomena vs Places: diff=-0.0019, p-adj=0.0198, Cohen's d=0.11 (negligible effect)
+  Environmental Phenomena vs Plants: diff=-0.0125, p-adj=0.0000, Cohen's d=0.80 (large effect)
+  Environmental Phenomena vs Social Relationships: diff=-0.0065, p-adj=0.0000, Cohen's d=0.39 (small effect)
+  Environmental Phenomena vs Spatial Concepts: diff=0.0326, p-adj=0.0000, Cohen's d=-0.93 (large effect)
+  Environmental Phenomena vs Time Concepts: diff=0.0066, p-adj=0.0000, Cohen's d=-0.30 (small effect)
+  Food Items vs Human Roles: diff=0.0031, p-adj=0.0000, Cohen's d=-0.16 (negligible effect)
+  Food Items vs Neutral Animals: diff=-0.0093, p-adj=0.0000, Cohen's d=0.51 (medium effect)
+  Food Items vs Plants: diff=-0.0124, p-adj=0.0000, Cohen's d=0.72 (medium effect)
+  Food Items vs Social Relationships: diff=-0.0063, p-adj=0.0000, Cohen's d=0.35 (small effect)
+  Food Items vs Spatial Concepts: diff=0.0328, p-adj=0.0000, Cohen's d=-0.92 (large effect)
+  Food Items vs Time Concepts: diff=0.0067, p-adj=0.0000, Cohen's d=-0.29 (small effect)
+  Human Roles vs Inanimate Objects: diff=-0.0037, p-adj=0.0000, Cohen's d=0.18 (negligible effect)
+  Human Roles vs Neutral Animals: diff=-0.0124, p-adj=0.0000, Cohen's d=0.75 (medium effect)
+  Human Roles vs Places: diff=-0.0048, p-adj=0.0000, Cohen's d=0.27 (small effect)
+  Human Roles vs Plants: diff=-0.0154, p-adj=0.0000, Cohen's d=1.00 (large effect)
+  Human Roles vs Social Relationships: diff=-0.0093, p-adj=0.0000, Cohen's d=0.57 (medium effect)
+  Human Roles vs Spatial Concepts: diff=0.0298, p-adj=0.0000, Cohen's d=-0.85 (large effect)
+  Human Roles vs Time Concepts: diff=0.0037, p-adj=0.0000, Cohen's d=-0.17 (negligible effect)
+  Inanimate Objects vs Neutral Animals: diff=-0.0087, p-adj=0.0000, Cohen's d=0.45 (small effect)
+  Inanimate Objects vs Plants: diff=-0.0118, p-adj=0.0000, Cohen's d=0.64 (medium effect)
+  Inanimate Objects vs Social Relationships: diff=-0.0057, p-adj=0.0000, Cohen's d=0.30 (small effect)
+  Inanimate Objects vs Spatial Concepts: diff=0.0334, p-adj=0.0000, Cohen's d=-0.92 (large effect)
+  Inanimate Objects vs Time Concepts: diff=0.0073, p-adj=0.0000, Cohen's d=-0.30 (small effect)
+  Neutral Animals vs Places: diff=0.0076, p-adj=0.0000, Cohen's d=-0.45 (small effect)
+  Neutral Animals vs Plants: diff=-0.0030, p-adj=0.0000, Cohen's d=0.22 (small effect)
+  Neutral Animals vs Social Relationships: diff=0.0030, p-adj=0.0000, Cohen's d=-0.20 (negligible effect)
+  Neutral Animals vs Spatial Concepts: diff=0.0421, p-adj=0.0000, Cohen's d=-1.23 (large effect)
+  Neutral Animals vs Time Concepts: diff=0.0160, p-adj=0.0000, Cohen's d=-0.77 (medium effect)
+  Places vs Plants: diff=-0.0106, p-adj=0.0000, Cohen's d=0.66 (medium effect)
+  Places vs Social Relationships: diff=-0.0045, p-adj=0.0000, Cohen's d=0.27 (small effect)
+  Places vs Spatial Concepts: diff=0.0346, p-adj=0.0000, Cohen's d=-0.98 (large effect)
+  Places vs Time Concepts: diff=0.0085, p-adj=0.0000, Cohen's d=-0.38 (small effect)
+  Plants vs Social Relationships: diff=0.0061, p-adj=0.0000, Cohen's d=-0.43 (small effect)
+  Plants vs Spatial Concepts: diff=0.0452, p-adj=0.0000, Cohen's d=-1.33 (large effect)
+  Plants vs Time Concepts: diff=0.0191, p-adj=0.0000, Cohen's d=-0.95 (large effect)
+  Social Relationships vs Spatial Concepts: diff=0.0391, p-adj=0.0000, Cohen's d=-1.14 (large effect)
+  Social Relationships vs Time Concepts: diff=0.0130, p-adj=0.0000, Cohen's d=-0.63 (medium effect)
+  Spatial Concepts vs Time Concepts: diff=-0.0261, p-adj=0.0000, Cohen's d=0.70 (medium effect)
+
+JaccardDistance by NounCategory: ANOVA p-value = 0.0000. Significant difference found across noun categories.
+Significant pairs (56):
+  Abstract Concepts vs Cultural Artifacts: diff=-0.0836, p-adj=0.0000, Cohen's d=0.64 (medium effect)
+  Abstract Concepts vs Food Items: diff=-0.0364, p-adj=0.0000, Cohen's d=0.25 (small effect)
+  Abstract Concepts vs Human Roles: diff=0.0343, p-adj=0.0000, Cohen's d=-0.24 (small effect)
+  Abstract Concepts vs Inanimate Objects: diff=-0.0388, p-adj=0.0000, Cohen's d=0.26 (small effect)
+  Abstract Concepts vs Neutral Animals: diff=-0.0732, p-adj=0.0000, Cohen's d=0.52 (medium effect)
+  Abstract Concepts vs Places: diff=-0.0424, p-adj=0.0000, Cohen's d=0.30 (small effect)
+  Abstract Concepts vs Plants: diff=-0.1290, p-adj=0.0000, Cohen's d=1.01 (large effect)
+  Abstract Concepts vs Social Relationships: diff=-0.0346, p-adj=0.0000, Cohen's d=0.25 (small effect)
+  Abstract Concepts vs Spatial Concepts: diff=0.1254, p-adj=0.0000, Cohen's d=-0.75 (medium effect)
+  Cultural Artifacts vs Environmental Phenomena: diff=0.0924, p-adj=0.0000, Cohen's d=-0.67 (medium effect)
+  Cultural Artifacts vs Food Items: diff=0.0472, p-adj=0.0000, Cohen's d=-0.34 (small effect)
+  Cultural Artifacts vs Human Roles: diff=0.1179, p-adj=0.0000, Cohen's d=-0.89 (large effect)
+  Cultural Artifacts vs Inanimate Objects: diff=0.0448, p-adj=0.0000, Cohen's d=-0.32 (small effect)
+  Cultural Artifacts vs Places: diff=0.0412, p-adj=0.0000, Cohen's d=-0.31 (small effect)
+  Cultural Artifacts vs Plants: diff=-0.0455, p-adj=0.0000, Cohen's d=0.38 (small effect)
+  Cultural Artifacts vs Social Relationships: diff=0.0490, p-adj=0.0000, Cohen's d=-0.37 (small effect)
+  Cultural Artifacts vs Spatial Concepts: diff=0.2089, p-adj=0.0000, Cohen's d=-1.31 (large effect)
+  Cultural Artifacts vs Time Concepts: diff=0.0902, p-adj=0.0000, Cohen's d=-0.58 (medium effect)
+  Environmental Phenomena vs Food Items: diff=-0.0452, p-adj=0.0000, Cohen's d=0.29 (small effect)
+  Environmental Phenomena vs Human Roles: diff=0.0255, p-adj=0.0000, Cohen's d=-0.17 (negligible effect)
+  Environmental Phenomena vs Inanimate Objects: diff=-0.0476, p-adj=0.0000, Cohen's d=0.31 (small effect)
+  Environmental Phenomena vs Neutral Animals: diff=-0.0820, p-adj=0.0000, Cohen's d=0.56 (medium effect)
+  Environmental Phenomena vs Places: diff=-0.0512, p-adj=0.0000, Cohen's d=0.34 (small effect)
+  Environmental Phenomena vs Plants: diff=-0.1379, p-adj=0.0000, Cohen's d=1.01 (large effect)
+  Environmental Phenomena vs Social Relationships: diff=-0.0434, p-adj=0.0000, Cohen's d=0.29 (small effect)
+  Environmental Phenomena vs Spatial Concepts: diff=0.1165, p-adj=0.0000, Cohen's d=-0.67 (medium effect)
+  Food Items vs Human Roles: diff=0.0707, p-adj=0.0000, Cohen's d=-0.47 (small effect)
+  Food Items vs Neutral Animals: diff=-0.0368, p-adj=0.0000, Cohen's d=0.25 (small effect)
+  Food Items vs Plants: diff=-0.0927, p-adj=0.0000, Cohen's d=0.67 (medium effect)
+  Food Items vs Spatial Concepts: diff=0.1617, p-adj=0.0000, Cohen's d=-0.93 (large effect)
+  Food Items vs Time Concepts: diff=0.0430, p-adj=0.0000, Cohen's d=-0.25 (small effect)
+  Human Roles vs Inanimate Objects: diff=-0.0731, p-adj=0.0000, Cohen's d=0.49 (small effect)
+  Human Roles vs Neutral Animals: diff=-0.1075, p-adj=0.0000, Cohen's d=0.76 (medium effect)
+  Human Roles vs Places: diff=-0.0767, p-adj=0.0000, Cohen's d=0.53 (medium effect)
+  Human Roles vs Plants: diff=-0.1633, p-adj=0.0000, Cohen's d=1.26 (large effect)
+  Human Roles vs Social Relationships: diff=-0.0689, p-adj=0.0000, Cohen's d=0.49 (small effect)
+  Human Roles vs Spatial Concepts: diff=0.0911, p-adj=0.0000, Cohen's d=-0.54 (medium effect)
+  Human Roles vs Time Concepts: diff=-0.0277, p-adj=0.0000, Cohen's d=0.17 (negligible effect)
+  Inanimate Objects vs Neutral Animals: diff=-0.0344, p-adj=0.0000, Cohen's d=0.23 (small effect)
+  Inanimate Objects vs Plants: diff=-0.0902, p-adj=0.0000, Cohen's d=0.65 (medium effect)
+  Inanimate Objects vs Spatial Concepts: diff=0.1642, p-adj=0.0000, Cohen's d=-0.94 (large effect)
+  Inanimate Objects vs Time Concepts: diff=0.0454, p-adj=0.0000, Cohen's d=-0.27 (small effect)
+  Neutral Animals vs Places: diff=0.0308, p-adj=0.0000, Cohen's d=-0.22 (small effect)
+  Neutral Animals vs Plants: diff=-0.0558, p-adj=0.0000, Cohen's d=0.44 (small effect)
+  Neutral Animals vs Social Relationships: diff=0.0386, p-adj=0.0000, Cohen's d=-0.28 (small effect)
+  Neutral Animals vs Spatial Concepts: diff=0.1986, p-adj=0.0000, Cohen's d=-1.19 (large effect)
+  Neutral Animals vs Time Concepts: diff=0.0798, p-adj=0.0000, Cohen's d=-0.49 (small effect)
+  Places vs Plants: diff=-0.0866, p-adj=0.0000, Cohen's d=0.66 (medium effect)
+  Places vs Spatial Concepts: diff=0.1678, p-adj=0.0000, Cohen's d=-0.99 (large effect)
+  Places vs Time Concepts: diff=0.0490, p-adj=0.0000, Cohen's d=-0.30 (small effect)
+  Plants vs Social Relationships: diff=0.0944, p-adj=0.0000, Cohen's d=-0.74 (medium effect)
+  Plants vs Spatial Concepts: diff=0.2544, p-adj=0.0000, Cohen's d=-1.61 (large effect)
+  Plants vs Time Concepts: diff=0.1357, p-adj=0.0000, Cohen's d=-0.89 (large effect)
+  Social Relationships vs Spatial Concepts: diff=0.1600, p-adj=0.0000, Cohen's d=-0.96 (large effect)
+  Social Relationships vs Time Concepts: diff=0.0412, p-adj=0.0000, Cohen's d=-0.25 (small effect)
+  Spatial Concepts vs Time Concepts: diff=-0.1187, p-adj=0.0000, Cohen's d=0.64 (medium effect)
+
+Descriptive Statistics:
+                         count    mean     std
+NounCategory                                  
+Abstract Concepts         3312  0.0271  0.0185
+Cultural Artifacts        3312  0.0168  0.0131
+Environmental Phenomena   3312  0.0257  0.0178
+Food Items                3312  0.0255  0.0207
+Human Roles               3312  0.0286  0.0177
+Inanimate Objects         3312  0.0249  0.0227
+Neutral Animals           3312  0.0162  0.0152
+Places                    3312  0.0238  0.0186
+Plants                    3312  0.0131  0.0129
+Social Relationships      3312  0.0192  0.0151
+Spatial Concepts          3312  0.0583  0.0461
+Time Concepts             3312  0.0322  0.0252
+
+Descriptive Statistics:
+                         count    mean     std
+NounCategory                                  
+Abstract Concepts         3312  0.2580  0.1395
+Cultural Artifacts        3312  0.1744  0.1208
+Environmental Phenomena   3312  0.2668  0.1547
+Food Items                3312  0.2216  0.1560
+Human Roles               3312  0.2923  0.1418
+Inanimate Objects         3312  0.2192  0.1570
+Neutral Animals           3312  0.1848  0.1395
+Places                    3312  0.2156  0.1461
+Plants                    3312  0.1289  0.1160
+Social Relationships      3312  0.2234  0.1398
+Spatial Concepts          3312  0.3834  0.1913
+Time Concepts             3312  0.2646  0.1821

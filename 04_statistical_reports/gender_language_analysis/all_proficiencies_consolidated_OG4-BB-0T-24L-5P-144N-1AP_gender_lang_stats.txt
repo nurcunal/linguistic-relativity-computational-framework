@@ -1,0 +1,80 @@
+Gender Language Analysis:
+
+Grammatical Gender Category Counts:
+  Dual-Gendered: 158400 entries
+  Fully Non-Gendered: 110880 entries
+  Tri-Gendered: 79200 entries
+  Minimal-Gendered: 15840 entries
+
+
+
+--- CosineDistance ---
+ANOVA Table:
+                sum_sq        df          F        PR(>F)
+C(Gender1)    0.058747       3.0  30.834879  6.419575e-20
+Residual    115.682402  182156.0        NaN           NaN
+
+Significant difference found between grammatical gender categories. 
+Tukey HSD Results:
+            Multiple Comparison of Means - Tukey HSD, FWER=0.05             
+============================================================================
+      group1             group2       meandiff p-adj   lower   upper  reject
+----------------------------------------------------------------------------
+     Dual-Gendered Fully Non-Gendered  -0.0002 0.6416 -0.0006  0.0002  False
+     Dual-Gendered   Minimal-Gendered  -0.0017    0.0 -0.0023 -0.0011   True
+     Dual-Gendered       Tri-Gendered  -0.0011    0.0 -0.0015 -0.0007   True
+Fully Non-Gendered   Minimal-Gendered  -0.0015    0.0 -0.0022 -0.0009   True
+Fully Non-Gendered       Tri-Gendered  -0.0009    0.0 -0.0014 -0.0004   True
+  Minimal-Gendered       Tri-Gendered   0.0006 0.0394     0.0  0.0013   True
+----------------------------------------------------------------------------
+
+Cohen's d for Significant Pairs:
+  Dual-Gendered vs Minimal-Gendered: d = 0.067 (negligible effect)
+  Dual-Gendered vs Tri-Gendered: d = 0.042 (negligible effect)
+  Fully Non-Gendered vs Minimal-Gendered: d = 0.060 (negligible effect)
+  Fully Non-Gendered vs Tri-Gendered: d = 0.035 (negligible effect)
+  Minimal-Gendered vs Tri-Gendered: d = -0.027 (negligible effect)
+
+Descriptive Statistics:
+                    count    mean     std
+Gender1                                  
+Dual-Gendered       95760  0.0272  0.0257
+Fully Non-Gendered  35280  0.0270  0.0258
+Minimal-Gendered    15120  0.0255  0.0238
+Tri-Gendered        36000  0.0262  0.0238
+
+
+--- JaccardDistance ---
+ANOVA Table:
+                 sum_sq        df          F        PR(>F)
+C(Gender1)     2.094056       3.0  25.167431  2.849419e-16
+Residual    5052.097530  182156.0        NaN           NaN
+
+Significant difference found between grammatical gender categories. 
+Tukey HSD Results:
+            Multiple Comparison of Means - Tukey HSD, FWER=0.05             
+============================================================================
+      group1             group2       meandiff p-adj   lower   upper  reject
+----------------------------------------------------------------------------
+     Dual-Gendered Fully Non-Gendered  -0.0014 0.5456  -0.004  0.0013  False
+     Dual-Gendered   Minimal-Gendered  -0.0115    0.0 -0.0152 -0.0077   True
+     Dual-Gendered       Tri-Gendered  -0.0051    0.0 -0.0078 -0.0025   True
+Fully Non-Gendered   Minimal-Gendered  -0.0101    0.0 -0.0142 -0.0059   True
+Fully Non-Gendered       Tri-Gendered  -0.0038 0.0138  -0.007 -0.0006   True
+  Minimal-Gendered       Tri-Gendered   0.0063 0.0005  0.0022  0.0105   True
+----------------------------------------------------------------------------
+
+Cohen's d for Significant Pairs:
+  Dual-Gendered vs Minimal-Gendered: d = 0.068 (negligible effect)
+  Dual-Gendered vs Tri-Gendered: d = 0.031 (negligible effect)
+  Fully Non-Gendered vs Minimal-Gendered: d = 0.061 (negligible effect)
+  Fully Non-Gendered vs Tri-Gendered: d = 0.023 (negligible effect)
+  Minimal-Gendered vs Tri-Gendered: d = -0.039 (negligible effect)
+
+Descriptive Statistics:
+                    count    mean     std
+Gender1                                  
+Dual-Gendered       95760  0.2423  0.1679
+Fully Non-Gendered  35280  0.2410  0.1674
+Minimal-Gendered    15120  0.2309  0.1636
+Tri-Gendered        36000  0.2372  0.1633

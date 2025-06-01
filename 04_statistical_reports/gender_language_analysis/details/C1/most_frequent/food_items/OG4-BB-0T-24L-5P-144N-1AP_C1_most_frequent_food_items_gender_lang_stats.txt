@@ -1,0 +1,42 @@
+Gender Language Analysis:
+
+Grammatical Gender Category Counts:
+  Dual-Gendered: 2640 entries
+  Fully Non-Gendered: 1848 entries
+  Tri-Gendered: 1320 entries
+  Minimal-Gendered: 264 entries
+
+
+
+--- CosineDistance ---
+ANOVA Table:
+              sum_sq      df         F    PR(>F)
+C(Gender1)  0.004418     3.0  1.588657  0.189996
+Residual    2.810926  3032.0       NaN       NaN
+
+No significant difference found between grammatical gender categories (p = 0.1900).
+
+Descriptive Statistics:
+                    count    mean     std
+Gender1                                  
+Dual-Gendered        1596  0.0351  0.0306
+Fully Non-Gendered    588  0.0319  0.0289
+Minimal-Gendered      252  0.0341  0.0322
+Tri-Gendered          600  0.0340  0.0307
+
+
+--- JaccardDistance ---
+ANOVA Table:
+               sum_sq      df         F    PR(>F)
+C(Gender1)   0.216559     3.0  2.226477  0.083077
+Residual    98.302747  3032.0       NaN       NaN
+
+No significant difference found between grammatical gender categories (p = 0.0831).
+
+Descriptive Statistics:
+                    count    mean     std
+Gender1                                  
+Dual-Gendered        1596  0.2880  0.1795
+Fully Non-Gendered    588  0.2697  0.1711
+Minimal-Gendered      252  0.2662  0.1864
+Tri-Gendered          600  0.2772  0.1871

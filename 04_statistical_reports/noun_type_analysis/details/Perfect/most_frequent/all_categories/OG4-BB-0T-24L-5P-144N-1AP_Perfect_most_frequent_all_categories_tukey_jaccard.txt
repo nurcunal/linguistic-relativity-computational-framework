@@ -1,0 +1,71 @@
+                 Multiple Comparison of Means - Tukey HSD, FWER=0.05                  
+======================================================================================
+         group1                  group2         meandiff p-adj   lower   upper  reject
+--------------------------------------------------------------------------------------
+      Abstract Concepts      Cultural Artifacts  -0.0376    0.0 -0.0504 -0.0247   True
+      Abstract Concepts Environmental Phenomena  -0.0792    0.0  -0.092 -0.0664   True
+      Abstract Concepts              Food Items  -0.0883    0.0 -0.1011 -0.0754   True
+      Abstract Concepts             Human Roles  -0.0216    0.0 -0.0344 -0.0088   True
+      Abstract Concepts       Inanimate Objects  -0.0442    0.0  -0.057 -0.0313   True
+      Abstract Concepts         Neutral Animals  -0.0603    0.0 -0.0731 -0.0474   True
+      Abstract Concepts                  Places  -0.0285    0.0 -0.0413 -0.0156   True
+      Abstract Concepts                  Plants  -0.0484    0.0 -0.0613 -0.0356   True
+      Abstract Concepts    Social Relationships  -0.0068 0.8476 -0.0197   0.006  False
+      Abstract Concepts        Spatial Concepts   0.1667    0.0  0.1539  0.1795   True
+      Abstract Concepts           Time Concepts  -0.0221    0.0  -0.035 -0.0093   True
+     Cultural Artifacts Environmental Phenomena  -0.0416    0.0 -0.0544 -0.0288   True
+     Cultural Artifacts              Food Items  -0.0507    0.0 -0.0635 -0.0378   True
+     Cultural Artifacts             Human Roles    0.016 0.0027  0.0032  0.0288   True
+     Cultural Artifacts       Inanimate Objects  -0.0066 0.8775 -0.0194  0.0062  False
+     Cultural Artifacts         Neutral Animals  -0.0227    0.0 -0.0355 -0.0098   True
+     Cultural Artifacts                  Places   0.0091  0.463 -0.0037  0.0219  False
+     Cultural Artifacts                  Plants  -0.0108 0.1976 -0.0237   0.002  False
+     Cultural Artifacts    Social Relationships   0.0307    0.0  0.0179  0.0436   True
+     Cultural Artifacts        Spatial Concepts   0.2043    0.0  0.1915  0.2171   True
+     Cultural Artifacts           Time Concepts   0.0155 0.0047  0.0026  0.0283   True
+Environmental Phenomena              Food Items  -0.0091 0.4699 -0.0219  0.0038  False
+Environmental Phenomena             Human Roles   0.0576    0.0  0.0448  0.0704   True
+Environmental Phenomena       Inanimate Objects    0.035    0.0  0.0222  0.0478   True
+Environmental Phenomena         Neutral Animals   0.0189 0.0001  0.0061  0.0318   True
+Environmental Phenomena                  Places   0.0507    0.0  0.0379  0.0635   True
+Environmental Phenomena                  Plants   0.0308    0.0  0.0179  0.0436   True
+Environmental Phenomena    Social Relationships   0.0723    0.0  0.0595  0.0852   True
+Environmental Phenomena        Spatial Concepts   0.2459    0.0  0.2331  0.2587   True
+Environmental Phenomena           Time Concepts   0.0571    0.0  0.0442  0.0699   True
+             Food Items             Human Roles   0.0667    0.0  0.0538  0.0795   True
+             Food Items       Inanimate Objects   0.0441    0.0  0.0312  0.0569   True
+             Food Items         Neutral Animals    0.028    0.0  0.0152  0.0408   True
+             Food Items                  Places   0.0598    0.0  0.0469  0.0726   True
+             Food Items                  Plants   0.0398    0.0   0.027  0.0527   True
+             Food Items    Social Relationships   0.0814    0.0  0.0686  0.0942   True
+             Food Items        Spatial Concepts    0.255    0.0  0.2421  0.2678   True
+             Food Items           Time Concepts   0.0661    0.0  0.0533   0.079   True
+            Human Roles       Inanimate Objects  -0.0226    0.0 -0.0354 -0.0098   True
+            Human Roles         Neutral Animals  -0.0387    0.0 -0.0515 -0.0258   True
+            Human Roles                  Places  -0.0069 0.8426 -0.0197  0.0059  False
+            Human Roles                  Plants  -0.0268    0.0 -0.0397  -0.014   True
+            Human Roles    Social Relationships   0.0147 0.0095  0.0019  0.0276   True
+            Human Roles        Spatial Concepts   0.1883    0.0  0.1755  0.2011   True
+            Human Roles           Time Concepts  -0.0005    1.0 -0.0134  0.0123  False
+      Inanimate Objects         Neutral Animals  -0.0161 0.0025 -0.0289 -0.0032   True
+      Inanimate Objects                  Places   0.0157 0.0037  0.0029  0.0285   True
+      Inanimate Objects                  Plants  -0.0042 0.9956 -0.0171  0.0086  False
+      Inanimate Objects    Social Relationships   0.0373    0.0  0.0245  0.0502   True
+      Inanimate Objects        Spatial Concepts   0.2109    0.0  0.1981  0.2237   True
+      Inanimate Objects           Time Concepts   0.0221    0.0  0.0092  0.0349   True
+        Neutral Animals                  Places   0.0318    0.0  0.0189  0.0446   True
+        Neutral Animals                  Plants   0.0118 0.1041  -0.001  0.0247  False
+        Neutral Animals    Social Relationships   0.0534    0.0  0.0406  0.0662   True
+        Neutral Animals        Spatial Concepts    0.227    0.0  0.2141  0.2398   True
+        Neutral Animals           Time Concepts   0.0381    0.0  0.0253   0.051   True
+                 Places                  Plants  -0.0199    0.0 -0.0328 -0.0071   True
+                 Places    Social Relationships   0.0216    0.0  0.0088  0.0345   True
+                 Places        Spatial Concepts   0.1952    0.0  0.1823   0.208   True
+                 Places           Time Concepts   0.0064 0.9032 -0.0065  0.0192  False
+                 Plants    Social Relationships   0.0416    0.0  0.0287  0.0544   True
+                 Plants        Spatial Concepts   0.2151    0.0  0.2023   0.228   True
+                 Plants           Time Concepts   0.0263    0.0  0.0135  0.0391   True
+   Social Relationships        Spatial Concepts   0.1736    0.0  0.1607  0.1864   True
+   Social Relationships           Time Concepts  -0.0153 0.0057 -0.0281 -0.0024   True
+       Spatial Concepts           Time Concepts  -0.1888    0.0 -0.2017  -0.176   True
+--------------------------------------------------------------------------------------

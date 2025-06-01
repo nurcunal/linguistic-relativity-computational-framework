@@ -1,0 +1,58 @@
+Gender Language Analysis:
+
+Grammatical Gender Category Counts:
+  Dual-Gendered: 2640 entries
+  Fully Non-Gendered: 1848 entries
+  Tri-Gendered: 1320 entries
+  Minimal-Gendered: 264 entries
+
+
+
+--- CosineDistance ---
+ANOVA Table:
+              sum_sq      df         F   PR(>F)
+C(Gender1)  0.002429     3.0  2.089574  0.09948
+Residual    1.174820  3032.0       NaN      NaN
+
+No significant difference found between grammatical gender categories (p = 0.0995).
+
+Descriptive Statistics:
+                    count    mean     std
+Gender1                                  
+Dual-Gendered        1596  0.0273  0.0192
+Fully Non-Gendered    588  0.0273  0.0197
+Minimal-Gendered      252  0.0280  0.0213
+Tri-Gendered          600  0.0252  0.0202
+
+
+--- JaccardDistance ---
+ANOVA Table:
+               sum_sq      df         F    PR(>F)
+C(Gender1)   0.338358     3.0  5.371991  0.001094
+Residual    63.657361  3032.0       NaN       NaN
+
+Significant difference found between grammatical gender categories. 
+Tukey HSD Results:
+            Multiple Comparison of Means - Tukey HSD, FWER=0.05             
+============================================================================
+      group1             group2       meandiff p-adj   lower   upper  reject
+----------------------------------------------------------------------------
+     Dual-Gendered Fully Non-Gendered   0.0021 0.9905 -0.0159  0.0201  False
+     Dual-Gendered   Minimal-Gendered   0.0001    1.0 -0.0251  0.0254  False
+     Dual-Gendered       Tri-Gendered  -0.0259 0.0011 -0.0437 -0.0081   True
+Fully Non-Gendered   Minimal-Gendered   -0.002 0.9979   -0.03  0.0261  False
+Fully Non-Gendered       Tri-Gendered   -0.028 0.0048 -0.0496 -0.0064   True
+  Minimal-Gendered       Tri-Gendered  -0.0261 0.0781  -0.054  0.0019  False
+----------------------------------------------------------------------------
+
+Cohen's d for Significant Pairs:
+  Dual-Gendered vs Tri-Gendered: d = 0.177 (negligible effect)
+  Fully Non-Gendered vs Tri-Gendered: d = 0.199 (negligible effect)
+
+Descriptive Statistics:
+                    count    mean     std
+Gender1                                  
+Dual-Gendered        1596  0.2791  0.1480
+Fully Non-Gendered    588  0.2812  0.1395
+Minimal-Gendered      252  0.2793  0.1452
+Tri-Gendered          600  0.2532  0.1416
