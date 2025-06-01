@@ -112,6 +112,10 @@ def run_acoustic_reasoning_analysis():
     analyze_acoustic_accuracy(df_scored)
     print(f"Acoustic Reasoning analysis outputs saved in: {ANALYSIS_OUTPUT_DIR}")
 
+def run_acoustic_reasoning_experiment():
+    """Runs the acoustic reasoning experiment analysis."""
+    run_acoustic_reasoning_analysis()
+
 if __name__ == '__main__':
     run_acoustic_reasoning_analysis()
     print("\nAcoustic Reasoning (Sound Waves) Experiment Analysis Complete.") 

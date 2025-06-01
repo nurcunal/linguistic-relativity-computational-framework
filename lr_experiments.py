@@ -22,8 +22,8 @@ from lr_experiment_functions.quantitative_reasoning_experiment import run_quanti
 from lr_experiment_functions.acoustic_reasoning_experiment import run_acoustic_reasoning_experiment
 
 # Import our new analysis tools
-import llm_config_assessment
-import embedder_assessment
+from lr_analysis_functions import llm_config_assessment
+from lr_analysis_functions import embedder_assessment
 
 INPUTS_DIR = os.path.join(current_dir, "inputs") # Define for load_grammatical_genders
 

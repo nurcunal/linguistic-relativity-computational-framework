@@ -36,6 +36,10 @@ def analyze_temporal_reasoning():
     print("Placeholder: Temporal reasoning analysis logic needs to be implemented.")
     print(f"Temporal Reasoning analysis outputs would be saved in: {ANALYSIS_OUTPUT_DIR}")
 
+def run_temporal_reasoning_experiment():
+    """Runs the temporal reasoning experiment analysis."""
+    analyze_temporal_reasoning()
+
 if __name__ == '__main__':
     analyze_temporal_reasoning()
     print("\nTemporal Reasoning Experiment Analysis Complete (Placeholder).") 

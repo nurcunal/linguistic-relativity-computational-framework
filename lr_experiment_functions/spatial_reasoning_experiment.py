@@ -106,6 +106,10 @@ def run_spatial_reasoning_analysis():
 
     print(f"Spatial Reasoning analysis outputs saved in: {ANALYSIS_OUTPUT_DIR}")
 
+def run_spatial_reasoning_experiment():
+    """Runs the spatial reasoning experiment analysis."""
+    run_spatial_reasoning_analysis()
+
 if __name__ == '__main__':
     run_spatial_reasoning_analysis()
     print("\nSpatial Reasoning Experiment Analysis Complete.") 

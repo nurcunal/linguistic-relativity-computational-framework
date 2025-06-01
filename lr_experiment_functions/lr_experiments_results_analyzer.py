@@ -2865,7 +2865,7 @@ class LRExperimentAnalyzer:
 
         sources = [
             ("api_generations/lr_experiments", "Original API generations"),
-            ("api_generations/lr_experiments_english", "English-only API generations (new)")
+            ("api_generations/lr_experiments_english", "English-only API generations")
         ]
 
         # Check if these directories actually exist

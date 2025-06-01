@@ -36,6 +36,10 @@ def analyze_quantitative_reasoning():
     print("Placeholder: Quantitative reasoning analysis logic needs to be implemented.")
     print(f"Quantitative Reasoning analysis outputs would be saved in: {ANALYSIS_OUTPUT_DIR}")
 
+def run_quantitative_reasoning_experiment():
+    """Runs the quantitative reasoning experiment analysis."""
+    analyze_quantitative_reasoning()
+
 if __name__ == '__main__':
     analyze_quantitative_reasoning()
     print("\nQuantitative Reasoning Experiment Analysis Complete (Placeholder).") 

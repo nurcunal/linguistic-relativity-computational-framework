@@ -6,7 +6,7 @@ It imports functionality from the lr_analysis_functions modules.
 """
 
 import csv
-import embedding_models
+from lr_analysis_functions import embedding_models
 import glob
 import json
 import os
